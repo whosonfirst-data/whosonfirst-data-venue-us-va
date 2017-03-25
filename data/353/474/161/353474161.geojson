@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.104641,38.929417,-77.104641,38.929417",
     "geom:latitude":38.929417,
     "geom:longitude":-77.104641,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85828105,
+        102191575,
+        1108723661,
         85633793,
-        101729469,
-        102085953,
-        85842925
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"b31a9117d3e19577d30f51b13c87b60e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
-            "neighbourhood_id":85842925,
-            "region_id":85688747,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":85828105,
+            "region_id":85688741,
             "venue_id":353474161
         }
     ],
     "wof:id":353474161,
-    "wof:lastmodified":1472651067,
+    "wof:lastmodified":1490401846,
     "wof:name":"New World Lines",
-    "wof:parent_id":85842925,
+    "wof:parent_id":85828105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],
