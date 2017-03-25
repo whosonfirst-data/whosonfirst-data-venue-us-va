@@ -2,9 +2,14 @@
   "id": 723088891,
   "type": "Feature",
   "properties": {
+    "addr:full":"3319 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3319",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.088453,38.808541,-77.088453,38.808541",
     "geom:latitude":38.808541,
     "geom:longitude":-77.088453,
@@ -24,7 +29,15 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BQcZcDmzD1N0IB4IHKSVa_38.808541_-77.088453@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461894898,
     "wof:geomhash":"d1bb3457354c68465860a5dca151f617",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723088891
+        }
+    ],
     "wof:id":723088891,
-    "wof:lastmodified":1467088074,
+    "wof:lastmodified":1490400332,
     "wof:name":"Marsha H Murphy CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

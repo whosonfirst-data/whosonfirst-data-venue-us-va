@@ -2,9 +2,14 @@
   "id": 722818923,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Notabene Dr Alexandria VA 22305",
+    "addr:housenumber":"607",
+    "addr:postcode":"22305",
+    "addr:street":"Notabene Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.067465,38.842162,-77.067465,38.842162",
     "geom:latitude":38.842162,
     "geom:longitude":-77.067465,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jHEhp1HQoP8yJnLr0sq1g_38.842162_-77.067465@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461889231,
     "wof:geomhash":"f4e019d4daac0965a42f1a0def1bf33e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":722818923
+        }
+    ],
     "wof:id":722818923,
-    "wof:lastmodified":1467087878,
+    "wof:lastmodified":1490398435,
     "wof:name":"Community Lodgings Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

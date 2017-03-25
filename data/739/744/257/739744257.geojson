@@ -2,9 +2,14 @@
   "id": 739744257,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 S. St. Asaph St. Suite 4 Alexandria VA 22314",
+    "addr:housenumber":"305",
+    "addr:postcode":"22314",
+    "addr:street":"S. St. Asaph St. Suite 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.098205,38.816213,-77.098205,38.816213",
     "geom:latitude":38.816213,
     "geom:longitude":-77.098205,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.dcmetrofoodtours.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875847
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,13 +58,14 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "macrohood_id":1108724981,
             "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739744257
         }
     ],
     "wof:id":739744257,
-    "wof:lastmodified":1467088747,
+    "wof:lastmodified":1490399954,
     "wof:name":"DC Metro Food Tours",
     "wof:parent_id":85875847,
     "wof:placetype":"venue",

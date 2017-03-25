@@ -2,9 +2,14 @@
   "id": 739678921,
   "type": "Feature",
   "properties": {
+    "addr:full":"3744 Keller Ave Alexandria VA 22302",
+    "addr:housenumber":"3744",
+    "addr:postcode":"22302",
+    "addr:street":"Keller Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.094734,38.828792,-77.094734,38.828792",
     "geom:latitude":38.828792,
     "geom:longitude":-77.094734,
@@ -27,7 +32,15 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15PQhwvLSNyKZQxH4sNSRv_38.828792_-77.094734@1303262545"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461912126,
     "wof:geomhash":"eac3a66980a57ea6dded4a156aa5b38d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":739678921
+        }
+    ],
     "wof:id":739678921,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490399979,
     "wof:name":"Sarmes Children",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

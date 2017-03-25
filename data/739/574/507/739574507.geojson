@@ -2,9 +2,14 @@
   "id": 739574507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1316 Queen St Alexandria VA 22314",
+    "addr:housenumber":"1316",
+    "addr:postcode":"22314",
+    "addr:street":"Queen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053213,38.808193,-77.053213,38.808193",
     "geom:latitude":38.808193,
     "geom:longitude":-77.053213,
@@ -33,12 +38,13 @@
     "sg:website":"http://www.medtoxinfo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724989,
+        85875827,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875843
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875843,
+            "microhood_id":1108724989,
+            "neighbourhood_id":85875827,
             "region_id":85688747,
             "venue_id":739574507
         }
     ],
     "wof:id":739574507,
-    "wof:lastmodified":1467088623,
+    "wof:lastmodified":1490400318,
     "wof:name":"Medical & Toxicological Inform",
-    "wof:parent_id":85875843,
+    "wof:parent_id":1108724989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

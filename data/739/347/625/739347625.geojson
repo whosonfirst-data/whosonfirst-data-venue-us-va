@@ -2,9 +2,14 @@
   "id": 739347625,
   "type": "Feature",
   "properties": {
+    "addr:full":"1755 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1755",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.063406,38.804835,-77.063406,38.804835",
     "geom:latitude":38.804835,
     "geom:longitude":-77.063406,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50A7IqJNpaEIeuIdg3MAMK_38.804835_-77.063406@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461905561,
     "wof:geomhash":"ef8297ae9cd2b83d1b71e47acfe65679",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739347625
+        }
+    ],
     "wof:id":739347625,
-    "wof:lastmodified":1467088459,
+    "wof:lastmodified":1490400202,
     "wof:name":"Alonzo M Bell DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

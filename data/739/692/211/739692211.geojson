@@ -2,9 +2,14 @@
   "id": 739692211,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 S Pitt St Apt 328 Alexandria VA 22314",
+    "addr:housenumber":"801;328",
+    "addr:postcode":"22314",
+    "addr:street":"S Pitt St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.046471,38.796638,-77.046471,38.796638",
     "geom:latitude":38.796638,
     "geom:longitude":-77.046471,
@@ -28,7 +33,14 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63d0I0XAc6wH7odExwZpTY_38.796638_-77.046471@1303262546"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912386,
     "wof:geomhash":"ba16f1b2301f3363f8324841676c9256",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":739692211
+        }
+    ],
     "wof:id":739692211,
-    "wof:lastmodified":1467088709,
+    "wof:lastmodified":1490399815,
     "wof:name":"Gorman Real Est Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

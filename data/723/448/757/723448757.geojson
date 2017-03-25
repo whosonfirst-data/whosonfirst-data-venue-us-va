@@ -2,9 +2,14 @@
   "id": 723448757,
   "type": "Feature",
   "properties": {
+    "addr:full":"5671 Derby Ct Alexandria VA 22311",
+    "addr:housenumber":"5671",
+    "addr:postcode":"22311",
+    "addr:street":"Derby Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.12997,38.828198,-77.12997,38.828198",
     "geom:latitude":38.828198,
     "geom:longitude":-77.12997,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        420781825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875825,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
             "region_id":85688747,
             "venue_id":723448757
         }
     ],
     "wof:id":723448757,
-    "wof:lastmodified":1467088336,
+    "wof:lastmodified":1490400073,
     "wof:name":"Kalev Kruuk",
-    "wof:parent_id":85875825,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

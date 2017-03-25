@@ -2,9 +2,14 @@
   "id": 739399047,
   "type": "Feature",
   "properties": {
+    "addr:full":"5518 Dawes Ave Alexandria VA 22311",
+    "addr:housenumber":"5518",
+    "addr:postcode":"22311",
+    "addr:street":"Dawes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124529,38.83794,-77.124529,38.83794",
     "geom:latitude":38.83794,
     "geom:longitude":-77.124529,
@@ -27,7 +32,15 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D7l9Mtuxr129jVDXGkBMI_38.837940_-77.124529@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461906567,
     "wof:geomhash":"d27c9152c02eb3d0953e116e9cdd3b2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739399047
+        }
+    ],
     "wof:id":739399047,
-    "wof:lastmodified":1467088497,
+    "wof:lastmodified":1490399708,
     "wof:name":"Thread Technique Team",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

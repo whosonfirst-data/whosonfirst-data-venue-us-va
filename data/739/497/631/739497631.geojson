@@ -2,9 +2,14 @@
   "id": 739497631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 Coventry Ln Alexandria VA 22304",
+    "addr:housenumber":"1410",
+    "addr:postcode":"22304",
+    "addr:street":"Coventry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087075,38.812231,-77.087075,38.812231",
     "geom:latitude":38.812231,
     "geom:longitude":-77.087075,
@@ -27,7 +32,15 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m3mG5ms6w6ocnObtOfNse_38.812231_-77.087075@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461908386,
     "wof:geomhash":"c3f888f8ff86aa9f91a40eb88c4e8746",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739497631
+        }
+    ],
     "wof:id":739497631,
-    "wof:lastmodified":1467088568,
+    "wof:lastmodified":1490400336,
     "wof:name":"Intervest Financial",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

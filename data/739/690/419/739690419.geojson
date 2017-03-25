@@ -2,9 +2,14 @@
   "id": 739690419,
   "type": "Feature",
   "properties": {
+    "addr:full":"1456 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1456",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.057349,38.804031,-77.057349,38.804031",
     "geom:latitude":38.804031,
     "geom:longitude":-77.057349,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"http://www.marriott.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vWP6K0rEBaHzlX7Cu2p5q_38.804031_-77.057349@1303262546"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461912348,
     "wof:geomhash":"a105d9405df17de40035b38d3cdfcc4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739690419
+        }
+    ],
     "wof:id":739690419,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490400229,
     "wof:name":"Residence Inn by Marriott Alexandria Old Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

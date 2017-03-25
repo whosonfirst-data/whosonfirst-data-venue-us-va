@@ -2,9 +2,14 @@
   "id": 739682485,
   "type": "Feature",
   "properties": {
+    "addr:full":"3805 Mount Vernon Ave Ste A Alexandria VA 22305",
+    "addr:housenumber":"3805",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.063004,38.840599,-77.063004,38.840599",
     "geom:latitude":38.840599,
     "geom:longitude":-77.063004,
@@ -27,7 +32,14 @@
         "bookstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CXhdRouPXTAsgjdwG7DrB_38.840599_-77.063004@1303262545"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461912196,
     "wof:geomhash":"fa9b82c281b65f741acd8aaf10dfdad4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739682485
+        }
+    ],
     "wof:id":739682485,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490398674,
     "wof:name":"Liberia Cristo Es La Respuesta",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

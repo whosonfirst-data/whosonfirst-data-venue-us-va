@@ -2,9 +2,14 @@
   "id": 723179949,
   "type": "Feature",
   "properties": {
+    "addr:full":"5420 Gary Pl Alexandria VA 22311",
+    "addr:housenumber":"5420",
+    "addr:postcode":"22311",
+    "addr:street":"Gary Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.123464,38.836147,-77.123464,38.836147",
     "geom:latitude":38.836147,
     "geom:longitude":-77.123464,
@@ -26,12 +31,13 @@
     "sg:website":"www.barbatoassociates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,13 +52,14 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "macrohood_id":1108724981,
             "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":723179949
         }
     ],
     "wof:id":723179949,
-    "wof:lastmodified":1467088141,
+    "wof:lastmodified":1490399699,
     "wof:name":"Barbato Associates",
     "wof:parent_id":85875825,
     "wof:placetype":"venue",

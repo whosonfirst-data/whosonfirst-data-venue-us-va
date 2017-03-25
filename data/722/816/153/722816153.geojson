@@ -2,9 +2,14 @@
   "id": 722816153,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 N French St Alexandria VA 22304",
+    "addr:housenumber":"134",
+    "addr:postcode":"22304",
+    "addr:street":"N French St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099486,38.812973,-77.099486,38.812973",
     "geom:latitude":38.812973,
     "geom:longitude":-77.099486,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725011,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +56,17 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547825,
+            "macrohood_id":1108724981,
+            "microhood_id":1108725011,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":722816153
         }
     ],
     "wof:id":722816153,
-    "wof:lastmodified":1467087876,
+    "wof:lastmodified":1490400354,
     "wof:name":"Green Fence",
-    "wof:parent_id":420547825,
+    "wof:parent_id":1108725011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739265561,
   "type": "Feature",
   "properties": {
+    "addr:full":"3167 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3167",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.086706,38.808234,-77.086706,38.808234",
     "geom:latitude":38.808234,
     "geom:longitude":-77.086706,
@@ -28,7 +33,15 @@
         "weight"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i80NdbWkXAV3gAxKp9yJ4_38.808234_-77.086706@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461903827,
     "wof:geomhash":"d2be44e5a4d7b8d88798c1b0c2594aae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739265561
+        }
+    ],
     "wof:id":739265561,
-    "wof:lastmodified":1467088399,
+    "wof:lastmodified":1490400334,
     "wof:name":"Jenny Craig Weight Loss Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

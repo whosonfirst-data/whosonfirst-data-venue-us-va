@@ -2,9 +2,14 @@
   "id": 722559293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 N Fairfax St Alexandria VA 22314",
+    "addr:housenumber":"1020",
+    "addr:postcode":"22314",
+    "addr:street":"N Fairfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040216,38.815648,-77.040216,38.815648",
     "geom:latitude":38.815648,
     "geom:longitude":-77.040216,
@@ -33,7 +38,14 @@
     ],
     "sg:website":"www.pacperfect.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YM40HJlTzNSV8byJhXrtI_38.815648_-77.040216@1294252573"
@@ -41,11 +53,21 @@
     "wof:country":"US",
     "wof:created":1461884191,
     "wof:geomhash":"2a35400d797464d541e631e5bd10ebf1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":722559293
+        }
+    ],
     "wof:id":722559293,
-    "wof:lastmodified":1467087690,
+    "wof:lastmodified":1490399904,
     "wof:name":"Public Affairs Support Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

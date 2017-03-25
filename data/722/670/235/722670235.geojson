@@ -2,9 +2,14 @@
   "id": 722670235,
   "type": "Feature",
   "properties": {
+    "addr:full":"361 Livermore Ln Alexandria VA 22304",
+    "addr:housenumber":"361",
+    "addr:postcode":"22304",
+    "addr:street":"Livermore Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.123156,38.807077,-77.123156,38.807077",
     "geom:latitude":38.807077,
     "geom:longitude":-77.123156,
@@ -28,7 +33,16 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eKJDIsLz3IGhQeiyoykcB_38.807077_-77.123156@1294252573"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461886402,
     "wof:geomhash":"86bed4aea652026582ecbed4fb64de62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":722670235
+        }
+    ],
     "wof:id":722670235,
-    "wof:lastmodified":1467087772,
+    "wof:lastmodified":1490400315,
     "wof:name":"Stratton Design Source Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739685813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 N Chambliss St Alexandria VA 22311",
+    "addr:housenumber":"2600",
+    "addr:postcode":"22311",
+    "addr:street":"N Chambliss St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.127617,38.836288,-77.127617,38.836288",
     "geom:latitude":38.836288,
     "geom:longitude":-77.127617,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +57,14 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "macrohood_id":1108724981,
             "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739685813
         }
     ],
     "wof:id":739685813,
-    "wof:lastmodified":1467088704,
+    "wof:lastmodified":1490399687,
     "wof:name":"A M P Construction",
     "wof:parent_id":85875825,
     "wof:placetype":"venue",

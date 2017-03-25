@@ -2,9 +2,14 @@
   "id": 723074133,
   "type": "Feature",
   "properties": {
+    "addr:full":"332 Laverne Ave Alexandria VA 22305",
+    "addr:housenumber":"332",
+    "addr:postcode":"22305",
+    "addr:street":"Laverne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054392,38.832819,-77.054392,38.832819",
     "geom:latitude":38.832819,
     "geom:longitude":-77.054392,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85814135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b8bksuFICxSs3BZvryMzA_38.832819_-77.054392@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461894562,
     "wof:geomhash":"66d4e9eadacea23cf540192734277f45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85814135,
+            "region_id":85688747,
+            "venue_id":723074133
+        }
+    ],
     "wof:id":723074133,
-    "wof:lastmodified":1467088063,
+    "wof:lastmodified":1490398443,
     "wof:name":"Halls House of Beauty Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

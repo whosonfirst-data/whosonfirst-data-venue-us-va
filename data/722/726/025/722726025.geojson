@@ -2,9 +2,14 @@
   "id": 722726025,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Martin Ln Alexandria VA 22304",
+    "addr:housenumber":"117",
+    "addr:postcode":"22304",
+    "addr:street":"Martin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.1205,38.811554,-77.1205,38.811554",
     "geom:latitude":38.811554,
     "geom:longitude":-77.1205,
@@ -24,7 +29,16 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R6UEZrv5fdzV89rvrroVN_38.811554_-77.120500@1294252573"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1461887452,
     "wof:geomhash":"2fc1cea0be71f11e295a3d9e0490ddee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":722726025
+        }
+    ],
     "wof:id":722726025,
-    "wof:lastmodified":1467087812,
+    "wof:lastmodified":1490400314,
     "wof:name":"Kevin S Kassees LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

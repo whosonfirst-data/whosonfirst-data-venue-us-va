@@ -2,9 +2,14 @@
   "id": 723223615,
   "type": "Feature",
   "properties": {
+    "addr:full":"1002 Janneys Ln Alexandria VA 22302",
+    "addr:housenumber":"1002",
+    "addr:postcode":"22302",
+    "addr:street":"Janneys Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.082303,38.81443,-77.082303,38.81443",
     "geom:latitude":38.81443,
     "geom:longitude":-77.082303,
@@ -27,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JmiTmYIOl1x9OtcYE1vos_38.814430_-77.082303@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461897569,
     "wof:geomhash":"bcd78e973b3a9d03092f474cd2b89d46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723223615
+        }
+    ],
     "wof:id":723223615,
-    "wof:lastmodified":1467088172,
+    "wof:lastmodified":1490400332,
     "wof:name":"Ritchie & Jackson",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

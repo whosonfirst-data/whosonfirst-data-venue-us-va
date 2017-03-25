@@ -2,9 +2,14 @@
   "id": 723381601,
   "type": "Feature",
   "properties": {
+    "addr:full":"822 S Fairfax St Alexandria VA 22314",
+    "addr:housenumber":"822",
+    "addr:postcode":"22314",
+    "addr:street":"S Fairfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.044371,38.795557,-77.044371,38.795557",
     "geom:latitude":38.795557,
     "geom:longitude":-77.044371,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VMTU2UAh0qsTC1ghLQWzv_38.795557_-77.044371@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461900613,
     "wof:geomhash":"4e4f36c46a1f76822deddbf7b00e1a84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723381601
+        }
+    ],
     "wof:id":723381601,
-    "wof:lastmodified":1467088287,
+    "wof:lastmodified":1490399158,
     "wof:name":"Demerara Ventures LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

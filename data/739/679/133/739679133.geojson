@@ -2,9 +2,14 @@
   "id": 739679133,
   "type": "Feature",
   "properties": {
+    "addr:full":"3526 King St Alexandria VA 22302",
+    "addr:housenumber":"3526",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.089757,38.827699,-77.089757,38.827699",
     "geom:latitude":38.827699,
     "geom:longitude":-77.089757,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.distinctivedesignremodeling.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ef9afJwBP4UZRXAkqrjdO_38.827699_-77.089757@1303262545"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461912129,
     "wof:geomhash":"f889a05e51a21ad48da578cabcd62817",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739679133
+        }
+    ],
     "wof:id":739679133,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490398933,
     "wof:name":"Distinctive Design & Remodeling, Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

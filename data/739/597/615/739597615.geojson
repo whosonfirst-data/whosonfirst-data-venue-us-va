@@ -2,9 +2,14 @@
   "id": 739597615,
   "type": "Feature",
   "properties": {
+    "addr:full":"3231 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3231",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.08603,38.808099,-77.08603,38.808099",
     "geom:latitude":38.808099,
     "geom:longitude":-77.08603,
@@ -28,7 +33,15 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T4KRTk7rCUycNMeO6RH88_38.808044_-77.085467@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461910346,
     "wof:geomhash":"9f2da9037f141d0cd307f29de46e86af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739597615
+        }
+    ],
     "wof:id":739597615,
-    "wof:lastmodified":1467088640,
+    "wof:lastmodified":1490400336,
     "wof:name":"Baja Fresh Mexican Grill",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723014507,
   "type": "Feature",
   "properties": {
+    "addr:full":"6200 Little River Tpke Alexandria VA 22312",
+    "addr:housenumber":"6200",
+    "addr:postcode":"22312",
+    "addr:street":"Little River Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.1406,38.817312,-77.1406,38.817312",
     "geom:latitude":38.817312,
     "geom:longitude":-77.1406,
@@ -29,7 +34,18 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729761,
+        102084863,
+        85830657,
+        85875825,
+        1108724981,
+        101728581,
+        102080641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aS5sjobbG45hh3WBKeSF0_38.817312_-77.140600@1294252573"
@@ -37,11 +53,31 @@
     "wof:country":"US",
     "wof:created":1461893234,
     "wof:geomhash":"a8d61bb9d6f11dc4ffcb5eec683be89a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85830657,
+            "region_id":85688747,
+            "venue_id":723014507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":723014507
+        }
+    ],
     "wof:id":723014507,
-    "wof:lastmodified":1467088019,
+    "wof:lastmodified":1490399691,
     "wof:name":"Yang's Kung Fu",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

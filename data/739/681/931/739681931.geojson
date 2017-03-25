@@ -2,9 +2,14 @@
   "id": 739681931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801A Eisenhower Ave Alexandria VA 22304",
+    "addr:housenumber":"4801a",
+    "addr:postcode":"22304",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.119701,38.803187,-77.119701,38.803187",
     "geom:latitude":38.803187,
     "geom:longitude":-77.119701,
@@ -50,7 +55,15 @@
     ],
     "sg:website":"http://www.ipaindustrial.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70XfqtfyUZOIR9dlARyuOK_38.803187_-77.119701@1303262545"
@@ -58,11 +71,22 @@
     "wof:country":"US",
     "wof:created":1461912181,
     "wof:geomhash":"6a7d23f0c28ea160880ffb16de7e13f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681931
+        }
+    ],
     "wof:id":739681931,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400131,
     "wof:name":"Finishmaster",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

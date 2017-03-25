@@ -2,9 +2,14 @@
   "id": 723190093,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Tower Ct Alexandria VA 22304",
+    "addr:housenumber":"6001",
+    "addr:postcode":"22304",
+    "addr:street":"Tower Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137481,38.814589,-77.137481,38.814589",
     "geom:latitude":38.814589,
     "geom:longitude":-77.137481,
@@ -24,7 +29,15 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pfozY4W1BvPewh1mk4Qf4_38.814589_-77.137481@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461896882,
     "wof:geomhash":"7d493a006d30213923bb38d2f21bde0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723190093
+        }
+    ],
     "wof:id":723190093,
-    "wof:lastmodified":1467088148,
+    "wof:lastmodified":1490400100,
     "wof:name":"Dale Milner",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

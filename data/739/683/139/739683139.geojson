@@ -2,9 +2,14 @@
   "id": 739683139,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3101",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051498,38.833698,-77.051498,38.833698",
     "geom:latitude":38.833698,
     "geom:longitude":-77.051498,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"www.target.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AntMxfhZEkwJ1Z2DPKwhn_38.833698_-77.051498@1303262545"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461912207,
     "wof:geomhash":"ce13d63059e1932c5874396341900011",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547819,
+            "region_id":85688747,
+            "venue_id":739683139
+        }
+    ],
     "wof:id":739683139,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400020,
     "wof:name":"Target",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

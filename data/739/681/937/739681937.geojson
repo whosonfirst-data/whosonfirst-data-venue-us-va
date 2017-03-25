@@ -2,9 +2,14 @@
   "id": 739681937,
   "type": "Feature",
   "properties": {
+    "addr:full":"5500 Holmes Run Pkwy # 1619 Alexandria VA 22304",
+    "addr:housenumber":"5500",
+    "addr:postcode":"22304",
+    "addr:street":"Holmes Run Pkwy # 1619",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.127047,38.818443,-77.127047,38.818443",
     "geom:latitude":38.818443,
     "geom:longitude":-77.127047,
@@ -29,7 +34,15 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VSwdDy3XkVcuN0DkYPnlO_38.818443_-77.127047@1303262545"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461912181,
     "wof:geomhash":"12e2c1f39dbe88cdd3e3d9cc1c91d025",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681937
+        }
+    ],
     "wof:id":739681937,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400136,
     "wof:name":"Mary C Fitzgerald",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

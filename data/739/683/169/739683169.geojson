@@ -2,9 +2,14 @@
   "id": 739683169,
   "type": "Feature",
   "properties": {
+    "addr:full":"3725C Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3725c",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051722,38.83836,-77.051722,38.83836",
     "geom:latitude":38.83836,
     "geom:longitude":-77.051722,
@@ -50,7 +55,14 @@
     ],
     "sg:website":"www.att.com/Wireless",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61s5ARz3vKXhVM6PzPkVq4_38.838360_-77.051722@1303262545"
@@ -58,11 +70,21 @@
     "wof:country":"US",
     "wof:created":1461912207,
     "wof:geomhash":"58beaa7256bac0f4d8d4ed8169d8dac5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739683169
+        }
+    ],
     "wof:id":739683169,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400283,
     "wof:name":"AT&T",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

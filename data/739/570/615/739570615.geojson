@@ -2,9 +2,14 @@
   "id": 739570615,
   "type": "Feature",
   "properties": {
+    "addr:full":"3314 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3314",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051498,38.8353,-77.051498,38.8353",
     "geom:latitude":38.8353,
     "geom:longitude":-77.051498,
@@ -24,7 +29,14 @@
     "sg:postcode":"22305",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JwVS6yNxO6067ZjQibsFx_38.835495_-77.051747@1293134755"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461909790,
     "wof:geomhash":"ede0ad05ea40e2345059173acee002d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739570615
+        }
+    ],
     "wof:id":739570615,
-    "wof:lastmodified":1467088621,
+    "wof:lastmodified":1490400283,
     "wof:name":"Sunrise Carry-Out & Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

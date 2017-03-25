@@ -2,9 +2,14 @@
   "id": 739690055,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Cambridge Rd Alexandria VA 22314",
+    "addr:housenumber":"201",
+    "addr:postcode":"22314",
+    "addr:street":"Cambridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081719,38.807877,-77.081719,38.807877",
     "geom:latitude":38.807877,
     "geom:longitude":-77.081719,
@@ -31,12 +36,13 @@
     "sg:website":"http://www.stwilliamofyork.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724993,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85811479
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85811479,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":739690055
         }
     ],
     "wof:id":739690055,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490400333,
     "wof:name":"Bishop Ireton High School",
-    "wof:parent_id":85811479,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

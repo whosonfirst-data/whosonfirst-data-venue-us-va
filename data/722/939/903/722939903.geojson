@@ -2,9 +2,14 @@
   "id": 722939903,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 S Shirlington Rd Arlington VA 22206",
+    "addr:housenumber":"2800",
+    "addr:postcode":"22206",
+    "addr:street":"S Shirlington Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085596,38.842675,-77.085596,38.842675",
     "geom:latitude":38.842675,
     "geom:longitude":-77.085596,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
-        101729469,
-        102085953,
-        420547823
+        101728581,
+        102080641,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +53,18 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
-            "neighbourhood_id":420547823,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":722939903
         }
     ],
     "wof:id":722939903,
-    "wof:lastmodified":1467087965,
+    "wof:lastmodified":1490400293,
     "wof:name":"Jacer Corp",
-    "wof:parent_id":420547823,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

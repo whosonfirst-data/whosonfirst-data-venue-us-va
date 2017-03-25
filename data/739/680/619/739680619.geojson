@@ -2,9 +2,14 @@
   "id": 739680619,
   "type": "Feature",
   "properties": {
+    "addr:full":"6005 Tower Ct Alexandria VA 22304",
+    "addr:housenumber":"6005",
+    "addr:postcode":"22304",
+    "addr:street":"Tower Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136551,38.814205,-77.136551,38.814205",
     "geom:latitude":38.814205,
     "geom:longitude":-77.136551,
@@ -45,7 +50,15 @@
     ],
     "sg:website":"http://www.salvationarmysouth.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kSQUsg1syazfzG75Av5PP_38.814205_-77.136551@1303262545"
@@ -53,11 +66,22 @@
     "wof:country":"US",
     "wof:created":1461912157,
     "wof:geomhash":"b19e70f177ed6440ca6388e773b15409",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739680619
+        }
+    ],
     "wof:id":739680619,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400124,
     "wof:name":"Salvation Army",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

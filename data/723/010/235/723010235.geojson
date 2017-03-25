@@ -2,9 +2,14 @@
   "id": 723010235,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 Stevenson Ave Alexandria VA 22304",
+    "addr:housenumber":"6101",
+    "addr:postcode":"22304",
+    "addr:street":"Stevenson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.139101,38.813069,-77.139101,38.813069",
     "geom:latitude":38.813069,
     "geom:longitude":-77.139101,
@@ -28,7 +33,15 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b3H0OcSxuUDvYQjAuIKR0_38.813069_-77.139101@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461893146,
     "wof:geomhash":"ae2cbf28da3f5e9bc3bf2bfa3e644cfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723010235
+        }
+    ],
     "wof:id":723010235,
-    "wof:lastmodified":1467088016,
+    "wof:lastmodified":1490400147,
     "wof:name":"JES",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

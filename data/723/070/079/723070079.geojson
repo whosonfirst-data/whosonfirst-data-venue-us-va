@@ -2,9 +2,14 @@
   "id": 723070079,
   "type": "Feature",
   "properties": {
+    "addr:full":"246 Gretna Green Ct Alexandria VA 22304",
+    "addr:housenumber":"246",
+    "addr:postcode":"22304",
+    "addr:street":"Gretna Green Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.123803,38.809754,-77.123803,38.809754",
     "geom:latitude":38.809754,
     "geom:longitude":-77.123803,
@@ -24,7 +29,15 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BIujrW7h7Gs60tOqFOjGv_38.809754_-77.123803@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461894462,
     "wof:geomhash":"2a24dbcc3b50edc3b55e36ce90b0b6c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723070079
+        }
+    ],
     "wof:id":723070079,
-    "wof:lastmodified":1467088060,
+    "wof:lastmodified":1490400142,
     "wof:name":"Alberger Bill Attorney At Law",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

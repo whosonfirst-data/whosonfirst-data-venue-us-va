@@ -2,9 +2,14 @@
   "id": 739577101,
   "type": "Feature",
   "properties": {
+    "addr:full":"6239 N Morgan St Alexandria VA 22312",
+    "addr:housenumber":"6239",
+    "addr:postcode":"22312",
+    "addr:street":"N Morgan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.140135,38.823991,-77.140135,38.823991",
     "geom:latitude":38.823991,
     "geom:longitude":-77.140135,
@@ -29,7 +34,15 @@
         "academic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WQo1l8vV4Y6e2WUh7VIJi_38.824029_-77.140064@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461909944,
     "wof:geomhash":"03360ec7a1565382e2154e20b45dcf06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739577101
+        }
+    ],
     "wof:id":739577101,
-    "wof:lastmodified":1467088625,
+    "wof:lastmodified":1490399683,
     "wof:name":"Rtw Solutions Pllc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

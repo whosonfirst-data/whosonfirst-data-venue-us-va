@@ -2,9 +2,14 @@
   "id": 739682635,
   "type": "Feature",
   "properties": {
+    "addr:full":"3525 Jefferson Davis Highway Alexandria VA 22305",
+    "addr:housenumber":"3525",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Highway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051711,38.836489,-77.051711,38.836489",
     "geom:latitude":38.836489,
     "geom:longitude":-77.051711,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.donpablos.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36NwRfY5FwLhyjShvRmedO_38.836489_-77.051711@1303262545"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912198,
     "wof:geomhash":"981bde63ad1f335f715a910936421e87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739682635
+        }
+    ],
     "wof:id":739682635,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400284,
     "wof:name":"Don Pablo's Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

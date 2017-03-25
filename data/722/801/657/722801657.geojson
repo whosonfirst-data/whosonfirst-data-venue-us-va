@@ -2,9 +2,14 @@
   "id": 722801657,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Commerce St Alexandria VA 22314",
+    "addr:housenumber":"308",
+    "addr:postcode":"22314",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056815,38.804235,-77.056815,38.804235",
     "geom:latitude":38.804235,
     "geom:longitude":-77.056815,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lXfcyP4SctFrIFf7iaTUg_38.804235_-77.056815@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461888918,
     "wof:geomhash":"e1eea50e68eb6219cc10097c051def09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":722801657
+        }
+    ],
     "wof:id":722801657,
-    "wof:lastmodified":1467087866,
+    "wof:lastmodified":1490400223,
     "wof:name":"H T Acquisition Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739557793,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Tennessee Ave Alexandria VA 22305",
+    "addr:housenumber":"800",
+    "addr:postcode":"22305",
+    "addr:street":"Tennessee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.073997,38.841599,-77.073997,38.841599",
     "geom:latitude":38.841599,
     "geom:longitude":-77.073997,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.lloydapartments.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724971,
+        420547829,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vjBVCsDzh86J751LfvsJZ_38.841308_-77.073724@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461909513,
     "wof:geomhash":"e72eebab53abc04802be558d9bc588b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
+            "region_id":85688747,
+            "venue_id":739557793
+        }
+    ],
     "wof:id":739557793,
-    "wof:lastmodified":1467088611,
+    "wof:lastmodified":1490400291,
     "wof:name":"Lloyd Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

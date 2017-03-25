@@ -2,9 +2,14 @@
   "id": 723322735,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Roth St Alexandria VA 22314",
+    "addr:housenumber":"18",
+    "addr:postcode":"22314",
+    "addr:street":"Roth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081236,38.806843,-77.081236,38.806843",
     "geom:latitude":38.806843,
     "geom:longitude":-77.081236,
@@ -28,7 +33,14 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20ddl6OgwXLyPC8ZeYxbsv_38.806843_-77.081236@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461899498,
     "wof:geomhash":"e57cf49aea2052bdb1fe871654aa9cbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723322735
+        }
+    ],
     "wof:id":723322735,
-    "wof:lastmodified":1467088244,
+    "wof:lastmodified":1490400185,
     "wof:name":"Glebe Park Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

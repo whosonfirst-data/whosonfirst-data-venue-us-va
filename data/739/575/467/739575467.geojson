@@ -2,9 +2,14 @@
   "id": 739575467,
   "type": "Feature",
   "properties": {
+    "addr:full":"1310 Braddock Pl Alexandria VA 22314",
+    "addr:housenumber":"1310",
+    "addr:postcode":"22314",
+    "addr:street":"Braddock Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051201,38.815102,-77.051201,38.815102",
     "geom:latitude":38.815102,
     "geom:longitude":-77.051201,
@@ -29,12 +34,13 @@
     "sg:website":"www.splendidfare.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724989,
+        85875827,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875827
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "microhood_id":1108724989,
             "neighbourhood_id":85875827,
             "region_id":85688747,
             "venue_id":739575467
         }
     ],
     "wof:id":739575467,
-    "wof:lastmodified":1467088624,
+    "wof:lastmodified":1490400326,
     "wof:name":"Splendid Fare Catering",
-    "wof:parent_id":85875827,
+    "wof:parent_id":1108724989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722876165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1322 Prince St Alexandria VA 22314",
+    "addr:housenumber":"1322",
+    "addr:postcode":"22314",
+    "addr:street":"Prince St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054686,38.804802,-77.054686,38.804802",
     "geom:latitude":38.804802,
     "geom:longitude":-77.054686,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36PEsZm9Pt7oGAqlKxgpSM_38.804802_-77.054686@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461890314,
     "wof:geomhash":"b1da16190d0740effad5a13753aa5445",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":722876165
+        }
+    ],
     "wof:id":722876165,
-    "wof:lastmodified":1467087920,
+    "wof:lastmodified":1490399833,
     "wof:name":"Welsh Anne Salon of Old Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

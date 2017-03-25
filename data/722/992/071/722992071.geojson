@@ -2,9 +2,14 @@
   "id": 722992071,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 E Reed Ave Alexandria VA 22305",
+    "addr:housenumber":"119",
+    "addr:postcode":"22305",
+    "addr:street":"E Reed Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052206,38.836977,-77.052206,38.836977",
     "geom:latitude":38.836977,
     "geom:longitude":-77.052206,
@@ -30,7 +35,14 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z3uvMrvVPJhc5fEvKej1A_38.836977_-77.052206@1294252573"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1461892728,
     "wof:geomhash":"6c179ebf71674821f4c0e175b2682502",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547819,
+            "region_id":85688747,
+            "venue_id":722992071
+        }
+    ],
     "wof:id":722992071,
-    "wof:lastmodified":1467088003,
+    "wof:lastmodified":1490398492,
     "wof:name":"National Car Rental System",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

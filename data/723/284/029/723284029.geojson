@@ -2,9 +2,14 @@
   "id": 723284029,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 E Reed Ave Alexandria VA 22305",
+    "addr:housenumber":"181",
+    "addr:postcode":"22305",
+    "addr:street":"E Reed Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053405,38.83686,-77.053405,38.83686",
     "geom:latitude":38.83686,
     "geom:longitude":-77.053405,
@@ -24,7 +29,14 @@
     "sg:postcode":"22305",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45R2Z2gk8ogvisIHYM5d23_38.836860_-77.053405@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461898754,
     "wof:geomhash":"c54bdaecd59e119372f8b003c077251e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547819,
+            "region_id":85688747,
+            "venue_id":723284029
+        }
+    ],
     "wof:id":723284029,
-    "wof:lastmodified":1467088216,
+    "wof:lastmodified":1490400020,
     "wof:name":"Preston Condominiums",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

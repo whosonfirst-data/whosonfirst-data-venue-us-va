@@ -2,9 +2,14 @@
   "id": 722689187,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Luna Park Dr Alexandria VA 22305",
+    "addr:housenumber":"100",
+    "addr:postcode":"22305",
+    "addr:street":"Luna Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.055058,38.837381,-77.055058,38.837381",
     "geom:latitude":38.837381,
     "geom:longitude":-77.055058,
@@ -27,7 +32,14 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SRaNNS0T3T5OVlQgYTRzZ_38.837381_-77.055058@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461886768,
     "wof:geomhash":"d124a2283fea737a7b06d062c65a0b4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":722689187
+        }
+    ],
     "wof:id":722689187,
-    "wof:lastmodified":1467087785,
+    "wof:lastmodified":1490398492,
     "wof:name":"Stephen Lynn DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

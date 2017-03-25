@@ -2,9 +2,14 @@
   "id": 722852173,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 Eisenhower Ave Alexandria VA 22314",
+    "addr:housenumber":"3201",
+    "addr:postcode":"22314",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085846,38.803052,-77.085846,38.803052",
     "geom:latitude":38.803052,
     "geom:longitude":-77.085846,
@@ -24,7 +29,15 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108725027,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d1lZnxJjPoo5ISQzAhGXz_38.803052_-77.085846@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461889861,
     "wof:geomhash":"cf47e095e474a18ebeef5f553f5d6a61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":1108725027,
+            "region_id":85688747,
+            "venue_id":722852173
+        }
+    ],
     "wof:id":722852173,
-    "wof:lastmodified":1467087903,
+    "wof:lastmodified":1490400287,
     "wof:name":"Bombardier Trnsp Holdings USA",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

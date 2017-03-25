@@ -2,9 +2,14 @@
   "id": 723393105,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 S Columbus St Alexandria VA 22314",
+    "addr:housenumber":"727",
+    "addr:postcode":"22314",
+    "addr:street":"S Columbus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049855,38.797479,-77.049855,38.797479",
     "geom:latitude":38.797479,
     "geom:longitude":-77.049855,
@@ -28,7 +33,14 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dRp3yuWfVY0TIkqcNPMy4_38.797479_-77.049855@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461900839,
     "wof:geomhash":"3014ce6dd7dd34559baf21f9dc265478",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":723393105
+        }
+    ],
     "wof:id":723393105,
-    "wof:lastmodified":1467088295,
+    "wof:lastmodified":1490400001,
     "wof:name":"Marigold Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

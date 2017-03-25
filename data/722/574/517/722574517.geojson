@@ -2,9 +2,14 @@
   "id": 722574517,
   "type": "Feature",
   "properties": {
+    "addr:full":"5933 Quantrell Ave Alexandria VA 22312",
+    "addr:housenumber":"5933",
+    "addr:postcode":"22312",
+    "addr:street":"Quantrell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136456,38.820504,-77.136456,38.820504",
     "geom:latitude":38.820504,
     "geom:longitude":-77.136456,
@@ -27,7 +32,15 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ycW2hxWYnYpEvBvmrpJHd_38.820504_-77.136456@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461884503,
     "wof:geomhash":"89f825a4294033686f7e94a3db59d471",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":722574517
+        }
+    ],
     "wof:id":722574517,
-    "wof:lastmodified":1467087702,
+    "wof:lastmodified":1490399693,
     "wof:name":"Cable Risdon Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739677463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3644 King St Alexandria VA 22302",
+    "addr:housenumber":"3644",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090401,38.828999,-77.090401,38.828999",
     "geom:latitude":38.828999,
     "geom:longitude":-77.090401,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.chickenout.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iP53rVrARbK0n9wUmh4ks_38.828999_-77.090401@1303262544"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912098,
     "wof:geomhash":"160de69ce9fce1f565a14417195449ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739677463
+        }
+    ],
     "wof:id":739677463,
-    "wof:lastmodified":1467088698,
+    "wof:lastmodified":1490399478,
     "wof:name":"Chicken Out Rotissierie",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

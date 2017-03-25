@@ -2,9 +2,14 @@
   "id": 739681855,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Yoakum Pkwy Apt 1626 Alexandria VA 22304",
+    "addr:housenumber":"203",
+    "addr:postcode":"22304",
+    "addr:street":"Yoakum Pkwy Apt 1626",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.139804,38.812738,-77.139804,38.812738",
     "geom:latitude":38.812738,
     "geom:longitude":-77.139804,
@@ -27,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sqonZWgChUDKJuGNx16pG_38.812738_-77.139804@1303262545"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461912180,
     "wof:geomhash":"5e19ab390e169bcd40f81927b2508f97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681855
+        }
+    ],
     "wof:id":739681855,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400099,
     "wof:name":"Knock N Wood Novelties Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

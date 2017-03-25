@@ -2,9 +2,14 @@
   "id": 739688933,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 N Washington St # 303 Alexandria VA 22314",
+    "addr:housenumber":"625",
+    "addr:postcode":"22314",
+    "addr:street":"N Washington St # 303",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.045698,38.811011,-77.045698,38.811011",
     "geom:latitude":38.811011,
     "geom:longitude":-77.045698,
@@ -29,12 +34,13 @@
     "sg:website":"http://www.adiconsulting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724979,
+        85875841,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875843
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875843,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
             "region_id":85688747,
             "venue_id":739688933
         }
     ],
     "wof:id":739688933,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490400312,
     "wof:name":"S & Fa Capital Services Inc",
-    "wof:parent_id":85875843,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739582421,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Dulany St Alexandria VA 22314",
+    "addr:housenumber":"401",
+    "addr:postcode":"22314",
+    "addr:street":"Dulany St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.063617,38.803293,-77.063617,38.803293",
     "geom:latitude":38.803293,
     "geom:longitude":-77.063617,
@@ -30,7 +35,15 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YmgCtGbAdRhf4xNepWUzx_38.803293_-77.063617@1299784598"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461910050,
     "wof:geomhash":"3027939797540c65920b6ad5e7a7e107",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":739582421
+        }
+    ],
     "wof:id":739582421,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490399773,
     "wof:name":"Quiznos Sub",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739273255,
   "type": "Feature",
   "properties": {
+    "addr:full":"814 Green St Alexandria VA 22314",
+    "addr:housenumber":"814",
+    "addr:postcode":"22314",
+    "addr:street":"Green St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051051,38.796058,-77.051051,38.796058",
     "geom:latitude":38.796058,
     "geom:longitude":-77.051051,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.mccaffrey-braley.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NYN40TcC6Bmp06hoiY7J4_38.796058_-77.051051@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461903997,
     "wof:geomhash":"476b0cac5d4363eff6f3a2bf5349d085",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":739273255
+        }
+    ],
     "wof:id":739273255,
-    "wof:lastmodified":1467088405,
+    "wof:lastmodified":1490400009,
     "wof:name":"Mccaffrey Bailey Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

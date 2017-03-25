@@ -2,9 +2,14 @@
   "id": 723231375,
   "type": "Feature",
   "properties": {
+    "addr:full":"3716 King St Alexandria VA 22302",
+    "addr:housenumber":"3716",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091563,38.829906,-77.091563,38.829906",
     "geom:latitude":38.829906,
     "geom:longitude":-77.091563,
@@ -29,7 +34,14 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qW08fn2vDDBy9l0kylWKa_38.829906_-77.091563@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461897735,
     "wof:geomhash":"6c0de3c2eba5bdcf27396b858f9c485b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":723231375
+        }
+    ],
     "wof:id":723231375,
-    "wof:lastmodified":1467088178,
+    "wof:lastmodified":1490399170,
     "wof:name":"Henry Skopek MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

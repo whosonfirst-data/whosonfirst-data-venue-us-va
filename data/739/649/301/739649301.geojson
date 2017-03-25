@@ -2,9 +2,14 @@
   "id": 739649301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 17 St NW Dale City VA 22193",
+    "addr:housenumber":"1050",
+    "addr:postcode":"22193",
+    "addr:street":"17 St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058411,38.837402,-77.058411,38.837402",
     "geom:latitude":38.837402,
     "geom:longitude":-77.058411,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"www.venturipartners.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AUKQXsoIYn8MRkYto9ha9_38.837402_-77.058411@1303262541"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461911480,
     "wof:geomhash":"e58a3fa0bc0e911ed6ef594c7b66ee6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739649301
+        }
+    ],
     "wof:id":739649301,
-    "wof:lastmodified":1467088677,
+    "wof:lastmodified":1490398593,
     "wof:name":"Venturi Staffing Partners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

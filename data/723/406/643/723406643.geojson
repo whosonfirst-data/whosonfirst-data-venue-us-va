@@ -2,9 +2,14 @@
   "id": 723406643,
   "type": "Feature",
   "properties": {
+    "addr:full":"5374 Echols Ave Alexandria VA 22311",
+    "addr:housenumber":"5374",
+    "addr:postcode":"22311",
+    "addr:street":"Echols Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.120951,38.836301,-77.120951,38.836301",
     "geom:latitude":38.836301,
     "geom:longitude":-77.120951,
@@ -24,7 +29,15 @@
     "sg:postcode":"22311",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wRrfNWvV5LT8UscyUYcwP_38.836301_-77.120951@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461901104,
     "wof:geomhash":"5c355ce140fe7b1c7791a997a3231d6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":723406643
+        }
+    ],
     "wof:id":723406643,
-    "wof:lastmodified":1467088305,
+    "wof:lastmodified":1490399698,
     "wof:name":"Chemical Sensitivity Disorders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

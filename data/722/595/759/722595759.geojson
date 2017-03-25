@@ -2,9 +2,14 @@
   "id": 722595759,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 S Fayette St Alexandria VA 22314",
+    "addr:housenumber":"310",
+    "addr:postcode":"22314",
+    "addr:street":"S Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052833,38.80329,-77.052833,38.80329",
     "geom:latitude":38.80329,
     "geom:longitude":-77.052833,
@@ -27,7 +32,14 @@
         "physician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pW6TfnZ6zsTlUczodSmb3_38.803290_-77.052833@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461884894,
     "wof:geomhash":"2419267d0a455703011ac17a02ff82b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":722595759
+        }
+    ],
     "wof:id":722595759,
-    "wof:lastmodified":1467087717,
+    "wof:lastmodified":1490400003,
     "wof:name":"Dale Cloyd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

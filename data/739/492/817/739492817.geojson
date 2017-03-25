@@ -2,9 +2,14 @@
   "id": 739492817,
   "type": "Feature",
   "properties": {
+    "addr:full":"6108 N Morgan St Alexandria VA 22312",
+    "addr:housenumber":"6108",
+    "addr:postcode":"22312",
+    "addr:street":"N Morgan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.138524,38.824565,-77.138524,38.824565",
     "geom:latitude":38.824565,
     "geom:longitude":-77.138524,
@@ -24,7 +29,15 @@
     "sg:postcode":"22312",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WJ5i6nHBcAl4gB9EW6X7B_38.824565_-77.138524@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461908306,
     "wof:geomhash":"531e7e33b8a5a30f3e26063cbb9ee98d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739492817
+        }
+    ],
     "wof:id":739492817,
-    "wof:lastmodified":1467088564,
+    "wof:lastmodified":1490399668,
     "wof:name":"VFC Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

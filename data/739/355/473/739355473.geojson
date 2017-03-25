@@ -2,9 +2,14 @@
   "id": 739355473,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 S Pitt St Alexandria VA 22314",
+    "addr:housenumber":"400",
+    "addr:postcode":"22314",
+    "addr:street":"S Pitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.04572,38.800219,-77.04572,38.800219",
     "geom:latitude":38.800219,
     "geom:longitude":-77.04572,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uIcvGOCr6bOVmqgqGwjJg_38.800219_-77.045720@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461905727,
     "wof:geomhash":"c26c09126931f10c9e5c233b9c0bc14d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":739355473
+        }
+    ],
     "wof:id":739355473,
-    "wof:lastmodified":1467088464,
+    "wof:lastmodified":1490398572,
     "wof:name":"D Farley",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723280639,
   "type": "Feature",
   "properties": {
+    "addr:full":"4008 Ellicott St Alexandria VA 22304",
+    "addr:housenumber":"4008",
+    "addr:postcode":"22304",
+    "addr:street":"Ellicott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099392,38.829447,-77.099392,38.829447",
     "geom:latitude":38.829447,
     "geom:longitude":-77.099392,
@@ -28,7 +33,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22nx2osQJWn92nqhj0G4T3_38.829447_-77.099392@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461898691,
     "wof:geomhash":"0cb9472efc451a4a74bd6111882a2692",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":723280639
+        }
+    ],
     "wof:id":723280639,
-    "wof:lastmodified":1467088214,
+    "wof:lastmodified":1490399930,
     "wof:name":"Brett Berlin Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

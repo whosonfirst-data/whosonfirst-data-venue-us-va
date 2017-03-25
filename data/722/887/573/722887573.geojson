@@ -2,9 +2,14 @@
   "id": 722887573,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Duke St Alexandria VA 22314",
+    "addr:housenumber":"2727",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.078294,38.807042,-77.078294,38.807042",
     "geom:latitude":38.807042,
     "geom:longitude":-77.078294,
@@ -24,7 +29,15 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60MRsCSJqbvXwil18ED4Au_38.807042_-77.078294@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461890533,
     "wof:geomhash":"c1835eff5d5c1e1e74edc3f4dbd10ef3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722887573
+        }
+    ],
     "wof:id":722887573,
-    "wof:lastmodified":1467087928,
+    "wof:lastmodified":1490400334,
     "wof:name":"Badrul H Khan",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

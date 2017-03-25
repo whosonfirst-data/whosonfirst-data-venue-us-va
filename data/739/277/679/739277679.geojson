@@ -2,9 +2,14 @@
   "id": 739277679,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 E Glebe Rd Alexandria VA 22305",
+    "addr:housenumber":"403",
+    "addr:postcode":"22305",
+    "addr:street":"E Glebe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051728,38.832402,-77.051728,38.832402",
     "geom:latitude":38.832402,
     "geom:longitude":-77.051728,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.rbratti.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85814135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q4gh3rvP62DfUub745O8b_38.832402_-77.051728@1294252573"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1461904095,
     "wof:geomhash":"e1a798ae65b75a8335c7499855762002",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85814135,
+            "region_id":85688747,
+            "venue_id":739277679
+        }
+    ],
     "wof:id":739277679,
-    "wof:lastmodified":1467088408,
+    "wof:lastmodified":1490398423,
     "wof:name":"R Bratti Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

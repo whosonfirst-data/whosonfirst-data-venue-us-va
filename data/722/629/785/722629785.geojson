@@ -2,9 +2,14 @@
   "id": 722629785,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Jasper Pl Alexandria VA 22304",
+    "addr:housenumber":"128",
+    "addr:postcode":"22304",
+    "addr:street":"Jasper Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.110409,38.80963,-77.110409,38.80963",
     "geom:latitude":38.80963,
     "geom:longitude":-77.110409,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85854167
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85854167,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":722629785
         }
     ],
     "wof:id":722629785,
-    "wof:lastmodified":1467087742,
+    "wof:lastmodified":1490399946,
     "wof:name":"Will Clean More",
-    "wof:parent_id":85854167,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

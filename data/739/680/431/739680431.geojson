@@ -2,9 +2,14 @@
   "id": 739680431,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Eisenhower Ave Alexandria VA 22304",
+    "addr:housenumber":"4700",
+    "addr:postcode":"22304",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116432,38.803716,-77.116432,38.803716",
     "geom:latitude":38.803716,
     "geom:longitude":-77.116432,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"http://www.jetro.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W0bnGMfyJe3AWO6YVlFGV_38.803716_-77.116432@1303262545"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461912153,
     "wof:geomhash":"26e760af175f1a5a5a119275389b26e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739680431
+        }
+    ],
     "wof:id":739680431,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400113,
     "wof:name":"Restaurant Depot",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739678939,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 Park Center Drive Alexandria VA 22302",
+    "addr:housenumber":"3101",
+    "addr:postcode":"22302",
+    "addr:street":"Park Center Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.103454,38.836933,-77.103454,38.836933",
     "geom:latitude":38.836933,
     "geom:longitude":-77.103454,
@@ -26,12 +31,13 @@
     "sg:website":"www.mapsparking.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85820249
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85820249,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739678939
         }
     ],
     "wof:id":739678939,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490399673,
     "wof:name":"Mid Atlantic Parking Services",
-    "wof:parent_id":85820249,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

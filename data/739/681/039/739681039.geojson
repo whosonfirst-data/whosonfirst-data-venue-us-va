@@ -2,9 +2,14 @@
   "id": 739681039,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 S Reynolds St Apt 209 Alexandria VA 22304",
+    "addr:housenumber":"250;209",
+    "addr:postcode":"22304",
+    "addr:street":"S Reynolds St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.128892,38.809667,-77.128892,38.809667",
     "geom:latitude":38.809667,
     "geom:longitude":-77.128892,
@@ -27,7 +32,15 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zkTAE0Jai1fwnxmia2MUd_38.809667_-77.128892@1303262545"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461912164,
     "wof:geomhash":"2c71cf850146a75a4d5844e28b06e2dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681039
+        }
+    ],
     "wof:id":739681039,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400107,
     "wof:name":"Templeton Entry Phone",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

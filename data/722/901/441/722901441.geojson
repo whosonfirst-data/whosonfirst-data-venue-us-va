@@ -2,9 +2,14 @@
   "id": 722901441,
   "type": "Feature",
   "properties": {
+    "addr:full":"635 Slaters Ln Alexandria VA 22314",
+    "addr:housenumber":"635",
+    "addr:postcode":"22314",
+    "addr:street":"Slaters Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.041678,38.82182,-77.041678,38.82182",
     "geom:latitude":38.82182,
     "geom:longitude":-77.041678,
@@ -27,7 +32,14 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eFUfqLg6S6OPYLex2xkby_38.821820_-77.041678@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461890816,
     "wof:geomhash":"a4d1927e30957e626497b65b36fdb637",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":722901441
+        }
+    ],
     "wof:id":722901441,
-    "wof:lastmodified":1467087938,
+    "wof:lastmodified":1490400256,
     "wof:name":"Atlantic Parking",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

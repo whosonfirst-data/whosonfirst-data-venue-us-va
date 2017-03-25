@@ -2,9 +2,14 @@
   "id": 722651783,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 Commerce St Alexandria VA 22314",
+    "addr:housenumber":"324",
+    "addr:postcode":"22314",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056521,38.804333,-77.056521,38.804333",
     "geom:latitude":38.804333,
     "geom:longitude":-77.056521,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.madeleineskids.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b4nLE7ojjmLkTVxxeiCci_38.804333_-77.056521@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461886048,
     "wof:geomhash":"c62c4d62d7095b3351656c84efce6043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":722651783
+        }
+    ],
     "wof:id":722651783,
-    "wof:lastmodified":1467087758,
+    "wof:lastmodified":1490400216,
     "wof:name":"Madeleine's Kids Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

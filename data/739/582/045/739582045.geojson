@@ -2,9 +2,14 @@
   "id": 739582045,
   "type": "Feature",
   "properties": {
+    "addr:full":"3825 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3825",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052037,38.839159,-77.052037,38.839159",
     "geom:latitude":38.839159,
     "geom:longitude":-77.052037,
@@ -29,7 +34,14 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qWuVBizECSvbeDSz0FRPs_38.839159_-77.052037@1299784598"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461910044,
     "wof:geomhash":"99995049ad54602b626334e946def4a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739582045
+        }
+    ],
     "wof:id":739582045,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490400283,
     "wof:name":"Subway",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

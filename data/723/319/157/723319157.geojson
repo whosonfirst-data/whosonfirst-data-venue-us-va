@@ -2,9 +2,14 @@
   "id": 723319157,
   "type": "Feature",
   "properties": {
+    "addr:full":"5100 Fillmore Ave Alexandria VA 22311",
+    "addr:housenumber":"5100",
+    "addr:postcode":"22311",
+    "addr:street":"Fillmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.114423,38.83712,-77.114423,38.83712",
     "geom:latitude":38.83712,
     "geom:longitude":-77.114423,
@@ -27,7 +32,15 @@
         "rehabilitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Q7T6W9bqtTGp3d0IWH07_38.837120_-77.114423@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461899434,
     "wof:geomhash":"32b97d95093daf070b4edac2f366c356",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
+            "region_id":85688747,
+            "venue_id":723319157
+        }
+    ],
     "wof:id":723319157,
-    "wof:lastmodified":1467088242,
+    "wof:lastmodified":1490400071,
     "wof:name":"Rehab Care Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

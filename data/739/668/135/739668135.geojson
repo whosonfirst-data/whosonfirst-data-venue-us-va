@@ -2,9 +2,14 @@
   "id": 739668135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Shirlington Road, Suite 503 Arlington VA 22206",
+    "addr:housenumber":"",
+    "addr:postcode":"2800;22206",
+    "addr:street":"Shirlington Road Suite 503",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085701,38.842979,-77.085701,38.842979",
     "geom:latitude":38.842979,
     "geom:longitude":-77.085701,
@@ -20,12 +25,13 @@
     "sg:website":"http://www.bushmanlawgroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
-        101729469,
-        102085953,
-        85848485
+        101728581,
+        102080641,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +44,18 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
-            "neighbourhood_id":85848485,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739668135
         }
     ],
     "wof:id":739668135,
-    "wof:lastmodified":1467088691,
+    "wof:lastmodified":1490400294,
     "wof:name":"Joshua E. Bushman, Esquire, PLLC",
-    "wof:parent_id":85848485,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

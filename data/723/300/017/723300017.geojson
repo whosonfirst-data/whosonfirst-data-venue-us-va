@@ -2,9 +2,14 @@
   "id": 723300017,
   "type": "Feature",
   "properties": {
+    "addr:full":"4903 Brenman Park Dr Alexandria VA 22304",
+    "addr:housenumber":"4903",
+    "addr:postcode":"22304",
+    "addr:street":"Brenman Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116506,38.80914,-77.116506,38.80914",
     "geom:latitude":38.80914,
     "geom:longitude":-77.116506,
@@ -28,7 +33,16 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28jOS92C7M2k2wkmnbrTAi_38.809140_-77.116506@1294252573"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461899062,
     "wof:geomhash":"04b0f2202d05c91556a978400d5a8447",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723300017
+        }
+    ],
     "wof:id":723300017,
-    "wof:lastmodified":1467088228,
+    "wof:lastmodified":1490400316,
     "wof:name":"Cameron Station Valet",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

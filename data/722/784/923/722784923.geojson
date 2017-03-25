@@ -2,9 +2,14 @@
   "id": 722784923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 Maple Hill Pl Alexandria VA 22302",
+    "addr:housenumber":"1715",
+    "addr:postcode":"22302",
+    "addr:street":"Maple Hill Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080238,38.81684,-77.080238,38.81684",
     "geom:latitude":38.81684,
     "geom:longitude":-77.080238,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725009,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85810399
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85810399,
+            "microhood_id":1108725009,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":722784923
         }
     ],
     "wof:id":722784923,
-    "wof:lastmodified":1467087854,
+    "wof:lastmodified":1490400350,
     "wof:name":"Intellectual Frontiers",
-    "wof:parent_id":85810399,
+    "wof:parent_id":1108725009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

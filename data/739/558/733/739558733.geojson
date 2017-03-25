@@ -2,9 +2,14 @@
   "id": 739558733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3451 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3451",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051804,38.8363,-77.051804,38.8363",
     "geom:latitude":38.8363,
     "geom:longitude":-77.051804,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.tjmaxx.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bh93Iu4PNHeNATlYjyHra_38.835920_-77.051655@1293134755"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461909530,
     "wof:geomhash":"05a4b43c4094d372c55226751fbe9186",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739558733
+        }
+    ],
     "wof:id":739558733,
-    "wof:lastmodified":1467088612,
+    "wof:lastmodified":1490398593,
     "wof:name":"T J Maxx",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

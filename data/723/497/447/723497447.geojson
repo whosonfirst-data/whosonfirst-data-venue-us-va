@@ -2,9 +2,14 @@
   "id": 723497447,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Vicar Ln Alexandria VA 22302",
+    "addr:housenumber":"903",
+    "addr:postcode":"22302",
+    "addr:street":"Vicar Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087551,38.820401,-77.087551,38.820401",
     "geom:latitude":38.820401,
     "geom:longitude":-77.087551,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725009,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85810399
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85810399,
+            "microhood_id":1108725009,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":723497447
         }
     ],
     "wof:id":723497447,
-    "wof:lastmodified":1467088371,
+    "wof:lastmodified":1490400352,
     "wof:name":"Interior Access LLC",
-    "wof:parent_id":85810399,
+    "wof:parent_id":1108725009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

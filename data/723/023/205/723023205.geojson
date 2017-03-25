@@ -2,9 +2,14 @@
   "id": 723023205,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Jefferson St Alexandria VA 22314",
+    "addr:housenumber":"202",
+    "addr:postcode":"22314",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.04425,38.79637,-77.04425,38.79637",
     "geom:latitude":38.79637,
     "geom:longitude":-77.04425,
@@ -27,7 +32,14 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wJbzdHMI5i2WYAYFGWhsG_38.796370_-77.044250@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461893451,
     "wof:geomhash":"d004eec2b2f873dc23af7d149f9f231f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723023205
+        }
+    ],
     "wof:id":723023205,
-    "wof:lastmodified":1467088026,
+    "wof:lastmodified":1490399797,
     "wof:name":"Buyers Without Borders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

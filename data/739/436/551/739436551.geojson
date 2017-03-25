@@ -2,9 +2,14 @@
   "id": 739436551,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Hooffs Run Dr Alexandria VA 22314",
+    "addr:housenumber":"310",
+    "addr:postcode":"22314",
+    "addr:street":"Hooffs Run Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062923,38.798439,-77.062923,38.798439",
     "geom:latitude":38.798439,
     "geom:longitude":-77.062923,
@@ -29,7 +34,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A5JmudPYovNHjfZWOh8zY_38.798439_-77.062923@1294252573"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461907288,
     "wof:geomhash":"bd7bc084f2f82c68e6b18fb15333b48d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":739436551
+        }
+    ],
     "wof:id":739436551,
-    "wof:lastmodified":1467088524,
+    "wof:lastmodified":1490399772,
     "wof:name":"Alexandria Mini Storage Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722683669,
   "type": "Feature",
   "properties": {
+    "addr:full":"3041 Colvin St Alexandria VA 22314",
+    "addr:housenumber":"3041",
+    "addr:postcode":"22314",
+    "addr:street":"Colvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.083373,38.806935,-77.083373,38.806935",
     "geom:latitude":38.806935,
     "geom:longitude":-77.083373,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wRc4HUIBpYEWoyFXNFnDG_38.806935_-77.083373@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461886654,
     "wof:geomhash":"7202af4ed6f4e25e78348f5ddf5e6bd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722683669
+        }
+    ],
     "wof:id":722683669,
-    "wof:lastmodified":1467087782,
+    "wof:lastmodified":1490398619,
     "wof:name":"Chapel Valley Landscape Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

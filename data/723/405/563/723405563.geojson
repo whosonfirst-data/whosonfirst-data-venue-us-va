@@ -2,9 +2,14 @@
   "id": 723405563,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 Wythe St Alexandria VA 22314",
+    "addr:housenumber":"1227",
+    "addr:postcode":"22314",
+    "addr:street":"Wythe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051837,38.812757,-77.051837,38.812757",
     "geom:latitude":38.812757,
     "geom:longitude":-77.051837,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724989,
+        85875827,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875827
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "microhood_id":1108724989,
             "neighbourhood_id":85875827,
             "region_id":85688747,
             "venue_id":723405563
         }
     ],
     "wof:id":723405563,
-    "wof:lastmodified":1467088304,
+    "wof:lastmodified":1490400319,
     "wof:name":"Fugative Recovery Agency",
-    "wof:parent_id":85875827,
+    "wof:parent_id":1108724989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

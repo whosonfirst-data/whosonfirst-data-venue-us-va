@@ -2,9 +2,14 @@
   "id": 722648879,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 S Pitt St Alexandria VA 22314",
+    "addr:housenumber":"735",
+    "addr:postcode":"22314",
+    "addr:street":"S Pitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.046491,38.797143,-77.046491,38.797143",
     "geom:latitude":38.797143,
     "geom:longitude":-77.046491,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JHEUzQF1OOiJaVcU0Ojxw_38.797143_-77.046491@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461886000,
     "wof:geomhash":"eb484f004dbe4af6cca2315e3b9a0abb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":722648879
+        }
+    ],
     "wof:id":722648879,
-    "wof:lastmodified":1467087756,
+    "wof:lastmodified":1490399867,
     "wof:name":"Plain & Sassy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739487665,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 N Henry St Alexandria VA 22314",
+    "addr:housenumber":"403",
+    "addr:postcode":"22314",
+    "addr:street":"N Henry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.050317,38.810139,-77.050317,38.810139",
     "geom:latitude":38.810139,
     "geom:longitude":-77.050317,
@@ -31,12 +36,13 @@
     "sg:website":"www.pmkassociates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724989,
+        85875827,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875843
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875843,
+            "microhood_id":1108724989,
+            "neighbourhood_id":85875827,
             "region_id":85688747,
             "venue_id":739487665
         }
     ],
     "wof:id":739487665,
-    "wof:lastmodified":1467088561,
+    "wof:lastmodified":1490400322,
     "wof:name":"PMK Assoc",
-    "wof:parent_id":85875843,
+    "wof:parent_id":1108724989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

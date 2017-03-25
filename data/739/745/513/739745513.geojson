@@ -2,9 +2,14 @@
   "id": 739745513,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 N. Pitt str. Suite 325 Alexandria VA 22314",
+    "addr:housenumber":"901",
+    "addr:postcode":"22314",
+    "addr:street":"N. Pitt Str. Suite 325",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.04256,38.815008,-77.04256,38.815008",
     "geom:latitude":38.815008,
     "geom:longitude":-77.04256,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"http://www.luxand.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dqBTj2ooCbofbbuhlnQMG_38.815008_-77.042560@1308186501"
@@ -39,11 +51,21 @@
     "wof:country":"US",
     "wof:created":1461913539,
     "wof:geomhash":"27b2849959fd53480ffd3ad089b116b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739745513
+        }
+    ],
     "wof:id":739745513,
-    "wof:lastmodified":1467088748,
+    "wof:lastmodified":1490399891,
     "wof:name":"Luxand",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

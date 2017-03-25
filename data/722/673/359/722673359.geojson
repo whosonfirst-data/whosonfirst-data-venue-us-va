@@ -2,9 +2,14 @@
   "id": 722673359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Wilkes St Alexandria VA 22314",
+    "addr:housenumber":"1",
+    "addr:postcode":"22314",
+    "addr:street":"Wilkes St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.041243,38.799668,-77.041243,38.799668",
     "geom:latitude":38.799668,
     "geom:longitude":-77.041243,
@@ -28,7 +33,15 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66AeIQswmqcpSM3T0MgHRN_38.799668_-77.041243@1294252573"
@@ -36,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1461886456,
     "wof:geomhash":"816adc72d542cd32471ff5421c71c7e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":722673359
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":722673359
+        }
+    ],
     "wof:id":722673359,
-    "wof:lastmodified":1467087774,
+    "wof:lastmodified":1490400237,
     "wof:name":"New Harborside Yacht Club LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

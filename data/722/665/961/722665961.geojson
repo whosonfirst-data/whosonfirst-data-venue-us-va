@@ -2,9 +2,14 @@
   "id": 722665961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1018 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1018",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051708,38.803238,-77.051708,38.803238",
     "geom:latitude":38.803238,
     "geom:longitude":-77.051708,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"www.ilj.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ET62RGO0VEqrf7X76yku2_38.803238_-77.051708@1294252573"
@@ -44,11 +56,21 @@
     "wof:country":"US",
     "wof:created":1461886319,
     "wof:geomhash":"d8f7998b730fddae93ce90fe63e31158",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":722665961
+        }
+    ],
     "wof:id":722665961,
-    "wof:lastmodified":1467087769,
+    "wof:lastmodified":1490398775,
     "wof:name":"Institute For Law and Justice",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

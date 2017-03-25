@@ -2,9 +2,14 @@
   "id": 739691859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 N Pitt St Alexandria VA 22314",
+    "addr:housenumber":"1114",
+    "addr:postcode":"22314",
+    "addr:street":"N Pitt St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.042269,38.816244,-77.042269,38.816244",
     "geom:latitude":38.816244,
     "geom:longitude":-77.042269,
@@ -28,7 +33,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ju6T47GLgpoBD2tcsbG8e_38.816244_-77.042269@1303262546"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912381,
     "wof:geomhash":"8d41ec73ca1d215ee12feea68a8fa0b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739691859
+        }
+    ],
     "wof:id":739691859,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490399909,
     "wof:name":"Archimedes Tracking Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

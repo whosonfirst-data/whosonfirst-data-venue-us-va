@@ -2,9 +2,14 @@
   "id": 739686263,
   "type": "Feature",
   "properties": {
+    "addr:full":"4713 W. Braddock Rd. Alexandria VA 22311",
+    "addr:housenumber":"4713",
+    "addr:postcode":"22311",
+    "addr:street":"W. Braddock Rd.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.109103,38.83508,-77.109103,38.83508",
     "geom:latitude":38.83508,
     "geom:longitude":-77.109103,
@@ -29,12 +34,13 @@
     "sg:website":"wetouchtechnology.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85820249
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85820249,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739686263
         }
     ],
     "wof:id":739686263,
-    "wof:lastmodified":1467088704,
+    "wof:lastmodified":1490399686,
     "wof:name":"We Touch Technology",
-    "wof:parent_id":85820249,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

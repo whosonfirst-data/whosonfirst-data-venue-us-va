@@ -2,9 +2,14 @@
   "id": 739571129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1325 Wilkes St Alexandria VA 22314",
+    "addr:housenumber":"1325",
+    "addr:postcode":"22314",
+    "addr:street":"Wilkes St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054755,38.801381,-77.054755,38.801381",
     "geom:latitude":38.801381,
     "geom:longitude":-77.054755,
@@ -32,7 +37,14 @@
         "forwarding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P8VpTYCBRi1NA5FVZahVM_38.801527_-77.055401@1293134755"
@@ -40,11 +52,21 @@
     "wof:country":"US",
     "wof:created":1461909804,
     "wof:geomhash":"653120c994713a1f0f81d782040a99fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":739571129
+        }
+    ],
     "wof:id":739571129,
-    "wof:lastmodified":1467088621,
+    "wof:lastmodified":1490400011,
     "wof:name":"World Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

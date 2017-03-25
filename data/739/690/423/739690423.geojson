@@ -2,9 +2,14 @@
   "id": 739690423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 N Fairfax St Ste 310 Alexandria VA 22314",
+    "addr:housenumber":"1033",
+    "addr:postcode":"22314",
+    "addr:street":"N Fairfax St Ste 310",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040199,38.814999,-77.040199,38.814999",
     "geom:latitude":38.814999,
     "geom:longitude":-77.040199,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RqCifTy8cpg0covYNvkpm_38.814999_-77.040199@1303262546"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461912348,
     "wof:geomhash":"dbd31dcd47eb0ddf9a3a5892c32924d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":739690423
+        }
+    ],
     "wof:id":739690423,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490400250,
     "wof:name":"Connor John B Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739561227,
   "type": "Feature",
   "properties": {
+    "addr:full":"4920 John Ticer Dr Alexandria VA 22304",
+    "addr:housenumber":"4920",
+    "addr:postcode":"22304",
+    "addr:street":"John Ticer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.117209,38.810478,-77.117209,38.810478",
     "geom:latitude":38.810478,
     "geom:longitude":-77.117209,
@@ -30,7 +35,16 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29TScYesUgMo15jqE7yWoh_38.810431_-77.116880@1293134755"
@@ -38,11 +52,23 @@
     "wof:country":"US",
     "wof:created":1461909584,
     "wof:geomhash":"e64963bda445235f2b9e9a47c1d05933",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739561227
+        }
+    ],
     "wof:id":739561227,
-    "wof:lastmodified":1467088614,
+    "wof:lastmodified":1490400315,
     "wof:name":"Qs & A Research & Strategy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

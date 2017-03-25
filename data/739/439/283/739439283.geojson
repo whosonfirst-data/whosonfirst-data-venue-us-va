@@ -2,9 +2,14 @@
   "id": 739439283,
   "type": "Feature",
   "properties": {
+    "addr:full":"5375 Duke St Alexandria VA 22304",
+    "addr:housenumber":"5375",
+    "addr:postcode":"22304",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124798,38.812899,-77.124798,38.812899",
     "geom:latitude":38.812899,
     "geom:longitude":-77.124798,
@@ -27,7 +32,15 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jsMRfWZGYQlXn5AtwMLdj_38.812899_-77.124798@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461907340,
     "wof:geomhash":"04668291e5add3e11bdf5c28683f4420",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739439283
+        }
+    ],
     "wof:id":739439283,
-    "wof:lastmodified":1467088526,
+    "wof:lastmodified":1490400117,
     "wof:name":"Menace Publishing & Mfg",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

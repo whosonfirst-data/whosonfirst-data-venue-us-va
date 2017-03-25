@@ -2,9 +2,14 @@
   "id": 723361795,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Skyhill Rd Alexandria VA 22314",
+    "addr:housenumber":"205",
+    "addr:postcode":"22314",
+    "addr:street":"Skyhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.07645,38.809258,-77.07645,38.809258",
     "geom:latitude":38.809258,
     "geom:longitude":-77.07645,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724993,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85811479
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85811479,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":723361795
         }
     ],
     "wof:id":723361795,
-    "wof:lastmodified":1467088272,
+    "wof:lastmodified":1490400332,
     "wof:name":"Consciousmediacom Inc",
-    "wof:parent_id":85811479,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

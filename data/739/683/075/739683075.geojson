@@ -2,9 +2,14 @@
   "id": 739683075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3501",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051804,38.836399,-77.051804,38.836399",
     "geom:latitude":38.836399,
     "geom:longitude":-77.051804,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.dressbarn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XvzD7X4HQRVZGVhTbFCsC_38.836399_-77.051804@1303262545"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1461912206,
     "wof:geomhash":"efe9219b377825ae488f3e1a0e107824",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739683075
+        }
+    ],
     "wof:id":739683075,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400284,
     "wof:name":"Dress Barn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

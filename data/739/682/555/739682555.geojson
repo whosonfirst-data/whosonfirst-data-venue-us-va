@@ -2,9 +2,14 @@
   "id": 739682555,
   "type": "Feature",
   "properties": {
+    "addr:full":"3830 Mt. Vernon Ave. Alexandria VA 22305",
+    "addr:housenumber":"3830",
+    "addr:postcode":"22305",
+    "addr:street":"Mt. Vernon Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.0628,38.839703,-77.0628,38.839703",
     "geom:latitude":38.839703,
     "geom:longitude":-77.0628,
@@ -27,7 +32,14 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lI5zcV2ETCYEiLVFN3V7R_38.839703_-77.062800@1303262545"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461912197,
     "wof:geomhash":"2fd3bfa2a1dbfecb68e47ea78f53ecd8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739682555
+        }
+    ],
     "wof:id":739682555,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490399608,
     "wof:name":"Jerry's Chan's Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

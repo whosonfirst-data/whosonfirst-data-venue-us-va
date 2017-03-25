@@ -2,9 +2,14 @@
   "id": 739556639,
   "type": "Feature",
   "properties": {
+    "addr:full":"3551 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3551",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051903,38.8368,-77.051903,38.8368",
     "geom:latitude":38.8368,
     "geom:longitude":-77.051903,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.rackroomshoes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IIpjYrqYYbruf3VGg8vcT_38.836676_-77.051750@1293134755"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461909489,
     "wof:geomhash":"f4d22cac8fc74381a1fc5e7e70cb5fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547819,
+            "region_id":85688747,
+            "venue_id":739556639
+        }
+    ],
     "wof:id":739556639,
-    "wof:lastmodified":1467088611,
+    "wof:lastmodified":1490398593,
     "wof:name":"Rack Room Shoes",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

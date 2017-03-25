@@ -2,9 +2,14 @@
   "id": 723228235,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Roth St Alexandria VA 22314",
+    "addr:housenumber":"15",
+    "addr:postcode":"22314",
+    "addr:street":"Roth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081387,38.806851,-77.081387,38.806851",
     "geom:latitude":38.806851,
     "geom:longitude":-77.081387,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.supramid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mIUKuorlt8v0Fs43DdVTu_38.806851_-77.081387@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461897667,
     "wof:geomhash":"a559a10b6ec6521724efd397026c48b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723228235
+        }
+    ],
     "wof:id":723228235,
-    "wof:lastmodified":1467088175,
+    "wof:lastmodified":1490400183,
     "wof:name":"S Jackson Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

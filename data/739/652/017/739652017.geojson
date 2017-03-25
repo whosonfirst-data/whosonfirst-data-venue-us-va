@@ -2,9 +2,14 @@
   "id": 739652017,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Crest Heights Rd Arlington VA 22201",
+    "addr:housenumber":"4300",
+    "addr:postcode":"22201",
+    "addr:street":"Crest Heights Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.08083,38.828809,-77.08083,38.828809",
     "geom:latitude":38.828809,
     "geom:longitude":-77.08083,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725007,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547827
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547827,
+            "microhood_id":1108725007,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739652017
         }
     ],
     "wof:id":739652017,
-    "wof:lastmodified":1467088679,
+    "wof:lastmodified":1490400347,
     "wof:name":"Reaching Our Community Kids Inc",
-    "wof:parent_id":420547827,
+    "wof:parent_id":1108725007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

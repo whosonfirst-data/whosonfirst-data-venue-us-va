@@ -2,9 +2,14 @@
   "id": 739691573,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 S Washington St Alexandria VA 22314",
+    "addr:housenumber":"800",
+    "addr:postcode":"22314",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048698,38.797001,-77.048698,38.797001",
     "geom:latitude":38.797001,
     "geom:longitude":-77.048698,
@@ -28,7 +33,14 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oSGY8u3G0O4AeT0uRMZIR_38.797001_-77.048698@1303262546"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912376,
     "wof:geomhash":"49475e156e3bb4d286980df4dc305528",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":739691573
+        }
+    ],
     "wof:id":739691573,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490400017,
     "wof:name":"Jsm Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

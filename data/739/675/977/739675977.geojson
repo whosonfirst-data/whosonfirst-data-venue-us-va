@@ -2,9 +2,14 @@
   "id": 739675977,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Charles Alexander Ct Alexandria VA 22301",
+    "addr:housenumber":"309",
+    "addr:postcode":"22301",
+    "addr:street":"Charles Alexander Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.066467,38.828522,-77.066467,38.828522",
     "geom:latitude":38.828522,
     "geom:longitude":-77.066467,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725007,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        85814135
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85814135,
+            "microhood_id":1108725007,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739675977
         }
     ],
     "wof:id":739675977,
-    "wof:lastmodified":1467088697,
+    "wof:lastmodified":1490400345,
     "wof:name":"Fredrick W Barnes Jr",
-    "wof:parent_id":85814135,
+    "wof:parent_id":1108725007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

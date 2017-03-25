@@ -2,9 +2,14 @@
   "id": 739681435,
   "type": "Feature",
   "properties": {
+    "addr:full":"171 Somervelle St Unit 408 Alexandria VA 22304",
+    "addr:housenumber":"171;408",
+    "addr:postcode":"22304",
+    "addr:street":"Somervelle St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116272,38.809811,-77.116272,38.809811",
     "geom:latitude":38.809811,
     "geom:longitude":-77.116272,
@@ -36,12 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724983,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85854167
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +62,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85854167,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
             "region_id":85688747,
             "venue_id":739681435
         }
     ],
     "wof:id":739681435,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400163,
     "wof:name":"Patriot Greeting Card",
-    "wof:parent_id":85854167,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

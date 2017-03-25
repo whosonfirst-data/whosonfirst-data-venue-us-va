@@ -2,9 +2,14 @@
   "id": 739678729,
   "type": "Feature",
   "properties": {
+    "addr:full":"Bradlee Shopping Center 3644 King Street Alexandria VA 22302",
+    "addr:housenumber":"3644",
+    "addr:postcode":"22302",
+    "addr:street":"King Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091491,38.828111,-77.091491,38.828111",
     "geom:latitude":38.828111,
     "geom:longitude":-77.091491,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"www.chickenout.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dwgdbgCC8OIRlfbwUNF8u_38.828111_-77.091491@1303262545"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461912122,
     "wof:geomhash":"21d90696669ab09d79866ba5c110d068",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739678729
+        }
+    ],
     "wof:id":739678729,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490398819,
     "wof:name":"Chicken Out",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

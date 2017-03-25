@@ -2,9 +2,14 @@
   "id": 723108549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 Jefferson Davis Hwy Alexandria VA 22301",
+    "addr:housenumber":"2001",
+    "addr:postcode":"22301",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.05026,38.824597,-77.05026,38.824597",
     "geom:latitude":38.824597,
     "geom:longitude":-77.05026,
@@ -29,7 +34,14 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N6NosjyAgALgpRDefaSGA_38.824597_-77.050260@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461895286,
     "wof:geomhash":"2cc71370f5e6d0bb6982be3cfbcaf251",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875845,
+            "region_id":85688747,
+            "venue_id":723108549
+        }
+    ],
     "wof:id":723108549,
-    "wof:lastmodified":1467088089,
+    "wof:lastmodified":1490399921,
     "wof:name":"Griffin Mehl Bartek Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

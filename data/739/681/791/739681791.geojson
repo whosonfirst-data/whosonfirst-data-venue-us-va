@@ -2,9 +2,14 @@
   "id": 739681791,
   "type": "Feature",
   "properties": {
+    "addr:full":"3401 Saylor Pl Alexandria VA 22304",
+    "addr:housenumber":"3401",
+    "addr:postcode":"22304",
+    "addr:street":"Saylor Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090942,38.815079,-77.090942,38.815079",
     "geom:latitude":38.815079,
     "geom:longitude":-77.090942,
@@ -34,12 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85810399
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85810399,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739681791
         }
     ],
     "wof:id":739681791,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490399955,
     "wof:name":"World Revival & Salvation Ministry Inc",
-    "wof:parent_id":85810399,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

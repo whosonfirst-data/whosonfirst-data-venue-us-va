@@ -2,9 +2,14 @@
   "id": 739688785,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 S Fairfax St Alexandria VA 22314",
+    "addr:housenumber":"725",
+    "addr:postcode":"22314",
+    "addr:street":"S Fairfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.04406,38.79735,-77.04406,38.79735",
     "geom:latitude":38.79735,
     "geom:longitude":-77.04406,
@@ -28,7 +33,14 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wuQSKdzafkqM4Z3QhN3Ag_38.797350_-77.044060@1303262546"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912314,
     "wof:geomhash":"1dba2a48bbefb2ca9833a74be749f2a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":739688785
+        }
+    ],
     "wof:id":739688785,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490398679,
     "wof:name":"David Newman",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

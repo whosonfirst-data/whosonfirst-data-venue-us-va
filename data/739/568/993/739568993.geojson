@@ -2,9 +2,14 @@
   "id": 739568993,
   "type": "Feature",
   "properties": {
+    "addr:full":"3214 Colvin St Alexandria VA 22314",
+    "addr:housenumber":"3214",
+    "addr:postcode":"22314",
+    "addr:street":"Colvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085885,38.807037,-77.085885,38.807037",
     "geom:latitude":38.807037,
     "geom:longitude":-77.085885,
@@ -34,7 +39,14 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xqDrS0ltaxDTEaK4MHUyj_38.806958_-77.086338@1293134755"
@@ -42,11 +54,21 @@
     "wof:country":"US",
     "wof:created":1461909761,
     "wof:geomhash":"8bc919202ac60f06784d35f869d28d4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739568993
+        }
+    ],
     "wof:id":739568993,
-    "wof:lastmodified":1467088620,
+    "wof:lastmodified":1490400191,
     "wof:name":"Glenn P Beane Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

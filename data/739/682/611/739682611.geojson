@@ -2,9 +2,14 @@
   "id": 739682611,
   "type": "Feature",
   "properties": {
+    "addr:full":"3750 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3750",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052002,38.838402,-77.052002,38.838402",
     "geom:latitude":38.838402,
     "geom:longitude":-77.052002,
@@ -37,7 +42,14 @@
     ],
     "sg:website":"http://www.toyota.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O08rvWqItaTxK42nyjPZP_38.838402_-77.052002@1303262545"
@@ -45,11 +57,21 @@
     "wof:country":"US",
     "wof:created":1461912198,
     "wof:geomhash":"21a3abd27d6530506086756b50a37c12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739682611
+        }
+    ],
     "wof:id":739682611,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400284,
     "wof:name":"Alexandria Toyota-Used",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

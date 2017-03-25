@@ -2,9 +2,14 @@
   "id": 739582593,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Swamp Fox Rd  Alexandria VA 22314",
+    "addr:housenumber":"301",
+    "addr:postcode":"22314",
+    "addr:street":"Swamp Fox Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.071142,38.801826,-77.071142,38.801826",
     "geom:latitude":38.801826,
     "geom:longitude":-77.071142,
@@ -28,7 +33,15 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kJ90iqHtilFKt8ml9zwdO_38.801826_-77.071142@1299784598"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461910053,
     "wof:geomhash":"b5cee7f53fbd526c1c050f28e54c9f6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":739582593
+        }
+    ],
     "wof:id":739582593,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490399775,
     "wof:name":"California Tortilla",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

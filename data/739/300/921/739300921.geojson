@@ -2,9 +2,14 @@
   "id": 739300921,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 S Whiting St Alexandria VA 22304",
+    "addr:housenumber":"318",
+    "addr:postcode":"22304",
+    "addr:street":"S Whiting St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136796,38.810985,-77.136796,38.810985",
     "geom:latitude":38.810985,
     "geom:longitude":-77.136796,
@@ -28,7 +33,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R11cTaqDCR0Yq6z3XTNFs_38.810985_-77.136796@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461904597,
     "wof:geomhash":"69c2ce5992d47dbbdeb8a5444e58119b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739300921
+        }
+    ],
     "wof:id":739300921,
-    "wof:lastmodified":1467088425,
+    "wof:lastmodified":1490400155,
     "wof:name":"KSI Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

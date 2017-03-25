@@ -2,9 +2,14 @@
   "id": 739385795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1725",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.061418,38.804566,-77.061418,38.804566",
     "geom:latitude":38.804566,
     "geom:longitude":-77.061418,
@@ -29,7 +34,14 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T4n4t22gAAZ3AoekF10io_38.804566_-77.061418@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461906300,
     "wof:geomhash":"31ed450920d5dd565deb08f343e7d158",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739385795
+        }
+    ],
     "wof:id":739385795,
-    "wof:lastmodified":1467088487,
+    "wof:lastmodified":1490400225,
     "wof:name":"CPM International Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

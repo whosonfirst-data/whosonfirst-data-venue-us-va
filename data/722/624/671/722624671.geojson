@@ -2,9 +2,14 @@
   "id": 722624671,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Cambridge Rd Alexandria VA 22314",
+    "addr:housenumber":"308",
+    "addr:postcode":"22314",
+    "addr:street":"Cambridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081428,38.812687,-77.081428,38.812687",
     "geom:latitude":38.812687,
     "geom:longitude":-77.081428,
@@ -28,7 +33,15 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zTpbE4Gz7EPyYuV5FeBWA_38.812687_-77.081428@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461885485,
     "wof:geomhash":"39d3a79b910475144e37a038f092c36c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722624671
+        }
+    ],
     "wof:id":722624671,
-    "wof:lastmodified":1467087738,
+    "wof:lastmodified":1490400334,
     "wof:name":"S B Swenson",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

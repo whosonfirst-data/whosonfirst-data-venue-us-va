@@ -2,9 +2,14 @@
   "id": 739688767,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 N Washington St # 603 Alexandria VA 22314",
+    "addr:housenumber":"901",
+    "addr:postcode":"22314",
+    "addr:street":"N Washington St # 603",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.044998,38.814152,-77.044998,38.814152",
     "geom:latitude":38.814152,
     "geom:longitude":-77.044998,
@@ -42,7 +47,14 @@
     ],
     "sg:website":"http://www.metroherald.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sR9zKoEOsByZp7Ik53yVI_38.814152_-77.044998@1303262546"
@@ -50,11 +62,21 @@
     "wof:country":"US",
     "wof:created":1461912314,
     "wof:geomhash":"2a6c7367e15c7f557bd0518f5b6d68d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739688767
+        }
+    ],
     "wof:id":739688767,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490399909,
     "wof:name":"Metro Herald, The",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

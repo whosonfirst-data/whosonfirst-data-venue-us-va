@@ -2,9 +2,14 @@
   "id": 723431233,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 S Royal St Alexandria VA 22314",
+    "addr:housenumber":"719",
+    "addr:postcode":"22314",
+    "addr:street":"S Royal St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.045392,38.79681,-77.045392,38.79681",
     "geom:latitude":38.79681,
     "geom:longitude":-77.045392,
@@ -27,7 +32,14 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YjUVlN2IHk1X3SZKT7dLH_38.796810_-77.045392@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461901591,
     "wof:geomhash":"db82ed439cf84792ed68f0881be5ffee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723431233
+        }
+    ],
     "wof:id":723431233,
-    "wof:lastmodified":1467088323,
+    "wof:lastmodified":1490398786,
     "wof:name":"Merdon Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

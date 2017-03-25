@@ -2,9 +2,14 @@
   "id": 723030845,
   "type": "Feature",
   "properties": {
+    "addr:full":"3690 King St Alexandria VA 22302",
+    "addr:housenumber":"3690",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091819,38.830162,-77.091819,38.830162",
     "geom:latitude":38.830162,
     "geom:longitude":-77.091819,
@@ -28,7 +33,14 @@
         "beauty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZtnTaZYVdJ1lS4J1VRTIE_38.830162_-77.091819@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461893616,
     "wof:geomhash":"ffb7af444f69618f108bb2b72cfc2412",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":723030845
+        }
+    ],
     "wof:id":723030845,
-    "wof:lastmodified":1467088031,
+    "wof:lastmodified":1490398552,
     "wof:name":"Davidson Beauty Supply Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

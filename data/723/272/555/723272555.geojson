@@ -2,9 +2,14 @@
   "id": 723272555,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Malcolm Pl Alexandria VA 22302",
+    "addr:housenumber":"502",
+    "addr:postcode":"22302",
+    "addr:street":"Malcolm Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.070518,38.823237,-77.070518,38.823237",
     "geom:latitude":38.823237,
     "geom:longitude":-77.070518,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725007,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547829
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "microhood_id":1108725007,
             "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":723272555
         }
     ],
     "wof:id":723272555,
-    "wof:lastmodified":1467088208,
+    "wof:lastmodified":1490400347,
     "wof:name":"L Clark Hamilton & Associates",
-    "wof:parent_id":420547829,
+    "wof:parent_id":1108725007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

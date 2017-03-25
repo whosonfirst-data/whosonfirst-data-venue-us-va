@@ -2,9 +2,14 @@
   "id": 739505801,
   "type": "Feature",
   "properties": {
+    "addr:full":"375 S Reynolds St Alexandria VA 22304",
+    "addr:housenumber":"375",
+    "addr:postcode":"22304",
+    "addr:street":"S Reynolds St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.128312,38.810482,-77.128312,38.810482",
     "geom:latitude":38.810482,
     "geom:longitude":-77.128312,
@@ -24,7 +29,15 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kfMIPBK6wil0H8N9iA4mM_38.810482_-77.128312@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461908532,
     "wof:geomhash":"32d053fa8f007d20e5957d1a13a79a79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739505801
+        }
+    ],
     "wof:id":739505801,
-    "wof:lastmodified":1467088574,
+    "wof:lastmodified":1490400105,
     "wof:name":"Essex House",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

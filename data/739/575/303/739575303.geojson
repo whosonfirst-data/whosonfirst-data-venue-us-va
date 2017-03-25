@@ -2,9 +2,14 @@
   "id": 739575303,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Oronoco St Alexandria VA 22314",
+    "addr:housenumber":"115",
+    "addr:postcode":"22314",
+    "addr:street":"Oronoco St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.039469,38.808791,-77.039469,38.808791",
     "geom:latitude":38.808791,
     "geom:longitude":-77.039469,
@@ -27,7 +32,14 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77YhgrbHMvr1y5IO5IHYKg_38.808877_-77.039612@1293134755"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461909899,
     "wof:geomhash":"a278089d47410d6495fd441d2a334cbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":739575303
+        }
+    ],
     "wof:id":739575303,
-    "wof:lastmodified":1467088624,
+    "wof:lastmodified":1490400243,
     "wof:name":"Gary Lonergan W Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

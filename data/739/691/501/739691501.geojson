@@ -2,9 +2,14 @@
   "id": 739691501,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Commerce St Alexandria VA 22314",
+    "addr:housenumber":"333",
+    "addr:postcode":"22314",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.055351,38.80486,-77.055351,38.80486",
     "geom:latitude":38.80486,
     "geom:longitude":-77.055351,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"http://www.rid.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75ShbwETPYuTCc0Qpi3ZDs_38.804860_-77.055351@1303262546"
@@ -39,11 +51,21 @@
     "wof:country":"US",
     "wof:created":1461912375,
     "wof:geomhash":"58d7b78b98d9cffe16034dcfe031ec7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739691501
+        }
+    ],
     "wof:id":739691501,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490398605,
     "wof:name":"Rid",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

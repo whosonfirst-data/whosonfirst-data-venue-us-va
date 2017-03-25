@@ -2,9 +2,14 @@
   "id": 723381019,
   "type": "Feature",
   "properties": {
+    "addr:full":"2141 Jamieson Ave Alexandria VA 22314",
+    "addr:housenumber":"2141",
+    "addr:postcode":"22314",
+    "addr:street":"Jamieson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.065896,38.80321,-77.065896,38.80321",
     "geom:latitude":38.80321,
     "geom:longitude":-77.065896,
@@ -24,7 +29,15 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5heNBUtdPc46o2g6SaGubH_38.803210_-77.065896@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461900603,
     "wof:geomhash":"21574210460bc5b744efe6f773de5dc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":723381019
+        }
+    ],
     "wof:id":723381019,
-    "wof:lastmodified":1467088286,
+    "wof:lastmodified":1490399787,
     "wof:name":"Paesano Italian Deli Rstrnt",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739675999,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Jefferson Davis Hwy Alexandria VA 22301",
+    "addr:housenumber":"2100",
+    "addr:postcode":"22301",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.050201,38.825298,-77.050201,38.825298",
     "geom:latitude":38.825298,
     "geom:longitude":-77.050201,
@@ -35,7 +40,14 @@
         "service-sound"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z67PWPRiUTXZm0M2aJ8CK_38.825298_-77.050201@1303262544"
@@ -43,11 +55,21 @@
     "wof:country":"US",
     "wof:created":1461912072,
     "wof:geomhash":"9006d1f56a7d521f1e720e3496b7219b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875845,
+            "region_id":85688747,
+            "venue_id":739675999
+        }
+    ],
     "wof:id":739675999,
-    "wof:lastmodified":1467088697,
+    "wof:lastmodified":1490399922,
     "wof:name":"Iar Music Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

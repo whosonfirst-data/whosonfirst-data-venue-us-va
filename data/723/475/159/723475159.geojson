@@ -2,9 +2,14 @@
   "id": 723475159,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 Manor Rd Alexandria VA 22305",
+    "addr:housenumber":"703",
+    "addr:postcode":"22305",
+    "addr:street":"Manor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.074705,38.841102,-77.074705,38.841102",
     "geom:latitude":38.841102,
     "geom:longitude":-77.074705,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547845
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547845,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":723475159
         }
     ],
     "wof:id":723475159,
-    "wof:lastmodified":1467088355,
+    "wof:lastmodified":1490400291,
     "wof:name":"Nicole A Orton",
-    "wof:parent_id":420547845,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

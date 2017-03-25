@@ -2,9 +2,14 @@
   "id": 739679519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3606 Seminary Rd Alexandria VA 22304",
+    "addr:housenumber":"3606",
+    "addr:postcode":"22304",
+    "addr:street":"Seminary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090599,38.817699,-77.090599,38.817699",
     "geom:latitude":38.817699,
     "geom:longitude":-77.090599,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85810399
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85810399,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739679519
         }
     ],
     "wof:id":739679519,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490399999,
     "wof:name":"Immanuel Church-On-the-Hill",
-    "wof:parent_id":85810399,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

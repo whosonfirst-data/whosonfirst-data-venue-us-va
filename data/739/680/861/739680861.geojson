@@ -2,9 +2,14 @@
   "id": 739680861,
   "type": "Feature",
   "properties": {
+    "addr:full":"4942 Eisenhower Ave Alexandria VA 22304",
+    "addr:housenumber":"4942",
+    "addr:postcode":"22304",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.12043,38.803019,-77.12043,38.803019",
     "geom:latitude":38.803019,
     "geom:longitude":-77.12043,
@@ -32,7 +37,15 @@
         "merchandise-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7httuprkjDB9T2pQP9K4ZZ_38.803019_-77.120430@1303262545"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1461912161,
     "wof:geomhash":"2e40e963e37747eb08dccdd0b501ddf0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739680861
+        }
+    ],
     "wof:id":739680861,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400115,
     "wof:name":"Omega Wholesale & Distr Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

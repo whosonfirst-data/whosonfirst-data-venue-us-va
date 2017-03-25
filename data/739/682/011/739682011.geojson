@@ -2,9 +2,14 @@
   "id": 739682011,
   "type": "Feature",
   "properties": {
+    "addr:full":"6060 Tower Ct Apt 1602 Alexandria VA 22304",
+    "addr:housenumber":"6060;1602",
+    "addr:postcode":"22304",
+    "addr:street":"Tower Ct Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137384,38.814529,-77.137384,38.814529",
     "geom:latitude":38.814529,
     "geom:longitude":-77.137384,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MgHzHPQtvGd0PED3gQV6u_38.814529_-77.137384@1303262545"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461912182,
     "wof:geomhash":"2ef87334e1c65ac6776e3d9a9fc65c8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739682011
+        }
+    ],
     "wof:id":739682011,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400131,
     "wof:name":"Bowe Bell And Howell",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

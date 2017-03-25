@@ -2,9 +2,14 @@
   "id": 739689697,
   "type": "Feature",
   "properties": {
+    "addr:full":"2851 Duke St Alexandria VA 22314",
+    "addr:housenumber":"2851",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.078596,38.807203,-77.078596,38.807203",
     "geom:latitude":38.807203,
     "geom:longitude":-77.078596,
@@ -31,7 +36,15 @@
         "basement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q80NJKo5CUdGrQaixkNVV_38.807203_-77.078596@1303262546"
@@ -39,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1461912335,
     "wof:geomhash":"3536bab7f641bebc7256a10b83077d12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739689697
+        }
+    ],
     "wof:id":739689697,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490400333,
     "wof:name":"JEWEL AND ROSEBORO CONSTRUCTION LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

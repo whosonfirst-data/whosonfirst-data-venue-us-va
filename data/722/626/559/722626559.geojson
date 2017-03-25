@@ -2,9 +2,14 @@
   "id": 722626559,
   "type": "Feature",
   "properties": {
+    "addr:full":"6259 Little River Tpke Alexandria VA 22312",
+    "addr:housenumber":"6259",
+    "addr:postcode":"22312",
+    "addr:street":"Little River Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.141066,38.817516,-77.141066,38.817516",
     "geom:latitude":38.817516,
     "geom:longitude":-77.141066,
@@ -27,7 +32,18 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729761,
+        102084863,
+        85830657,
+        85875825,
+        1108724981,
+        101728581,
+        102080641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cju74b3Jtq0EzclzBF7fg_38.817516_-77.141066@1294252573"
@@ -35,11 +51,31 @@
     "wof:country":"US",
     "wof:created":1461885526,
     "wof:geomhash":"44787fc782b5e53a3cd2f85f0d8cd701",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85830657,
+            "region_id":85688747,
+            "venue_id":722626559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":722626559
+        }
+    ],
     "wof:id":722626559,
-    "wof:lastmodified":1467087739,
+    "wof:lastmodified":1490399706,
     "wof:name":"Temptasian Cafe Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

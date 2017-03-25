@@ -2,9 +2,14 @@
   "id": 739597449,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"4115",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.064013,38.843057,-77.064013,38.843057",
     "geom:latitude":38.843057,
     "geom:longitude":-77.064013,
@@ -29,7 +34,14 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NvMFYDRz9O503cBLE1eDF_38.843626_-77.064200@1293134755"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461910343,
     "wof:geomhash":"e60c2c6f04d5b7d7eb3efbbf53931e1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739597449
+        }
+    ],
     "wof:id":739597449,
-    "wof:lastmodified":1467088640,
+    "wof:lastmodified":1490398563,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739571869,
   "type": "Feature",
   "properties": {
+    "addr:full":"1935 Hawthorne Ave Alexandria VA 22311",
+    "addr:housenumber":"1935",
+    "addr:postcode":"22311",
+    "addr:street":"Hawthorne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.134308,38.832206,-77.134308,38.832206",
     "geom:latitude":38.832206,
     "geom:longitude":-77.134308,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "macrohood_id":1108724981,
             "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739571869
         }
     ],
     "wof:id":739571869,
-    "wof:lastmodified":1467088622,
+    "wof:lastmodified":1490399694,
     "wof:name":"Michael I Keller Enterprises",
     "wof:parent_id":85875825,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 739692001,
   "type": "Feature",
   "properties": {
+    "addr:full":"608 Montgomery St Alexandria VA 22314",
+    "addr:housenumber":"608",
+    "addr:postcode":"22314",
+    "addr:street":"Montgomery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.043961,38.814005,-77.043961,38.814005",
     "geom:latitude":38.814005,
     "geom:longitude":-77.043961,
@@ -19,7 +24,14 @@
     "sg:province":"VA",
     "sg:website":"http://www.stardustrestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EdZcdtd2EHnBMZUIqbQ4F_38.814005_-77.043961@1303262546"
@@ -27,11 +39,21 @@
     "wof:country":"US",
     "wof:created":1461912383,
     "wof:geomhash":"9084069eaf2e30924b21c61e6b938fd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739692001
+        }
+    ],
     "wof:id":739692001,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490399908,
     "wof:name":"Stardust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

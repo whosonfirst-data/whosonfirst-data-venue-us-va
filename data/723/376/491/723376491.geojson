@@ -2,9 +2,14 @@
   "id": 723376491,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 W Glendale Ave Alexandria VA 22301",
+    "addr:housenumber":"2",
+    "addr:postcode":"22301",
+    "addr:street":"W Glendale Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.065838,38.81608,-77.065838,38.81608",
     "geom:latitude":38.81608,
     "geom:longitude":-77.065838,
@@ -35,7 +40,8 @@
         85633793,
         101728581,
         102080641,
-        85806975
+        420781829,
+        85814135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,24 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85806975,
+            "neighbourhood_id":420781829,
+            "region_id":85688747,
+            "venue_id":723376491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85814135,
             "region_id":85688747,
             "venue_id":723376491
         }
     ],
     "wof:id":723376491,
-    "wof:lastmodified":1467088283,
+    "wof:lastmodified":1490399663,
     "wof:name":"Reeder Tom & Ruth Foundation",
-    "wof:parent_id":85806975,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

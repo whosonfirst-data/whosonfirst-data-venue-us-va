@@ -2,9 +2,14 @@
   "id": 723035741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1468 Beauregard St Alexandria VA 22311",
+    "addr:housenumber":"1468",
+    "addr:postcode":"22311",
+    "addr:street":"Beauregard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.128662,38.826888,-77.128662,38.826888",
     "geom:latitude":38.826888,
     "geom:longitude":-77.128662,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        420781825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875825,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
             "region_id":85688747,
             "venue_id":723035741
         }
     ],
     "wof:id":723035741,
-    "wof:lastmodified":1467088035,
+    "wof:lastmodified":1490400087,
     "wof:name":"1 All Day Emergency",
-    "wof:parent_id":85875825,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739683071,
   "type": "Feature",
   "properties": {
+    "addr:full":"53 Dale St Alexandria VA 22305",
+    "addr:housenumber":"53",
+    "addr:postcode":"22305",
+    "addr:street":"Dale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058802,38.837399,-77.058802,38.837399",
     "geom:latitude":38.837399,
     "geom:longitude":-77.058802,
@@ -29,7 +34,14 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06vvkKWwzSJkWi8EUZa23w_38.837399_-77.058802@1303262545"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461912206,
     "wof:geomhash":"df589f195a3b71edebdc4d5d9c1dae7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739683071
+        }
+    ],
     "wof:id":739683071,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490399607,
     "wof:name":"Cory's Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

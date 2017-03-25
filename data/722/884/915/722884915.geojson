@@ -2,9 +2,14 @@
   "id": 722884915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Prince St Alexandria VA 22314",
+    "addr:housenumber":"1700",
+    "addr:postcode":"22314",
+    "addr:street":"Prince St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.059717,38.80552,-77.059717,38.80552",
     "geom:latitude":38.80552,
     "geom:longitude":-77.059717,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5efGXrkPfx0JUfFLfTd1dM_38.805520_-77.059717@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461890483,
     "wof:geomhash":"ec60f5c40d5c26d0ab0643fc8ef21a56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":722884915
+        }
+    ],
     "wof:id":722884915,
-    "wof:lastmodified":1467087926,
+    "wof:lastmodified":1490400225,
     "wof:name":"Crate & Barrel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

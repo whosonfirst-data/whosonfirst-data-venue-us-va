@@ -2,9 +2,14 @@
   "id": 723497485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2576 Nicky Ln Alexandria VA 22311",
+    "addr:housenumber":"2576",
+    "addr:postcode":"22311",
+    "addr:street":"Nicky Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.121504,38.834796,-77.121504,38.834796",
     "geom:latitude":38.834796,
     "geom:longitude":-77.121504,
@@ -24,7 +29,15 @@
     "sg:postcode":"22311",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qTA9HWHrJD2rQFqSxkszh_38.834796_-77.121504@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461902906,
     "wof:geomhash":"a3077c5d3dff4a3566e4dd3f9af2d3d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":723497485
+        }
+    ],
     "wof:id":723497485,
-    "wof:lastmodified":1467088371,
+    "wof:lastmodified":1490399692,
     "wof:name":"Institute For Care Givers Educ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

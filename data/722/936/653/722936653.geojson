@@ -2,9 +2,14 @@
   "id": 722936653,
   "type": "Feature",
   "properties": {
+    "addr:full":"331 Ashby St Alexandria VA 22305",
+    "addr:housenumber":"331",
+    "addr:postcode":"22305",
+    "addr:street":"Ashby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054722,38.833365,-77.054722,38.833365",
     "geom:latitude":38.833365,
     "geom:longitude":-77.054722,
@@ -24,7 +29,14 @@
     "sg:postcode":"22305",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85814135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78B9rlOxj4aK3MMzZpCDO3_38.833365_-77.054722@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461891563,
     "wof:geomhash":"13ce54df6dd73709b445b83e67d604c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85814135,
+            "region_id":85688747,
+            "venue_id":722936653
+        }
+    ],
     "wof:id":722936653,
-    "wof:lastmodified":1467087963,
+    "wof:lastmodified":1490398488,
     "wof:name":"William H Catlett III",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],
