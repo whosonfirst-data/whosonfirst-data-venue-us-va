@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.015349,38.897331,-77.015349,38.897331",
     "geom:latitude":38.897331,
     "geom:longitude":-77.015349,
@@ -29,12 +30,14 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723641,
+        85866033,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869193
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,17 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85869193,
+            "macrohood_id":1108723661,
+            "microhood_id":1108723641,
+            "neighbourhood_id":85866033,
             "region_id":85688741,
             "venue_id":739650399
         }
     ],
     "wof:id":739650399,
-    "wof:lastmodified":1472652045,
+    "wof:lastmodified":1490402028,
     "wof:name":"American Vaccine Centers",
-    "wof:parent_id":85869193,
+    "wof:parent_id":1108723641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

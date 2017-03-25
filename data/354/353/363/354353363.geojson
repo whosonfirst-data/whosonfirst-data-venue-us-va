@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.110434,38.929611,-77.110434,38.929611",
     "geom:latitude":38.929611,
     "geom:longitude":-77.110434,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85842925,
+        102191575,
+        1108723661,
         85633793,
-        101729469,
-        102085953,
-        85842925
+        85931779,
+        102084889,
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"1ee4d8baf4b549c9d2721e67e58c4012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
+            "county_id":102084889,
+            "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85842925,
-            "region_id":85688747,
+            "region_id":85688741,
             "venue_id":354353363
         }
     ],
     "wof:id":354353363,
-    "wof:lastmodified":1472651067,
+    "wof:lastmodified":1490401854,
     "wof:name":"E R Rotner",
     "wof:parent_id":85842925,
     "wof:placetype":"venue",

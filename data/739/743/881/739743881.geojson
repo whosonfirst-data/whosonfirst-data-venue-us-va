@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.042417,38.921956,-77.042417,38.921956",
     "geom:latitude":38.921956,
     "geom:longitude":-77.042417,
@@ -44,12 +45,14 @@
     "sg:website":"http://www.magadesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108723523,
+        85802425,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869619
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,15 +67,17 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85869619,
+            "macrohood_id":1108723661,
+            "microhood_id":1108723523,
+            "neighbourhood_id":85802425,
             "region_id":85688741,
             "venue_id":739743881
         }
     ],
     "wof:id":739743881,
-    "wof:lastmodified":1472652269,
+    "wof:lastmodified":1490402021,
     "wof:name":"Maga Design Group",
-    "wof:parent_id":85869619,
+    "wof:parent_id":1108723523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],
