@@ -2,9 +2,14 @@
   "id": 739681411,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 Edsall Rd Apt 405 Alexandria VA 22304",
+    "addr:housenumber":"6101;405",
+    "addr:postcode":"22304",
+    "addr:street":"Edsall Rd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.138779,38.807812,-77.138779,38.807812",
     "geom:latitude":38.807812,
     "geom:longitude":-77.138779,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724983,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547835
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547835,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
             "region_id":85688747,
             "venue_id":739681411
         }
     ],
     "wof:id":739681411,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400122,
     "wof:name":"Vicrac",
-    "wof:parent_id":420547835,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739387281,
   "type": "Feature",
   "properties": {
+    "addr:full":"3827 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"3827",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062083,38.838406,-77.062083,38.838406",
     "geom:latitude":38.838406,
     "geom:longitude":-77.062083,
@@ -30,7 +35,14 @@
         "cashing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23i7SYPF9JpO5gpP00gAWE_38.838406_-77.062083@1294252573"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1461906344,
     "wof:geomhash":"c1acc8e102efa9afa177436345e96d11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739387281
+        }
+    ],
     "wof:id":739387281,
-    "wof:lastmodified":1467088488,
+    "wof:lastmodified":1490398592,
     "wof:name":"Check Cash & Cellular Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

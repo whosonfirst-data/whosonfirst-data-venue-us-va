@@ -2,9 +2,14 @@
   "id": 739680185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3757 Duke St Alexandria VA 22304",
+    "addr:housenumber":"3757",
+    "addr:postcode":"22304",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.096044,38.810094,-77.096044,38.810094",
     "geom:latitude":38.810094,
     "geom:longitude":-77.096044,
@@ -35,12 +40,14 @@
     "sg:website":"http://www.corzosremodeling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725011,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +62,17 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547825,
+            "macrohood_id":1108724981,
+            "microhood_id":1108725011,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739680185
         }
     ],
     "wof:id":739680185,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400354,
     "wof:name":"Corzo's Remodeling",
-    "wof:parent_id":420547825,
+    "wof:parent_id":1108725011,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

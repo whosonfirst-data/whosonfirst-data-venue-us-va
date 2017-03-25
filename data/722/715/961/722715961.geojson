@@ -2,9 +2,14 @@
   "id": 722715961,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Dale St Alexandria VA 22305",
+    "addr:housenumber":"135",
+    "addr:postcode":"22305",
+    "addr:street":"Dale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.059734,38.837682,-77.059734,38.837682",
     "geom:latitude":38.837682,
     "geom:longitude":-77.059734,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zeiBXjHRoP0nhBEOau6OT_38.837682_-77.059734@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461887269,
     "wof:geomhash":"ef6a21eab243eb80e0e716af33c68323",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":722715961
+        }
+    ],
     "wof:id":722715961,
-    "wof:lastmodified":1467087805,
+    "wof:lastmodified":1490399608,
     "wof:name":"A & A Williams",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

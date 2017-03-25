@@ -2,9 +2,14 @@
   "id": 722549647,
   "type": "Feature",
   "properties": {
+    "addr:full":"3512 Wilson Ave Alexandria VA 22305",
+    "addr:housenumber":"3512",
+    "addr:postcode":"22305",
+    "addr:street":"Wilson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056559,38.835614,-77.056559,38.835614",
     "geom:latitude":38.835614,
     "geom:longitude":-77.056559,
@@ -24,7 +29,14 @@
     "sg:postcode":"22305",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60SxvJYj82GnZW1hs5Ihr7_38.835614_-77.056559@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461883998,
     "wof:geomhash":"8340cf26e3a60994ef724c482a344b6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547819,
+            "region_id":85688747,
+            "venue_id":722549647
+        }
+    ],
     "wof:id":722549647,
-    "wof:lastmodified":1467087683,
+    "wof:lastmodified":1490398507,
     "wof:name":"Habitat",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739459823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1020",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051691,38.803235,-77.051691,38.803235",
     "geom:latitude":38.803235,
     "geom:longitude":-77.051691,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.sitescape.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_208spfsjx8vPEOJbVmxHB4_38.803235_-77.051691@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461907713,
     "wof:geomhash":"7ae8aa1703d57eb17df860b7eb84795d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":739459823
+        }
+    ],
     "wof:id":739459823,
-    "wof:lastmodified":1467088540,
+    "wof:lastmodified":1490398625,
     "wof:name":"Sitescape",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

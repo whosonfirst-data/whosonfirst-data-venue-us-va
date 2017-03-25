@@ -2,9 +2,14 @@
   "id": 723150311,
   "type": "Feature",
   "properties": {
+    "addr:full":"4112 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"4112",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.064353,38.843613,-77.064353,38.843613",
     "geom:latitude":38.843613,
     "geom:longitude":-77.064353,
@@ -27,7 +32,14 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vSA6W4v1Oyl8cbM4NaEtI_38.843613_-77.064353@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461896102,
     "wof:geomhash":"e6f1576ba804b13abdc3b7c9773b6052",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":723150311
+        }
+    ],
     "wof:id":723150311,
-    "wof:lastmodified":1467088119,
+    "wof:lastmodified":1490399109,
     "wof:name":"Genet's Firay Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

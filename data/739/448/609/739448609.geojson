@@ -2,9 +2,14 @@
   "id": 739448609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2720 Williamsburg St Alexandria VA 22314",
+    "addr:housenumber":"2720",
+    "addr:postcode":"22314",
+    "addr:street":"Williamsburg St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080328,38.802781,-77.080328,38.802781",
     "geom:latitude":38.802781,
     "geom:longitude":-77.080328,
@@ -27,7 +32,15 @@
         "developer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108725027,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vnFGUNno8i9qjivvMeAv5_38.802781_-77.080328@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461907514,
     "wof:geomhash":"90925a49cc7fbdcc544278e7131a438e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":1108725027,
+            "region_id":85688747,
+            "venue_id":739448609
+        }
+    ],
     "wof:id":739448609,
-    "wof:lastmodified":1467088532,
+    "wof:lastmodified":1490400286,
     "wof:name":"Jaxara Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

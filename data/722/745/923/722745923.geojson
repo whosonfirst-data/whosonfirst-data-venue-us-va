@@ -2,9 +2,14 @@
   "id": 722745923,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 N Washington St Alexandria VA 22314",
+    "addr:housenumber":"400",
+    "addr:postcode":"22314",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.045997,38.809613,-77.045997,38.809613",
     "geom:latitude":38.809613,
     "geom:longitude":-77.045997,
@@ -25,7 +30,15 @@
     "sg:province":"VA",
     "sg:website":"www.pianet.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724979,
+        85875841,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ub5B9OCwDZ9KMrvYKuOd5_38.809613_-77.045997@1294252573"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461887863,
     "wof:geomhash":"c767296552fd744e858ed9c1744efe1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":722745923
+        }
+    ],
     "wof:id":722745923,
-    "wof:lastmodified":1467087826,
+    "wof:lastmodified":1490400303,
     "wof:name":"Professional Insurance Agents",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

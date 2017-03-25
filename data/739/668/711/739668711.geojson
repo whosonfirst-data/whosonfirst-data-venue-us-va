@@ -2,9 +2,14 @@
   "id": 739668711,
   "type": "Feature",
   "properties": {
+    "addr:full":"4656-A King St Alexandria VA 22206",
+    "addr:housenumber":"4656-a",
+    "addr:postcode":"22206",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.107096,38.841267,-77.107096,38.841267",
     "geom:latitude":38.841267,
     "geom:longitude":-77.107096,
@@ -31,12 +36,13 @@
     "sg:website":"www.embroidme-alexandria.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85820249
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85820249,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739668711
         }
     ],
     "wof:id":739668711,
-    "wof:lastmodified":1467088691,
+    "wof:lastmodified":1490399689,
     "wof:name":"EmbroidMe",
-    "wof:parent_id":85820249,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739688579,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Slaters Ln Alexandria VA 22314",
+    "addr:housenumber":"625",
+    "addr:postcode":"22314",
+    "addr:street":"Slaters Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.042503,38.821701,-77.042503,38.821701",
     "geom:latitude":38.821701,
     "geom:longitude":-77.042503,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m3JYDzdMjn2CeVC8NWvEV_38.821701_-77.042503@1303262546"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461912310,
     "wof:geomhash":"9bbb1a765882efabb1a9c4f8e065373a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":739688579
+        }
+    ],
     "wof:id":739688579,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490400254,
     "wof:name":"Kenney J Ernest",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

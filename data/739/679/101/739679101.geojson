@@ -2,9 +2,14 @@
   "id": 739679101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2602 Central Ave Alexandria VA 22302",
+    "addr:housenumber":"2602",
+    "addr:postcode":"22302",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.075646,38.828083,-77.075646,38.828083",
     "geom:latitude":38.828083,
     "geom:longitude":-77.075646,
@@ -32,12 +37,13 @@
     "sg:website":"http://www.markus-net.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725007,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547831
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547831,
+            "microhood_id":1108725007,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739679101
         }
     ],
     "wof:id":739679101,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490400350,
     "wof:name":"Markus-Net Consulting Inc.",
-    "wof:parent_id":420547831,
+    "wof:parent_id":1108725007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

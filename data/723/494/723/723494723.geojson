@@ -2,9 +2,14 @@
   "id": 723494723,
   "type": "Feature",
   "properties": {
+    "addr:full":"279 S Van Dorn St Alexandria VA 22304",
+    "addr:housenumber":"279",
+    "addr:postcode":"22304",
+    "addr:street":"S;Dorn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.13239,38.810254,-77.13239,38.810254",
     "geom:latitude":38.810254,
     "geom:longitude":-77.13239,
@@ -27,7 +32,15 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fnSsDqLgp6XZmsVaZOWkC_38.810254_-77.132390@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461902833,
     "wof:geomhash":"863830d2dcf41c62c4bf136f985b462e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723494723
+        }
+    ],
     "wof:id":723494723,
-    "wof:lastmodified":1467088369,
+    "wof:lastmodified":1490400137,
     "wof:name":"Annettes B B Q Heaven",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

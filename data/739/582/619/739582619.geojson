@@ -2,9 +2,14 @@
   "id": 739582619,
   "type": "Feature",
   "properties": {
+    "addr:full":"2451 Eisenhower Ave Alexandria VA 22314",
+    "addr:housenumber":"2451",
+    "addr:postcode":"22314",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072713,38.801598,-77.072713,38.801598",
     "geom:latitude":38.801598,
     "geom:longitude":-77.072713,
@@ -28,7 +33,15 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79EYIy6noB3eSggKz8C5N4_38.801598_-77.072713@1299784598"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461910053,
     "wof:geomhash":"5b0bff257f308bcf512722363c359312",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":739582619
+        }
+    ],
     "wof:id":739582619,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490399784,
     "wof:name":"Ted's Montana Grill",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

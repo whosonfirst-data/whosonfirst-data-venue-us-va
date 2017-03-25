@@ -2,9 +2,14 @@
   "id": 739687533,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 Lincolnia Rd. #705 Alexandria VA 22312",
+    "addr:housenumber":"",
+    "addr:postcode":"6100;22312",
+    "addr:street":"Lincolnia Rd. # 705",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137587,38.818082,-77.137587,38.818082",
     "geom:latitude":38.818082,
     "geom:longitude":-77.137587,
@@ -37,7 +42,15 @@
     ],
     "sg:website":"http://www.andrewsgaragedoorrepair.biz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z9pOMpk7RZYZVpoRIkYtU_38.818082_-77.137587@1303262546"
@@ -45,11 +58,22 @@
     "wof:country":"US",
     "wof:created":1461912291,
     "wof:geomhash":"851df01858f7f3089f180a9bba7751ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739687533
+        }
+    ],
     "wof:id":739687533,
-    "wof:lastmodified":1467088705,
+    "wof:lastmodified":1490399693,
     "wof:name":"Andrew's Garage Door Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

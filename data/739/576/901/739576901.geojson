@@ -2,9 +2,14 @@
   "id": 739576901,
   "type": "Feature",
   "properties": {
+    "addr:full":"3808 Brighton Ct Alexandria VA 22305",
+    "addr:housenumber":"3808",
+    "addr:postcode":"22305",
+    "addr:street":"Brighton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.06889,38.841354,-77.06889,38.841354",
     "geom:latitude":38.841354,
     "geom:longitude":-77.06889,
@@ -29,7 +34,14 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qhsu1ZVzpHRRZwMFMkvs2_38.841277_-77.069202@1293134755"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461909939,
     "wof:geomhash":"ff474268c3104a90155fe02fa3b1c12a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739576901
+        }
+    ],
     "wof:id":739576901,
-    "wof:lastmodified":1467088625,
+    "wof:lastmodified":1490398849,
     "wof:name":"Imagecom International",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

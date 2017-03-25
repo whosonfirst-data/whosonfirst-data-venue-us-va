@@ -2,9 +2,14 @@
   "id": 739680559,
   "type": "Feature",
   "properties": {
+    "addr:full":"5707A Edsall Rd Alexandria VA 22304",
+    "addr:housenumber":"5707a",
+    "addr:postcode":"22304",
+    "addr:street":"Edsall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.130864,38.80767,-77.130864,38.80767",
     "geom:latitude":38.80767,
     "geom:longitude":-77.130864,
@@ -46,12 +51,13 @@
     "sg:website":"http://find.americanstandardair.com/customer-care-dealer-406770?utm_source=YP&utm_medium=banner&utm_campaign=TL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724983,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547835
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,15 +72,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547835,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
             "region_id":85688747,
             "venue_id":739680559
         }
     ],
     "wof:id":739680559,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400120,
     "wof:name":"Krafft Service Corp.",
-    "wof:parent_id":420547835,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

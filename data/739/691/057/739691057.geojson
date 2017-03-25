@@ -2,9 +2,14 @@
   "id": 739691057,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 Princess St Alexandria VA 22314",
+    "addr:housenumber":"809",
+    "addr:postcode":"22314",
+    "addr:street":"Princess St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.047468,38.808643,-77.047468,38.808643",
     "geom:latitude":38.808643,
     "geom:longitude":-77.047468,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724979,
+        85875841,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875839
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875839,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
             "region_id":85688747,
             "venue_id":739691057
         }
     ],
     "wof:id":739691057,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490400308,
     "wof:name":"Commonwealth Foundation Of The South",
-    "wof:parent_id":85875839,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

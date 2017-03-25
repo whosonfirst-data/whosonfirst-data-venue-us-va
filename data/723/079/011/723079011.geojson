@@ -2,9 +2,14 @@
   "id": 723079011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Eisenhower Ave Alexandria VA 22314",
+    "addr:housenumber":"1500",
+    "addr:postcode":"22314",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.060628,38.798483,-77.060628,38.798483",
     "geom:latitude":38.798483,
     "geom:longitude":-77.060628,
@@ -35,7 +40,15 @@
     ],
     "sg:website":"www.alexsan.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q7FluNVjPfadGnnEAFCER_38.798483_-77.060628@1294252573"
@@ -43,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1461894661,
     "wof:geomhash":"9882ac7b0a5177936b990c2bd2600ab8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":723079011
+        }
+    ],
     "wof:id":723079011,
-    "wof:lastmodified":1467088067,
+    "wof:lastmodified":1490399772,
     "wof:name":"Alexandria Sanitation Authorty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

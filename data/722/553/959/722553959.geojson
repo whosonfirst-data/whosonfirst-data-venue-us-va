@@ -2,9 +2,14 @@
   "id": 722553959,
   "type": "Feature",
   "properties": {
+    "addr:full":"5010 Gardner Dr Alexandria VA 22304",
+    "addr:housenumber":"5010",
+    "addr:postcode":"22304",
+    "addr:street":"Gardner Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.117563,38.811569,-77.117563,38.811569",
     "geom:latitude":38.811569,
     "geom:longitude":-77.117563,
@@ -24,7 +29,16 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48FRSx596al2777pDNO47V_38.811569_-77.117563@1294252573"
@@ -32,11 +46,23 @@
     "wof:country":"US",
     "wof:created":1461884087,
     "wof:geomhash":"e455dd71e3381bad27d5a3b2da037673",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":722553959
+        }
+    ],
     "wof:id":722553959,
-    "wof:lastmodified":1467087686,
+    "wof:lastmodified":1490400315,
     "wof:name":"General Network Mgt Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

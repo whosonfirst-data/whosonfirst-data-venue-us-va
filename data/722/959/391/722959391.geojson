@@ -2,9 +2,14 @@
   "id": 722959391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 N Van Dorn St Alexandria VA 22302",
+    "addr:housenumber":"2500",
+    "addr:postcode":"22302",
+    "addr:street":"N Van;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099887,38.832301,-77.099887,38.832301",
     "geom:latitude":38.832301,
     "geom:longitude":-77.099887,
@@ -27,7 +32,15 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UkiNqxNw7tAcNzh6dSs4I_38.832301_-77.099887@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461892018,
     "wof:geomhash":"981ccd44db805ccffe80021eb48a9a43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":722959391
+        }
+    ],
     "wof:id":722959391,
-    "wof:lastmodified":1467087980,
+    "wof:lastmodified":1490399966,
     "wof:name":"Supersonic Sedan & Limousine",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739686037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 N. Beauregard Suite 330 Alexandria VA 22311",
+    "addr:housenumber":"2000",
+    "addr:postcode":"22311",
+    "addr:street":"N. Beauregard Suite 330",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.119695,38.83393,-77.119695,38.83393",
     "geom:latitude":38.83393,
     "geom:longitude":-77.119695,
@@ -24,7 +29,15 @@
     "sg:postcode":"22311",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OtHZOppAlO7RbS2qZijpJ_38.833930_-77.119695@1303262546"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461912263,
     "wof:geomhash":"78c619da1c3e16af0d57748a427a20c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
+            "region_id":85688747,
+            "venue_id":739686037
+        }
+    ],
     "wof:id":739686037,
-    "wof:lastmodified":1467088704,
+    "wof:lastmodified":1490400062,
     "wof:name":"Family Medicine Associates of Alexandria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

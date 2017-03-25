@@ -2,9 +2,14 @@
   "id": 739687161,
   "type": "Feature",
   "properties": {
+    "addr:full":"479 N Armistead St Apt T Alexandria VA 22312",
+    "addr:housenumber":"479",
+    "addr:postcode":"22312",
+    "addr:street":"N Armistead St Apt T Alexandria",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.13224,38.821211,-77.13224,38.821211",
     "geom:latitude":38.821211,
     "geom:longitude":-77.13224,
@@ -30,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lp7lfmhH7yVNZ0XogPk4i_38.821211_-77.132240@1303262546"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461912285,
     "wof:geomhash":"c15798109636faf0afcbc28a59e842d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739687161
+        }
+    ],
     "wof:id":739687161,
-    "wof:lastmodified":1467088705,
+    "wof:lastmodified":1490399683,
     "wof:name":"Rolos Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

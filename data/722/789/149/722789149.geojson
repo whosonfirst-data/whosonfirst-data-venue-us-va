@@ -2,9 +2,14 @@
   "id": 722789149,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 N View Ter Alexandria VA 22301",
+    "addr:housenumber":"310",
+    "addr:postcode":"22301",
+    "addr:street":"N View Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.06592,38.810364,-77.06592,38.810364",
     "geom:latitude":38.810364,
     "geom:longitude":-77.06592,
@@ -28,7 +33,14 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420781829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hAFwmDf2PR4Ln9XURFlsw_38.810364_-77.065920@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461888676,
     "wof:geomhash":"ef8fae419a9f5611490b4c41174fc603",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420781829,
+            "region_id":85688747,
+            "venue_id":722789149
+        }
+    ],
     "wof:id":722789149,
-    "wof:lastmodified":1467087857,
+    "wof:lastmodified":1490398483,
     "wof:name":"Kemler Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

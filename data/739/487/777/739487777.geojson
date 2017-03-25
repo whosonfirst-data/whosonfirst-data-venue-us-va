@@ -2,9 +2,14 @@
   "id": 739487777,
   "type": "Feature",
   "properties": {
+    "addr:full":"2207 Fort Ward Pl Alexandria VA 22304",
+    "addr:housenumber":"2207",
+    "addr:postcode":"22304",
+    "addr:street":"Fort Ward Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099497,38.830859,-77.099497,38.830859",
     "geom:latitude":38.830859,
     "geom:longitude":-77.099497,
@@ -24,7 +29,15 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rge4M0jwizko8mCukGP42_38.830859_-77.099497@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461908217,
     "wof:geomhash":"0e8b5b8b471b1ef90b313fb0a148a1d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":739487777
+        }
+    ],
     "wof:id":739487777,
-    "wof:lastmodified":1467088561,
+    "wof:lastmodified":1490399927,
     "wof:name":"Howard & Howard Law Offices",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

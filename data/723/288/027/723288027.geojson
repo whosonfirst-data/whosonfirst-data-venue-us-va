@@ -2,9 +2,14 @@
   "id": 723288027,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 Wolfe St Alexandria VA 22314",
+    "addr:housenumber":"902",
+    "addr:postcode":"22314",
+    "addr:street":"Wolfe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.050675,38.801936,-77.050675,38.801936",
     "geom:latitude":38.801936,
     "geom:longitude":-77.050675,
@@ -27,7 +32,14 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lJSMj2G0EexTYeABL5muR_38.801936_-77.050675@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461898829,
     "wof:geomhash":"65959744451356fb647157ecd592c4ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":723288027
+        }
+    ],
     "wof:id":723288027,
-    "wof:lastmodified":1467088219,
+    "wof:lastmodified":1490400019,
     "wof:name":"7 Seas Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739686865,
   "type": "Feature",
   "properties": {
+    "addr:full":"5520 N Morgan St Alexandria VA 22312",
+    "addr:housenumber":"5520",
+    "addr:postcode":"22312",
+    "addr:street":"N Morgan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.132269,38.823606,-77.132269,38.823606",
     "geom:latitude":38.823606,
     "geom:longitude":-77.132269,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +55,14 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
+            "macrohood_id":1108724981,
             "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739686865
         }
     ],
     "wof:id":739686865,
-    "wof:lastmodified":1467088705,
+    "wof:lastmodified":1490399687,
     "wof:name":"Abdul W Adil",
     "wof:parent_id":85875825,
     "wof:placetype":"venue",

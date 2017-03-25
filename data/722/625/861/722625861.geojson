@@ -2,9 +2,14 @@
   "id": 722625861,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Jamieson Ave Alexandria VA 22314",
+    "addr:housenumber":"2100",
+    "addr:postcode":"22314",
+    "addr:street":"Jamieson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.064788,38.803653,-77.064788,38.803653",
     "geom:latitude":38.803653,
     "geom:longitude":-77.064788,
@@ -28,7 +33,15 @@
         "counsel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DJez84ywJzWP0KMQ27DIW_38.803653_-77.064788@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461885511,
     "wof:geomhash":"6515ce544bdc1bb45a680e2ca1db3917",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":722625861
+        }
+    ],
     "wof:id":722625861,
-    "wof:lastmodified":1467087739,
+    "wof:lastmodified":1490399785,
     "wof:name":"US Attorney",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

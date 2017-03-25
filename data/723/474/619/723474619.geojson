@@ -2,9 +2,14 @@
   "id": 723474619,
   "type": "Feature",
   "properties": {
+    "addr:full":"3705 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"3705",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062667,38.839728,-77.062667,38.839728",
     "geom:latitude":38.839728,
     "geom:longitude":-77.062667,
@@ -28,7 +33,14 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29Dkiq17Gzb6VddbgEinQ7_38.839728_-77.062667@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461902411,
     "wof:geomhash":"2c9741f8dd3ac2fa232d5157e784ee08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":723474619
+        }
+    ],
     "wof:id":723474619,
-    "wof:lastmodified":1467088355,
+    "wof:lastmodified":1490399608,
     "wof:name":"Autozone",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723044567,
   "type": "Feature",
   "properties": {
+    "addr:full":"4921 Seminary Rd Alexandria VA 22311",
+    "addr:housenumber":"4921",
+    "addr:postcode":"22311",
+    "addr:street":"Seminary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.115455,38.832655,-77.115455,38.832655",
     "geom:latitude":38.832655,
     "geom:longitude":-77.115455,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        420781825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85820249
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85820249,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
             "region_id":85688747,
             "venue_id":723044567
         }
     ],
     "wof:id":723044567,
-    "wof:lastmodified":1467088042,
+    "wof:lastmodified":1490400070,
     "wof:name":"H C Kuykendall MD",
-    "wof:parent_id":85820249,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

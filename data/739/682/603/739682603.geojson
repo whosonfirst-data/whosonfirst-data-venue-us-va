@@ -2,9 +2,14 @@
   "id": 739682603,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Luna Park Dr Apt 266 Alexandria VA 22305",
+    "addr:housenumber":"100;266",
+    "addr:postcode":"22305",
+    "addr:street":"Luna Park Dr Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.05304,38.83884,-77.05304,38.83884",
     "geom:latitude":38.83884,
     "geom:longitude":-77.05304,
@@ -29,7 +34,14 @@
         "network"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55efRBKYpeFXvFME1cUhL4_38.838840_-77.053040@1303262545"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461912198,
     "wof:geomhash":"1d5aff0b7070cd8b52bb63f5e231dde5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739682603
+        }
+    ],
     "wof:id":739682603,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490399607,
     "wof:name":"Arenas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

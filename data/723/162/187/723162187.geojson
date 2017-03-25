@@ -2,9 +2,14 @@
   "id": 723162187,
   "type": "Feature",
   "properties": {
+    "addr:full":"934 N Columbus St Alexandria VA 22314",
+    "addr:housenumber":"934",
+    "addr:postcode":"22314",
+    "addr:street":"N Columbus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.046073,38.815049,-77.046073,38.815049",
     "geom:latitude":38.815049,
     "geom:longitude":-77.046073,
@@ -27,7 +32,14 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13LupQ7tb7KcElQZqFxiHC_38.815049_-77.046073@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461896325,
     "wof:geomhash":"04496e676a09cfa8d23b8870ba917b9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875837,
+            "region_id":85688747,
+            "venue_id":723162187
+        }
+    ],
     "wof:id":723162187,
-    "wof:lastmodified":1467088128,
+    "wof:lastmodified":1490398699,
     "wof:name":"Mystique Productions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

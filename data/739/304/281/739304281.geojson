@@ -2,9 +2,14 @@
   "id": 739304281,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Jefferson St Alexandria VA 22314",
+    "addr:housenumber":"710",
+    "addr:postcode":"22314",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049753,38.797066,-77.049753,38.797066",
     "geom:latitude":38.797066,
     "geom:longitude":-77.049753,
@@ -27,7 +32,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19opIJfp9mKxXt9w1xVS7J_38.797066_-77.049753@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461904661,
     "wof:geomhash":"908f1c73e4f47ccf97700d0f91910ba7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":739304281
+        }
+    ],
     "wof:id":739304281,
-    "wof:lastmodified":1467088427,
+    "wof:lastmodified":1490398587,
     "wof:name":"Farsh Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

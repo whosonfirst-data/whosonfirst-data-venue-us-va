@@ -2,9 +2,14 @@
   "id": 739683217,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701-A Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"3701-a",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.061686,38.840119,-77.061686,38.840119",
     "geom:latitude":38.840119,
     "geom:longitude":-77.061686,
@@ -34,7 +39,14 @@
     ],
     "sg:website":"www.cfnc-online.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02Qhfx0wwN2KN1F96xJGcs_38.840119_-77.061686@1303262545"
@@ -42,11 +54,21 @@
     "wof:country":"US",
     "wof:created":1461912208,
     "wof:geomhash":"d89a79b6feeabfd5c5f86d34c7501ac8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739683217
+        }
+    ],
     "wof:id":739683217,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490399607,
     "wof:name":"Child & Family Network Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

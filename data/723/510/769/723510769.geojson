@@ -2,9 +2,14 @@
   "id": 723510769,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 Colvin St Alexandria VA 22314",
+    "addr:housenumber":"3002",
+    "addr:postcode":"22314",
+    "addr:street":"Colvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.084093,38.806843,-77.084093,38.806843",
     "geom:latitude":38.806843,
     "geom:longitude":-77.084093,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iJEVyYshEKs3xrOYAq9uh_38.806843_-77.084093@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461903214,
     "wof:geomhash":"be2cbb4e2a6fd4eef7cfa3df27a8a845",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723510769
+        }
+    ],
     "wof:id":723510769,
-    "wof:lastmodified":1467088380,
+    "wof:lastmodified":1490400177,
     "wof:name":"Alexandria Police Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

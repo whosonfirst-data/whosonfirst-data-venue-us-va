@@ -2,9 +2,14 @@
   "id": 722828351,
   "type": "Feature",
   "properties": {
+    "addr:full":"633 S Saint Asaph St Alexandria VA 22314",
+    "addr:housenumber":"633",
+    "addr:postcode":"22314",
+    "addr:street":"S Saint Asaph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.047304,38.798442,-77.047304,38.798442",
     "geom:latitude":38.798442,
     "geom:longitude":-77.047304,
@@ -28,7 +33,14 @@
         "noncommercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SNzvd17eBNmODO09OaCvL_38.798442_-77.047304@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461889418,
     "wof:geomhash":"062fbcf0928067995b34e0c438f4dbb9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":722828351
+        }
+    ],
     "wof:id":722828351,
-    "wof:lastmodified":1467087885,
+    "wof:lastmodified":1490399189,
     "wof:name":"Oxford Research Associates LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

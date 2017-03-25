@@ -2,9 +2,14 @@
   "id": 722937007,
   "type": "Feature",
   "properties": {
+    "addr:full":"3305 Wyndham Cir Alexandria VA 22302",
+    "addr:housenumber":"3305",
+    "addr:postcode":"22302",
+    "addr:street":"Wyndham Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.101454,38.835625,-77.101454,38.835625",
     "geom:latitude":38.835625,
     "geom:longitude":-77.101454,
@@ -28,7 +33,15 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SnLhzd1iaJ9haCVaYXOEG_38.835625_-77.101454@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461891569,
     "wof:geomhash":"270f6d25e76924957e5f04eb3a2f30ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":722937007
+        }
+    ],
     "wof:id":722937007,
-    "wof:lastmodified":1467087963,
+    "wof:lastmodified":1490399708,
     "wof:name":"Steven Magallan",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

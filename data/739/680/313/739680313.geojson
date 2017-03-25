@@ -2,9 +2,14 @@
   "id": 739680313,
   "type": "Feature",
   "properties": {
+    "addr:full":"5152 California Ln Alexandria VA 22304",
+    "addr:housenumber":"5152",
+    "addr:postcode":"22304",
+    "addr:street":"California Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.122287,38.807143,-77.122287,38.807143",
     "geom:latitude":38.807143,
     "geom:longitude":-77.122287,
@@ -18,7 +23,16 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jNyYs5WVHW8n1gr1qo0Rg_38.807143_-77.122287@1303262545"
@@ -26,11 +40,23 @@
     "wof:country":"US",
     "wof:created":1461912152,
     "wof:geomhash":"db4a4197ba84074a1aa5f8c517b64a8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739680313
+        }
+    ],
     "wof:id":739680313,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400317,
     "wof:name":"Fiddlin Conversions",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

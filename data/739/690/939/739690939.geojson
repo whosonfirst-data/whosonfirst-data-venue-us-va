@@ -2,9 +2,14 @@
   "id": 739690939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Duke St Apt 209 Alexandria VA 22314",
+    "addr:housenumber":"2727;209",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.076437,38.806946,-77.076437,38.806946",
     "geom:latitude":38.806946,
     "geom:longitude":-77.076437,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724993,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85811479
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85811479,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":739690939
         }
     ],
     "wof:id":739690939,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490400329,
     "wof:name":"Technical Editor",
-    "wof:parent_id":85811479,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

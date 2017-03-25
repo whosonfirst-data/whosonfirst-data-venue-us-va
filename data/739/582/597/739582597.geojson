@@ -2,9 +2,14 @@
   "id": 739582597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3215 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3215",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085733,38.808057,-77.085733,38.808057",
     "geom:latitude":38.808057,
     "geom:longitude":-77.085733,
@@ -30,7 +35,15 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58RsSzUeQfQkCC3snKWPP0_38.808057_-77.085733@1299784598"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461910053,
     "wof:geomhash":"6c27d1e43c36173871392dd2116f0d62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739582597
+        }
+    ],
     "wof:id":739582597,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490400336,
     "wof:name":"Quiznos Sub",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

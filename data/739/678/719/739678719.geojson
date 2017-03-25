@@ -2,9 +2,14 @@
   "id": 739678719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3654 King St Alexandria VA 22302",
+    "addr:housenumber":"3654",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.091774,38.828326,-77.091774,38.828326",
     "geom:latitude":38.828326,
     "geom:longitude":-77.091774,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"www.mysportsclubs.com/clubsched/...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tk5U5O1Eny7AiEpsaZyBj_38.828326_-77.091774@1303262545"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461912122,
     "wof:geomhash":"2494ca6ffd75dfd8b61d83edd9dd8885",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739678719
+        }
+    ],
     "wof:id":739678719,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490398711,
     "wof:name":"Washington Sports Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723163841,
   "type": "Feature",
   "properties": {
+    "addr:full":"3005 Torrey Pl Alexandria VA 22302",
+    "addr:housenumber":"3005",
+    "addr:postcode":"22302",
+    "addr:street":"Torrey Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.079278,38.816354,-77.079278,38.816354",
     "geom:latitude":38.816354,
     "geom:longitude":-77.079278,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725009,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85811479
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85811479,
+            "microhood_id":1108725009,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":723163841
         }
     ],
     "wof:id":723163841,
-    "wof:lastmodified":1467088129,
+    "wof:lastmodified":1490400353,
     "wof:name":"Brian A Darst Attroney At Law",
-    "wof:parent_id":85811479,
+    "wof:parent_id":1108725009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

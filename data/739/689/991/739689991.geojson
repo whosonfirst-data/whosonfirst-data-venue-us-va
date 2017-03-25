@@ -2,9 +2,14 @@
   "id": 739689991,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 N Saint Asaph St Alexandria VA 22314",
+    "addr:housenumber":"901",
+    "addr:postcode":"22314",
+    "addr:street":"N Saint Asaph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.043861,38.813984,-77.043861,38.813984",
     "geom:latitude":38.813984,
     "geom:longitude":-77.043861,
@@ -39,7 +44,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KWjjydIlvbrdfk9UJLRnX_38.813984_-77.043861@1303262546"
@@ -47,11 +59,21 @@
     "wof:country":"US",
     "wof:created":1461912340,
     "wof:geomhash":"dd912416649116a5c0333cb4223b5dec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739689991
+        }
+    ],
     "wof:id":739689991,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490399919,
     "wof:name":"Abc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

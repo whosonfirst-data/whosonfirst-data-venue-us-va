@@ -2,9 +2,14 @@
   "id": 722602969,
   "type": "Feature",
   "properties": {
+    "addr:full":"4910 Brenman Park Dr Alexandria VA 22304",
+    "addr:housenumber":"4910",
+    "addr:postcode":"22304",
+    "addr:street":"Brenman Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116807,38.809032,-77.116807,38.809032",
     "geom:latitude":38.809032,
     "geom:longitude":-77.116807,
@@ -28,7 +33,16 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ofL7oOMXjRf8ilxXDZZm_38.809032_-77.116807@1294252573"
@@ -36,11 +50,23 @@
     "wof:country":"US",
     "wof:created":1461885045,
     "wof:geomhash":"eb30bd327da3f33e351077f33251ce72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":722602969
+        }
+    ],
     "wof:id":722602969,
-    "wof:lastmodified":1467087722,
+    "wof:lastmodified":1490400317,
     "wof:name":"Washington Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

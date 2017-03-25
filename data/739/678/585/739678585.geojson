@@ -2,9 +2,14 @@
   "id": 739678585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3543 W Braddock Rd Alexandria VA 22302",
+    "addr:housenumber":"3543",
+    "addr:postcode":"22302",
+    "addr:street":"W Braddock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090318,38.827145,-77.090318,38.827145",
     "geom:latitude":38.827145,
     "geom:longitude":-77.090318,
@@ -27,7 +32,14 @@
         "dentists-endodontists"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rriKztQ73qKNH7iJnmRFG_38.827145_-77.090318@1303262545"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461912120,
     "wof:geomhash":"e7eb18b3fbc9bfd6b729ebb6df86ad69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739678585
+        }
+    ],
     "wof:id":739678585,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490399485,
     "wof:name":"Kessler Joel R DDS MS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

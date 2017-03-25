@@ -2,9 +2,14 @@
   "id": 739560507,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Callahan Dr Alexandria VA 22301",
+    "addr:housenumber":"101",
+    "addr:postcode":"22301",
+    "addr:street":"Callahan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.06266,38.80699,-77.06266,38.80699",
     "geom:latitude":38.80699,
     "geom:longitude":-77.06266,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.gwmemorial.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wFK5JMXXBHdXHb7oouJbe_38.807188_-77.062559@1293134755"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461909570,
     "wof:geomhash":"a767db7ef81bd4fcafc8a2d161c17dd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739560507
+        }
+    ],
     "wof:id":739560507,
-    "wof:lastmodified":1467088613,
+    "wof:lastmodified":1490400191,
     "wof:name":"George Washington Masonic National Memorial",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

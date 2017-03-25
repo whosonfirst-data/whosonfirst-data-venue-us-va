@@ -2,9 +2,14 @@
   "id": 739679531,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 N Mansfield St Alexandria VA 22304",
+    "addr:housenumber":"502",
+    "addr:postcode":"22304",
+    "addr:street":"N Mansfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.113998,38.817799,-77.113998,38.817799",
     "geom:latitude":38.817799,
     "geom:longitude":-77.113998,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724997,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547847
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547847,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724997,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739679531
         }
     ],
     "wof:id":739679531,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490400339,
     "wof:name":"Maria's Cleaning Service",
-    "wof:parent_id":420547847,
+    "wof:parent_id":1108724997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

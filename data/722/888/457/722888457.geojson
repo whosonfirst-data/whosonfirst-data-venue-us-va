@@ -2,9 +2,14 @@
   "id": 722888457,
   "type": "Feature",
   "properties": {
+    "addr:full":"5800 Quantrell Ave Alexandria VA 22312",
+    "addr:housenumber":"",
+    "addr:postcode":"5800;22312",
+    "addr:street":"Quantrell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136055,38.81915,-77.136055,38.81915",
     "geom:latitude":38.81915,
     "geom:longitude":-77.136055,
@@ -28,7 +33,15 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ev46aNdU2jq7NVtBag5vx_38.819150_-77.136055@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461890552,
     "wof:geomhash":"932e8e5f16e0b7eff63764d6304c78a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":722888457
+        }
+    ],
     "wof:id":722888457,
-    "wof:lastmodified":1467087929,
+    "wof:lastmodified":1490399694,
     "wof:name":"Gezu Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

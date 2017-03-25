@@ -2,9 +2,14 @@
   "id": 739556817,
   "type": "Feature",
   "properties": {
+    "addr:full":"260 S Reynolds St Alexandria VA 22304",
+    "addr:housenumber":"260",
+    "addr:postcode":"22304",
+    "addr:street":"S Reynolds St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.128896,38.809664,-77.128896,38.809664",
     "geom:latitude":38.809664,
     "geom:longitude":-77.128896,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10318912%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l3F52A6zsYk9OMuFBjfji_38.809651_-77.128929@1293134755"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461909493,
     "wof:geomhash":"b7d95826e6cf39243e969252c22b532e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739556817
+        }
+    ],
     "wof:id":739556817,
-    "wof:lastmodified":1467088611,
+    "wof:lastmodified":1490400102,
     "wof:name":"The Summit Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

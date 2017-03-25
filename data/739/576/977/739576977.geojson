@@ -2,9 +2,14 @@
   "id": 739576977,
   "type": "Feature",
   "properties": {
+    "addr:full":"5242 Dawes Ave Alexandria VA 22311",
+    "addr:housenumber":"5242",
+    "addr:postcode":"22311",
+    "addr:street":"Dawes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.118851,38.839977,-77.118851,38.839977",
     "geom:latitude":38.839977,
     "geom:longitude":-77.118851,
@@ -28,7 +33,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U13GPNjM0P6DIayoOpWiJ_38.839813_-77.119644@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461909942,
     "wof:geomhash":"a5b10ecafdc50973d2adc2dd8a3d1f1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739576977
+        }
+    ],
     "wof:id":739576977,
-    "wof:lastmodified":1467088625,
+    "wof:lastmodified":1490399670,
     "wof:name":"Nalin G Patel MD PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

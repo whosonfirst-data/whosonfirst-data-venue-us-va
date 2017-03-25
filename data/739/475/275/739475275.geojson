@@ -2,9 +2,14 @@
   "id": 739475275,
   "type": "Feature",
   "properties": {
+    "addr:full":"4660 Kenmore Ave Alexandria VA 22304",
+    "addr:housenumber":"4660",
+    "addr:postcode":"22304",
+    "addr:street":"Kenmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.110897,38.828505,-77.110897,38.828505",
     "geom:latitude":38.828505,
     "geom:longitude":-77.110897,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875825,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739475275
         }
     ],
     "wof:id":739475275,
-    "wof:lastmodified":1467088552,
+    "wof:lastmodified":1490399934,
     "wof:name":"Cholestrol Lpid Dsrders Clinic",
-    "wof:parent_id":85875825,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

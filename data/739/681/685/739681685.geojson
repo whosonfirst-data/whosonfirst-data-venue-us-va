@@ -2,9 +2,14 @@
   "id": 739681685,
   "type": "Feature",
   "properties": {
+    "addr:full":"5201 Duke St Ofc Alexandria VA 22304",
+    "addr:housenumber":"5201",
+    "addr:postcode":"22304",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.122059,38.81258,-77.122059,38.81258",
     "geom:latitude":38.81258,
     "geom:longitude":-77.122059,
@@ -29,7 +34,15 @@
     ],
     "sg:website":"http://www.kpamgmt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79Yg6pmMklg8giiuE3DR0Y_38.812580_-77.122059@1303262545"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461912177,
     "wof:geomhash":"ea0a2cf6a64cafeb4c4c352999df1b19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681685
+        }
+    ],
     "wof:id":739681685,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400144,
     "wof:name":"Canterbury Square Condo Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

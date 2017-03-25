@@ -2,9 +2,14 @@
   "id": 723124797,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Commerce St Alexandria VA 22314",
+    "addr:housenumber":"212",
+    "addr:postcode":"22314",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054715,38.804918,-77.054715,38.804918",
     "geom:latitude":38.804918,
     "geom:longitude":-77.054715,
@@ -28,7 +33,14 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MKo9MggcfvpwOdZoxinxG_38.804918_-77.054715@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461895600,
     "wof:geomhash":"b9954559985d245b4dcf7d76b6d9e7cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723124797
+        }
+    ],
     "wof:id":723124797,
-    "wof:lastmodified":1467088101,
+    "wof:lastmodified":1490399801,
     "wof:name":"Dansk Body Massage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

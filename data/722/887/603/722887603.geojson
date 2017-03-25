@@ -2,9 +2,14 @@
   "id": 722887603,
   "type": "Feature",
   "properties": {
+    "addr:full":"3100 S Jefferson Davis Hwy Arlington VA 22202",
+    "addr:housenumber":"3100",
+    "addr:postcode":"22202",
+    "addr:street":"S Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052416,38.841034,-77.052416,38.841034",
     "geom:latitude":38.841034,
     "geom:longitude":-77.052416,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.bmwofarlington.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875845
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74G2wuiAP9AbrYB7E3H3V5_38.841034_-77.052416@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461890533,
     "wof:geomhash":"a7b5708bc55e9e0dee1be0fbb57c71b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875845,
+            "region_id":85688747,
+            "venue_id":722887603
+        }
+    ],
     "wof:id":722887603,
-    "wof:lastmodified":1467087928,
+    "wof:lastmodified":1490399920,
     "wof:name":"Bmw Porsche Of Arlington",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

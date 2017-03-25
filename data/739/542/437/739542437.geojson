@@ -2,9 +2,14 @@
   "id": 739542437,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"4001",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.063915,38.842774,-77.063915,38.842774",
     "geom:latitude":38.842774,
     "geom:longitude":-77.063915,
@@ -28,7 +33,14 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mJf3vHjwvpIRNqvejtnMJ_38.842774_-77.063915@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461909197,
     "wof:geomhash":"0f1251b86ba45ae7c307dc527e66c130",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739542437
+        }
+    ],
     "wof:id":739542437,
-    "wof:lastmodified":1467088600,
+    "wof:lastmodified":1490399603,
     "wof:name":"B L Hamblett Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739277317,
   "type": "Feature",
   "properties": {
+    "addr:full":"718 S Washington St Alexandria VA 22314",
+    "addr:housenumber":"718",
+    "addr:postcode":"22314",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048578,38.797213,-77.048578,38.797213",
     "geom:latitude":38.797213,
     "geom:longitude":-77.048578,
@@ -29,7 +34,14 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_715up3F47y2tomSmaDwzK0_38.797213_-77.048578@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461904088,
     "wof:geomhash":"22c4f0f953457a763229ae3703e76fc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":739277317
+        }
+    ],
     "wof:id":739277317,
-    "wof:lastmodified":1467088408,
+    "wof:lastmodified":1490398853,
     "wof:name":"Project Management Intl LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

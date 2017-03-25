@@ -2,9 +2,14 @@
   "id": 739682373,
   "type": "Feature",
   "properties": {
+    "addr:full":"3915 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3915",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.052101,38.839583,-77.052101,38.839583",
     "geom:latitude":38.839583,
     "geom:longitude":-77.052101,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"http://www.thomasville.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wO9egRwbZ6gufA7MgB99B_38.839583_-77.052101@1303262545"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912188,
     "wof:geomhash":"f1075af89b93c1f2d4cb8bba95a3bc06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739682373
+        }
+    ],
     "wof:id":739682373,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490398674,
     "wof:name":"Thomasville Furniture",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

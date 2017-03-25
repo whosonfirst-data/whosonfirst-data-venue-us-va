@@ -2,9 +2,14 @@
   "id": 722961393,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 S Overlook Dr Alexandria VA 22305",
+    "addr:housenumber":"714",
+    "addr:postcode":"22305",
+    "addr:street":"S Overlook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.074842,38.836871,-77.074842,38.836871",
     "geom:latitude":38.836871,
     "geom:longitude":-77.074842,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        85805965
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85805965,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":722961393
         }
     ],
     "wof:id":722961393,
-    "wof:lastmodified":1467087981,
+    "wof:lastmodified":1490400297,
     "wof:name":"Newman and Company Inc",
-    "wof:parent_id":85805965,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

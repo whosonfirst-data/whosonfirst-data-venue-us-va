@@ -2,9 +2,14 @@
   "id": 723271107,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 S Washington St Alexandria VA 22314",
+    "addr:housenumber":"604",
+    "addr:postcode":"22314",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048353,38.798225,-77.048353,38.798225",
     "geom:latitude":38.798225,
     "geom:longitude":-77.048353,
@@ -28,7 +33,14 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Tfs1wpB8AFM38P1B8tfiM_38.798225_-77.048353@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461898525,
     "wof:geomhash":"def61e801dac3dd1e88da2f198343b4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723271107
+        }
+    ],
     "wof:id":723271107,
-    "wof:lastmodified":1467088207,
+    "wof:lastmodified":1490398439,
     "wof:name":"Marble Expert",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

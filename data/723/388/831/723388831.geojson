@@ -2,9 +2,14 @@
   "id": 723388831,
   "type": "Feature",
   "properties": {
+    "addr:full":"4625 Raleigh Ave Alexandria VA 22304",
+    "addr:housenumber":"4625",
+    "addr:postcode":"22304",
+    "addr:street":"Raleigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.11279,38.814322,-77.11279,38.814322",
     "geom:latitude":38.814322,
     "geom:longitude":-77.11279,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724997,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547843
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +55,17 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547843,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724997,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":723388831
         }
     ],
     "wof:id":723388831,
-    "wof:lastmodified":1467088292,
+    "wof:lastmodified":1490400338,
     "wof:name":"Imperial Movers Inc",
-    "wof:parent_id":420547843,
+    "wof:parent_id":1108724997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

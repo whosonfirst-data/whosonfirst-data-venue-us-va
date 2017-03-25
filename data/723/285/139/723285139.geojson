@@ -2,9 +2,14 @@
   "id": 723285139,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Daingerfield Rd Alexandria VA 22314",
+    "addr:housenumber":"200",
+    "addr:postcode":"22314",
+    "addr:street":"Daingerfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058072,38.804134,-77.058072,38.804134",
     "geom:latitude":38.804134,
     "geom:longitude":-77.058072,
@@ -28,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T36uXyC6q895CszT0oGj3_38.804134_-77.058072@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461898778,
     "wof:geomhash":"1b9a85729b48f60e2279d9cf932cf33d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":723285139
+        }
+    ],
     "wof:id":723285139,
-    "wof:lastmodified":1467088217,
+    "wof:lastmodified":1490400230,
     "wof:name":"Higginbotham & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

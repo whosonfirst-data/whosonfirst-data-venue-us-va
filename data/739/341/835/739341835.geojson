@@ -2,9 +2,14 @@
   "id": 739341835,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 S Fayette St Alexandria VA 22314",
+    "addr:housenumber":"613",
+    "addr:postcode":"22314",
+    "addr:street":"S Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053974,38.799042,-77.053974,38.799042",
     "geom:latitude":38.799042,
     "geom:longitude":-77.053974,
@@ -27,7 +32,14 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hko53strGN5iePMU8M1rb_38.799042_-77.053974@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461905420,
     "wof:geomhash":"29f7ab91894a3a18da0c41e628402d61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":739341835
+        }
+    ],
     "wof:id":739341835,
-    "wof:lastmodified":1467088455,
+    "wof:lastmodified":1490398461,
     "wof:name":"Henry Janitorial Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

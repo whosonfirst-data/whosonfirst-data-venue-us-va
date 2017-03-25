@@ -2,9 +2,14 @@
   "id": 739582687,
   "type": "Feature",
   "properties": {
+    "addr:full":"3221 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3221",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.086529,38.808802,-77.086529,38.808802",
     "geom:latitude":38.808802,
     "geom:longitude":-77.086529,
@@ -29,7 +34,15 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u7D47a2vPnlNbsehpX45U_38.808802_-77.086529@1299784598"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461910055,
     "wof:geomhash":"82e9f8b9743b859f4a0edcecc09f236a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739582687
+        }
+    ],
     "wof:id":739582687,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490400331,
     "wof:name":"Oriental Star Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

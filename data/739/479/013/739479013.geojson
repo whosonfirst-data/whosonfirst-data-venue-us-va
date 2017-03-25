@@ -2,9 +2,14 @@
   "id": 739479013,
   "type": "Feature",
   "properties": {
+    "addr:full":"5138 Woodmire Ln Alexandria VA 22311",
+    "addr:housenumber":"5138",
+    "addr:postcode":"22311",
+    "addr:street":"Woodmire Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.119777,38.835443,-77.119777,38.835443",
     "geom:latitude":38.835443,
     "geom:longitude":-77.119777,
@@ -27,7 +32,15 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b0mzw0bNiAmoJkCPCCrR7_38.835443_-77.119777@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461908050,
     "wof:geomhash":"73f037d8fda7c4a66101109c460f9b94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739479013
+        }
+    ],
     "wof:id":739479013,
-    "wof:lastmodified":1467088554,
+    "wof:lastmodified":1490399673,
     "wof:name":"Arsuaga & Assoc  Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722642983,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 S Quaker Ln Alexandria VA 22314",
+    "addr:housenumber":"30",
+    "addr:postcode":"22314",
+    "addr:street":"S Quaker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087342,38.807446,-77.087342,38.807446",
     "geom:latitude":38.807446,
     "geom:longitude":-77.087342,
@@ -31,7 +36,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KmKrfYfz4XUulc8FzMO2b_38.807446_-77.087342@1294252573"
@@ -39,11 +51,21 @@
     "wof:country":"US",
     "wof:created":1461885894,
     "wof:geomhash":"4d5763937dc3dcbb4f7c988d0daabc74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722642983
+        }
+    ],
     "wof:id":722642983,
-    "wof:lastmodified":1467087752,
+    "wof:lastmodified":1490400188,
     "wof:name":"Washington Network Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

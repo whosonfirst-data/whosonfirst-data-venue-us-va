@@ -2,9 +2,14 @@
   "id": 739566141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1066 W Glebe Rd Alexandria VA 22305",
+    "addr:housenumber":"1066",
+    "addr:postcode":"22305",
+    "addr:street":"W Glebe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.076013,38.842703,-77.076013,38.842703",
     "geom:latitude":38.842703,
     "geom:longitude":-77.076013,
@@ -28,7 +33,15 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724971,
+        420547829,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SixpZ7hH3JPWngeW5PhIo_38.842562_-77.075664@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461909690,
     "wof:geomhash":"9c06e5685507109c7c4645bce71d2436",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
+            "region_id":85688747,
+            "venue_id":739566141
+        }
+    ],
     "wof:id":739566141,
-    "wof:lastmodified":1467088617,
+    "wof:lastmodified":1490400295,
     "wof:name":"Japanese Auto City",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

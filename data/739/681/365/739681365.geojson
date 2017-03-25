@@ -2,9 +2,14 @@
   "id": 739681365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4930B Eisenhower Ave Alexandria VA 22304",
+    "addr:housenumber":"4930b",
+    "addr:postcode":"22304",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.120418,38.803022,-77.120418,38.803022",
     "geom:latitude":38.803022,
     "geom:longitude":-77.120418,
@@ -29,7 +34,15 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N86ouB9UfFa6z3hnDZfjw_38.803022_-77.120418@1303262545"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461912170,
     "wof:geomhash":"5d25f2a7594b3b652559492c7a6a8914",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681365
+        }
+    ],
     "wof:id":739681365,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400112,
     "wof:name":"B & B Carpet Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

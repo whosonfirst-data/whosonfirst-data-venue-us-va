@@ -2,9 +2,14 @@
   "id": 739690485,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Wythe St Alexandria VA 22314",
+    "addr:housenumber":"501",
+    "addr:postcode":"22314",
+    "addr:street":"Wythe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.043266,38.811611,-77.043266,38.811611",
     "geom:latitude":38.811611,
     "geom:longitude":-77.043266,
@@ -30,7 +35,15 @@
     ],
     "sg:website":"http://www.bettersleep.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724979,
+        85875841,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_332R63Q5sWnjn8oUG0pova_38.811611_-77.043266@1303262546"
@@ -38,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1461912350,
     "wof:geomhash":"b014f9cb13514ce95ed0a16cdf347da7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739690485
+        }
+    ],
     "wof:id":739690485,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490400305,
     "wof:name":"International Sleep Products Association Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

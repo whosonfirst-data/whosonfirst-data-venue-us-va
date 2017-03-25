@@ -2,9 +2,14 @@
   "id": 723430023,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Madison St Alexandria VA 22314",
+    "addr:housenumber":"601",
+    "addr:postcode":"22314",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.045265,38.813019,-77.045265,38.813019",
     "geom:latitude":38.813019,
     "geom:longitude":-77.045265,
@@ -28,7 +33,15 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724979,
+        85875841,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Oxj04TDrhq6zYe5g7fIx9_38.813019_-77.045265@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461901568,
     "wof:geomhash":"911b34ae3397b650375acb33a6a25a7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":723430023
+        }
+    ],
     "wof:id":723430023,
-    "wof:lastmodified":1467088322,
+    "wof:lastmodified":1490400306,
     "wof:name":"Worth Management LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739581941,
   "type": "Feature",
   "properties": {
+    "addr:full":"4906 Brenman Park Dr Alexandria VA 22304",
+    "addr:housenumber":"4906",
+    "addr:postcode":"22304",
+    "addr:street":"Brenman Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116755,38.808851,-77.116755,38.808851",
     "geom:latitude":38.808851,
     "geom:longitude":-77.116755,
@@ -29,7 +34,16 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724987,
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q6JkNLTIEv0rjP5pcf1lk_38.808851_-77.116755@1299784598"
@@ -37,11 +51,23 @@
     "wof:country":"US",
     "wof:created":1461910042,
     "wof:geomhash":"8dbbba4f64755df3afe182dcd3ebbaa4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "microhood_id":1108724987,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739581941
+        }
+    ],
     "wof:id":739581941,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490400315,
     "wof:name":"Food Matters",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739582427,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 John Carlyle St Alexandria VA 22314",
+    "addr:housenumber":"540",
+    "addr:postcode":"22314",
+    "addr:street":"John Carlyle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.061919,38.801712,-77.061919,38.801712",
     "geom:latitude":38.801712,
     "geom:longitude":-77.061919,
@@ -29,7 +34,15 @@
         "eastern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xXKpt1ZnBY7CYjnWX3I10_38.801712_-77.061919@1299784598"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461910050,
     "wof:geomhash":"665eba09224a0725d0d9a56cad43f4d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":739582427
+        }
+    ],
     "wof:id":739582427,
-    "wof:lastmodified":1467088629,
+    "wof:lastmodified":1490399777,
     "wof:name":"Zikrayet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

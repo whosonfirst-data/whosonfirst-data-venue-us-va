@@ -2,9 +2,14 @@
   "id": 722974787,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Luna Park Dr Alexandria VA 22305",
+    "addr:housenumber":"200",
+    "addr:postcode":"22305",
+    "addr:street":"Luna Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053945,38.837484,-77.053945,38.837484",
     "geom:latitude":38.837484,
     "geom:longitude":-77.053945,
@@ -24,7 +29,14 @@
     "sg:postcode":"22305",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63jaBejIIYa2UQIcOU0qvA_38.837484_-77.053945@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461892347,
     "wof:geomhash":"fa1b1f448647510e749628984f400655",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":722974787
+        }
+    ],
     "wof:id":722974787,
-    "wof:lastmodified":1467087991,
+    "wof:lastmodified":1490399093,
     "wof:name":"Pitisiri Boonyoung",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

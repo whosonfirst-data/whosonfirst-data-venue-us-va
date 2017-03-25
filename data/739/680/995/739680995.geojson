@@ -2,9 +2,14 @@
   "id": 739680995,
   "type": "Feature",
   "properties": {
+    "addr:full":"5380 Holmes Run Pkwy Alexandria VA 22304",
+    "addr:housenumber":"5380",
+    "addr:postcode":"22304",
+    "addr:street":"Holmes Run Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124711,38.816808,-77.124711,38.816808",
     "geom:latitude":38.816808,
     "geom:longitude":-77.124711,
@@ -27,7 +32,15 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PP76CX5KW7lY83nARiU7X_38.816808_-77.124711@1303262545"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461912163,
     "wof:geomhash":"9b09bd9b97a32a524fa7e7f04cf7ed8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739680995
+        }
+    ],
     "wof:id":739680995,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400163,
     "wof:name":"A-A Local Locksmith Security & Lock Out Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

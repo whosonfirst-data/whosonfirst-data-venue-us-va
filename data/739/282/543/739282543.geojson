@@ -2,9 +2,14 @@
   "id": 739282543,
   "type": "Feature",
   "properties": {
+    "addr:full":"506 Highland Pl Alexandria VA 22301",
+    "addr:housenumber":"506",
+    "addr:postcode":"22301",
+    "addr:street":"Highland Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.070163,38.811085,-77.070163,38.811085",
     "geom:latitude":38.811085,
     "geom:longitude":-77.070163,
@@ -27,7 +32,14 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rG8D6ARtSjW67wXnXaukt_38.811085_-77.070163@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461904207,
     "wof:geomhash":"df2fd6b7d31747e021b27383cdf53ac0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739282543
+        }
+    ],
     "wof:id":739282543,
-    "wof:lastmodified":1467088411,
+    "wof:lastmodified":1490398571,
     "wof:name":"Anne Landry Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

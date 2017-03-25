@@ -2,9 +2,14 @@
   "id": 739680213,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Duke St Alexandria VA 22304",
+    "addr:housenumber":"5101",
+    "addr:postcode":"22304",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.119409,38.812182,-77.119409,38.812182",
     "geom:latitude":38.812182,
     "geom:longitude":-77.119409,
@@ -28,7 +33,15 @@
         "proprietary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V5N33rmZCU8fKFAUNvh0H_38.812182_-77.119409@1303262545"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461912149,
     "wof:geomhash":"79a314310a81f12516278307c2820d5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739680213
+        }
+    ],
     "wof:id":739680213,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490400122,
     "wof:name":"Alexandria Duke Cvs Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

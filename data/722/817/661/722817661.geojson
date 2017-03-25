@@ -2,9 +2,14 @@
   "id": 722817661,
   "type": "Feature",
   "properties": {
+    "addr:full":"2904 Old Dominion Blvd Alexandria VA 22305",
+    "addr:housenumber":"2904",
+    "addr:postcode":"22305",
+    "addr:street":"Old Dominion Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072151,38.832301,-77.072151,38.832301",
     "geom:latitude":38.832301,
     "geom:longitude":-77.072151,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547831
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547831,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":722817661
         }
     ],
     "wof:id":722817661,
-    "wof:lastmodified":1467087878,
+    "wof:lastmodified":1490400292,
     "wof:name":"Mr George A Fisher",
-    "wof:parent_id":420547831,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

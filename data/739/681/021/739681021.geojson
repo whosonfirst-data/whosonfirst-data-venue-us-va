@@ -2,9 +2,14 @@
   "id": 739681021,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 S Van Dorn St Alexandria VA 22304",
+    "addr:housenumber":"140",
+    "addr:postcode":"22304",
+    "addr:street":"S Van Dorn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.13158,38.811629,-77.13158,38.811629",
     "geom:latitude":38.811629,
     "geom:longitude":-77.13158,
@@ -32,7 +37,15 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LcYTy2aZBOEtGYxOP8ri6_38.811629_-77.131580@1303262545"
@@ -40,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1461912163,
     "wof:geomhash":"f52b2b7ada65cb406130f3db59f8ca25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":739681021
+        }
+    ],
     "wof:id":739681021,
-    "wof:lastmodified":1467088701,
+    "wof:lastmodified":1490400102,
     "wof:name":"Deli Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

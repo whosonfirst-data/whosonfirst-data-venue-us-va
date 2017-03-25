@@ -2,9 +2,14 @@
   "id": 739678477,
   "type": "Feature",
   "properties": {
+    "addr:full":"3801 W Braddock Rd Alexandria VA 22302",
+    "addr:housenumber":"3801",
+    "addr:postcode":"22302",
+    "addr:street":"W Braddock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.094976,38.827571,-77.094976,38.827571",
     "geom:latitude":38.827571,
     "geom:longitude":-77.094976,
@@ -29,7 +34,15 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65YM8hsiXh913oL1N5q7CO_38.827571_-77.094976@1303262545"
@@ -37,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1461912118,
     "wof:geomhash":"924c441852dc8c6aa9d7153a11f1f31a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":739678477
+        }
+    ],
     "wof:id":739678477,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490399979,
     "wof:name":"Alexandria City School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

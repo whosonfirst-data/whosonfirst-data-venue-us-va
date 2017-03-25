@@ -2,9 +2,14 @@
   "id": 739576937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1663 Prince St Alexandria VA 22314",
+    "addr:housenumber":"1663",
+    "addr:postcode":"22314",
+    "addr:street":"Prince St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058215,38.805343,-77.058215,38.805343",
     "geom:latitude":38.805343,
     "geom:longitude":-77.058215,
@@ -31,7 +36,14 @@
     ],
     "sg:website":"www.washingtonspeakers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SAmLIaIMIRJL1BEoWYyDY_38.805369_-77.058015@1293134755"
@@ -39,11 +51,21 @@
     "wof:country":"US",
     "wof:created":1461909940,
     "wof:geomhash":"41184fae66bb6df40f2852e525d01190",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739576937
+        }
+    ],
     "wof:id":739576937,
-    "wof:lastmodified":1467088625,
+    "wof:lastmodified":1490398611,
     "wof:name":"Washington Speakers Bureau",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

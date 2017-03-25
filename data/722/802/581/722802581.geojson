@@ -2,9 +2,14 @@
   "id": 722802581,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 N Washington St Alexandria VA 22314",
+    "addr:housenumber":"520",
+    "addr:postcode":"22314",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.045865,38.810526,-77.045865,38.810526",
     "geom:latitude":38.810526,
     "geom:longitude":-77.045865,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724979,
+        85875841,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875839
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875839,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
             "region_id":85688747,
             "venue_id":722802581
         }
     ],
     "wof:id":722802581,
-    "wof:lastmodified":1467087866,
+    "wof:lastmodified":1490400303,
     "wof:name":"Design Alliance",
-    "wof:parent_id":85875839,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

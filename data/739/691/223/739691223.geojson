@@ -2,9 +2,14 @@
   "id": 739691223,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 N Fairfax St Ste 402 Alexandria VA 22314",
+    "addr:housenumber":"801",
+    "addr:postcode":"22314",
+    "addr:street":"N Fairfax St Ste 402",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040817,38.812462,-77.040817,38.812462",
     "geom:latitude":38.812462,
     "geom:longitude":-77.040817,
@@ -36,7 +41,14 @@
     ],
     "sg:website":"http://www.alexchamber.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EpAffN8DWb8g5YFylbHsq_38.812462_-77.040817@1303262546"
@@ -44,11 +56,21 @@
     "wof:country":"US",
     "wof:created":1461912368,
     "wof:geomhash":"2148be80d2eeb32979d9ba4e286b413c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":739691223
+        }
+    ],
     "wof:id":739691223,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490400255,
     "wof:name":"Alexandria Chamber Of Commerce",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

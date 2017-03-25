@@ -2,9 +2,14 @@
   "id": 723434219,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 S Washington St Alexandria VA 22314",
+    "addr:housenumber":"407",
+    "addr:postcode":"22314",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048002,38.800589,-77.048002,38.800589",
     "geom:latitude":38.800589,
     "geom:longitude":-77.048002,
@@ -27,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79Wo9AP6J7lmgiPXjxdnkg_38.800589_-77.048002@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461901643,
     "wof:geomhash":"6531f2cd3e8dec679419318303cfc34f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":723434219
+        }
+    ],
     "wof:id":723434219,
-    "wof:lastmodified":1467088325,
+    "wof:lastmodified":1490400012,
     "wof:name":"Silhouette Hair Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

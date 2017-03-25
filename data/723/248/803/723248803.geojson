@@ -2,9 +2,14 @@
   "id": 723248803,
   "type": "Feature",
   "properties": {
+    "addr:full":"4550 Seminary Rd Alexandria VA 22304",
+    "addr:housenumber":"4550",
+    "addr:postcode":"22304",
+    "addr:street":"Seminary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.10814,38.825683,-77.10814,38.825683",
     "geom:latitude":38.825683,
     "geom:longitude":-77.10814,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547837
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547837,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":723248803
         }
     ],
     "wof:id":723248803,
-    "wof:lastmodified":1467088191,
+    "wof:lastmodified":1490399932,
     "wof:name":"Albert S Roslyn LTD",
-    "wof:parent_id":420547837,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

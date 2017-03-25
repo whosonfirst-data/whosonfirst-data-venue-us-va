@@ -2,9 +2,14 @@
   "id": 739691925,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 Crown View Dr Alexandria VA 22314",
+    "addr:housenumber":"407",
+    "addr:postcode":"22314",
+    "addr:street":"Crown View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.077989,38.812262,-77.077989,38.812262",
     "geom:latitude":38.812262,
     "geom:longitude":-77.077989,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724993,
+        1108724991,
         102191575,
         85633793,
         101728581,
         102080641,
-        85811479
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85811479,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
             "region_id":85688747,
             "venue_id":739691925
         }
     ],
     "wof:id":739691925,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490400334,
     "wof:name":"D N A Technology Consulting Services L L C",
-    "wof:parent_id":85811479,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

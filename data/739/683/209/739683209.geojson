@@ -2,9 +2,14 @@
   "id": 739683209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3725 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3725",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051947,38.838827,-77.051947,38.838827",
     "geom:latitude":38.838827,
     "geom:longitude":-77.051947,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.sleepys.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aHUgcYcVCUSj86nSPdTkS_38.838827_-77.051947@1303262545"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461912208,
     "wof:geomhash":"8972f43ba678db1a96fbf1a64dc6de1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739683209
+        }
+    ],
     "wof:id":739683209,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400285,
     "wof:name":"Sleepy's, The Mattress Professionals",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

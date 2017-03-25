@@ -2,9 +2,14 @@
   "id": 722570665,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 N Armistead St Alexandria VA 22312",
+    "addr:housenumber":"606",
+    "addr:postcode":"22312",
+    "addr:street":"N Armistead St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.134451,38.824731,-77.134451,38.824731",
     "geom:latitude":38.824731,
     "geom:longitude":-77.134451,
@@ -27,7 +32,15 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MBHE8pqJfEjMJNkKqlDgx_38.824731_-77.134451@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461884422,
     "wof:geomhash":"88d751603209b982170179f6964f777f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":722570665
+        }
+    ],
     "wof:id":722570665,
-    "wof:lastmodified":1467087699,
+    "wof:lastmodified":1490399690,
     "wof:name":"Preston Q Welch DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

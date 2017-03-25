@@ -2,9 +2,14 @@
   "id": 739554913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1629 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1629",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.059178,38.804341,-77.059178,38.804341",
     "geom:latitude":38.804341,
     "geom:longitude":-77.059178,
@@ -28,7 +33,14 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G4qNpbOpN19Yo85HSkBeq_38.804341_-77.059178@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461909460,
     "wof:geomhash":"04100c5041d08ad8a12fa6ce5845769a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739554913
+        }
+    ],
     "wof:id":739554913,
-    "wof:lastmodified":1467088609,
+    "wof:lastmodified":1490400226,
     "wof:name":"International Trade ADM",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

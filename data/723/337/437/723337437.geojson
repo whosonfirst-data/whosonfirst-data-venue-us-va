@@ -2,9 +2,14 @@
   "id": 723337437,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 S Pickett St Alexandria VA 22304",
+    "addr:housenumber":"600",
+    "addr:postcode":"22304",
+    "addr:street":"S Pickett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.130878,38.805066,-77.130878,38.805066",
     "geom:latitude":38.805066,
     "geom:longitude":-77.130878,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724983,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547835
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547835,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
             "region_id":85688747,
             "venue_id":723337437
         }
     ],
     "wof:id":723337437,
-    "wof:lastmodified":1467088255,
+    "wof:lastmodified":1490400098,
     "wof:name":"Tesi Mid Atlantic Inc",
-    "wof:parent_id":420547835,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

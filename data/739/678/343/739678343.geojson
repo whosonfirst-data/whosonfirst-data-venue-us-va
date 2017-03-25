@@ -2,9 +2,14 @@
   "id": 739678343,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Ford Ave Ste 301 Alexandria VA 22302",
+    "addr:housenumber":"4401",
+    "addr:postcode":"22302",
+    "addr:street":"Ford Ave Ste 301",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.104599,38.836712,-77.104599,38.836712",
     "geom:latitude":38.836712,
     "geom:longitude":-77.104599,
@@ -30,12 +35,13 @@
     "sg:website":"www.physiocorp.com/facility/1610...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85820249
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85820249,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":739678343
         }
     ],
     "wof:id":739678343,
-    "wof:lastmodified":1467088698,
+    "wof:lastmodified":1490399670,
     "wof:name":"Patriot Sports Medicine",
-    "wof:parent_id":85820249,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

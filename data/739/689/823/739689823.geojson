@@ -2,9 +2,14 @@
   "id": 739689823,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Diagonal Rd Ste 200 Alexandria VA 22314",
+    "addr:housenumber":"1800",
+    "addr:postcode":"22314",
+    "addr:street":"Diagonal Rd Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.059868,38.806122,-77.059868,38.806122",
     "geom:latitude":38.806122,
     "geom:longitude":-77.059868,
@@ -27,7 +32,14 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KXeiCL0w3PdDyjUxY6g4w_38.806122_-77.059868@1303262546"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461912337,
     "wof:geomhash":"3fc2337f292c588ad3933092e873eaa9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739689823
+        }
+    ],
     "wof:id":739689823,
-    "wof:lastmodified":1467088707,
+    "wof:lastmodified":1490400207,
     "wof:name":"Textile Rental Services Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

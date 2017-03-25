@@ -2,9 +2,14 @@
   "id": 722831951,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Franklin St Alexandria VA 22314",
+    "addr:housenumber":"401",
+    "addr:postcode":"22314",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.046223,38.79791,-77.046223,38.79791",
     "geom:latitude":38.79791,
     "geom:longitude":-77.046223,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kcOXnBIHNlwynGMfQBBZi_38.797910_-77.046223@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461889479,
     "wof:geomhash":"d5c7f373bb53fdd0c7cc9c73a10939a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":722831951
+        }
+    ],
     "wof:id":722831951,
-    "wof:lastmodified":1467087888,
+    "wof:lastmodified":1490398502,
     "wof:name":"Eastport Partners LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

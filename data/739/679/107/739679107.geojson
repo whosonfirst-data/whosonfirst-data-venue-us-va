@@ -2,9 +2,14 @@
   "id": 739679107,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Lloyds Ln Alexandria VA 22302",
+    "addr:housenumber":"219",
+    "addr:postcode":"22302",
+    "addr:street":"Lloyds Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.066176,38.822679,-77.066176,38.822679",
     "geom:latitude":38.822679,
     "geom:longitude":-77.066176,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108725007,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        85806975
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85806975,
+            "microhood_id":1108725007,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739679107
         }
     ],
     "wof:id":739679107,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490400347,
     "wof:name":"Stackhouse Peter K Esquire",
-    "wof:parent_id":85806975,
+    "wof:parent_id":1108725007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

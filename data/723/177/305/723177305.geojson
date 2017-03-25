@@ -2,9 +2,14 @@
   "id": 723177305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Quaker Hill Dr Alexandria VA 22314",
+    "addr:housenumber":"1100",
+    "addr:postcode":"22314",
+    "addr:street":"Quaker Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.083462,38.81022,-77.083462,38.81022",
     "geom:latitude":38.81022,
     "geom:longitude":-77.083462,
@@ -27,7 +32,15 @@
         "broadcaster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vtWlfYniaCs2KaJgUpENO_38.810220_-77.083462@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461896629,
     "wof:geomhash":"9da9e2f79c1f29062d1a38ff268a8059",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723177305
+        }
+    ],
     "wof:id":723177305,
-    "wof:lastmodified":1467088139,
+    "wof:lastmodified":1490400329,
     "wof:name":"Gouleta Dr Eirini",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

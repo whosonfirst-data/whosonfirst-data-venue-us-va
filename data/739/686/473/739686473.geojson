@@ -2,9 +2,14 @@
   "id": 739686473,
   "type": "Feature",
   "properties": {
+    "addr:full":"4901 Seminary Rd Ste 110 Alexandria VA 22311",
+    "addr:housenumber":"4901",
+    "addr:postcode":"22311",
+    "addr:street":"Seminary Rd Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.1157,38.832901,-77.1157,38.832901",
     "geom:latitude":38.832901,
     "geom:longitude":-77.1157,
@@ -24,7 +29,15 @@
     "sg:postcode":"22311",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32h1q0J5f6wtTutbnDLAIq_38.832901_-77.115700@1303262546"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461912273,
     "wof:geomhash":"327b1e5e8797ba6995b7c0099413332e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
+            "region_id":85688747,
+            "venue_id":739686473
+        }
+    ],
     "wof:id":739686473,
-    "wof:lastmodified":1467088704,
+    "wof:lastmodified":1490400065,
     "wof:name":"Lee Chong W MD PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

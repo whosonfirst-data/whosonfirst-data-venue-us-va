@@ -2,9 +2,14 @@
   "id": 739678945,
   "type": "Feature",
   "properties": {
+    "addr:full":"3690M King St Alexandria VA 22302",
+    "addr:housenumber":"3690m",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.09143,38.829893,-77.09143,38.829893",
     "geom:latitude":38.829893,
     "geom:longitude":-77.09143,
@@ -24,7 +29,14 @@
     "sg:postcode":"22302",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1521m91iC7tDVZfKmH0z7l_38.829893_-77.091430@1303262545"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461912126,
     "wof:geomhash":"7b100791b4ba8ef7b49690f0a71fb602",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739678945
+        }
+    ],
     "wof:id":739678945,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490399393,
     "wof:name":"Trauben Steven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

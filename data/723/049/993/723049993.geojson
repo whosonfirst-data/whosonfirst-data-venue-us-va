@@ -2,9 +2,14 @@
   "id": 723049993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 Juliana Pl Alexandria VA 22304",
+    "addr:housenumber":"1303",
+    "addr:postcode":"22304",
+    "addr:street":"Juliana Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.108915,38.823387,-77.108915,38.823387",
     "geom:latitude":38.823387,
     "geom:longitude":-77.108915,
@@ -29,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547837
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +55,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547837,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":723049993
         }
     ],
     "wof:id":723049993,
-    "wof:lastmodified":1467088046,
+    "wof:lastmodified":1490399993,
     "wof:name":"World Images News Service",
-    "wof:parent_id":420547837,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

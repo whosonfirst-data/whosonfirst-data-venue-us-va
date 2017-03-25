@@ -2,9 +2,14 @@
   "id": 722874131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2807 Duke St Alexandria VA 22314",
+    "addr:housenumber":"2807",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081061,38.807434,-77.081061,38.807434",
     "geom:latitude":38.807434,
     "geom:longitude":-77.081061,
@@ -27,7 +32,15 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XrIhjKhAJnDm8WW6Y7HdS_38.807434_-77.081061@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461890276,
     "wof:geomhash":"673fb3f73730ae701c330e42e174579c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722874131
+        }
+    ],
     "wof:id":722874131,
-    "wof:lastmodified":1467087918,
+    "wof:lastmodified":1490400332,
     "wof:name":"Gynecare Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

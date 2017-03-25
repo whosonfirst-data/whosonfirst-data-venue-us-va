@@ -2,9 +2,14 @@
   "id": 739688313,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Montgomery St Alexandria VA 22314",
+    "addr:housenumber":"312",
+    "addr:postcode":"22314",
+    "addr:street":"Montgomery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040725,38.813608,-77.040725,38.813608",
     "geom:latitude":38.813608,
     "geom:longitude":-77.040725,
@@ -47,7 +52,14 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oxsjgtOz48Mvto5Y4cW3V_38.813608_-77.040725@1303262546"
@@ -55,11 +67,21 @@
     "wof:country":"US",
     "wof:created":1461912305,
     "wof:geomhash":"247aae9e79259f6ac13b3b3f000eb043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739688313
+        }
+    ],
     "wof:id":739688313,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490399908,
     "wof:name":"Sacred Spaces",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

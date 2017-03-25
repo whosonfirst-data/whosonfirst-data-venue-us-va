@@ -2,9 +2,14 @@
   "id": 722934815,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Montgomery St Alexandria VA 22314",
+    "addr:housenumber":"318",
+    "addr:postcode":"22314",
+    "addr:street":"Montgomery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.041538,38.813625,-77.041538,38.813625",
     "geom:latitude":38.813625,
     "geom:longitude":-77.041538,
@@ -27,7 +32,14 @@
         "piano"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WYn5gx7vX4PL0wq7eaHLR_38.813625_-77.041538@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461891506,
     "wof:geomhash":"63b3743835f09bca70ea9d1296538903",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":722934815
+        }
+    ],
     "wof:id":722934815,
-    "wof:lastmodified":1467087962,
+    "wof:lastmodified":1490399882,
     "wof:name":"Harl Pianos LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

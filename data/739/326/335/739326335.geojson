@@ -2,9 +2,14 @@
   "id": 739326335,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Wesmond Dr Alexandria VA 22305",
+    "addr:housenumber":"209",
+    "addr:postcode":"22305",
+    "addr:street":"Wesmond Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054413,38.835036,-77.054413,38.835036",
     "geom:latitude":38.835036,
     "geom:longitude":-77.054413,
@@ -28,7 +33,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o9LWPBEfPawQvapnW1hSy_38.835036_-77.054413@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461905108,
     "wof:geomhash":"d4029cf14b85bfceb8ed9667a6abf91a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547819,
+            "region_id":85688747,
+            "venue_id":739326335
+        }
+    ],
     "wof:id":739326335,
-    "wof:lastmodified":1467088443,
+    "wof:lastmodified":1490400020,
     "wof:name":"Cem Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

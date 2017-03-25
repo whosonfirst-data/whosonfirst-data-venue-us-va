@@ -2,9 +2,14 @@
   "id": 739685867,
   "type": "Feature",
   "properties": {
+    "addr:full":"2280 N Beauregard St Alexandria VA 22311",
+    "addr:housenumber":"2280",
+    "addr:postcode":"22311",
+    "addr:street":"N Beauregard St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116115,38.834679,-77.116115,38.834679",
     "geom:latitude":38.834679,
     "geom:longitude":-77.116115,
@@ -28,7 +33,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420781825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pSKl49gnnS8XWg0WQM1O2_38.834679_-77.116115@1303262545"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461912261,
     "wof:geomhash":"7be549c350209e6937dab30572a93913",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":420781825,
+            "region_id":85688747,
+            "venue_id":739685867
+        }
+    ],
     "wof:id":739685867,
-    "wof:lastmodified":1467088704,
+    "wof:lastmodified":1490400064,
     "wof:name":"Virginia Co-Op Preschool Council",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

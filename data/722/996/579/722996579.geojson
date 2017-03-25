@@ -2,9 +2,14 @@
   "id": 722996579,
   "type": "Feature",
   "properties": {
+    "addr:full":"3631 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3631",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051812,38.837214,-77.051812,38.837214",
     "geom:latitude":38.837214,
     "geom:longitude":-77.051812,
@@ -24,7 +29,14 @@
     "sg:postcode":"22305",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h4dhqEjfZv75wQUrJR4lw_38.837214_-77.051812@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461892823,
     "wof:geomhash":"3240dd3f6e37192cb134b2bf2377d6e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":722996579
+        }
+    ],
     "wof:id":722996579,
-    "wof:lastmodified":1467088006,
+    "wof:lastmodified":1490400283,
     "wof:name":"Hallmark Creations",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

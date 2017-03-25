@@ -2,9 +2,14 @@
   "id": 739325379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1631 Prince St Alexandria VA 22314",
+    "addr:housenumber":"1631",
+    "addr:postcode":"22314",
+    "addr:street":"Prince St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.058344,38.805424,-77.058344,38.805424",
     "geom:latitude":38.805424,
     "geom:longitude":-77.058344,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"www.nacacconference.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cku07Lb78Ht0xMDSp0Yjf_38.805424_-77.058344@1294252573"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461905087,
     "wof:geomhash":"f078f9df95083d0fd41e57e8b72ddee8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":739325379
+        }
+    ],
     "wof:id":739325379,
-    "wof:lastmodified":1467088443,
+    "wof:lastmodified":1490400224,
     "wof:name":"National Assn-College Admssn",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

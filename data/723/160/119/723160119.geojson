@@ -2,9 +2,14 @@
   "id": 723160119,
   "type": "Feature",
   "properties": {
+    "addr:full":"2461 Eisenhower Ave Alexandria VA 22314",
+    "addr:housenumber":"2461",
+    "addr:postcode":"22314",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072083,38.801413,-77.072083,38.801413",
     "geom:latitude":38.801413,
     "geom:longitude":-77.072083,
@@ -28,7 +33,15 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875833,
+        102191575,
+        1108830777,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fPkIioGuCm0uUIQqQv9pK_38.801413_-77.072083@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461896291,
     "wof:geomhash":"6077acbd49782ca4e70eaf5fdc22198a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108830777,
+            "neighbourhood_id":85875833,
+            "region_id":85688747,
+            "venue_id":723160119
+        }
+    ],
     "wof:id":723160119,
-    "wof:lastmodified":1467088126,
+    "wof:lastmodified":1490399776,
     "wof:name":"Perscom",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

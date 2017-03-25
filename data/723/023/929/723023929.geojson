@@ -2,9 +2,14 @@
   "id": 723023929,
   "type": "Feature",
   "properties": {
+    "addr:full":"329 S Fayette St Alexandria VA 22314",
+    "addr:housenumber":"329",
+    "addr:postcode":"22314",
+    "addr:street":"S Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053015,38.803083,-77.053015,38.803083",
     "geom:latitude":38.803083,
     "geom:longitude":-77.053015,
@@ -27,7 +32,14 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lEGQjrPyLRrkRPm8Bkoxr_38.803083_-77.053015@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461893464,
     "wof:geomhash":"7b530525706cd6a6565d8b7a75f0605b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":723023929
+        }
+    ],
     "wof:id":723023929,
-    "wof:lastmodified":1467088026,
+    "wof:lastmodified":1490400010,
     "wof:name":"Asset Resource Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

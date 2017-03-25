@@ -2,9 +2,14 @@
   "id": 739685909,
   "type": "Feature",
   "properties": {
+    "addr:full":"5232 Dawes Ave Alexandria VA 22311",
+    "addr:housenumber":"5232",
+    "addr:postcode":"22311",
+    "addr:street":"Dawes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.119435,38.839441,-77.119435,38.839441",
     "geom:latitude":38.839441,
     "geom:longitude":-77.119435,
@@ -28,7 +33,15 @@
     ],
     "sg:website":"www.lesnerhearingcenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gN1lJuF7LSaoFfJtA7oYP_38.839441_-77.119435@1303262546"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461912261,
     "wof:geomhash":"ae9409bb14509fd0078ac74c539a8ccb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739685909
+        }
+    ],
     "wof:id":739685909,
-    "wof:lastmodified":1467088704,
+    "wof:lastmodified":1490399707,
     "wof:name":"Lesner Leslie Audiologist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

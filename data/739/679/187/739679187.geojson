@@ -2,9 +2,14 @@
   "id": 739679187,
   "type": "Feature",
   "properties": {
+    "addr:full":"906 Allison St Alexandria VA 22302",
+    "addr:housenumber":"906",
+    "addr:postcode":"22302",
+    "addr:street":"Allison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.076773,38.832076,-77.076773,38.832076",
     "geom:latitude":38.832076,
     "geom:longitude":-77.076773,
@@ -31,12 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547831
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547831,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739679187
         }
     ],
     "wof:id":739679187,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490400292,
     "wof:name":"Senior Craftsmen Inc",
-    "wof:parent_id":420547831,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739678597,
   "type": "Feature",
   "properties": {
+    "addr:full":"3526 King St Alexandria VA 22302",
+    "addr:housenumber":"3526",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.088749,38.827407,-77.088749,38.827407",
     "geom:latitude":38.827407,
     "geom:longitude":-77.088749,
@@ -27,7 +32,14 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        420547827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21RPYKIHJwE0ddJpNspY3e_38.827407_-77.088749@1303262545"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461912120,
     "wof:geomhash":"aa8047ac26a0d25152c565e8a9d558f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":420547827,
+            "region_id":85688747,
+            "venue_id":739678597
+        }
+    ],
     "wof:id":739678597,
-    "wof:lastmodified":1467088699,
+    "wof:lastmodified":1490398684,
     "wof:name":"O & O 24 Hour Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

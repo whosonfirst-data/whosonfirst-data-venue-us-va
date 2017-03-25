@@ -2,9 +2,14 @@
   "id": 739435101,
   "type": "Feature",
   "properties": {
+    "addr:full":"6137 Lincolnia Rd Alexandria VA 22312",
+    "addr:housenumber":"6137",
+    "addr:postcode":"22312",
+    "addr:street":"Lincolnia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136387,38.818067,-77.136387,38.818067",
     "geom:latitude":38.818067,
     "geom:longitude":-77.136387,
@@ -28,7 +33,15 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e3toxEfJdw5D6pD1cGc1T_38.818067_-77.136387@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461907264,
     "wof:geomhash":"ff4462318f39dede26185159149bacdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739435101
+        }
+    ],
     "wof:id":739435101,
-    "wof:lastmodified":1467088523,
+    "wof:lastmodified":1490399682,
     "wof:name":"US Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

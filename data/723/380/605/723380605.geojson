@@ -2,9 +2,14 @@
   "id": 723380605,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Eisenhower Ave Alexandria VA 22304",
+    "addr:housenumber":"3601",
+    "addr:postcode":"22304",
+    "addr:street":"Eisenhower Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090829,38.803453,-77.090829,38.803453",
     "geom:latitude":38.803453,
     "geom:longitude":-77.090829,
@@ -28,7 +33,15 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f5tEpPNyPaL0jLhJU9rXj_38.803453_-77.090829@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461900596,
     "wof:geomhash":"c0b868d420c2c39ef5c11df9b64af35b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":723380605
+        }
+    ],
     "wof:id":723380605,
-    "wof:lastmodified":1467088286,
+    "wof:lastmodified":1490399992,
     "wof:name":"Baker/Group 70 Joint Venture",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

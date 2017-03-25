@@ -2,9 +2,14 @@
   "id": 723340911,
   "type": "Feature",
   "properties": {
+    "addr:full":"6007 Lowell Ave Alexandria VA 22312",
+    "addr:housenumber":"6007",
+    "addr:postcode":"22312",
+    "addr:street":"Lowell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136638,38.827415,-77.136638,38.827415",
     "geom:latitude":38.827415,
     "geom:longitude":-77.136638,
@@ -24,7 +29,15 @@
     "sg:postcode":"22312",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O55KT38LyOqfA6AlCcVdu_38.827415_-77.136638@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461899825,
     "wof:geomhash":"e9aa2ca790ccf683187f4156997c282a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":723340911
+        }
+    ],
     "wof:id":723340911,
-    "wof:lastmodified":1467088257,
+    "wof:lastmodified":1490399691,
     "wof:name":"Platinum Network",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

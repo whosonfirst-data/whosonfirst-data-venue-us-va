@@ -2,9 +2,14 @@
   "id": 739571225,
   "type": "Feature",
   "properties": {
+    "addr:full":"5196 Dawes Ave Alexandria VA 22311",
+    "addr:housenumber":"5196",
+    "addr:postcode":"22311",
+    "addr:street":"Dawes Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116248,38.840899,-77.116248,38.840899",
     "geom:latitude":38.840899,
     "geom:longitude":-77.116248,
@@ -28,7 +33,15 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Pzp5JxUwJMiS8bp2zQy3L_38.841044_-77.115682@1293134755"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461909806,
     "wof:geomhash":"624d14135bc56fc607d9751d6105dd8d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739571225
+        }
+    ],
     "wof:id":739571225,
-    "wof:lastmodified":1467088621,
+    "wof:lastmodified":1490399690,
     "wof:name":"Jefferson Neurology Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

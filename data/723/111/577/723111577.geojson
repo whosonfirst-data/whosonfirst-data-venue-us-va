@@ -2,9 +2,14 @@
   "id": 723111577,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Lane Dr Alexandria VA 22304",
+    "addr:housenumber":"6001",
+    "addr:postcode":"22304",
+    "addr:street":"Lane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137284,38.810076,-77.137284,38.810076",
     "geom:latitude":38.810076,
     "geom:longitude":-77.137284,
@@ -32,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724983,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547835
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547835,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
             "region_id":85688747,
             "venue_id":723111577
         }
     ],
     "wof:id":723111577,
-    "wof:lastmodified":1467088091,
+    "wof:lastmodified":1490400106,
     "wof:name":"Wiygul Automotive Clinic",
-    "wof:parent_id":420547835,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

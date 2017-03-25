@@ -2,9 +2,14 @@
   "id": 739386313,
   "type": "Feature",
   "properties": {
+    "addr:full":"3805 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"3805",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062159,38.838645,-77.062159,38.838645",
     "geom:latitude":38.838645,
     "geom:longitude":-77.062159,
@@ -27,7 +32,14 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mV3sKhJpWxuf0HQsm24V4_38.838645_-77.062159@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461906319,
     "wof:geomhash":"820f61990950e92d483fd131b4a5ac39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739386313
+        }
+    ],
     "wof:id":739386313,
-    "wof:lastmodified":1467088487,
+    "wof:lastmodified":1490399602,
     "wof:name":"Supermarket Milagro De Dios",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

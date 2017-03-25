@@ -2,9 +2,14 @@
   "id": 739526253,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 Duke St Alexandria VA 22314",
+    "addr:housenumber":"2825",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080689,38.807367,-77.080689,38.807367",
     "geom:latitude":38.807367,
     "geom:longitude":-77.080689,
@@ -27,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xbaYB70DU9fV5pxHEXdbP_38.807367_-77.080689@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461908909,
     "wof:geomhash":"200d0ce2bf7c4abf994ca8775ba88a82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739526253
+        }
+    ],
     "wof:id":739526253,
-    "wof:lastmodified":1467088589,
+    "wof:lastmodified":1490400330,
     "wof:name":"Michael V Durkin Law Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

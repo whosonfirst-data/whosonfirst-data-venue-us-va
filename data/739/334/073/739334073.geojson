@@ -2,9 +2,14 @@
   "id": 739334073,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Madison St Alexandria VA 22314",
+    "addr:housenumber":"400",
+    "addr:postcode":"22314",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.043033,38.812733,-77.043033,38.812733",
     "geom:latitude":38.812733,
     "geom:longitude":-77.043033,
@@ -27,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LEMV4gvGKFSTsmzJHaqC8_38.812733_-77.043033@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461905256,
     "wof:geomhash":"3ae5e50bc4fd666da2b41a1343f2cc32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739334073
+        }
+    ],
     "wof:id":739334073,
-    "wof:lastmodified":1467088449,
+    "wof:lastmodified":1490399885,
     "wof:name":"40 Savile Row Clths Mkr London",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

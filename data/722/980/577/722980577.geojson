@@ -2,9 +2,14 @@
   "id": 722980577,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 Crestwood Dr Alexandria VA 22302",
+    "addr:housenumber":"1708",
+    "addr:postcode":"22302",
+    "addr:street":"Crestwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.08509,38.833703,-77.08509,38.833703",
     "geom:latitude":38.833703,
     "geom:longitude":-77.08509,
@@ -26,12 +31,13 @@
     "sg:website":"www.crossroadsresearch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        420547827
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +52,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547827,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":722980577
         }
     ],
     "wof:id":722980577,
-    "wof:lastmodified":1467087995,
+    "wof:lastmodified":1490400294,
     "wof:name":"Crossroads Research LTD",
-    "wof:parent_id":420547827,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739380129,
   "type": "Feature",
   "properties": {
+    "addr:full":"2989 S Columbus St Arlington VA 22206",
+    "addr:housenumber":"2989",
+    "addr:postcode":"22206",
+    "addr:street":"S Columbus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.10213,38.838319,-77.10213,38.838319",
     "geom:latitude":38.838319,
     "geom:longitude":-77.10213,
@@ -27,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ozyMfaVoDtVmOh0jd7F4d_38.838319_-77.102130@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461906199,
     "wof:geomhash":"9cd33d9fc873b04edfd4b2ec09415978",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739380129
+        }
+    ],
     "wof:id":739380129,
-    "wof:lastmodified":1467088483,
+    "wof:lastmodified":1490399703,
     "wof:name":"Joe Vasapoli Law Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 723360837,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 S Van Dorn St Alexandria VA 22304",
+    "addr:housenumber":"233",
+    "addr:postcode":"22304",
+    "addr:street":"S;Dorn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.132512,38.809846,-77.132512,38.809846",
     "geom:latitude":38.809846,
     "geom:longitude":-77.132512,
@@ -25,7 +30,15 @@
     "sg:province":"VA",
     "sg:website":"www.firstvirginiabank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eSgqKAMp0FI54mKxFdXxK_38.809846_-77.132512@1294252573"
@@ -33,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1461900196,
     "wof:geomhash":"896e79e5b5b27013968efb4ec0fcf1b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723360837
+        }
+    ],
     "wof:id":723360837,
-    "wof:lastmodified":1467088272,
+    "wof:lastmodified":1490400126,
     "wof:name":"B B & T",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

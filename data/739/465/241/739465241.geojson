@@ -2,9 +2,14 @@
   "id": 739465241,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 W Cedar St Alexandria VA 22301",
+    "addr:housenumber":"14",
+    "addr:postcode":"22301",
+    "addr:street":"W Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.06276,38.808523,-77.06276,38.808523",
     "geom:latitude":38.808523,
     "geom:longitude":-77.06276,
@@ -28,7 +33,14 @@
         "investigation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85814135
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A1li0hRRtZmsx22WiSWhy_38.808523_-77.062760@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461907806,
     "wof:geomhash":"416822368ef50100284b7016dd891a3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85814135,
+            "region_id":85688747,
+            "venue_id":739465241
+        }
+    ],
     "wof:id":739465241,
-    "wof:lastmodified":1467088544,
+    "wof:lastmodified":1490399015,
     "wof:name":"Amergin Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

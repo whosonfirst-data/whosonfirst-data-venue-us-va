@@ -2,9 +2,14 @@
   "id": 723407219,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 Franklin St Alexandria VA 22314",
+    "addr:housenumber":"9",
+    "addr:postcode":"22314",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.041315,38.797318,-77.041315,38.797318",
     "geom:latitude":38.797318,
     "geom:longitude":-77.041315,
@@ -27,7 +32,14 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hPWm85jKaSQXnbtvpmaUH_38.797318_-77.041315@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461901115,
     "wof:geomhash":"2fc0356a9953030c6e8f065c8dde80bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":723407219
+        }
+    ],
     "wof:id":723407219,
-    "wof:lastmodified":1467088305,
+    "wof:lastmodified":1490400261,
     "wof:name":"Dale W Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

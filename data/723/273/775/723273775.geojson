@@ -2,9 +2,14 @@
   "id": 723273775,
   "type": "Feature",
   "properties": {
+    "addr:full":"4246 Raleigh Ave Alexandria VA 22304",
+    "addr:housenumber":"4246",
+    "addr:postcode":"22304",
+    "addr:street":"Raleigh Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.104202,38.816594,-77.104202,38.816594",
     "geom:latitude":38.816594,
     "geom:longitude":-77.104202,
@@ -28,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        420547843
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":420547843,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":723273775
         }
     ],
     "wof:id":723273775,
-    "wof:lastmodified":1467088209,
+    "wof:lastmodified":1490399950,
     "wof:name":"Stryke Web Services",
-    "wof:parent_id":420547843,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

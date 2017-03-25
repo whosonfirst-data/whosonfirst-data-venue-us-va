@@ -2,9 +2,14 @@
   "id": 723222007,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 King St Alexandria VA 22302",
+    "addr:housenumber":"3610",
+    "addr:postcode":"22302",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.092812,38.830941,-77.092812,38.830941",
     "geom:latitude":38.830941,
     "geom:longitude":-77.092812,
@@ -28,7 +33,15 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875847,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05jZI4clDPH55nKoF3E4LO_38.830941_-77.092812@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461897540,
     "wof:geomhash":"2f898bf1ccfbedc14c3f20a44d265f4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
+            "region_id":85688747,
+            "venue_id":723222007
+        }
+    ],
     "wof:id":723222007,
-    "wof:lastmodified":1467088171,
+    "wof:lastmodified":1490399939,
     "wof:name":"SunTrust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

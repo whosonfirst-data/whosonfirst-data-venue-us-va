@@ -2,9 +2,14 @@
   "id": 722951669,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Park Rd Alexandria VA 22301",
+    "addr:housenumber":"304",
+    "addr:postcode":"22301",
+    "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.06698,38.809351,-77.06698,38.809351",
     "geom:latitude":38.809351,
     "geom:longitude":-77.06698,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oLnuv4sTHjMiAiFyW6K3D_38.809351_-77.066980@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461891853,
     "wof:geomhash":"5a6083db757bc9a480ef8cb91e9f977c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722951669
+        }
+    ],
     "wof:id":722951669,
-    "wof:lastmodified":1467087974,
+    "wof:lastmodified":1490400192,
     "wof:name":"Dennis P Kelly Company Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

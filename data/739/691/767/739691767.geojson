@@ -2,9 +2,14 @@
   "id": 739691767,
   "type": "Feature",
   "properties": {
+    "addr:full":"820 N Fairfax St Alexandria VA 22314",
+    "addr:housenumber":"820",
+    "addr:postcode":"22314",
+    "addr:street":"N Fairfax St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040771,38.812692,-77.040771,38.812692",
     "geom:latitude":38.812692,
     "geom:longitude":-77.040771,
@@ -42,7 +47,14 @@
     ],
     "sg:website":"http://www.didioncruises.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XqLhRFbCc37hjeLU7wD9Y_38.812692_-77.040771@1303262546"
@@ -50,11 +62,21 @@
     "wof:country":"US",
     "wof:created":1461912379,
     "wof:geomhash":"0b601e796dc6a318a3002fa6b623a380",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":739691767
+        }
+    ],
     "wof:id":739691767,
-    "wof:lastmodified":1467088708,
+    "wof:lastmodified":1490400255,
     "wof:name":"Didion World Cruises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

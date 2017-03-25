@@ -2,9 +2,14 @@
   "id": 739682461,
   "type": "Feature",
   "properties": {
+    "addr:full":"3706 Mount Vernon Ave Alexandria VA 22305",
+    "addr:housenumber":"3706",
+    "addr:postcode":"22305",
+    "addr:street":"Mount Vernon Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062302,38.838699,-77.062302,38.838699",
     "geom:latitude":38.838699,
     "geom:longitude":-77.062302,
@@ -33,7 +38,14 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dMlLw33Oc2T6odELvV33o_38.838699_-77.062302@1303262545"
@@ -41,11 +53,21 @@
     "wof:country":"US",
     "wof:created":1461912195,
     "wof:geomhash":"e509bc0e3e8116dfeec383bfde2507b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739682461
+        }
+    ],
     "wof:id":739682461,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490399606,
     "wof:name":"Alexandria Airport Cab Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

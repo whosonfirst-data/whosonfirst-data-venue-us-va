@@ -2,9 +2,14 @@
   "id": 723020507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1460 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1460",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.055106,38.803745,-77.055106,38.803745",
     "geom:latitude":38.803745,
     "geom:longitude":-77.055106,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yR5tJpBm5hdMmWpAp5VNw_38.803745_-77.055106@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461893385,
     "wof:geomhash":"a56d9cca945fb3808d8d4bb3413c66c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723020507
+        }
+    ],
     "wof:id":723020507,
-    "wof:lastmodified":1467088024,
+    "wof:lastmodified":1490398444,
     "wof:name":"Designed Furniture Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

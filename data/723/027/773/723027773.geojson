@@ -2,9 +2,14 @@
   "id": 723027773,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Franklin St Alexandria VA 22314",
+    "addr:housenumber":"305",
+    "addr:postcode":"22314",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.04505,38.797833,-77.04505,38.797833",
     "geom:latitude":38.797833,
     "geom:longitude":-77.04505,
@@ -27,7 +32,14 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L29ZlpgmQzSM4bdSEmUkj_38.797833_-77.045050@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461893556,
     "wof:geomhash":"4f4eb5b4417e2200fa72a55efeabf6a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723027773
+        }
+    ],
     "wof:id":723027773,
-    "wof:lastmodified":1467088029,
+    "wof:lastmodified":1490399867,
     "wof:name":"Close-Up Skin Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

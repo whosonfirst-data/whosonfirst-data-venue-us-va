@@ -2,9 +2,14 @@
   "id": 739556877,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 1st St Alexandria VA 22314",
+    "addr:housenumber":"530",
+    "addr:postcode":"22314",
+    "addr:street":"1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.043299,38.815069,-77.043299,38.815069",
     "geom:latitude":38.815069,
     "geom:longitude":-77.043299,
@@ -28,7 +33,14 @@
     ],
     "sg:website":"www.giantfood.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MeE7gauoiUr2PY9iW1rtk_38.815022_-77.043393@1293134755"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461909495,
     "wof:geomhash":"dc8cab7bca90cb4ab8b5736724c581c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739556877
+        }
+    ],
     "wof:id":739556877,
-    "wof:lastmodified":1467088611,
+    "wof:lastmodified":1490399911,
     "wof:name":"Giant Food",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

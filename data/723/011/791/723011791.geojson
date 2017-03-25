@@ -2,9 +2,14 @@
   "id": 723011791,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 S Alfred St Alexandria VA 22314",
+    "addr:housenumber":"618",
+    "addr:postcode":"22314",
+    "addr:street":"S Alfred St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.050554,38.798671,-77.050554,38.798671",
     "geom:latitude":38.798671,
     "geom:longitude":-77.050554,
@@ -24,7 +29,14 @@
     "sg:postcode":"22314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Bw4bCQ3JLYPTLxfUKWpG_38.798671_-77.050554@1294252573"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461893175,
     "wof:geomhash":"1fb5d0f3faa1eaf0324df38b19c04baa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":723011791
+        }
+    ],
     "wof:id":723011791,
-    "wof:lastmodified":1467088017,
+    "wof:lastmodified":1490400002,
     "wof:name":"Wilson Investment Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

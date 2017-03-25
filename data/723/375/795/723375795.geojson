@@ -2,9 +2,14 @@
   "id": 723375795,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 Battery Pl Alexandria VA 22314",
+    "addr:housenumber":"714",
+    "addr:postcode":"22314",
+    "addr:street":"Battery Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.041556,38.796739,-77.041556,38.796739",
     "geom:latitude":38.796739,
     "geom:longitude":-77.041556,
@@ -27,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725017
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49CmBkaX5Vo9uHv2RsfRRy_38.796739_-77.041556@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461900486,
     "wof:geomhash":"14cff6b44010af4164e2274db7edc5aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725017,
+            "region_id":85688747,
+            "venue_id":723375795
+        }
+    ],
     "wof:id":723375795,
-    "wof:lastmodified":1467088283,
+    "wof:lastmodified":1490400274,
     "wof:name":"Gopac",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

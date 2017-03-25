@@ -2,9 +2,14 @@
   "id": 739682899,
   "type": "Feature",
   "properties": {
+    "addr:full":"3575 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3575",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051804,38.836899,-77.051804,38.836899",
     "geom:latitude":38.836899,
     "geom:longitude":-77.051804,
@@ -25,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"http://www.regmovies.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UVZGOfR4gceUg510NOkcW_38.836899_-77.051804@1303262545"
@@ -33,11 +45,21 @@
     "wof:country":"US",
     "wof:created":1461912203,
     "wof:geomhash":"d1da92b84c83a3083748ee79494f57ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739682899
+        }
+    ],
     "wof:id":739682899,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400284,
     "wof:name":"Regal Cinemas",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

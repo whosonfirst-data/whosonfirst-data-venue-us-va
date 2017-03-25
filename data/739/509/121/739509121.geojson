@@ -2,9 +2,14 @@
   "id": 739509121,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 S Fayette St Alexandria VA 22314",
+    "addr:housenumber":"623",
+    "addr:postcode":"22314",
+    "addr:street":"S Fayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053953,38.799163,-77.053953,38.799163",
     "geom:latitude":38.799163,
     "geom:longitude":-77.053953,
@@ -29,7 +34,14 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875851
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n7t4LxEUz2ciw1z2tIIoq_38.799163_-77.053953@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461908595,
     "wof:geomhash":"6a22ddb0061b9e65a4837b4fc007d60e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875851,
+            "region_id":85688747,
+            "venue_id":739509121
+        }
+    ],
     "wof:id":739509121,
-    "wof:lastmodified":1467088576,
+    "wof:lastmodified":1490400005,
     "wof:name":"First Impressions Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739687731,
   "type": "Feature",
   "properties": {
+    "addr:full":"5915 Mayflower Ct Apt T3 Alexandria VA 22312",
+    "addr:housenumber":"5915",
+    "addr:postcode":"22312",
+    "addr:street":"Mayflower Ct Apt T3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.134232,38.820024,-77.134232,38.820024",
     "geom:latitude":38.820024,
     "geom:longitude":-77.134232,
@@ -27,7 +32,15 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85875825,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YfyqGjf1jFTHJNmy7e0FF_38.820024_-77.134232@1303262546"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461912295,
     "wof:geomhash":"7bea6b1592c893a0711419af6114c3f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
+            "region_id":85688747,
+            "venue_id":739687731
+        }
+    ],
     "wof:id":739687731,
-    "wof:lastmodified":1467088705,
+    "wof:lastmodified":1490399687,
     "wof:name":"Vend O Matt",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

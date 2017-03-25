@@ -2,9 +2,14 @@
   "id": 739682693,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Jefferson Davis Hwy Alexandria VA 22305",
+    "addr:housenumber":"3300",
+    "addr:postcode":"22305",
+    "addr:street":"Jefferson Davis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.051498,38.834999,-77.051498,38.834999",
     "geom:latitude":38.834999,
     "geom:longitude":-77.051498,
@@ -39,7 +44,14 @@
     ],
     "sg:website":"http://www.justtires.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pgIHw5wRF8jiF6dOfy7br_38.834999_-77.051498@1303262545"
@@ -47,11 +59,21 @@
     "wof:country":"US",
     "wof:created":1461912199,
     "wof:geomhash":"54b0addead5d72835f23eefacd5360c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725023,
+            "region_id":85688747,
+            "venue_id":739682693
+        }
+    ],
     "wof:id":739682693,
-    "wof:lastmodified":1467088702,
+    "wof:lastmodified":1490400284,
     "wof:name":"Just Tires",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

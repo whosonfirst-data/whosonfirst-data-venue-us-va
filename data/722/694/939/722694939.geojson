@@ -2,9 +2,14 @@
   "id": 722694939,
   "type": "Feature",
   "properties": {
+    "addr:full":"3127 Colvin St Alexandria VA 22314",
+    "addr:housenumber":"3127",
+    "addr:postcode":"22314",
+    "addr:street":"Colvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087364,38.807188,-77.087364,38.807188",
     "geom:latitude":38.807188,
     "geom:longitude":-77.087364,
@@ -27,7 +32,14 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F4psbyXozrCic5kZM2XUn_38.807188_-77.087364@1294252573"
@@ -35,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461886874,
     "wof:geomhash":"2c7937e4e8298ce7bf5f24f0d8273593",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":722694939
+        }
+    ],
     "wof:id":722694939,
-    "wof:lastmodified":1467087790,
+    "wof:lastmodified":1490400175,
     "wof:name":"A Suberk G C LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

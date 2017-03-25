@@ -2,9 +2,14 @@
   "id": 722578325,
   "type": "Feature",
   "properties": {
+    "addr:full":"4707 King St Alexandria VA 22206",
+    "addr:housenumber":"4707",
+    "addr:postcode":"22206",
+    "addr:street":"King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.109897,38.843145,-77.109897,38.843145",
     "geom:latitude":38.843145,
     "geom:longitude":-77.109897,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875825,
         102191575,
+        1108724981,
         85633793,
-        101729469,
-        102085953,
-        85811131
+        101728581,
+        102080641,
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +49,18 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
-            "neighbourhood_id":85811131,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875825,
             "region_id":85688747,
             "venue_id":722578325
         }
     ],
     "wof:id":722578325,
-    "wof:lastmodified":1467087704,
+    "wof:lastmodified":1490399679,
     "wof:name":"Powell Insurance Agency of VA",
-    "wof:parent_id":85811131,
+    "wof:parent_id":85875825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

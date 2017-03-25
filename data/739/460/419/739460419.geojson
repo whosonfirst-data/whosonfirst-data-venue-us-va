@@ -2,9 +2,14 @@
   "id": 739460419,
   "type": "Feature",
   "properties": {
+    "addr:full":"3309 Carolina Pl Alexandria VA 22305",
+    "addr:housenumber":"3309",
+    "addr:postcode":"22305",
+    "addr:street":"Carolina Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.069929,38.835586,-77.069929,38.835586",
     "geom:latitude":38.835586,
     "geom:longitude":-77.069929,
@@ -30,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724971,
+        420547829,
         102191575,
         85633793,
         101728581,
         102080641,
-        85805965
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85805965,
+            "microhood_id":1108724971,
+            "neighbourhood_id":420547829,
             "region_id":85688747,
             "venue_id":739460419
         }
     ],
     "wof:id":739460419,
-    "wof:lastmodified":1467088541,
+    "wof:lastmodified":1490400295,
     "wof:name":"Patryce F Thompson",
-    "wof:parent_id":85805965,
+    "wof:parent_id":1108724971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

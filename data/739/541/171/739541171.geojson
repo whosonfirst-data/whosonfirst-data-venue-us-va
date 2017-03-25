@@ -2,9 +2,14 @@
   "id": 739541171,
   "type": "Feature",
   "properties": {
+    "addr:full":"3148 Duke St Alexandria VA 22304",
+    "addr:housenumber":"3148",
+    "addr:postcode":"22304",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.087064,38.808151,-77.087064,38.808151",
     "geom:latitude":38.808151,
     "geom:longitude":-77.087064,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.bananabanner.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20lX4CtZwfgb3SqvxAeqj8_38.808151_-77.087064@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461909172,
     "wof:geomhash":"ee55791ac7309361dce7dc6f141d1d74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739541171
+        }
+    ],
     "wof:id":739541171,
-    "wof:lastmodified":1467088599,
+    "wof:lastmodified":1490400173,
     "wof:name":"Banana Banner Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

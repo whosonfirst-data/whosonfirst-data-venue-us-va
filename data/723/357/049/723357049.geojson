@@ -2,9 +2,14 @@
   "id": 723357049,
   "type": "Feature",
   "properties": {
+    "addr:full":"3199 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3199",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085959,38.808138,-77.085959,38.808138",
     "geom:latitude":38.808138,
     "geom:longitude":-77.085959,
@@ -27,7 +32,15 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kAaTc73DqR0hJJQfyyhMp_38.808138_-77.085959@1294252573"
@@ -35,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1461900125,
     "wof:geomhash":"1f3591dbe4136df6e7766366481f379e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723357049
+        }
+    ],
     "wof:id":723357049,
-    "wof:lastmodified":1467088269,
+    "wof:lastmodified":1490400333,
     "wof:name":"Hechinger",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739688159,
   "type": "Feature",
   "properties": {
+    "addr:full":"685 N Washington St Alexandria VA 22314",
+    "addr:housenumber":"685",
+    "addr:postcode":"22314",
+    "addr:street":"N Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.045539,38.811714,-77.045539,38.811714",
     "geom:latitude":38.811714,
     "geom:longitude":-77.045539,
@@ -64,12 +69,13 @@
     "sg:website":"http://www.fedex.com/Dropoff/start?FY11-FXO-YELLOWPAGES",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        1108724979,
+        85875841,
         102191575,
         85633793,
         101728581,
         102080641,
-        85875843
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,15 +90,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875843,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
             "region_id":85688747,
             "venue_id":739688159
         }
     ],
     "wof:id":739688159,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490400312,
     "wof:name":"FedEx Office Print & Ship Center",
-    "wof:parent_id":85875843,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

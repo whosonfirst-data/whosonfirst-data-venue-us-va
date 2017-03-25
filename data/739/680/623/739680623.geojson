@@ -2,9 +2,14 @@
   "id": 739680623,
   "type": "Feature",
   "properties": {
+    "addr:full":"4660 Kenmore Ave Alexandria VA 22304",
+    "addr:housenumber":"4660",
+    "addr:postcode":"22304",
+    "addr:street":"Kenmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.110397,38.829498,-77.110397,38.829498",
     "geom:latitude":38.829498,
     "geom:longitude":-77.110397,
@@ -25,12 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
+        85875847,
         102191575,
+        1108724981,
         85633793,
         101728581,
         102080641,
-        85875825
+        85688747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +51,16 @@
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":85875825,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":85875847,
             "region_id":85688747,
             "venue_id":739680623
         }
     ],
     "wof:id":739680623,
-    "wof:lastmodified":1467088700,
+    "wof:lastmodified":1490399976,
     "wof:name":"Deluna Maria Concepcion MD",
-    "wof:parent_id":85875825,
+    "wof:parent_id":85875847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

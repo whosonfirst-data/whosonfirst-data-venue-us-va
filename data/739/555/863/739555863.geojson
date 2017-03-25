@@ -2,9 +2,14 @@
   "id": 739555863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1049 W Glebe Rd Alexandria VA 22305",
+    "addr:housenumber":"1049",
+    "addr:postcode":"22305",
+    "addr:street":"W Glebe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.075517,38.842799,-77.075517,38.842799",
     "geom:latitude":38.842799,
     "geom:longitude":-77.075517,
@@ -29,7 +34,14 @@
     ],
     "sg:website":"www.pizzahut.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85803475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08eZKPDJZidFHJKu0ah3U7_38.842624_-77.075238@1293134755"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461909476,
     "wof:geomhash":"acb70d1bcd20b508b82ae2db0e449a05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85803475,
+            "region_id":85688747,
+            "venue_id":739555863
+        }
+    ],
     "wof:id":739555863,
-    "wof:lastmodified":1467088610,
+    "wof:lastmodified":1490398568,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

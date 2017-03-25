@@ -2,9 +2,14 @@
   "id": 723211057,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Crown View Dr Alexandria VA 22314",
+    "addr:housenumber":"314",
+    "addr:postcode":"22314",
+    "addr:street":"Crown View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.080063,38.81332,-77.080063,38.81332",
     "geom:latitude":38.81332,
     "geom:longitude":-77.080063,
@@ -28,7 +33,15 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724993,
+        1108724991,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z6REXAlR5y4WJmNaNNZ3F_38.813320_-77.080063@1294252573"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461897290,
     "wof:geomhash":"85eb5baede66da08b49c06b2841b9344",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724993,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":723211057
+        }
+    ],
     "wof:id":723211057,
-    "wof:lastmodified":1467088163,
+    "wof:lastmodified":1490400336,
     "wof:name":"Glenn M Spitler Jr",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

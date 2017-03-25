@@ -2,9 +2,14 @@
   "id": 739552335,
   "type": "Feature",
   "properties": {
+    "addr:full":"3107 Colvin St Alexandria VA 22314",
+    "addr:housenumber":"3107",
+    "addr:postcode":"22314",
+    "addr:street":"Colvin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.081641,38.806838,-77.081641,38.806838",
     "geom:latitude":38.806838,
     "geom:longitude":-77.081641,
@@ -29,7 +34,14 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SJVJiLLyMo5ND9uLl9l29_38.806838_-77.081641@1294252573"
@@ -37,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461909395,
     "wof:geomhash":"11c490445cd5e1f193b41e8359837dd0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739552335
+        }
+    ],
     "wof:id":739552335,
-    "wof:lastmodified":1467088607,
+    "wof:lastmodified":1490400196,
     "wof:name":"TUru Wall Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

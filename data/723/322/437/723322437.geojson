@@ -2,9 +2,14 @@
   "id": 723322437,
   "type": "Feature",
   "properties": {
+    "addr:full":"5335 Duke St Alexandria VA 22304",
+    "addr:housenumber":"5335",
+    "addr:postcode":"22304",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124122,38.812755,-77.124122,38.812755",
     "geom:latitude":38.812755,
     "geom:longitude":-77.124122,
@@ -24,7 +29,15 @@
     "sg:postcode":"22304",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724983,
+        102191575,
+        1108724981,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tALh9Rv0MBPm1718VCVqi_38.812755_-77.124122@1294252573"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461899492,
     "wof:geomhash":"e0cd6e8e8801fb064e93643a0e7d5602",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "macrohood_id":1108724981,
+            "neighbourhood_id":1108724983,
+            "region_id":85688747,
+            "venue_id":723322437
+        }
+    ],
     "wof:id":723322437,
-    "wof:lastmodified":1467088244,
+    "wof:lastmodified":1490400104,
     "wof:name":"Pededo Vending Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724983,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

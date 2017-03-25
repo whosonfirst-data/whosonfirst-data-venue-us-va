@@ -2,9 +2,14 @@
   "id": 739688101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1199 N Fairfax St Ste 110 Alexandria VA 22314",
+    "addr:housenumber":"1199",
+    "addr:postcode":"22314",
+    "addr:street":"N Fairfax St Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040001,38.817001,-77.040001,38.817001",
     "geom:latitude":38.817001,
     "geom:longitude":-77.040001,
@@ -31,7 +36,14 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cL9Zo26ExizZpJJceRSWt_38.817001_-77.040001@1303262546"
@@ -39,11 +51,21 @@
     "wof:country":"US",
     "wof:created":1461912302,
     "wof:geomhash":"72304533f247020dbc9d30cc41ff689c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739688101
+        }
+    ],
     "wof:id":739688101,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490399909,
     "wof:name":"Barry Dunn & Associates PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

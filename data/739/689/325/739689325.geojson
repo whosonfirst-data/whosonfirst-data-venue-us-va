@@ -2,9 +2,14 @@
   "id": 739689325,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Madison St Alexandria VA 22314",
+    "addr:housenumber":"600",
+    "addr:postcode":"22314",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.044113,38.812859,-77.044113,38.812859",
     "geom:latitude":38.812859,
     "geom:longitude":-77.044113,
@@ -43,7 +48,15 @@
         "photographic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108724979,
+        85875841,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85688747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NjP1OvNzMX8i7ONzopaX1_38.812859_-77.044113@1303262546"
@@ -51,11 +64,22 @@
     "wof:country":"US",
     "wof:created":1461912329,
     "wof:geomhash":"dfca73c9677cdcdbffb5892edd3e69a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "microhood_id":1108724979,
+            "neighbourhood_id":85875841,
+            "region_id":85688747,
+            "venue_id":739689325
+        }
+    ],
     "wof:id":739689325,
-    "wof:lastmodified":1467088706,
+    "wof:lastmodified":1490400305,
     "wof:name":"Matt Mendelsohn Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724979,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

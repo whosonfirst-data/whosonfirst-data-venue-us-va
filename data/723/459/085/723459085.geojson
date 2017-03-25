@@ -2,9 +2,14 @@
   "id": 723459085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1321 Duke St Alexandria VA 22314",
+    "addr:housenumber":"1321",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054923,38.803786,-77.054923,38.803786",
     "geom:latitude":38.803786,
     "geom:longitude":-77.054923,
@@ -28,7 +33,14 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        85875839
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KwL0jlmvrR4cIRW6gdzNd_38.803786_-77.054923@1294252573"
@@ -36,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461902107,
     "wof:geomhash":"06458f20588128de198f7931b41f3083",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":85875839,
+            "region_id":85688747,
+            "venue_id":723459085
+        }
+    ],
     "wof:id":723459085,
-    "wof:lastmodified":1467088343,
+    "wof:lastmodified":1490399853,
     "wof:name":"N A S L",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875839,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 722932255,
   "type": "Feature",
   "properties": {
+    "addr:full":"342 Commerce St Alexandria VA 22314",
+    "addr:housenumber":"342",
+    "addr:postcode":"22314",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056263,38.804443,-77.056263,38.804443",
     "geom:latitude":38.804443,
     "geom:longitude":-77.056263,
@@ -30,7 +35,14 @@
     ],
     "sg:website":"www.griswold-griswold.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108725015
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xypbtit23CLZmV9VpvdWb_38.804443_-77.056263@1294252573"
@@ -38,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1461891454,
     "wof:geomhash":"57d9485854b907424af4c9f007d567b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108725015,
+            "region_id":85688747,
+            "venue_id":722932255
+        }
+    ],
     "wof:id":722932255,
-    "wof:lastmodified":1467087960,
+    "wof:lastmodified":1490398727,
     "wof:name":"Griswold & Griswold Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108725015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 739597525,
   "type": "Feature",
   "properties": {
+    "addr:full":"3050 Duke St Alexandria VA 22314",
+    "addr:housenumber":"3050",
+    "addr:postcode":"22314",
+    "addr:street":"Duke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.082579,38.807522,-77.082579,38.807522",
     "geom:latitude":38.807522,
     "geom:longitude":-77.082579,
@@ -53,7 +58,14 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728581,
+        102080641,
+        1108724991
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jjcxmkTjqQDqNqpP82tBo_38.807477_-77.082517@1294252573"
@@ -61,11 +73,21 @@
     "wof:country":"US",
     "wof:created":1461910344,
     "wof:geomhash":"35e8906a5adba8ecf12dcff8fd116e5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080641,
+            "locality_id":101728581,
+            "neighbourhood_id":1108724991,
+            "region_id":85688747,
+            "venue_id":739597525
+        }
+    ],
     "wof:id":739597525,
-    "wof:lastmodified":1467088640,
+    "wof:lastmodified":1490400188,
     "wof:name":"Dunkin' Donuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108724991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],
