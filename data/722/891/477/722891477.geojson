@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.168199,38.894358,-77.168199,38.894358",
     "geom:latitude":38.894358,
     "geom:longitude":-77.168199,
@@ -31,7 +32,17 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863,
+        420546727,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O67sUjfPnWHq0mkj8DJ8q_38.894358_-77.168199@1294252573"
@@ -39,11 +50,30 @@
     "wof:country":"US",
     "wof:created":1461890609,
     "wof:geomhash":"e1f774803241bffa69ae89a477a6feea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":420546727,
+            "region_id":85688747,
+            "venue_id":722891477
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":722891477
+        }
+    ],
     "wof:id":722891477,
-    "wof:lastmodified":1472652055,
+    "wof:lastmodified":1491269265,
     "wof:name":"Chinese Christian & Missionary",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

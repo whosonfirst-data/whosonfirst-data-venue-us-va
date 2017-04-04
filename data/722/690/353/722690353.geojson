@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.167234,38.894822,-77.167234,38.894822",
     "geom:latitude":38.894822,
     "geom:longitude":-77.167234,
@@ -28,7 +29,17 @@
     "sg:postcode":"22213",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863,
+        420546727,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Km4GZFnW1TLk2p3jN84Lk_38.894822_-77.167234@1294252573"
@@ -36,11 +47,30 @@
     "wof:country":"US",
     "wof:created":1461886787,
     "wof:geomhash":"1e83c543d470281a96651acd9c4d15ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":420546727,
+            "region_id":85688747,
+            "venue_id":722690353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":722690353
+        }
+    ],
     "wof:id":722690353,
-    "wof:lastmodified":1472651522,
+    "wof:lastmodified":1491269273,
     "wof:name":"Hunter & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

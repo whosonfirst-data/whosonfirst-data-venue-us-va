@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.129474,38.875623,-77.129474,38.875623",
     "geom:latitude":38.875623,
     "geom:longitude":-77.129474,
@@ -28,7 +29,14 @@
     "sg:postcode":"22205",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85875965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LweBR7H7gOM2oNsAaloZW_38.875623_-77.129474@1294252573"
@@ -36,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461894151,
     "wof:geomhash":"882d078e7d89c2b8f1c7040448723779",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85875965,
+            "region_id":85688747,
+            "venue_id":723056613
+        }
+    ],
     "wof:id":723056613,
-    "wof:lastmodified":1472651234,
+    "wof:lastmodified":1491269502,
     "wof:name":"Tk World Wide Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

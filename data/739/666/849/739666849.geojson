@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.158951,38.88921,-77.158951,38.88921",
     "geom:latitude":38.88921,
     "geom:longitude":-77.158951,
@@ -49,7 +50,14 @@
     ],
     "sg:website":"http://www.directsattv.com/directv/?tfid=ypm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ufbT5hQJR7e3EHVKLM2RG_38.889210_-77.158951@1303262543"
@@ -57,11 +65,21 @@
     "wof:country":"US",
     "wof:created":1461911892,
     "wof:geomhash":"83fcc757821648a4efc2d5fcf17b832b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":739666849
+        }
+    ],
     "wof:id":739666849,
-    "wof:lastmodified":1472652093,
+    "wof:lastmodified":1491269265,
     "wof:name":"Direct Sat TV - An Authorized DIRECTV Dealer",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

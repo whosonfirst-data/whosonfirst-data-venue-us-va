@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.135373,38.86445,-77.135373,38.86445",
     "geom:latitude":38.86445,
     "geom:longitude":-77.135373,
@@ -31,7 +32,14 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85821797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s1seqOj8Su6Ya5Nms8hgi_38.864450_-77.135373@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461899224,
     "wof:geomhash":"84bcfb4bda4ea7a475f01415f15ba5d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85821797,
+            "region_id":85688747,
+            "venue_id":723307901
+        }
+    ],
     "wof:id":723307901,
-    "wof:lastmodified":1472651827,
+    "wof:lastmodified":1491268141,
     "wof:name":"Ppp Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821797,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

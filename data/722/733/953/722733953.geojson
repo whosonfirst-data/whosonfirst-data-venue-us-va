@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147701,38.884866,-77.147701,38.884866",
     "geom:latitude":38.884866,
     "geom:longitude":-77.147701,
@@ -31,7 +32,14 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        1108726257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iz4jzynEUsj777kCi6k68_38.884866_-77.147701@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461887624,
     "wof:geomhash":"f0a56581dbfced5abb23375f46564148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":1108726257,
+            "region_id":85688747,
+            "venue_id":722733953
+        }
+    ],
     "wof:id":722733953,
-    "wof:lastmodified":1472651712,
+    "wof:lastmodified":1491268315,
     "wof:name":"Northpoint Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108726257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

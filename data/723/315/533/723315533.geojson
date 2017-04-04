@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.113287,38.882068,-77.113287,38.882068",
     "geom:latitude":38.882068,
     "geom:longitude":-77.113287,
@@ -39,8 +40,7 @@
         85633793,
         101729469,
         102085953,
-        85804359,
-        85875963
+        85804359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,21 +58,12 @@
             "neighbourhood_id":85804359,
             "region_id":85688747,
             "venue_id":723315533
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
-            "neighbourhood_id":85875963,
-            "region_id":85688747,
-            "venue_id":723315533
         }
     ],
     "wof:id":723315533,
-    "wof:lastmodified":1472651805,
+    "wof:lastmodified":1491268022,
     "wof:name":"National Emergency Number Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

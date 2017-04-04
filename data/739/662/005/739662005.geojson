@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.11327,38.881936,-77.11327,38.881936",
     "geom:latitude":38.881936,
     "geom:longitude":-77.11327,
@@ -47,8 +48,7 @@
         85633793,
         101729469,
         102085953,
-        85804359,
-        85875963
+        85804359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,21 +66,12 @@
             "neighbourhood_id":85804359,
             "region_id":85688747,
             "venue_id":739662005
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085953,
-            "locality_id":101729469,
-            "neighbourhood_id":85875963,
-            "region_id":85688747,
-            "venue_id":739662005
         }
     ],
     "wof:id":739662005,
-    "wof:lastmodified":1472652049,
+    "wof:lastmodified":1491268623,
     "wof:name":"Healthsouth Sports Medicine & Rehabilitation Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

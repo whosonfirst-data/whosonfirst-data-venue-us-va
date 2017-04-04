@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.162597,38.886581,-77.162597,38.886581",
     "geom:latitude":38.886581,
     "geom:longitude":-77.162597,
@@ -34,7 +35,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QxOnVROY5o0DM2lW1NB3D_38.886581_-77.162597@1294252573"
@@ -42,11 +50,21 @@
     "wof:country":"US",
     "wof:created":1461907125,
     "wof:geomhash":"32e3c5c62e0b4ccd05dfd37d65add465",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":739428035
+        }
+    ],
     "wof:id":739428035,
-    "wof:lastmodified":1472651507,
+    "wof:lastmodified":1491268060,
     "wof:name":"Sterling Moving & Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147453,38.885827,-77.147453,38.885827",
     "geom:latitude":38.885827,
     "geom:longitude":-77.147453,
@@ -33,7 +34,14 @@
     "sg:postcode":"22205",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        1108726257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bvWi5cBh8Oj7VJuVwC2Bi_38.885827_-77.147453@1294252573"
@@ -41,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461888023,
     "wof:geomhash":"a689a66275b157c5dc22a67c9bca6adb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":1108726257,
+            "region_id":85688747,
+            "venue_id":722754551
+        }
+    ],
     "wof:id":722754551,
-    "wof:lastmodified":1472651696,
+    "wof:lastmodified":1491268093,
     "wof:name":"Health Care Communications Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108726257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

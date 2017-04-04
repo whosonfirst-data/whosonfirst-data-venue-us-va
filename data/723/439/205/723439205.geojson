@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.162159,38.89516,-77.162159,38.89516",
     "geom:latitude":38.89516,
     "geom:longitude":-77.162159,
@@ -31,7 +32,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NDAIViix06UHRdNAvUFCo_38.895160_-77.162159@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461901742,
     "wof:geomhash":"991fdd064cbf4cf452e450a5586ba90e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":723439205
+        }
+    ],
     "wof:id":723439205,
-    "wof:lastmodified":1472652229,
+    "wof:lastmodified":1491269266,
     "wof:name":"Turtleflock LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

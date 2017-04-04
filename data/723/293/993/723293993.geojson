@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.144379,38.895155,-77.144379,38.895155",
     "geom:latitude":38.895155,
     "geom:longitude":-77.144379,
@@ -28,7 +29,14 @@
     "sg:postcode":"22207",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85875999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30ogx4L1HO8qOpxnjltmgW_38.895155_-77.144379@1294252573"
@@ -36,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461898948,
     "wof:geomhash":"c19d3d544d2eee27a1492396fbb94b48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85875999,
+            "region_id":85688747,
+            "venue_id":723293993
+        }
+    ],
     "wof:id":723293993,
-    "wof:lastmodified":1472651842,
+    "wof:lastmodified":1491269628,
     "wof:name":"Gerald E Williams Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

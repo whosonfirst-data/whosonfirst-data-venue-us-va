@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.152345,38.891057,-77.152345,38.891057",
     "geom:latitude":38.891057,
     "geom:longitude":-77.152345,
@@ -38,7 +39,14 @@
         "reporters-court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85875999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fb82X0mZ0k2EMmLt9jhKJ_38.891057_-77.152345@1303262543"
@@ -46,11 +54,21 @@
     "wof:country":"US",
     "wof:created":1461911867,
     "wof:geomhash":"d8f666b3c9258ada0043c0e1c675ba3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85875999,
+            "region_id":85688747,
+            "venue_id":739665943
+        }
+    ],
     "wof:id":739665943,
-    "wof:lastmodified":1472652096,
+    "wof:lastmodified":1491268701,
     "wof:name":"Anna L Heatherly",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

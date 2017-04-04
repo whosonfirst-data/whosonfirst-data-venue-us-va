@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.165093,38.889794,-77.165093,38.889794",
     "geom:latitude":38.889794,
     "geom:longitude":-77.165093,
@@ -31,7 +32,14 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yrIVfJfgyYXAz4CCX1o4J_38.889794_-77.165093@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461889514,
     "wof:geomhash":"7ecf5e7ca43a2019c907dea5cb098ca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":722833853
+        }
+    ],
     "wof:id":722833853,
-    "wof:lastmodified":1472651968,
+    "wof:lastmodified":1491268475,
     "wof:name":"Cafe Poulet Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

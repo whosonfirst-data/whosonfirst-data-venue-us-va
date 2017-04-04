@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.14573,38.894171,-77.14573,38.894171",
     "geom:latitude":38.894171,
     "geom:longitude":-77.14573,
@@ -28,7 +29,14 @@
     "sg:postcode":"22207",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85875999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YQjSQq2xjt2rRy6Q2RcwI_38.894171_-77.145730@1294252573"
@@ -36,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461908643,
     "wof:geomhash":"afd7968b17dd77a588a9f83f8c79216d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85875999,
+            "region_id":85688747,
+            "venue_id":739511877
+        }
+    ],
     "wof:id":739511877,
-    "wof:lastmodified":1472651818,
+    "wof:lastmodified":1491269625,
     "wof:name":"Susan Claire Sanderson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

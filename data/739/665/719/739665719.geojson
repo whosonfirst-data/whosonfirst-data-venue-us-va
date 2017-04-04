@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.159152,38.889117,-77.159152,38.889117",
     "geom:latitude":38.889117,
     "geom:longitude":-77.159152,
@@ -33,7 +34,14 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uqLssYnn4tCPXKxw0bCn3_38.889117_-77.159152@1303262543"
@@ -41,11 +49,21 @@
     "wof:country":"US",
     "wof:created":1461911864,
     "wof:geomhash":"9a1a892481f61c09f85a434ecb284b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":739665719
+        }
+    ],
     "wof:id":739665719,
-    "wof:lastmodified":1472652094,
+    "wof:lastmodified":1491268100,
     "wof:name":"Lawrence Norris",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

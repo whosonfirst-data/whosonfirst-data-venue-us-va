@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147935,38.877295,-77.147935,38.877295",
     "geom:latitude":38.877295,
     "geom:longitude":-77.147935,
@@ -32,7 +33,14 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85831897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09KQQnOtWsXx4k4Rtxf5DP_38.877295_-77.147935@1294252573"
@@ -40,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461908474,
     "wof:geomhash":"292dbe7a14901a6c3d0376b3ef7e3fdf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85831897,
+            "region_id":85688747,
+            "venue_id":739502501
+        }
+    ],
     "wof:id":739502501,
-    "wof:lastmodified":1472651709,
+    "wof:lastmodified":1491269000,
     "wof:name":"Steve O' Toole Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

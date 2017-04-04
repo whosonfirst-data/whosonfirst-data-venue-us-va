@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.114312,38.848095,-77.114312,38.848095",
     "geom:latitude":38.848095,
     "geom:longitude":-77.114312,
@@ -28,7 +29,14 @@
     "sg:postcode":"22204",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85811969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CsZOkYkAwZdVrEW0m4tDy_38.848095_-77.114312@1294252573"
@@ -36,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461889339,
     "wof:geomhash":"8cff3f75c8bb06ee5b0cdddba4dca037",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85811969,
+            "region_id":85688747,
+            "venue_id":722824205
+        }
+    ],
     "wof:id":722824205,
-    "wof:lastmodified":1472651881,
+    "wof:lastmodified":1491268287,
     "wof:name":"Dominion Towers Valet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

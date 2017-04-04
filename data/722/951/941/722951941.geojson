@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.163615,38.895197,-77.163615,38.895197",
     "geom:latitude":38.895197,
     "geom:longitude":-77.163615,
@@ -28,7 +29,14 @@
     "sg:postcode":"22213",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uqml7B0yMDsj5hgMxIev1_38.895197_-77.163615@1294252573"
@@ -36,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1461891860,
     "wof:geomhash":"cd39694f7c9ee38b3d02a32c44b7e907",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":722951941
+        }
+    ],
     "wof:id":722951941,
-    "wof:lastmodified":1472652273,
+    "wof:lastmodified":1491268584,
     "wof:name":"W C Thatcher Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

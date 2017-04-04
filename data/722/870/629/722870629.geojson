@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146588,38.877514,-77.146588,38.877514",
     "geom:latitude":38.877514,
     "geom:longitude":-77.146588,
@@ -31,7 +32,14 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85831897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NOdraA7czI9JTbwTU5fEY_38.877514_-77.146588@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461890209,
     "wof:geomhash":"4e62923673c71e9d562fdedbaf2d9457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85831897,
+            "region_id":85688747,
+            "venue_id":722870629
+        }
+    ],
     "wof:id":722870629,
-    "wof:lastmodified":1472651998,
+    "wof:lastmodified":1491268453,
     "wof:name":"Shakespeare In Parque",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831897,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

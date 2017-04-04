@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.168744,38.892578,-77.168744,38.892578",
     "geom:latitude":38.892578,
     "geom:longitude":-77.168744,
@@ -31,7 +32,14 @@
         "counselor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85816293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QU476AqIUjMyx33gBSF3C_38.892578_-77.168744@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461885226,
     "wof:geomhash":"8fa2b5f3879125c494c87bf100f3d578",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85816293,
+            "region_id":85688747,
+            "venue_id":722612881
+        }
+    ],
     "wof:id":722612881,
-    "wof:lastmodified":1472651323,
+    "wof:lastmodified":1491268369,
     "wof:name":"Muse Advertising",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

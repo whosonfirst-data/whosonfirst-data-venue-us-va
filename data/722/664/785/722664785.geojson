@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.145901,38.897794,-77.145901,38.897794",
     "geom:latitude":38.897794,
     "geom:longitude":-77.145901,
@@ -31,7 +32,14 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85875999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dan3GK3H90irsich2fx3m_38.897794_-77.145901@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461886297,
     "wof:geomhash":"28f074e4eac3a1f0ed2b4d4f5bbd7b16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85875999,
+            "region_id":85688747,
+            "venue_id":722664785
+        }
+    ],
     "wof:id":722664785,
-    "wof:lastmodified":1472651484,
+    "wof:lastmodified":1491269627,
     "wof:name":"D & R Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

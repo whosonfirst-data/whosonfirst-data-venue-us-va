@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.150775,38.884854,-77.150775,38.884854",
     "geom:latitude":38.884854,
     "geom:longitude":-77.150775,
@@ -32,7 +33,14 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        1108726257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QrSWYR6Sjqdhukn6hiF5n_38.884854_-77.150775@1303262543"
@@ -40,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461911895,
     "wof:geomhash":"88c162ad467309d455c45e7b1922a450",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":1108726257,
+            "region_id":85688747,
+            "venue_id":739667003
+        }
+    ],
     "wof:id":739667003,
-    "wof:lastmodified":1472652087,
+    "wof:lastmodified":1491269864,
     "wof:name":"Wine Wear",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108726257,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

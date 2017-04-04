@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.14551,38.895469,-77.14551,38.895469",
     "geom:latitude":38.895469,
     "geom:longitude":-77.14551,
@@ -31,7 +32,14 @@
         "laboratories-agricultural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729469,
+        102085953,
+        85875999
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Um3Noxp11t302mfdeBX8S_38.895469_-77.145510@1303262543"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461911949,
     "wof:geomhash":"cb3834784518dd45d2b50f030404cf74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085953,
+            "locality_id":101729469,
+            "neighbourhood_id":85875999,
+            "region_id":85688747,
+            "venue_id":739669841
+        }
+    ],
     "wof:id":739669841,
-    "wof:lastmodified":1472652094,
+    "wof:lastmodified":1491268647,
     "wof:name":"Chudzicka, Dorota",
-    "wof:parent_id":-1,
+    "wof:parent_id":85875999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],
