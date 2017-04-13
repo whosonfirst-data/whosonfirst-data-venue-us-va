@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.87066,36.875348,-79.87066,36.875348",
     "geom:latitude":36.875348,
     "geom:longitude":-79.87066,
@@ -32,17 +33,30 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mbAb4XnsbeZD7HYC8tVm9_36.875348_-79.870660@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902742,
-    "wof:geomhash":"76afdb16f97dae1c9d88f81991e82aaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cc09154e9a9982b512711ea4ae80def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":723490351
+        }
+    ],
     "wof:id":723490351,
-    "wof:lastmodified":1472652334,
+    "wof:lastmodified":1492055785,
     "wof:name":"International Assoc of LI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

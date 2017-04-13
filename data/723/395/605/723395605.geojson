@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.406879,38.204854,-78.406879,38.204854",
     "geom:latitude":38.204854,
     "geom:longitude":-78.406879,
@@ -32,17 +33,30 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hRhlL9WK8xG6YqCtK5Zlv_38.204854_-78.406879@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900885,
-    "wof:geomhash":"23de7d3e5316099b52ddbcb67203b585",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4c5f68391482dfd78761fc3039167ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":723395605
+        }
+    ],
     "wof:id":723395605,
-    "wof:lastmodified":1472652130,
+    "wof:lastmodified":1492059385,
     "wof:name":"Innovative AR Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.142795,39.182817,-78.142795,39.182817",
     "geom:latitude":39.182817,
     "geom:longitude":-78.142795,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z4C9kxRN3yU6SLpjxA3Q6_39.182817_-78.142795@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897378,
-    "wof:geomhash":"3df77e79d800712ccb8050edc373fc72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a4b57cf36e3620e25b56013d1627ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723215631
+        }
+    ],
     "wof:id":723215631,
-    "wof:lastmodified":1472651630,
+    "wof:lastmodified":1492059432,
     "wof:name":"Big D Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

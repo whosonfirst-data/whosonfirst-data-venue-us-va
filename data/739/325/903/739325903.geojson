@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365342,38.277754,-77.365342,38.277754",
     "geom:latitude":38.277754,
     "geom:longitude":-77.365342,
@@ -31,17 +32,26 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zOzIBA5Q0iVaVQG5sa1Hr_38.277754_-77.365342@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905097,
-    "wof:geomhash":"080d695a81173994f87199af29133c21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e0254927f0eb88915e2d2ba2c7e1055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547259,
+            "venue_id":739325903
+        }
+    ],
     "wof:id":739325903,
-    "wof:lastmodified":1472651293,
+    "wof:lastmodified":1492039639,
     "wof:name":"Equity Funding Inc",
     "wof:parent_id":420547259,
     "wof:placetype":"venue",

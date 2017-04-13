@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209375,38.703775,-77.209375,38.703775",
     "geom:latitude":38.703775,
     "geom:longitude":-77.209375,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eevERgQqWkrHwkSNRUTK8_38.703775_-77.209375@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886446,
-    "wof:geomhash":"1eddc7483fdfa1e03586c36ff9555b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"188a43be2771bc437d646a5c23a312a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":722672749
+        }
+    ],
     "wof:id":722672749,
-    "wof:lastmodified":1472651523,
+    "wof:lastmodified":1492072014,
     "wof:name":"Geeks & Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

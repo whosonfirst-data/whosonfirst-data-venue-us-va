@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.876496,37.888197,-78.876496,37.888197",
     "geom:latitude":37.888197,
     "geom:longitude":-78.876496,
@@ -28,7 +29,13 @@
     "sg:postcode":"22958",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729165,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GgE9o6IZ38Kmk2M4PQIPI_37.888197_-78.876496@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904636,
     "wof:geomhash":"48e01a29f97084adb2b91466f947dd69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "locality_id":101729165,
+            "region_id":85688747,
+            "venue_id":739303247
+        }
+    ],
     "wof:id":739303247,
-    "wof:lastmodified":1472651192,
+    "wof:lastmodified":1492029755,
     "wof:name":"Wintergreen True Value Hdwr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

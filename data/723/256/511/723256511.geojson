@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.971858,38.254464,-76.971858,38.254464",
     "geom:latitude":38.254464,
     "geom:longitude":-76.971858,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729001,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KnPRtp6TuLHcgMzYFvP1L_38.254464_-76.971858@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898244,
-    "wof:geomhash":"8a499c1f8cd501c0a0292e4781d79989",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e38fa809d455dd792ae8898e7343b0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "locality_id":101729001,
+            "region_id":85688747,
+            "venue_id":723256511
+        }
+    ],
     "wof:id":723256511,
-    "wof:lastmodified":1472651695,
+    "wof:lastmodified":1492049432,
     "wof:name":"Beach Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

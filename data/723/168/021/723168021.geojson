@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.483626,38.038253,-78.483626,38.038253",
     "geom:latitude":38.038253,
     "geom:longitude":-78.483626,
@@ -39,6 +40,7 @@
         85633793,
         101728535,
         102080639,
+        85876717,
         85876719
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896443,
-    "wof:geomhash":"c0d1146c24d3894016a08af9d308fac7",
+    "wof:geomhash":"75ecd2b33a300ce2daf6240a724534f7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080639,
+            "locality_id":101728535,
+            "neighbourhood_id":85876717,
+            "region_id":85688747,
+            "venue_id":723168021
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":723168021,
-    "wof:lastmodified":1472651438,
+    "wof:lastmodified":1492059684,
     "wof:name":"Bark Avenue Boutique",
-    "wof:parent_id":85876719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.044725,36.676843,-82.044725,36.676843",
     "geom:latitude":36.676843,
     "geom:longitude":-82.044725,
@@ -31,17 +32,26 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NtVHrWSyZGsbWEO8E3eYw_36.676843_-82.044725@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908334,
-    "wof:geomhash":"6a90c268a6c26751e47d286f04de2ef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34b3efe80161d09a504243a3f36ca714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739494449
+        }
+    ],
     "wof:id":739494449,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492037555,
     "wof:name":"Johnson Land Auction",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

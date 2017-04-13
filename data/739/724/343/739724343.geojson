@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.541037,37.498346,-77.541037,37.498346",
     "geom:latitude":37.498346,
     "geom:longitude":-77.541037,
@@ -33,7 +34,13 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ihw79mhFuMiPqthH5jJUe_37.498346_-77.541037@1303262550"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461913080,
     "wof:geomhash":"a22f9dd91a25193af858a44c8c7676ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739724343
+        }
+    ],
     "wof:id":739724343,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492030937,
     "wof:name":"Mike Gerber Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

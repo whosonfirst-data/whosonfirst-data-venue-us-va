@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517327,39.09473,-77.517327,39.09473",
     "geom:latitude":39.09473,
     "geom:longitude":-77.517327,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MGpFAFYdRrw974vEBjWN2_39.094730_-77.517327@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890469,
-    "wof:geomhash":"1a1de7ec7145dc7e553d231cccea8a55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b59ef3440f71b1b6bda5328fa6b1ed9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722884087
+        }
+    ],
     "wof:id":722884087,
-    "wof:lastmodified":1472652038,
+    "wof:lastmodified":1492069707,
     "wof:name":"Washington Homes At Potomac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

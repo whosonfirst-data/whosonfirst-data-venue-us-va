@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.975774,37.26349,-79.975774,37.26349",
     "geom:latitude":37.26349,
     "geom:longitude":-79.975774,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6anu0qA1mLlFv1BNB5GyLp_37.263490_-79.975774@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886403,
-    "wof:geomhash":"9b8b7af3fe919ac60298cc47cd95e2cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17aeb2a0e1c63aad8e928bb1062204e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722670299
+        }
+    ],
     "wof:id":722670299,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492074542,
     "wof:name":"Acme Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

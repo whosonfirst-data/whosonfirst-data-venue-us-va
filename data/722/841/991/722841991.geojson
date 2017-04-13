@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.484199,37.579684,-77.484199,37.579684",
     "geom:latitude":37.579684,
     "geom:longitude":-77.484199,
@@ -32,17 +33,30 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dpt9U027tETnu2lMHIqlL_37.579684_-77.484199@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889665,
-    "wof:geomhash":"6a99628a51f87b50947552fa057b8c44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b551660485ccda321138ee3b7f83c725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722841991
+        }
+    ],
     "wof:id":722841991,
-    "wof:lastmodified":1472651973,
+    "wof:lastmodified":1492068786,
     "wof:name":"Aci Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

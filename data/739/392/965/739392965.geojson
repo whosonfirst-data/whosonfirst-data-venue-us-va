@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.520078,38.124307,-78.520078,38.124307",
     "geom:latitude":38.124307,
     "geom:longitude":-78.520078,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.rivanna.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_395ztxamY6lPv0bK3eOwkz_38.124307_-78.520078@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906448,
     "wof:geomhash":"a554144f7f9bedf24be273e35fac77cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739392965
+        }
+    ],
     "wof:id":739392965,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492031623,
     "wof:name":"Rivanna Safety Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

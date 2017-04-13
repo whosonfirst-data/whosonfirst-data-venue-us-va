@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.144216,38.858409,-77.144216,38.858409",
     "geom:latitude":38.858409,
     "geom:longitude":-77.144216,
@@ -31,17 +32,32 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729759,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZHUYZl4nlBHP4nKNbUiBe_38.858409_-77.144216@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898578,
-    "wof:geomhash":"90b914735789425c6ef4e262f74c006b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82f353866f88c7735f86a519dd282dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729759,
+            "region_id":85688747,
+            "venue_id":723274183
+        }
+    ],
     "wof:id":723274183,
-    "wof:lastmodified":1472651744,
+    "wof:lastmodified":1492047510,
     "wof:name":"Castle Sedan Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

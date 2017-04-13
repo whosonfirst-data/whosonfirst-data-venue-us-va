@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.860972,37.51834,-77.860972,37.51834",
     "geom:latitude":37.51834,
     "geom:longitude":-77.860972,
@@ -34,7 +35,12 @@
         "transporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mxjOqqnnOiYfoIc0OYWrl_37.518340_-77.860972@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461904561,
     "wof:geomhash":"8d18f95618ac1b757a7b95abe3c1a88f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739299435
+        }
+    ],
     "wof:id":739299435,
-    "wof:lastmodified":1472651212,
+    "wof:lastmodified":1492032451,
     "wof:name":"Area Rehabbers KLUB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

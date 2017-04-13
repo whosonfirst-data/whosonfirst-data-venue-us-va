@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.438462,38.145267,-77.438462,38.145267",
     "geom:latitude":38.145267,
     "geom:longitude":-77.438462,
@@ -31,17 +32,30 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nZXUSAjXRkplqZ7O7xBo8_38.145267_-77.438462@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905024,
-    "wof:geomhash":"9a6633c3ff0454e525cc3845bdfa7eb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b46606837e24d59ea309f7ec3b83f235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739322497
+        }
+    ],
     "wof:id":739322497,
-    "wof:lastmodified":1472651258,
+    "wof:lastmodified":1492043298,
     "wof:name":"US Interior Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

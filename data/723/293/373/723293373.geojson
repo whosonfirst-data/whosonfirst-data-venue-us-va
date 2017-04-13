@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.16272,39.187622,-78.16272,39.187622",
     "geom:latitude":39.187622,
     "geom:longitude":-78.16272,
@@ -31,17 +32,32 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TPTZhaSGfXpZLL7VQ92jo_39.187622_-78.162720@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898937,
-    "wof:geomhash":"9219aef843c02c3e5204320ed34380cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08d5150fdff88a645983518d25f10456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723293373
+        }
+    ],
     "wof:id":723293373,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492055677,
     "wof:name":"Free Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

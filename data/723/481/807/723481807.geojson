@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.575099,38.344085,-77.575099,38.344085",
     "geom:latitude":38.344085,
     "geom:longitude":-77.575099,
@@ -28,19 +29,28 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y7ARZcGTRegrl3ivlhyT5_38.344085_-77.575099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902572,
-    "wof:geomhash":"c7e50719d8fa511f2ec21d9c6053d798",
-    "wof:hierarchy":[],
+    "wof:geomhash":"414ee312b69a081bd1b3ae3f02786119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":723481807
+        }
+    ],
     "wof:id":723481807,
-    "wof:lastmodified":1472652344,
+    "wof:lastmodified":1492052708,
     "wof:name":"Kevin F Naughton Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

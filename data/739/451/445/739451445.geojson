@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.097965,39.167606,-78.097965,39.167606",
     "geom:latitude":39.167606,
     "geom:longitude":-78.097965,
@@ -32,7 +33,12 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42cecExJxjcaX1d69eqMi7_39.167606_-78.097965@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907568,
     "wof:geomhash":"c04fb81173c6e9108ffd0f84f227d81f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739451445
+        }
+    ],
     "wof:id":739451445,
-    "wof:lastmodified":1472651582,
+    "wof:lastmodified":1492031156,
     "wof:name":"First American Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

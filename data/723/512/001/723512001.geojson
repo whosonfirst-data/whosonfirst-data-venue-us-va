@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.316507,37.914614,-78.316507,37.914614",
     "geom:latitude":37.914614,
     "geom:longitude":-78.316507,
@@ -32,17 +33,32 @@
         "electronics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PeuIlwtpxd3o1IZyKSDd8_37.914614_-78.316507@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903246,
-    "wof:geomhash":"21c832391b9e61713add575ad23d8365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a21be9ee214d274cc78c682bd1f08b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":723512001
+        }
+    ],
     "wof:id":723512001,
-    "wof:lastmodified":1472652366,
+    "wof:lastmodified":1492049721,
     "wof:name":"North American Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

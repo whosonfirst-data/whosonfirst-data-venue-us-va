@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.352722,37.043515,-76.352722,37.043515",
     "geom:latitude":37.043515,
     "geom:longitude":-76.352722,
@@ -33,7 +34,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XF4knEYvgHQbGp3RE50dq_37.043515_-76.352722@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461908169,
     "wof:geomhash":"8f38586577f06ad83c96c0539232cc71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739485483
+        }
+    ],
     "wof:id":739485483,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492030698,
     "wof:name":"Tonya's Pet Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

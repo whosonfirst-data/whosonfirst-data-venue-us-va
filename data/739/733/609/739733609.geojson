@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.700443,37.393681,-77.700443,37.393681",
     "geom:latitude":37.393681,
     "geom:longitude":-77.700443,
@@ -46,17 +47,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tNNE9IIi0UuchqwBbo2D1_37.393681_-77.700443@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913269,
-    "wof:geomhash":"db5243ee926fe37b828411d71c29289d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bb55f27b401b6389d2959e5afbf42c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739733609
+        }
+    ],
     "wof:id":739733609,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492039241,
     "wof:name":"Biz Tech Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

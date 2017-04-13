@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.027684,36.758288,-83.027684,36.758288",
     "geom:latitude":36.758288,
     "geom:longitude":-83.027684,
@@ -33,17 +34,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728541,
+        102087247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eS0DZ3fbdmxFuzyWgPH0H_36.758288_-83.027684@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909045,
-    "wof:geomhash":"b61ff4bbb1aa0423ecf6abf8887047ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ec35e424ba911fe1e6fa15177dd5aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087247,
+            "locality_id":101728541,
+            "region_id":85688747,
+            "venue_id":739534001
+        }
+    ],
     "wof:id":739534001,
-    "wof:lastmodified":1472651730,
+    "wof:lastmodified":1492044731,
     "wof:name":"Radio Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

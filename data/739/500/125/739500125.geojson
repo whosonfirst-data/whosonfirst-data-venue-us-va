@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449641,38.313653,-77.449641,38.313653",
     "geom:latitude":38.313653,
     "geom:longitude":-77.449641,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hXe18uxr4sX4X9hRMj22x_38.313653_-77.449641@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908433,
-    "wof:geomhash":"9e5c204df7106bacc583b4264406bf9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed9b824442a85a388c015760f9af9ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739500125
+        }
+    ],
     "wof:id":739500125,
-    "wof:lastmodified":1472651678,
+    "wof:lastmodified":1492044159,
     "wof:name":"Lord's Church",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

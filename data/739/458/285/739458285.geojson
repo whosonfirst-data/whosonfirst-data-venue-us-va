@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442088,38.315423,-77.442088,38.315423",
     "geom:latitude":38.315423,
     "geom:longitude":-77.442088,
@@ -32,7 +33,10 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Rnc9hBtRRIy9BG1bqSDdk_38.315423_-77.442088@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907688,
     "wof:geomhash":"91db854dde7f6d76481c2c7475a48be5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":739458285
+        }
+    ],
     "wof:id":739458285,
-    "wof:lastmodified":1472651575,
+    "wof:lastmodified":1492030011,
     "wof:name":"South Stafford Baseball Club I",
     "wof:parent_id":420547245,
     "wof:placetype":"venue",

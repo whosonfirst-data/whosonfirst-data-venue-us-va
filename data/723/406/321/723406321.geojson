@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513755,37.321228,-76.513755,37.321228",
     "geom:latitude":37.321228,
     "geom:longitude":-76.513755,
@@ -32,17 +33,30 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67KMu8Mf8xnOenwuV2zxy3_37.321228_-76.513755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901095,
-    "wof:geomhash":"d58158bbc94a90f92e98c75970839435",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f2d11f22948531118975b05372dace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":723406321
+        }
+    ],
     "wof:id":723406321,
-    "wof:lastmodified":1472652146,
+    "wof:lastmodified":1492051834,
     "wof:name":"Bay Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

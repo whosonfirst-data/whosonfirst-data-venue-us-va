@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.939891,37.298666,-79.939891,37.298666",
     "geom:latitude":37.298666,
     "geom:longitude":-79.939891,
@@ -41,7 +42,13 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eMARVmvARmCw7vH1SiI5U_37.298666_-79.939891@1303262552"
@@ -49,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1461913301,
     "wof:geomhash":"27c78ead886be9174ece20ab09ae63e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735097
+        }
+    ],
     "wof:id":739735097,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492032065,
     "wof:name":"Dt's Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

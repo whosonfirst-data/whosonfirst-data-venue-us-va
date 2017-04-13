@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.355544,37.503689,-77.355544,37.503689",
     "geom:latitude":37.503689,
     "geom:longitude":-77.355544,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.lindenmeyr.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GQmIIYKyrM4PIGcZVu9h4_37.503689_-77.355544@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908532,
     "wof:geomhash":"363a029f7d03315cdeac88c71b9b3dfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739505747
+        }
+    ],
     "wof:id":739505747,
-    "wof:lastmodified":1472651817,
+    "wof:lastmodified":1492032228,
     "wof:name":"Lindenmeyr Monroe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

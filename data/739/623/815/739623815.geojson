@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.336942,38.855814,-77.336942,38.855814",
     "geom:latitude":38.855814,
     "geom:longitude":-77.336942,
@@ -33,7 +34,13 @@
         "network"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729805,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IskzqVsazQiChcc67OjVw_38.855814_-77.336942@1303262537"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910911,
     "wof:geomhash":"b265da57e169c2e0fa38aa2adbac390f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729805,
+            "region_id":85688747,
+            "venue_id":739623815
+        }
+    ],
     "wof:id":739623815,
-    "wof:lastmodified":1472652016,
+    "wof:lastmodified":1492031366,
     "wof:name":"Complete Professional Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

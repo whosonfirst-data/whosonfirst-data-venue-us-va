@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.735293,37.326236,-80.735293,37.326236",
     "geom:latitude":37.326236,
     "geom:longitude":-80.735293,
@@ -31,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728851,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xk8Ms3zp47TrsdPdjyqPr_37.326236_-80.735293@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904901,
     "wof:geomhash":"46ee783f35bb017f4f9ce087d61f8eb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728851,
+            "region_id":85688747,
+            "venue_id":739316921
+        }
+    ],
     "wof:id":739316921,
-    "wof:lastmodified":1472651239,
+    "wof:lastmodified":1492031819,
     "wof:name":"Angie's Hair Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

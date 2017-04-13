@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503766,38.258083,-77.503766,38.258083",
     "geom:latitude":38.258083,
     "geom:longitude":-77.503766,
@@ -31,7 +32,12 @@
         "hardwood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xDpk2wR3kRps6ShB2lSoY_38.258083_-77.503766@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912411,
     "wof:geomhash":"845931a336ae9d62b39b1cb0867c02f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693613
+        }
+    ],
     "wof:id":739693613,
-    "wof:lastmodified":1472652185,
+    "wof:lastmodified":1492031384,
     "wof:name":"Trade Center Flooring Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

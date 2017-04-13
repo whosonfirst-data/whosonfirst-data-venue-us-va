@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137909,38.860321,-77.137909,38.860321",
     "geom:latitude":38.860321,
     "geom:longitude":-77.137909,
@@ -32,17 +33,41 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863,
+        101729789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nI0q0DBqgEQSHuGmiXiJl_38.860321_-77.137909@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883799,
-    "wof:geomhash":"a5830c3b4c8a91ce5d40ecfb895d60df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"711779f50a7d808b94b32c01810b20f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":722539833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729789,
+            "region_id":85688747,
+            "venue_id":722539833
+        }
+    ],
     "wof:id":722539833,
-    "wof:lastmodified":1472651090,
+    "wof:lastmodified":1492070569,
     "wof:name":"Little League Baseball In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

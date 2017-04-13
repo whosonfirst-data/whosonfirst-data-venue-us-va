@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.508012,38.061593,-78.508012,38.061593",
     "geom:latitude":38.061593,
     "geom:longitude":-78.508012,
@@ -32,17 +33,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wRP1sTOd3U4AgkzhUQLfz_38.061593_-78.508012@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883805,
-    "wof:geomhash":"538b164f779cd021c87563806f5ddc95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7d2eeb6a80e17eaa3848e84265e106b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722540139
+        }
+    ],
     "wof:id":722540139,
-    "wof:lastmodified":1472651070,
+    "wof:lastmodified":1492065971,
     "wof:name":"Hessian Hills Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

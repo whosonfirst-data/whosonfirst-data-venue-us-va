@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.357285,38.381743,-77.357285,38.381743",
     "geom:latitude":38.381743,
     "geom:longitude":-77.357285,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65PBvK0iUBym01BcvKd3B6_38.381743_-77.357285@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896436,
-    "wof:geomhash":"d05606f6f4ec59d597a7dd2dcc3dc9f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"992de7fd018d078c0377db9cd6b27c03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":723167627
+        }
+    ],
     "wof:id":723167627,
-    "wof:lastmodified":1472651461,
+    "wof:lastmodified":1492048301,
     "wof:name":"Windermere Tech LLC",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

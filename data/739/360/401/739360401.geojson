@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.275653,38.992009,-77.275653,38.992009",
     "geom:latitude":38.992009,
     "geom:longitude":-77.275653,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NpZ4AFD2czgMwUam9Fe27_38.992009_-77.275653@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905822,
-    "wof:geomhash":"ae83eb9c7fe1edd1f56516e6e19a491e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d06b8839ec8f760278e8e404529d16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739360401
+        }
+    ],
     "wof:id":739360401,
-    "wof:lastmodified":1472651350,
+    "wof:lastmodified":1492038289,
     "wof:name":"Great Falls Business Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

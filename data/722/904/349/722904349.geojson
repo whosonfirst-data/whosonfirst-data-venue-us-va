@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460482,37.050154,-76.460482,37.050154",
     "geom:latitude":37.050154,
     "geom:longitude":-76.460482,
@@ -39,6 +40,7 @@
         85633793,
         101729041,
         102085961,
+        85879203,
         420548083
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890877,
-    "wof:geomhash":"fdcbe9dcea30b5bbb255ee42df7594ba",
+    "wof:geomhash":"79ab568a8ab3e46813788d6e8eae1f22",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879203,
+            "region_id":85688747,
+            "venue_id":722904349
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722904349,
-    "wof:lastmodified":1472652107,
+    "wof:lastmodified":1492062628,
     "wof:name":"Pockets",
-    "wof:parent_id":420548083,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

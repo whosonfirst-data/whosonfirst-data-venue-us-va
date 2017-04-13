@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.185492,39.16267,-78.185492,39.16267",
     "geom:latitude":39.16267,
     "geom:longitude":-78.185492,
@@ -32,7 +33,13 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vvx9JndxjpRtVmJoxjXz3_39.162670_-78.185492@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904962,
     "wof:geomhash":"5a1523c509469bfd7409ac45838cf928",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739319641
+        }
+    ],
     "wof:id":739319641,
-    "wof:lastmodified":1472651264,
+    "wof:lastmodified":1492031269,
     "wof:name":"Winchester Carpet & Rug Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

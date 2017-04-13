@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.511279,38.308724,-77.511279,38.308724",
     "geom:latitude":38.308724,
     "geom:longitude":-77.511279,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728699,
+        102084973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q5ey07z5zk8V4P0SWgF5s_38.308724_-77.511279@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910063,
-    "wof:geomhash":"ea8764f64b4db89011e9e1c58d4d5bc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"365c2da2f4806eb164ef90b16245a992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "region_id":85688747,
+            "venue_id":739582851
+        }
+    ],
     "wof:id":739582851,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492042428,
     "wof:name":"Qdoba",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

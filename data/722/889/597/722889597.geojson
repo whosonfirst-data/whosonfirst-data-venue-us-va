@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.803481,37.385494,-76.803481,37.385494",
     "geom:latitude":37.385494,
     "geom:longitude":-76.803481,
@@ -37,17 +38,26 @@
         "classic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48xwudNJVPsFOyGKoXi31E_37.385494_-76.803481@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890572,
-    "wof:geomhash":"9fbda0f224088414a36995edc513d5b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34b0b6286883cb96b26f105b0b489b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":722889597
+        }
+    ],
     "wof:id":722889597,
-    "wof:lastmodified":1472652056,
+    "wof:lastmodified":1492075072,
     "wof:name":"Classic Cars Of Williamsburg",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

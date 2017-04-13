@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.918451,37.436683,-76.918451,37.436683",
     "geom:latitude":37.436683,
     "geom:longitude":-76.918451,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f3UYe1CVrYb2p2645XhOp_37.436683_-76.918451@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900456,
-    "wof:geomhash":"9ee008c72d3104d9e9f88b95e0d36cfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e05968e5e2bb53679a72cfea1c3a6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723373989
+        }
+    ],
     "wof:id":723373989,
-    "wof:lastmodified":1472652114,
+    "wof:lastmodified":1492061753,
     "wof:name":"Stonehouse Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

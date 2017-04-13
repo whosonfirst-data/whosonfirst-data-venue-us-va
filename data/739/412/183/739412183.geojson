@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.673126,37.155286,-79.673126,37.155286",
     "geom:latitude":37.155286,
     "geom:longitude":-79.673126,
@@ -31,17 +32,30 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00aJRd6x6GYSgpRDSsByrd_37.155286_-79.673126@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906806,
-    "wof:geomhash":"30e9baabe6e85fa227dd7c6a8beb170a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28b005e12738bbe5b650086b45a9cb9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739412183
+        }
+    ],
     "wof:id":739412183,
-    "wof:lastmodified":1472651454,
+    "wof:lastmodified":1492040637,
     "wof:name":"Smith Mountain Refuse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

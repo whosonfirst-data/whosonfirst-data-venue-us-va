@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.945112,37.265678,-79.945112,37.265678",
     "geom:latitude":37.265678,
     "geom:longitude":-79.945112,
@@ -31,17 +32,32 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oVJJT5CtgBLaL5VCH4TBO_37.265678_-79.945112@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907870,
-    "wof:geomhash":"c81fbd84e8d7bb72d72d049e80eb84c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca2b3527f59c62463dcb30c7e61c3c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739469021
+        }
+    ],
     "wof:id":739469021,
-    "wof:lastmodified":1472651602,
+    "wof:lastmodified":1492047035,
     "wof:name":"Blue Ridge Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

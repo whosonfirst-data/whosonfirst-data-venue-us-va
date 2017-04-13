@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.712185,36.779575,-80.712185,36.779575",
     "geom:latitude":36.779575,
     "geom:longitude":-80.712185,
@@ -32,7 +33,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Pq4d5aH89IUfkgDPudfpR_36.779575_-80.712185@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907751,
     "wof:geomhash":"fe7406e8110270d8527e0539c0ad1865",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":739462129
+        }
+    ],
     "wof:id":739462129,
-    "wof:lastmodified":1472651603,
+    "wof:lastmodified":1492033359,
     "wof:name":"Clay E Frazier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

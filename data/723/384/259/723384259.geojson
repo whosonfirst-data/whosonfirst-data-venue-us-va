@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.277971,36.893833,-81.277971,36.893833",
     "geom:latitude":36.893833,
     "geom:longitude":-81.277971,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i9VSuQqwvPP9QJphMfYFR_36.893833_-81.277971@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900667,
-    "wof:geomhash":"37c45317a5c048535bf9aad5fba9b3ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17e673e43cf3445fad1adbc52d2e989b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723384259
+        }
+    ],
     "wof:id":723384259,
-    "wof:lastmodified":1472652104,
+    "wof:lastmodified":1492058842,
     "wof:name":"Rural Retreat Town Shop",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

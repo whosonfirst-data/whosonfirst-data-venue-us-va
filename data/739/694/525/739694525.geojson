@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.5392,38.235348,-77.5392,38.235348",
     "geom:latitude":38.235348,
     "geom:longitude":-77.5392,
@@ -28,7 +29,12 @@
     "sg:postcode":"22553",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Vuo9oYcAuyFvfh5B4g5Z_38.235348_-77.539200@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912428,
     "wof:geomhash":"e875d9a09041d99abdc98e01d4ce9000",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694525
+        }
+    ],
     "wof:id":739694525,
-    "wof:lastmodified":1472652184,
+    "wof:lastmodified":1492030234,
     "wof:name":"Huffman Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

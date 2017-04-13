@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.995558,36.708564,-81.995558,36.708564",
     "geom:latitude":36.708564,
     "geom:longitude":-81.995558,
@@ -39,17 +40,26 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QFbX8tv8f8UW69y6lh5hu_36.708564_-81.995558@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898036,
-    "wof:geomhash":"17288f203aac413852b7132487cc6e0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"949da0a6de698afee62614a8b438e74d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723245567
+        }
+    ],
     "wof:id":723245567,
-    "wof:lastmodified":1472651697,
+    "wof:lastmodified":1492052926,
     "wof:name":"Cozart Rental Warehouses",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.456062,37.701607,-77.456062,37.701607",
     "geom:latitude":37.701607,
     "geom:longitude":-77.456062,
@@ -36,7 +37,12 @@
         "mach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AGHUxwrvtcbZDrgyJbuqP_37.701607_-77.456062@1294252573"
@@ -44,9 +50,17 @@
     "wof:country":"US",
     "wof:created":1461906017,
     "wof:geomhash":"cf288a356631eb526ec585596bc3cd42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739371179
+        }
+    ],
     "wof:id":739371179,
-    "wof:lastmodified":1472651339,
+    "wof:lastmodified":1492031708,
     "wof:name":"Bondioli & Pavesi Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

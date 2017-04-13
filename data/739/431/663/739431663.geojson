@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.776475,37.243145,-76.776475,37.243145",
     "geom:latitude":37.243145,
     "geom:longitude":-76.776475,
@@ -31,7 +32,10 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3duJjcZohya98t2shwaeyv_37.243145_-76.776475@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907194,
     "wof:geomhash":"e9b46ecb8625228a78ab37eba9dfa8a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":739431663
+        }
+    ],
     "wof:id":739431663,
-    "wof:lastmodified":1472651537,
+    "wof:lastmodified":1492033116,
     "wof:name":"Time Travel Tours LTD",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

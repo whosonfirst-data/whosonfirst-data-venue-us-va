@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418745,38.45202,-77.418745,38.45202",
     "geom:latitude":38.45202,
     "geom:longitude":-77.418745,
@@ -29,8 +30,9 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547145,
+        85688747,
         85894039,
         102081931
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1461898681,
-    "wof:geomhash":"b3fe57843c5c7c21e2e7ee8cf6b78a7e",
+    "wof:geomhash":"bfa58e230dd455a01584646a50692a1b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547145,
+            "venue_id":723280153
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":723280153,
-    "wof:lastmodified":1472651747,
+    "wof:lastmodified":1492054095,
     "wof:name":"Sbg Technology Solutions",
-    "wof:parent_id":85894039,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

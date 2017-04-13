@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.660766,39.253962,-77.660766,39.253962",
     "geom:latitude":39.253962,
     "geom:longitude":-77.660766,
@@ -32,7 +33,12 @@
         "christmas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OVRVe9OLuoqbHAEvxi7Sz_39.253962_-77.660766@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907731,
     "wof:geomhash":"46232f2013d1ce00cd05657c0f6938ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739460937
+        }
+    ],
     "wof:id":739460937,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492031237,
     "wof:name":"Milltown Creek Tree Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

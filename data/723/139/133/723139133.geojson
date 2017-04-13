@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.466163,38.327926,-77.466163,38.327926",
     "geom:latitude":38.327926,
     "geom:longitude":-77.466163,
@@ -39,17 +40,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729337,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DmCAsIzQIp2bMHwur7HWr_38.327926_-77.466163@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895885,
-    "wof:geomhash":"cb0b8beaa8889256ee80fc9d3b099acb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4702bf489a6f003d2e7a607a653d299d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729337,
+            "region_id":85688747,
+            "venue_id":723139133
+        }
+    ],
     "wof:id":723139133,
-    "wof:lastmodified":1472651380,
+    "wof:lastmodified":1492048528,
     "wof:name":"Fantasy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

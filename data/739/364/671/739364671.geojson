@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.367802,37.564696,-76.367802,37.564696",
     "geom:latitude":37.564696,
     "geom:longitude":-76.367802,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UmD57ygvOTA9K1597c5g3_37.564696_-76.367802@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461905895,
     "wof:geomhash":"71e7e696ba33ae5100a5af51ad11221b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":739364671
+        }
+    ],
     "wof:id":739364671,
-    "wof:lastmodified":1472651355,
+    "wof:lastmodified":1492031759,
     "wof:name":"Crittenden Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

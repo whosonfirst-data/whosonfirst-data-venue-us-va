@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.016958,36.690279,-77.016958,36.690279",
     "geom:latitude":36.690279,
     "geom:longitude":-77.016958,
@@ -28,7 +29,12 @@
     "sg:postcode":"23837",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dhCfK0QEUoLBrJux9Pilz_36.690279_-77.016958@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909211,
     "wof:geomhash":"42fffa854f8c1702f4eba126cb6f9e15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":739543013
+        }
+    ],
     "wof:id":739543013,
-    "wof:lastmodified":1472651720,
+    "wof:lastmodified":1492032313,
     "wof:name":"Kiwanis International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

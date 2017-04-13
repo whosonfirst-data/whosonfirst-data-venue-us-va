@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.212009,37.395208,-79.212009,37.395208",
     "geom:latitude":37.395208,
     "geom:longitude":-79.212009,
@@ -31,7 +32,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qaCLu4cqRqkgOzA3Z8zh3_37.395208_-79.212009@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907126,
     "wof:geomhash":"3b70c99579953432f77aedbb6c97d829",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739428139
+        }
+    ],
     "wof:id":739428139,
-    "wof:lastmodified":1472651511,
+    "wof:lastmodified":1492030967,
     "wof:name":"Belstar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

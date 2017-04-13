@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.398292,37.116819,-80.398292,37.116819",
     "geom:latitude":37.116819,
     "geom:longitude":-80.398292,
@@ -34,17 +35,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tgckx3oNhkQ3mAREMWznf_37.116819_-80.398292@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908632,
-    "wof:geomhash":"b5ce9933d0485d7f4ff3e24bb173c017",
-    "wof:hierarchy":[],
+    "wof:geomhash":"855e32f6e84997045d5ef5a1d76a7172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":739511241
+        }
+    ],
     "wof:id":739511241,
-    "wof:lastmodified":1472651740,
+    "wof:lastmodified":1492038871,
     "wof:name":"Haynes Drilling Co",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

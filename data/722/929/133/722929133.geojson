@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.008455,38.026925,-78.008455,38.026925",
     "geom:latitude":38.026925,
     "geom:longitude":-78.008455,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728949,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_283prRTKf17ygATaq3CSK9_38.026925_-78.008455@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891392,
-    "wof:geomhash":"ca835c52071aa8eec9c4f7387c89ec63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d583313ea010c7a92fc5904f58eaae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "locality_id":101728949,
+            "region_id":85688747,
+            "venue_id":722929133
+        }
+    ],
     "wof:id":722929133,
-    "wof:lastmodified":1472652155,
+    "wof:lastmodified":1492070773,
     "wof:name":"Epworth Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

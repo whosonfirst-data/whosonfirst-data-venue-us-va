@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500182,38.356347,-77.500182,38.356347",
     "geom:latitude":38.356347,
     "geom:longitude":-77.500182,
@@ -32,17 +33,26 @@
         "complex"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cxqYMlLz8QCRWUK5GH28u_38.356347_-77.500182@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900698,
-    "wof:geomhash":"95a2f076c0f8f061dafbe9f389f36903",
-    "wof:hierarchy":[],
+    "wof:geomhash":"366c8dbaea0edbc64ece8fa09b81b06a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547209,
+            "venue_id":723386099
+        }
+    ],
     "wof:id":723386099,
-    "wof:lastmodified":1472652099,
+    "wof:lastmodified":1492061358,
     "wof:name":"Manor At England Run 1072",
     "wof:parent_id":420547209,
     "wof:placetype":"venue",

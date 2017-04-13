@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.126179,38.849519,-77.126179,38.849519",
     "geom:latitude":38.849519,
     "geom:longitude":-77.126179,
@@ -29,7 +30,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oiCsvAF6sdsNvTfm5lDvY_38.849519_-77.126179@1299784598"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461910011,
     "wof:geomhash":"f7c0d7ee8a868b2ae6afa54721ad565c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739580119
+        }
+    ],
     "wof:id":739580119,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492031541,
     "wof:name":"Bamian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

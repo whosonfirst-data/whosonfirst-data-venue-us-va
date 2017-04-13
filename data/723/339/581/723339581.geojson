@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430087,38.827119,-77.430087,38.827119",
     "geom:latitude":38.827119,
     "geom:longitude":-77.430087,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GQYwTWSBMx2uCNaRhxAdD_38.827119_-77.430087@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899802,
-    "wof:geomhash":"d0e04a6e113a8ad83ebe86da5e90a429",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b9e2460a887a12032f989d0e7a98b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723339581
+        }
+    ],
     "wof:id":723339581,
-    "wof:lastmodified":1472651951,
+    "wof:lastmodified":1492055195,
     "wof:name":"US Home Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

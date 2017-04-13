@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.42114,37.162161,-76.42114,37.162161",
     "geom:latitude":37.162161,
     "geom:longitude":-76.42114,
@@ -32,17 +33,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aj2Ga1asX3PDEJt4djoEA_37.162161_-76.421140@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899946,
-    "wof:geomhash":"56ad43a82d30d940855bdadb7d3109be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a9be893e8721a59f46f46e1ae5501a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723347219
+        }
+    ],
     "wof:id":723347219,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492058820,
     "wof:name":"Dare Instrument Corp",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

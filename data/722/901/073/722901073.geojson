@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420563,38.271468,-77.420563,38.271468",
     "geom:latitude":38.271468,
     "geom:longitude":-77.420563,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sOf6Pi3ME8haKELD5TWJ2_38.271468_-77.420563@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890810,
-    "wof:geomhash":"319e1ea6219dbfe9659060feebaadc9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfc565325a5ddb8e39a2e5297bb714d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547215,
+            "venue_id":722901073
+        }
+    ],
     "wof:id":722901073,
-    "wof:lastmodified":1472652049,
+    "wof:lastmodified":1492067605,
     "wof:name":"Bass Maintenance & Svcs LLC",
     "wof:parent_id":420547215,
     "wof:placetype":"venue",

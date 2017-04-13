@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5591,37.124538,-76.5591,37.124538",
     "geom:latitude":37.124538,
     "geom:longitude":-76.5591,
@@ -31,19 +32,36 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        85879247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XFLhFU2o9UX81HjYdoWyx_37.124538_-76.559100@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893379,
-    "wof:geomhash":"e3203cc3dac4bc142d81e0924a28009b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dad733ebcb5fc39ccc8c0e4e0ed8113d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879247,
+            "region_id":85688747,
+            "venue_id":723020127
+        }
+    ],
     "wof:id":723020127,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492048514,
     "wof:name":"Technology & Engrg Concepts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

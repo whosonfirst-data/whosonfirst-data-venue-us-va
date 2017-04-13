@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.465023,37.182949,-76.465023,37.182949",
     "geom:latitude":37.182949,
     "geom:longitude":-76.465023,
@@ -29,17 +30,30 @@
     "sg:province":"VA",
     "sg:website":"www.yorkcounty.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hpGQzo8oFsMGHlLozi6eR_37.182949_-76.465023@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892176,
-    "wof:geomhash":"c1177002cb366433bdc2b446156844e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4a7212491ae127224ee25ba25502842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086731,
+            "region_id":85688747,
+            "venue_id":722967289
+        }
+    ],
     "wof:id":722967289,
-    "wof:lastmodified":1472652296,
+    "wof:lastmodified":1492068485,
     "wof:name":"York County Fire & Life Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

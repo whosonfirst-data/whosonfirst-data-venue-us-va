@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.156423,37.687827,-77.156423,37.687827",
     "geom:latitude":37.687827,
     "geom:longitude":-77.156423,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28DIafhhuq0du3GyzxSrTc_37.687827_-77.156423@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906354,
     "wof:geomhash":"65799f70bb6ec07a1d8913b70a75b779",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739387785
+        }
+    ],
     "wof:id":739387785,
-    "wof:lastmodified":1472651385,
+    "wof:lastmodified":1492033149,
     "wof:name":"Kelleys Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

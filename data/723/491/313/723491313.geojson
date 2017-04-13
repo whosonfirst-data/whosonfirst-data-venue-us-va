@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.593513,37.688204,-77.593513,37.688204",
     "geom:latitude":37.688204,
     "geom:longitude":-77.593513,
@@ -31,17 +32,32 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QVyDf9bJZwDc75G0WDaDH_37.688204_-77.593513@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902767,
-    "wof:geomhash":"79faec4da80eb21c5b0e83405fa74257",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08432214a3fba7e87af5871678160a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":723491313
+        }
+    ],
     "wof:id":723491313,
-    "wof:lastmodified":1472652337,
+    "wof:lastmodified":1492061210,
     "wof:name":"Fedweek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

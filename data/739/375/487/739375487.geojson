@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.909472,37.397355,-79.909472,37.397355",
     "geom:latitude":37.397355,
     "geom:longitude":-79.909472,
@@ -31,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nByCzg49wyh1pPz1qJjKe_37.397355_-79.909472@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906107,
     "wof:geomhash":"0eac7dcdc0cb3ee43c60844391d4d159",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":739375487
+        }
+    ],
     "wof:id":739375487,
-    "wof:lastmodified":1472651354,
+    "wof:lastmodified":1492030843,
     "wof:name":"Mill Mountain Coffee & Tea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.098572,36.961866,-81.098572,36.961866",
     "geom:latitude":36.961866,
     "geom:longitude":-81.098572,
@@ -47,12 +48,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,16 +61,8 @@
     },
     "wof:country":"US",
     "wof:created":1461913470,
-    "wof:geomhash":"5b61520af28e9afaeed713b5034fc0dd",
+    "wof:geomhash":"b61ce4c8e68b306925300623bb23c2ed",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":739741803
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -78,12 +71,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":739741803
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":739741803
         }
     ],
     "wof:id":739741803,
-    "wof:lastmodified":1472652265,
+    "wof:lastmodified":1492044542,
     "wof:name":"Morefield & Largen PLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

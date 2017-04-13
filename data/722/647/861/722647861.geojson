@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.409238,37.037515,-76.409238,37.037515",
     "geom:latitude":37.037515,
     "geom:longitude":-76.409238,
@@ -34,6 +35,7 @@
         85633793,
         101728661,
         102084913,
+        85831787,
         420547991
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461885982,
-    "wof:geomhash":"0b7aa27e60f6cd478cf378dea8b45eb1",
+    "wof:geomhash":"0ad66170d99149defe1d3df390832be9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85831787,
+            "region_id":85688747,
+            "venue_id":722647861
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":722647861,
-    "wof:lastmodified":1472651478,
+    "wof:lastmodified":1492068135,
     "wof:name":"Sheild Francis W",
-    "wof:parent_id":420547991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

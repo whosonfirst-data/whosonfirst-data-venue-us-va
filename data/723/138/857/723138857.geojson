@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529728,38.371479,-77.529728,38.371479",
     "geom:latitude":38.371479,
     "geom:longitude":-77.529728,
@@ -32,17 +33,26 @@
         "staffing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_027W69wie5lWQIlRhDzgbk_38.371479_-77.529728@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895877,
-    "wof:geomhash":"11ec1cec1b4a875a483192aab45fb296",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e077df0aec06f98a6602b467f93357a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":723138857
+        }
+    ],
     "wof:id":723138857,
-    "wof:lastmodified":1472651406,
+    "wof:lastmodified":1492051757,
     "wof:name":"Khs Medical LLC",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

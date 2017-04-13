@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.181973,38.874624,-77.181973,38.874624",
     "geom:latitude":38.874624,
     "geom:longitude":-77.181973,
@@ -31,17 +32,32 @@
         "developer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729757,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DjvC5liEchQ8htjWArZyS_38.874624_-77.181973@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901093,
-    "wof:geomhash":"23253381871724c1abab17c25abd5e72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48930931c785bf39a7860ce0b1cf3eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "region_id":85688747,
+            "venue_id":723406253
+        }
+    ],
     "wof:id":723406253,
-    "wof:lastmodified":1472652145,
+    "wof:lastmodified":1492051845,
     "wof:name":"Sean Parker Software Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

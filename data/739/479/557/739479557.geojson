@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.049707,37.287543,-80.049707,37.287543",
     "geom:latitude":37.287543,
     "geom:longitude":-80.049707,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.mkbrealtors.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4suJKLCrClRaq7R3n1WMDU_37.287543_-80.049707@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461908064,
     "wof:geomhash":"2ef0bce1d6d3bfa23d6a1621781c4423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739479557
+        }
+    ],
     "wof:id":739479557,
-    "wof:lastmodified":1472651641,
+    "wof:lastmodified":1492030595,
     "wof:name":"Mkb Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

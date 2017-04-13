@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433232,37.497002,-77.433232,37.497002",
     "geom:latitude":37.497002,
     "geom:longitude":-77.433232,
@@ -37,17 +38,32 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79vL3ua2htWhypao7OsI4O_37.497002_-77.433232@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908668,
-    "wof:geomhash":"fcff31c1754f3338bf02d890579e08cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a77ede8e7c352a55c7db664db41ac5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739513263
+        }
+    ],
     "wof:id":739513263,
-    "wof:lastmodified":1472651747,
+    "wof:lastmodified":1492042658,
     "wof:name":"Richmond Barrel & Box Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

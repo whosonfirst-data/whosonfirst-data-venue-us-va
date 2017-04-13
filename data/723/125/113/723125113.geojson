@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.047399,38.747822,-77.047399,38.747822",
     "geom:latitude":38.747822,
     "geom:longitude":-77.047399,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729741,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B1K6aZ0tIdYiT4Vg6u3Np_38.747822_-77.047399@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895606,
-    "wof:geomhash":"95d6955237397636d42cd7e913f66243",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfe5b205b0a01253ff935c7b6eb65f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729741,
+            "region_id":85688747,
+            "venue_id":723125113
+        }
+    ],
     "wof:id":723125113,
-    "wof:lastmodified":1472651377,
+    "wof:lastmodified":1492060632,
     "wof:name":"Edward Hirsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

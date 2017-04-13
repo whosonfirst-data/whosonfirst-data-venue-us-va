@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.47315,38.867421,-77.47315,38.867421",
     "geom:latitude":38.867421,
     "geom:longitude":-77.47315,
@@ -33,17 +34,30 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EDOB3RzUAsvOO2bnW1YbI_38.867421_-77.473150@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910520,
-    "wof:geomhash":"58a8d17bb84e8e113f6c8a675a43b2e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"730432caa8247f5b6df1a81be745367b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739605601
+        }
+    ],
     "wof:id":739605601,
-    "wof:lastmodified":1472651961,
+    "wof:lastmodified":1492039614,
     "wof:name":"Grand Slam Events",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

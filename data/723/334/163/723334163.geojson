@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.464905,37.445122,-77.464905,37.445122",
     "geom:latitude":37.445122,
     "geom:longitude":-77.464905,
@@ -38,17 +39,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ToDU5sJWbxrqCCksj8XjO_37.445122_-77.464905@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899701,
-    "wof:geomhash":"40d45a02cd65f174ec8b9026d17946c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b061b212d2973cd8cb360df1bee49eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":723334163
+        }
+    ],
     "wof:id":723334163,
-    "wof:lastmodified":1472651890,
+    "wof:lastmodified":1492057966,
     "wof:name":"Meadowbrook Country Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

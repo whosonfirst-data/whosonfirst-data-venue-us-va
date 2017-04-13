@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609641,37.489917,-77.609641,37.489917",
     "geom:latitude":37.489917,
     "geom:longitude":-77.609641,
@@ -28,7 +29,12 @@
     "sg:postcode":"23236",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hoJF3a158E8BwL85lS1VE_37.489917_-77.609641@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908493,
     "wof:geomhash":"efc0bf834e5c87fb0d7b7f9329fd6d2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739503615
+        }
+    ],
     "wof:id":739503615,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492032338,
     "wof:name":"Sign & Engraving Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

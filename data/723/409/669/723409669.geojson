@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.616861,38.899228,-77.616861,38.899228",
     "geom:latitude":38.899228,
     "geom:longitude":-77.616861,
@@ -34,17 +35,30 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X3sdOcA0M0Q0XlAHE852I_38.899228_-77.616861@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901166,
-    "wof:geomhash":"2e1c827b9bb19c3267529da54b0df767",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19d93c5a0e56179524afc55ca37d4f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723409669
+        }
+    ],
     "wof:id":723409669,
-    "wof:lastmodified":1472652199,
+    "wof:lastmodified":1492058898,
     "wof:name":"MMB Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

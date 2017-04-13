@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.753563,37.315245,-76.753563,37.315245",
     "geom:latitude":37.315245,
     "geom:longitude":-76.753563,
@@ -28,7 +29,10 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dGf7GI71p2J1oKQVpV7Uf_37.315245_-76.753563@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904057,
     "wof:geomhash":"7b7e47edcdcfb9d4fc01646fde277856",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":739275875
+        }
+    ],
     "wof:id":739275875,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492031051,
     "wof:name":"Total Support Inc",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

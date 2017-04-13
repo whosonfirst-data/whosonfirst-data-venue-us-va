@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.561442,37.53507,-77.561442,37.53507",
     "geom:latitude":37.53507,
     "geom:longitude":-77.561442,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PgK6XR7LtFsZht3WiSvDv_37.535070_-77.561442@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900451,
-    "wof:geomhash":"e08144a38021db5ad8d426576d2be83a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b183972b72b28581aad5121ccf6b724b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":723373721
+        }
+    ],
     "wof:id":723373721,
-    "wof:lastmodified":1472652104,
+    "wof:lastmodified":1492061764,
     "wof:name":"American Building Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

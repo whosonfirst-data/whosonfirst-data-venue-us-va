@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.529679,37.113499,-81.529679,37.113499",
     "geom:latitude":37.113499,
     "geom:longitude":-81.529679,
@@ -32,17 +33,26 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jQu7i5muGVmYUOV0yywFU_37.113499_-81.529679@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889313,
-    "wof:geomhash":"f5240d6a8d3559a10a08ab07d111a54d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e1c23b67a4d376742ae16b359b98ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722822623
+        }
+    ],
     "wof:id":722822623,
-    "wof:lastmodified":1472651905,
+    "wof:lastmodified":1492062775,
     "wof:name":"Buchanan Coal Co",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

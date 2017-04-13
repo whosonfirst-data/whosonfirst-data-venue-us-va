@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.140046,37.416112,-79.140046,37.416112",
     "geom:latitude":37.416112,
     "geom:longitude":-79.140046,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xW41vOfPxsJZlKJR3kc1V_37.415879_-79.140303@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461910420,
-    "wof:geomhash":"8396db931e3e122f3a6004533cc61533",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05d1e5548a8dacdf089fa1d501515dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739600897
+        }
+    ],
     "wof:id":739600897,
-    "wof:lastmodified":1472651973,
+    "wof:lastmodified":1492039509,
     "wof:name":"Depot Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

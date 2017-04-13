@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609589,37.501579,-77.609589,37.501579",
     "geom:latitude":37.501579,
     "geom:longitude":-77.609589,
@@ -31,7 +32,12 @@
         "dentists-periodontists"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W1Z138fzxajxn529bWgf7_37.501579_-77.609589@1303262551"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461913086,
     "wof:geomhash":"4e43c6eee50f7efd88afbe5901d58e4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724669
+        }
+    ],
     "wof:id":739724669,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492030947,
     "wof:name":"Gaskins Charles E DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

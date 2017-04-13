@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.799202,37.293231,-76.799202,37.293231",
     "geom:latitude":37.293231,
     "geom:longitude":-76.799202,
@@ -28,19 +29,34 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546899,
+        420546813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10f2i46slGPKVkENABiIyl_37.293231_-76.799202@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897234,
-    "wof:geomhash":"de71caf21037a06e7de2cb9f4a3fe956",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93f3d35ecb8a5a48133c85dc6506df13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546899,
+            "venue_id":723208589
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546813,
+            "venue_id":723208589
+        }
+    ],
     "wof:id":723208589,
-    "wof:lastmodified":1472651621,
+    "wof:lastmodified":1492051183,
     "wof:name":"Fords Colony At Williamsburg",
-    "wof:parent_id":420546899,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

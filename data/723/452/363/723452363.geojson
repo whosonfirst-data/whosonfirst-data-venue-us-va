@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448521,37.233104,-77.448521,37.233104",
     "geom:latitude":37.233104,
     "geom:longitude":-77.448521,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729305,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Gy8OERntlCPsdwOdPhStC_37.233104_-77.448521@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901983,
-    "wof:geomhash":"64528ab05974a5ecb56488b8a88adc4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3108f043773be26abd9c946b0047e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729305,
+            "region_id":85688747,
+            "venue_id":723452363
+        }
+    ],
     "wof:id":723452363,
-    "wof:lastmodified":1472652290,
+    "wof:lastmodified":1492052210,
     "wof:name":"Jodell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

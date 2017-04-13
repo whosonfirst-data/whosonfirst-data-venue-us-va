@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.189636,38.734428,-77.189636,38.734428",
     "geom:latitude":38.734428,
     "geom:longitude":-77.189636,
@@ -40,7 +41,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q3rDPhzOmxfzkWUntOdjA_38.734428_-77.189636@1303262538"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461911020,
     "wof:geomhash":"fe9ae788998d0502f9b92dfb8db3ad37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739629671
+        }
+    ],
     "wof:id":739629671,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492033281,
     "wof:name":"Aaron's Corporate Furnishings Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

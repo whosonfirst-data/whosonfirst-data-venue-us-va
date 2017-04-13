@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.785054,36.740804,-80.785054,36.740804",
     "geom:latitude":36.740804,
     "geom:longitude":-80.785054,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729137,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c9kMR8kJggjf2GOdoPurK_36.740804_-80.785054@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901548,
-    "wof:geomhash":"4146d1f8764a16ba72905cb36826c63f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57737495cd99f01365ce03133681c157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101729137,
+            "region_id":85688747,
+            "venue_id":723428827
+        }
+    ],
     "wof:id":723428827,
-    "wof:lastmodified":1472652258,
+    "wof:lastmodified":1492049210,
     "wof:name":"Carroll County Public Svc Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

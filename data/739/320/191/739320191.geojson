@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.64839,37.451416,-77.64839,37.451416",
     "geom:latitude":37.451416,
     "geom:longitude":-77.64839,
@@ -32,17 +33,32 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JWPCe4R9iFEXE6PRA4AJC_37.451416_-77.648390@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904978,
-    "wof:geomhash":"8389f3d30d4f04335f77c3a80f0d666f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6db73f67bc4427ed881619dade103cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739320191
+        }
+    ],
     "wof:id":739320191,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492038129,
     "wof:name":"US Social Security Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

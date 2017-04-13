@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.788714,37.401337,-76.788714,37.401337",
     "geom:latitude":37.401337,
     "geom:longitude":-76.788714,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546835
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43Rkzg9tIffe83jtJO0G13_37.401337_-76.788714@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894523,
-    "wof:geomhash":"25b8901b953a256a9efb0726169e2b17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1cd3aeec9de8b1222005c00ebd18026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546835,
+            "venue_id":723072613
+        }
+    ],
     "wof:id":723072613,
-    "wof:lastmodified":1472651261,
+    "wof:lastmodified":1492052549,
     "wof:name":"Brooks and Son Inc",
     "wof:parent_id":420546835,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.696953,39.140472,-77.696953,39.140472",
     "geom:latitude":39.140472,
     "geom:longitude":-77.696953,
@@ -32,17 +33,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xnyYfKQDAcssiN6IN6Jlr_39.140472_-77.696953@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895587,
-    "wof:geomhash":"fdb09c96322f3eb11a800fe3d807cecd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f6d5aa5d14f0944561f61ba76312e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":723124033
+        }
+    ],
     "wof:id":723124033,
-    "wof:lastmodified":1472651375,
+    "wof:lastmodified":1492055133,
     "wof:name":"Leesburg Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.641861,36.637569,-78.641861,36.637569",
     "geom:latitude":36.637569,
     "geom:longitude":-78.641861,
@@ -36,17 +37,30 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16yF58tp3peW4yJ8nZebI2_36.637569_-78.641861@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898632,
-    "wof:geomhash":"1ec47ca2b744fcd448d008896d1d587b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a043f2a4902b965ac82647b50f54d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":723277409
+        }
+    ],
     "wof:id":723277409,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492054580,
     "wof:name":"Big Buffalo Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

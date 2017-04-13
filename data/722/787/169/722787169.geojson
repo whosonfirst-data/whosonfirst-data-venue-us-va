@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.290263,37.363965,-79.290263,37.363965",
     "geom:latitude":37.363965,
     "geom:longitude":-79.290263,
@@ -32,17 +33,32 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FJnphPG0sBG6WtBqzFgcQ_37.363965_-79.290263@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888642,
-    "wof:geomhash":"c00a580f01703a4ac4eea268209ad6c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03d461bf06b865b24f717fe977b42e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":722787169
+        }
+    ],
     "wof:id":722787169,
-    "wof:lastmodified":1472651736,
+    "wof:lastmodified":1492064157,
     "wof:name":"CFIC Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

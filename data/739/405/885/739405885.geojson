@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.309647,38.822416,-77.309647,38.822416",
     "geom:latitude":38.822416,
     "geom:longitude":-77.309647,
@@ -28,7 +29,13 @@
     "sg:postcode":"22032",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VMvNXrUuy0Z5H19Boufgx_38.822416_-77.309647@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906696,
     "wof:geomhash":"108ca16774ad7748e2643b8062adac13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739405885
+        }
+    ],
     "wof:id":739405885,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492031557,
     "wof:name":"Image Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

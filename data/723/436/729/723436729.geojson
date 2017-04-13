@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476743,38.443709,-77.476743,38.443709",
     "geom:latitude":38.443709,
     "geom:longitude":-77.476743,
@@ -38,17 +39,26 @@
     ],
     "sg:website":"www.augustinegolf.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JQ58PqpIWkAATt0p8qDNg_38.443709_-77.476743@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901689,
-    "wof:geomhash":"c5592df4462047a29f3ff220a38db332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea99f46b616725845e5adaa0380b5f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":723436729
+        }
+    ],
     "wof:id":723436729,
-    "wof:lastmodified":1472652249,
+    "wof:lastmodified":1492060056,
     "wof:name":"Augustine Golf Club",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

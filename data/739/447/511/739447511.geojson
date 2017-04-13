@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50462,38.894968,-77.50462,38.894968",
     "geom:latitude":38.894968,
     "geom:longitude":-77.50462,
@@ -28,17 +29,32 @@
     "sg:postcode":"20152",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729459,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HyPEL0WT0zlnPShnANNM0_38.894968_-77.504620@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907495,
-    "wof:geomhash":"e1ec40e561a66b6a1a7cc9a7bb9748f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"734b1aa43f90ef54819da1e939172ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729459,
+            "region_id":85688747,
+            "venue_id":739447511
+        }
+    ],
     "wof:id":739447511,
-    "wof:lastmodified":1472651579,
+    "wof:lastmodified":1492043081,
     "wof:name":"VA Voters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

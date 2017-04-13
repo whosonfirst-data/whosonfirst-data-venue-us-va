@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.757841,37.270372,-76.757841,37.270372",
     "geom:latitude":37.270372,
     "geom:longitude":-76.757841,
@@ -33,7 +34,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pmRXlCmBBoKl0AOFLdxLR_37.270372_-76.757841@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461910130,
     "wof:geomhash":"396c30aedc1c3c6dd60fd78d39abe5a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739586461
+        }
+    ],
     "wof:id":739586461,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492031887,
     "wof:name":"Shackleford's",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

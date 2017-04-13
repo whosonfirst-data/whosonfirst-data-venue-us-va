@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116978,38.84544,-77.116978,38.84544",
     "geom:latitude":38.84544,
     "geom:longitude":-77.116978,
@@ -34,7 +35,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hqCWy9wQBKqmyGtqphulf_38.845516_-77.116932@1293134755"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461909666,
     "wof:geomhash":"116e88fd349d314b1c716b7528a70327",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739565101
+        }
+    ],
     "wof:id":739565101,
-    "wof:lastmodified":1472651872,
+    "wof:lastmodified":1492032762,
     "wof:name":"Everything Mortgages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

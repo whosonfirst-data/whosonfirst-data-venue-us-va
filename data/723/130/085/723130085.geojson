@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.276791,36.900542,-81.276791,36.900542",
     "geom:latitude":36.900542,
     "geom:longitude":-81.276791,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tE8jDOleI8BivVEerPkkj_36.900542_-81.276791@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895699,
-    "wof:geomhash":"d8053fb263ce03737490d3219b8ec4f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ceae35e5197f2987024e32c9d6eff786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723130085
+        }
+    ],
     "wof:id":723130085,
-    "wof:lastmodified":1472651378,
+    "wof:lastmodified":1492049340,
     "wof:name":"David R Maxey Construction",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

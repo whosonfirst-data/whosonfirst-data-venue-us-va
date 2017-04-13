@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130915,36.724489,-78.130915,36.724489",
     "geom:latitude":36.724489,
     "geom:longitude":-78.130915,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BRADvkTjoLc69oNW4pydL_36.724489_-78.130915@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895372,
-    "wof:geomhash":"ca7873331c0f927f3175b8329a5ebcb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd4a7035e6071d4f1eb0f798fcf170e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":723112849
+        }
+    ],
     "wof:id":723112849,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492054001,
     "wof:name":"Manning Tenant House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

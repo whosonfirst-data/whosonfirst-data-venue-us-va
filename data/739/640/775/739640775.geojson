@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.351215,38.533301,-77.351215,38.533301",
     "geom:latitude":38.533301,
     "geom:longitude":-77.351215,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.regionalchamber.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11EQUtkpviXqp8Oe5Tex6X_38.533301_-77.351215@1303262540"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1461911272,
     "wof:geomhash":"9b6f8ce24ae3d57a8723302ae6778039",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739640775
+        }
+    ],
     "wof:id":739640775,
-    "wof:lastmodified":1472652054,
+    "wof:lastmodified":1492033007,
     "wof:name":"Locust Shade Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

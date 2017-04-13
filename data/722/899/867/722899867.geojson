@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.724963,39.137368,-77.724963,39.137368",
     "geom:latitude":39.137368,
     "geom:longitude":-77.724963,
@@ -33,17 +34,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VTqG3ZgipsQbfGbV378W2_39.137368_-77.724963@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890787,
-    "wof:geomhash":"447d619549d5c50a9380e4610a16f92d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb2a37e7acfe72e705996e02b4361109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":722899867
+        }
+    ],
     "wof:id":722899867,
-    "wof:lastmodified":1472652087,
+    "wof:lastmodified":1492062441,
     "wof:name":"Loudoun Milk Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

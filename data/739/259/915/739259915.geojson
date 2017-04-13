@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.565229,37.500192,-77.565229,37.500192",
     "geom:latitude":37.500192,
     "geom:longitude":-77.565229,
@@ -32,7 +33,13 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MMFhb6JQJMqd3nzRF7aGR_37.500192_-77.565229@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461903695,
     "wof:geomhash":"b4b8143488f82c4a31695976a5c599e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739259915
+        }
+    ],
     "wof:id":739259915,
-    "wof:lastmodified":1472651124,
+    "wof:lastmodified":1492032945,
     "wof:name":"Bon Air Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

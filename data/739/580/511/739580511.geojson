@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.220492,38.703679,-77.220492,38.703679",
     "geom:latitude":38.703679,
     "geom:longitude":-77.220492,
@@ -33,7 +34,13 @@
         "diner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LkNyk1o3IfzYu7hkCNKFq_38.703679_-77.220492@1299784598"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910018,
     "wof:geomhash":"06af721711f27a35e6584011ef4ce252",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":739580511
+        }
+    ],
     "wof:id":739580511,
-    "wof:lastmodified":1472651928,
+    "wof:lastmodified":1492031539,
     "wof:name":"Caribou Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

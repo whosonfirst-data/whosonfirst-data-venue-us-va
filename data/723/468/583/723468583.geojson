@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.194169,38.717781,-77.194169,38.717781",
     "geom:latitude":38.717781,
     "geom:longitude":-77.194169,
@@ -38,17 +39,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ihZ0JpfpboTxg3OSqHAkA_38.717781_-77.194169@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902295,
-    "wof:geomhash":"05f7cbbad486c17f2c4592e78d1a6ad5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d0a8c81f1c6f95ef882dc222ee42bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":723468583
+        }
+    ],
     "wof:id":723468583,
-    "wof:lastmodified":1472652300,
+    "wof:lastmodified":1492058167,
     "wof:name":"General Trading Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

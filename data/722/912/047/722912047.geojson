@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.505864,38.408336,-77.505864,38.408336",
     "geom:latitude":38.408336,
     "geom:longitude":-77.505864,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uEXlGveqfA5A0vPX6zmsB_38.408336_-77.505864@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891027,
-    "wof:geomhash":"36f7979a1091040535829a0ce3781ecf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b925446d64dbb6f7ae2fe87ac66e51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":722912047
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":722912047
+        }
+    ],
     "wof:id":722912047,
-    "wof:lastmodified":1472652100,
+    "wof:lastmodified":1492063635,
     "wof:name":"Russell E Hall Co",
-    "wof:parent_id":420547277,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

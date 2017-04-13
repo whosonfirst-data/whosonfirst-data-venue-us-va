@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.650249,37.78214,-75.650249,37.78214",
     "geom:latitude":37.78214,
     "geom:longitude":-75.650249,
@@ -32,7 +33,10 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DePxWy9LvlzFs17rvQcVO_37.782140_-75.650249@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904495,
     "wof:geomhash":"70daf277ef51fb6078be34b146803e19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546533,
+            "venue_id":739296703
+        }
+    ],
     "wof:id":739296703,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492029512,
     "wof:name":"International Wholesalers",
     "wof:parent_id":420546533,
     "wof:placetype":"venue",

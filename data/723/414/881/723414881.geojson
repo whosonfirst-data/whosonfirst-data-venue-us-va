@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434785,38.311453,-77.434785,38.311453",
     "geom:latitude":38.311453,
     "geom:longitude":-77.434785,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6romXKh51VLZoujn0wUaeQ_38.311453_-77.434785@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901266,
-    "wof:geomhash":"8460008d82bf3ae157b4995ec65889c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50c81e0809aaebd3171a3e222c5b1d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":723414881
+        }
+    ],
     "wof:id":723414881,
-    "wof:lastmodified":1472652200,
+    "wof:lastmodified":1492050986,
     "wof:name":"White Oak Beauty Salon",
     "wof:parent_id":420547245,
     "wof:placetype":"venue",

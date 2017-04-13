@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.141692,37.414081,-79.141692,37.414081",
     "geom:latitude":37.414081,
     "geom:longitude":-79.141692,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O7iZm0wFm7UfDWwg9rz9S_37.414081_-79.141692@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906263,
-    "wof:geomhash":"420bb6cba991ea59e7c0aa469df21f45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72c84bcc269586fcb5978088590dd5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739383691
+        }
+    ],
     "wof:id":739383691,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492039142,
     "wof:name":"Arrow Delivery Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

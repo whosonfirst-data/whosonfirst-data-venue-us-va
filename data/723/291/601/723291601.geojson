@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524008,38.784889,-77.524008,38.784889",
     "geom:latitude":38.784889,
     "geom:longitude":-77.524008,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BXJGCwTLa6PcRJh8crhyZ_38.784889_-77.524008@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898906,
-    "wof:geomhash":"a99222c100c50f2c0f3f1b888db10401",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fe4264b17bde9e381b1c642c5ace182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":723291601
+        }
+    ],
     "wof:id":723291601,
-    "wof:lastmodified":1472651794,
+    "wof:lastmodified":1492054951,
     "wof:name":"CRC Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

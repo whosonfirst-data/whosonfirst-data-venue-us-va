@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.533002,38.872656,-78.533002,38.872656",
     "geom:latitude":38.872656,
     "geom:longitude":-78.533002,
@@ -34,17 +35,32 @@
         "cassette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IpfCQ4nKDX4xun5Pc9gyQ_38.872656_-78.533002@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887744,
-    "wof:geomhash":"8ac1d3d6aa3f73688962eccfcc549fd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9337cf091c864c6ed20ec992f144ea85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":722739943
+        }
+    ],
     "wof:id":722739943,
-    "wof:lastmodified":1472651702,
+    "wof:lastmodified":1492067341,
     "wof:name":"Movie Starz Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

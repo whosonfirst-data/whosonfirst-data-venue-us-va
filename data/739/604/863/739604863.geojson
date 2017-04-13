@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.469398,38.780701,-77.469398,38.780701",
     "geom:latitude":38.780701,
     "geom:longitude":-77.469398,
@@ -28,7 +29,13 @@
     "sg:postcode":"20111",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BoACG3Gh8ZhyVDRqHb9JV_38.780701_-77.469398@1303262495"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910508,
     "wof:geomhash":"3648bf0d85b286d288be053abd0ab653",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739604863
+        }
+    ],
     "wof:id":739604863,
-    "wof:lastmodified":1472651969,
+    "wof:lastmodified":1492032499,
     "wof:name":"Russell Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

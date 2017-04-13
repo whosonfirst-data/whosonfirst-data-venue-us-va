@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.884291,38.430219,-78.884291,38.430219",
     "geom:latitude":38.430219,
     "geom:longitude":-78.884291,
@@ -32,17 +33,32 @@
         "banking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NkvT5uonIdV3vKku8NiUD_38.430219_-78.884291@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895191,
-    "wof:geomhash":"c1b5923d5fce3150e707e7eefcec2cee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87ac29885d03be64bd049e85d72cd677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723103847
+        }
+    ],
     "wof:id":723103847,
-    "wof:lastmodified":1472651328,
+    "wof:lastmodified":1492055498,
     "wof:name":"Order Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

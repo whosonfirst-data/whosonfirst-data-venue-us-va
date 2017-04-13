@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.940981,37.265645,-79.940981,37.265645",
     "geom:latitude":37.265645,
     "geom:longitude":-79.940981,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QjGlD99uOuCgf0qt34s1K_37.265645_-79.940981@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905826,
-    "wof:geomhash":"229e481a427535ac02460785f932badb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1ee9ef677a78524d2e5bd11075eb5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739360587
+        }
+    ],
     "wof:id":739360587,
-    "wof:lastmodified":1472651355,
+    "wof:lastmodified":1492038303,
     "wof:name":"Medical Examiner Western Dist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

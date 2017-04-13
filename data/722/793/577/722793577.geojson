@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.985036,36.707188,-81.985036,36.707188",
     "geom:latitude":36.707188,
     "geom:longitude":-81.985036,
@@ -32,17 +33,26 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Eg8qMI0ecbRGwHezFPQap_36.707188_-81.985036@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888773,
-    "wof:geomhash":"615ec24ee8577290e00b921a1d774d8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad5c7d974cfbc0ea9479183b118e44c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722793577
+        }
+    ],
     "wof:id":722793577,
-    "wof:lastmodified":1472651809,
+    "wof:lastmodified":1492069440,
     "wof:name":"Main Street Sales",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

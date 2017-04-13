@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.379845,37.202445,-77.379845,37.202445",
     "geom:latitude":37.202445,
     "geom:longitude":-77.379845,
@@ -37,6 +38,7 @@
         85633793,
         101728959,
         102085951,
+        85806407,
         85868647
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884780,
-    "wof:geomhash":"27f516af4a70de54d245939260b11d7c",
+    "wof:geomhash":"84b3f16e38bb36cf8d6b9fd93f0ab709",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "neighbourhood_id":85806407,
+            "region_id":85688747,
+            "venue_id":722589265
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722589265,
-    "wof:lastmodified":1472651225,
+    "wof:lastmodified":1492071543,
     "wof:name":"Ric Nails",
-    "wof:parent_id":85868647,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

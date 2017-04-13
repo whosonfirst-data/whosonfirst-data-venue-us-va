@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418677,38.813326,-77.418677,38.813326",
     "geom:latitude":38.813326,
     "geom:longitude":-77.418677,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gZbCUMStCANQJtaV0eIku_38.813326_-77.418677@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910525,
-    "wof:geomhash":"390a3d19527dfe38bf3bd3b5bdee13ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45f7de90adfe22cab459d363fcb2cad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739605895
+        }
+    ],
     "wof:id":739605895,
-    "wof:lastmodified":1472651971,
+    "wof:lastmodified":1492039572,
     "wof:name":"Pulse Fiber Optics And Telecom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

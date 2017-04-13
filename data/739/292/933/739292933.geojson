@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.568538,38.093739,-77.568538,38.093739",
     "geom:latitude":38.093739,
     "geom:longitude":-77.568538,
@@ -35,7 +36,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00kasBrDqUaQVkWSid7VaU_38.093739_-77.568538@1294252573"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461904425,
     "wof:geomhash":"b368aea05a87b94d6ed6246787a81e42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739292933
+        }
+    ],
     "wof:id":739292933,
-    "wof:lastmodified":1472651221,
+    "wof:lastmodified":1492033211,
     "wof:name":"Marshall's Pools & Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

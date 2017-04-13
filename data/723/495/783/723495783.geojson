@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.971521,38.227915,-76.971521,38.227915",
     "geom:latitude":38.227915,
     "geom:longitude":-76.971521,
@@ -32,17 +33,30 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IP80YdZyor89PPjNJlo4R_38.227915_-76.971521@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902855,
-    "wof:geomhash":"03ba1e322c0078d8c5952fca0b435eb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c5e5495c45db4cb79b6bdbb06ea2405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723495783
+        }
+    ],
     "wof:id":723495783,
-    "wof:lastmodified":1472652351,
+    "wof:lastmodified":1492053264,
     "wof:name":"Potomac Westmoreland Shore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

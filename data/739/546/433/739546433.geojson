@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75926,37.270022,-76.75926,37.270022",
     "geom:latitude":37.270022,
     "geom:longitude":-76.75926,
@@ -28,7 +29,10 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6otycUGO8DNAZk3tXepJ3v_37.270022_-76.759260@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461909289,
     "wof:geomhash":"3b73ffda8ff6fd3cdd28e82ab14dc740",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739546433
+        }
+    ],
     "wof:id":739546433,
-    "wof:lastmodified":1472651861,
+    "wof:lastmodified":1492031579,
     "wof:name":"Bike Beat",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

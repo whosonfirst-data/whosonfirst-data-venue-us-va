@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458556,38.451663,-77.458556,38.451663",
     "geom:latitude":38.451663,
     "geom:longitude":-77.458556,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"http://www.mountainviewhs.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KDNKo4ZSOVuxPesrmlDGc_38.451663_-77.458556@1303262547"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912438,
     "wof:geomhash":"1792fd2142fc64ff3383984fb11016cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":739694983
+        }
+    ],
     "wof:id":739694983,
-    "wof:lastmodified":1472652202,
+    "wof:lastmodified":1492030227,
     "wof:name":"Rodney E. Thompson Middle School",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

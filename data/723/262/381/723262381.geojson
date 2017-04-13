@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.197423,38.782216,-77.197423,38.782216",
     "geom:latitude":38.782216,
     "geom:longitude":-77.197423,
@@ -38,7 +39,8 @@
         85633793,
         101729791,
         102084863,
-        85894025
+        85894025,
+        85835021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898348,
-    "wof:geomhash":"0514d679306c711a3b8186fc97073165",
+    "wof:geomhash":"643a4ffb1ca961c309830ad237c958de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85894025,
             "region_id":85688747,
             "venue_id":723262381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729791,
+            "neighbourhood_id":85835021,
+            "region_id":85688747,
+            "venue_id":723262381
         }
     ],
     "wof:id":723262381,
-    "wof:lastmodified":1472651782,
+    "wof:lastmodified":1492060905,
     "wof:name":"JES Svc",
-    "wof:parent_id":85894025,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

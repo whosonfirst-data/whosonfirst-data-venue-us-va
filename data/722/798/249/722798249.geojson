@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.082146,36.855447,-76.082146,36.855447",
     "geom:latitude":36.855447,
     "geom:longitude":-76.082146,
@@ -34,6 +35,7 @@
         85633793,
         101728745,
         102081929,
+        420559045,
         85828391
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888853,
-    "wof:geomhash":"9cf562eb251d70b9d64e1ad9554241d5",
+    "wof:geomhash":"09e4fd420daa8c6c5b88b3b9a115ed8c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420559045,
+            "region_id":85688747,
+            "venue_id":722798249
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":722798249,
-    "wof:lastmodified":1472651752,
+    "wof:lastmodified":1492065402,
     "wof:name":"Crossroads Building Inspection",
-    "wof:parent_id":85828391,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

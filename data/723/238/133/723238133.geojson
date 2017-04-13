@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.887756,36.690326,-79.887756,36.690326",
     "geom:latitude":36.690326,
     "geom:longitude":-79.887756,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zLE6aadXFHnlTORokVAtH_36.690326_-79.887756@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897876,
-    "wof:geomhash":"15f9fc3d28eb3dceb5309d8eb2eb8c68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7e7cbf684a1faba98abdedbcdd63d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723238133
+        }
+    ],
     "wof:id":723238133,
-    "wof:lastmodified":1472651658,
+    "wof:lastmodified":1492059242,
     "wof:name":"Santillo Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

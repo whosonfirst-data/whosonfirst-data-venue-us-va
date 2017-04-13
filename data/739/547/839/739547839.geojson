@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401975,38.436001,-77.401975,38.436001",
     "geom:latitude":38.436001,
     "geom:longitude":-77.401975,
@@ -28,7 +29,10 @@
     "sg:postcode":"22554",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dKiUDYPqUpXapqHam5e4Z_38.436001_-77.401975@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461909317,
     "wof:geomhash":"4a1794f539e3f3a025d1b5e718be15ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547161,
+            "venue_id":739547839
+        }
+    ],
     "wof:id":739547839,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492029481,
     "wof:name":"Walhalla Services",
     "wof:parent_id":420547161,
     "wof:placetype":"venue",

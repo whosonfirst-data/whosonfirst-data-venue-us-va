@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442874,38.384152,-77.442874,38.384152",
     "geom:latitude":38.384152,
     "geom:longitude":-77.442874,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H6Hi4uVHKZKLbapliOiUE_38.384152_-77.442874@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899262,
-    "wof:geomhash":"c6b4b48ad536d26151b9f794304bd72c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40a5c16562cbbbfb5d243aa03bd1e690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723310039
+        }
+    ],
     "wof:id":723310039,
-    "wof:lastmodified":1472651723,
+    "wof:lastmodified":1492053061,
     "wof:name":"Action Auto Works",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

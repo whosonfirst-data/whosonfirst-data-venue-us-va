@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.889837,38.437031,-78.889837,38.437031",
     "geom:latitude":38.437031,
     "geom:longitude":-78.889837,
@@ -31,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ixsQE4UbLwr13Vq5nGQ0F_38.437031_-78.889837@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906211,
     "wof:geomhash":"af59c0ea476fff9e5144951c230a874c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739380745
+        }
+    ],
     "wof:id":739380745,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492033096,
     "wof:name":"Jakes Recon Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

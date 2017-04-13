@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.323976,36.817524,-76.323976,36.817524",
     "geom:latitude":36.817524,
     "geom:longitude":-76.323976,
@@ -35,8 +36,8 @@
         85633793,
         101728677,
         102086707,
-        85836925,
-        420548257
+        420548257,
+        85836925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +45,8 @@
     },
     "wof:country":"US",
     "wof:created":1461891918,
-    "wof:geomhash":"5f38ab9441cbf0127ca1ca50cb8dfcb6",
+    "wof:geomhash":"c99ae3e7179795f3578c477bf6f600f4",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85836925,
-            "region_id":85688747,
-            "venue_id":722954645
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,12 +55,21 @@
             "neighbourhood_id":420548257,
             "region_id":85688747,
             "venue_id":722954645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85836925,
+            "region_id":85688747,
+            "venue_id":722954645
         }
     ],
     "wof:id":722954645,
-    "wof:lastmodified":1472652274,
+    "wof:lastmodified":1492072980,
     "wof:name":"Mt Sinai United Holy Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

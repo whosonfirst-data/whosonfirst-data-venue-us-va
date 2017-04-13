@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510882,37.504097,-77.510882,37.504097",
     "geom:latitude":37.504097,
     "geom:longitude":-77.510882,
@@ -28,19 +29,36 @@
     "sg:postcode":"23225",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        420548307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u9DWzuFa2qRAkPoSFAYId_37.504097_-77.510882@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907216,
-    "wof:geomhash":"654c57d3102cd87e5750f825c6cccc79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63f5aeb1ea4be2cfd15be01025737e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":420548307,
+            "region_id":85688747,
+            "venue_id":739432723
+        }
+    ],
     "wof:id":739432723,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492043057,
     "wof:name":"Pep Boys",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

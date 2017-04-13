@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.51782,37.595634,-77.51782,37.595634",
     "geom:latitude":37.595634,
     "geom:longitude":-77.51782,
@@ -31,17 +32,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eBrvHrXuHsghvNgaaFIHf_37.595634_-77.517820@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903584,
-    "wof:geomhash":"65f8f3b461b486e0c64b90276c965d83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5492923d6f66174fab3d01a903cc5721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739254317
+        }
+    ],
     "wof:id":739254317,
-    "wof:lastmodified":1472651096,
+    "wof:lastmodified":1492045560,
     "wof:name":"Engineering Design & Dev Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

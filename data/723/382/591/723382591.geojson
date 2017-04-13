@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.889738,36.994555,-79.889738,36.994555",
     "geom:latitude":36.994555,
     "geom:longitude":-79.889738,
@@ -31,17 +32,32 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bus8DtEw6wN1CQSFawh4l_36.994555_-79.889738@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900633,
-    "wof:geomhash":"a86a31723597c31190b40e4b84006dd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4755069287ccacaa1282514143834d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":723382591
+        }
+    ],
     "wof:id":723382591,
-    "wof:lastmodified":1472652127,
+    "wof:lastmodified":1492048928,
     "wof:name":"Farm Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

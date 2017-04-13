@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.746254,37.273567,-76.746254,37.273567",
     "geom:latitude":37.273567,
     "geom:longitude":-76.746254,
@@ -32,19 +33,32 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jV6Xk2LSJUASq8cGFkcaK_37.273567_-76.746254@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905151,
-    "wof:geomhash":"10763a0f49c43f1cd2fa31b7268cf3ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"febfb2954537f17691981623ad16d587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739328799
+        }
+    ],
     "wof:id":739328799,
-    "wof:lastmodified":1472651280,
+    "wof:lastmodified":1492040916,
     "wof:name":"Noland Company",
-    "wof:parent_id":420546911,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

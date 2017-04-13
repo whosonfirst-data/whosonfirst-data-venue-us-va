@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617756,38.194376,-77.617756,38.194376",
     "geom:latitude":38.194376,
     "geom:longitude":-77.617756,
@@ -28,7 +29,12 @@
     "sg:postcode":"22551",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D53G3lJMcPDaDSok3dWtz_38.194376_-77.617756@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912427,
     "wof:geomhash":"b4e9209560e3b1af54c00cae5d6be965",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694445
+        }
+    ],
     "wof:id":739694445,
-    "wof:lastmodified":1472652172,
+    "wof:lastmodified":1492030238,
     "wof:name":"Burr Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

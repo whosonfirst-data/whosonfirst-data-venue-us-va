@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.406505,38.439113,-77.406505,38.439113",
     "geom:latitude":38.439113,
     "geom:longitude":-77.406505,
@@ -31,17 +32,26 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wMA9jim2hC97AKW5uFBZk_38.439113_-77.406505@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902494,
-    "wof:geomhash":"ed1e4b426f810b1af01bb0f4cc946724",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dac2bce1e584741b5bfc030827ffbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547289,
+            "venue_id":723477875
+        }
+    ],
     "wof:id":723477875,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492057829,
     "wof:name":"Kelly & Assoc",
     "wof:parent_id":420547289,
     "wof:placetype":"venue",

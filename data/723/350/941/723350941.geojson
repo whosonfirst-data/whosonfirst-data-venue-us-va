@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.596914,37.454066,-77.596914,37.454066",
     "geom:latitude":37.454066,
     "geom:longitude":-77.596914,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729311,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iM1yNYTHtXslQoPnAO05n_37.454066_-77.596914@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900012,
-    "wof:geomhash":"3952fdcda23de504a29738d22f9d0962",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1f76bcd47e22f2ae20bdd21bb8047b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729311,
+            "region_id":85688747,
+            "venue_id":723350941
+        }
+    ],
     "wof:id":723350941,
-    "wof:lastmodified":1472652030,
+    "wof:lastmodified":1492053204,
     "wof:name":"William Kreye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

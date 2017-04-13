@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.396892,38.295863,-77.396892,38.295863",
     "geom:latitude":38.295863,
     "geom:longitude":-77.396892,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hmvq28NAxqcajg33rbmoj_38.295863_-77.396892@1303262546"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912402,
     "wof:geomhash":"fae3c74774cebeb3bbb106ad12a68b91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":739693101
+        }
+    ],
     "wof:id":739693101,
-    "wof:lastmodified":1472652163,
+    "wof:lastmodified":1492031378,
     "wof:name":"D R Bullock Const",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

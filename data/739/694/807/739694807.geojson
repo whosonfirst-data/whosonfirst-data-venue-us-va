@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.368168,38.512893,-77.368168,38.512893",
     "geom:latitude":38.512893,
     "geom:longitude":-77.368168,
@@ -37,7 +38,10 @@
     ],
     "sg:website":"http://www.npma-fuelnet.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BxR6R1oyZRXIwuKiBIVgj_38.512893_-77.368168@1303262547"
@@ -45,9 +49,15 @@
     "wof:country":"US",
     "wof:created":1461912435,
     "wof:geomhash":"91a54a816ddce5bde441cd16be9db5a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739694807
+        }
+    ],
     "wof:id":739694807,
-    "wof:lastmodified":1472652196,
+    "wof:lastmodified":1492030241,
     "wof:name":"The Keep Restaurant",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

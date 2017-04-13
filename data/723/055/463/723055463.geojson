@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.05839,38.775072,-77.05839,38.775072",
     "geom:latitude":38.775072,
     "geom:longitude":-77.05839,
@@ -37,6 +38,7 @@
         85633793,
         101729729,
         102084863,
+        420522787,
         85808309
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894118,
-    "wof:geomhash":"685332644f6a3b075d5e0a76c65e67d3",
+    "wof:geomhash":"56075a2b3c3b184d702f0c55f71ed3bd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729729,
+            "neighbourhood_id":420522787,
+            "region_id":85688747,
+            "venue_id":723055463
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723055463,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492058353,
     "wof:name":"Friendly Travel Inc",
-    "wof:parent_id":85808309,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

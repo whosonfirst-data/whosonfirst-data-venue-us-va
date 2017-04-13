@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880821,37.419865,-76.880821,37.419865",
     "geom:latitude":37.419865,
     "geom:longitude":-76.880821,
@@ -34,19 +35,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939,
+        420546761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wJKN0DRoEfFTSy0eAD8gW_37.419865_-76.880821@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889267,
-    "wof:geomhash":"3f9356571f27eafff02fd2c43575296a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3208c14d3ad4bed1466bc5758e8a83f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":722820319
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546761,
+            "venue_id":722820319
+        }
+    ],
     "wof:id":722820319,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492073924,
     "wof:name":"Jims Well Drilling & Pump Svc",
-    "wof:parent_id":420546939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

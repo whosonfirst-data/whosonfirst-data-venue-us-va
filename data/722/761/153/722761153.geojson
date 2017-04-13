@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.232806,36.754788,-80.232806,36.754788",
     "geom:latitude":36.754788,
     "geom:longitude":-80.232806,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dkm56YK21KVg37CdYypNm_36.754788_-80.232806@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888147,
-    "wof:geomhash":"ea682846949ea0141d6b29dc50dd7e24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e13b9b3f993e388933bae12e3b3a9877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":722761153
+        }
+    ],
     "wof:id":722761153,
-    "wof:lastmodified":1472651731,
+    "wof:lastmodified":1492074709,
     "wof:name":"Scott Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

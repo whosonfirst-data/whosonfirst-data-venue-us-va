@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.07485,36.775337,-82.07485,36.775337",
     "geom:latitude":36.775337,
     "geom:longitude":-82.07485,
@@ -31,17 +32,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bR913MhOfhjnRAI1taNIt_36.775337_-82.074850@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901582,
-    "wof:geomhash":"02f5a956bd2ad9b58b8f10715d976407",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e07296d5c2384e8330b8dc737f3b6698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723430843
+        }
+    ],
     "wof:id":723430843,
-    "wof:lastmodified":1472652266,
+    "wof:lastmodified":1492056720,
     "wof:name":"Sam Steffey",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

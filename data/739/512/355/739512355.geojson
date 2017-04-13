@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.56847,37.49349,-77.56847,37.49349",
     "geom:latitude":37.49349,
     "geom:longitude":-77.56847,
@@ -28,7 +29,12 @@
     "sg:postcode":"23236",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uqruLgJAVFxtM5j6XHEur_37.493490_-77.568470@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908653,
     "wof:geomhash":"3063b9f474705e33429fffb0d037c679",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739512355
+        }
+    ],
     "wof:id":739512355,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492031334,
     "wof:name":"Welist4less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

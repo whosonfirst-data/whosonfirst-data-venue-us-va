@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.982327,36.708002,-81.982327,36.708002",
     "geom:latitude":36.708002,
     "geom:longitude":-81.982327,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vy7B7PKoW5ySD9HdhoeiG_36.708002_-81.982327@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898703,
-    "wof:geomhash":"a1a5026168f55f7223246b1ff34e316f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c57209dcc0894ac5671a52b41564098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723281335
+        }
+    ],
     "wof:id":723281335,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492056452,
     "wof:name":"Netaccess",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.445461,37.088224,-76.445461,37.088224",
     "geom:latitude":37.088224,
     "geom:longitude":-76.445461,
@@ -28,7 +29,13 @@
     "sg:postcode":"23601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kWQJA3neLItc1AKIPy2yg_37.088224_-76.445461@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904277,
     "wof:geomhash":"d39668616f64cfbfe3d70b695df56159",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739286083
+        }
+    ],
     "wof:id":739286083,
-    "wof:lastmodified":1472651145,
+    "wof:lastmodified":1492030095,
     "wof:name":"Stratton Small Arms Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

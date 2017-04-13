@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.918508,36.577802,-78.918508,36.577802",
     "geom:latitude":36.577802,
     "geom:longitude":-78.918508,
@@ -31,7 +32,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yvF1KXOXER5fyjbP7Djhn_36.577802_-78.918508@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904566,
     "wof:geomhash":"384895a7967d2db61517c3b20e33e3da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739299597
+        }
+    ],
     "wof:id":739299597,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492032452,
     "wof:name":"Hyco Heights Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

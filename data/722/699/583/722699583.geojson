@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.131701,36.722635,-78.131701,36.722635",
     "geom:latitude":36.722635,
     "geom:longitude":-78.131701,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LJa1tL9efzWqtBxoL8cbn_36.722635_-78.131701@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886959,
-    "wof:geomhash":"80672a374b2b57035bc4e21a8ee73e2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99c51f292c81530624101ad11ed64e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":722699583
+        }
+    ],
     "wof:id":722699583,
-    "wof:lastmodified":1472651579,
+    "wof:lastmodified":1492069681,
     "wof:name":"Montgomery Interiors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

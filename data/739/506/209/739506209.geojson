@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.300218,38.726541,-77.300218,38.726541",
     "geom:latitude":38.726541,
     "geom:longitude":-77.300218,
@@ -28,7 +29,12 @@
     "sg:postcode":"22039",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MKbnCAxTSeYGl3bMAW8vE_38.726541_-77.300218@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908539,
     "wof:geomhash":"55139095422d307fabb58672f190256a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739506209
+        }
+    ],
     "wof:id":739506209,
-    "wof:lastmodified":1472651742,
+    "wof:lastmodified":1492032882,
     "wof:name":"Maxsa Innovations LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.382617,37.300058,-78.382617,37.300058",
     "geom:latitude":37.300058,
     "geom:longitude":-78.382617,
@@ -31,17 +32,32 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tFrofxf8rTWbTW77VlyL2_37.300058_-78.382617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897500,
-    "wof:geomhash":"4bb4f912d56f463466cf2fc2c123afbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"216a461c3f2ad6e2de779fde38fdc57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723220021
+        }
+    ],
     "wof:id":723220021,
-    "wof:lastmodified":1472651602,
+    "wof:lastmodified":1492051127,
     "wof:name":"Crossroads Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

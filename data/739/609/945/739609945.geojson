@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.622902,38.793499,-77.622902,38.793499",
     "geom:latitude":38.793499,
     "geom:longitude":-77.622902,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DYRixl2ywFvzHZWL03iEI_38.793499_-77.622902@1303262496"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910601,
     "wof:geomhash":"e4e949f435128baacee98c3b856113d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739609945
+        }
+    ],
     "wof:id":739609945,
-    "wof:lastmodified":1472651973,
+    "wof:lastmodified":1492032675,
     "wof:name":"Atler B Stanley & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

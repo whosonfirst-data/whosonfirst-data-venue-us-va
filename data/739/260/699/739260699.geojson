@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453481,38.689581,-77.453481,38.689581",
     "geom:latitude":38.689581,
     "geom:longitude":-77.453481,
@@ -28,7 +29,12 @@
     "sg:postcode":"20112",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HjS0aFrgdDEVod4qE2eko_38.689581_-77.453481@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903718,
     "wof:geomhash":"e10625f244c1aca8fdfb973b64c3c0a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739260699
+        }
+    ],
     "wof:id":739260699,
-    "wof:lastmodified":1472651124,
+    "wof:lastmodified":1492030877,
     "wof:name":"Floor World Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

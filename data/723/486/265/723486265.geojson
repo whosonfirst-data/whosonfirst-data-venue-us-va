@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.057859,38.347963,-77.057859,38.347963",
     "geom:latitude":38.347963,
     "geom:longitude":-77.057859,
@@ -32,17 +33,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729075,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1empwQX3YbmDVft60EDVNv_38.347963_-77.057859@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902655,
-    "wof:geomhash":"de7908277f7d0e37c0ed520f6ae76907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d89acde4518fe7d61b5e775831c713e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729075,
+            "region_id":85688747,
+            "venue_id":723486265
+        }
+    ],
     "wof:id":723486265,
-    "wof:lastmodified":1472652327,
+    "wof:lastmodified":1492053012,
     "wof:name":"Holiday Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

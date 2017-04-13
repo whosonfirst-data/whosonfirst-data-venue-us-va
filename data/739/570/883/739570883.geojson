@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564148,39.112492,-77.564148,39.112492",
     "geom:latitude":39.112492,
     "geom:longitude":-77.564148,
@@ -32,7 +33,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L1Li1k3TJFfHAZpoIKc74_39.112469_-77.564163@1293134755"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909798,
     "wof:geomhash":"6742ea1fff8410479a5e12d041e8776f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739570883
+        }
+    ],
     "wof:id":739570883,
-    "wof:lastmodified":1472651916,
+    "wof:lastmodified":1492031723,
     "wof:name":"Bowman Consulting Group, Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

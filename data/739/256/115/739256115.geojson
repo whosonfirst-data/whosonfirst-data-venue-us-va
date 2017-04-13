@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.192094,36.580642,-82.192094,36.580642",
     "geom:latitude":36.580642,
     "geom:longitude":-82.192094,
@@ -33,7 +34,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4csWT1YBK8VIrBJZDjjERE_36.580642_-82.192094@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461903622,
     "wof:geomhash":"c563fd16e43ae0b03684697dfb9f7287",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":739256115
+        }
+    ],
     "wof:id":739256115,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492031081,
     "wof:name":"Western Little League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

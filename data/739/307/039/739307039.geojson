@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.968015,36.999414,-79.968015,36.999414",
     "geom:latitude":36.999414,
     "geom:longitude":-79.968015,
@@ -31,7 +32,12 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q5Xm4EV6ADbn41rFfsIUE_36.999414_-79.968015@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904717,
     "wof:geomhash":"c7573f520c2e1a4921adbb0738702a68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739307039
+        }
+    ],
     "wof:id":739307039,
-    "wof:lastmodified":1472651191,
+    "wof:lastmodified":1492030009,
     "wof:name":"C-Tek Data Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

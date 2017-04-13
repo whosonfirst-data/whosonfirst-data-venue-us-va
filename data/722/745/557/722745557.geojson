@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.288973,38.876294,-77.288973,38.876294",
     "geom:latitude":38.876294,
     "geom:longitude":-77.288973,
@@ -34,19 +35,36 @@
         "analyzing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863,
+        85818477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c2e7IIXs77ZQr0rgboRNl_38.876294_-77.288973@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887851,
-    "wof:geomhash":"487a72b45d78aa8811f4088c91a4ee17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19e0a757ef6383fd53e74f493be2dbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "neighbourhood_id":85818477,
+            "region_id":85688747,
+            "venue_id":722745557
+        }
+    ],
     "wof:id":722745557,
-    "wof:lastmodified":1472651685,
+    "wof:lastmodified":1492072804,
     "wof:name":"U S Tech Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.516314,37.118907,-81.516314,37.118907",
     "geom:latitude":37.118907,
     "geom:longitude":-81.516314,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49lRmKy3LIzqWMDt5yN4ox_37.118907_-81.516314@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900294,
-    "wof:geomhash":"b39fbb46867dc32ffed92ea365dec222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d8b4b8cab922a3b37787d7703106895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723365439
+        }
+    ],
     "wof:id":723365439,
-    "wof:lastmodified":1472652055,
+    "wof:lastmodified":1492054921,
     "wof:name":"Tazewell Christian Church",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

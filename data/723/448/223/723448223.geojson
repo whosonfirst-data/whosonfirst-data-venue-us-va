@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.52418,37.137715,-76.52418,37.137715",
     "geom:latitude":37.137715,
     "geom:longitude":-76.52418,
@@ -34,6 +35,7 @@
         85633793,
         101729041,
         102085961,
+        85823827,
         85879239
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901914,
-    "wof:geomhash":"df898b21be643ce8ccd79e6d5984b8bd",
+    "wof:geomhash":"055e4295b64d3a8b0c5d70aecc59b403",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85823827,
+            "region_id":85688747,
+            "venue_id":723448223
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723448223,
-    "wof:lastmodified":1472652246,
+    "wof:lastmodified":1492052894,
     "wof:name":"Carter Ola Mae",
-    "wof:parent_id":85879239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

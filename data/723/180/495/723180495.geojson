@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.533188,37.353063,-79.533188,37.353063",
     "geom:latitude":37.353063,
     "geom:longitude":-79.533188,
@@ -32,17 +33,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FfDSMAVy1s88jD4gtqgHS_37.353063_-79.533188@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896691,
-    "wof:geomhash":"991104b6e558b804ff763e1cff5596ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69fd3b3fd0bd215ac1250a210354b146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723180495
+        }
+    ],
     "wof:id":723180495,
-    "wof:lastmodified":1472651528,
+    "wof:lastmodified":1492049167,
     "wof:name":"Gardner Financial Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.278264,37.839536,-76.278264,37.839536",
     "geom:latitude":37.839536,
     "geom:longitude":-76.278264,
@@ -38,7 +39,12 @@
     ],
     "sg:website":"http://www.fleetonfields.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F6Qu2w2pBF5OI0DgESmtW_37.839536_-76.278264@1303262547"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461912425,
     "wof:geomhash":"cc0b93c5a5a58e692330bea47ae27e97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694381
+        }
+    ],
     "wof:id":739694381,
-    "wof:lastmodified":1472652173,
+    "wof:lastmodified":1492030256,
     "wof:name":"Fleeton Fields",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942386,37.269928,-79.942386,37.269928",
     "geom:latitude":37.269928,
     "geom:longitude":-79.942386,
@@ -32,17 +33,32 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GekTmuGse0vnHdS96X3CX_37.269928_-79.942386@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901426,
-    "wof:geomhash":"2e7e86686cc9d2575d897148bc202efa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c46bd7cd163a602e50109b6618cd1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723423247
+        }
+    ],
     "wof:id":723423247,
-    "wof:lastmodified":1472652226,
+    "wof:lastmodified":1492050649,
     "wof:name":"M & C Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

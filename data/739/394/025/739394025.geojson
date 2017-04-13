@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.990903,36.706858,-81.990903,36.706858",
     "geom:latitude":36.706858,
     "geom:longitude":-81.990903,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XrbLQ1eqnmQA2wvawnsWl_36.706858_-81.990903@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906468,
     "wof:geomhash":"b37622abecb23716a60c01824a25ce3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739394025
+        }
+    ],
     "wof:id":739394025,
-    "wof:lastmodified":1472651436,
+    "wof:lastmodified":1492032990,
     "wof:name":"Division of Child Support Enfc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

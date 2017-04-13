@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.919118,38.249562,-77.919118,38.249562",
     "geom:latitude":38.249562,
     "geom:longitude":-77.919118,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59DJNX25p3UfYHyjIOECQB_38.249562_-77.919118@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901032,
-    "wof:geomhash":"361974f8022847f061cf2fb8ff429e56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f685a382f09800662a37416a90809582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "region_id":85688747,
+            "venue_id":723403051
+        }
+    ],
     "wof:id":723403051,
-    "wof:lastmodified":1472652144,
+    "wof:lastmodified":1492053353,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

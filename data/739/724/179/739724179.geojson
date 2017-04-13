@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.549067,37.531911,-77.549067,37.531911",
     "geom:latitude":37.531911,
     "geom:longitude":-77.549067,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"http://www.haveagreatface.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_446zzkMjgDVKxgcUNaDgik_37.531911_-77.549067@1303262550"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461913077,
     "wof:geomhash":"60cf719e5eebdb7eabf0736ce0b46f43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739724179
+        }
+    ],
     "wof:id":739724179,
-    "wof:lastmodified":1472652219,
+    "wof:lastmodified":1492030960,
     "wof:name":"Have A Great Face",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

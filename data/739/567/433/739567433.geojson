@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520388,36.961249,-76.520388,36.961249",
     "geom:latitude":36.961249,
     "geom:longitude":-76.520388,
@@ -31,17 +32,32 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eArPJ7PRWxSyoJ0BjoLjq_36.961337_-76.520034@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909720,
-    "wof:geomhash":"e0a0bb71b6cf40fa19115e7e761f7f86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43823e9b983ff309ce0ba41fb6b009fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739567433
+        }
+    ],
     "wof:id":739567433,
-    "wof:lastmodified":1472651892,
+    "wof:lastmodified":1492045245,
     "wof:name":"Phangs Raceway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

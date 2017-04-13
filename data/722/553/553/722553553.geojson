@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.461049,38.467743,-77.461049,38.467743",
     "geom:latitude":38.467743,
     "geom:longitude":-77.461049,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01zBi0oh2Qmc2gNpfvHBGW_38.467743_-77.461049@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884076,
-    "wof:geomhash":"8612f241810e9d1f104b85c68cad752c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93ba7a9df63d6e380a9f9c025bac52b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547279,
+            "venue_id":722553553
+        }
+    ],
     "wof:id":722553553,
-    "wof:lastmodified":1472651105,
+    "wof:lastmodified":1492074185,
     "wof:name":"Winding Creek Community Church",
     "wof:parent_id":420547279,
     "wof:placetype":"venue",

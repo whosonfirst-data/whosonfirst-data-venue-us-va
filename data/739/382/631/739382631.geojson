@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.565246,38.711735,-77.565246,38.711735",
     "geom:latitude":38.711735,
     "geom:longitude":-77.565246,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JcmwBb3gU2schFlFTIt4t_38.711735_-77.565246@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906244,
     "wof:geomhash":"a632696763c4aeec8b5c39a440585bd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":739382631
+        }
+    ],
     "wof:id":739382631,
-    "wof:lastmodified":1472651364,
+    "wof:lastmodified":1492030649,
     "wof:name":"Alcaid Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

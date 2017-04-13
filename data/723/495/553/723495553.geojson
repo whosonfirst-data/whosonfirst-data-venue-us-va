@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.820323,37.522046,-77.820323,37.522046",
     "geom:latitude":37.522046,
     "geom:longitude":-77.820323,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_598sNcrtOvvxGe36lZC6Be_37.522046_-77.820323@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902849,
-    "wof:geomhash":"14985d938ff87ecb31e4a428ae7ee5ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"260630d85e7f25bb804e49d8edeb5fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":723495553
+        }
+    ],
     "wof:id":723495553,
-    "wof:lastmodified":1472652342,
+    "wof:lastmodified":1492053266,
     "wof:name":"Country Living Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

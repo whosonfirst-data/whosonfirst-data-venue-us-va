@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.058831,37.293566,-80.058831,37.293566",
     "geom:latitude":37.293566,
     "geom:longitude":-80.058831,
@@ -31,17 +32,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EAoddXOV2PkZY29iQQLPY_37.293566_-80.058831@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893780,
-    "wof:geomhash":"81af3bab70fe7d2be6a8e7f6e8420f69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edd386f2d28a2354de388b41b0717546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723038561
+        }
+    ],
     "wof:id":723038561,
-    "wof:lastmodified":1472651171,
+    "wof:lastmodified":1492060722,
     "wof:name":"Salem Voter Registration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

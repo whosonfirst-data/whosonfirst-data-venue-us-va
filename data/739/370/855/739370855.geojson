@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.010854,36.76049,-77.010854,36.76049",
     "geom:latitude":36.76049,
     "geom:longitude":-77.010854,
@@ -32,7 +33,12 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D4vXkEjZExS6Q8mFauDaz_36.760490_-77.010854@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906011,
     "wof:geomhash":"7b0e1c4d748e5fda36aeeeb01345e4c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":739370855
+        }
+    ],
     "wof:id":739370855,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492031010,
     "wof:name":"Craftec Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.512245,37.340259,-79.512245,37.340259",
     "geom:latitude":37.340259,
     "geom:longitude":-79.512245,
@@ -31,17 +32,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tVVluM1HbBYp82vQ9CMHU_37.340259_-79.512245@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894649,
-    "wof:geomhash":"de46f8cad78cef5ca88566f8aca5b457",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c3f3ff73fa65dab170f30d16210056f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723078341
+        }
+    ],
     "wof:id":723078341,
-    "wof:lastmodified":1472651261,
+    "wof:lastmodified":1492057053,
     "wof:name":"Bedford City Cemeteries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

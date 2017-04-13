@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.989211,36.701099,-81.989211,36.701099",
     "geom:latitude":36.701099,
     "geom:longitude":-81.989211,
@@ -33,9 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420547307,
         85688747,
         102191575,
-        85633793,
         101728829,
         102087301,
         85847903
@@ -46,8 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461898680,
-    "wof:geomhash":"ecaaec4513c3f7c8e5333c41ee78e06a",
+    "wof:geomhash":"a7f6c65a0670f43d3b8a7908d37642fe",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723280107
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +66,9 @@
         }
     ],
     "wof:id":723280107,
-    "wof:lastmodified":1472651733,
+    "wof:lastmodified":1492054107,
     "wof:name":"W-L Construction",
-    "wof:parent_id":85847903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

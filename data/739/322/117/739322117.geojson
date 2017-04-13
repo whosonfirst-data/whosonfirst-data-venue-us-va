@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.364961,38.990039,-78.364961,38.990039",
     "geom:latitude":38.990039,
     "geom:longitude":-78.364961,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TJWI77a9DD3XfB1kgDWrr_38.990039_-78.364961@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905018,
-    "wof:geomhash":"343dd8602e9c4e076ee2e3470a436651",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6271e43755d53a31251a9a07793639de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":739322117
+        }
+    ],
     "wof:id":739322117,
-    "wof:lastmodified":1472651252,
+    "wof:lastmodified":1492043318,
     "wof:name":"Systems Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

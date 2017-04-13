@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.63751,39.273698,-77.63751,39.273698",
     "geom:latitude":39.273698,
     "geom:longitude":-77.63751,
@@ -40,7 +41,13 @@
         "churches-church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728819,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w4FT48TDHKhJ6oTHrW13p_39.273698_-77.637510@1303262497"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461910757,
     "wof:geomhash":"6f6f837c8868bf8148f16ab4555d1eec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728819,
+            "region_id":85688747,
+            "venue_id":739616975
+        }
+    ],
     "wof:id":739616975,
-    "wof:lastmodified":1472652017,
+    "wof:lastmodified":1492029673,
     "wof:name":"St. James United Church of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

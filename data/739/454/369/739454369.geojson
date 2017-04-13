@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.61497,38.432882,-77.61497,38.432882",
     "geom:latitude":38.432882,
     "geom:longitude":-77.61497,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_286f2h2jhWTKNnj7VgOblT_38.432882_-77.614970@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907618,
-    "wof:geomhash":"ab7442d68f8e0e5c7f37ab2aa2b80e05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abb7add4206282ee6a02bc5fabdbecc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546729,
+            "venue_id":739454369
+        }
+    ],
     "wof:id":739454369,
-    "wof:lastmodified":1472651575,
+    "wof:lastmodified":1492042529,
     "wof:name":"Comfort One",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

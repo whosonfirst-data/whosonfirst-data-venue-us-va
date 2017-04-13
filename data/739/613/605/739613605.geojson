@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635577,38.811753,-77.635577,38.811753",
     "geom:latitude":38.811753,
     "geom:longitude":-77.635577,
@@ -48,7 +49,13 @@
     ],
     "sg:website":"http://www.nationwide.com/agent/Haymarket-VIRGINIA-insurance-agent/petewebb/office.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NClVctVvyeYxsrMLadsAF_38.811753_-77.635577@1303262496"
@@ -56,9 +63,18 @@
     "wof:country":"US",
     "wof:created":1461910677,
     "wof:geomhash":"626253421a6ad585c5029526bbc0a6db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613605
+        }
+    ],
     "wof:id":739613605,
-    "wof:lastmodified":1472651998,
+    "wof:lastmodified":1492032426,
     "wof:name":"Peter Verne Webb Agency - Nationwide Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

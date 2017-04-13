@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441122,38.685995,-77.441122,38.685995",
     "geom:latitude":38.685995,
     "geom:longitude":-77.441122,
@@ -32,17 +33,30 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZPGAm6NyJ94Si0fKzaOUN_38.685995_-77.441122@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901820,
-    "wof:geomhash":"1014000038266c9be0768a42bb818672",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9acb7a851ab11fc0a80869e065d8bb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723443007
+        }
+    ],
     "wof:id":723443007,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492053697,
     "wof:name":"Dog World Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

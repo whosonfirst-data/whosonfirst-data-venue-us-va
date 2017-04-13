@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.166585,39.181331,-78.166585,39.181331",
     "geom:latitude":39.181331,
     "geom:longitude":-78.166585,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D4y7tAkeKrjZGLejLEdEa_39.181331_-78.166585@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884224,
-    "wof:geomhash":"5049ec50170f04b1d72e9aadd06c8b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07016b142219c33a277130bfd74e21b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722560803
+        }
+    ],
     "wof:id":722560803,
-    "wof:lastmodified":1472651124,
+    "wof:lastmodified":1492063185,
     "wof:name":"Kellerco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440386,38.82792,-77.440386,38.82792",
     "geom:latitude":38.82792,
     "geom:longitude":-77.440386,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"http://www.sears.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_078fw7zaluVMKikRTVNl2u_38.827748_-77.439836@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909475,
-    "wof:geomhash":"2d4010226c3508c5ae306d8e833dab49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45daaf3d347819e391031b05e9aeda01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739555819
+        }
+    ],
     "wof:id":739555819,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492044420,
     "wof:name":"Sears Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

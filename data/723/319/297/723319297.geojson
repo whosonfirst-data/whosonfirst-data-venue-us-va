@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.16083,39.198216,-78.16083,39.198216",
     "geom:latitude":39.198216,
     "geom:longitude":-78.16083,
@@ -40,17 +41,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kdqHNk9lzXqbIHvvwqWL1_39.198216_-78.160830@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899437,
-    "wof:geomhash":"85e3315290c2b211fbf6b7fbfda21f79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db60974db6775300ed6037fddadf88e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723319297
+        }
+    ],
     "wof:id":723319297,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492049711,
     "wof:name":"North Side Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

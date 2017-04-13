@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.395741,37.258909,-80.395741,37.258909",
     "geom:latitude":37.258909,
     "geom:longitude":-80.395741,
@@ -32,17 +33,26 @@
         "excavating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FeWbTbrgnT5hD00FxNqpZ_37.258909_-80.395741@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884411,
-    "wof:geomhash":"5ef551693dcbce9a5a7bfe2960382043",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9315288d333f33acdf36a65f182776d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":722570057
+        }
+    ],
     "wof:id":722570057,
-    "wof:lastmodified":1472651149,
+    "wof:lastmodified":1492065092,
     "wof:name":"Epperley Excavating",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

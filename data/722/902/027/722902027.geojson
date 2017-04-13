@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.515753,38.022617,-77.515753,38.022617",
     "geom:latitude":38.022617,
     "geom:longitude":-77.515753,
@@ -34,17 +35,30 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76J3jUjLZxew5DYWm4TS1m_38.022617_-77.515753@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890829,
-    "wof:geomhash":"a98c04b7c27deb8404471a3a73aca1b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"640187ea50e4a7cf2f86a350d12426f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":722902027
+        }
+    ],
     "wof:id":722902027,
-    "wof:lastmodified":1472652052,
+    "wof:lastmodified":1492074368,
     "wof:name":"Movie Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

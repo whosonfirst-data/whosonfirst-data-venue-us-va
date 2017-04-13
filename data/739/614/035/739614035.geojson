@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.626701,38.8354,-77.626701,38.8354",
     "geom:latitude":38.8354,
     "geom:longitude":-77.626701,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.stonewallmemorygardens.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M2rY7bgO91VZkpFaSdgkP_38.835400_-77.626701@1303262496"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910691,
     "wof:geomhash":"f718d35bcaf88ab74c6908a158233f8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739614035
+        }
+    ],
     "wof:id":739614035,
-    "wof:lastmodified":1472651979,
+    "wof:lastmodified":1492031519,
     "wof:name":"Stonewall Memory Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

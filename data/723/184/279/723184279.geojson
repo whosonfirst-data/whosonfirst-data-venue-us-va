@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.997666,36.70493,-81.997666,36.70493",
     "geom:latitude":36.70493,
     "geom:longitude":-81.997666,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ejrZTzB4xbURAmnuBGsyI_36.704930_-81.997666@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896773,
-    "wof:geomhash":"18106190dcbffb3b1ee6926d68169f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e594b19b61d482da0419051d1f5afcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723184279
+        }
+    ],
     "wof:id":723184279,
-    "wof:lastmodified":1472651509,
+    "wof:lastmodified":1492056120,
     "wof:name":"Biscuit Connection",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

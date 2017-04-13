@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.008672,36.699209,-82.008672,36.699209",
     "geom:latitude":36.699209,
     "geom:longitude":-82.008672,
@@ -31,17 +32,26 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79HSbn7KJy9MrjxQ5l1m1b_36.699209_-82.008672@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884826,
-    "wof:geomhash":"eeb1b0cc2ef2fc3b87c3bfedf3dce20d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"322125a3046c298f5369817c06225347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722592013
+        }
+    ],
     "wof:id":722592013,
-    "wof:lastmodified":1472651191,
+    "wof:lastmodified":1492069951,
     "wof:name":"Light Milling Co Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

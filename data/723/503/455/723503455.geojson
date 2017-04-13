@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.229935,38.226093,-78.229935,38.226093",
     "geom:latitude":38.226093,
     "geom:longitude":-78.229935,
@@ -37,17 +38,30 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ynFcFaRWe6NeQ65BtdANj_38.226093_-78.229935@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903031,
-    "wof:geomhash":"3b92d2f4fd3d5b1d7a0ad05f4ae5b48f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9479ead2d1fd4dd62fd1d8b4fd28f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "region_id":85688747,
+            "venue_id":723503455
+        }
+    ],
     "wof:id":723503455,
-    "wof:lastmodified":1472652345,
+    "wof:lastmodified":1492050856,
     "wof:name":"Js Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

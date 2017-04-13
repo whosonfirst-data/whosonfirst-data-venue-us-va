@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.439553,37.015754,-76.439553,37.015754",
     "geom:latitude":37.015754,
     "geom:longitude":-76.439553,
@@ -37,6 +38,9 @@
         85688747,
         102191575,
         85633793,
+        101728661,
+        102084913,
+        85879223,
         101729041,
         102085961,
         85879225
@@ -47,8 +51,17 @@
     },
     "wof:country":"US",
     "wof:created":1461895598,
-    "wof:geomhash":"6b38a84a8f13fbe53309c9e5cc33c35d",
+    "wof:geomhash":"823a0703a0e17fc5d2c65f17762e6396",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85879223,
+            "region_id":85688747,
+            "venue_id":723124617
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +73,9 @@
         }
     ],
     "wof:id":723124617,
-    "wof:lastmodified":1472651385,
+    "wof:lastmodified":1492055119,
     "wof:name":"Riverland Apartments",
-    "wof:parent_id":85879225,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

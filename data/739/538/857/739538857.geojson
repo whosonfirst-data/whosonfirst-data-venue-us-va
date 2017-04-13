@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365443,38.491606,-77.365443,38.491606",
     "geom:latitude":38.491606,
     "geom:longitude":-77.365443,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gzkb7OQCeRzVM5mjDSXnO_38.491606_-77.365443@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461909134,
     "wof:geomhash":"0a78b13b94a34cea4bf9ba6dd344d5a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739538857
+        }
+    ],
     "wof:id":739538857,
-    "wof:lastmodified":1472651843,
+    "wof:lastmodified":1492029875,
     "wof:name":"D JS Concrete",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

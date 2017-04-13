@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.304607,38.821341,-77.304607,38.821341",
     "geom:latitude":38.821341,
     "geom:longitude":-77.304607,
@@ -26,7 +27,13 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Pz1Hh4WcWRTJR2U9M9qKF_38.821341_-77.304607@1294252573"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461909680,
     "wof:geomhash":"c7e808cc191bdca901e99997039b8e3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739565925
+        }
+    ],
     "wof:id":739565925,
-    "wof:lastmodified":1472651908,
+    "wof:lastmodified":1492032782,
     "wof:name":"Pet Gallery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

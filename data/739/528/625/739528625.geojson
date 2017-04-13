@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.989359,36.70619,-81.989359,36.70619",
     "geom:latitude":36.70619,
     "geom:longitude":-81.989359,
@@ -31,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UXsya8azKlbgGxkS8Xnbb_36.706190_-81.989359@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908955,
     "wof:geomhash":"21226c7d9eab7851fb520e682cd7be10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739528625
+        }
+    ],
     "wof:id":739528625,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492032518,
     "wof:name":"Friendship Home Health Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

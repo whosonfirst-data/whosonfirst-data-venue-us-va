@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441383,38.309432,-77.441383,38.309432",
     "geom:latitude":38.309432,
     "geom:longitude":-77.441383,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MZIScycOlQwm1rFNHvQFM_38.309432_-77.441383@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895388,
-    "wof:geomhash":"6ac9aefa6302be466c0cf6fd3eecbbc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"554d0da293012dbb6ccd51895c10ca9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723113441
+        }
+    ],
     "wof:id":723113441,
-    "wof:lastmodified":1472651346,
+    "wof:lastmodified":1492055822,
     "wof:name":"K R Construction",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

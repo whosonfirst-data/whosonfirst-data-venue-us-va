@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.655504,36.857155,-81.655504,36.857155",
     "geom:latitude":36.857155,
     "geom:longitude":-81.655504,
@@ -28,7 +29,12 @@
     "sg:postcode":"24354",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35AYbSUNqrKG7XGrGqkuIR_36.857155_-81.655504@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907567,
     "wof:geomhash":"55895b5668e35fe7c9add3e4950d4d96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085957,
+            "region_id":85688747,
+            "venue_id":739451379
+        }
+    ],
     "wof:id":739451379,
-    "wof:lastmodified":1472651569,
+    "wof:lastmodified":1492031167,
     "wof:name":"Wesley Eller Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

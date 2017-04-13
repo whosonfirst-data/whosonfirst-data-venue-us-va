@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.444052,37.662707,-77.444052,37.662707",
     "geom:latitude":37.662707,
     "geom:longitude":-77.444052,
@@ -31,17 +32,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yXqfLM0Rufd6uSTfnNnV5_37.662707_-77.444052@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887346,
-    "wof:geomhash":"5dba41b6fdf6f1e667c7d522365b07ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4d41f85c8ecfaf137ae58a37b6ba8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722720297
+        }
+    ],
     "wof:id":722720297,
-    "wof:lastmodified":1472651616,
+    "wof:lastmodified":1492069088,
     "wof:name":"Links Apartment Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

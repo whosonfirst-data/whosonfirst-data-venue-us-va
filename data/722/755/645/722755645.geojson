@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346409,38.050267,-77.346409,38.050267",
     "geom:latitude":38.050267,
     "geom:longitude":-77.346409,
@@ -28,17 +29,32 @@
     "sg:postcode":"22427",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728811,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LjhUFWeBzrJWy2IZ7adj7_38.050267_-77.346409@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888041,
-    "wof:geomhash":"08d301549495acc903762ad09d16db95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02775c8aa932caf94cdb32ab60dd42b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101728811,
+            "region_id":85688747,
+            "venue_id":722755645
+        }
+    ],
     "wof:id":722755645,
-    "wof:lastmodified":1472651717,
+    "wof:lastmodified":1492069209,
     "wof:name":"Caroline County Voter Rgstrtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

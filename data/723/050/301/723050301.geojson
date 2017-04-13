@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.489413,37.582544,-77.489413,37.582544",
     "geom:latitude":37.582544,
     "geom:longitude":-77.489413,
@@ -31,17 +32,30 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13w2AU9jz7dWsDAT640wA7_37.582544_-77.489413@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894013,
-    "wof:geomhash":"617ed2f250d5a02ea29f919c469e918c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da4917df126ef5c9e7203a61f5bc1c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723050301
+        }
+    ],
     "wof:id":723050301,
-    "wof:lastmodified":1472651213,
+    "wof:lastmodified":1492062285,
     "wof:name":"Capital One Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358349,38.397324,-77.358349,38.397324",
     "geom:latitude":38.397324,
     "geom:longitude":-77.358349,
@@ -31,7 +32,10 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04PrvgwPSMpfqIggm93nTh_38.397324_-77.358349@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908531,
     "wof:geomhash":"49511b8418486994b8fc081e6d0889e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":739505717
+        }
+    ],
     "wof:id":739505717,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492032228,
     "wof:name":"Courthouse Rd Bed & Breakfast",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

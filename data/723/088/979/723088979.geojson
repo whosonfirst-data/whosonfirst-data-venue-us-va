@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.388655,39.051106,-77.388655,39.051106",
     "geom:latitude":39.051106,
     "geom:longitude":-77.388655,
@@ -32,17 +33,32 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11s3QZB0gqUlKEvFLPNAS0_39.051106_-77.388655@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894899,
-    "wof:geomhash":"0b8e8513fef19af86970e0146bd760ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"044c27c2a2725c10dfa7106b2c2b5474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":723088979
+        }
+    ],
     "wof:id":723088979,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492054554,
     "wof:name":"Select Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

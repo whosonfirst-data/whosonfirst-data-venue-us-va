@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.66187,39.133949,-77.66187,39.133949",
     "geom:latitude":39.133949,
     "geom:longitude":-77.66187,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728825,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RMgRg5KrKNU47ep3jEuFR_39.133949_-77.661870@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883959,
-    "wof:geomhash":"724a31521b4aaa93ed4560af3cf696ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dcab5bca8a6e2d758190530766e9970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728825,
+            "region_id":85688747,
+            "venue_id":722547995
+        }
+    ],
     "wof:id":722547995,
-    "wof:lastmodified":1472651112,
+    "wof:lastmodified":1492062511,
     "wof:name":"Auto Link",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

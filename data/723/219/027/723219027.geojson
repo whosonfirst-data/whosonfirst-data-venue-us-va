@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517549,38.359164,-77.517549,38.359164",
     "geom:latitude":38.359164,
     "geom:longitude":-77.517549,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_080NShesCFB1qgPp054byy_38.359164_-77.517549@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897460,
-    "wof:geomhash":"1ca8886b38f1df458f707476ca26fd9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d83bb1b15ef2b1b65d2fa441ddb7072b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":723219027
+        }
+    ],
     "wof:id":723219027,
-    "wof:lastmodified":1472651600,
+    "wof:lastmodified":1492055187,
     "wof:name":"International Truck & Eng Corp",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

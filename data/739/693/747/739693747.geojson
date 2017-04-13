@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437139,38.261223,-77.437139,38.261223",
     "geom:latitude":38.261223,
     "geom:longitude":-77.437139,
@@ -50,7 +51,12 @@
     ],
     "sg:website":"https://smclean.custhelp.com/cgi-bin/smclean.cfg/php/enduser/doc_serve.php?2=BSYellowPages09",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37VCyYYra3NMYOrPjtwOgV_38.261223_-77.437139@1303262547"
@@ -58,9 +64,17 @@
     "wof:country":"US",
     "wof:created":1461912414,
     "wof:geomhash":"c5f3a961a62bbb83106010d8936234cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693747
+        }
+    ],
     "wof:id":739693747,
-    "wof:lastmodified":1472652185,
+    "wof:lastmodified":1492031381,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

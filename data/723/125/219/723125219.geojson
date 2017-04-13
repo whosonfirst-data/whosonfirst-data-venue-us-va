@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.431051,38.363583,-77.431051,38.363583",
     "geom:latitude":38.363583,
     "geom:longitude":-77.431051,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MUwPI8S7XxVbGtktFAH48_38.363583_-77.431051@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895607,
-    "wof:geomhash":"7be36f30ac9cbdc09dbd9477ba16b1e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86a15d37e4dc5363fd27a1ffc4dcb87b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":723125219
+        }
+    ],
     "wof:id":723125219,
-    "wof:lastmodified":1472651378,
+    "wof:lastmodified":1492060631,
     "wof:name":"Johnsons Carpentry",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.940675,37.269896,-79.940675,37.269896",
     "geom:latitude":37.269896,
     "geom:longitude":-79.940675,
@@ -32,17 +33,32 @@
         "airline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pGDmqneP3xDittqLIfYsh_37.269896_-79.940675@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895180,
-    "wof:geomhash":"c1edac8c777012c8bfdeb7359e8d42fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24849edf55ddd8ecb8239a3442326552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723103171
+        }
+    ],
     "wof:id":723103171,
-    "wof:lastmodified":1472651320,
+    "wof:lastmodified":1492055489,
     "wof:name":"US Airways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

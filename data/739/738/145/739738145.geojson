@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.375095,37.135881,-80.375095,37.135881",
     "geom:latitude":37.135881,
     "geom:longitude":-80.375095,
@@ -33,17 +34,26 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1koIuBjJb6HqCDMLW5aCnI_37.135881_-80.375095@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913387,
-    "wof:geomhash":"fa6c54916e3aedf0635c39dc6c350cd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c778bc8b02d776388d74ef49f431ad1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546957,
+            "venue_id":739738145
+        }
+    ],
     "wof:id":739738145,
-    "wof:lastmodified":1472652219,
+    "wof:lastmodified":1492043687,
     "wof:name":"E Parties",
     "wof:parent_id":420546957,
     "wof:placetype":"venue",

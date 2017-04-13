@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.515842,38.023914,-77.515842,38.023914",
     "geom:latitude":38.023914,
     "geom:longitude":-77.515842,
@@ -31,7 +32,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MDBcd9u5Ulb7erFKWJZMq_38.023914_-77.515842@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907698,
     "wof:geomhash":"36e7ce3fea56f5b588a268e4ad4a4a44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739458859
+        }
+    ],
     "wof:id":739458859,
-    "wof:lastmodified":1472651598,
+    "wof:lastmodified":1492030041,
     "wof:name":"J & M Automotives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

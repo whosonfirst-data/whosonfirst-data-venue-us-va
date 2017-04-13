@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273135,38.867367,-77.273135,38.867367",
     "geom:latitude":38.867367,
     "geom:longitude":-77.273135,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.aapc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10RmkIsxM1O4AlRLhLAyxS_38.867367_-77.273135@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898893,
-    "wof:geomhash":"071efd51e68dc782cc1c43829d1ff60a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adbc8983ccb062a4543e29ecf782babc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":723291015
+        }
+    ],
     "wof:id":723291015,
-    "wof:lastmodified":1472651716,
+    "wof:lastmodified":1492054923,
     "wof:name":"American Association-Pastoral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.633522,37.506008,-77.633522,37.506008",
     "geom:latitude":37.506008,
     "geom:longitude":-77.633522,
@@ -31,7 +32,12 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LdDxtBPdLQ90vo3UtqqK1_37.505905_-77.633394@1293134755"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909672,
     "wof:geomhash":"27583d97b8649c7865456e8f124bc34f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739565441
+        }
+    ],
     "wof:id":739565441,
-    "wof:lastmodified":1472651889,
+    "wof:lastmodified":1492032785,
     "wof:name":"E Music Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

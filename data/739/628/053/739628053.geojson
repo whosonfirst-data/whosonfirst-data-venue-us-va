@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.135201,38.8489,-77.135201,38.8489",
     "geom:latitude":38.8489,
     "geom:longitude":-77.135201,
@@ -28,7 +29,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ilCc5Mu4hiv1mEvkwZPR0_38.848900_-77.135201@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910992,
     "wof:geomhash":"1aad7de1c6d4a3c65267dd50c47334a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739628053
+        }
+    ],
     "wof:id":739628053,
-    "wof:lastmodified":1472651982,
+    "wof:lastmodified":1492030500,
     "wof:name":"Powerhouse Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

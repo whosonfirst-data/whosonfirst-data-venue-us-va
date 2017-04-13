@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.573718,38.423772,-77.573718,38.423772",
     "geom:latitude":38.423772,
     "geom:longitude":-77.573718,
@@ -31,7 +32,10 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09mHWaYtkBcdqJXqaDBD7F_38.423772_-77.573718@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907010,
     "wof:geomhash":"ddfa059b31a4f989b99e31a9f4442f1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547231,
+            "venue_id":739422125
+        }
+    ],
     "wof:id":739422125,
-    "wof:lastmodified":1472651500,
+    "wof:lastmodified":1492031226,
     "wof:name":"Hartwood Winery Inc",
     "wof:parent_id":420547231,
     "wof:placetype":"venue",

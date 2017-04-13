@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.51307,37.593228,-77.51307,37.593228",
     "geom:latitude":37.593228,
     "geom:longitude":-77.51307,
@@ -29,17 +30,30 @@
     "sg:province":"VA",
     "sg:website":"http://www.vataxinow.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Bf8Qoxz3UQSZu7kzh662p_37.593228_-77.513070@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912959,
-    "wof:geomhash":"e8089f264ac885cf8f30ea1f8f96442b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f02c50d496e68f78b6467620678e24d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739718395
+        }
+    ],
     "wof:id":739718395,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492045408,
     "wof:name":"VA Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

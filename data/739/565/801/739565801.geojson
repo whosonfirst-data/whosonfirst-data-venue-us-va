@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.025967,36.610233,-82.025967,36.610233",
     "geom:latitude":36.610233,
     "geom:longitude":-82.025967,
@@ -26,7 +27,10 @@
         "tobacco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oqW0uf02DN6XNT4YvlM0A_36.610233_-82.025967@1294252573"
@@ -34,9 +38,15 @@
     "wof:country":"US",
     "wof:created":1461909678,
     "wof:geomhash":"e01236822df815cd401605941d2265d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739565801
+        }
+    ],
     "wof:id":739565801,
-    "wof:lastmodified":1472651906,
+    "wof:lastmodified":1492032776,
     "wof:name":"Clifton Dollar",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

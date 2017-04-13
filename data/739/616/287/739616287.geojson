@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.536825,39.113603,-77.536825,39.113603",
     "geom:latitude":39.113603,
     "geom:longitude":-77.536825,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"http://www.hancockfabrics.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Yzo2MrigBWQfnINssVzur_39.113603_-77.536825@1303262497"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461910741,
     "wof:geomhash":"3a1a92a0931a7efa8c1141925119333b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616287
+        }
+    ],
     "wof:id":739616287,
-    "wof:lastmodified":1472651985,
+    "wof:lastmodified":1492029681,
     "wof:name":"Hancock Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

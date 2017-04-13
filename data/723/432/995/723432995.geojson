@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.398555,37.198341,-77.398555,37.198341",
     "geom:latitude":37.198341,
     "geom:longitude":-77.398555,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Lt8nYhxPLyVYgpk5RQDkX_37.198341_-77.398555@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901620,
-    "wof:geomhash":"b431ab5d69eb4a5d08e292453a6750d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0583be69b78d3ed0265a36def3ca5a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723432995
+        }
+    ],
     "wof:id":723432995,
-    "wof:lastmodified":1472652270,
+    "wof:lastmodified":1492058368,
     "wof:name":"Westover Commons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

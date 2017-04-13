@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526182,36.933056,-76.526182,36.933056",
     "geom:latitude":36.933056,
     "geom:longitude":-76.526182,
@@ -32,17 +33,32 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BIv6H6p7ieMbTBaKTnUFa_36.933056_-76.526182@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889040,
-    "wof:geomhash":"064a2e7fe21b567e484f1c1375f7ec68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4b3da691d706ccb5bb51778be64d703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":722808533
+        }
+    ],
     "wof:id":722808533,
-    "wof:lastmodified":1472651865,
+    "wof:lastmodified":1492063365,
     "wof:name":"Patriot Disposal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

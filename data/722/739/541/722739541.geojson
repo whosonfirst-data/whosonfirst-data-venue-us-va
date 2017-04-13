@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.896922,38.40051,-78.896922,38.40051",
     "geom:latitude":38.40051,
     "geom:longitude":-78.896922,
@@ -31,17 +32,32 @@
         "salt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AMV04c0T7DQmO9IGAzF0F_38.400510_-78.896922@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887737,
-    "wof:geomhash":"1b5ebf02a9a7d11a58714cb68f0863a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36dceadf91051aeba17486fb1346ad61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722739541
+        }
+    ],
     "wof:id":722739541,
-    "wof:lastmodified":1472651677,
+    "wof:lastmodified":1492067349,
     "wof:name":"North South Salt Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.021647,36.680591,-82.021647,36.680591",
     "geom:latitude":36.680591,
     "geom:longitude":-82.021647,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XDFTU2gb2myH542diNAFq_36.680591_-82.021647@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883877,
-    "wof:geomhash":"f21b3be9ab663e0c87c5893f455858d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49123ace33cfe5fe5cf0212422343dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722543525
+        }
+    ],
     "wof:id":722543525,
-    "wof:lastmodified":1472651080,
+    "wof:lastmodified":1492065704,
     "wof:name":"Beverly Builders Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

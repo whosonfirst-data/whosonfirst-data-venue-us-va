@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500524,38.776642,-77.500524,38.776642",
     "geom:latitude":38.776642,
     "geom:longitude":-77.500524,
@@ -28,7 +29,13 @@
     "sg:postcode":"20109",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QbeQqiEmzR6Zp8P7IjqvV_38.776642_-77.500524@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906848,
     "wof:geomhash":"7789c3f16821839ec6b1e2eac7a240dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739414515
+        }
+    ],
     "wof:id":739414515,
-    "wof:lastmodified":1472651483,
+    "wof:lastmodified":1492032394,
     "wof:name":"Cordys Deli & Grocery Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

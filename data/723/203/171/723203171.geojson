@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.07672,36.753427,-78.07672,36.753427",
     "geom:latitude":36.753427,
     "geom:longitude":-78.07672,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wzUEg4hoEK06DVHGfAt0Y_36.753427_-78.076720@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897133,
-    "wof:geomhash":"149c2ad51da2a6c9e57e11d858cc5d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"586a265f29c6795d1867705ea348cbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":723203171
+        }
+    ],
     "wof:id":723203171,
-    "wof:lastmodified":1472651599,
+    "wof:lastmodified":1492051012,
     "wof:name":"Electrical Modifications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

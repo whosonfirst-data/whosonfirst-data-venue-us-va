@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.420337,36.850718,-76.420337,36.850718",
     "geom:latitude":36.850718,
     "geom:longitude":-76.420337,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YOIuIVJaYUgvzNFW3lELL_36.850718_-76.420337@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891722,
-    "wof:geomhash":"4b832f8f0c65d91485edf3e47c04a110",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67b5848d4c8a6ec231328d953b91f9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":722944649
+        }
+    ],
     "wof:id":722944649,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492073168,
     "wof:name":"Taylor Pointe Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

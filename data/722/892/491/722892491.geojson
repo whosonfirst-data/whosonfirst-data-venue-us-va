@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.55573,39.238763,-77.55573,39.238763",
     "geom:latitude":39.238763,
     "geom:longitude":-77.55573,
@@ -33,17 +34,30 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oKwsJESsMzlwMAB3vA8O0_39.238763_-77.555730@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890633,
-    "wof:geomhash":"1ab2f361da97119712d86875eb56996b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c3338585b7ffaffee3dd3a52105595e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722892491
+        }
+    ],
     "wof:id":722892491,
-    "wof:lastmodified":1472652056,
+    "wof:lastmodified":1492066911,
     "wof:name":"Jan K Hyland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

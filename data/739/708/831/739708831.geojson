@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44146,37.710556,-77.44146,37.710556",
     "geom:latitude":37.710556,
     "geom:longitude":-77.44146,
@@ -34,7 +35,12 @@
     ],
     "sg:website":"http://www.alertvisions.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AOA3v4W9GV1UTuQpnXgRw_37.710556_-77.441460@1303262549"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461912761,
     "wof:geomhash":"5794f519a3471ee1643eaa41128deaee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739708831
+        }
+    ],
     "wof:id":739708831,
-    "wof:lastmodified":1472652206,
+    "wof:lastmodified":1492030739,
     "wof:name":"Alert Visions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

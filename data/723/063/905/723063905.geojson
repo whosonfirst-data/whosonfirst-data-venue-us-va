@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.485421,37.288679,-79.485421,37.288679",
     "geom:latitude":37.288679,
     "geom:longitude":-79.485421,
@@ -31,17 +32,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sVr08C6F19DWagl6dZTFt_37.288679_-79.485421@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894299,
-    "wof:geomhash":"5a1d8c40d2413405704c693780680b1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55436a7d99099bced729e9c73dbc84f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723063905
+        }
+    ],
     "wof:id":723063905,
-    "wof:lastmodified":1472651243,
+    "wof:lastmodified":1492061866,
     "wof:name":"Precision Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

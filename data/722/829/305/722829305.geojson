@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.524565,37.336912,-79.524565,37.336912",
     "geom:latitude":37.336912,
     "geom:longitude":-79.524565,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TonwwnzWX7hB9mSQNeGf7_37.336912_-79.524565@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889435,
-    "wof:geomhash":"ff799ecbf2e4990a2bb88ce7853aa0d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bceaee35d2e4c89b1b423bcab3b5819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":722829305
+        }
+    ],
     "wof:id":722829305,
-    "wof:lastmodified":1472651894,
+    "wof:lastmodified":1492067074,
     "wof:name":"Bedford Rescue Squad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.641958,37.65498,-77.641958,37.65498",
     "geom:latitude":37.65498,
     "geom:longitude":-77.641958,
@@ -32,17 +33,32 @@
         "support"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6O2lfOha9saWyk3LURlqM0_37.654980_-77.641958@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899924,
-    "wof:geomhash":"f2d15467f62bf8d41acd3b33bfdd2931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a31d7cc66621ff80df7fcd34cf8febe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":723345935
+        }
+    ],
     "wof:id":723345935,
-    "wof:lastmodified":1472651976,
+    "wof:lastmodified":1492059112,
     "wof:name":"Home Computer Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.410018,37.081619,-76.410018,37.081619",
     "geom:latitude":37.081619,
     "geom:longitude":-76.410018,
@@ -32,7 +33,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E00o9fXaHE8rNqiYdbub8_37.081619_-76.410018@1303262551"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913228,
     "wof:geomhash":"cf446718be72d0991041fd8944bd5920",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739731783
+        }
+    ],
     "wof:id":739731783,
-    "wof:lastmodified":1472652257,
+    "wof:lastmodified":1492031036,
     "wof:name":"Bowers Home Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

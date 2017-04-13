@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.196419,38.296541,-77.196419,38.296541",
     "geom:latitude":38.296541,
     "geom:longitude":-77.196419,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aEYVFFs0VHCGE6jBG7YWU_38.296541_-77.196419@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901154,
-    "wof:geomhash":"a19be72d3295571b2eb865ceafb92525",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b3bdf2aa7a0173e0fbbd891e0c4eefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":723409177
+        }
+    ],
     "wof:id":723409177,
-    "wof:lastmodified":1472652180,
+    "wof:lastmodified":1492058894,
     "wof:name":"Somerset Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

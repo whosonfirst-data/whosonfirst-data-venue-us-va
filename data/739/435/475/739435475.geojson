@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.630694,38.826689,-77.630694,38.826689",
     "geom:latitude":38.826689,
     "geom:longitude":-77.630694,
@@ -33,7 +34,12 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J6vtGcUWDn4cxdyokvYA1_38.826689_-77.630694@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907270,
     "wof:geomhash":"13b5c2016fd39e644f7bfd9a2c9bef5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739435475
+        }
+    ],
     "wof:id":739435475,
-    "wof:lastmodified":1472651528,
+    "wof:lastmodified":1492029394,
     "wof:name":"Mary Kay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.016522,36.695848,-82.016522,36.695848",
     "geom:latitude":36.695848,
     "geom:longitude":-82.016522,
@@ -31,17 +32,26 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58OPnXfAsg2DtMbHv3Zw45_36.695848_-82.016522@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894959,
-    "wof:geomhash":"8a484855460e5ed7c431453ac5ad1248",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9e376029f9a0c48982d9dab3047f082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723092073
+        }
+    ],
     "wof:id":723092073,
-    "wof:lastmodified":1472651259,
+    "wof:lastmodified":1492050080,
     "wof:name":"Forestry Dept",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

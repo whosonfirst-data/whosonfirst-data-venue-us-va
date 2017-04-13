@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.149729,38.852875,-77.149729,38.852875",
     "geom:latitude":38.852875,
     "geom:longitude":-77.149729,
@@ -39,7 +40,8 @@
         85633793,
         101729759,
         102084863,
-        85805665
+        85805665,
+        420546677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908587,
-    "wof:geomhash":"8a0c43defb5a26ddd69454b4d83f4ce2",
+    "wof:geomhash":"c32fbbff5899c0d63e25153b87a9d606",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85805665,
             "region_id":85688747,
             "venue_id":739508653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729759,
+            "neighbourhood_id":420546677,
+            "region_id":85688747,
+            "venue_id":739508653
         }
     ],
     "wof:id":739508653,
-    "wof:lastmodified":1472651812,
+    "wof:lastmodified":1492039003,
     "wof:name":"Sellar & Assoc",
-    "wof:parent_id":85805665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

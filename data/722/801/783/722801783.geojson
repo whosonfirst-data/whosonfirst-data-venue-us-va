@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.897309,38.078633,-78.897309,38.078633",
     "geom:latitude":38.078633,
     "geom:longitude":-78.897309,
@@ -41,17 +42,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_514y2Yb1hnKtEpSumw22aq_38.078633_-78.897309@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888920,
-    "wof:geomhash":"d83691ed412ab7fcba2e250196e8ff73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee84261b2f9365192608e949f78c0b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722801783
+        }
+    ],
     "wof:id":722801783,
-    "wof:lastmodified":1472651818,
+    "wof:lastmodified":1492070452,
     "wof:name":"Virginia Panel Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

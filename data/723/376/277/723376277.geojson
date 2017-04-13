@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.985953,36.646412,-81.985953,36.646412",
     "geom:latitude":36.646412,
     "geom:longitude":-81.985953,
@@ -32,17 +33,26 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73mKBNPemeeVqJQWSIbqZL_36.646412_-81.985953@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900498,
-    "wof:geomhash":"9f7acadd9bb8ae7488867def9bec1e28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c7f5cef20fe30bb9dcd262f54b64b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723376277
+        }
+    ],
     "wof:id":723376277,
-    "wof:lastmodified":1472652096,
+    "wof:lastmodified":1492060242,
     "wof:name":"Harco Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

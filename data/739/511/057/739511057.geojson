@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.618917,38.192226,-77.618917,38.192226",
     "geom:latitude":38.192226,
     "geom:longitude":-77.618917,
@@ -37,17 +38,30 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09PHXizs4tZCtqNnlIwnpZ_38.192226_-77.618917@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908629,
-    "wof:geomhash":"57e3098792eccac8046e4c3109f12dc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abd89a17b01953a2b363c92bbfa29126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739511057
+        }
+    ],
     "wof:id":739511057,
-    "wof:lastmodified":1472651722,
+    "wof:lastmodified":1492038890,
     "wof:name":"Walter Gentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.042965,38.134121,-79.042965,38.134121",
     "geom:latitude":38.134121,
     "geom:longitude":-79.042965,
@@ -37,17 +38,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728733,
+        102081057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DHPFN3AUBJ2WgPT4ZjIdr_38.134121_-79.042965@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893381,
-    "wof:geomhash":"cce035d2b6ba4a56a9157f6a1e0cfd94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd299e039a5cd4b2725f5a6cee1fa384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081057,
+            "locality_id":101728733,
+            "region_id":85688747,
+            "venue_id":723020295
+        }
+    ],
     "wof:id":723020295,
-    "wof:lastmodified":1472651101,
+    "wof:lastmodified":1492048513,
     "wof:name":"Augusta Equipment Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

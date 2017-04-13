@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.836756,38.499777,-78.836756,38.499777",
     "geom:latitude":38.499777,
     "geom:longitude":-78.836756,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728609,
         102081423,
+        85868189,
         85840613
     ],
     "wof:breaches":[],
@@ -45,9 +48,19 @@
     },
     "wof:country":"US",
     "wof:created":1461906173,
-    "wof:geomhash":"f651f2065f59d50b7cec6ee31933e54d",
+    "wof:geomhash":"491720c536549894cd9b1c91325506ae",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "neighbourhood_id":85868189,
+            "region_id":85688747,
+            "venue_id":739379135
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081423,
             "locality_id":101728609,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":739379135,
-    "wof:lastmodified":1472651339,
+    "wof:lastmodified":1492044204,
     "wof:name":"Civil Air Patrol Inc",
-    "wof:parent_id":85840613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

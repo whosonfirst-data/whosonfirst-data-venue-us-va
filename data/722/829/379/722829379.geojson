@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.640883,37.555622,-77.640883,37.555622",
     "geom:latitude":37.555622,
     "geom:longitude":-77.640883,
@@ -31,17 +32,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43z1AkT1OKGOtrEbw0nlRB_37.555622_-77.640883@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889436,
-    "wof:geomhash":"6f88de94d51781be8fac253da1472a5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4329e435d74acefd331e94e801b41c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722829379
+        }
+    ],
     "wof:id":722829379,
-    "wof:lastmodified":1472651896,
+    "wof:lastmodified":1492067074,
     "wof:name":"Military Sales of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

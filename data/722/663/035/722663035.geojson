@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.417285,38.2405,-77.417285,38.2405",
     "geom:latitude":38.2405,
     "geom:longitude":-77.417285,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KW3qJTDHWAk70GcuyBJiY_38.240500_-77.417285@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886266,
-    "wof:geomhash":"32df356cb02d4c1349c4d9740cc5727f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e25255d2dc0d314a5e89f989708bcb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722663035
+        }
+    ],
     "wof:id":722663035,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492068877,
     "wof:name":"Bayshore Transportation System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

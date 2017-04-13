@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.52018,39.038095,-77.52018,39.038095",
     "geom:latitude":39.038095,
     "geom:longitude":-77.52018,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59o6gw8XaWtNaVayEsrzJ1_39.038095_-77.520180@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910541,
-    "wof:geomhash":"0a9afe8036d921cde477a9d99088a7bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85c83e601812d995896c49fa50757f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739606791
+        }
+    ],
     "wof:id":739606791,
-    "wof:lastmodified":1472651973,
+    "wof:lastmodified":1492039042,
     "wof:name":"Smith Family Day Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

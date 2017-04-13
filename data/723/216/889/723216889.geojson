@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.774884,37.274911,-76.774884,37.274911",
     "geom:latitude":37.274911,
     "geom:longitude":-76.774884,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KlFwaIr0a3cQPdrgwPRub_37.274911_-76.774884@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897407,
-    "wof:geomhash":"5ff3690d88e71f93a9ab507cb5646d7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25ae0fc212ebbbeed423181324a4d333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546899,
+            "venue_id":723216889
+        }
+    ],
     "wof:id":723216889,
-    "wof:lastmodified":1472651640,
+    "wof:lastmodified":1492049501,
     "wof:name":"Cooke's Plumbing",
     "wof:parent_id":420546899,
     "wof:placetype":"venue",

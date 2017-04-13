@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.851546,37.563194,-77.851546,37.563194",
     "geom:latitude":37.563194,
     "geom:longitude":-77.851546,
@@ -37,17 +38,30 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t2JlPTkbOeUsOG1JulJoK_37.563194_-77.851546@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898115,
-    "wof:geomhash":"9953eeae4ada4374da5ddea59f31e39b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd09e90e7d9af81969e0185f10a48269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":723249925
+        }
+    ],
     "wof:id":723249925,
-    "wof:lastmodified":1472651714,
+    "wof:lastmodified":1492047626,
     "wof:name":"Evelyn's Cab Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

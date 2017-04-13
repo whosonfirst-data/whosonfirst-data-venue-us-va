@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.859784,37.247243,-76.859784,37.247243",
     "geom:latitude":37.247243,
     "geom:longitude":-76.859784,
@@ -31,7 +32,10 @@
         "development"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mN4l6ZeVuWVQ1ZBvTjOZd_37.247243_-76.859784@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906447,
     "wof:geomhash":"497babe43eafe775087b814c253f118b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546809,
+            "venue_id":739392881
+        }
+    ],
     "wof:id":739392881,
-    "wof:lastmodified":1472651430,
+    "wof:lastmodified":1492031616,
     "wof:name":"Jack Snell & Associates",
     "wof:parent_id":420546809,
     "wof:placetype":"venue",

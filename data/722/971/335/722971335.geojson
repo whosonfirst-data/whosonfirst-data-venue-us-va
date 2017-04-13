@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.123176,39.167455,-78.123176,39.167455",
     "geom:latitude":39.167455,
     "geom:longitude":-78.123176,
@@ -32,17 +33,30 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59JHZCESLwZVEbBPr6eGKs_39.167455_-78.123176@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892276,
-    "wof:geomhash":"bc0cad764a332170fb7b5bd8e69ae12f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e732e959d61ba7ef81ce1df386cedb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":722971335
+        }
+    ],
     "wof:id":722971335,
-    "wof:lastmodified":1472652301,
+    "wof:lastmodified":1492062677,
     "wof:name":"Data Entry Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

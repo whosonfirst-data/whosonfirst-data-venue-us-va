@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.549919,39.114909,-77.549919,39.114909",
     "geom:latitude":39.114909,
     "geom:longitude":-77.549919,
@@ -32,17 +33,32 @@
         "exercise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dMHl7LCeWifGBPDA2JA7K_39.114909_-77.549919@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886563,
-    "wof:geomhash":"edf6b581d6dc3908ee9a7c7b53cfa9ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f95551c9baf54457e2f1d590f53267bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722678963
+        }
+    ],
     "wof:id":722678963,
-    "wof:lastmodified":1472651540,
+    "wof:lastmodified":1492068439,
     "wof:name":"Fitness Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

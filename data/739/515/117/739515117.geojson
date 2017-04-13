@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.417999,37.147009,-76.417999,37.147009",
     "geom:latitude":37.147009,
     "geom:longitude":-76.417999,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OyoUVM8LeFi4ItSVMnXh1_37.147009_-76.417999@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908706,
-    "wof:geomhash":"fa2b3d94023749845ac272ffbadbc1df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c646bb9818281f9ec92364f26129550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739515117
+        }
+    ],
     "wof:id":739515117,
-    "wof:lastmodified":1472651743,
+    "wof:lastmodified":1492040873,
     "wof:name":"Rich Riggins Lee",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

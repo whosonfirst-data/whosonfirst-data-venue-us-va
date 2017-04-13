@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.27429,38.99303,-77.27429,38.99303",
     "geom:latitude":38.99303,
     "geom:longitude":-77.27429,
@@ -32,17 +33,32 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dPK2ijtkd5dd8fUelIdjm_38.993030_-77.274290@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902469,
-    "wof:geomhash":"2cf5ed04babd0846a5a3002194f80f6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbdb5c6b19612e4b74affa3ad698191f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":723476865
+        }
+    ],
     "wof:id":723476865,
-    "wof:lastmodified":1472652321,
+    "wof:lastmodified":1492061481,
     "wof:name":"Red Circle Holding LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

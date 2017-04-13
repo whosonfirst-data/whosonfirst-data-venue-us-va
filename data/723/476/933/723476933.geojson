@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.275794,36.893582,-81.275794,36.893582",
     "geom:latitude":36.893582,
     "geom:longitude":-81.275794,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IwpxzQ8ROCINnvmdscXiv_36.893582_-81.275794@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902472,
-    "wof:geomhash":"91a565ddbde461cd3459cd27c6df8a23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bd4312b18c592eda454ad4efb25f2c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723476933
+        }
+    ],
     "wof:id":723476933,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492061477,
     "wof:name":"Parkway Gas",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

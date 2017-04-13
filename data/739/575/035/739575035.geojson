@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378347,37.624157,-77.378347,37.624157",
     "geom:latitude":37.624157,
     "geom:longitude":-77.378347,
@@ -27,7 +28,13 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70gQ6fXOIPd9Muy5lpfN6t_37.624157_-77.378347@1294252573"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461909894,
     "wof:geomhash":"ac89894506cbd86074642fc4f19a7804",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739575035
+        }
+    ],
     "wof:id":739575035,
-    "wof:lastmodified":1472651915,
+    "wof:lastmodified":1492029843,
     "wof:name":"Union/ Plain Dealing Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

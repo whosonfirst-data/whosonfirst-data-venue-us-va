@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.406744,37.22106,-80.406744,37.22106",
     "geom:latitude":37.22106,
     "geom:longitude":-80.406744,
@@ -28,19 +29,46 @@
     "sg:postcode":"24060",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728705,
+        102087271,
+        85802527,
+        85818347
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IriXQfEbmL6bHcHjOPevZ_37.221060_-80.406744@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893760,
-    "wof:geomhash":"c38d79b20cd4ace59ddbd7ef4490361e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"301034b76d7c11f77bf97f511f802954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728705,
+            "neighbourhood_id":85802527,
+            "region_id":85688747,
+            "venue_id":723037433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728705,
+            "neighbourhood_id":85818347,
+            "region_id":85688747,
+            "venue_id":723037433
+        }
+    ],
     "wof:id":723037433,
-    "wof:lastmodified":1472651150,
+    "wof:lastmodified":1492061108,
     "wof:name":"Baskets Just For You",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

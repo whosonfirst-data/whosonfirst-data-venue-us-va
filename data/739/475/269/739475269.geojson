@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.01138,36.694726,-82.01138,36.694726",
     "geom:latitude":36.694726,
     "geom:longitude":-82.01138,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41lwzwSNqfOOn42iATrHOL_36.694726_-82.011380@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907983,
-    "wof:geomhash":"b7425aecd44f8edf013dd68e51c64d8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbf0f91099fa2674c9ca0e08d97bc4dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739475269
+        }
+    ],
     "wof:id":739475269,
-    "wof:lastmodified":1472651609,
+    "wof:lastmodified":1492041080,
     "wof:name":"Exit 14 Chevron",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

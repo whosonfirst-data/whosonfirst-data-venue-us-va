@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.367752,38.236497,-78.367752,38.236497",
     "geom:latitude":38.236497,
     "geom:longitude":-78.367752,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729591,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nc7slBGkdeOs2Lt9OrQWW_38.236497_-78.367752@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910107,
-    "wof:geomhash":"3e934d2722bf22b4f4e269127ceff7f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"767151e1b9dc24f3acb08556a9e23b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101729591,
+            "region_id":85688747,
+            "venue_id":739585025
+        }
+    ],
     "wof:id":739585025,
-    "wof:lastmodified":1472651920,
+    "wof:lastmodified":1492046377,
     "wof:name":"El Agave",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

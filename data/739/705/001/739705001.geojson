@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.526398,38.025101,-78.526398,38.025101",
     "geom:latitude":38.025101,
     "geom:longitude":-78.526398,
@@ -45,7 +46,12 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33Rw69KY6iZBcj1Vos2Sf4_38.025101_-78.526398@1303262548"
@@ -53,9 +59,17 @@
     "wof:country":"US",
     "wof:created":1461912675,
     "wof:geomhash":"90c8a944dc90d5140c4d09840bbe5a28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739705001
+        }
+    ],
     "wof:id":739705001,
-    "wof:lastmodified":1472652160,
+    "wof:lastmodified":1492030336,
     "wof:name":"Diamond Paul T MD Uva Physical Medicine & Rehblttn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

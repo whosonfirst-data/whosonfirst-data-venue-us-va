@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.502421,36.85322,-80.502421,36.85322",
     "geom:latitude":36.85322,
     "geom:longitude":-80.502421,
@@ -28,7 +29,12 @@
     "sg:postcode":"24380",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5apNcxVhkS4eD0qFJGe1pa_36.853220_-80.502421@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906699,
     "wof:geomhash":"68391a860b02a3f579ea300d63ad78c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739406093
+        }
+    ],
     "wof:id":739406093,
-    "wof:lastmodified":1472651441,
+    "wof:lastmodified":1492033200,
     "wof:name":"Eagle Christian Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

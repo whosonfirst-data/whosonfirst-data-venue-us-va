@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.212708,38.71423,-77.212708,38.71423",
     "geom:latitude":38.71423,
     "geom:longitude":-77.212708,
@@ -43,7 +44,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GuDdYKiW5kF8xI3PNzJCC_38.714230_-77.212708@1303262538"
@@ -51,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461911026,
     "wof:geomhash":"6bf02dea373fe7f27723dfa241ab9dbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":739629951
+        }
+    ],
     "wof:id":739629951,
-    "wof:lastmodified":1472652025,
+    "wof:lastmodified":1492033297,
     "wof:name":"U S Home At Lorton Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

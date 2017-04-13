@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.511217,37.293536,-76.511217,37.293536",
     "geom:latitude":37.293536,
     "geom:longitude":-76.511217,
@@ -32,17 +33,32 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BznPi8uv1mB8PLQPsHEQI_37.293536_-76.511217@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893810,
-    "wof:geomhash":"77097884a83d5f00ff423cc68a02b1e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58e8848bec4f1a40cc7457a4ca72bd31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":723039971
+        }
+    ],
     "wof:id":723039971,
-    "wof:lastmodified":1472651179,
+    "wof:lastmodified":1492061915,
     "wof:name":"Children's Hospital-The King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

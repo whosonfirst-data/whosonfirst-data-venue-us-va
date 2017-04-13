@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.319262,36.677932,-78.319262,36.677932",
     "geom:latitude":36.677932,
     "geom:longitude":-78.319262,
@@ -28,7 +29,12 @@
     "sg:postcode":"23915",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tm4CbcxMHTBg4L0WzEyEZ_36.677932_-78.319262@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905452,
     "wof:geomhash":"3f5d1ba285c2a47a6111f4962dd06f64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739343447
+        }
+    ],
     "wof:id":739343447,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492032176,
     "wof:name":"Lunenburg County Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

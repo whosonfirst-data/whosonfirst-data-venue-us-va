@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.421545,38.29258,-77.421545,38.29258",
     "geom:latitude":38.29258,
     "geom:longitude":-77.421545,
@@ -31,17 +32,26 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x82k7K7cVAKvvecCvy0bO_38.292580_-77.421545@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896341,
-    "wof:geomhash":"44ee5c9ec12bfc7002c7d0c6b773e90a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78f109d0de88cdfb8ce28850d370c56b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":723163073
+        }
+    ],
     "wof:id":723163073,
-    "wof:lastmodified":1472651439,
+    "wof:lastmodified":1492052783,
     "wof:name":"Norman Borger",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

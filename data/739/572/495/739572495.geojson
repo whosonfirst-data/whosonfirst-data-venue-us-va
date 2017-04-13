@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.755662,38.713789,-78.755662,38.713789",
     "geom:latitude":38.713789,
     "geom:longitude":-78.755662,
@@ -28,17 +29,30 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63zMT7P2GHXa2EWYTTA7qp_38.713789_-78.755662@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909846,
-    "wof:geomhash":"9b450c98f82a6e290925f208bd272e34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8430e99e6448a7557a610bebc3245a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739572495
+        }
+    ],
     "wof:id":739572495,
-    "wof:lastmodified":1472651893,
+    "wof:lastmodified":1492040111,
     "wof:name":"Arthur Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

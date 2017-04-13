@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.35979,37.244191,-80.35979,37.244191",
     "geom:latitude":37.244191,
     "geom:longitude":-80.35979,
@@ -28,7 +29,10 @@
     "sg:postcode":"24060",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zoX98Ow7TxsBUfH7CjZnf_37.244191_-80.359790@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461905000,
     "wof:geomhash":"946ff44b2c2d9927b5ab36e535ceb672",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":739321077
+        }
+    ],
     "wof:id":739321077,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492030726,
     "wof:name":"Maryann Moison",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

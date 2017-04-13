@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579494,37.658406,-77.579494,37.658406",
     "geom:latitude":37.658406,
     "geom:longitude":-77.579494,
@@ -32,7 +33,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jsjkPae6H0yhVTuV5kkgk_37.658406_-77.579494@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906616,
     "wof:geomhash":"6c9d7f61a96823884ed7ccfd46058eb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":739401953
+        }
+    ],
     "wof:id":739401953,
-    "wof:lastmodified":1472651475,
+    "wof:lastmodified":1492032688,
     "wof:name":"World Savings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

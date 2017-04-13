@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.285086,38.87328,-77.285086,38.87328",
     "geom:latitude":38.87328,
     "geom:longitude":-77.285086,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iV5f4eKYIiKHm9uRuPrTX_38.873280_-77.285086@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886272,
-    "wof:geomhash":"312b609d4ebd2e2043d1991e07f6407d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a7cd97bc97430dc98a0b412b228ff61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":722663323
+        }
+    ],
     "wof:id":722663323,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492068889,
     "wof:name":"Eclipse Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

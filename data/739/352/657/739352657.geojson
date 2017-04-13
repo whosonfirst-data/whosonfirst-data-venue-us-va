@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.012931,36.80306,-79.012931,36.80306",
     "geom:latitude":36.80306,
     "geom:longitude":-79.012931,
@@ -32,17 +33,30 @@
         "soil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_420nPDmuFap1l1EOwvGJ0l_36.803060_-79.012931@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905666,
-    "wof:geomhash":"2172e27fad13919422c96c60b0ff844f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fa92d90b0eda20b06049acba259cfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739352657
+        }
+    ],
     "wof:id":739352657,
-    "wof:lastmodified":1472651343,
+    "wof:lastmodified":1492046003,
     "wof:name":"FMC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.798741,37.791788,-79.798741,37.791788",
     "geom:latitude":37.791788,
     "geom:longitude":-79.798741,
@@ -31,17 +32,30 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CM92qRMfO3z5X8VLO7BUC_37.791788_-79.798741@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886202,
-    "wof:geomhash":"b53b6fe9c9c40a3224913453b3c43c4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0cca17af4c5b22b0b30e7e24a367307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722659929
+        }
+    ],
     "wof:id":722659929,
-    "wof:lastmodified":1472651486,
+    "wof:lastmodified":1492065111,
     "wof:name":"Lexington Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

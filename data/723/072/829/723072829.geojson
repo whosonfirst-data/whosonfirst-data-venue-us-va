@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420941,38.329681,-77.420941,38.329681",
     "geom:latitude":38.329681,
     "geom:longitude":-77.420941,
@@ -28,19 +29,34 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QhjjCBGINvRuzd774gMoa_38.329681_-77.420941@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894533,
-    "wof:geomhash":"0649d5e2b920b9e8fe6b54c59d15d439",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b8402b9c88dd66cc68abad67bd3de98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723072829
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":723072829
+        }
+    ],
     "wof:id":723072829,
-    "wof:lastmodified":1472651270,
+    "wof:lastmodified":1492052552,
     "wof:name":"Grafton Village Elementary",
-    "wof:parent_id":420547191,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.315063,37.902991,-78.315063,37.902991",
     "geom:latitude":37.902991,
     "geom:longitude":-78.315063,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kv01nNAOcntz1pTM5EBG0_37.902991_-78.315063@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893562,
-    "wof:geomhash":"8e30e14e4eb0c7ecdc8e877c50f52a2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e93e314c546987d0683109ddd3d2092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":723028109
+        }
+    ],
     "wof:id":723028109,
-    "wof:lastmodified":1472651138,
+    "wof:lastmodified":1492051914,
     "wof:name":"Tony Garrett Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

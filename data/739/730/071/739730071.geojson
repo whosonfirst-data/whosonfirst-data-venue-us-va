@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.729414,36.799733,-76.729414,36.799733",
     "geom:latitude":36.799733,
     "geom:longitude":-76.729414,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"http://www.randallharmon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728639,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RjLJc5WCUZqn1keqKUpmk_36.799733_-76.729414@1303262551"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461913188,
     "wof:geomhash":"a526d1e2b871a6570a859861a8720a18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728639,
+            "region_id":85688747,
+            "venue_id":739730071
+        }
+    ],
     "wof:id":739730071,
-    "wof:lastmodified":1472652215,
+    "wof:lastmodified":1492033169,
     "wof:name":"Randy Harmon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

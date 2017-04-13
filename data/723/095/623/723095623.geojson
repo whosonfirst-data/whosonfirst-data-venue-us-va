@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.459726,37.069238,-76.459726,37.069238",
     "geom:latitude":37.069238,
     "geom:longitude":-76.459726,
@@ -34,6 +35,9 @@
         85633793,
         101729041,
         102085961,
+        85805029,
+        101728661,
+        102084913,
         85879229
     ],
     "wof:breaches":[],
@@ -42,22 +46,31 @@
     },
     "wof:country":"US",
     "wof:created":1461895030,
-    "wof:geomhash":"81d95eb9a42c73f7f1f04cddbf878d26",
+    "wof:geomhash":"e69106006bcb21fe3f0d479caea1bdb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085961,
             "locality_id":101729041,
+            "neighbourhood_id":85805029,
+            "region_id":85688747,
+            "venue_id":723095623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
             "neighbourhood_id":85879229,
             "region_id":85688747,
             "venue_id":723095623
         }
     ],
     "wof:id":723095623,
-    "wof:lastmodified":1472651304,
+    "wof:lastmodified":1492053389,
     "wof:name":"Rick's Power Washing & Home",
-    "wof:parent_id":85879229,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

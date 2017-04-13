@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.610321,37.65168,-77.610321,37.65168",
     "geom:latitude":37.65168,
     "geom:longitude":-77.610321,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LIIAY6dGvs6t0TGiIg1uc_37.651329_-77.611079@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461910361,
-    "wof:geomhash":"57de0c611df3d909eeddee0b114c5aaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faa57b162379a52021e8cd73d1f7cc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":739598289
+        }
+    ],
     "wof:id":739598289,
-    "wof:lastmodified":1472651939,
+    "wof:lastmodified":1492040260,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

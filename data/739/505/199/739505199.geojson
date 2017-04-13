@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.980087,39.152232,-77.980087,39.152232",
     "geom:latitude":39.152232,
     "geom:longitude":-77.980087,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85845423,
-        102084971
+        101729005,
+        102084971,
+        85845423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,17 @@
     "wof:geomhash":"3a17a12d309df5d5f180009cd15cf802",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084971,
+            "locality_id":101729005,
             "neighbourhood_id":85845423,
             "region_id":85688747,
             "venue_id":739505199
         }
     ],
     "wof:id":739505199,
-    "wof:lastmodified":1472651745,
+    "wof:lastmodified":1492032249,
     "wof:name":"Clarke County Treasurer's Ofc",
     "wof:parent_id":85845423,
     "wof:placetype":"venue",

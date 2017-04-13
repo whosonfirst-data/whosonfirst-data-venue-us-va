@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.384275,37.300649,-78.384275,37.300649",
     "geom:latitude":37.300649,
     "geom:longitude":-78.384275,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PApn3Cyb4rGnBYIoX0hps_37.300649_-78.384275@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884979,
-    "wof:geomhash":"d0542138505abd05308e90c5cbdd1136",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1b1c9c4e80f9bad99fa44cb83a29938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":722600367
+        }
+    ],
     "wof:id":722600367,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492068709,
     "wof:name":"Huskey Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

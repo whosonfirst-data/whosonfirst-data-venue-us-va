@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.601669,36.99324,-78.601669,36.99324",
     "geom:latitude":36.99324,
     "geom:longitude":-78.601669,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728803,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NS3Pt44QCB4IV9r7ghIMl_36.993240_-78.601669@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884785,
-    "wof:geomhash":"338d55829f713925735029beb1a0419a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e5b9ce0e02d8227495a04a6b5fe76ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "locality_id":101728803,
+            "region_id":85688747,
+            "venue_id":722589485
+        }
+    ],
     "wof:id":722589485,
-    "wof:lastmodified":1472651235,
+    "wof:lastmodified":1492071527,
     "wof:name":"Duck In Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

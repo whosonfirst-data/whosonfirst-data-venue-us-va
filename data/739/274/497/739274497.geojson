@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.552733,37.637703,-77.552733,37.637703",
     "geom:latitude":37.637703,
     "geom:longitude":-77.552733,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.carpoolinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LexiIgvGFHkYCni2ZebCK_37.637703_-77.552733@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904020,
     "wof:geomhash":"407a0a1ded0fbbb17527226a2883d685",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739274497
+        }
+    ],
     "wof:id":739274497,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492029552,
     "wof:name":"Car Pool Auto Wash Quick Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

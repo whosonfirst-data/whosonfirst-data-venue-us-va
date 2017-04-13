@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.444455,37.031541,-76.444455,37.031541",
     "geom:latitude":37.031541,
     "geom:longitude":-76.444455,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kU69KbmgElk6AcBMZBtnC_37.031541_-76.444455@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893375,
-    "wof:geomhash":"2df7cf25e466ba58e9d2a42b37d4a005",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a9fb4784d1c19413af6eac4372f4557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":723019915
+        }
+    ],
     "wof:id":723019915,
-    "wof:lastmodified":1472651126,
+    "wof:lastmodified":1492049995,
     "wof:name":"Cambridge Townhouse Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

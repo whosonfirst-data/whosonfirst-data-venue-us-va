@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.337432,38.851053,-77.337432,38.851053",
     "geom:latitude":38.851053,
     "geom:longitude":-77.337432,
@@ -32,17 +33,32 @@
         "space"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wkcH2QE4pfcfQvc3mbsah_38.851053_-77.337432@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902297,
-    "wof:geomhash":"36970fb6e09d56fd6d90681c932e2276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"822b2f4f5dc7c1624c6c3604bb327452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":723468745
+        }
+    ],
     "wof:id":723468745,
-    "wof:lastmodified":1472652305,
+    "wof:lastmodified":1492058187,
     "wof:name":"Wesley Housing Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

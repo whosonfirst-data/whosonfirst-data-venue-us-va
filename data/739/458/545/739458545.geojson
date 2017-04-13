@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.888787,37.698964,-77.888787,37.698964",
     "geom:latitude":37.698964,
     "geom:longitude":-77.888787,
@@ -31,7 +32,13 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729485,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rJ0DT5AxmQhOLpVJdcbx6_37.698964_-77.888787@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907693,
     "wof:geomhash":"238a39030e946e2bad79862474bf65c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "locality_id":101729485,
+            "region_id":85688747,
+            "venue_id":739458545
+        }
+    ],
     "wof:id":739458545,
-    "wof:lastmodified":1472651586,
+    "wof:lastmodified":1492030029,
     "wof:name":"Town & Country Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

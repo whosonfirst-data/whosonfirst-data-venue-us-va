@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.851518,38.429325,-78.851518,38.429325",
     "geom:latitude":38.429325,
     "geom:longitude":-78.851518,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aU7DBtoNqUfOUVWR3rBNG_38.429325_-78.851518@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886023,
-    "wof:geomhash":"759efc724d2b1c57ac58d8f66a08c61b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6345db6f0c0ae4a41cc9f87d252859de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722650273
+        }
+    ],
     "wof:id":722650273,
-    "wof:lastmodified":1472651449,
+    "wof:lastmodified":1492073960,
     "wof:name":"First Citizens Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

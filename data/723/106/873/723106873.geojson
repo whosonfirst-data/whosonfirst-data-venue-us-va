@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.421278,38.381569,-77.421278,38.381569",
     "geom:latitude":38.381569,
     "geom:longitude":-77.421278,
@@ -31,19 +32,40 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101729343,
+        102081931,
+        85894037,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21vLO82RtJEKoJ4V6YaL7C_38.381569_-77.421278@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895251,
-    "wof:geomhash":"7f0494ab526746235edb7ab9a9040506",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab88cd11c79e933a9f599108757a61d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729343,
+            "neighbourhood_id":85894037,
+            "region_id":85688747,
+            "venue_id":723106873
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723106873
+        }
+    ],
     "wof:id":723106873,
-    "wof:lastmodified":1472651319,
+    "wof:lastmodified":1492060005,
     "wof:name":"Stafford Moose Lodge",
-    "wof:parent_id":420547235,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

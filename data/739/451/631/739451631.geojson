@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.777864,37.960439,-77.777864,37.960439",
     "geom:latitude":37.960439,
     "geom:longitude":-77.777864,
@@ -32,7 +33,12 @@
         "wood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RwT3e2leL4p8R8wel7fwa_37.960439_-77.777864@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907571,
     "wof:geomhash":"35946ba2f37e2e8046a0a50a8e4e622d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739451631
+        }
+    ],
     "wof:id":739451631,
-    "wof:lastmodified":1472651587,
+    "wof:lastmodified":1492031149,
     "wof:name":"Chipco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

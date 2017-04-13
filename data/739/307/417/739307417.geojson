@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.24977,37.110397,-77.24977,37.110397",
     "geom:latitude":37.110397,
     "geom:longitude":-77.24977,
@@ -35,7 +36,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xF2dTHJaUXwS48l01FKkD_37.110397_-77.249770@1294252573"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461904725,
     "wof:geomhash":"b42773a6de4068cc5ab388fa93feba47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739307417
+        }
+    ],
     "wof:id":739307417,
-    "wof:lastmodified":1472651214,
+    "wof:lastmodified":1492029986,
     "wof:name":"Greene's Raceway Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

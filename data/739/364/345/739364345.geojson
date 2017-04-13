@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.848436,37.901201,-78.848436,37.901201",
     "geom:latitude":37.901201,
     "geom:longitude":-78.848436,
@@ -31,7 +32,12 @@
         "winery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b8sHsufG290ikwiRt2QeM_37.901201_-78.848436@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905889,
     "wof:geomhash":"40b57e6c25e77c0c76f27ddf3b8f1cf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739364345
+        }
+    ],
     "wof:id":739364345,
-    "wof:lastmodified":1472651344,
+    "wof:lastmodified":1492031777,
     "wof:name":"Hill Top Berry Farm & Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

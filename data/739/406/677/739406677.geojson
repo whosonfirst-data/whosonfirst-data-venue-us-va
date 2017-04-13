@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.849725,36.735706,-78.849725,36.735706",
     "geom:latitude":36.735706,
     "geom:longitude":-78.849725,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GYXOvnwjUHQMkVszwnlnT_36.735706_-78.849725@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906710,
     "wof:geomhash":"c39dbddb17b3a573f63fa73346a496c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739406677
+        }
+    ],
     "wof:id":739406677,
-    "wof:lastmodified":1472651477,
+    "wof:lastmodified":1492033200,
     "wof:name":"James E Edmunds II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

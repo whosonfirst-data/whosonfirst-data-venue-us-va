@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.884438,36.671841,-79.884438,36.671841",
     "geom:latitude":36.671841,
     "geom:longitude":-79.884438,
@@ -30,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728657,
         102081419,
-        85825661
+        85825661,
+        85827589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +44,31 @@
     },
     "wof:country":"US",
     "wof:created":1461897331,
-    "wof:geomhash":"21cdb1928137e9874393d2c76e9f63bf",
+    "wof:geomhash":"9a91c34c77a40fd8e4f5c6d0bd3acf1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081419,
             "locality_id":101728657,
             "neighbourhood_id":85825661,
             "region_id":85688747,
             "venue_id":723213201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "neighbourhood_id":85827589,
+            "region_id":85688747,
+            "venue_id":723213201
         }
     ],
     "wof:id":723213201,
-    "wof:lastmodified":1472651609,
+    "wof:lastmodified":1492051670,
     "wof:name":"Pro Touch Up and Repair",
-    "wof:parent_id":85825661,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

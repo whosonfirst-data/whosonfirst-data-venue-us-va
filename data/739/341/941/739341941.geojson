@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.139208,39.19057,-78.139208,39.19057",
     "geom:latitude":39.19057,
     "geom:longitude":-78.139208,
@@ -33,7 +34,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Rs6KrtLnsbTppcZ4G0Nbe_39.190570_-78.139208@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461905422,
     "wof:geomhash":"672469000ea2ba0ccb6419c66df2aaff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739341941
+        }
+    ],
     "wof:id":739341941,
-    "wof:lastmodified":1472651314,
+    "wof:lastmodified":1492032557,
     "wof:name":"Luttrell Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

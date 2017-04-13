@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.345898,38.05145,-77.345898,38.05145",
     "geom:latitude":38.05145,
     "geom:longitude":-77.345898,
@@ -31,17 +32,32 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728811,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77ucmlYuRAnSj9c18HGr3A_38.051450_-77.345898@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903854,
-    "wof:geomhash":"f85a43b071a05e405f4df48f760ea1d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60131b2351cb561c9b130633bd1ee812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101728811,
+            "region_id":85688747,
+            "venue_id":739267027
+        }
+    ],
     "wof:id":739267027,
-    "wof:lastmodified":1472651130,
+    "wof:lastmodified":1492039724,
     "wof:name":"Caroline County Sheriff Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

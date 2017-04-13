@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.101971,37.277625,-79.101971,37.277625",
     "geom:latitude":37.277625,
     "geom:longitude":-79.101971,
@@ -33,17 +34,32 @@
         "order"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27bXKM6TFOMyrwY0s5d0cW_37.277625_-79.101971@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905037,
-    "wof:geomhash":"3226228b1ef5b101e528425eee11a4bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6ed48dd858a377931d83c07ac17df44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":739323039
+        }
+    ],
     "wof:id":739323039,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492044478,
     "wof:name":"Campbell County Public Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

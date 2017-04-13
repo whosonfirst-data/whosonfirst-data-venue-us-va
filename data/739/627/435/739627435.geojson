@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.122962,38.847915,-77.122962,38.847915",
     "geom:latitude":38.847915,
     "geom:longitude":-77.122962,
@@ -31,7 +32,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rHFykR8804lWRGRNcHihA_38.847915_-77.122962@1303262538"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910980,
     "wof:geomhash":"e1d9143eb3c5f654d1bfdd642dbcf089",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739627435
+        }
+    ],
     "wof:id":739627435,
-    "wof:lastmodified":1472652001,
+    "wof:lastmodified":1492032070,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

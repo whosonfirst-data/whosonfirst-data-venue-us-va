@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.590493,37.687906,-77.590493,37.687906",
     "geom:latitude":37.687906,
     "geom:longitude":-77.590493,
@@ -32,17 +33,30 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lojdXoDQCuuiwxKnaREkE_37.687906_-77.590493@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899563,
-    "wof:geomhash":"a83dede680e61a033575159509118431",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10d2b9d1309c8fb1195f46b60ef1671e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723326375
+        }
+    ],
     "wof:id":723326375,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492062184,
     "wof:name":"HP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

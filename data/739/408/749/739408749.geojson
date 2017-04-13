@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.567182,37.153621,-80.567182,37.153621",
     "geom:latitude":37.153621,
     "geom:longitude":-80.567182,
@@ -28,7 +29,13 @@
     "sg:postcode":"24141",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729175,
+        102084953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ht5dfaocaQXeFPE3gq2NB_37.153621_-80.567182@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906746,
     "wof:geomhash":"38c39b865ae46db063b72bd402434e1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "locality_id":101729175,
+            "region_id":85688747,
+            "venue_id":739408749
+        }
+    ],
     "wof:id":739408749,
-    "wof:lastmodified":1472651485,
+    "wof:lastmodified":1492029919,
     "wof:name":"Spraker Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

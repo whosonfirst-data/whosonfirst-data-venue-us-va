@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.413225,38.336476,-77.413225,38.336476",
     "geom:latitude":38.336476,
     "geom:longitude":-77.413225,
@@ -32,17 +33,26 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47MfxWwSUac81y6QaEfWRX_38.336476_-77.413225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889424,
-    "wof:geomhash":"a1f468d4bf0e510fc244a3bbe4dd2099",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a15385cee7cacb87b3506ff6a7c1360c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":722828705
+        }
+    ],
     "wof:id":722828705,
-    "wof:lastmodified":1472651904,
+    "wof:lastmodified":1492066027,
     "wof:name":"B B Financial Svc",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

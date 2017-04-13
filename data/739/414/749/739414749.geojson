@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.493698,37.124882,-81.493698,37.124882",
     "geom:latitude":37.124882,
     "geom:longitude":-81.493698,
@@ -34,7 +35,10 @@
         "impaired"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cB2MXPKseLM1BTjO9ysLe_37.124882_-81.493698@1294252573"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461906852,
     "wof:geomhash":"a3e19b38449315df366b1d579e235305",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":739414749
+        }
+    ],
     "wof:id":739414749,
-    "wof:lastmodified":1472651495,
+    "wof:lastmodified":1492032379,
     "wof:name":"Associated Hearing & Diagnostc",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

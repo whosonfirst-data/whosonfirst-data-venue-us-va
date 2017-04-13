@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.283923,37.227704,-81.283923,37.227704",
     "geom:latitude":37.227704,
     "geom:longitude":-81.283923,
@@ -33,7 +34,13 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728573,
+        102081049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A8j3H2jrN41ovebOErTPw_37.227704_-81.283923@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461906612,
     "wof:geomhash":"f4473de3b920153d4a29f199da584c22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081049,
+            "locality_id":101728573,
+            "region_id":85688747,
+            "venue_id":739401693
+        }
+    ],
     "wof:id":739401693,
-    "wof:lastmodified":1472651466,
+    "wof:lastmodified":1492032685,
     "wof:name":"Ruralnet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

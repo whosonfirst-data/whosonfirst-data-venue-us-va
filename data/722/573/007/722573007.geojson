@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.353383,37.628556,-77.353383,37.628556",
     "geom:latitude":37.628556,
     "geom:longitude":-77.353383,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vWJuaVSlEW4hURlFWCHTA_37.628556_-77.353383@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884461,
-    "wof:geomhash":"e74a86c09d77e33acbb75380559f4c93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab4fb0da540186a7a373cd5b18753575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":722573007
+        }
+    ],
     "wof:id":722573007,
-    "wof:lastmodified":1472651148,
+    "wof:lastmodified":1492072621,
     "wof:name":"Crawford Circuitry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

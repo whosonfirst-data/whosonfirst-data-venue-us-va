@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41795,38.325723,-77.41795,38.325723",
     "geom:latitude":38.325723,
     "geom:longitude":-77.41795,
@@ -46,7 +47,10 @@
     ],
     "sg:website":"http://fredericksburgheatingandcooling.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53yxSKWfkBGTEaKqjkb4Ec_38.325723_-77.417950@1303262546"
@@ -54,9 +58,15 @@
     "wof:country":"US",
     "wof:created":1461912403,
     "wof:geomhash":"7f9009ea05b2eefa6b34b41b7363dfb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":739693137
+        }
+    ],
     "wof:id":739693137,
-    "wof:lastmodified":1472652170,
+    "wof:lastmodified":1492031386,
     "wof:name":"Fredericksburg Heating & Cooling",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

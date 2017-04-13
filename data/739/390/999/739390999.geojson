@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451906,38.773751,-77.451906,38.773751",
     "geom:latitude":38.773751,
     "geom:longitude":-77.451906,
@@ -31,17 +32,32 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GCUgBAw3j9TUk5BJLvoAW_38.773751_-77.451906@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906406,
-    "wof:geomhash":"b502c66f09583e005905426bf84c43c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"621753fb6a9b6d86c763053d70ee34ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739390999
+        }
+    ],
     "wof:id":739390999,
-    "wof:lastmodified":1472651431,
+    "wof:lastmodified":1492039686,
     "wof:name":"Loan Max LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

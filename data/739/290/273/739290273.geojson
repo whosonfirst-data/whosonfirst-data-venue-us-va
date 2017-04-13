@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.809248,36.787573,-77.809248,36.787573",
     "geom:latitude":36.787573,
     "geom:longitude":-77.809248,
@@ -28,7 +29,12 @@
     "sg:postcode":"23868",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nJlB7QjH9ATp0vxvdZWXh_36.787573_-77.809248@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904375,
     "wof:geomhash":"0ca5249314de2fde0f342b53d2681616",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739290273
+        }
+    ],
     "wof:id":739290273,
-    "wof:lastmodified":1472651185,
+    "wof:lastmodified":1492032796,
     "wof:name":"Brunswick Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

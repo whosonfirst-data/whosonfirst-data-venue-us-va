@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.626302,37.105911,-79.626302,37.105911",
     "geom:latitude":37.105911,
     "geom:longitude":-79.626302,
@@ -32,17 +33,30 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HVH7cTCu19FGDxLAAws9E_37.105911_-79.626302@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897680,
-    "wof:geomhash":"8dd867a29fe0c2063a1fe0247cbd109c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f006996475cb374d9e201ccea622b663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723228931
+        }
+    ],
     "wof:id":723228931,
-    "wof:lastmodified":1472651653,
+    "wof:lastmodified":1492058315,
     "wof:name":"Smith Mountain Lake Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

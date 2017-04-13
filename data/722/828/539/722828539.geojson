@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.353177,37.005304,-76.353177,37.005304",
     "geom:latitude":37.005304,
     "geom:longitude":-76.353177,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rm9ngQHYIOYmzj6hKSh1T_37.005304_-76.353177@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889421,
-    "wof:geomhash":"bf48c3a6b56b9eeceb061b1919286eb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bcb27d3e88cc9f8bda244b201e4d20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722828539
+        }
+    ],
     "wof:id":722828539,
-    "wof:lastmodified":1472651902,
+    "wof:lastmodified":1492066042,
     "wof:name":"Little League Baseball Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

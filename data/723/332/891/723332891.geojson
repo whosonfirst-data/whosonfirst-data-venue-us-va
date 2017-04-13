@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.029717,37.719262,-77.029717,37.719262",
     "geom:latitude":37.719262,
     "geom:longitude":-77.029717,
@@ -33,17 +34,30 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J8bcU1AriHrXctSf2pztV_37.719262_-77.029717@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899680,
-    "wof:geomhash":"2f6651311c68b3abdbb85e293419b155",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab1b420f0c3d9f55831ebecfd50156a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":723332891
+        }
+    ],
     "wof:id":723332891,
-    "wof:lastmodified":1472651912,
+    "wof:lastmodified":1492049019,
     "wof:name":"Charles H Helmick Water Well",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.084424,36.652476,-78.084424,36.652476",
     "geom:latitude":36.652476,
     "geom:longitude":-78.084424,
@@ -28,7 +29,12 @@
     "sg:postcode":"23950",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R9BSwS1r05myrCSJv4vJ7_36.652476_-78.084424@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903707,
     "wof:geomhash":"0366075946af7fa1cfd9fb440274a028",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739260321
+        }
+    ],
     "wof:id":739260321,
-    "wof:lastmodified":1472651104,
+    "wof:lastmodified":1492030864,
     "wof:name":"A & R Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

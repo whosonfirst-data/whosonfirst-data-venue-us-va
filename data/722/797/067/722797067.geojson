@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.421914,38.308552,-77.421914,38.308552",
     "geom:latitude":38.308552,
     "geom:longitude":-77.421914,
@@ -31,17 +32,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53XGSgypPxdrK4GKPrzd87_38.308552_-77.421914@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888832,
-    "wof:geomhash":"b3b6c9bbf9e26f7474a11e0947d17076",
-    "wof:hierarchy":[],
+    "wof:geomhash":"887f6550bcb6411500a492c5ac3ae107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":722797067
+        }
+    ],
     "wof:id":722797067,
-    "wof:lastmodified":1472651732,
+    "wof:lastmodified":1492069836,
     "wof:name":"MRO Software Inc",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

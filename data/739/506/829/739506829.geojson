@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.871696,38.474026,-78.871696,38.474026",
     "geom:latitude":38.474026,
     "geom:longitude":-78.871696,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"www.vmrc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pfMrYsJ6l8Y02mc1GuGNx_38.474026_-78.871696@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461908550,
     "wof:geomhash":"36bcf65f8b4c748d6bdd8e9a5625b5dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739506829
+        }
+    ],
     "wof:id":739506829,
-    "wof:lastmodified":1472651824,
+    "wof:lastmodified":1492032879,
     "wof:name":"Va Mennonite Retirement Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

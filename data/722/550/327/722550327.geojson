@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.411799,38.311369,-78.411799,38.311369",
     "geom:latitude":38.311369,
     "geom:longitude":-78.411799,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dSs4Wi4KVVNVqWCk7Qs7V_38.311369_-78.411799@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884010,
-    "wof:geomhash":"ddac84304eddde8ad7e11816df93ddb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b461e3de5a9fc322fc36a0b376e92571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":722550327
+        }
+    ],
     "wof:id":722550327,
-    "wof:lastmodified":1472651082,
+    "wof:lastmodified":1492068082,
     "wof:name":"Custom Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

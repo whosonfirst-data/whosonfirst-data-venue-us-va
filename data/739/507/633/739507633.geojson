@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.386708,37.297868,-78.386708,37.297868",
     "geom:latitude":37.297868,
     "geom:longitude":-78.386708,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58reZrIdaGOwOLNz9y4wmG_37.297868_-78.386708@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908570,
-    "wof:geomhash":"e9d23bb177ff7e8571e3690b4e45d7a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da634bea3de9cbe17aed112d7a8d1a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739507633
+        }
+    ],
     "wof:id":739507633,
-    "wof:lastmodified":1472651807,
+    "wof:lastmodified":1492045289,
     "wof:name":"Slayton's Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

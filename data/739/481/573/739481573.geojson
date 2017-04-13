@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.290901,38.875336,-77.290901,38.875336",
     "geom:latitude":38.875336,
     "geom:longitude":-77.290901,
@@ -31,17 +32,32 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ySJXK95IA0NAzZc2JXLDS_38.875336_-77.290901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908098,
-    "wof:geomhash":"907a683b3e617512876d89377108c4e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"628dafa2626c27aa6c6c8745b093eb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":739481573
+        }
+    ],
     "wof:id":739481573,
-    "wof:lastmodified":1472651633,
+    "wof:lastmodified":1492037934,
     "wof:name":"Travel Ease",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.147598,38.648075,-77.147598,38.648075",
     "geom:latitude":38.648075,
     "geom:longitude":-77.147598,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729833,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Eks6MK4mKx3hceYcSS6Wa_38.648075_-77.147598@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884004,
-    "wof:geomhash":"948400ca9b473767340876fc079b1cd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"697dcc8d957b50294924d618645d0dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729833,
+            "region_id":85688747,
+            "venue_id":722549967
+        }
+    ],
     "wof:id":722549967,
-    "wof:lastmodified":1472651120,
+    "wof:lastmodified":1492065615,
     "wof:name":"D Horn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.992845,36.710995,-81.992845,36.710995",
     "geom:latitude":36.710995,
     "geom:longitude":-81.992845,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"http://www.localstdtesting.com/11",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51eV1vWMX6jptxYAjVnGD2_36.710995_-81.992845@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913454,
-    "wof:geomhash":"1fe493123b88f8b6867230dd0dd6eeac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da5eba3e7989add5dd7c94514a75e3ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739741079
+        }
+    ],
     "wof:id":739741079,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492044516,
     "wof:name":"Local STD Testing",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

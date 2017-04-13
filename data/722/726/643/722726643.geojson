@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.223675,38.953992,-77.223675,38.953992",
     "geom:latitude":38.953992,
     "geom:longitude":-77.223675,
@@ -33,17 +34,32 @@
         "analyst"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gDH22y4CpAcfbRehJtChw_38.953992_-77.223675@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887462,
-    "wof:geomhash":"a073330bb6c79f22e10bb9d84c74f4eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84e10fd7c13281882197e51bb047a4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":722726643
+        }
+    ],
     "wof:id":722726643,
-    "wof:lastmodified":1472651648,
+    "wof:lastmodified":1492068018,
     "wof:name":"Washington Communications Grp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

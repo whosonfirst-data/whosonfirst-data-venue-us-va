@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.876095,38.430932,-78.876095,38.430932",
     "geom:latitude":38.430932,
     "geom:longitude":-78.876095,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.wvpt.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EyHzx2OTkQHaxjAMA705C_38.430932_-78.876095@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898605,
-    "wof:geomhash":"a3a5d23106a7d5163bcbb49eb4ada703",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f842010fe937b2bdbb0d34329b9982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723275809
+        }
+    ],
     "wof:id":723275809,
-    "wof:lastmodified":1472651815,
+    "wof:lastmodified":1492049408,
     "wof:name":"WVPT Public TV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

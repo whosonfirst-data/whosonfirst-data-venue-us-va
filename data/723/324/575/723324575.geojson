@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.144338,37.414199,-79.144338,37.414199",
     "geom:latitude":37.414199,
     "geom:longitude":-79.144338,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ycn7oj5LOqIbSBAhUG2Tv_37.414199_-79.144338@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899533,
-    "wof:geomhash":"340259f1bfaf8b76dcd8829888ea95ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13c9d4833eb6bc74f534bc57acc31aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":723324575
+        }
+    ],
     "wof:id":723324575,
-    "wof:lastmodified":1472651892,
+    "wof:lastmodified":1492056023,
     "wof:name":"First Unitarian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

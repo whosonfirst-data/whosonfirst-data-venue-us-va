@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.692693,38.827515,-77.692693,38.827515",
     "geom:latitude":38.827515,
     "geom:longitude":-77.692693,
@@ -31,7 +32,12 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30EVW0Q8o5cJPeTiLt8j6Q_38.827515_-77.692693@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908656,
     "wof:geomhash":"8574c7a34b92cf26caab0c5c7cd6e3ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739512581
+        }
+    ],
     "wof:id":739512581,
-    "wof:lastmodified":1472651787,
+    "wof:lastmodified":1492031336,
     "wof:name":"Home At Last Decor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

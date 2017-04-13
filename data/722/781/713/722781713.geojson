@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.211961,38.704634,-77.211961,38.704634",
     "geom:latitude":38.704634,
     "geom:longitude":-77.211961,
@@ -32,17 +33,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SXEkAaW76OvQ3YrEm4VQ3_38.704634_-77.211961@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888533,
-    "wof:geomhash":"0c5a8f46acc7157361e044cf1e072f2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09dc1aaa923a84999753de7cf52243af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":722781713
+        }
+    ],
     "wof:id":722781713,
-    "wof:lastmodified":1472651810,
+    "wof:lastmodified":1492064701,
     "wof:name":"Quality Appliance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

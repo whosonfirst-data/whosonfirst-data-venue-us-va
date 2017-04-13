@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.458878,37.088156,-76.458878,37.088156",
     "geom:latitude":37.088156,
     "geom:longitude":-76.458878,
@@ -28,7 +29,13 @@
     "sg:postcode":"23601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NegZcSpMeiTplUvW7TYjL_37.088156_-76.458878@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903515,
     "wof:geomhash":"31f2982ed8d910ff44efbbe91e7690c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739251193
+        }
+    ],
     "wof:id":739251193,
-    "wof:lastmodified":1472651074,
+    "wof:lastmodified":1492029804,
     "wof:name":"Nursefinders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

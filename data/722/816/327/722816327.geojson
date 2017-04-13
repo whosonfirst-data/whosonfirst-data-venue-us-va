@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.827635,37.365995,-79.827635,37.365995",
     "geom:latitude":37.365995,
     "geom:longitude":-79.827635,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729607,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qttTkDSdPOwwrtqApU50f_37.365995_-79.827635@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889183,
-    "wof:geomhash":"e1d97b0c62112d972b41446543bcec78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"926b041e7f41dda5cad993bec4e61879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729607,
+            "region_id":85688747,
+            "venue_id":722816327
+        }
+    ],
     "wof:id":722816327,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492075200,
     "wof:name":"ABS Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

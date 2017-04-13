@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.329431,37.329501,-77.329431,37.329501",
     "geom:latitude":37.329501,
     "geom:longitude":-77.329431,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729321,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SRv8pAGykuY2rr8fb0efi_37.329501_-77.329431@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893143,
-    "wof:geomhash":"1e3d0c8ddaafc3f5574aa7349994fb38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"862e676d33790ca050eccfa42fb95910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729321,
+            "region_id":85688747,
+            "venue_id":723010021
+        }
+    ],
     "wof:id":723010021,
-    "wof:lastmodified":1472651082,
+    "wof:lastmodified":1492050161,
     "wof:name":"Waltons Hauling Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

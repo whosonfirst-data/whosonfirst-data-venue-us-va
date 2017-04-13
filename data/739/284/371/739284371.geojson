@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.188243,38.959308,-77.188243,38.959308",
     "geom:latitude":38.959308,
     "geom:longitude":-77.188243,
@@ -28,7 +29,13 @@
     "sg:postcode":"22101",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LwcixtoyO8KpirQvLE1NS_38.959308_-77.188243@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904245,
     "wof:geomhash":"07f8fe4a99bbc2105a28b0548f1ad195",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":739284371
+        }
+    ],
     "wof:id":739284371,
-    "wof:lastmodified":1472651164,
+    "wof:lastmodified":1492030623,
     "wof:name":"Kwang OH",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

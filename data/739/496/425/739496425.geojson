@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.417881,37.556905,-76.417881,37.556905",
     "geom:latitude":37.556905,
     "geom:longitude":-76.417881,
@@ -28,7 +29,12 @@
     "sg:postcode":"23176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LrLrMw9RF7VSGokZiZCp1_37.556905_-76.417881@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908367,
     "wof:geomhash":"91cc1e0ba98682f3d129f26889dffd13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":739496425
+        }
+    ],
     "wof:id":739496425,
-    "wof:lastmodified":1472651697,
+    "wof:lastmodified":1492033033,
     "wof:name":"H & J Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.46604,37.436912,-77.46604,37.436912",
     "geom:latitude":37.436912,
     "geom:longitude":-77.46604,
@@ -31,17 +32,32 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y9mbnR6BQinALQuE1fijj_37.436912_-77.466040@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913054,
-    "wof:geomhash":"b02fc4e201a3ad6030603358c21dbba8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"071b64d9cf62d8fab586edb4fe5450ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":739722981
+        }
+    ],
     "wof:id":739722981,
-    "wof:lastmodified":1472652242,
+    "wof:lastmodified":1492046886,
     "wof:name":"B & M Deliveries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

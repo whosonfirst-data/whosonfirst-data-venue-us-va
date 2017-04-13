@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.183494,36.778424,-76.183494,36.778424",
     "geom:latitude":36.778424,
     "geom:longitude":-76.183494,
@@ -38,7 +39,8 @@
         85633793,
         101728745,
         102081929,
-        85876753
+        85876753,
+        85802393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900202,
-    "wof:geomhash":"e2a919f7e8cf820a22d90e8eafefb6f5",
+    "wof:geomhash":"bb2668569186f8a9f62ed7c57fab5358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85876753,
             "region_id":85688747,
             "venue_id":723361099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85802393,
+            "region_id":85688747,
+            "venue_id":723361099
         }
     ],
     "wof:id":723361099,
-    "wof:lastmodified":1472652042,
+    "wof:lastmodified":1492056602,
     "wof:name":"Virginia Coatings Inspections",
-    "wof:parent_id":85876753,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

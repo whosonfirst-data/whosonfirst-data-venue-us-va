@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497942,38.361533,-77.497942,38.361533",
     "geom:latitude":38.361533,
     "geom:longitude":-77.497942,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UHVdAfr2X6O34E5xOpgMw_38.361533_-77.497942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901719,
-    "wof:geomhash":"bdb64ad1a12520227583f29cdf72dfe8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23ace52b44e2e54c4f93bfad0e16996e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547209,
+            "venue_id":723438521
+        }
+    ],
     "wof:id":723438521,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492054322,
     "wof:name":"England Run North Apartments",
     "wof:parent_id":420547209,
     "wof:placetype":"venue",

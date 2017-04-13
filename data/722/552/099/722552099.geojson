@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.059887,37.285834,-80.059887,37.285834",
     "geom:latitude":37.285834,
     "geom:longitude":-80.059887,
@@ -37,17 +38,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iL0QdoABZvWA4go3vHQme_37.285834_-80.059887@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884049,
-    "wof:geomhash":"d383e149ce544d4eb52c7f88d76bcebc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ac4bc61be2d28a6371634d4369e7153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":722552099
+        }
+    ],
     "wof:id":722552099,
-    "wof:lastmodified":1472651082,
+    "wof:lastmodified":1492070256,
     "wof:name":"Data Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564568,37.493761,-77.564568,37.493761",
     "geom:latitude":37.493761,
     "geom:longitude":-77.564568,
@@ -34,17 +35,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YoxCEnx56BpPXsqDJdubQ_37.493602_-77.564647@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909637,
-    "wof:geomhash":"e917fa3bb6fcb842a6c587741747eca4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46129add414bb89ef8da63f8d3948b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739563585
+        }
+    ],
     "wof:id":739563585,
-    "wof:lastmodified":1472651895,
+    "wof:lastmodified":1492043746,
     "wof:name":"Preferred Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

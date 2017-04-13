@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.55615,36.601739,-78.55615,36.601739",
     "geom:latitude":36.601739,
     "geom:longitude":-78.55615,
@@ -32,17 +33,30 @@
         "tobacco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KC23NSIQcTIbQRb9Q2M91_36.601739_-78.556150@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905968,
-    "wof:geomhash":"60c559e95c967d42ababec406005ad22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"683b47842a401f71120b34e6ce119219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739368355
+        }
+    ],
     "wof:id":739368355,
-    "wof:lastmodified":1472651347,
+    "wof:lastmodified":1492041991,
     "wof:name":"Virginia-Carolina Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

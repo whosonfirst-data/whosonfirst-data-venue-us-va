@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.49602,38.787497,-77.49602,38.787497",
     "geom:latitude":38.787497,
     "geom:longitude":-77.49602,
@@ -31,7 +32,13 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MrvbeokymwaIFTENal8yS_38.787497_-77.496020@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907724,
     "wof:geomhash":"0eb00a7c1abe34e8399818fe7d493948",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739460517
+        }
+    ],
     "wof:id":739460517,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492031249,
     "wof:name":"Stricklands Bar-B-Que",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

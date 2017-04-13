@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.015693,36.723895,-78.015693,36.723895",
     "geom:latitude":36.723895,
     "geom:longitude":-78.015693,
@@ -28,7 +29,12 @@
     "sg:postcode":"23920",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05iI1tiIVOmrRUeLpKa0H1_36.723895_-78.015693@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908954,
     "wof:geomhash":"01bb2ea74b5cc2918909d944c896ad58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739528547
+        }
+    ],
     "wof:id":739528547,
-    "wof:lastmodified":1472651774,
+    "wof:lastmodified":1492032506,
     "wof:name":"Harris Construcktion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

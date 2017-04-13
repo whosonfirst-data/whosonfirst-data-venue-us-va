@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735583,37.325379,-76.735583,37.325379",
     "geom:latitude":37.325379,
     "geom:longitude":-76.735583,
@@ -31,19 +32,28 @@
         "sporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oJNtRAUChM3HqQVxopgMA_37.325379_-76.735583@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908041,
-    "wof:geomhash":"944c13559be9e820a1a7b9a993f92c46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7044d974107a2fa598fab2cc0e5413cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739478533
+        }
+    ],
     "wof:id":739478533,
-    "wof:lastmodified":1472651631,
+    "wof:lastmodified":1492042147,
     "wof:name":"G & L Arms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

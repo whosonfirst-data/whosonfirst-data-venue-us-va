@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.252703,37.446397,-79.252703,37.446397",
     "geom:latitude":37.446397,
     "geom:longitude":-79.252703,
@@ -31,7 +32,13 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Jp7yQ4TfoQj4fr8RE9sG_37.446397_-79.252703@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908467,
     "wof:geomhash":"5dd9143427c5557cf589c2a6dcb88a2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739502067
+        }
+    ],
     "wof:id":739502067,
-    "wof:lastmodified":1472651675,
+    "wof:lastmodified":1492029591,
     "wof:name":"Marshall Blackwood Photo Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

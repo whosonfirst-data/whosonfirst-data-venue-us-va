@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124794,38.847768,-77.124794,38.847768",
     "geom:latitude":38.847768,
     "geom:longitude":-77.124794,
@@ -32,17 +33,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eqiXM19DrpbzRjDo7OxIq_38.847141_-77.125332@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909484,
-    "wof:geomhash":"00ce66ca353a57693f6e8b49528b2213",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19c23ecf7593657cc8c227f204a13e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739556339
+        }
+    ],
     "wof:id":739556339,
-    "wof:lastmodified":1472651873,
+    "wof:lastmodified":1492046747,
     "wof:name":"Athens Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

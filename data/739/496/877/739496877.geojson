@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358381,37.507978,-77.358381,37.507978",
     "geom:latitude":37.507978,
     "geom:longitude":-77.358381,
@@ -31,7 +32,12 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HdyReGRlLCq7tPEMa3TSL_37.507978_-77.358381@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908374,
     "wof:geomhash":"735ad82bebcab772663b170f5259389f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739496877
+        }
+    ],
     "wof:id":739496877,
-    "wof:lastmodified":1472651714,
+    "wof:lastmodified":1492033033,
     "wof:name":"D F S Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

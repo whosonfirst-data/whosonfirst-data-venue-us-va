@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.987353,36.705259,-81.987353,36.705259",
     "geom:latitude":36.705259,
     "geom:longitude":-81.987353,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JjAYHlZ4cNslqui3CZKEE_36.705259_-81.987353@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906741,
     "wof:geomhash":"18f72a516d248228f7bdca713f44192c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739408463
+        }
+    ],
     "wof:id":739408463,
-    "wof:lastmodified":1472651463,
+    "wof:lastmodified":1492029936,
     "wof:name":"Ellen's Hair & Nails",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

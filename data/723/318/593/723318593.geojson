@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.179268,36.79973,-76.179268,36.79973",
     "geom:latitude":36.79973,
     "geom:longitude":-76.179268,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85836691,
         85802393
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899425,
-    "wof:geomhash":"5a798f2eacba24eec72359aac675117c",
+    "wof:geomhash":"561ba9e9743a23f9e8b7c3f3a25bf2ed",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85836691,
+            "region_id":85688747,
+            "venue_id":723318593
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723318593,
-    "wof:lastmodified":1472651805,
+    "wof:lastmodified":1492060166,
     "wof:name":"Abnb Federal Credit Union",
-    "wof:parent_id":85802393,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

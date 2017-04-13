@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.048173,36.674762,-82.048173,36.674762",
     "geom:latitude":36.674762,
     "geom:longitude":-82.048173,
@@ -32,17 +33,26 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NCq3bFrQPqcRLLhabILG0_36.674762_-82.048173@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898389,
-    "wof:geomhash":"2bfe6cbdfa27e8a7e12fd0362287f96b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23246f6f30851d5cc388a8acac288b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723264545
+        }
+    ],
     "wof:id":723264545,
-    "wof:lastmodified":1472651801,
+    "wof:lastmodified":1492058703,
     "wof:name":"Moonlite Theatre",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500968,37.620174,-77.500968,37.620174",
     "geom:latitude":37.620174,
     "geom:longitude":-77.500968,
@@ -33,7 +34,13 @@
         "unit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08bxpy2BBjZbUmQGwLTiNI_37.620174_-77.500968@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909296,
     "wof:geomhash":"97bb65fc619b8bc42cbfdc5b78d65156",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":739546845
+        }
+    ],
     "wof:id":739546845,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492031577,
     "wof:name":"Shurgard Storage Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

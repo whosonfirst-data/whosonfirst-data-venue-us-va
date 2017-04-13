@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.441563,38.58105,-78.441563,38.58105",
     "geom:latitude":38.58105,
     "geom:longitude":-78.441563,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fffZCVjHy1IciPCxxdyme_38.581050_-78.441563@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900732,
-    "wof:geomhash":"2c7c10e7bdc5dcfd87415c417a52894b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8299502f9c034596640f194517c6d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084929,
+            "region_id":85688747,
+            "venue_id":723388021
+        }
+    ],
     "wof:id":723388021,
-    "wof:lastmodified":1472652101,
+    "wof:lastmodified":1492061237,
     "wof:name":"Old Dominion Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

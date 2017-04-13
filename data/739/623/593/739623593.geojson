@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.343407,38.821831,-77.343407,38.821831",
     "geom:latitude":38.821831,
     "geom:longitude":-77.343407,
@@ -33,7 +34,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729811,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Tgj2v2oXR1N63x0vOqum_38.821831_-77.343407@1303262537"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910907,
     "wof:geomhash":"95cae040b87b3f78a1dc10778ff9e5c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729811,
+            "region_id":85688747,
+            "venue_id":739623593
+        }
+    ],
     "wof:id":739623593,
-    "wof:lastmodified":1472651999,
+    "wof:lastmodified":1492031365,
     "wof:name":"Ground One Landscape Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

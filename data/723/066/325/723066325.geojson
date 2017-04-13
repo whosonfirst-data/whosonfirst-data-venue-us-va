@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.282372,37.909464,-76.282372,37.909464",
     "geom:latitude":37.909464,
     "geom:longitude":-76.282372,
@@ -31,17 +32,30 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3srEMPt0nVsydtSuMt0szQ_37.909464_-76.282372@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894351,
-    "wof:geomhash":"9760260c19bcdb7d4410f91f109da5ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb4df6d09012a220417134ccf058398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":723066325
+        }
+    ],
     "wof:id":723066325,
-    "wof:lastmodified":1472651216,
+    "wof:lastmodified":1492060190,
     "wof:name":"659 Ferry Landing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

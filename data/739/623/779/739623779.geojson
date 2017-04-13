@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.308252,38.874957,-77.308252,38.874957",
     "geom:latitude":38.874957,
     "geom:longitude":-77.308252,
@@ -33,7 +34,13 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26D9EDT7eVM4Q9wffMcJYH_38.874957_-77.308252@1303262537"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910910,
     "wof:geomhash":"65da10f160d361622d8bfdff72852466",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":739623779
+        }
+    ],
     "wof:id":739623779,
-    "wof:lastmodified":1472652014,
+    "wof:lastmodified":1492031368,
     "wof:name":"Talon Support Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

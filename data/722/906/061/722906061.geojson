@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901531,36.698399,-78.901531,36.698399",
     "geom:latitude":36.698399,
     "geom:longitude":-78.901531,
@@ -31,17 +32,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gyI2Kc8gAz28QiIJhFnEI_36.698399_-78.901531@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890909,
-    "wof:geomhash":"9d07e8041dd6b6ca577467d4c1bb6542",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03bcc943f698be6d1ce25c27d159ad53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":722906061
+        }
+    ],
     "wof:id":722906061,
-    "wof:lastmodified":1472652101,
+    "wof:lastmodified":1492064858,
     "wof:name":"Commonwealth Home Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

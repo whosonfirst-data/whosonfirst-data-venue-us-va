@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476468,39.03467,-77.476468,39.03467",
     "geom:latitude":39.03467,
     "geom:longitude":-77.476468,
@@ -34,7 +35,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BRIkl7xSzXa8rKfRCxEtm_39.034670_-77.476468@1299784598"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461909960,
     "wof:geomhash":"18e79404008a4c31191c5c9d3f0b9043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739577845
+        }
+    ],
     "wof:id":739577845,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492033227,
     "wof:name":"Vocelli Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

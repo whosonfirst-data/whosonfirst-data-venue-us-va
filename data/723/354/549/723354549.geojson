@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.196981,38.793507,-77.196981,38.793507",
     "geom:latitude":38.793507,
     "geom:longitude":-77.196981,
@@ -37,7 +38,8 @@
         85633793,
         101729791,
         102084863,
-        85835021
+        85835021,
+        85894031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900080,
-    "wof:geomhash":"49709a3d444c30c3345498c4560d40a4",
+    "wof:geomhash":"aed18332a1acb0e374395a5d40833af2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85835021,
             "region_id":85688747,
             "venue_id":723354549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729791,
+            "neighbourhood_id":85894031,
+            "region_id":85688747,
+            "venue_id":723354549
         }
     ],
     "wof:id":723354549,
-    "wof:lastmodified":1472652056,
+    "wof:lastmodified":1492060536,
     "wof:name":"Lorettas Home of Agape Inc",
-    "wof:parent_id":85835021,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

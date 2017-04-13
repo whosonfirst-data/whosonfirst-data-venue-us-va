@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.33425,38.415184,-77.33425,38.415184",
     "geom:latitude":38.415184,
     "geom:longitude":-77.33425,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F2tNP6a1NAkg5b4tNSVrf_38.415184_-77.334250@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907945,
-    "wof:geomhash":"9f632d9e3ddf3bf5b95c4654f9d353f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9963c6eecc2b5a7d19b4688fcafbb319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547153,
+            "venue_id":739472995
+        }
+    ],
     "wof:id":739472995,
-    "wof:lastmodified":1472651651,
+    "wof:lastmodified":1492037764,
     "wof:name":"Bertelli",
     "wof:parent_id":420547153,
     "wof:placetype":"venue",

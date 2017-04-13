@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.980211,36.708808,-81.980211,36.708808",
     "geom:latitude":36.708808,
     "geom:longitude":-81.980211,
@@ -28,19 +29,42 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307,
+        85688747,
+        102191575,
+        101728829,
+        102087301,
+        85847903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JKC3dkyyJ6gaTjvzu6WOD_36.708808_-81.980211@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905198,
-    "wof:geomhash":"1bef9de1c925313bc4a8211ef91d6a3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b9c7cb75fb82d99dff2359df91c3815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739331003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087301,
+            "locality_id":101728829,
+            "neighbourhood_id":85847903,
+            "region_id":85688747,
+            "venue_id":739331003
+        }
+    ],
     "wof:id":739331003,
-    "wof:lastmodified":1472651256,
+    "wof:lastmodified":1492043128,
     "wof:name":"Wright Way Chiropractic",
-    "wof:parent_id":420547307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

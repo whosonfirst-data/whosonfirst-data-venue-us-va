@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.602746,38.899681,-78.602746,38.899681",
     "geom:latitude":38.899681,
     "geom:longitude":-78.602746,
@@ -31,17 +32,30 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S9cHc5NqQNfcMzddm52ep_38.899681_-78.602746@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900411,
-    "wof:geomhash":"501b0523197be5f3667025508084d8ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a45fcb41a3137982e944fed0e3c62ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":723371621
+        }
+    ],
     "wof:id":723371621,
-    "wof:lastmodified":1472652078,
+    "wof:lastmodified":1492050105,
     "wof:name":"Howard Lutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

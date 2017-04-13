@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.608395,37.520796,-77.608395,37.520796",
     "geom:latitude":37.520796,
     "geom:longitude":-77.608395,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RkzhXI1LpctDPbRcoItnj_37.520796_-77.608395@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908757,
-    "wof:geomhash":"65c01548f60e447c085ffea1b8db188a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d4332d0de558faa7d4f7a1c031d8940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739518115
+        }
+    ],
     "wof:id":739518115,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492041458,
     "wof:name":"Miller Neighborhood Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

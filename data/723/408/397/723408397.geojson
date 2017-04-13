@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.532676,37.122678,-80.532676,37.122678",
     "geom:latitude":37.122678,
     "geom:longitude":-80.532676,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728831,
+        102081063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00E9REZZoJALRHY5aJoLQT_37.122678_-80.532676@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901137,
-    "wof:geomhash":"ba8f0e03481a5a20f3b67f99999c13eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f6e0e8607541b27e084a82f1d3c4f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "region_id":85688747,
+            "venue_id":723408397
+        }
+    ],
     "wof:id":723408397,
-    "wof:lastmodified":1472652147,
+    "wof:lastmodified":1492048054,
     "wof:name":"Dan's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

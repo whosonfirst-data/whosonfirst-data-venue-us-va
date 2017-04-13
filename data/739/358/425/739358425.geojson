@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.342412,37.057776,-76.342412,37.057776",
     "geom:latitude":37.057776,
     "geom:longitude":-76.342412,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3axEa1BJfZ542DdlkAJdGr_37.057776_-76.342412@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905783,
-    "wof:geomhash":"251299a7471d02c3c2964ae3a9e1b636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8447641bc2b8f8e08b40f81d55eeaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739358425
+        }
+    ],
     "wof:id":739358425,
-    "wof:lastmodified":1472651339,
+    "wof:lastmodified":1492040177,
     "wof:name":"Langley Afb Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.632855,37.320618,-80.632855,37.320618",
     "geom:latitude":37.320618,
     "geom:longitude":-80.632855,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728853,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P9BIY2TCC9hazS1nICaWw_37.320618_-80.632855@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895897,
-    "wof:geomhash":"2543b787e7284f9df22da1d3d70c1982",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6d9b17e7f01402b53c84592e838ea2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728853,
+            "region_id":85688747,
+            "venue_id":723139761
+        }
+    ],
     "wof:id":723139761,
-    "wof:lastmodified":1472651395,
+    "wof:lastmodified":1492048549,
     "wof:name":"On Air Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

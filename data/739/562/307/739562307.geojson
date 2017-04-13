@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.577747,38.462899,-77.577747,38.462899",
     "geom:latitude":38.462899,
     "geom:longitude":-77.577747,
@@ -27,19 +28,38 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547205,
+        85688747,
+        85893991,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kPUZFYSJAsg0CAVpGX7Zd_38.462899_-77.577747@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909607,
-    "wof:geomhash":"da4369d1cff263d2088a0d98b9a7c44c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"949f22eaf98c257f2cd5e3a3a08f9fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547205,
+            "venue_id":739562307
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "neighbourhood_id":85893991,
+            "region_id":85688747,
+            "venue_id":739562307
+        }
+    ],
     "wof:id":739562307,
-    "wof:lastmodified":1472651875,
+    "wof:lastmodified":1492040885,
     "wof:name":"Paul Dye",
-    "wof:parent_id":420547205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

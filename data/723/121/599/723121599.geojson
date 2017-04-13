@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.521929,37.123611,-81.521929,37.123611",
     "geom:latitude":37.123611,
     "geom:longitude":-81.521929,
@@ -32,17 +33,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kiObUh30xj4Q9Vs027qJH_37.123611_-81.521929@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895547,
-    "wof:geomhash":"97aac7eaa04cd3bf392c84f2962f3c0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3d1c35320956a3b6c853386920b9098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723121599
+        }
+    ],
     "wof:id":723121599,
-    "wof:lastmodified":1472651355,
+    "wof:lastmodified":1492055856,
     "wof:name":"Riverjack Recycling",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

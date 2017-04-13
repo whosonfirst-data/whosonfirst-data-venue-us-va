@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.353698,38.991951,-78.353698,38.991951",
     "geom:latitude":38.991951,
     "geom:longitude":-78.353698,
@@ -31,19 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101728883,
+        102081061,
+        85851227
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L1EhzZmFZjeu3RyQLpVKe_38.991951_-78.353698@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908159,
-    "wof:geomhash":"a64b300c8fd7fc3260aa11b16dc08b52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d80c5d0438b98c0f110426bb2ddecc27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "neighbourhood_id":85851227,
+            "region_id":85688747,
+            "venue_id":739484877
+        }
+    ],
     "wof:id":739484877,
-    "wof:lastmodified":1472651665,
+    "wof:lastmodified":1492037448,
     "wof:name":"JLT Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

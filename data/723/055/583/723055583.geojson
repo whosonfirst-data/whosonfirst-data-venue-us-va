@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434006,37.585149,-77.434006,37.585149",
     "geom:latitude":37.585149,
     "geom:longitude":-77.434006,
@@ -33,17 +34,30 @@
         "laundry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NyaNRskkeDNMhcwfPFqDv_37.585149_-77.434006@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894120,
-    "wof:geomhash":"8c51c2cd2a1a70631646434e32c7050c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"070ed5050687a55f25309140d05146a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723055583
+        }
+    ],
     "wof:id":723055583,
-    "wof:lastmodified":1472651208,
+    "wof:lastmodified":1492058336,
     "wof:name":"Laundromat City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

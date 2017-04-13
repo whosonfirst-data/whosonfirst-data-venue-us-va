@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.321551,37.548926,-77.321551,37.548926",
     "geom:latitude":37.548926,
     "geom:longitude":-77.321551,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uKx2b0HCSEXqrQghRoK3f_37.548926_-77.321551@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901243,
-    "wof:geomhash":"193b2f293f5600b9f953975d62fc4754",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca4177339006d8f5947e0ea68b17d002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":723413885
+        }
+    ],
     "wof:id":723413885,
-    "wof:lastmodified":1472652201,
+    "wof:lastmodified":1492059029,
     "wof:name":"Hunt Brooks Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

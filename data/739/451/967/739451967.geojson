@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435798,38.302917,-77.435798,38.302917",
     "geom:latitude":38.302917,
     "geom:longitude":-77.435798,
@@ -31,7 +32,10 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fHDzxa3EP5obipwE2ktCx_38.302917_-77.435798@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907577,
     "wof:geomhash":"459ab7fb8b5687ee457acdbff859e148",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":739451967
+        }
+    ],
     "wof:id":739451967,
-    "wof:lastmodified":1472651598,
+    "wof:lastmodified":1492031159,
     "wof:name":"Blackberry Inn",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503524,38.25217,-77.503524,38.25217",
     "geom:latitude":38.25217,
     "geom:longitude":-77.503524,
@@ -33,7 +34,12 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YksTDVvrPSm1C43eG7yEm_38.252170_-77.503524@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906008,
     "wof:geomhash":"1fe9987cadd12463fbf2f76c1619f9b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739370665
+        }
+    ],
     "wof:id":739370665,
-    "wof:lastmodified":1472651366,
+    "wof:lastmodified":1492031011,
     "wof:name":"Earl Chastain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

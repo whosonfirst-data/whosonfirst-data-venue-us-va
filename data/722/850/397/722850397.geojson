@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.98927,36.707768,-81.98927,36.707768",
     "geom:latitude":36.707768,
     "geom:longitude":-81.98927,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30l48cdHdW4MnHzKKBswom_36.707768_-81.989270@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889831,
-    "wof:geomhash":"2c750e78f1d97855c62d62c29933c900",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b3cda8cedfb274a29f27b2eb8c41da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722850397
+        }
+    ],
     "wof:id":722850397,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492064348,
     "wof:name":"Jl McCall Const Co",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

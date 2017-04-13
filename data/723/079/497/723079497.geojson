@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.368813,38.993614,-78.368813,38.993614",
     "geom:latitude":38.993614,
     "geom:longitude":-78.368813,
@@ -32,17 +33,32 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XEHr6f4CoH3e6OaSgUEw4_38.993614_-78.368813@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894669,
-    "wof:geomhash":"56cba1b53fac5e8a7c67198def4bff29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53622dbbf9b7a1433ba3fb63be963f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":723079497
+        }
+    ],
     "wof:id":723079497,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492049856,
     "wof:name":"Hillcrest Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

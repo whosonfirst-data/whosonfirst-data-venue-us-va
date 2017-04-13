@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.984138,36.775155,-76.984138,36.775155",
     "geom:latitude":36.775155,
     "geom:longitude":-76.984138,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729491,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L3V2l0Heaqbt38lCJUhmm_36.775155_-76.984138@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913288,
-    "wof:geomhash":"1d4b42dc0bec08c855d0c306d4fdc30f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44b0b06edab16466ccf1a5c73bccd4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101729491,
+            "region_id":85688747,
+            "venue_id":739734405
+        }
+    ],
     "wof:id":739734405,
-    "wof:lastmodified":1472652229,
+    "wof:lastmodified":1492043337,
     "wof:name":"USPS - United States Post Office - Sedley Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

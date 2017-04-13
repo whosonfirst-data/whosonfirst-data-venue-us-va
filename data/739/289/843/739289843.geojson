@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.314957,38.728834,-77.314957,38.728834",
     "geom:latitude":38.728834,
     "geom:longitude":-77.314957,
@@ -32,17 +33,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tuUBlSpDFtgBKxcdliWac_38.728834_-77.314957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904364,
-    "wof:geomhash":"2ea995b30295e97a6771d146224d5ce1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"119a50ba3508256916e75c15910ee862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739289843
+        }
+    ],
     "wof:id":739289843,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492047126,
     "wof:name":"Campbell Drive Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

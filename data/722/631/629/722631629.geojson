@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.981343,36.709582,-81.981343,36.709582",
     "geom:latitude":36.709582,
     "geom:longitude":-81.981343,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f07GY9d4SxdqUVfPXEpZe_36.709582_-81.981343@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885657,
-    "wof:geomhash":"b7ecc17bf9bee3663649fe5a9a3ac228",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e74d662ead99bafcd5a4b6895decb13c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722631629
+        }
+    ],
     "wof:id":722631629,
-    "wof:lastmodified":1472651420,
+    "wof:lastmodified":1492063659,
     "wof:name":"Abingdon Family Practice",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

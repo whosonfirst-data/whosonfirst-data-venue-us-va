@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.523028,37.398018,-76.523028,37.398018",
     "geom:latitude":37.398018,
     "geom:longitude":-76.523028,
@@ -28,7 +29,13 @@
     "sg:postcode":"23061",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hyce3nNhvARdIFNZXLbOw_37.398018_-76.523028@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905424,
     "wof:geomhash":"49479a0749844ff92158129805f4e54c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":739341989
+        }
+    ],
     "wof:id":739341989,
-    "wof:lastmodified":1472651314,
+    "wof:lastmodified":1492032537,
     "wof:name":"Felton S Graham Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

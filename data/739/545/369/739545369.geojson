@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.813349,37.751642,-77.813349,37.751642",
     "geom:latitude":37.751642,
     "geom:longitude":-77.813349,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HhOL6fmkLzqEqE72YKmdb_37.751642_-77.813349@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909271,
-    "wof:geomhash":"08ef62a1cde8abde3c41c5356944946b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8ca5bd78b9fe6e493258aac1478470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739545369
+        }
+    ],
     "wof:id":739545369,
-    "wof:lastmodified":1472651860,
+    "wof:lastmodified":1492041266,
     "wof:name":"Saint Mark Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

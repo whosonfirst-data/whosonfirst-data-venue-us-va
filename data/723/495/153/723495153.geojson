@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.010814,36.695817,-82.010814,36.695817",
     "geom:latitude":36.695817,
     "geom:longitude":-82.010814,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xJAMp8x2soXcfWodvsXZk_36.695817_-82.010814@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902840,
-    "wof:geomhash":"10cc59cf20573e536e90c77d971976c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9073cdf6f2d1eabc83b4a5f70bcb684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723495153
+        }
+    ],
     "wof:id":723495153,
-    "wof:lastmodified":1472652333,
+    "wof:lastmodified":1492053241,
     "wof:name":"Scott's Cars",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

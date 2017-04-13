@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.433569,37.234873,-80.433569,37.234873",
     "geom:latitude":37.234873,
     "geom:longitude":-80.433569,
@@ -40,8 +41,8 @@
         85633793,
         101728705,
         102087271,
-        420559611,
-        85853185
+        85853185,
+        420559611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461883874,
-    "wof:geomhash":"f09a9df479e6dc2009a646ded96cfe3b",
+    "wof:geomhash":"45d7fd43f23e1629b6444d593ef19427",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087271,
-            "locality_id":101728705,
-            "neighbourhood_id":420559611,
-            "region_id":85688747,
-            "venue_id":722543295
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +60,21 @@
             "neighbourhood_id":85853185,
             "region_id":85688747,
             "venue_id":722543295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728705,
+            "neighbourhood_id":420559611,
+            "region_id":85688747,
+            "venue_id":722543295
         }
     ],
     "wof:id":722543295,
-    "wof:lastmodified":1472651073,
+    "wof:lastmodified":1492065717,
     "wof:name":"Artists Choice Framing Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

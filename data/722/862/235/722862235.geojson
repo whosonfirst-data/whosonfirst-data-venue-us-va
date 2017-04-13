@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737042,37.31417,-76.737042,37.31417",
     "geom:latitude":37.31417,
     "geom:longitude":-76.737042,
@@ -31,17 +32,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26cqvMh6cxx2Da9VwdhXdk_37.314170_-76.737042@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890056,
-    "wof:geomhash":"1dfc5175b54c7a9a7feefd81677cf66d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"811aee87ab2f280127e6c38e940a7823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722862235
+        }
+    ],
     "wof:id":722862235,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492066774,
     "wof:name":"Colonial Towing",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

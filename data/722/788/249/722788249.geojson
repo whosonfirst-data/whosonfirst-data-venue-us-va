@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442718,38.311181,-77.442718,38.311181",
     "geom:latitude":38.311181,
     "geom:longitude":-77.442718,
@@ -32,17 +33,26 @@
         "counter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HPnZxmjHKpGAwgry3Frh3_38.311181_-77.442718@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888662,
-    "wof:geomhash":"4ba5ab7f9c9b5dc877760be1ebb143de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a648741e26cbb591b995ef42e6597d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":722788249
+        }
+    ],
     "wof:id":722788249,
-    "wof:lastmodified":1472651744,
+    "wof:lastmodified":1492064079,
     "wof:name":"East Coast Assoc Inc",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

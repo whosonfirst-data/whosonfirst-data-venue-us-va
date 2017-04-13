@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.131302,38.849701,-77.131302,38.849701",
     "geom:latitude":38.849701,
     "geom:longitude":-77.131302,
@@ -31,7 +32,13 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UzJ4fIjhB1k1dfsSWQsy3_38.849701_-77.131302@1303262538"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910995,
     "wof:geomhash":"d79d0843b0eb33ac81400cda4df96168",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739628267
+        }
+    ],
     "wof:id":739628267,
-    "wof:lastmodified":1472652000,
+    "wof:lastmodified":1492030481,
     "wof:name":"Full Kee Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

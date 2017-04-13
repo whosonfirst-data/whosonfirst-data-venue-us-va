@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.628978,38.89149,-77.628978,38.89149",
     "geom:latitude":38.89149,
     "geom:longitude":-77.628978,
@@ -28,7 +29,12 @@
     "sg:postcode":"20169",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RdeBot8gWViBUow3Ndam0_38.891490_-77.628978@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907725,
     "wof:geomhash":"8ee2c39a67caa0c8d1d7c809ae478bd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739460569
+        }
+    ],
     "wof:id":739460569,
-    "wof:lastmodified":1472651587,
+    "wof:lastmodified":1492031231,
     "wof:name":"Aurelio A Roca DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

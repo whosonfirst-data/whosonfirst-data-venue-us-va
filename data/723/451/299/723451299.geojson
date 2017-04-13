@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.598347,38.204735,-77.598347,38.204735",
     "geom:latitude":38.204735,
     "geom:longitude":-77.598347,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729171,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JiYwPcK96lhmUxx40VN8w_38.204735_-77.598347@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901965,
-    "wof:geomhash":"9a1fae8448b71769c4d2bd531b2e90f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69c5e31da100b033528775a3ca5b7928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "locality_id":101729171,
+            "region_id":85688747,
+            "venue_id":723451299
+        }
+    ],
     "wof:id":723451299,
-    "wof:lastmodified":1472652280,
+    "wof:lastmodified":1492049509,
     "wof:name":"Pines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

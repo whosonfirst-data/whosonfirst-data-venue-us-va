@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.199287,38.741402,-77.199287,38.741402",
     "geom:latitude":38.741402,
     "geom:longitude":-77.199287,
@@ -35,17 +36,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yngToTf46Dg15Gjt4iSX1_38.741402_-77.199287@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911254,
-    "wof:geomhash":"345221a161e5fd3a0a58eeae53efaf07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3367fa72835e6c8cf9358db1888de566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739639889
+        }
+    ],
     "wof:id":739639889,
-    "wof:lastmodified":1472652072,
+    "wof:lastmodified":1492044093,
     "wof:name":"Mercury Empire, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.49174,37.610553,-77.49174,37.610553",
     "geom:latitude":37.610553,
     "geom:longitude":-77.49174,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729369,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BzcHb6wvB2TImOOE9UlJ7_37.610553_-77.491740@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906853,
     "wof:geomhash":"7f5f6647ffe5b75d24d0aa68241a686c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729369,
+            "region_id":85688747,
+            "venue_id":739414771
+        }
+    ],
     "wof:id":739414771,
-    "wof:lastmodified":1472651495,
+    "wof:lastmodified":1492032384,
     "wof:name":"Holeman The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

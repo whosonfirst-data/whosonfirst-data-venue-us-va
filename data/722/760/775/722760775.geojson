@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.879995,38.436006,-78.879995,38.436006",
     "geom:latitude":38.436006,
     "geom:longitude":-78.879995,
@@ -28,17 +29,32 @@
     "sg:postcode":"22801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FhVoBXgqmmoDj0kLmklFk_38.436006_-78.879995@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888140,
-    "wof:geomhash":"69dfd00cc1d08eb7aa7922120852da63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feae5c78bb2b5124705925aa2814ae8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722760775
+        }
+    ],
     "wof:id":722760775,
-    "wof:lastmodified":1472651806,
+    "wof:lastmodified":1492066729,
     "wof:name":"Sun Trust Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.786847,37.237867,-76.786847,37.237867",
     "geom:latitude":37.237867,
     "geom:longitude":-76.786847,
@@ -28,19 +29,28 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47eMedc7SsSAWMpgRRb11h_37.237867_-76.786847@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892210,
-    "wof:geomhash":"e1c9c5c904dd5071815bea35317062ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ff10619f72f6fdca57b07aaf62c3118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":722968859
+        }
+    ],
     "wof:id":722968859,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492075353,
     "wof:name":"M Hoff Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

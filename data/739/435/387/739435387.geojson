@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.171638,39.183222,-78.171638,39.183222",
     "geom:latitude":39.183222,
     "geom:longitude":-78.171638,
@@ -32,7 +33,13 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V1Az4mByNxTY8wYMeUif5_39.183222_-78.171638@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907269,
     "wof:geomhash":"e0ea7f3f82277313cbeaaeabfc9fd334",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739435387
+        }
+    ],
     "wof:id":739435387,
-    "wof:lastmodified":1472651518,
+    "wof:lastmodified":1492029385,
     "wof:name":"Winchester Rehabilitation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

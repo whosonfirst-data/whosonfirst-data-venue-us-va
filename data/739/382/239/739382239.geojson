@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.182621,37.367203,-79.182621,37.367203",
     "geom:latitude":37.367203,
     "geom:longitude":-79.182621,
@@ -28,7 +29,13 @@
     "sg:postcode":"24502",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B2gH0CdsBQDg15RiPB6tT_37.367203_-79.182621@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906237,
     "wof:geomhash":"6b4b82823143975ddc94b106e4e03f33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739382239
+        }
+    ],
     "wof:id":739382239,
-    "wof:lastmodified":1472651342,
+    "wof:lastmodified":1492030648,
     "wof:name":"Northern Tool & Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

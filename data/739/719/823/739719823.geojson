@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.49437,37.60574,-77.49437,37.60574",
     "geom:latitude":37.60574,
     "geom:longitude":-77.49437,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"http://www.liquid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_140BHZLnSUJUEUywrcbab3_37.605740_-77.494370@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912990,
-    "wof:geomhash":"0b2ec7465c0f2c7ee7209353ae81ac33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8c7e1662e0c0150740b9ea75ef45732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":739719823
+        }
+    ],
     "wof:id":739719823,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492044679,
     "wof:name":"Liquid, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

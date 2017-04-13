@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.861358,37.706708,-77.861358,37.706708",
     "geom:latitude":37.706708,
     "geom:longitude":-77.861358,
@@ -33,17 +34,30 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ps7XfI1hW7JjRpnxInZPp_37.706708_-77.861358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908121,
-    "wof:geomhash":"babdf7a546b68e87a0073fa64232c126",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb111b2020cff2c8c470af484d2165dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739482851
+        }
+    ],
     "wof:id":739482851,
-    "wof:lastmodified":1472651653,
+    "wof:lastmodified":1492044651,
     "wof:name":"Swift Exploration Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

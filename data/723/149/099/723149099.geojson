@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.370992,38.494601,-77.370992,38.494601",
     "geom:latitude":38.494601,
     "geom:longitude":-77.370992,
@@ -32,17 +33,26 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DjE4SSANRM9SSEviXhH4l_38.494601_-77.370992@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896080,
-    "wof:geomhash":"c6b18bddc470a716124f026c696b516e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c246d16a60a873f0e02014744ba1f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":723149099
+        }
+    ],
     "wof:id":723149099,
-    "wof:lastmodified":1472651395,
+    "wof:lastmodified":1492060937,
     "wof:name":"National Auto Parts",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

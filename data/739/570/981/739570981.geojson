@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.634596,38.753901,-78.634596,38.753901",
     "geom:latitude":38.753901,
     "geom:longitude":-78.634596,
@@ -25,7 +26,13 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728875,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nV9l6uxOSuEpxdO8MJ55d_38.753901_-78.634596@1294252573"
@@ -33,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1461909801,
     "wof:geomhash":"91eaa56a9c55b4be204a88577967e21c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728875,
+            "region_id":85688747,
+            "venue_id":739570981
+        }
+    ],
     "wof:id":739570981,
-    "wof:lastmodified":1472651916,
+    "wof:lastmodified":1492031738,
     "wof:name":"Holtzman Propane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

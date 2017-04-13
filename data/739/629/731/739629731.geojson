@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.22567,38.675301,-77.22567,38.675301",
     "geom:latitude":38.675301,
     "geom:longitude":-77.22567,
@@ -28,7 +29,13 @@
     "sg:postcode":"22079",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729833,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0guFeBMpQyGStKtGe6vI0t_38.675301_-77.225670@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461911021,
     "wof:geomhash":"c9945bd3a049143d2de0ab26af657bb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729833,
+            "region_id":85688747,
+            "venue_id":739629731
+        }
+    ],
     "wof:id":739629731,
-    "wof:lastmodified":1472652019,
+    "wof:lastmodified":1492033284,
     "wof:name":"Champ Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

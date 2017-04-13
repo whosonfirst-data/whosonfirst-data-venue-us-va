@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.470293,38.882192,-77.470293,38.882192",
     "geom:latitude":38.882192,
     "geom:longitude":-77.470293,
@@ -33,7 +34,13 @@
     "sg:province":"VA",
     "sg:website":"www.fairfaxcounty.gov/parks/offl...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16w9y22BhSG8kzbezgX12M_38.882192_-77.470293@1303262496"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910593,
     "wof:geomhash":"802322b89113a2edf956d0749e655136",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739609463
+        }
+    ],
     "wof:id":739609463,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492032665,
     "wof:name":"Quinn Farm Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.068311,37.678168,-80.068311,37.678168",
     "geom:latitude":37.678168,
     "geom:longitude":-80.068311,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rDiLcYFS2OgIhx7qSBlfK_37.678168_-80.068311@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461903720,
     "wof:geomhash":"e006c56b212f75e5d974c20dfc88b2ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083817,
+            "region_id":85688747,
+            "venue_id":739260775
+        }
+    ],
     "wof:id":739260775,
-    "wof:lastmodified":1472651126,
+    "wof:lastmodified":1492030870,
     "wof:name":"R & C Brookman Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

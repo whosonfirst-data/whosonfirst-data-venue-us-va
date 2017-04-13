@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.603595,36.613018,-81.603595,36.613018",
     "geom:latitude":36.613018,
     "geom:longitude":-81.603595,
@@ -33,17 +34,30 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rl4IcmiQlP9a36ovElvJn_36.613018_-81.603595@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904691,
-    "wof:geomhash":"5ce29435c7c2de2aa8a8cd404ebadf41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e07a156ac419cc1618edc7eee37999e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087253,
+            "region_id":85688747,
+            "venue_id":739305575
+        }
+    ],
     "wof:id":739305575,
-    "wof:lastmodified":1472651223,
+    "wof:lastmodified":1492044230,
     "wof:name":"Enchanted Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

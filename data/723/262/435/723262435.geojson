@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.822828,37.252634,-76.822828,37.252634",
     "geom:latitude":37.252634,
     "geom:longitude":-76.822828,
@@ -32,17 +33,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09LH63v0GqCaQbnoDx3EjF_37.252634_-76.822828@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898349,
-    "wof:geomhash":"804e5bcc9c0d8de94b10dc5be7edd67b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64cd2fa08b54b801b787471422888c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546809,
+            "venue_id":723262435
+        }
+    ],
     "wof:id":723262435,
-    "wof:lastmodified":1472651787,
+    "wof:lastmodified":1492060877,
     "wof:name":"Mecx LLC",
     "wof:parent_id":420546809,
     "wof:placetype":"venue",

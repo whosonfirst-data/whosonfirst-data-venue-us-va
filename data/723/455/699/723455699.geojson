@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526086,37.60922,-77.526086,37.60922",
     "geom:latitude":37.60922,
     "geom:longitude":-77.526086,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k1zo8X7aSRA0hnCdJZesm_37.609220_-77.526086@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902047,
-    "wof:geomhash":"291b97494cd4d18fa9bdef72b3c106ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"997d3873e1836537d754c8ad5a58c012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723455699
+        }
+    ],
     "wof:id":723455699,
-    "wof:lastmodified":1472652303,
+    "wof:lastmodified":1492051524,
     "wof:name":"Commerce Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

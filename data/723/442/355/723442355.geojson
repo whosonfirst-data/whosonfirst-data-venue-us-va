@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.939231,37.395453,-76.939231,37.395453",
     "geom:latitude":37.395453,
     "geom:longitude":-76.939231,
@@ -31,19 +32,28 @@
         "roofing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43DD3yW71MozF6sJyDSwCz_37.395453_-76.939231@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901808,
-    "wof:geomhash":"cb1b12a4464e3d0c27a92d70d06cb10d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42c83a4dd0dad36ed44781dc0c62e718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723442355
+        }
+    ],
     "wof:id":723442355,
-    "wof:lastmodified":1472652255,
+    "wof:lastmodified":1492048329,
     "wof:name":"Trading and Swanson Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

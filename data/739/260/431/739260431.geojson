@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.472639,38.241975,-77.472639,38.241975",
     "geom:latitude":38.241975,
     "geom:longitude":-77.472639,
@@ -31,7 +32,12 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37uZForpYhG3MGlv9yrm9U_38.241975_-77.472639@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903710,
     "wof:geomhash":"e1cfc4d4b96f291fac9b07713fc417a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739260431
+        }
+    ],
     "wof:id":739260431,
-    "wof:lastmodified":1472651111,
+    "wof:lastmodified":1492030868,
     "wof:name":"VCA Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

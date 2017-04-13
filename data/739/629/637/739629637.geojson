@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.195543,38.728128,-77.195543,38.728128",
     "geom:latitude":38.728128,
     "geom:longitude":-77.195543,
@@ -43,7 +44,13 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4emYVYqCcHtlZ8IqzZhEr9_38.728128_-77.195543@1303262538"
@@ -51,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461911019,
     "wof:geomhash":"64a06a12ab46ee73f64feb4a1971f0c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739629637
+        }
+    ],
     "wof:id":739629637,
-    "wof:lastmodified":1472652015,
+    "wof:lastmodified":1492033298,
     "wof:name":"Dwyer Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

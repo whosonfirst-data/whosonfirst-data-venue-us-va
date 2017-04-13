@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.193658,38.71704,-77.193658,38.71704",
     "geom:latitude":38.71704,
     "geom:longitude":-77.193658,
@@ -32,17 +33,32 @@
         "guide"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TvH2jk1kxcxAOv9uZrTSE_38.717040_-77.193658@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897379,
-    "wof:geomhash":"29ecc45864d92123bb7c1dd87f1955bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d05271a7a54472aa75c1a96fce2661d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":723215739
+        }
+    ],
     "wof:id":723215739,
-    "wof:lastmodified":1472651637,
+    "wof:lastmodified":1492059441,
     "wof:name":"Employment Guide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.517236,37.121264,-81.517236,37.121264",
     "geom:latitude":37.121264,
     "geom:longitude":-81.517236,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I61WDPcE2uGVs0V4QhiRP_37.121264_-81.517236@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892316,
-    "wof:geomhash":"71be9f3098a36cbed0839dfcb892c5a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c490b6f7b6e5dd8805bf6df56ef4e664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722973263
+        }
+    ],
     "wof:id":722973263,
-    "wof:lastmodified":1472652305,
+    "wof:lastmodified":1492070356,
     "wof:name":"St Theresa's Catholic",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.941438,37.263329,-79.941438,37.263329",
     "geom:latitude":37.263329,
     "geom:longitude":-79.941438,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"http://www.roanokeasc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xj5xlQFCM4Q9cfZkADTr6_37.263329_-79.941438@1303262552"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913325,
     "wof:geomhash":"530440725f3078278464d4d49b842abc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735981
+        }
+    ],
     "wof:id":739735981,
-    "wof:lastmodified":1472652272,
+    "wof:lastmodified":1492032064,
     "wof:name":"Roanoke Ambulatory Surgery Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.003947,36.681138,-82.003947,36.681138",
     "geom:latitude":36.681138,
     "geom:longitude":-82.003947,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jfAfbPJuVx49Us8DQ1kab_36.681138_-82.003947@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904923,
-    "wof:geomhash":"138ad35b29bc1bd9576e4a4ff704837a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"058c83e61d4329d18b57755daccb2756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739317669
+        }
+    ],
     "wof:id":739317669,
-    "wof:lastmodified":1472651240,
+    "wof:lastmodified":1492042559,
     "wof:name":"Conciliation Services Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

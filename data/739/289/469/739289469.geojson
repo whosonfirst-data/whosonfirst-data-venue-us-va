@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.370876,38.508942,-77.370876,38.508942",
     "geom:latitude":38.508942,
     "geom:longitude":-77.370876,
@@ -34,17 +35,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A0bjcv05u3VmZgdIxrITL_38.508942_-77.370876@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904358,
-    "wof:geomhash":"6e71a8a6a929f99010f8636410eab7aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6f9570cbbba79b12275ffa9502ff54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739289469
+        }
+    ],
     "wof:id":739289469,
-    "wof:lastmodified":1472651165,
+    "wof:lastmodified":1492047151,
     "wof:name":"Marine Auto Body",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

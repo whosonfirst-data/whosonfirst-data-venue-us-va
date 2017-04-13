@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44156,37.694701,-77.44156,37.694701",
     "geom:latitude":37.694701,
     "geom:longitude":-77.44156,
@@ -31,7 +32,12 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rrmwQECj0idsXODgNIGOV_37.694701_-77.441560@1303262549"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912762,
     "wof:geomhash":"921f398a91e698da6ce5483b9e14f384",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739708859
+        }
+    ],
     "wof:id":739708859,
-    "wof:lastmodified":1472652206,
+    "wof:lastmodified":1492030773,
     "wof:name":"Chalkley & Witmeyer Llp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

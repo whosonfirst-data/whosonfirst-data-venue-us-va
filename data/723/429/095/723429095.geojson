@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.502647,38.780281,-77.502647,38.780281",
     "geom:latitude":38.780281,
     "geom:longitude":-77.502647,
@@ -32,17 +33,32 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lMeYvec3fUhGQnfiOHVBN_38.780281_-77.502647@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901553,
-    "wof:geomhash":"d71ae3a065ec0cba5f6077c023bce050",
-    "wof:hierarchy":[],
+    "wof:geomhash":"394547124eae52ea1ab4b43e9fe2daaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":723429095
+        }
+    ],
     "wof:id":723429095,
-    "wof:lastmodified":1472652222,
+    "wof:lastmodified":1492060515,
     "wof:name":"Valley Waterbeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.309083,38.938051,-77.309083,38.938051",
     "geom:latitude":38.938051,
     "geom:longitude":-77.309083,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729797,
+        101729785,
         102084863,
+        85851565,
+        101729797,
         85826491
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461909142,
-    "wof:geomhash":"9bee650f54895fe265394b12a2e879f2",
+    "wof:geomhash":"821462844ffdc654e5f761f3d0c7bfbe",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85851565,
+            "region_id":85688747,
+            "venue_id":739539323
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":739539323,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492041626,
     "wof:name":"Summit Appraisal Group LTD",
-    "wof:parent_id":85826491,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

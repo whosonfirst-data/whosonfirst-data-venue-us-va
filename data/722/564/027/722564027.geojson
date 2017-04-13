@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453354,38.734711,-77.453354,38.734711",
     "geom:latitude":38.734711,
     "geom:longitude":-77.453354,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bUeEpmzFgIxiNerWI3gd6_38.734711_-77.453354@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884294,
-    "wof:geomhash":"779421b99ab707cce17902b37eaf04e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24dfdf7a8284b63af302993d86c53466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":722564027
+        }
+    ],
     "wof:id":722564027,
-    "wof:lastmodified":1472651099,
+    "wof:lastmodified":1492070283,
     "wof:name":"Thompson Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

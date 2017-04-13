@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412003,38.38067,-77.412003,38.38067",
     "geom:latitude":38.38067,
     "geom:longitude":-77.412003,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21rZdtZnkRmZjzd1pmnfhm_38.380670_-77.412003@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899609,
-    "wof:geomhash":"0cadd92904d793c04c6b66603dffa711",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac4f8a60d834aa687f559b135d29e273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723329011
+        }
+    ],
     "wof:id":723329011,
-    "wof:lastmodified":1472651874,
+    "wof:lastmodified":1492059650,
     "wof:name":"Stan's Repair",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

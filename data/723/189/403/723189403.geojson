@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.311468,38.845737,-77.311468,38.845737",
     "geom:latitude":38.845737,
     "geom:longitude":-77.311468,
@@ -38,17 +39,30 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ekx86t8FigdtQ7RRrxHJb_38.845737_-77.311468@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896868,
-    "wof:geomhash":"cff9f9a6efc731b004abcb57a58b0c5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b04442f8ec511c7f54b0a98073afc19e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":723189403
+        }
+    ],
     "wof:id":723189403,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492056274,
     "wof:name":"Juvenile Detention Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

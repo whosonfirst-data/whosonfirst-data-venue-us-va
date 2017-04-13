@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.381017,37.301133,-78.381017,37.301133",
     "geom:latitude":37.301133,
     "geom:longitude":-78.381017,
@@ -32,17 +33,32 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7abWHOOtrKOAtSP2gJZcYX_37.301133_-78.381017@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908751,
-    "wof:geomhash":"0b0bccc32ab647569dd5a207880a3d7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9781ad55e173dba49761e9bccbbcce2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739517753
+        }
+    ],
     "wof:id":739517753,
-    "wof:lastmodified":1472651826,
+    "wof:lastmodified":1492042815,
     "wof:name":"Goodson Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

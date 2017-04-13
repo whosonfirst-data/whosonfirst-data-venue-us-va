@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.245139,38.446619,-78.245139,38.446619",
     "geom:latitude":38.446619,
     "geom:longitude":-78.245139,
@@ -28,7 +29,12 @@
     "sg:postcode":"22727",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jcqMuecD9SeEXMejZ7uIO_38.446619_-78.245139@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903992,
     "wof:geomhash":"6cb9d261c10c1d7d0ff76e3eed0b63d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087241,
+            "region_id":85688747,
+            "venue_id":739272957
+        }
+    ],
     "wof:id":739272957,
-    "wof:lastmodified":1472651181,
+    "wof:lastmodified":1492029357,
     "wof:name":"John W Underwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

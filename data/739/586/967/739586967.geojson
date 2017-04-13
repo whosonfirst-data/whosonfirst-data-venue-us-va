@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.535427,37.499001,-77.535427,37.499001",
     "geom:latitude":37.499001,
     "geom:longitude":-77.535427,
@@ -33,7 +34,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YhRLgBcGIvvL8YHKP8yIa_37.499001_-77.535427@1299784598"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910138,
     "wof:geomhash":"cc02d1556e3b95aeb8ed07fc305d3eba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739586967
+        }
+    ],
     "wof:id":739586967,
-    "wof:lastmodified":1472651959,
+    "wof:lastmodified":1492031880,
     "wof:name":"Long John Silver's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

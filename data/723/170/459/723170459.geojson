@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.393094,37.301031,-78.393094,37.301031",
     "geom:latitude":37.301031,
     "geom:longitude":-78.393094,
@@ -38,17 +39,32 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F9cjStzlnEqoER7Ub05ad_37.301031_-78.393094@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896485,
-    "wof:geomhash":"0175a57b8580fe34563cef4fe8380adf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0409d73a2730cfaf43796beaf6510da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723170459
+        }
+    ],
     "wof:id":723170459,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492049583,
     "wof:name":"Kinex Networking Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

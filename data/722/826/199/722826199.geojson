@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.008942,36.699235,-82.008942,36.699235",
     "geom:latitude":36.699235,
     "geom:longitude":-82.008942,
@@ -32,17 +33,26 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nPmGNOyi3fzhrLp8WCIJx_36.699235_-82.008942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889378,
-    "wof:geomhash":"44150a437a78cdc81110756a62454c23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30af5c5ce2738767ab812444e8b49dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722826199
+        }
+    ],
     "wof:id":722826199,
-    "wof:lastmodified":1472651888,
+    "wof:lastmodified":1492071718,
     "wof:name":"Rainbow Vacuum Cleaners",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

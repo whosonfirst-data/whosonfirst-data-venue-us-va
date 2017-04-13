@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.738622,37.36552,-76.738622,37.36552",
     "geom:latitude":37.36552,
     "geom:longitude":-76.738622,
@@ -32,17 +33,26 @@
         "scout"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IrnAuHTRLiLwzUWd2KYQg_37.365520_-76.738622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893496,
-    "wof:geomhash":"67315bdc5157a8afe14ab8e814fc2c03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"649ab25d4d2a663b2540e6403cb29429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":723024953
+        }
+    ],
     "wof:id":723024953,
-    "wof:lastmodified":1472651162,
+    "wof:lastmodified":1492061960,
     "wof:name":"Girl Scout Council Clnl Coast",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

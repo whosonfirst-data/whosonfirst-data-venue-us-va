@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.957984,37.29806,-79.957984,37.29806",
     "geom:latitude":37.29806,
     "geom:longitude":-79.957984,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32Bpfk9kT2ng8PGxDDTHS3_37.298060_-79.957984@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902943,
-    "wof:geomhash":"d6dd52452c4cdd0873d1f9ab24e4a413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcedb7d52a8d5b1fd0c51272951771b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723498961
+        }
+    ],
     "wof:id":723498961,
-    "wof:lastmodified":1472652355,
+    "wof:lastmodified":1492052609,
     "wof:name":"Best Buy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

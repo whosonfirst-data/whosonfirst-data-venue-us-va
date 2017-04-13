@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.616798,36.9823,-76.616798,36.9823",
     "geom:latitude":36.9823,
     "geom:longitude":-76.616798,
@@ -28,7 +29,13 @@
     "sg:postcode":"23430",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44Ww1f6dUALT2cww5mzqQS_36.982300_-76.616798@1303262551"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913174,
     "wof:geomhash":"a6a5ece4e05ce5ca43a6f47d0ff2c4fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739729185
+        }
+    ],
     "wof:id":739729185,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492031648,
     "wof:name":"Harris Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

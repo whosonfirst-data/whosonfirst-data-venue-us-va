@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.244752,37.377716,-79.244752,37.377716",
     "geom:latitude":37.377716,
     "geom:longitude":-79.244752,
@@ -33,17 +34,32 @@
         "steakhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EHlrdLVFhx4EWWiOGz7O5_37.377716_-79.244752@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910313,
-    "wof:geomhash":"a05624d30760d46ca9978e77e663ab49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d200adb1cb5fd0f5f4868ec066b4d1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":739595845
+        }
+    ],
     "wof:id":739595845,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492042082,
     "wof:name":"Bulls Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

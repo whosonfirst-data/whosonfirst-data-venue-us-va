@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.334132,37.531847,-77.334132,37.531847",
     "geom:latitude":37.531847,
     "geom:longitude":-77.334132,
@@ -28,7 +29,13 @@
     "sg:postcode":"23150",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H0bbGBwDJf2GwFTx4H27r_37.531847_-77.334132@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904576,
     "wof:geomhash":"66cc4a30d173194fe9ec65abf984edd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":739299943
+        }
+    ],
     "wof:id":739299943,
-    "wof:lastmodified":1472651240,
+    "wof:lastmodified":1492032467,
     "wof:name":"Howmedica Osteonics Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

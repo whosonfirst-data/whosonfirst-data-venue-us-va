@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901512,36.698301,-78.901512,36.698301",
     "geom:latitude":36.698301,
     "geom:longitude":-78.901512,
@@ -32,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rfj8l1VENwN090R2rLOD1_36.698301_-78.901512@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906434,
     "wof:geomhash":"6d54e602c54abc4cf66a9da0927e56af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":739392113
+        }
+    ],
     "wof:id":739392113,
-    "wof:lastmodified":1472651395,
+    "wof:lastmodified":1492031617,
     "wof:name":"Halifax Gastroenterology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.62683,38.741124,-77.62683,38.741124",
     "geom:latitude":38.741124,
     "geom:longitude":-77.62683,
@@ -32,7 +33,12 @@
         "printing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZUSijuqdySN8CGlWluqXS_38.741124_-77.626830@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907629,
     "wof:geomhash":"b43acfb263c0ac6cf4e33be3a99bb89c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739455053
+        }
+    ],
     "wof:id":739455053,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492032973,
     "wof:name":"Julie Mouganis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

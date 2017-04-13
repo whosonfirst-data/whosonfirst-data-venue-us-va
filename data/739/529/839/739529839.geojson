@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538665,37.099122,-76.538665,37.099122",
     "geom:latitude":37.099122,
     "geom:longitude":-76.538665,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R2Flqess636cyKi6Q1Pmt_37.099122_-76.538665@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908975,
     "wof:geomhash":"92918859663168887211641697b596ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739529839
+        }
+    ],
     "wof:id":739529839,
-    "wof:lastmodified":1472651847,
+    "wof:lastmodified":1492030811,
     "wof:name":"Velvet Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.507259,37.125786,-81.507259,37.125786",
     "geom:latitude":37.125786,
     "geom:longitude":-81.507259,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vsfufD8AlnTX0iwKUZ3fA_37.125786_-81.507259@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896054,
-    "wof:geomhash":"f650815f2c8fa33c8a70899a9c80a8d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"799c102b1effff8bb9ea6deec94de29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723147587
+        }
+    ],
     "wof:id":723147587,
-    "wof:lastmodified":1472651417,
+    "wof:lastmodified":1492057649,
     "wof:name":"American Motors Corp",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

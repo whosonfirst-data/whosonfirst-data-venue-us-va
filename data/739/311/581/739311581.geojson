@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.377867,38.296669,-77.377867,38.296669",
     "geom:latitude":38.296669,
     "geom:longitude":-77.377867,
@@ -32,7 +33,10 @@
         "restoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65KrK7g7v4sHD5sfx5oXMu_38.296669_-77.377867@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904805,
     "wof:geomhash":"b1b626799523b72ca2056959cf89b26b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":739311581
+        }
+    ],
     "wof:id":739311581,
-    "wof:lastmodified":1472651235,
+    "wof:lastmodified":1492030279,
     "wof:name":"Master's Touch",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

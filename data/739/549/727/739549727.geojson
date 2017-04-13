@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.141311,39.185117,-78.141311,39.185117",
     "geom:latitude":39.185117,
     "geom:longitude":-78.141311,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"www.servisoftsoftwater.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01gYDQETG4OqK3E9siwcbo_39.185117_-78.141311@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909350,
     "wof:geomhash":"1d928866e0043c82cf17b87fe7c8238a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739549727
+        }
+    ],
     "wof:id":739549727,
-    "wof:lastmodified":1472651879,
+    "wof:lastmodified":1492032217,
     "wof:name":"Ecowater Of Winchester Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

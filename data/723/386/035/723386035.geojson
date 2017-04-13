@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.719738,37.359062,-76.719738,37.359062",
     "geom:latitude":37.359062,
     "geom:longitude":-76.719738,
@@ -32,17 +33,26 @@
         "appraisal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d1EDj3sOQ7rbcjsoiedfQ_37.359062_-76.719738@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900697,
-    "wof:geomhash":"5d43542f6cf3a9cfd398c146f83be313",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de72e1136797369fd7c652279249b12b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547343,
+            "venue_id":723386035
+        }
+    ],
     "wof:id":723386035,
-    "wof:lastmodified":1472652093,
+    "wof:lastmodified":1492061344,
     "wof:name":"Dana Jo Inc",
     "wof:parent_id":420547343,
     "wof:placetype":"venue",

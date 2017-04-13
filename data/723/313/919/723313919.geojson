@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.446788,38.319127,-77.446788,38.319127",
     "geom:latitude":38.319127,
     "geom:longitude":-77.446788,
@@ -32,17 +33,26 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O0VAKexBiKKumdi45nydz_38.319127_-77.446788@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899334,
-    "wof:geomhash":"d7919ec38cb2f113233a1b579d39837b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd3637179a2d9c30b0de804c5274a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":723313919
+        }
+    ],
     "wof:id":723313919,
-    "wof:lastmodified":1472651848,
+    "wof:lastmodified":1492057288,
     "wof:name":"Mancon",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

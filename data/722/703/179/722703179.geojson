@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.31867,39.343406,-78.31867,39.343406",
     "geom:latitude":39.343406,
     "geom:longitude":-78.31867,
@@ -33,17 +34,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z9RUNo1qpwDmAnXqZ3S5m_39.343406_-78.318670@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887029,
-    "wof:geomhash":"154897bd770f13e39925025c2c1e5180",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb29a2e69b81793a1eec6e25a8863d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":722703179
+        }
+    ],
     "wof:id":722703179,
-    "wof:lastmodified":1472651557,
+    "wof:lastmodified":1492066558,
     "wof:name":"Roger's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

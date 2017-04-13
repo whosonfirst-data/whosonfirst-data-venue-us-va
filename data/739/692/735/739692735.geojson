@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514909,38.301306,-77.514909,38.301306",
     "geom:latitude":38.301306,
     "geom:longitude":-77.514909,
@@ -28,7 +29,13 @@
     "sg:postcode":"22401",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728699,
+        102084973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QYB80VUO34aMF3bJHlqMA_38.301306_-77.514909@1303262546"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461912395,
     "wof:geomhash":"edc18de0eac3ff4c5fd448c7798e1c89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "region_id":85688747,
+            "venue_id":739692735
+        }
+    ],
     "wof:id":739692735,
-    "wof:lastmodified":1472652187,
+    "wof:lastmodified":1492033396,
     "wof:name":"Tina Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

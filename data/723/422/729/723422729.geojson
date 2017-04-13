@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429179,38.310231,-77.429179,38.310231",
     "geom:latitude":38.310231,
     "geom:longitude":-77.429179,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Gi0fiqIVU7UMYP8YygD8l_38.310231_-77.429179@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901413,
-    "wof:geomhash":"861bc6174124916cb319ee6804d56be7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d4a040047694e1690231daf3c64da94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723422729
+        }
+    ],
     "wof:id":723422729,
-    "wof:lastmodified":1472652275,
+    "wof:lastmodified":1492049592,
     "wof:name":"Comfort Heating & Cooling Inc",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.901824,37.2993,-79.901824,37.2993",
     "geom:latitude":37.2993,
     "geom:longitude":-79.901824,
@@ -28,7 +29,13 @@
     "sg:postcode":"24012",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NwcQXgoh0e4ywMfgtaERQ_37.299300_-79.901824@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907610,
     "wof:geomhash":"7c5d7fc0ecd3106e7073db91bba092f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739453919
+        }
+    ],
     "wof:id":739453919,
-    "wof:lastmodified":1472651591,
+    "wof:lastmodified":1492030409,
     "wof:name":"Truck Enteprises Roanoke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

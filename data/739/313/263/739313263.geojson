@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.48038,37.087776,-76.48038,37.087776",
     "geom:latitude":37.087776,
     "geom:longitude":-76.48038,
@@ -38,6 +39,7 @@
         85633793,
         101729041,
         102085961,
+        85879201,
         85879253
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904834,
-    "wof:geomhash":"d3014005bb2bee51c5943049270a777c",
+    "wof:geomhash":"56f3ee5a6faf39efaabc2315072216c4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879201,
+            "region_id":85688747,
+            "venue_id":739313263
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":739313263,
-    "wof:lastmodified":1472651217,
+    "wof:lastmodified":1492041971,
     "wof:name":"Enterprise Leasing Co of Norf",
-    "wof:parent_id":85879253,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

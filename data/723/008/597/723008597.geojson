@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.772688,37.358209,-76.772688,37.358209",
     "geom:latitude":37.358209,
     "geom:longitude":-76.772688,
@@ -31,17 +32,26 @@
         "concrete"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qF9GLCctcdeYpLm5HPZDN_37.358209_-76.772688@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893111,
-    "wof:geomhash":"2c7522330c228e5594b7ae3f487101fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b2ecf8944c71e9fcd8192acfb5e6a73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":723008597
+        }
+    ],
     "wof:id":723008597,
-    "wof:lastmodified":1472651090,
+    "wof:lastmodified":1492053145,
     "wof:name":"Richard Hite Concrete Cnstr",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

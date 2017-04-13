@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589643,36.92143,-76.589643,36.92143",
     "geom:latitude":36.92143,
     "geom:longitude":-76.589643,
@@ -31,17 +32,32 @@
         "trucking-motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729107,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4axUc0VPxgtS6JodEMIQCk_36.921430_-76.589643@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913164,
-    "wof:geomhash":"11507805d212926df619eaa985d2e02b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dd88442c6afac873416027284dd15e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729107,
+            "region_id":85688747,
+            "venue_id":739728617
+        }
+    ],
     "wof:id":739728617,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492038695,
     "wof:name":"Donald Burke Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.958143,38.112872,-78.958143,38.112872",
     "geom:latitude":38.112872,
     "geom:longitude":-78.958143,
@@ -32,7 +33,13 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729647,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6boahH4lAsmI1W6WUECik1_38.112872_-78.958143@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907648,
     "wof:geomhash":"bf6f021919edc5e62f3d6a45ff7731b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729647,
+            "region_id":85688747,
+            "venue_id":739456161
+        }
+    ],
     "wof:id":739456161,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492033059,
     "wof:name":"Blue Ridge Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

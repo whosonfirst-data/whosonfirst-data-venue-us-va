@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.10797,36.81431,-82.10797,36.81431",
     "geom:latitude":36.81431,
     "geom:longitude":-82.10797,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UkB8Qf8MySb88uy8qIsJm_36.814310_-82.107970@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895728,
-    "wof:geomhash":"b98356c3cde6d879260f7a12822d97c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60e159903f420619209604a7a16aa834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723131535
+        }
+    ],
     "wof:id":723131535,
-    "wof:lastmodified":1472651383,
+    "wof:lastmodified":1492054287,
     "wof:name":"S & W Trucking",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

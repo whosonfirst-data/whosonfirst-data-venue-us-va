@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.487325,39.079642,-77.487325,39.079642",
     "geom:latitude":39.079642,
     "geom:longitude":-77.487325,
@@ -31,17 +32,32 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T1kXyLkL9MopabxBjIuOo_39.079642_-77.487325@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894971,
-    "wof:geomhash":"88e4027b301d301835947ca7df4344ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"806f795d6c1df82080a13d338d2b15b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":723092693
+        }
+    ],
     "wof:id":723092693,
-    "wof:lastmodified":1472651293,
+    "wof:lastmodified":1492050059,
     "wof:name":"Secure Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

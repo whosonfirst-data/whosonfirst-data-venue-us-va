@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513397,38.7869,-77.513397,38.7869",
     "geom:latitude":38.7869,
     "geom:longitude":-77.513397,
@@ -33,17 +34,32 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rJbDvsQmat5T9Ug5b3FZQ_38.787416_-77.513689@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909813,
-    "wof:geomhash":"995de4de7303028cd41f289af2d0b91c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27bc8a18fd3a3f67af754b30754a97e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739571341
+        }
+    ],
     "wof:id":739571341,
-    "wof:lastmodified":1472651900,
+    "wof:lastmodified":1492043941,
     "wof:name":"Don's Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

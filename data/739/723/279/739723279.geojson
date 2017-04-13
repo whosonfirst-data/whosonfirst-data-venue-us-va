@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.470049,37.434332,-77.470049,37.434332",
     "geom:latitude":37.434332,
     "geom:longitude":-77.470049,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jmPbinM1Ydbr1WmbOYbQB_37.434332_-77.470049@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913059,
-    "wof:geomhash":"de5ef7a14595f15c44f6cdc4e6766b35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f16b1cb6fbb8648bb2c51adf31e52e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":739723279
+        }
+    ],
     "wof:id":739723279,
-    "wof:lastmodified":1472652226,
+    "wof:lastmodified":1492041575,
     "wof:name":"Concrete Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

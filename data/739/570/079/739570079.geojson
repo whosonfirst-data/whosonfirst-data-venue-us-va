@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.146964,39.185999,-78.146964,39.185999",
     "geom:latitude":39.185999,
     "geom:longitude":-78.146964,
@@ -35,7 +36,13 @@
         "laundromat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fIR9RU2F5oP1Trp2ErQZd_39.186094_-78.147331@1293134755"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461909780,
     "wof:geomhash":"a16fba1920e160cfd7d26a38f6e02221",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739570079
+        }
+    ],
     "wof:id":739570079,
-    "wof:lastmodified":1472651877,
+    "wof:lastmodified":1492031719,
     "wof:name":"Soap Factory Coinop Ldry Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.604797,37.008202,-76.604797,37.008202",
     "geom:latitude":37.008202,
     "geom:longitude":-76.604797,
@@ -33,7 +34,12 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YjO2TbMNDKb2Nf5tz8rLA_37.008417_-76.604441@1293134755"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461909762,
     "wof:geomhash":"e3c2dd2253d4ff49c214e748c0ac6b0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739569077
+        }
+    ],
     "wof:id":739569077,
-    "wof:lastmodified":1472651873,
+    "wof:lastmodified":1492030906,
     "wof:name":"Eagle Nest Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

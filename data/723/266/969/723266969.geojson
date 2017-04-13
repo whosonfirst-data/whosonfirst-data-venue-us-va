@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435277,38.302243,-77.435277,38.302243",
     "geom:latitude":38.302243,
     "geom:longitude":-77.435277,
@@ -32,17 +33,26 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oZkObWi5ppoo3UaNBOg8L_38.302243_-77.435277@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898442,
-    "wof:geomhash":"926aba11f41f137f0a2fab3159345b9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc751f3f6d1688078ab5cfd3f8e68690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":723266969
+        }
+    ],
     "wof:id":723266969,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492061704,
     "wof:name":"James Nelson",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

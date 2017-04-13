@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418926,37.58026,-77.418926,37.58026",
     "geom:latitude":37.58026,
     "geom:longitude":-77.418926,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a3mAnJOFwwmEgUSL0sY9N_37.580260_-77.418926@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906245,
     "wof:geomhash":"7e7c7b9bafb3d4e39f076b60a5437471",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739382713
+        }
+    ],
     "wof:id":739382713,
-    "wof:lastmodified":1472651372,
+    "wof:lastmodified":1492030648,
     "wof:name":"Custom Drywall of Richmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418994,38.859066,-77.418994,38.859066",
     "geom:latitude":38.859066,
     "geom:longitude":-77.418994,
@@ -28,17 +29,32 @@
     "sg:postcode":"20151",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48uCZ3qdrALK5qGRPcHLY5_38.859066_-77.418994@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884176,
-    "wof:geomhash":"0a3eac6310588c06b01c92c5b59e28f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12c78a3400a50e6d376de01294809509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":722558427
+        }
+    ],
     "wof:id":722558427,
-    "wof:lastmodified":1472651112,
+    "wof:lastmodified":1492064241,
     "wof:name":"Houston Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

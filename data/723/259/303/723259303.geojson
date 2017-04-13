@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400773,37.228131,-77.400773,37.228131",
     "geom:latitude":37.228131,
     "geom:longitude":-77.400773,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oERyxKkUUD8ixAO6hfH9o_37.228131_-77.400773@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898293,
-    "wof:geomhash":"af989da5927ee7fb7a81af1734dec571",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36216c96299d6b605dd6090ea0ce6cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723259303
+        }
+    ],
     "wof:id":723259303,
-    "wof:lastmodified":1472651680,
+    "wof:lastmodified":1492051476,
     "wof:name":"Cares Shelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.902266,38.082246,-78.902266,38.082246",
     "geom:latitude":38.082246,
     "geom:longitude":-78.902266,
@@ -31,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gbljU5TNWpJ5NOTm1Hoxu_38.082246_-78.902266@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904252,
     "wof:geomhash":"38a1ccfce48d37d4b37c80d4b19c14a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739284727
+        }
+    ],
     "wof:id":739284727,
-    "wof:lastmodified":1472651179,
+    "wof:lastmodified":1492030637,
     "wof:name":"SW Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

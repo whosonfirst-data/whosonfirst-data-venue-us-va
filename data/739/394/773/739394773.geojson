@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371371,38.269059,-77.371371,38.269059",
     "geom:latitude":38.269059,
     "geom:longitude":-77.371371,
@@ -31,7 +32,10 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x86Qy5W1eHlas7OZpLxkn_38.269059_-77.371371@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906480,
     "wof:geomhash":"56ce080cbb50f76dde7bf597ae097aee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547259,
+            "venue_id":739394773
+        }
+    ],
     "wof:id":739394773,
-    "wof:lastmodified":1472651481,
+    "wof:lastmodified":1492032975,
     "wof:name":"Brooks Drywall Inc",
     "wof:parent_id":420547259,
     "wof:placetype":"venue",

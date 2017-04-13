@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419179,38.29511,-77.419179,38.29511",
     "geom:latitude":38.29511,
     "geom:longitude":-77.419179,
@@ -31,17 +32,26 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sV64JbiaFqCV0bhq1Dtik_38.295110_-77.419179@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884694,
-    "wof:geomhash":"f5a5504646efb9006c731b1b657ae60e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0276ff961c19062b21ce82ee71e928f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":722584887
+        }
+    ],
     "wof:id":722584887,
-    "wof:lastmodified":1472651221,
+    "wof:lastmodified":1492069617,
     "wof:name":"Rappahannock Pressure Washers",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

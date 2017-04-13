@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.360269,37.013576,-76.360269,37.013576",
     "geom:latitude":37.013576,
     "geom:longitude":-76.360269,
@@ -34,6 +35,7 @@
         85633793,
         101728661,
         102084913,
+        420547989,
         85842271
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904237,
-    "wof:geomhash":"5161c8d63f1260e3a9b672cf01d380dd",
+    "wof:geomhash":"24685fca7362a3fd52e395136414add5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":420547989,
+            "region_id":85688747,
+            "venue_id":739283943
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":739283943,
-    "wof:lastmodified":1472651180,
+    "wof:lastmodified":1492038044,
     "wof:name":"Mud Hut Ceramics",
-    "wof:parent_id":85842271,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

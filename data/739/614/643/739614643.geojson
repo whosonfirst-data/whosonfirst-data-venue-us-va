@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.34259,38.99913,-77.34259,38.99913",
     "geom:latitude":38.99913,
     "geom:longitude":-77.34259,
@@ -43,7 +44,13 @@
         "churches-mennonite"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47fUHrz544cuEMwRnygdlk_38.999130_-77.342590@1303262497"
@@ -51,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461910709,
     "wof:geomhash":"153d53b5c480ebea6ae93867704f73b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739614643
+        }
+    ],
     "wof:id":739614643,
-    "wof:lastmodified":1472652006,
+    "wof:lastmodified":1492031519,
     "wof:name":"Church Of The Brethren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

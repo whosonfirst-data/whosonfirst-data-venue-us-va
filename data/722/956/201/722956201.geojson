@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513807,37.674618,-77.513807,37.674618",
     "geom:latitude":37.674618,
     "geom:longitude":-77.513807,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729363,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tWyNts9EGmhU5Ry32stIk_37.674618_-77.513807@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891947,
-    "wof:geomhash":"a0668751ce2a1a4c5b825568aefff88b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70f9f7be887a12db99eaf25f2fdc283a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729363,
+            "region_id":85688747,
+            "venue_id":722956201
+        }
+    ],
     "wof:id":722956201,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492066937,
     "wof:name":"Mat Panther Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

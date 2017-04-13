@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.014749,36.696625,-82.014749,36.696625",
     "geom:latitude":36.696625,
     "geom:longitude":-82.014749,
@@ -33,17 +34,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hImHA4PEdiRUF9N1g5DjC_36.696625_-82.014749@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901788,
-    "wof:geomhash":"d02d5eddd700f820675da168cf540705",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b554d1786ba6bca8a9553f8df225b4f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723441155
+        }
+    ],
     "wof:id":723441155,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492062257,
     "wof:name":"Singleton Auto Parts Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

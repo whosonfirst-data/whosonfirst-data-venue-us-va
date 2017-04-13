@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.062869,36.660515,-82.062869,36.660515",
     "geom:latitude":36.660515,
     "geom:longitude":-82.062869,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yfWcjeWiOwzalku5nioME_36.660515_-82.062869@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908642,
-    "wof:geomhash":"de03270c87f0f2bc9dbc284faf53a027",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49645d01c4d8cc4c2cced7884510cacc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739511843
+        }
+    ],
     "wof:id":739511843,
-    "wof:lastmodified":1472651813,
+    "wof:lastmodified":1492038866,
     "wof:name":"Kenneth G Way & Co",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

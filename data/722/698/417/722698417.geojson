@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.176814,38.934529,-77.176814,38.934529",
     "geom:latitude":38.934529,
     "geom:longitude":-77.176814,
@@ -37,6 +38,7 @@
         85633793,
         101729767,
         102084863,
+        85807829,
         420546693
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886940,
-    "wof:geomhash":"363c205b4eac71fe327e91f038141571",
+    "wof:geomhash":"66adb37c36207e12370d4ee03da2b50b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85807829,
+            "region_id":85688747,
+            "venue_id":722698417
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722698417,
-    "wof:lastmodified":1472651554,
+    "wof:lastmodified":1492062579,
     "wof:name":"Vineyard",
-    "wof:parent_id":420546693,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

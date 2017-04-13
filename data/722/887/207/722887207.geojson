@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.998604,36.7044,-81.998604,36.7044",
     "geom:latitude":36.7044,
     "geom:longitude":-81.998604,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_064uzuM9BIzxNcATpg8HUb_36.704400_-81.998604@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890524,
-    "wof:geomhash":"51ef953f2c08f803d1290323340bc9f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bd978d28c35de5b623a16aca1e5aed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722887207
+        }
+    ],
     "wof:id":722887207,
-    "wof:lastmodified":1472652039,
+    "wof:lastmodified":1492069750,
     "wof:name":"Rusty's Muffler Shop",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

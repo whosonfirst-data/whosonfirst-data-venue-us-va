@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.995053,36.69644,-81.995053,36.69644",
     "geom:latitude":36.69644,
     "geom:longitude":-81.995053,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_141jb8CuIMiLYYnQBCXvOO_36.696440_-81.995053@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906736,
     "wof:geomhash":"8f89e6ad9fe8b96a492cfccdbd9a2de1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739408197
+        }
+    ],
     "wof:id":739408197,
-    "wof:lastmodified":1472651455,
+    "wof:lastmodified":1492029930,
     "wof:name":"Finndillon Townhouse Apart",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

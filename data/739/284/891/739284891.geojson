@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.293221,37.304764,-79.293221,37.304764",
     "geom:latitude":37.304764,
     "geom:longitude":-79.293221,
@@ -40,7 +41,12 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PbxxOIQsSbqiIz7kZOfmX_37.304764_-79.293221@1294252573"
@@ -48,9 +54,17 @@
     "wof:country":"US",
     "wof:created":1461904255,
     "wof:geomhash":"151c6aa25f3cbf2a964ec4cf5fe8009b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739284891
+        }
+    ],
     "wof:id":739284891,
-    "wof:lastmodified":1472651182,
+    "wof:lastmodified":1492030621,
     "wof:name":"New London Tractor & Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

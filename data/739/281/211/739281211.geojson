@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.580304,38.750187,-77.580304,38.750187",
     "geom:latitude":38.750187,
     "geom:longitude":-77.580304,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WZxEN77fDd6dxKb06BShI_38.750187_-77.580304@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904174,
-    "wof:geomhash":"be8eac8c034e5c8d7f6591324a552318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bfcf7d97cb2e915c3aa379f2cfb495a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739281211
+        }
+    ],
     "wof:id":739281211,
-    "wof:lastmodified":1472651144,
+    "wof:lastmodified":1492041150,
     "wof:name":"Dunbarton Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

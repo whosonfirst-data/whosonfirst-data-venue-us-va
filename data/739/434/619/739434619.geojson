@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457145,38.299796,-77.457145,38.299796",
     "geom:latitude":38.299796,
     "geom:longitude":-77.457145,
@@ -38,6 +39,7 @@
         85633793,
         101728699,
         102084973,
+        85893997,
         85824407
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907256,
-    "wof:geomhash":"e4653d1386f64904b0033a141718ab1f",
+    "wof:geomhash":"01f51d6e6e4761bbb465c4d5b4501ecb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "neighbourhood_id":85893997,
+            "region_id":85688747,
+            "venue_id":739434619
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":739434619,
-    "wof:lastmodified":1472651538,
+    "wof:lastmodified":1492042171,
     "wof:name":"Colonial Heritage Home Inc",
-    "wof:parent_id":85824407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

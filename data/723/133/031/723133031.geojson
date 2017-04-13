@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.759242,37.30277,-76.759242,37.30277",
     "geom:latitude":37.30277,
     "geom:longitude":-76.759242,
@@ -32,17 +33,26 @@
         "cream"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oDXUuhA5Exa0rg11tanIZ_37.302770_-76.759242@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895754,
-    "wof:geomhash":"cadf3f6a6494d1ef6239a849794a7bb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"623089cedfa0550f7027628617db807e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546935,
+            "venue_id":723133031
+        }
+    ],
     "wof:id":723133031,
-    "wof:lastmodified":1472651378,
+    "wof:lastmodified":1492050835,
     "wof:name":"Ben & Jerrys Ice Cream Store",
     "wof:parent_id":420546935,
     "wof:placetype":"venue",

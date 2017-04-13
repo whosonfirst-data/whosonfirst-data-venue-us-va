@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440677,38.298891,-77.440677,38.298891",
     "geom:latitude":38.298891,
     "geom:longitude":-77.440677,
@@ -32,7 +33,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J1Sj8011g4ZkZnYycbRnv_38.298891_-77.440677@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907453,
     "wof:geomhash":"32f458e556bc9814921458dc9fa9ad30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":739444893
+        }
+    ],
     "wof:id":739444893,
-    "wof:lastmodified":1472651594,
+    "wof:lastmodified":1492032002,
     "wof:name":"Style Synergy Inc",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

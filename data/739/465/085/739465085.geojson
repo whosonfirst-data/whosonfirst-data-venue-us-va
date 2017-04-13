@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.856015,38.441422,-78.856015,38.441422",
     "geom:latitude":38.441422,
     "geom:longitude":-78.856015,
@@ -31,7 +32,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4szA9eBV4lqokaDR4ktgMW_38.441422_-78.856015@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907802,
     "wof:geomhash":"c0cdbb161ea1bf2fa78a0ceb5a0f767c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739465085
+        }
+    ],
     "wof:id":739465085,
-    "wof:lastmodified":1472651600,
+    "wof:lastmodified":1492031929,
     "wof:name":"Michael A Hoffman MD & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

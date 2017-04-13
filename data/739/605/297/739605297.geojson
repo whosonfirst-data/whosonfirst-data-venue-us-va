@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.415865,38.84722,-77.415865,38.84722",
     "geom:latitude":38.84722,
     "geom:longitude":-77.415865,
@@ -46,17 +47,32 @@
         "compound"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vlhf6SOjPL1bcc6n6dLoB_38.847220_-77.415865@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910516,
-    "wof:geomhash":"d164f1be29bf8498e33450bef2466b63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5750ab08795a2d4ec18570e6a7db131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739605297
+        }
+    ],
     "wof:id":739605297,
-    "wof:lastmodified":1472651943,
+    "wof:lastmodified":1492039614,
     "wof:name":"Sunnys House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

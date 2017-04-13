@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.277155,36.8939,-81.277155,36.8939",
     "geom:latitude":36.8939,
     "geom:longitude":-81.277155,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GljV2q71xv8EfgI9zXqDl_36.893900_-81.277155@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884274,
-    "wof:geomhash":"4d9a57dfe8836f7d78a12c93648014bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de2bf3b722bd9932eb1259ec0919950d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722563057
+        }
+    ],
     "wof:id":722563057,
-    "wof:lastmodified":1472651099,
+    "wof:lastmodified":1492072368,
     "wof:name":"Reed Creek Trading Co",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

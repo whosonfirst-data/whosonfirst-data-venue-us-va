@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.57694,38.262113,-77.57694,38.262113",
     "geom:latitude":38.262113,
     "geom:longitude":-77.57694,
@@ -31,17 +32,30 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cTWuGiVEjpIZ4kV5twju5_38.262113_-77.576940@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904660,
-    "wof:geomhash":"0ee9ad2cfe6773aa92075db59887da1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8843656cbd761e3e38774d3aaeedf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739304223
+        }
+    ],
     "wof:id":739304223,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492041003,
     "wof:name":"Clean Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

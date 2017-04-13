@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526406,38.392776,-77.526406,38.392776",
     "geom:latitude":38.392776,
     "geom:longitude":-77.526406,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Et5tvxPCbA6unde05Z1B6_38.392776_-77.526406@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900080,
-    "wof:geomhash":"d454e85090cd32403812a4c76062ba1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b29fffd83ae2dcc8b7ddd2c7ef41d507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":723354589
+        }
+    ],
     "wof:id":723354589,
-    "wof:lastmodified":1472652057,
+    "wof:lastmodified":1492060548,
     "wof:name":"Atech",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

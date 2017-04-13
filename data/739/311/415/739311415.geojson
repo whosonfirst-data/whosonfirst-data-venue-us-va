@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.639375,38.841713,-77.639375,38.841713",
     "geom:latitude":38.841713,
     "geom:longitude":-77.639375,
@@ -32,7 +33,12 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hIxdDqjPz51ptKJfXkTAG_38.841713_-77.639375@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904801,
     "wof:geomhash":"34c280e0042d7d498debd6c247732033",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739311415
+        }
+    ],
     "wof:id":739311415,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492030290,
     "wof:name":"Erbschloe Consulting Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

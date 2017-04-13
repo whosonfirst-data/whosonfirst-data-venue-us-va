@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.372516,38.504991,-77.372516,38.504991",
     "geom:latitude":38.504991,
     "geom:longitude":-77.372516,
@@ -33,17 +34,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P094jR0gXtSeeIIPIk4uR_38.504991_-77.372516@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903814,
-    "wof:geomhash":"c8f60df5d712a27f5c1d45ffbfea4abd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0f013604ceed099a48f19a5fa39d6e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739265025
+        }
+    ],
     "wof:id":739265025,
-    "wof:lastmodified":1472651130,
+    "wof:lastmodified":1492042025,
     "wof:name":"Clearview Mobile Home Park",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

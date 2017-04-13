@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.439229,38.893517,-77.439229,38.893517",
     "geom:latitude":38.893517,
     "geom:longitude":-77.439229,
@@ -36,17 +37,32 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09zz1E5IU0HdQIAxyP0vsU_38.893517_-77.439229@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891133,
-    "wof:geomhash":"020134b9d432c893276295f5e9b7fa07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"719fea617471f3ed4466bf0058d87962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722917499
+        }
+    ],
     "wof:id":722917499,
-    "wof:lastmodified":1472652125,
+    "wof:lastmodified":1492064314,
     "wof:name":"American Ecofuel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

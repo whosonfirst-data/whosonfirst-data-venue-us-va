@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.890065,38.06858,-78.890065,38.06858",
     "geom:latitude":38.06858,
     "geom:longitude":-78.890065,
@@ -28,7 +29,13 @@
     "sg:postcode":"22980",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47xcQDvIQryFlTP1V40FZQ_38.068580_-78.890065@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903717,
     "wof:geomhash":"5105cda23c3e11d4628046893286edfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739260631
+        }
+    ],
     "wof:id":739260631,
-    "wof:lastmodified":1472651123,
+    "wof:lastmodified":1492030863,
     "wof:name":"Robert W Gray Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.370678,38.509366,-77.370678,38.509366",
     "geom:latitude":38.509366,
     "geom:longitude":-77.370678,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UmqmTctsMqhXCNPArMjrw_38.509366_-77.370678@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887318,
-    "wof:geomhash":"abad72e12b1abafcda07a2994400c143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b0cda24a565ef04e568c354c0ba296f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":722718743
+        }
+    ],
     "wof:id":722718743,
-    "wof:lastmodified":1472651596,
+    "wof:lastmodified":1492074147,
     "wof:name":"By Design Home Improvement",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

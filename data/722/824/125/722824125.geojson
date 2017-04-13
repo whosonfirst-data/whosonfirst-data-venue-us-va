@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.61782,36.988594,-76.61782,36.988594",
     "geom:latitude":36.988594,
     "geom:longitude":-76.61782,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zludwlaWYtq1oAUwgWvpV_36.988594_-76.617820@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889338,
-    "wof:geomhash":"1099fbeff86d0d3ced913ef8a84abb55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b404aeda8cfe4f11f23dfea83bdf87eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":722824125
+        }
+    ],
     "wof:id":722824125,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492070197,
     "wof:name":"West Norfolk Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

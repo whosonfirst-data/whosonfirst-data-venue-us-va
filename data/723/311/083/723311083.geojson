@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.185377,36.591715,-82.185377,36.591715",
     "geom:latitude":36.591715,
     "geom:longitude":-82.185377,
@@ -37,17 +38,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QsX40QzWcQhMBTG0Lir4s_36.591715_-82.185377@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899286,
-    "wof:geomhash":"64530cfb974c89bf742d28823631ee28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f35e3827f1f4447b3e7be33d9f0218d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":723311083
+        }
+    ],
     "wof:id":723311083,
-    "wof:lastmodified":1472651749,
+    "wof:lastmodified":1492048448,
     "wof:name":"Weaver Family Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

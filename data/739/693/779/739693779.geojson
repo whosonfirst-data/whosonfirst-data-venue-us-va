@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497474,38.25655,-77.497474,38.25655",
     "geom:latitude":38.25655,
     "geom:longitude":-77.497474,
@@ -33,7 +34,12 @@
         "memorabilia"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TGfYXZwlXp3jnqJVZaIDe_38.256550_-77.497474@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912414,
     "wof:geomhash":"aa6aff9f27211640e5569266ba07a3de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693779
+        }
+    ],
     "wof:id":739693779,
-    "wof:lastmodified":1472652192,
+    "wof:lastmodified":1492031400,
     "wof:name":"The Card Cellar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

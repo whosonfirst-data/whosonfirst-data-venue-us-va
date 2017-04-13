@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.646762,38.97658,-77.646762,38.97658",
     "geom:latitude":38.97658,
     "geom:longitude":-77.646762,
@@ -31,17 +32,30 @@
         "diamond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DvnkiAO7iZQ0S5rGJAfyl_38.976580_-77.646762@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893669,
-    "wof:geomhash":"e31a48f41488f87376da2a64c5e5ef6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8eabffe0f86218650aa0ddad61d368d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723033213
+        }
+    ],
     "wof:id":723033213,
-    "wof:lastmodified":1472651138,
+    "wof:lastmodified":1492061819,
     "wof:name":"Diamonds & Rust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

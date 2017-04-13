@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411937,38.953989,-77.411937,38.953989",
     "geom:latitude":38.953989,
     "geom:longitude":-77.411937,
@@ -32,17 +33,32 @@
         "apparatus"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729837,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zvw9wK2qpMglCWpyh12Nc_38.953989_-77.411937@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904395,
-    "wof:geomhash":"f61ec5381ad0e5679c5202d0706c3dd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff817caea9b46b0c56c892e702b75a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729837,
+            "region_id":85688747,
+            "venue_id":739291423
+        }
+    ],
     "wof:id":739291423,
-    "wof:lastmodified":1472651188,
+    "wof:lastmodified":1492039894,
     "wof:name":"Food Technology Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

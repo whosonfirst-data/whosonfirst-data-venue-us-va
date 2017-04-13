@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.683425,36.797401,-81.683425,36.797401",
     "geom:latitude":36.797401,
     "geom:longitude":-81.683425,
@@ -31,17 +32,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728625,
+        102085957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CDR1MYKzzruHdCy5CsFq4_36.797401_-81.683425@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890573,
-    "wof:geomhash":"9f14674531109f7121dd6a4a42534609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ed6c8abe193e210abb19837bb6fb67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085957,
+            "locality_id":101728625,
+            "region_id":85688747,
+            "venue_id":722889651
+        }
+    ],
     "wof:id":722889651,
-    "wof:lastmodified":1472652057,
+    "wof:lastmodified":1492075075,
     "wof:name":"Book Nook",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

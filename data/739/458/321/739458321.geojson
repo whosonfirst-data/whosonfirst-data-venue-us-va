@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436643,38.398027,-77.436643,38.398027",
     "geom:latitude":38.398027,
     "geom:longitude":-77.436643,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"www.virginiapaving.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wQvBdXVyBzzudpleeLe74_38.398027_-77.436643@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461907689,
     "wof:geomhash":"1b121af4ecb94cc5f20ba6bb51bba0dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739458321
+        }
+    ],
     "wof:id":739458321,
-    "wof:lastmodified":1472651572,
+    "wof:lastmodified":1492030012,
     "wof:name":"Virginia Paving",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

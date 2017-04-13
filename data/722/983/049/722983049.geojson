@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.055791,36.655192,-82.055791,36.655192",
     "geom:latitude":36.655192,
     "geom:longitude":-82.055791,
@@ -33,17 +34,26 @@
         "reporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M1XuXW3geVCg6WaKqnNAO_36.655192_-82.055791@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892514,
-    "wof:geomhash":"9566244c12316d143d180d413318e11a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9546e60f4054917344da679bf5d4ca6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722983049
+        }
+    ],
     "wof:id":722983049,
-    "wof:lastmodified":1472652326,
+    "wof:lastmodified":1492063120,
     "wof:name":"Appalachian Court Reporting",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

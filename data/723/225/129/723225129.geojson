@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.384437,38.325022,-77.384437,38.325022",
     "geom:latitude":38.325022,
     "geom:longitude":-77.384437,
@@ -35,17 +36,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Th9CsTMe91QJPiKRKRM3c_38.325022_-77.384437@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897597,
-    "wof:geomhash":"245610e6ed7a502b3dc07c4b1ed9c4a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"645ec5dabc22aa0dfac678143eebe91f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":723225129
+        }
+    ],
     "wof:id":723225129,
-    "wof:lastmodified":1472651615,
+    "wof:lastmodified":1492047383,
     "wof:name":"Silver Ridge Farm",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

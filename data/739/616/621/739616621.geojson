@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.495982,39.111839,-77.495982,39.111839",
     "geom:latitude":39.111839,
     "geom:longitude":-77.495982,
@@ -28,7 +29,12 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ClAmJKuQ5sPtZU3imAA91_39.111839_-77.495982@1303262497"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910749,
     "wof:geomhash":"1c96dc45d82ae9674917806c7162310f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616621
+        }
+    ],
     "wof:id":739616621,
-    "wof:lastmodified":1472652005,
+    "wof:lastmodified":1492029671,
     "wof:name":"Century Small Business Sol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

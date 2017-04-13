@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.195475,38.72821,-77.195475,38.72821",
     "geom:latitude":38.72821,
     "geom:longitude":-77.195475,
@@ -41,7 +42,13 @@
         "supervisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JfIUY5ninNH2KRHlFs0jz_38.728210_-77.195475@1303262538"
@@ -49,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1461911025,
     "wof:geomhash":"f2b3123fbf68aa2f3e96e1779164331c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739629893
+        }
+    ],
     "wof:id":739629893,
-    "wof:lastmodified":1472652024,
+    "wof:lastmodified":1492033285,
     "wof:name":"Reliable Autmtc Sprnklr Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

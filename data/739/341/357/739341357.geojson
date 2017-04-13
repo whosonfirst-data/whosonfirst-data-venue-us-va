@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.799472,37.273398,-76.799472,37.273398",
     "geom:latitude":37.273398,
     "geom:longitude":-76.799472,
@@ -31,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11E9WWkzSL1uSta9dbO4dw_37.273398_-76.799472@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461905407,
     "wof:geomhash":"b14404b5779255f32530fa740965af33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546815,
+            "venue_id":739341357
+        }
+    ],
     "wof:id":739341357,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492032563,
     "wof:name":"Williamsburg Creamery Inc",
     "wof:parent_id":420546815,
     "wof:placetype":"venue",

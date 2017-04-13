@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.597083,37.500332,-77.597083,37.500332",
     "geom:latitude":37.500332,
     "geom:longitude":-77.597083,
@@ -31,7 +32,12 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J9tpNORUECUEjtXpNlzn1_37.500332_-77.597083@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907644,
     "wof:geomhash":"928e48db347d1cb0c2a4da54ccb2eb14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739455961
+        }
+    ],
     "wof:id":739455961,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492032957,
     "wof:name":"English Body Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

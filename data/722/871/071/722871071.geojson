@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.275658,38.86828,-77.275658,38.86828",
     "geom:latitude":38.86828,
     "geom:longitude":-77.275658,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eaNGntp8ZqahvQd0gXXAI_38.868280_-77.275658@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890216,
-    "wof:geomhash":"e67cf724a7b72c31f296fc3d5c6cd621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0dc82e12ab9ae3c93c7dac9ac6abcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":722871071
+        }
+    ],
     "wof:id":722871071,
-    "wof:lastmodified":1472651990,
+    "wof:lastmodified":1492067530,
     "wof:name":"Rcb Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

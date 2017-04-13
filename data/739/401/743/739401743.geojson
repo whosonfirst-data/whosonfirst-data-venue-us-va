@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.807855,37.027742,-79.807855,37.027742",
     "geom:latitude":37.027742,
     "geom:longitude":-79.807855,
@@ -34,7 +35,12 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNZaPk6Scmik7XxW9u1DT_37.027742_-79.807855@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461906613,
     "wof:geomhash":"24c4d4ad3c77445cac30ed8d42c353bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739401743
+        }
+    ],
     "wof:id":739401743,
-    "wof:lastmodified":1472651474,
+    "wof:lastmodified":1492032690,
     "wof:name":"Tony's Mobile Home Movers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

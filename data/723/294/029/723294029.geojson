@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.850782,38.428991,-78.850782,38.428991",
     "geom:latitude":38.428991,
     "geom:longitude":-78.850782,
@@ -32,17 +33,32 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ChWm4st05gpXUJxTirIm5_38.428991_-78.850782@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898949,
-    "wof:geomhash":"84f86d3d5d12594b1fac953d4dd7f467",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e7a6e7c164ae2af532ebc3bd89ac408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723294029
+        }
+    ],
     "wof:id":723294029,
-    "wof:lastmodified":1472651736,
+    "wof:lastmodified":1492061411,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

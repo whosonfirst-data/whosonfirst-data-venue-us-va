@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.167741,39.184446,-78.167741,39.184446",
     "geom:latitude":39.184446,
     "geom:longitude":-78.167741,
@@ -32,17 +33,32 @@
         "emergency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l0c1QJUOwms6Ty5CzASm5_39.184446_-78.167741@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905288,
-    "wof:geomhash":"1724b501bb07636dbe672b48d87e5d64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9daff5d684652fbc97d170d67a92320c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739335841
+        }
+    ],
     "wof:id":739335841,
-    "wof:lastmodified":1472651310,
+    "wof:lastmodified":1492037664,
     "wof:name":"Lord Fairfax Ems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

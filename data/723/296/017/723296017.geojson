@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.093328,38.915623,-78.093328,38.915623",
     "geom:latitude":38.915623,
     "geom:longitude":-78.093328,
@@ -38,17 +39,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729327,
+        102085975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cTAG6i6SPbqXVr5oSC3Py_38.915623_-78.093328@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898982,
-    "wof:geomhash":"baf2c6463a1b8d6eedaab502293834b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd4767f546053838ac3d55a329915a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085975,
+            "locality_id":101729327,
+            "region_id":85688747,
+            "venue_id":723296017
+        }
+    ],
     "wof:id":723296017,
-    "wof:lastmodified":1472651718,
+    "wof:lastmodified":1492047465,
     "wof:name":"A Ron Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

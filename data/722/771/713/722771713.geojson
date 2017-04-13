@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.465053,38.249751,-77.465053,38.249751",
     "geom:latitude":38.249751,
     "geom:longitude":-77.465053,
@@ -31,17 +32,30 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AazZ27r8jWJwYESVJQNls_38.249751_-77.465053@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888344,
-    "wof:geomhash":"17b81dc5a861a3dbf2792913a0c714be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaab79011f2d01631511ae221271261e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722771713
+        }
+    ],
     "wof:id":722771713,
-    "wof:lastmodified":1472651831,
+    "wof:lastmodified":1492065819,
     "wof:name":"Fraternal Order Of Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

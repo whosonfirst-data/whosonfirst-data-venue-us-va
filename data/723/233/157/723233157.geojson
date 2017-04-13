@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.153913,39.186376,-78.153913,39.186376",
     "geom:latitude":39.186376,
     "geom:longitude":-78.153913,
@@ -31,17 +32,32 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PNvZIUnpolJ4p49uxVAi7_39.186376_-78.153913@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897774,
-    "wof:geomhash":"67ef9644a006270f630cc8d9bc48c13a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b83eea515176d27802d7e28346be034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723233157
+        }
+    ],
     "wof:id":723233157,
-    "wof:lastmodified":1472651627,
+    "wof:lastmodified":1492049380,
     "wof:name":"Winchester Parks Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

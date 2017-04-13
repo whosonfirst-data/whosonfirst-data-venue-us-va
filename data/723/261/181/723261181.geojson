@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.561914,38.153193,-78.561914,38.153193",
     "geom:latitude":38.153193,
     "geom:longitude":-78.561914,
@@ -28,17 +29,32 @@
     "sg:postcode":"22940",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729629,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eq7IGT4RYtXbcPAZ4alKi_38.153193_-78.561914@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898324,
-    "wof:geomhash":"2ad8426e90085aa525ab550ae9e87d48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ffa9ca4f2947c2091ae5e04664ddf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729629,
+            "region_id":85688747,
+            "venue_id":723261181
+        }
+    ],
     "wof:id":723261181,
-    "wof:lastmodified":1472651748,
+    "wof:lastmodified":1492054981,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.085194,37.007097,-77.085194,37.007097",
     "geom:latitude":37.007097,
     "geom:longitude":-77.085194,
@@ -31,17 +32,30 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dzsxltuhCvISkzH2yujwD_37.007097_-77.085194@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885206,
-    "wof:geomhash":"c7b903d31f7595daa10bbcef98385083",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e89093d099b22633726d4ffba316a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":722611887
+        }
+    ],
     "wof:id":722611887,
-    "wof:lastmodified":1472651342,
+    "wof:lastmodified":1492062493,
     "wof:name":"Worrells Taxi & Wheelchair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451302,38.466162,-77.451302,38.466162",
     "geom:latitude":38.466162,
     "geom:longitude":-77.451302,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14cuK4Zq2TUqoqLGQavriC_38.466162_-77.451302@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895078,
-    "wof:geomhash":"c9f447e712f7f3ea604d8e831d06748a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e53773644213774f9575dc615e91b37d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547107,
+            "venue_id":723097761
+        }
+    ],
     "wof:id":723097761,
-    "wof:lastmodified":1472651317,
+    "wof:lastmodified":1492060586,
     "wof:name":"Kustom Computers",
     "wof:parent_id":420547107,
     "wof:placetype":"venue",

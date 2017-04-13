@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.368821,38.511852,-77.368821,38.511852",
     "geom:latitude":38.511852,
     "geom:longitude":-77.368821,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LQEurX3WEqoX5scVuVPnd_38.511852_-77.368821@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890506,
-    "wof:geomhash":"525358bda768ad211be703ef89cea3b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cd049ef530a589e1a3bad6c685a092c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":722886167
+        }
+    ],
     "wof:id":722886167,
-    "wof:lastmodified":1472652035,
+    "wof:lastmodified":1492073057,
     "wof:name":"Highway Barber Shop",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

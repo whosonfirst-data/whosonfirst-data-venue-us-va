@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.289072,37.109133,-79.289072,37.109133",
     "geom:latitude":37.109133,
     "geom:longitude":-79.289072,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728697,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g2rbZNHV9Vl16OB3Trpj2_37.109133_-79.289072@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896990,
-    "wof:geomhash":"8f15415b11c81e27db657109e1b43639",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1484b674241a1563d5f171ea32bd51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101728697,
+            "region_id":85688747,
+            "venue_id":723195839
+        }
+    ],
     "wof:id":723195839,
-    "wof:lastmodified":1472651585,
+    "wof:lastmodified":1492058550,
     "wof:name":"Chevron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

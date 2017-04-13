@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.152455,39.206498,-78.152455,39.206498",
     "geom:latitude":39.206498,
     "geom:longitude":-78.152455,
@@ -31,17 +32,30 @@
         "auction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ISEogIzBUCveb5dN8twf1_39.206239_-78.152544@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909605,
-    "wof:geomhash":"d9596fbba4c5e3478ca4eb05b7257063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b05bbf37893a077f18e3e278383a658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739562171
+        }
+    ],
     "wof:id":739562171,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492040894,
     "wof:name":"David Fahnestock Auctions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

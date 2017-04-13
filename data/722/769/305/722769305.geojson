@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.562907,39.112074,-77.562907,39.112074",
     "geom:latitude":39.112074,
     "geom:longitude":-77.562907,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yy0yzO6FgzwqH43kH65Lm_39.112074_-77.562907@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888301,
-    "wof:geomhash":"707167732f554ccfeb503b04bd1de01f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"924b33911fa18ce83f11067db74ce5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722769305
+        }
+    ],
     "wof:id":722769305,
-    "wof:lastmodified":1472651752,
+    "wof:lastmodified":1492065596,
     "wof:name":"Proactive Communications LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

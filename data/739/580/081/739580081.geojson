@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.126847,38.850953,-77.126847,38.850953",
     "geom:latitude":38.850953,
     "geom:longitude":-77.126847,
@@ -33,7 +34,13 @@
         "chicken"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AwIX3Vn2Dw2Qf3PA29dup_38.850953_-77.126847@1299784598"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910010,
     "wof:geomhash":"61ac80618985c4e969da0c66d465f789",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739580081
+        }
+    ],
     "wof:id":739580081,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492031534,
     "wof:name":"KFC - Kentucky Fried Chicken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

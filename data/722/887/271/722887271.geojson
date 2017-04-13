@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.472568,39.050361,-77.472568,39.050361",
     "geom:latitude":39.050361,
     "geom:longitude":-77.472568,
@@ -31,17 +32,32 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ep97mJdq1WqKeM0GaSqty_39.050361_-77.472568@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890525,
-    "wof:geomhash":"944ca4dab035f45f5c7ead5c2509abb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b462eb23c74bcb59a5a1b7a8ed35f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":722887271
+        }
+    ],
     "wof:id":722887271,
-    "wof:lastmodified":1472652044,
+    "wof:lastmodified":1492069745,
     "wof:name":"Amicus Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

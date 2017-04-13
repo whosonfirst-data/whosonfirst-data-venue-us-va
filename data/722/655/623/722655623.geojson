@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71716,38.29821,-77.71716,38.29821",
     "geom:latitude":38.29821,
     "geom:longitude":-77.71716,
@@ -32,17 +33,32 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729173,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VwNP69RgGW0YA223tfCSR_38.298210_-77.717160@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886126,
-    "wof:geomhash":"f6e5c4a05f42d283749f1929ce10766a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b85d8ff77bcb0178d838d374be8475c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "locality_id":101729173,
+            "region_id":85688747,
+            "venue_id":722655623
+        }
+    ],
     "wof:id":722655623,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492075466,
     "wof:name":"Everett Event Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

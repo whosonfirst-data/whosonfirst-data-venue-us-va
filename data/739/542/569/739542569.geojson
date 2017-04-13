@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358187,38.807998,-77.358187,38.807998",
     "geom:latitude":38.807998,
     "geom:longitude":-77.358187,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729811,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xld6HhjMniBcP32FLUcr9_38.807998_-77.358187@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909200,
-    "wof:geomhash":"df6c1d19149fc197803ff0ede5858ca8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad00caa6c0db6d7bf6a71c9376dc50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729811,
+            "region_id":85688747,
+            "venue_id":739542569
+        }
+    ],
     "wof:id":739542569,
-    "wof:lastmodified":1472651809,
+    "wof:lastmodified":1492042934,
     "wof:name":"Healthguide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

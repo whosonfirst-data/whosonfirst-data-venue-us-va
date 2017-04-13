@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.920617,36.673438,-76.920617,36.673438",
     "geom:latitude":36.673438,
     "geom:longitude":-76.920617,
@@ -36,17 +37,32 @@
         "battery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728635,
+        102084891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T5Qr9sfBV7jTlRvpN2avY_36.673438_-76.920617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894773,
-    "wof:geomhash":"e637fb4714f63a1264c0468fa28435ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"724c329cb5954a5508643fd3cc699bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084891,
+            "locality_id":101728635,
+            "region_id":85688747,
+            "venue_id":723082807
+        }
+    ],
     "wof:id":723082807,
-    "wof:lastmodified":1472651309,
+    "wof:lastmodified":1492048422,
     "wof:name":"Parker's Battery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

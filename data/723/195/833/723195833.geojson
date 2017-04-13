@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.270193,38.849073,-77.270193,38.849073",
     "geom:latitude":38.849073,
     "geom:longitude":-77.270193,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729769,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KITMpFx1V5lX3sjE3GtjH_38.849073_-77.270193@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896990,
-    "wof:geomhash":"bf412ef855c99e7ec3a3ff00c120677e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f162ca344ed4f2e7a0bf8adcae825f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729769,
+            "region_id":85688747,
+            "venue_id":723195833
+        }
+    ],
     "wof:id":723195833,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492058549,
     "wof:name":"John Moore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.312248,38.843854,-77.312248,38.843854",
     "geom:latitude":38.843854,
     "geom:longitude":-77.312248,
@@ -34,7 +35,12 @@
     ],
     "sg:website":"http://www.josephmcguirelaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51uFekbjjnKQRwxm8Nt0O0_38.843854_-77.312248@1303262537"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461910912,
     "wof:geomhash":"61334793423ff85cc35b970909445276",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739623869
+        }
+    ],
     "wof:id":739623869,
-    "wof:lastmodified":1472652017,
+    "wof:lastmodified":1492031357,
     "wof:name":"Law Office of Joseph McGuire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

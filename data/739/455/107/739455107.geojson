@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.451747,38.680691,-78.451747,38.680691",
     "geom:latitude":38.680691,
     "geom:longitude":-78.451747,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85807967,
-        102084929
+        101728651,
+        102084929,
+        85807967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,17 @@
     "wof:geomhash":"01d3930807e9ed323e322a823d34bf90",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084929,
+            "locality_id":101728651,
             "neighbourhood_id":85807967,
             "region_id":85688747,
             "venue_id":739455107
         }
     ],
     "wof:id":739455107,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492032959,
     "wof:name":"North American Modular Homes",
     "wof:parent_id":85807967,
     "wof:placetype":"venue",

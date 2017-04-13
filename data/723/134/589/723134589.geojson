@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.705527,36.76932,-80.705527,36.76932",
     "geom:latitude":36.76932,
     "geom:longitude":-80.705527,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K788II6Kxb6N7EWiClsPX_36.769320_-80.705527@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895785,
-    "wof:geomhash":"d329b926172e594646bf7e5a43337845",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c066e350618b963c30d52fc092ed6371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":723134589
+        }
+    ],
     "wof:id":723134589,
-    "wof:lastmodified":1472651399,
+    "wof:lastmodified":1492050137,
     "wof:name":"L&F Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

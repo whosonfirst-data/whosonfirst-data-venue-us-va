@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.037016,36.729587,-82.037016,36.729587",
     "geom:latitude":36.729587,
     "geom:longitude":-82.037016,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6px92sDHWxs8DdDTxhENR5_36.729587_-82.037016@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903378,
-    "wof:geomhash":"dc0f5dae09043dd9660d4e5852ebbf79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bcf121721aeeac9df1cba5165ab3368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723517003
+        }
+    ],
     "wof:id":723517003,
-    "wof:lastmodified":1472652370,
+    "wof:lastmodified":1492058162,
     "wof:name":"Va Tn Auto Auction",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

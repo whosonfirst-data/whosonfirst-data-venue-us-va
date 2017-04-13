@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.062696,37.249238,-79.062696,37.249238",
     "geom:latitude":37.249238,
     "geom:longitude":-79.062696,
@@ -28,7 +29,12 @@
     "sg:postcode":"24588",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lD4jP6HCa4Xs9ElLXBncP_37.249238_-79.062696@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903707,
     "wof:geomhash":"9fe0e4619f68abe4c512e692438d0fcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":739260325
+        }
+    ],
     "wof:id":739260325,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492030874,
     "wof:name":"St Luke S Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

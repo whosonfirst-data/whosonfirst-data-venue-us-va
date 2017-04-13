@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.772846,37.581117,-77.772846,37.581117",
     "geom:latitude":37.581117,
     "geom:longitude":-77.772846,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lEa4oWxpYViQKP4ELaPYG_37.581117_-77.772846@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907906,
     "wof:geomhash":"4cd0bde0ac888a11b6426624f23136a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739471143
+        }
+    ],
     "wof:id":739471143,
-    "wof:lastmodified":1472651605,
+    "wof:lastmodified":1492031134,
     "wof:name":"Klement Air Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513154,38.356285,-77.513154,38.356285",
     "geom:latitude":38.356285,
     "geom:longitude":-77.513154,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UnILAc8IugeI2aKJP4YBp_38.356285_-77.513154@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887824,
-    "wof:geomhash":"d51e4d72a9718eaa2ee7b764b8c3203c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1654440f5c0b9c262c8dd4614792e6e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":722743957
+        }
+    ],
     "wof:id":722743957,
-    "wof:lastmodified":1472651700,
+    "wof:lastmodified":1492067366,
     "wof:name":"Asia Cafe",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

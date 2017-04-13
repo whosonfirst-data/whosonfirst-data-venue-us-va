@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436704,39.0525,-77.436704,39.0525",
     "geom:latitude":39.0525,
     "geom:longitude":-77.436704,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729437,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34l1BSjujqY8mOEzbOg0t0_39.052500_-77.436704@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907237,
     "wof:geomhash":"032ad33fdee143a258cf6a41bfb0aaa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729437,
+            "region_id":85688747,
+            "venue_id":739433659
+        }
+    ],
     "wof:id":739433659,
-    "wof:lastmodified":1472651533,
+    "wof:lastmodified":1492030384,
     "wof:name":"P & N Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

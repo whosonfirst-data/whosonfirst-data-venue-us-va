@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.405904,38.317355,-77.405904,38.317355",
     "geom:latitude":38.317355,
     "geom:longitude":-77.405904,
@@ -32,17 +33,26 @@
         "cutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KUKuY1cdLgUtLOlnI0Fmf_38.317355_-77.405904@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896170,
-    "wof:geomhash":"675e5ef8a400f05218a5c9aabcd0eb68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3740ac6ec7088736f8d64703b86d066b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723153869
+        }
+    ],
     "wof:id":723153869,
-    "wof:lastmodified":1472651426,
+    "wof:lastmodified":1492048834,
     "wof:name":"Richardson Logging",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

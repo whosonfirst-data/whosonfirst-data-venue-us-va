@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.195717,38.716286,-77.195717,38.716286",
     "geom:latitude":38.716286,
     "geom:longitude":-77.195717,
@@ -41,17 +42,32 @@
         "preparation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t2odNzCbh1UBLtGGvrfTI_38.716286_-77.195717@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908997,
-    "wof:geomhash":"862beff866309baa0f2cfc2edaeb05c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17ddce397f99eb462802684b8656c132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":739531189
+        }
+    ],
     "wof:id":739531189,
-    "wof:lastmodified":1472651727,
+    "wof:lastmodified":1492038352,
     "wof:name":"Snyders of Hanover Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.177868,39.149307,-78.177868,39.149307",
     "geom:latitude":39.149307,
     "geom:longitude":-78.177868,
@@ -36,17 +37,32 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ASgCt1pVsRznMlJCIcsNw_39.149307_-78.177868@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912450,
-    "wof:geomhash":"a526a003f342c360c16e87340784c844",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a34c5031fbc2957cf6b74f7c9363df75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739695327
+        }
+    ],
     "wof:id":739695327,
-    "wof:lastmodified":1472652166,
+    "wof:lastmodified":1492045356,
     "wof:name":"Qwik Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

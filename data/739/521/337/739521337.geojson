@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.276319,39.01436,-77.276319,39.01436",
     "geom:latitude":39.01436,
     "geom:longitude":-77.276319,
@@ -33,7 +34,13 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QTKtvLcXQUeOBMQRSTuJt_39.014360_-77.276319@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461908818,
     "wof:geomhash":"64d36553f7824018b11d2acf98add86d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739521337
+        }
+    ],
     "wof:id":739521337,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492033276,
     "wof:name":"Jerry Parrott & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

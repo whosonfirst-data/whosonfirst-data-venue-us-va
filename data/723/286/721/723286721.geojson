@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.538066,38.009579,-78.538066,38.009579",
     "geom:latitude":38.009579,
     "geom:longitude":-78.538066,
@@ -32,17 +33,30 @@
         "baseball"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xFATBu170Dye1ctEB40ya_38.009579_-78.538066@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898805,
-    "wof:geomhash":"1791b11099317d8e28abfe61ba1fbc49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca43cfbc691e418dc895f7f4e4f9af3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":723286721
+        }
+    ],
     "wof:id":723286721,
-    "wof:lastmodified":1472651823,
+    "wof:lastmodified":1492048220,
     "wof:name":"Dr Baseball",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

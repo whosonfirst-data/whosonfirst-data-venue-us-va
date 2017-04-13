@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451162,38.313629,-77.451162,38.313629",
     "geom:latitude":38.313629,
     "geom:longitude":-77.451162,
@@ -31,19 +32,28 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vegjo0lyZm6MJ4NykvAVf_38.313629_-77.451162@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908045,
-    "wof:geomhash":"f828869d2fc668c8d62217f650581761",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f08ed6a3b59a841b5e571fb2afdd60a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739478783
+        }
+    ],
     "wof:id":739478783,
-    "wof:lastmodified":1472651645,
+    "wof:lastmodified":1492042157,
     "wof:name":"Lee's Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

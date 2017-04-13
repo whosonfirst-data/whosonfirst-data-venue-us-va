@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929465,38.06446,-78.929465,38.06446",
     "geom:latitude":38.06446,
     "geom:longitude":-78.929465,
@@ -32,17 +33,32 @@
         "gear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fd80m9qwNGRKHqpL9AsSd_38.064460_-78.929465@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905506,
-    "wof:geomhash":"6958f4a630ac56355c77a289ba2c4304",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93651f370c367a0cca4de2993c3b08c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739345245
+        }
+    ],
     "wof:id":739345245,
-    "wof:lastmodified":1472651282,
+    "wof:lastmodified":1492043916,
     "wof:name":"Columbia Gear Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

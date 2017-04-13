@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.467968,38.79217,-77.467968,38.79217",
     "geom:latitude":38.79217,
     "geom:longitude":-77.467968,
@@ -32,17 +33,41 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937,
+        101729245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eemiCl87fVkVDeRHdPyz1_38.792170_-77.467968@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907769,
-    "wof:geomhash":"2c23519741c5c921e52ad860463661a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ec9d8c322a0b8338787fb68c9b29148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739463183
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729245,
+            "region_id":85688747,
+            "venue_id":739463183
+        }
+    ],
     "wof:id":739463183,
-    "wof:lastmodified":1472651604,
+    "wof:lastmodified":1492041122,
     "wof:name":"Alvarado Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

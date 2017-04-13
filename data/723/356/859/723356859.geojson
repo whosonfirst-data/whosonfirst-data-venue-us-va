@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.829301,37.86115,-78.829301,37.86115",
     "geom:latitude":37.86115,
     "geom:longitude":-78.829301,
@@ -33,17 +34,30 @@
         "seminar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vvBbwpLNgQRhawFB5qyqZ_37.861150_-78.829301@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900121,
-    "wof:geomhash":"17980d2f2bd398f163bdfae8f6efd377",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33caffd9cfc1714ed353271b07dd3807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":723356859
+        }
+    ],
     "wof:id":723356859,
-    "wof:lastmodified":1472652067,
+    "wof:lastmodified":1492048632,
     "wof:name":"Monroe Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

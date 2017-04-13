@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.337601,38.266865,-77.337601,38.266865",
     "geom:latitude":38.266865,
     "geom:longitude":-77.337601,
@@ -34,17 +35,26 @@
         "impaired"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ch0nwiWBk8SRoRs1IHAnp_38.266865_-77.337601@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904676,
-    "wof:geomhash":"8c2dce029bf4f84af3ed88215f51bdea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1009a7cd9f811d58dfa922390f3fb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546943,
+            "venue_id":739304729
+        }
+    ],
     "wof:id":739304729,
-    "wof:lastmodified":1472651215,
+    "wof:lastmodified":1492040983,
     "wof:name":"Lane Custom Hearing",
     "wof:parent_id":420546943,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.997482,36.702557,-81.997482,36.702557",
     "geom:latitude":36.702557,
     "geom:longitude":-81.997482,
@@ -33,17 +34,26 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69xGXe9YQXVL6GftMH18U6_36.702557_-81.997482@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905675,
-    "wof:geomhash":"1c1f74359673f6841290daacb912b19c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66718f8588bc517d6959a6ef801191d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739352811
+        }
+    ],
     "wof:id":739352811,
-    "wof:lastmodified":1472651347,
+    "wof:lastmodified":1492046002,
     "wof:name":"Elmer Ranch Farm",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

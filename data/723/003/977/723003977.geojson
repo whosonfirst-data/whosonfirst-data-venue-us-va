@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.274018,38.894549,-77.274018,38.894549",
     "geom:latitude":38.894549,
     "geom:longitude":-77.274018,
@@ -34,6 +35,7 @@
         85633793,
         101729035,
         102084863,
+        85839307,
         85853775
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461893020,
-    "wof:geomhash":"27d6d52067c34143fc0ad5f99aed6929",
+    "wof:geomhash":"5f4986c90eaa75cff72ea78e4c58ecb9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729035,
+            "neighbourhood_id":85839307,
+            "region_id":85688747,
+            "venue_id":723003977
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723003977,
-    "wof:lastmodified":1472651108,
+    "wof:lastmodified":1492060475,
     "wof:name":"Knossos Restaurant",
-    "wof:parent_id":85853775,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.061334,37.286203,-80.061334,37.286203",
     "geom:latitude":37.286203,
     "geom:longitude":-80.061334,
@@ -31,7 +32,13 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43j8RQQnoGagmEjJ0LHsN4_37.286203_-80.061334@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909127,
     "wof:geomhash":"7d134ba9ca74c3694cdc06d53f4825da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739538395
+        }
+    ],
     "wof:id":739538395,
-    "wof:lastmodified":1472651776,
+    "wof:lastmodified":1492029883,
     "wof:name":"1 Stop Vending Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

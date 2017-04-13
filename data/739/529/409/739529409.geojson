@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.833123,37.944933,-78.833123,37.944933",
     "geom:latitude":37.944933,
     "geom:longitude":-78.833123,
@@ -31,7 +32,12 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MUArQcTr9ynTBg8tkjIvN_37.944933_-78.833123@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908968,
     "wof:geomhash":"a2b622c71c48a2e3d2b36da48bdf139b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739529409
+        }
+    ],
     "wof:id":739529409,
-    "wof:lastmodified":1472651779,
+    "wof:lastmodified":1492030827,
     "wof:name":"Commercial Financial Svcs LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

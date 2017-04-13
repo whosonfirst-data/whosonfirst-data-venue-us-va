@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.503214,38.024251,-78.503214,38.024251",
     "geom:latitude":38.024251,
     "geom:longitude":-78.503214,
@@ -38,7 +39,8 @@
         85633793,
         101728535,
         102080639,
-        85876705
+        85876705,
+        85876711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907217,
-    "wof:geomhash":"bc9ca9f3ebfe345f862d7967b1b8e12a",
+    "wof:geomhash":"8c7d81fa5283cc5f55a038b79857fc9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85876705,
             "region_id":85688747,
             "venue_id":739432801
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080639,
+            "locality_id":101728535,
+            "neighbourhood_id":85876711,
+            "region_id":85688747,
+            "venue_id":739432801
         }
     ],
     "wof:id":739432801,
-    "wof:lastmodified":1472651533,
+    "wof:lastmodified":1492043057,
     "wof:name":"Godcore Records",
-    "wof:parent_id":85876705,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

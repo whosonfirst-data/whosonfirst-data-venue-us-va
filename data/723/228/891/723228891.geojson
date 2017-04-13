@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.502958,38.414447,-77.502958,38.414447",
     "geom:latitude":38.414447,
     "geom:longitude":-77.502958,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Rfow0F1FYSBtgPxcfO7sZ_38.414447_-77.502958@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897679,
-    "wof:geomhash":"dffa439a0d266e33811feb147d4c023f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd0e2f67d0584d73629a0258466a4ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":723228891
+        }
+    ],
     "wof:id":723228891,
-    "wof:lastmodified":1472651652,
+    "wof:lastmodified":1492058311,
     "wof:name":"JDA Clark Trucking",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

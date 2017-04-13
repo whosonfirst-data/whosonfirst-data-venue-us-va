@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513579,38.78707,-77.513579,38.78707",
     "geom:latitude":38.78707,
     "geom:longitude":-77.513579,
@@ -33,17 +34,32 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0feFszVLM3CfE8wrx6YsLX_38.787070_-77.513579@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905662,
-    "wof:geomhash":"97158c22f17b3ba98547f00c7ccf69a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fb8a40eb11423e222633755b5239f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739352459
+        }
+    ],
     "wof:id":739352459,
-    "wof:lastmodified":1472651337,
+    "wof:lastmodified":1492046015,
     "wof:name":"Tech Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

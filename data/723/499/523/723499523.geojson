@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.910963,37.350336,-79.910963,37.350336",
     "geom:latitude":37.350336,
     "geom:longitude":-79.910963,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cMPZ6Y19BinR5vbJkdHsH_37.350336_-79.910963@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902956,
-    "wof:geomhash":"741e18b99caef13b64b440fddfea01ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8584cf67b62e6b8bab509f8c0df7bc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":723499523
+        }
+    ],
     "wof:id":723499523,
-    "wof:lastmodified":1472652347,
+    "wof:lastmodified":1492057011,
     "wof:name":"Profear Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

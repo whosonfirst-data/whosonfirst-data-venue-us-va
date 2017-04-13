@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.88056,37.536572,-77.88056,37.536572",
     "geom:latitude":37.536572,
     "geom:longitude":-77.88056,
@@ -31,17 +32,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WvkvVeeOfYsup74pW73IH_37.536572_-77.880560@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899541,
-    "wof:geomhash":"040921fd84a8ba2bb54114466dd0ea2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2523f1fc2373b8ae21f9e9b0d718787e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":723325037
+        }
+    ],
     "wof:id":723325037,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492054695,
     "wof:name":"SCS Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

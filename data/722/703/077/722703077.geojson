@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.859085,38.42899,-78.859085,38.42899",
     "geom:latitude":38.42899,
     "geom:longitude":-78.859085,
@@ -33,17 +34,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sculIn7pXxtVhHEgdXr0O_38.428990_-78.859085@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887027,
-    "wof:geomhash":"95d986b55c1bcd708e5c3a3e750b30f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dfc1e51f37ab8185f979486493a72db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722703077
+        }
+    ],
     "wof:id":722703077,
-    "wof:lastmodified":1472651551,
+    "wof:lastmodified":1492066554,
     "wof:name":"Harrisonburg Orthopedic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.981647,36.707071,-81.981647,36.707071",
     "geom:latitude":36.707071,
     "geom:longitude":-81.981647,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57OIZuTGoiQmou1OZlhdKR_36.707071_-81.981647@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903836,
-    "wof:geomhash":"0c499d28268cf5faf1d268c737fe889b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ee0ff596d8753baa6ab54ce0e948049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739266087
+        }
+    ],
     "wof:id":739266087,
-    "wof:lastmodified":1472651131,
+    "wof:lastmodified":1492046704,
     "wof:name":"Precision Truck Repair",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

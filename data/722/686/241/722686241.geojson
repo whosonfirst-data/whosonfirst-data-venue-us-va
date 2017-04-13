@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.566322,37.318557,-79.566322,37.318557",
     "geom:latitude":37.318557,
     "geom:longitude":-79.566322,
@@ -31,17 +32,30 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FqQi74l2sjQnVnIP4xVvG_37.318557_-79.566322@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886703,
-    "wof:geomhash":"ab6261512d7d9f6e22d21e22eaacd448",
-    "wof:hierarchy":[],
+    "wof:geomhash":"424911fc63841be2307880b21cd1855e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722686241
+        }
+    ],
     "wof:id":722686241,
-    "wof:lastmodified":1472651509,
+    "wof:lastmodified":1492063058,
     "wof:name":"Penguin Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

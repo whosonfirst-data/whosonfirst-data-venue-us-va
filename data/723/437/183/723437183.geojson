@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.188673,36.595143,-82.188673,36.595143",
     "geom:latitude":36.595143,
     "geom:longitude":-82.188673,
@@ -32,19 +33,36 @@
         "reinforcing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728659,
+        102084925,
+        85827531
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zHb4KXtA9tMTBuVs3LFym_36.595143_-82.188673@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901697,
-    "wof:geomhash":"a08a4c034d7c37b585ea560ed814390d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d690623175e0d5abd19267fe6c83d8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":85827531,
+            "region_id":85688747,
+            "venue_id":723437183
+        }
+    ],
     "wof:id":723437183,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492058980,
     "wof:name":"Banner Rebar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85827531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

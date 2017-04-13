@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.024819,36.679095,-82.024819,36.679095",
     "geom:latitude":36.679095,
     "geom:longitude":-82.024819,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.maxwellmanor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mdTXuUWYVOzD5qwgIvAhL_36.679095_-82.024819@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907600,
     "wof:geomhash":"e0571745d5ad338dc89ec229adb3098a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739453303
+        }
+    ],
     "wof:id":739453303,
-    "wof:lastmodified":1472651564,
+    "wof:lastmodified":1492030405,
     "wof:name":"Maxwell Manor Bed & Breakfast",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.610943,38.774923,-77.610943,38.774923",
     "geom:latitude":38.774923,
     "geom:longitude":-77.610943,
@@ -28,7 +29,13 @@
     "sg:postcode":"20155",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OwJnVPOyL2uZre8UiB5yK_38.774923_-77.610943@1303262496"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910598,
     "wof:geomhash":"ec94baad21353493e2846f578bc691a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739609741
+        }
+    ],
     "wof:id":739609741,
-    "wof:lastmodified":1472651971,
+    "wof:lastmodified":1492032675,
     "wof:name":"Church of Jesus Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

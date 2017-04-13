@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.426025,37.237862,-77.426025,37.237862",
     "geom:latitude":37.237862,
     "geom:longitude":-77.426025,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729303,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yP1D8PSuUd91SiTpKJ6Aw_37.237862_-77.426025@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898418,
-    "wof:geomhash":"50732bb4bc03a6b790411f109a177c8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"163fddebeee03d41276f0eddaf75ec43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729303,
+            "region_id":85688747,
+            "venue_id":723265765
+        }
+    ],
     "wof:id":723265765,
-    "wof:lastmodified":1472651814,
+    "wof:lastmodified":1492057348,
     "wof:name":"Ettrick Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

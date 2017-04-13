@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.601607,37.502297,-77.601607,37.502297",
     "geom:latitude":37.502297,
     "geom:longitude":-77.601607,
@@ -31,7 +32,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lTlWe7Uhyj4m6zULxTh8H_37.502297_-77.601607@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906896,
     "wof:geomhash":"460fccf4be6d203c258673ea22f3451b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739417011
+        }
+    ],
     "wof:id":739417011,
-    "wof:lastmodified":1472651498,
+    "wof:lastmodified":1492031481,
     "wof:name":"Wallace Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.865884,38.453235,-78.865884,38.453235",
     "geom:latitude":38.453235,
     "geom:longitude":-78.865884,
@@ -32,17 +33,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dJLC543tvP8F8fV18zrpC_38.453235_-78.865884@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907519,
-    "wof:geomhash":"3677ae313f019b10ee4db3e8444f2e39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f8fbe32d1518b4ff91abf5ec06bd2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739448931
+        }
+    ],
     "wof:id":739448931,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492038063,
     "wof:name":"Jenkins Auto Svc & Tire Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

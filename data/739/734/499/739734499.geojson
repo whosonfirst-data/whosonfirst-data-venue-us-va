@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.383957,37.299155,-78.383957,37.299155",
     "geom:latitude":37.299155,
     "geom:longitude":-78.383957,
@@ -33,17 +34,32 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CcWPHYSgkvpH8PdfcSZZv_37.299155_-78.383957@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913289,
-    "wof:geomhash":"2ab1b75ac59b0377b04f92d37e883552",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02025d664f61b3ec4277a50fe6fdf0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739734499
+        }
+    ],
     "wof:id":739734499,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492043355,
     "wof:name":"Region Iv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

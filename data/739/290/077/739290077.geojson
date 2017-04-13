@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.857274,38.441152,-78.857274,38.441152",
     "geom:latitude":38.441152,
     "geom:longitude":-78.857274,
@@ -28,7 +29,13 @@
     "sg:postcode":"22801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LuOEnQXq3gtWlOowmF0hn_38.441152_-78.857274@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904369,
     "wof:geomhash":"17469162f80472ce8bd3c16a43fca785",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739290077
+        }
+    ],
     "wof:id":739290077,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492032803,
     "wof:name":"European Hair Style",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

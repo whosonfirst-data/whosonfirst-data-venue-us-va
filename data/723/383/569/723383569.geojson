@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.728599,37.380959,-79.728599,37.380959",
     "geom:latitude":37.380959,
     "geom:longitude":-79.728599,
@@ -28,17 +29,32 @@
     "sg:postcode":"24064",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729667,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lXMjLf1EypBKk8SwzUXI9_37.380959_-79.728599@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900655,
-    "wof:geomhash":"63ad95df71683187b9b63ef154ec3dc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f617046031391fa826cb0daecf6489cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729667,
+            "region_id":85688747,
+            "venue_id":723383569
+        }
+    ],
     "wof:id":723383569,
-    "wof:lastmodified":1472652110,
+    "wof:lastmodified":1492054200,
     "wof:name":"John Bolt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

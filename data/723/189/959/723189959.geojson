@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41412,38.461385,-77.41412,38.461385",
     "geom:latitude":38.461385,
     "geom:longitude":-77.41412,
@@ -31,17 +32,26 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cFtz2zy030fUwoPvWLEEP_38.461385_-77.414120@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896879,
-    "wof:geomhash":"0bd6b240537128b15e3685da844f1b64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d91739b6d3c1a74a8626235790a55ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":723189959
+        }
+    ],
     "wof:id":723189959,
-    "wof:lastmodified":1472651542,
+    "wof:lastmodified":1492056284,
     "wof:name":"Hornimans Tax",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

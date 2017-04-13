@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.194309,36.855052,-76.194309,36.855052",
     "geom:latitude":36.855052,
     "geom:longitude":-76.194309,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.eckerd.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wKgI2MQf1oqYlhdHdibgY_36.855052_-76.194309@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904505,
-    "wof:geomhash":"2edbbd5cc36b79f22bf0a8ad9bff58b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0311450f47d3664b214346921828b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739297239
+        }
+    ],
     "wof:id":739297239,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492045570,
     "wof:name":"Eckerd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

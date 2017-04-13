@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.392328,37.302557,-78.392328,37.302557",
     "geom:latitude":37.302557,
     "geom:longitude":-78.392328,
@@ -32,17 +33,32 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z2wLBpJujMv1pmRpF6lxg_37.302557_-78.392328@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898092,
-    "wof:geomhash":"818675d8844eadd20627aed712ee4d4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c009c1ae14b1825be96655cf6ce7fa45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723248781
+        }
+    ],
     "wof:id":723248781,
-    "wof:lastmodified":1472651700,
+    "wof:lastmodified":1492056694,
     "wof:name":"Davenport & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

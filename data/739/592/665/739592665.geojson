@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.961632,37.307925,-79.961632,37.307925",
     "geom:latitude":37.307925,
     "geom:longitude":-79.961632,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MTK0bCaxu58F1HVjXXSak_37.307925_-79.961632@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910251,
-    "wof:geomhash":"f43bc4d30e11a5a5a94270f9c9ce2f56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d386088558613e6859ea174dc9c63a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739592665
+        }
+    ],
     "wof:id":739592665,
-    "wof:lastmodified":1472651953,
+    "wof:lastmodified":1492041031,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

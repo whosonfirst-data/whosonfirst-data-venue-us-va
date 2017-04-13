@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.696618,37.12773,-79.696618,37.12773",
     "geom:latitude":37.12773,
     "geom:longitude":-79.696618,
@@ -28,7 +29,13 @@
     "sg:postcode":"24121",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729713,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78AjkWcSMBXRsf4EoK7c3w_37.127730_-79.696618@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905695,
     "wof:geomhash":"42254e980b955bdb8e819fb4048c414e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729713,
+            "region_id":85688747,
+            "venue_id":739353909
+        }
+    ],
     "wof:id":739353909,
-    "wof:lastmodified":1472651356,
+    "wof:lastmodified":1492030560,
     "wof:name":"Bashams Lawn Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

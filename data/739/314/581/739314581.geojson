@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.203056,37.808641,-77.203056,37.808641",
     "geom:latitude":37.808641,
     "geom:longitude":-77.203056,
@@ -31,7 +32,12 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aLI7SXLgBgZIURa6J5lkh_37.808641_-77.203056@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904858,
     "wof:geomhash":"7f9bfd7afb06449bdb1c0195c6296d1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739314581
+        }
+    ],
     "wof:id":739314581,
-    "wof:lastmodified":1472651236,
+    "wof:lastmodified":1492029897,
     "wof:name":"Steve Pemberton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.889548,36.994272,-79.889548,36.994272",
     "geom:latitude":36.994272,
     "geom:longitude":-79.889548,
@@ -32,7 +33,13 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XuyrnbznUAvHru7IFqcAj_36.994272_-79.889548@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908952,
     "wof:geomhash":"17abb4377ea59bb1ae9f48912d1a3592",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":739528413
+        }
+    ],
     "wof:id":739528413,
-    "wof:lastmodified":1472651759,
+    "wof:lastmodified":1492032526,
     "wof:name":"Gil Farmer Chevrolet Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

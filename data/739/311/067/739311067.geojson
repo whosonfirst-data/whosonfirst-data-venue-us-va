@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.76249,37.247071,-76.76249,37.247071",
     "geom:latitude":37.247071,
     "geom:longitude":-76.76249,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.wuu.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LIjyFbAUqFJiPWuHiyHvm_37.247071_-76.762490@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904795,
     "wof:geomhash":"63ae8e57fb2cd5d60f81b593a54ba538",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":739311067
+        }
+    ],
     "wof:id":739311067,
-    "wof:lastmodified":1472651197,
+    "wof:lastmodified":1492030284,
     "wof:name":"Unitarian Universalist Church",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

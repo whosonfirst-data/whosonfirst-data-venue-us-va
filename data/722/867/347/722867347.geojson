@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.765717,37.254613,-76.765717,37.254613",
     "geom:latitude":37.254613,
     "geom:longitude":-76.765717,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0urR89YwOPvFjSOwvpq0ut_37.254613_-76.765717@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890150,
-    "wof:geomhash":"8e68f0e8373aede7748a64f60271b530",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf6efa5987ba3ff7432760996d221f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":722867347
+        }
+    ],
     "wof:id":722867347,
-    "wof:lastmodified":1472651995,
+    "wof:lastmodified":1492070878,
     "wof:name":"Go Travel",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

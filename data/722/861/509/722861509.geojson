@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.229851,36.901845,-76.229851,36.901845",
     "geom:latitude":36.901845,
     "geom:longitude":-76.229851,
@@ -37,6 +38,7 @@
         85633793,
         101728769,
         102085935,
+        85839101,
         420548205
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890043,
-    "wof:geomhash":"0cb611fa910d7d57f7795bbd7d46ea07",
+    "wof:geomhash":"ed8a4fea9d9da1f2097087d27b11a088",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85839101,
+            "region_id":85688747,
+            "venue_id":722861509
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722861509,
-    "wof:lastmodified":1472652013,
+    "wof:lastmodified":1492070019,
     "wof:name":"Barron F Black Branch Library",
-    "wof:parent_id":420548205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

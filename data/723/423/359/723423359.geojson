@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.141781,38.852142,-77.141781,38.852142",
     "geom:latitude":38.852142,
     "geom:longitude":-77.141781,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64E2hJRLkziVESNJlBFkcQ_38.852142_-77.141781@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901429,
-    "wof:geomhash":"dc998b5bca63c7dc3db23dba4d33d842",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70c578ed0b2e45a69064239426773daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":723423359
+        }
+    ],
     "wof:id":723423359,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492050646,
     "wof:name":"Maria E Mairena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

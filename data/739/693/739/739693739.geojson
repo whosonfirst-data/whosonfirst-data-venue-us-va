@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.501167,38.253399,-77.501167,38.253399",
     "geom:latitude":38.253399,
     "geom:longitude":-77.501167,
@@ -23,7 +24,12 @@
     "sg:province":"VA",
     "sg:website":"http://www.goodyeartires.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VstSuP1gly56aki0Qek5S_38.253399_-77.501167@1303262547"
@@ -31,9 +37,17 @@
     "wof:country":"US",
     "wof:created":1461912413,
     "wof:geomhash":"fd4f42279c22fb1e19dc87e52c7df7d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693739
+        }
+    ],
     "wof:id":739693739,
-    "wof:lastmodified":1472652190,
+    "wof:lastmodified":1492031387,
     "wof:name":"Courthouse Tire Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

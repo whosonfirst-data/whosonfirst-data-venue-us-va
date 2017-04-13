@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.637265,37.069113,-77.637265,37.069113",
     "geom:latitude":37.069113,
     "geom:longitude":-77.637265,
@@ -28,7 +29,12 @@
     "sg:postcode":"23840",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25u4oU5gRFlUJviHycEeKm_37.069113_-77.637265@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907664,
     "wof:geomhash":"46323294b834d3f39c03ad04747e0286",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":739457187
+        }
+    ],
     "wof:id":739457187,
-    "wof:lastmodified":1472651570,
+    "wof:lastmodified":1492031859,
     "wof:name":"Leesmere Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

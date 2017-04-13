@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476243,37.932781,-77.476243,37.932781",
     "geom:latitude":37.932781,
     "geom:longitude":-77.476243,
@@ -33,17 +34,30 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DPDQ6eErifJ2c4ktaeoyb_37.932781_-77.476243@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884253,
-    "wof:geomhash":"0fa71329caadbab6f51eb7c35107f143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bff43290289380417c8678246cdbefe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":722562331
+        }
+    ],
     "wof:id":722562331,
-    "wof:lastmodified":1472651114,
+    "wof:lastmodified":1492069905,
     "wof:name":"Flying J Travel Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

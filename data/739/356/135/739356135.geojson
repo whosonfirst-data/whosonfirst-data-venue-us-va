@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.506723,38.880033,-78.506723,38.880033",
     "geom:latitude":38.880033,
     "geom:longitude":-78.506723,
@@ -31,7 +32,13 @@
         "hospice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NghplL3aHEY4ZiYordZNc_38.880033_-78.506723@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905738,
     "wof:geomhash":"0ff5b994af4474c1de70e6b336102030",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":739356135
+        }
+    ],
     "wof:id":739356135,
-    "wof:lastmodified":1472651324,
+    "wof:lastmodified":1492030440,
     "wof:name":"Blue Ridge Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

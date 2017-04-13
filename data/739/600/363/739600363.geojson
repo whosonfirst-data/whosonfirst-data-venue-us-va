@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.969506,37.235396,-79.969506,37.235396",
     "geom:latitude":37.235396,
     "geom:longitude":-79.969506,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nQEG7MHBHbdtQX7SvMod3_37.235726_-79.969783@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461910408,
-    "wof:geomhash":"d17ea6c9c939718ea74b8b38c982fe76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da3be345f0243494b634a2ff6007fe71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739600363
+        }
+    ],
     "wof:id":739600363,
-    "wof:lastmodified":1472651947,
+    "wof:lastmodified":1492039507,
     "wof:name":"Waffle House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

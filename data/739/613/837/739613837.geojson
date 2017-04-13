@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.662102,38.9132,-77.662102,38.9132",
     "geom:latitude":38.9132,
     "geom:longitude":-77.662102,
@@ -28,7 +29,13 @@
     "sg:postcode":"20169",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729263,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tzQqKaklmMpIjTSAMnIh2_38.913200_-77.662102@1303262496"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910681,
     "wof:geomhash":"359e1581381d0fb6a0f029e33e34b0bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729263,
+            "region_id":85688747,
+            "venue_id":739613837
+        }
+    ],
     "wof:id":739613837,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492032424,
     "wof:name":"Tri County Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

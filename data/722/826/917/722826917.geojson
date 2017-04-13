@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731421,37.288909,-76.731421,37.288909",
     "geom:latitude":37.288909,
     "geom:longitude":-76.731421,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728999,
+        102087299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tAts02WYX5Z6SR8aHwpIf_37.288909_-76.731421@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889391,
-    "wof:geomhash":"77a56e08fa930a93340bb4448722d344",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f4ee2b2aa12c95e89ac88d7e3ad814d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087299,
+            "locality_id":101728999,
+            "region_id":85688747,
+            "venue_id":722826917
+        }
+    ],
     "wof:id":722826917,
-    "wof:lastmodified":1472651913,
+    "wof:lastmodified":1492071697,
     "wof:name":"Chicago Tribune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

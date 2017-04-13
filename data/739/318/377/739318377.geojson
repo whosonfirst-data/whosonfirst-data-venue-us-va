@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.208305,38.735162,-77.208305,38.735162",
     "geom:latitude":38.735162,
     "geom:longitude":-77.208305,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32b5brK8BMIaZ6n3huu61t_38.735162_-77.208305@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904936,
-    "wof:geomhash":"3a59c390e96eaac3210b88a19bc57dd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0015014abb9ac38ddbd3f2541994833f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739318377
+        }
+    ],
     "wof:id":739318377,
-    "wof:lastmodified":1472651219,
+    "wof:lastmodified":1492045142,
     "wof:name":"All PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

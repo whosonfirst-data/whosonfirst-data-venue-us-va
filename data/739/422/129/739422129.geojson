@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.463197,36.801572,-78.463197,36.801572",
     "geom:latitude":36.801572,
     "geom:longitude":-78.463197,
@@ -31,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729013,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78O7rwBfsxGAFPWEOaELR3_36.801572_-78.463197@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907010,
     "wof:geomhash":"ac847ba3f312fea142595192df43c96a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729013,
+            "region_id":85688747,
+            "venue_id":739422129
+        }
+    ],
     "wof:id":739422129,
-    "wof:lastmodified":1472651500,
+    "wof:lastmodified":1492031220,
     "wof:name":"Bethlehem Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

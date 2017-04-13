@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.523192,37.334433,-79.523192,37.334433",
     "geom:latitude":37.334433,
     "geom:longitude":-79.523192,
@@ -31,17 +32,32 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v2VljJBUYJo8LcD4hSaCt_37.334433_-79.523192@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898379,
-    "wof:geomhash":"04cb82ed5f3188a3f66ecae1c444709d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f70f082a021718f152f16704b95e055e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723263997
+        }
+    ],
     "wof:id":723263997,
-    "wof:lastmodified":1472651841,
+    "wof:lastmodified":1492055469,
     "wof:name":"Juvenile Court Svc Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

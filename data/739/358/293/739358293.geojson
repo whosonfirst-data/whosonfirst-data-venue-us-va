@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.424327,37.189723,-76.424327,37.189723",
     "geom:latitude":37.189723,
     "geom:longitude":-76.424327,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_351ZhQ2ZjKcD2Hhxc84x0u_37.189723_-76.424327@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905781,
-    "wof:geomhash":"7f5562d7278a6f6b667011f8ff3f5e85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a0664668b2404dca3343ec743971164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739358293
+        }
+    ],
     "wof:id":739358293,
-    "wof:lastmodified":1472651326,
+    "wof:lastmodified":1492040177,
     "wof:name":"Bob's Carpet Cleaners",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

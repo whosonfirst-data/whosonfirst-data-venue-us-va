@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.24179,36.852818,-76.24179,36.852818",
     "geom:latitude":36.852818,
     "geom:longitude":-76.24179,
@@ -40,6 +41,7 @@
         85633793,
         101728769,
         102085935,
+        85826945,
         420548143
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884163,
-    "wof:geomhash":"7edab828d2b7268a9b2d0864b44416fe",
+    "wof:geomhash":"895921e2a4ebdcb0bdb4518c2569c04a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85826945,
+            "region_id":85688747,
+            "venue_id":722557705
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":722557705,
-    "wof:lastmodified":1472651127,
+    "wof:lastmodified":1492072099,
     "wof:name":"Roof Engineering Corp",
-    "wof:parent_id":420548143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

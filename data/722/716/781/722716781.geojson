@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.884395,38.451862,-78.884395,38.451862",
     "geom:latitude":38.451862,
     "geom:longitude":-78.884395,
@@ -31,17 +32,32 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vpFIci8oTJF58sLOJnzJ6_38.451862_-78.884395@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887284,
-    "wof:geomhash":"5ee1a6fc731603302cdd26781c330490",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ec3a1116bd3024a82a0e659a36a943a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722716781
+        }
+    ],
     "wof:id":722716781,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492066987,
     "wof:name":"Spottless Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

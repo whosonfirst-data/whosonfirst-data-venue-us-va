@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526101,38.399686,-77.526101,38.399686",
     "geom:latitude":38.399686,
     "geom:longitude":-77.526101,
@@ -32,17 +33,26 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31WjRkh0VviNgwosqkOTMA_38.399686_-77.526101@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886554,
-    "wof:geomhash":"58e30c7390c18c83b18cb5754f8cfc4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"382fdb36d2d24c44adbdff0bcd2df802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":722678479
+        }
+    ],
     "wof:id":722678479,
-    "wof:lastmodified":1472651518,
+    "wof:lastmodified":1492068433,
     "wof:name":"Everett Enterprises",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

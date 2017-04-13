@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.10344,36.930835,-79.10344,36.930835",
     "geom:latitude":36.930835,
     "geom:longitude":-79.10344,
@@ -35,17 +36,30 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24SMoulfSCCmHiBDyL3UXc_36.930835_-79.103440@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903420,
-    "wof:geomhash":"4d0430d6b4cdab4d93ea41de6461cf66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c74ec523838e92dbadff5e1ab9429dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739247213
+        }
+    ],
     "wof:id":739247213,
-    "wof:lastmodified":1472651070,
+    "wof:lastmodified":1492038522,
     "wof:name":"Colonial Pipeline Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

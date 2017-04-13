@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434289,38.870991,-77.434289,38.870991",
     "geom:latitude":38.870991,
     "geom:longitude":-77.434289,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cA8E4IgthWRTAbNJAAfIX_38.870991_-77.434289@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900658,
-    "wof:geomhash":"8074e39c7fca34a37672c08fee17b195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fb76f4bd2db6508f95e5c3b9e95e8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723383709
+        }
+    ],
     "wof:id":723383709,
-    "wof:lastmodified":1472652111,
+    "wof:lastmodified":1492054229,
     "wof:name":"Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.367314,38.498828,-77.367314,38.498828",
     "geom:latitude":38.498828,
     "geom:longitude":-77.367314,
@@ -31,17 +32,26 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yvGUS3jivyPtpNQh3XKFg_38.498828_-77.367314@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889042,
-    "wof:geomhash":"ba044d6838803a3f4eb181063b89f0f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75680ff6ba24be3f6f89f876676efec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":722808685
+        }
+    ],
     "wof:id":722808685,
-    "wof:lastmodified":1472651872,
+    "wof:lastmodified":1492063358,
     "wof:name":"Stafford Yellow Cab",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

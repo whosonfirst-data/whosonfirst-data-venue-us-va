@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.727973,37.348654,-76.727973,37.348654",
     "geom:latitude":37.348654,
     "geom:longitude":-76.727973,
@@ -32,19 +33,28 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zrNwdzOm9w0JBXKktrpry_37.348654_-76.727973@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902111,
-    "wof:geomhash":"765eb1568b32c545be0cc08c9203a117",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e890a91b709abbb9d96f9d6974434606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":723459299
+        }
+    ],
     "wof:id":723459299,
-    "wof:lastmodified":1472652280,
+    "wof:lastmodified":1492061029,
     "wof:name":"Pro Slide Technology",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

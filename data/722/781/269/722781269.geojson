@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622687,37.219285,-76.622687,37.219285",
     "geom:latitude":37.219285,
     "geom:longitude":-76.622687,
@@ -32,17 +33,26 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12iLtqflcPcZl4C5MJmTq5_37.219285_-76.622687@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888523,
-    "wof:geomhash":"bd3cc86760af196a15ca406938106b77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b77f94156334ffb84b5b0e43b93c8f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":722781269
+        }
+    ],
     "wof:id":722781269,
-    "wof:lastmodified":1472651745,
+    "wof:lastmodified":1492064714,
     "wof:name":"Peninsula Defensive Driving",
     "wof:parent_id":420546871,
     "wof:placetype":"venue",

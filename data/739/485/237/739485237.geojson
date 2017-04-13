@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564666,39.197163,-77.564666,39.197163",
     "geom:latitude":39.197163,
     "geom:longitude":-77.564666,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Do7kmm0WR8rI8gQWiug36_39.197163_-77.564666@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908165,
     "wof:geomhash":"4f6e6e8b7c1387ae7fbc35a03e44283c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739485237
+        }
+    ],
     "wof:id":739485237,
-    "wof:lastmodified":1472651655,
+    "wof:lastmodified":1492030703,
     "wof:name":"C & K Carpentry Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

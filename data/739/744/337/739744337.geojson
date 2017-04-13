@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.903445,38.065794,-78.903445,38.065794",
     "geom:latitude":38.065794,
     "geom:longitude":-78.903445,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"http://www.ntelos.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55lKErNcuiIPDB6ifqA7pW_38.065794_-78.903445@1308186498"
     },
     "wof:country":"US",
     "wof:created":1461913518,
-    "wof:geomhash":"06fbd1f48a3747e608719f8efe9ba801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9762d70fa5fe4425efbb8c436e552f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739744337
+        }
+    ],
     "wof:id":739744337,
-    "wof:lastmodified":1472652251,
+    "wof:lastmodified":1492040393,
     "wof:name":"nTelos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.183348,36.595005,-82.183348,36.595005",
     "geom:latitude":36.595005,
     "geom:longitude":-82.183348,
@@ -31,19 +32,36 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        85818617
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wiD8Q3Vnj6MoHP61ICsI7_36.595005_-82.183348@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889700,
-    "wof:geomhash":"05b1c889812e995c323349cc6f65d5f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"925cbca6307417af653738d4c4c802a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85818617,
+            "region_id":85688701,
+            "venue_id":722844007
+        }
+    ],
     "wof:id":722844007,
-    "wof:lastmodified":1472651925,
+    "wof:lastmodified":1492064775,
     "wof:name":"Pendleton's Jewelry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.507435,38.410176,-77.507435,38.410176",
     "geom:latitude":38.410176,
     "geom:longitude":-77.507435,
@@ -31,17 +32,26 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TKAJp4chd8YCFEKcBABL7_38.410176_-77.507435@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901947,
-    "wof:geomhash":"29553f68c245a658886b77ad1a215c2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e76bd08a91ea77964b8315d1a9317d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":723450203
+        }
+    ],
     "wof:id":723450203,
-    "wof:lastmodified":1472652282,
+    "wof:lastmodified":1492053673,
     "wof:name":"Portraits Unlimited",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

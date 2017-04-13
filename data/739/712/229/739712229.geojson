@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764191,37.301479,-76.764191,37.301479",
     "geom:latitude":37.301479,
     "geom:longitude":-76.764191,
@@ -31,17 +32,26 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01O6Cq7g08QPkKobRqVnZG_37.301479_-76.764191@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912826,
-    "wof:geomhash":"50057ef11aaec521988c64484d5fcbfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42d7e67d4dbf508baa366fd2ed2790ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546935,
+            "venue_id":739712229
+        }
+    ],
     "wof:id":739712229,
-    "wof:lastmodified":1472652176,
+    "wof:lastmodified":1492039426,
     "wof:name":"1220 Investments",
     "wof:parent_id":420546935,
     "wof:placetype":"venue",

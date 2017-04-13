@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.922688,37.444696,-76.922688,37.444696",
     "geom:latitude":37.444696,
     "geom:longitude":-76.922688,
@@ -31,19 +32,28 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OUqSjRhDkJd8Bzzwg1zXz_37.444696_-76.922688@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904592,
-    "wof:geomhash":"2c61fbb79c150c908915d40abec44b97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a68cc2a4fb5ddcc3af6d3fce334d5b64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":739300629
+        }
+    ],
     "wof:id":739300629,
-    "wof:lastmodified":1472651222,
+    "wof:lastmodified":1492041757,
     "wof:name":"Lesters Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

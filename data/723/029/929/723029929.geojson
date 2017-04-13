@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.019766,36.731072,-82.019766,36.731072",
     "geom:latitude":36.731072,
     "geom:longitude":-82.019766,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HnByzzlN0mtpIt1zu0I2v_36.731072_-82.019766@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893599,
-    "wof:geomhash":"4a0973921dd922d898918f5a5d7bdf68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22a20cdc688bbe29c84440359d79f62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723029929
+        }
+    ],
     "wof:id":723029929,
-    "wof:lastmodified":1472651161,
+    "wof:lastmodified":1492059007,
     "wof:name":"Double R Construction Co",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

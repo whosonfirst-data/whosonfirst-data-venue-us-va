@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.899278,38.414623,-78.899278,38.414623",
     "geom:latitude":38.414623,
     "geom:longitude":-78.899278,
@@ -31,17 +32,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GsaaT9qh3xUIEV9Nx8ipZ_38.414623_-78.899278@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900336,
-    "wof:geomhash":"52e0ac977ed7aa6b1c81566c2888e9d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"608b2b0c751faef5a9a009f0e2ee73bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723367875
+        }
+    ],
     "wof:id":723367875,
-    "wof:lastmodified":1472652087,
+    "wof:lastmodified":1492056502,
     "wof:name":"Music Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

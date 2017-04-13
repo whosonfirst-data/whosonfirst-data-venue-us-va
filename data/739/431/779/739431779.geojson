@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.976205,37.589722,-77.976205,37.589722",
     "geom:latitude":37.589722,
     "geom:longitude":-77.976205,
@@ -31,7 +32,12 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bZziESeDAJWE7uGKNmGCM_37.589722_-77.976205@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907196,
     "wof:geomhash":"88f5232ea67dc3a2b56d4c2de18fda79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739431779
+        }
+    ],
     "wof:id":739431779,
-    "wof:lastmodified":1472651541,
+    "wof:lastmodified":1492033121,
     "wof:name":"Allen's Ambulance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

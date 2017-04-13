@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41975,37.39127,-77.41975,37.39127",
     "geom:latitude":37.39127,
     "geom:longitude":-77.41975,
@@ -60,17 +61,30 @@
     ],
     "sg:website":"http://www.hikoinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QtM6jN0wF2pggpEIJSCSX_37.391270_-77.419750@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913105,
-    "wof:geomhash":"067870d098dc3c24ff805c5c0389d052",
-    "wof:hierarchy":[],
+    "wof:geomhash":"750cc50904fb8456080f96d80198248f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739725547
+        }
+    ],
     "wof:id":739725547,
-    "wof:lastmodified":1472652234,
+    "wof:lastmodified":1492039810,
     "wof:name":"Hiko, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.929848,37.47193,-76.929848,37.47193",
     "geom:latitude":37.47193,
     "geom:longitude":-76.929848,
@@ -31,19 +32,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JkN99ydMGV5SQGFJKCUxr_37.471930_-76.929848@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895200,
-    "wof:geomhash":"f86e4a83c90cc45b7667f932e9033007",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ae0b72c2a12df3d14114a57a2e2c4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723104241
+        }
+    ],
     "wof:id":723104241,
-    "wof:lastmodified":1472651319,
+    "wof:lastmodified":1492048995,
     "wof:name":"Weaver Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

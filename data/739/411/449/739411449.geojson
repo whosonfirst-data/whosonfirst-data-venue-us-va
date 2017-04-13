@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50091,39.021169,-77.50091,39.021169",
     "geom:latitude":39.021169,
     "geom:longitude":-77.50091,
@@ -32,17 +33,32 @@
         "database"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0y9J62q5nzZv44UnUf9wJN_39.021169_-77.500910@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906790,
-    "wof:geomhash":"a549864dbf32d803b4b8c8f04aede241",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20f5e8c581455eb815d401736e3dfce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":739411449
+        }
+    ],
     "wof:id":739411449,
-    "wof:lastmodified":1472651468,
+    "wof:lastmodified":1492044415,
     "wof:name":"Joseph G Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

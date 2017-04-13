@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.194165,36.842316,-76.194165,36.842316",
     "geom:latitude":36.842316,
     "geom:longitude":-76.194165,
@@ -32,7 +33,13 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37Y4SDKQ03V2fWIZFHiqVu_36.842316_-76.194165@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909125,
     "wof:geomhash":"e311777c2ad02ba5520b41813e0cfa0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739538305
+        }
+    ],
     "wof:id":739538305,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492029883,
     "wof:name":"Jim's Mobile Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

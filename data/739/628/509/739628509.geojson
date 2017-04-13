@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.122863,38.84799,-77.122863,38.84799",
     "geom:latitude":38.84799,
     "geom:longitude":-77.122863,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.shell.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EoVbcjCSaroew80MwsVdS_38.847990_-77.122863@1303262538"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461910999,
     "wof:geomhash":"d35dceeb518d37c78ed0391fe451b559",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739628509
+        }
+    ],
     "wof:id":739628509,
-    "wof:lastmodified":1472652012,
+    "wof:lastmodified":1492030500,
     "wof:name":"Skyline Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

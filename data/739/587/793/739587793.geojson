@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.590561,37.507225,-77.590561,37.507225",
     "geom:latitude":37.507225,
     "geom:longitude":-77.590561,
@@ -33,17 +34,32 @@
         "steakhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YpZverAJ2UqyGIj1pkXbG_37.507225_-77.590561@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910157,
-    "wof:geomhash":"03af1ae4db3fd9338536714800110120",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95b8d47fb6d58f09a809e7969a5d8ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739587793
+        }
+    ],
     "wof:id":739587793,
-    "wof:lastmodified":1472651940,
+    "wof:lastmodified":1492044888,
     "wof:name":"Lone Star Steakhouse & Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.598892,38.13625,-77.598892,38.13625",
     "geom:latitude":38.13625,
     "geom:longitude":-77.598892,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"http://www.charliesauto.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20KOELyluRiSi0WpEY8CgS_38.136250_-77.598892@1303262547"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461912427,
     "wof:geomhash":"03d4c4b8d87bdf1f51461abd8cd38d5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694459
+        }
+    ],
     "wof:id":739694459,
-    "wof:lastmodified":1472652173,
+    "wof:lastmodified":1492030256,
     "wof:name":"Charlie's Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

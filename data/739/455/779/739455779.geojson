@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.433517,38.387518,-78.433517,38.387518",
     "geom:latitude":38.387518,
     "geom:longitude":-78.433517,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68At2WRAbJkcylUaHU4XIA_38.387518_-78.433517@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907641,
     "wof:geomhash":"772842792eb16d917c6cbf37bd7080bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739455779
+        }
+    ],
     "wof:id":739455779,
-    "wof:lastmodified":1472651585,
+    "wof:lastmodified":1492032968,
     "wof:name":"Rich Crocker Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

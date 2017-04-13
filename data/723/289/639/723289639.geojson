@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.190624,39.165917,-78.190624,39.165917",
     "geom:latitude":39.165917,
     "geom:longitude":-78.190624,
@@ -31,17 +32,32 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YgZViw2LQfzV6iFXisDbf_39.165917_-78.190624@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898861,
-    "wof:geomhash":"c9747ad39af66e1a64a7d264262ee2af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"118168b90fe385c5343814078c3014a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723289639
+        }
+    ],
     "wof:id":723289639,
-    "wof:lastmodified":1472651781,
+    "wof:lastmodified":1492062177,
     "wof:name":"Hospital Supply Division",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

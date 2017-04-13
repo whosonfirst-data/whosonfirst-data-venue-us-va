@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.32661,37.259917,-77.32661,37.259917",
     "geom:latitude":37.259917,
     "geom:longitude":-77.32661,
@@ -33,7 +34,12 @@
         "stereo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1frHHl4B3EZ1mlZmFK0sR9_37.259917_-77.326610@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904266,
     "wof:geomhash":"684846b4358c68514faffd84eaa3d798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739285531
+        }
+    ],
     "wof:id":739285531,
-    "wof:lastmodified":1472651166,
+    "wof:lastmodified":1492029724,
     "wof:name":"Thompson Audio Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

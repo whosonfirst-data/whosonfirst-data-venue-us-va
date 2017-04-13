@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423184,38.320903,-77.423184,38.320903",
     "geom:latitude":38.320903,
     "geom:longitude":-77.423184,
@@ -31,17 +32,26 @@
         "engineering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CddbEphKaGE4AHGr5xF2P_38.320903_-77.423184@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900578,
-    "wof:geomhash":"f5704deda18ebb3e7e382037cf1c78af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"627fd9341cce28a8b3539000b6f36ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723379489
+        }
+    ],
     "wof:id":723379489,
-    "wof:lastmodified":1472652122,
+    "wof:lastmodified":1492059324,
     "wof:name":"Cary Engineering",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

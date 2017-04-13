@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.502629,36.608612,-82.502629,36.608612",
     "geom:latitude":36.608612,
     "geom:longitude":-82.502629,
@@ -36,7 +37,8 @@
         85633793,
         101728599,
         102083821,
-        85827355
+        85827355,
+        420547075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898014,
-    "wof:geomhash":"b1d3103a365dd89c7f9e2168d8ea830e",
+    "wof:geomhash":"acbf3d8c5078878cb2152dd2cd47a340",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,17 @@
             "neighbourhood_id":85827355,
             "region_id":85688747,
             "venue_id":723244739
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547075,
+            "venue_id":723244739
         }
     ],
     "wof:id":723244739,
-    "wof:lastmodified":1472651698,
+    "wof:lastmodified":1492061144,
     "wof:name":"East Carters Vly Ruritan Club",
-    "wof:parent_id":85827355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

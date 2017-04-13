@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.547604,39.126642,-77.547604,39.126642",
     "geom:latitude":39.126642,
     "geom:longitude":-77.547604,
@@ -32,17 +33,32 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BZzAzvt8BgJfcK1YIGbMM_39.126642_-77.547604@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898890,
-    "wof:geomhash":"23212cc1d2b71019e76b7657f0cefbed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"775ad3ef760b629effad99f5cbc0d4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723290835
+        }
+    ],
     "wof:id":723290835,
-    "wof:lastmodified":1472651845,
+    "wof:lastmodified":1492051281,
     "wof:name":"Design Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

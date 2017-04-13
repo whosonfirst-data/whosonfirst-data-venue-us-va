@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.945739,37.239135,-79.945739,37.239135",
     "geom:latitude":37.239135,
     "geom:longitude":-79.945739,
@@ -32,17 +33,32 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BKCV9QZUr62PMvC9T5fiv_37.239135_-79.945739@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902428,
-    "wof:geomhash":"0d0d7af117af4ac27d15a1a41017b414",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49f6ea91bc14427314f67b6171a9f1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723475489
+        }
+    ],
     "wof:id":723475489,
-    "wof:lastmodified":1472652305,
+    "wof:lastmodified":1492056370,
     "wof:name":"Fidelity National Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

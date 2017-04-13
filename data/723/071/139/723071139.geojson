@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.569647,38.416018,-77.569647,38.416018",
     "geom:latitude":38.416018,
     "geom:longitude":-77.569647,
@@ -32,17 +33,26 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fykyC6bUtV0C3U5ju7zCP_38.416018_-77.569647@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894483,
-    "wof:geomhash":"5c0b64efb1d652cffdbd72ceee68d516",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e72e2d7091406a3239e63c4165cea642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547231,
+            "venue_id":723071139
+        }
+    ],
     "wof:id":723071139,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492057446,
     "wof:name":"Woodwright Co",
     "wof:parent_id":420547231,
     "wof:placetype":"venue",

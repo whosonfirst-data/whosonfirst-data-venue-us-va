@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.206899,38.276988,-77.206899,38.276988",
     "geom:latitude":38.276988,
     "geom:longitude":-77.206899,
@@ -33,17 +34,32 @@
         "build"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gEUJ2Zt10TsBVjyfGrGH1_38.276988_-77.206899@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888383,
-    "wof:geomhash":"0b37d40dbe79d134c006d521bca48638",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b1bde6a36d36ffd2320634d98085727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":722773733
+        }
+    ],
     "wof:id":722773733,
-    "wof:lastmodified":1472651817,
+    "wof:lastmodified":1492062342,
     "wof:name":"Washington Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

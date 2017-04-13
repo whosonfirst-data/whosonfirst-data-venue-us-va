@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.010519,38.459,-78.010519,38.459",
     "geom:latitude":38.459,
     "geom:longitude":-78.010519,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728993,
+        102085941,
+        420546637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rUm0w4iATEVmznqsyZDDj_38.459000_-78.010519@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894665,
-    "wof:geomhash":"a6cc92ad06eba426c234d6340c5b04a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c48ce3785b676fe19759f229b674159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085941,
+            "locality_id":101728993,
+            "neighbourhood_id":420546637,
+            "region_id":85688747,
+            "venue_id":723079255
+        }
+    ],
     "wof:id":723079255,
-    "wof:lastmodified":1472651274,
+    "wof:lastmodified":1492049884,
     "wof:name":"Mech-El Inc",
-    "wof:parent_id":420546635,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

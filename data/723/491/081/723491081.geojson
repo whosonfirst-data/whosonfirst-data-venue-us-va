@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.395921,38.674144,-77.395921,38.674144",
     "geom:latitude":38.674144,
     "geom:longitude":-77.395921,
@@ -32,17 +33,30 @@
         "safety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ITmea4ZvH29lZzsYRHhwF_38.674144_-77.395921@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902761,
-    "wof:geomhash":"025b56118570131815e74c92ad0e89f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9398e3ff7daf62f853807c6517a3eed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723491081
+        }
+    ],
     "wof:id":723491081,
-    "wof:lastmodified":1472652331,
+    "wof:lastmodified":1492061197,
     "wof:name":"Safety Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.267148,36.911038,-81.267148,36.911038",
     "geom:latitude":36.911038,
     "geom:longitude":-81.267148,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zlDqYJQfS7wn4KtpIufDI_36.911038_-81.267148@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461908978,
     "wof:geomhash":"b92dfd9bb941ddec87412373dea5d1e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739529997
+        }
+    ],
     "wof:id":739529997,
-    "wof:lastmodified":1472651852,
+    "wof:lastmodified":1492030825,
     "wof:name":"Cregger Odell",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

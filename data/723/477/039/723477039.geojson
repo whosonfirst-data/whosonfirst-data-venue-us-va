@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.372193,38.507294,-77.372193,38.507294",
     "geom:latitude":38.507294,
     "geom:longitude":-77.372193,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42D5SBqW8Fbmas2lzqwDRE_38.507294_-77.372193@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902475,
-    "wof:geomhash":"399908a99bf072d7ad674110fd34adbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3a8df57aa8cdb886831e2530613dbce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":723477039
+        }
+    ],
     "wof:id":723477039,
-    "wof:lastmodified":1472652294,
+    "wof:lastmodified":1492057847,
     "wof:name":"Boswell's Used Auto Parts",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.393772,37.580467,-77.393772,37.580467",
     "geom:latitude":37.580467,
     "geom:longitude":-77.393772,
@@ -32,7 +33,13 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1shjG3tjrF6QJGvdLtSZUZ_37.580467_-77.393772@1299784598"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910137,
     "wof:geomhash":"4375644c8c69ab681da08ba6e1e03adf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "region_id":85688747,
+            "venue_id":739586877
+        }
+    ],
     "wof:id":739586877,
-    "wof:lastmodified":1472651959,
+    "wof:lastmodified":1492031884,
     "wof:name":"Anthony's Italian Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

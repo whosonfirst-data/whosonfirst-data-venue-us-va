@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460636,37.151507,-76.460636,37.151507",
     "geom:latitude":37.151507,
     "geom:longitude":-76.460636,
@@ -36,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85879209,
-        102086731
+        101729041,
+        102085961,
+        85879209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,20 @@
     },
     "wof:country":"US",
     "wof:created":1461900870,
-    "wof:geomhash":"26fb8bc4643fd78582e0a746428892ec",
+    "wof:geomhash":"6f466f0955ddea9054b0fe98635c43f1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086731,
+            "county_id":102085961,
+            "locality_id":101729041,
             "neighbourhood_id":85879209,
             "region_id":85688747,
             "venue_id":723394803
         }
     ],
     "wof:id":723394803,
-    "wof:lastmodified":1472652140,
+    "wof:lastmodified":1492051565,
     "wof:name":"Floor Me",
     "wof:parent_id":85879209,
     "wof:placetype":"venue",

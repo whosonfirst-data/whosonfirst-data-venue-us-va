@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437202,37.419506,-77.437202,37.419506",
     "geom:latitude":37.419506,
     "geom:longitude":-77.437202,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"http://www.virginiasteelerectors.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14tRkSN5ipfSfFezU5axkx_37.419516_-77.437280@1293134755"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461909524,
     "wof:geomhash":"10404ac5dabeab6b5b56d0843f044db7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":739558363
+        }
+    ],
     "wof:id":739558363,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492031292,
     "wof:name":"Virginia Steel Erectors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

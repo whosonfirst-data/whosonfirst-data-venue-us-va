@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.026686,37.275967,-80.026686,37.275967",
     "geom:latitude":37.275967,
     "geom:longitude":-80.026686,
@@ -40,17 +41,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pyPwCNqgB623VwhFgpYm9_37.275967_-80.026686@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909265,
-    "wof:geomhash":"87528c915106f464f279786ecbb81f36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30f180fb07d95e3218417be7db6c4e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739544993
+        }
+    ],
     "wof:id":739544993,
-    "wof:lastmodified":1472651868,
+    "wof:lastmodified":1492038961,
     "wof:name":"Roanoke City Health Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

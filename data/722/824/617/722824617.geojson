@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.074406,38.929577,-78.074406,38.929577",
     "geom:latitude":38.929577,
     "geom:longitude":-78.074406,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729325,
+        102085975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BpWBqMfjLAG2Caur1Oan0_38.929577_-78.074406@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889346,
-    "wof:geomhash":"5c9058421c5bb55acc0096b471769156",
-    "wof:hierarchy":[],
+    "wof:geomhash":"965e4dffb1a7014e03245ec95b56380e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085975,
+            "locality_id":101729325,
+            "region_id":85688747,
+            "venue_id":722824617
+        }
+    ],
     "wof:id":722824617,
-    "wof:lastmodified":1472651908,
+    "wof:lastmodified":1492070187,
     "wof:name":"Beau Ridge Cabin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

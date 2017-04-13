@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.342073,38.26296,-77.342073,38.26296",
     "geom:latitude":38.26296,
     "geom:longitude":-77.342073,
@@ -33,7 +34,10 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35srXyPFC9L4hdGAWFybDJ_38.262960_-77.342073@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461908497,
     "wof:geomhash":"6ddea18e5fc0223b89d49c0605095321",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546943,
+            "venue_id":739503869
+        }
+    ],
     "wof:id":739503869,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492032328,
     "wof:name":"Walnut Grove Mobile Home Park",
     "wof:parent_id":420546943,
     "wof:placetype":"venue",

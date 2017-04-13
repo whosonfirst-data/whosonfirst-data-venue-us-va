@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.362404,39.357834,-78.362404,39.357834",
     "geom:latitude":39.357834,
     "geom:longitude":-78.362404,
@@ -31,17 +32,39 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688589,
+        102083333,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HHANYuHtuaREEIZlMMVM8_39.357834_-78.362404@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894009,
-    "wof:geomhash":"709cdba95c6e47d4d6d8d160b6fa1476",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d95d94dab2ae654ba0a238176f7d25cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083333,
+            "region_id":85688589,
+            "venue_id":723050099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":723050099
+        }
+    ],
     "wof:id":723050099,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492062288,
     "wof:name":"State Line Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

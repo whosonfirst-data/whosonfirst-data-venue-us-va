@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.892891,36.990307,-79.892891,36.990307",
     "geom:latitude":36.990307,
     "geom:longitude":-79.892891,
@@ -31,7 +32,13 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60iyWp0xj02gG1SIakaNTQ_36.990307_-79.892891@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906011,
     "wof:geomhash":"0f8b396106bf3a0069606248ebf0a00c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":739370845
+        }
+    ],
     "wof:id":739370845,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492030994,
     "wof:name":"Cundiff Electrolysis Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269841,38.83475,-77.269841,38.83475",
     "geom:latitude":38.83475,
     "geom:longitude":-77.269841,
@@ -31,17 +32,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729829,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Hnv5gMbuJM9GfQCXsmiTn_38.834750_-77.269841@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898071,
-    "wof:geomhash":"f96eaa3534bd9323e212e64e46a85a41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c837473a5f1ff6c56906b82bdbed9b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729829,
+            "region_id":85688747,
+            "venue_id":723247583
+        }
+    ],
     "wof:id":723247583,
-    "wof:lastmodified":1472651695,
+    "wof:lastmodified":1492053525,
     "wof:name":"Building and Service MGT Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

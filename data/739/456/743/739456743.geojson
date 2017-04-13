@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.879607,37.029157,-79.879607,37.029157",
     "geom:latitude":37.029157,
     "geom:longitude":-79.879607,
@@ -32,7 +33,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KGsmjv6f3RG5JGzifpBYy_37.029157_-79.879607@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907657,
     "wof:geomhash":"6853581df5d70db4003a3187a9bee4d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":739456743
+        }
+    ],
     "wof:id":739456743,
-    "wof:lastmodified":1472651593,
+    "wof:lastmodified":1492033057,
     "wof:name":"220 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

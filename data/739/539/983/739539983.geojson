@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.941989,37.4605,-76.941989,37.4605",
     "geom:latitude":37.4605,
     "geom:longitude":-76.941989,
@@ -31,19 +32,28 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sjlRdGQyucLcwD9bbEBMW_37.460500_-76.941989@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909152,
-    "wof:geomhash":"64aa2bb09560452c5f217658aac70d99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b1ad973826c565715dc6481df3ed5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":739539983
+        }
+    ],
     "wof:id":739539983,
-    "wof:lastmodified":1472651853,
+    "wof:lastmodified":1492041598,
     "wof:name":"Coons Construction  Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

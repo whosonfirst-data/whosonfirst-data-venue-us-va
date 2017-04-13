@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.396356,36.993451,-76.396356,36.993451",
     "geom:latitude":36.993451,
     "geom:longitude":-76.396356,
@@ -33,17 +34,32 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57iXnMVrgmROErE1OdlrMt_36.993451_-76.396356@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885961,
-    "wof:geomhash":"051adf0660b804373ee668e09d4058ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"362bd720ef669b3fdaee605de4ed5a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":722647019
+        }
+    ],
     "wof:id":722647019,
-    "wof:lastmodified":1472651436,
+    "wof:lastmodified":1492068125,
     "wof:name":"Kalay Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

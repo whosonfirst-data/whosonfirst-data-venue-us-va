@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.140309,37.41108,-79.140309,37.41108",
     "geom:latitude":37.41108,
     "geom:longitude":-79.140309,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MSLFZ7gtj7lMBAdPRDNYJ_37.411080_-79.140309@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902857,
-    "wof:geomhash":"38feb0953913e12bd5f5491db406e9bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"592c1355dd5e13e885767cbe79beeb78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":723495907
+        }
+    ],
     "wof:id":723495907,
-    "wof:lastmodified":1472652356,
+    "wof:lastmodified":1492053267,
     "wof:name":"Lynchburg Central Va Criminal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

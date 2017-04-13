@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.521832,37.99019,-77.521832,37.99019",
     "geom:latitude":37.99019,
     "geom:longitude":-77.521832,
@@ -28,7 +29,13 @@
     "sg:postcode":"22546",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729417,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eux3ZNBU2ysvo4FWqgubu_37.990190_-77.521832@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907566,
     "wof:geomhash":"70a065f833ad8ff7afe2dd9a4ba5a043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101729417,
+            "region_id":85688747,
+            "venue_id":739451357
+        }
+    ],
     "wof:id":739451357,
-    "wof:lastmodified":1472651568,
+    "wof:lastmodified":1492031172,
     "wof:name":"Jack J Livesay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

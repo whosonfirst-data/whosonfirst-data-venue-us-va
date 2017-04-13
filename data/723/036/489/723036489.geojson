@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.302097,36.727683,-76.302097,36.727683",
     "geom:latitude":36.727683,
     "geom:longitude":-76.302097,
@@ -38,7 +39,9 @@
         85633793,
         101728797,
         102087265,
-        85822615
+        420547907,
+        85822615,
+        85805557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461893733,
-    "wof:geomhash":"dae23e99ea38ebb2b04de8a25bc2a4ae",
+    "wof:geomhash":"78fa4772196dc7c417248d99094a50b8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":420547907,
+            "region_id":85688747,
+            "venue_id":723036489
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,12 +68,21 @@
             "neighbourhood_id":85822615,
             "region_id":85688747,
             "venue_id":723036489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":85805557,
+            "region_id":85688747,
+            "venue_id":723036489
         }
     ],
     "wof:id":723036489,
-    "wof:lastmodified":1472651164,
+    "wof:lastmodified":1492059958,
     "wof:name":"Dennis Mobile Home Moving",
-    "wof:parent_id":85822615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.40264,37.06228,-80.40264,37.06228",
     "geom:latitude":37.06228,
     "geom:longitude":-80.40264,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MrBXiDBWz610wYtLIh3aE_37.062280_-80.402640@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892468,
-    "wof:geomhash":"a460f59882c3a70394fd9cdb4cf64089",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1097d68318bd84292cd873f48f7d2f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":722980795
+        }
+    ],
     "wof:id":722980795,
-    "wof:lastmodified":1472652342,
+    "wof:lastmodified":1492072217,
     "wof:name":"Emergency Physicians-Smyth",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

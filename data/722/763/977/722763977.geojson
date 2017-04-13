@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.848971,37.444631,-79.848971,37.444631",
     "geom:latitude":37.444631,
     "geom:longitude":-79.848971,
@@ -32,17 +33,30 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07JTuvQEXSKZrAprSIq2cr_37.444631_-79.848971@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888194,
-    "wof:geomhash":"bb424d19e2788b96a81745f1df3482a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0073bbf38e182cfed986662e45f8a025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722763977
+        }
+    ],
     "wof:id":722763977,
-    "wof:lastmodified":1472651851,
+    "wof:lastmodified":1492070390,
     "wof:name":"Parker Refuse Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

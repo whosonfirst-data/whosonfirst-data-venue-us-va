@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.907361,36.936509,-78.907361,36.936509",
     "geom:latitude":36.936509,
     "geom:longitude":-78.907361,
@@ -32,17 +33,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pkqnMeIBgg6KynXY4tfLh_36.936509_-78.907361@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885050,
-    "wof:geomhash":"5d1cf48552667aafaa00a1ce31826e62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af60da3831e0f279cc971bf756d60acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":722603261
+        }
+    ],
     "wof:id":722603261,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492073554,
     "wof:name":"James David Crews Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

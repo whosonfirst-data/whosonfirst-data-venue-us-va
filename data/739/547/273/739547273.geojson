@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.44086,37.784682,-79.44086,37.784682",
     "geom:latitude":37.784682,
     "geom:longitude":-79.44086,
@@ -31,7 +32,13 @@
         "taping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728589,
+        102085969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K9OGY3PBt2W0SQ8sPGWTN_37.784682_-79.440860@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909303,
     "wof:geomhash":"9fb3c9a41c6113d2cd09e474034ac745",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085969,
+            "locality_id":101728589,
+            "region_id":85688747,
+            "venue_id":739547273
+        }
+    ],
     "wof:id":739547273,
-    "wof:lastmodified":1472651860,
+    "wof:lastmodified":1492029485,
     "wof:name":"DVD Transfer Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

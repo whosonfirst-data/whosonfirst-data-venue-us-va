@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451692,38.897173,-77.451692,38.897173",
     "geom:latitude":38.897173,
     "geom:longitude":-77.451692,
@@ -34,17 +35,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bUT2wwC2yayDzEGLDsssx_38.897173_-77.451692@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461909964,
-    "wof:geomhash":"bf6c8a8fa07c6b062291eee137d2ddfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dc666a8a557959e8a3ed63a0c0ec13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739578049
+        }
+    ],
     "wof:id":739578049,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492040960,
     "wof:name":"Philly Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

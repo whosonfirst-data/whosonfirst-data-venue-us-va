@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.103318,36.815409,-82.103318,36.815409",
     "geom:latitude":36.815409,
     "geom:longitude":-82.103318,
@@ -32,17 +33,26 @@
         "co"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aNgJ35X4qQv5iBuC0kAJi_36.815409_-82.103318@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891993,
-    "wof:geomhash":"db3041854d8cec241fa8d37a0f9f2bb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"771773f0270a1197b6c2be1ff5019382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722958487
+        }
+    ],
     "wof:id":722958487,
-    "wof:lastmodified":1472652294,
+    "wof:lastmodified":1492071509,
     "wof:name":"WLFG",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

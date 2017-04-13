@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.159238,36.577146,-82.159238,36.577146",
     "geom:latitude":36.577146,
     "geom:longitude":-82.159238,
@@ -32,7 +33,13 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2skzwlgry10EQ3sVIbunCI_36.577146_-82.159238@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904569,
     "wof:geomhash":"8abd431a15d9b8c13a25a2bc8d45f6f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":739299687
+        }
+    ],
     "wof:id":739299687,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492032464,
     "wof:name":"Boys & Girls Club of Bristol",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

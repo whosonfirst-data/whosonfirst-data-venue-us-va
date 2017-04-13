@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.483771,38.932182,-78.483771,38.932182",
     "geom:latitude":38.932182,
     "geom:longitude":-78.483771,
@@ -28,7 +29,12 @@
     "sg:postcode":"22644",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f7InWocexkJilfgGwXowF_38.932182_-78.483771@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904574,
     "wof:geomhash":"5a0f13fcd19e0ae71d0d50acda55d23d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739299849
+        }
+    ],
     "wof:id":739299849,
-    "wof:lastmodified":1472651234,
+    "wof:lastmodified":1492032475,
     "wof:name":"Vann Enterprises LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

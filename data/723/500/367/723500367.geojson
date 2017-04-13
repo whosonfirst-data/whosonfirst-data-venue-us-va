@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.405304,36.865638,-76.405304,36.865638",
     "geom:latitude":36.865638,
     "geom:longitude":-76.405304,
@@ -32,6 +33,9 @@
         85688747,
         102191575,
         85633793,
+        101728677,
+        102086707,
+        420547927,
         101728797,
         102087265,
         420547871
@@ -42,8 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902970,
-    "wof:geomhash":"a6356fac91f8f3c4eac2d690df29c1dc",
+    "wof:geomhash":"5dea496917cd03f75a727fc16bafec4a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":420547927,
+            "region_id":85688747,
+            "venue_id":723500367
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":723500367,
-    "wof:lastmodified":1472652333,
+    "wof:lastmodified":1492059170,
     "wof:name":"Ramirez Renato F MD",
-    "wof:parent_id":420547871,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

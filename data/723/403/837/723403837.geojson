@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420085,38.452847,-77.420085,38.452847",
     "geom:latitude":38.452847,
     "geom:longitude":-77.420085,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MpdKE5xi8YJOvdwhd52Ye_38.452847_-77.420085@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901048,
-    "wof:geomhash":"74a4c733a0f222b57c4f99068374c76c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb2dc9f97bbbaffff0dd20fdcef80334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547145,
+            "venue_id":723403837
+        }
+    ],
     "wof:id":723403837,
-    "wof:lastmodified":1472652154,
+    "wof:lastmodified":1492053339,
     "wof:name":"Discovery Learning Center",
     "wof:parent_id":420547145,
     "wof:placetype":"venue",

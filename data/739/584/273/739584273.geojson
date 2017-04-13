@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.887968,38.425987,-78.887968,38.425987",
     "geom:latitude":38.425987,
     "geom:longitude":-78.887968,
@@ -34,17 +35,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TZEjsfOXfjewIo01ctPAJ_38.425987_-78.887968@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910094,
-    "wof:geomhash":"da0812f1d71db7341ef677e15330967c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1018cdb0912e4f85590b8ae0b82cd32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739584273
+        }
+    ],
     "wof:id":739584273,
-    "wof:lastmodified":1472651925,
+    "wof:lastmodified":1492040556,
     "wof:name":"Anthony's Campus Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

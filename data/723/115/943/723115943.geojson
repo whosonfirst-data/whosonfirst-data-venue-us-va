@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.870721,37.405483,-76.870721,37.405483",
     "geom:latitude":37.405483,
     "geom:longitude":-76.870721,
@@ -33,8 +34,9 @@
     "sg:website":"www.midatlantictime.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420546761,
+        85688747,
         85894045,
         102085967
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461895436,
-    "wof:geomhash":"bac363a50cd5b7d76c3d02c1989dad41",
+    "wof:geomhash":"07f16081e5236c70f24d9fc11c675d25",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546761,
+            "venue_id":723115943
+        },
         {
             "country_id":85633793,
             "county_id":102085967,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":723115943,
-    "wof:lastmodified":1472651372,
+    "wof:lastmodified":1492050304,
     "wof:name":"Mid Atlantic Time Systems Inc",
-    "wof:parent_id":85894045,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

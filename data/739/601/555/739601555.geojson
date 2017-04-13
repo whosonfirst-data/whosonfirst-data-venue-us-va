@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.516403,38.786999,-77.516403,38.786999",
     "geom:latitude":38.786999,
     "geom:longitude":-77.516403,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"www.officedepot.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JNGQF1gRDPNpWRbneiqmt_38.786999_-77.516403@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910439,
-    "wof:geomhash":"4c8d2f068eef636f6adcd9ab4b57b839",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e3979192d2db9bba578fe25afd5afaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739601555
+        }
+    ],
     "wof:id":739601555,
-    "wof:lastmodified":1472651957,
+    "wof:lastmodified":1492045759,
     "wof:name":"Office Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

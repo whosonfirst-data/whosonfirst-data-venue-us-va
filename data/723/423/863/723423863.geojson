@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.45876,37.442038,-77.45876,37.442038",
     "geom:latitude":37.442038,
     "geom:longitude":-77.45876,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_478cQ8ffRjLXqgMVq4FQdc_37.442038_-77.458760@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901442,
-    "wof:geomhash":"3b800e61d21a04455fbb0575d27c4bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea5768fa59305cb698b52d4c6e5db615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":723423863
+        }
+    ],
     "wof:id":723423863,
-    "wof:lastmodified":1472652260,
+    "wof:lastmodified":1492050660,
     "wof:name":"Closed Loop Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

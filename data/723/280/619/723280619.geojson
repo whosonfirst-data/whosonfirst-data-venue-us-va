@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.965636,37.330718,-79.965636,37.330718",
     "geom:latitude":37.330718,
     "geom:longitude":-79.965636,
@@ -37,17 +38,32 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eUWno2sfdvkryUPYglIPt_37.330718_-79.965636@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898691,
-    "wof:geomhash":"26e4e3191537f71242cf44a86eb40c2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff725969d41bdb65cfdadc1b240575cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723280619
+        }
+    ],
     "wof:id":723280619,
-    "wof:lastmodified":1472651817,
+    "wof:lastmodified":1492054098,
     "wof:name":"Mission Air Support Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.98907,36.631438,-81.98907,36.631438",
     "geom:latitude":36.631438,
     "geom:longitude":-81.98907,
@@ -28,7 +29,10 @@
     "sg:postcode":"24211",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BiPliyl5wJcXfuwntFd26_36.631438_-81.989070@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906239,
     "wof:geomhash":"31144acca80f9edd98e7948a4ec14cf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739382375
+        }
+    ],
     "wof:id":739382375,
-    "wof:lastmodified":1472651356,
+    "wof:lastmodified":1492030650,
     "wof:name":"Holcomb Construction Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

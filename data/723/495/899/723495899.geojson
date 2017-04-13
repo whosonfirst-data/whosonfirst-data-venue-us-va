@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.830162,37.18629,-79.830162,37.18629",
     "geom:latitude":37.18629,
     "geom:longitude":-79.830162,
@@ -32,17 +33,30 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K7AZ0KBxJ0t609rOLEurr_37.186290_-79.830162@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902857,
-    "wof:geomhash":"58a799506f0d352121c282699692651b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b1aaa6ce324915faf50292f00651365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":723495899
+        }
+    ],
     "wof:id":723495899,
-    "wof:lastmodified":1472652356,
+    "wof:lastmodified":1492053238,
     "wof:name":"Smithco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441379,38.432439,-77.441379,38.432439",
     "geom:latitude":38.432439,
     "geom:longitude":-77.441379,
@@ -32,17 +33,26 @@
         "finger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0exK0OT5VitPq5Z5euat6l_38.432439_-77.441379@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884465,
-    "wof:geomhash":"c247d79d9dd5e4c779ad22b9bc352808",
-    "wof:hierarchy":[],
+    "wof:geomhash":"369df8fa7fb876f7def8ab6ea48179c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547139,
+            "venue_id":722573209
+        }
+    ],
     "wof:id":722573209,
-    "wof:lastmodified":1472651165,
+    "wof:lastmodified":1492072632,
     "wof:name":"Ivan R Futrell",
     "wof:parent_id":420547139,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.654678,37.033181,-79.654678,37.033181",
     "geom:latitude":37.033181,
     "geom:longitude":-79.654678,
@@ -32,17 +33,32 @@
         "errand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729711,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p5gIPLc3imVKt1A9FgYDH_37.033181_-79.654678@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884037,
-    "wof:geomhash":"5fce441fc986def353fdbc422315a87a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7c9dd03fbbecb933d75b30f55ab4898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729711,
+            "region_id":85688747,
+            "venue_id":722551651
+        }
+    ],
     "wof:id":722551651,
-    "wof:lastmodified":1472651102,
+    "wof:lastmodified":1492074826,
     "wof:name":"Concierge & Errand Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

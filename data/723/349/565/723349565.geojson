@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.39432,38.428488,-77.39432,38.428488",
     "geom:latitude":38.428488,
     "geom:longitude":-77.39432,
@@ -31,17 +32,26 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yqerqCjMYoA3SQPARay2U_38.428488_-77.394320@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899986,
-    "wof:geomhash":"5b961c98d541fd313a32aea1d69d0c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75b62e2c6694ad43f785e09f734588a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547161,
+            "venue_id":723349565
+        }
+    ],
     "wof:id":723349565,
-    "wof:lastmodified":1472652019,
+    "wof:lastmodified":1492058081,
     "wof:name":"Potomac Glass Inc",
     "wof:parent_id":420547161,
     "wof:placetype":"venue",

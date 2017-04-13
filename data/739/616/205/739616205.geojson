@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.547815,39.110845,-77.547815,39.110845",
     "geom:latitude":39.110845,
     "geom:longitude":-77.547815,
@@ -33,7 +34,13 @@
         "pan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oorOHlXCrNrN2GVwOCVUU_39.110845_-77.547815@1303262497"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910739,
     "wof:geomhash":"323688694dbda2d65aebfb27cb60a5e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616205
+        }
+    ],
     "wof:id":739616205,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492029657,
     "wof:name":"Mandarin Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.254819,37.765769,-77.254819,37.765769",
     "geom:latitude":37.765769,
     "geom:longitude":-77.254819,
@@ -32,17 +33,30 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yuQggietNKpXdhubGFVV4_37.765769_-77.254819@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906375,
-    "wof:geomhash":"0644833f210ed03181d836590d590730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb7d1be9d477a08e1c68057191bb5a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739389089
+        }
+    ],
     "wof:id":739389089,
-    "wof:lastmodified":1472651372,
+    "wof:lastmodified":1492041940,
     "wof:name":"Signature Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

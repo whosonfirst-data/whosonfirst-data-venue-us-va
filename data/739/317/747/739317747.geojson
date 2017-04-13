@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.324897,37.069041,-76.324897,37.069041",
     "geom:latitude":37.069041,
     "geom:longitude":-76.324897,
@@ -31,19 +32,36 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913,
+        420548001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UW0dkjz2as889zY02SDaP_37.069041_-76.324897@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904924,
-    "wof:geomhash":"bf911c18e6db30e2d9270941ec33cbbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a2fff5d36acf85df63b631222516962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":420548001,
+            "region_id":85688747,
+            "venue_id":739317747
+        }
+    ],
     "wof:id":739317747,
-    "wof:lastmodified":1472651242,
+    "wof:lastmodified":1492042551,
     "wof:name":"Overby Distributing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

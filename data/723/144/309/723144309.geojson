@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.293497,38.719051,-77.293497,38.719051",
     "geom:latitude":38.719051,
     "geom:longitude":-77.293497,
@@ -28,19 +29,36 @@
     "sg:postcode":"22039",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729845,
+        102084863,
+        85842501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BOL49tpSPCAi7HXQ6MEY9_38.719051_-77.293497@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895982,
-    "wof:geomhash":"e1e98f78bc864fb775c11a09bd4eaa70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d40dbfb9e1bf40eef82d56946d226e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729845,
+            "neighbourhood_id":85842501,
+            "region_id":85688747,
+            "venue_id":723144309
+        }
+    ],
     "wof:id":723144309,
-    "wof:lastmodified":1472651405,
+    "wof:lastmodified":1492059896,
     "wof:name":"Windy Hill Glass Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

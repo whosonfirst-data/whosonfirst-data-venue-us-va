@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.091571,36.965856,-79.091571,36.965856",
     "geom:latitude":36.965856,
     "geom:longitude":-79.091571,
@@ -38,17 +39,30 @@
         "traffic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KDZlZrLGLRrDD8FxFeZVi_36.965856_-79.091571@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913500,
-    "wof:geomhash":"9b1b01c07dfd807f979ac6dc77bba3b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"828083bb6456f0708fab1f409a672ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739743315
+        }
+    ],
     "wof:id":739743315,
-    "wof:lastmodified":1472652243,
+    "wof:lastmodified":1492037952,
     "wof:name":"Davis Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

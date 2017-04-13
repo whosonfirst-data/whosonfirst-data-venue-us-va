@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.194596,38.735878,-77.194596,38.735878",
     "geom:latitude":38.735878,
     "geom:longitude":-77.194596,
@@ -36,17 +37,32 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JsGgjHd2GCH1u8KEAtZXX_38.735878_-77.194596@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911233,
-    "wof:geomhash":"123c7d427c07b4eb16580f7ac8cb482b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c19ec50db5a65a0d47df9d3c8962522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739638685
+        }
+    ],
     "wof:id":739638685,
-    "wof:lastmodified":1472652024,
+    "wof:lastmodified":1492041382,
     "wof:name":"El Rubi Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

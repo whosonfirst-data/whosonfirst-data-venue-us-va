@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.87539,36.681959,-79.87539,36.681959",
     "geom:latitude":36.681959,
     "geom:longitude":-79.87539,
@@ -33,17 +34,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46kIwlcNO5qi0KcS8PhuvW_36.681959_-79.875390@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889150,
-    "wof:geomhash":"a5d72970f5c80d8a83fa6670b2367365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ee73d7ac148b31f08033eb33aaa6076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":722814391
+        }
+    ],
     "wof:id":722814391,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492074259,
     "wof:name":"Bob Reynolds Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

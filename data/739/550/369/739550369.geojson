@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518773,37.26491,-77.518773,37.26491",
     "geom:latitude":37.26491,
     "geom:longitude":-77.518773,
@@ -28,19 +29,32 @@
     "sg:postcode":"23803",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85868231,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50X69hY1J4mmg9ZGGIIVf8_37.264910_-77.518773@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909362,
-    "wof:geomhash":"25c3876ef89ce4dd40748e7c6cd6e2cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd14d9626b0a6cacf43c07be1b8861f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084955,
+            "neighbourhood_id":85868231,
+            "region_id":85688747,
+            "venue_id":739550369
+        }
+    ],
     "wof:id":739550369,
-    "wof:lastmodified":1472651861,
+    "wof:lastmodified":1492038733,
     "wof:name":"Jane Partin Ltd Editions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

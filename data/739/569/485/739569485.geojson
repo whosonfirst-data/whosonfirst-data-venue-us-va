@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44584,37.621344,-77.44584,37.621344",
     "geom:latitude":37.621344,
     "geom:longitude":-77.44584,
@@ -28,7 +29,12 @@
     "sg:postcode":"23227",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_571v8mRTf6FnVysrcVled7_37.621318_-77.446409@1293134755"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909770,
     "wof:geomhash":"b23a73fe994a59e126781c717a332492",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739569485
+        }
+    ],
     "wof:id":739569485,
-    "wof:lastmodified":1472651893,
+    "wof:lastmodified":1492030891,
     "wof:name":"Mobile Automotive Evaluations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

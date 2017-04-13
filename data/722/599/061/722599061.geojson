@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.350471,37.053264,-76.350471,37.053264",
     "geom:latitude":37.053264,
     "geom:longitude":-76.350471,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z4tjcxQ7yQNKPykvp7Ozi_37.053264_-76.350471@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884953,
-    "wof:geomhash":"6fb6def33fe39300b8a269868af73188",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d99992036493b0c07d51bedb80b2fd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722599061
+        }
+    ],
     "wof:id":722599061,
-    "wof:lastmodified":1472651256,
+    "wof:lastmodified":1492064261,
     "wof:name":"Glenn R Davis Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

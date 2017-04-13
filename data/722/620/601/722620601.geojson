@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.324633,36.910438,-80.324633,36.910438",
     "geom:latitude":36.910438,
     "geom:longitude":-80.324633,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728837,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7URxa54LGQqkM2p2KW8vAf_36.910438_-80.324633@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885400,
-    "wof:geomhash":"ed31f01b32999b11964b49622da6651d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00723a30a52d1249f822df84ac87f175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "locality_id":101728837,
+            "region_id":85688747,
+            "venue_id":722620601
+        }
+    ],
     "wof:id":722620601,
-    "wof:lastmodified":1472651407,
+    "wof:lastmodified":1492071276,
     "wof:name":"Floyd Tire Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

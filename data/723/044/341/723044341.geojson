@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.921,37.484384,-79.921,37.484384",
     "geom:latitude":37.484384,
     "geom:longitude":-79.921,
@@ -32,17 +33,30 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yjd7EXgKByLAamY8uLoig_37.484384_-79.921000@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893903,
-    "wof:geomhash":"bf91f270e091b55c71c7c96aaea28d66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3943d147a76f8203c8067e03ba428723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":723044341
+        }
+    ],
     "wof:id":723044341,
-    "wof:lastmodified":1472651164,
+    "wof:lastmodified":1492056193,
     "wof:name":"Johnson Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

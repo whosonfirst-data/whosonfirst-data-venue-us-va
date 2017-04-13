@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423289,37.582671,-77.423289,37.582671",
     "geom:latitude":37.582671,
     "geom:longitude":-77.423289,
@@ -37,17 +38,30 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P35VXvbXe8UpcHbrSl2tc_37.582671_-77.423289@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889105,
-    "wof:geomhash":"41b327fdc562eed3cd4d0e3f97cd301b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b42ddfb1011411e5e432aa5208a47c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722812211
+        }
+    ],
     "wof:id":722812211,
-    "wof:lastmodified":1472651860,
+    "wof:lastmodified":1492065847,
     "wof:name":"Pinch's Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

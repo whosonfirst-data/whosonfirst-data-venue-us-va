@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.315745,37.525202,-77.315745,37.525202",
     "geom:latitude":37.525202,
     "geom:longitude":-77.315745,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tNlBXOyflMm5EZJSkatP2_37.525202_-77.315745@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908307,
-    "wof:geomhash":"bfcb5454581a01a92f73a8357eecc2c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be269961e9046727d7116d2135b52fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739492873
+        }
+    ],
     "wof:id":739492873,
-    "wof:lastmodified":1472651711,
+    "wof:lastmodified":1492045964,
     "wof:name":"Sandston Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

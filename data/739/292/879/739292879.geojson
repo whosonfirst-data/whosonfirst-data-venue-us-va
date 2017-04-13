@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726749,37.368071,-76.726749,37.368071",
     "geom:latitude":37.368071,
     "geom:longitude":-76.726749,
@@ -28,7 +29,10 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DLyujbXQ6FNAtagIw10lv_37.368071_-76.726749@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904424,
     "wof:geomhash":"a2e06d6e2f1efb468f1c0ef9e5582ae3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":739292879
+        }
+    ],
     "wof:id":739292879,
-    "wof:lastmodified":1472651217,
+    "wof:lastmodified":1492033207,
     "wof:name":"Hills Van Service North Fla",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

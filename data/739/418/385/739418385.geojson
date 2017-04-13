@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.404509,38.846044,-77.404509,38.846044",
     "geom:latitude":38.846044,
     "geom:longitude":-77.404509,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06fqzrys2gtZuqQiHYtczR_38.846044_-77.404509@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906919,
-    "wof:geomhash":"4981b15196c71b60daf0a57999e182c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58081bf0d6dfe9afba23ac6c8c1f062d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739418385
+        }
+    ],
     "wof:id":739418385,
-    "wof:lastmodified":1472651516,
+    "wof:lastmodified":1492046117,
     "wof:name":"Golden Edge Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.809261,36.788394,-77.809261,36.788394",
     "geom:latitude":36.788394,
     "geom:longitude":-77.809261,
@@ -28,7 +29,12 @@
         "tobacco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16pu5pAhMY3R6W1hWRNRZK_36.788394_-77.809261@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909525,
     "wof:geomhash":"769abdcf955055a7bd52655fd4a7e74e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739558451
+        }
+    ],
     "wof:id":739558451,
-    "wof:lastmodified":1472651876,
+    "wof:lastmodified":1492031286,
     "wof:name":"Donald Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

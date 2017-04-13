@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.776563,37.918717,-77.776563,37.918717",
     "geom:latitude":37.918717,
     "geom:longitude":-77.776563,
@@ -31,17 +32,30 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s5GtsG0srlmQncGL3S5Dc_37.918717_-77.776563@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899035,
-    "wof:geomhash":"a6991b761f6e2ddf670abd5377720fb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bb7b3d8060d905ca675c0c3985d2b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":723298495
+        }
+    ],
     "wof:id":723298495,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492060791,
     "wof:name":"Bumpass Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.060445,36.744357,-82.060445,36.744357",
     "geom:latitude":36.744357,
     "geom:longitude":-82.060445,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38ag1ogMDRcxokkpzDKvyG_36.744357_-82.060445@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903100,
-    "wof:geomhash":"6b4ef06c4cdd5d0456fae63739a78d81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1663c641f3b160e7821dfd709da1b384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723506457
+        }
+    ],
     "wof:id":723506457,
-    "wof:lastmodified":1472652348,
+    "wof:lastmodified":1492051425,
     "wof:name":"William Casey Construction",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

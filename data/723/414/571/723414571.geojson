@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.32006,38.851133,-77.32006,38.851133",
     "geom:latitude":38.851133,
     "geom:longitude":-77.32006,
@@ -36,6 +37,9 @@
         85688747,
         102191575,
         85633793,
+        101729825,
+        102084863,
+        85827657,
         101728653,
         102080645,
         85818469
@@ -46,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901260,
-    "wof:geomhash":"55f316331cf14f62bfe77c2cf4aa3e60",
+    "wof:geomhash":"55fdd89eb84c9300a9aaa08d9a15ce7f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "neighbourhood_id":85827657,
+            "region_id":85688747,
+            "venue_id":723414571
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +72,9 @@
         }
     ],
     "wof:id":723414571,
-    "wof:lastmodified":1472652192,
+    "wof:lastmodified":1492050993,
     "wof:name":"Weber Tire Co Inc",
-    "wof:parent_id":85818469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.494764,38.067965,-78.494764,38.067965",
     "geom:latitude":38.067965,
     "geom:longitude":-78.494764,
@@ -31,7 +32,12 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JNbPZJKXZQtEzXhPohc4g_38.067965_-78.494764@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912518,
     "wof:geomhash":"714ef783c86bb9e9566dbdd033f51272",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739698447
+        }
+    ],
     "wof:id":739698447,
-    "wof:lastmodified":1472652172,
+    "wof:lastmodified":1492029546,
     "wof:name":"La Cocina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

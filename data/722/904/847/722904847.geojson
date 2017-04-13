@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412049,38.468579,-77.412049,38.468579",
     "geom:latitude":38.468579,
     "geom:longitude":-77.412049,
@@ -30,8 +31,9 @@
     "sg:website":"www.bbandt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547111,
+        85688747,
         85894041,
         102081931
     ],
@@ -41,8 +43,13 @@
     },
     "wof:country":"US",
     "wof:created":1461890887,
-    "wof:geomhash":"a368028b0d1a8571e4417f6982d3fa33",
+    "wof:geomhash":"b4b3111d98e717db174cdebde9e11b31",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":722904847
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -52,9 +59,9 @@
         }
     ],
     "wof:id":722904847,
-    "wof:lastmodified":1472652134,
+    "wof:lastmodified":1492062628,
     "wof:name":"B B & T",
-    "wof:parent_id":85894041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

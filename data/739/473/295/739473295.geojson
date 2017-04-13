@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.904337,38.404573,-78.904337,38.404573",
     "geom:latitude":38.404573,
     "geom:longitude":-78.904337,
@@ -28,7 +29,13 @@
     "sg:postcode":"22801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_502nRJGQn8eLg9kreSCDkm_38.404573_-78.904337@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907950,
     "wof:geomhash":"0149ef247cdc638cace1d013f93dbce7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739473295
+        }
+    ],
     "wof:id":739473295,
-    "wof:lastmodified":1472651614,
+    "wof:lastmodified":1492032916,
     "wof:name":"Walker Virginia Federal CU",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

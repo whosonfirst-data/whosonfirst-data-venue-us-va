@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.400712,37.149753,-80.400712,37.149753",
     "geom:latitude":37.149753,
     "geom:longitude":-80.400712,
@@ -35,7 +36,10 @@
     ],
     "sg:website":"www.marshallconcrete.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rxLv3Iyli8hMI9VhJRaem_37.149753_-80.400712@1294252573"
@@ -43,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461909132,
     "wof:geomhash":"794e50df33c72e783af4c1a7e05ae7de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546955,
+            "venue_id":739538669
+        }
+    ],
     "wof:id":739538669,
-    "wof:lastmodified":1472651807,
+    "wof:lastmodified":1492029874,
     "wof:name":"Marshall Concrete Prod Inc",
     "wof:parent_id":420546955,
     "wof:placetype":"venue",

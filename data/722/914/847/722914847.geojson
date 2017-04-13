@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4039,37.151887,-76.4039,37.151887",
     "geom:latitude":37.151887,
     "geom:longitude":-76.4039,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rhsJfxD5s8MsFcTXdNh4k_37.151887_-76.403900@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891079,
-    "wof:geomhash":"6a5be2d1bb444c465eac84a4503aeff3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b021ed81922f0b2dbe9c52838de86189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722914847
+        }
+    ],
     "wof:id":722914847,
-    "wof:lastmodified":1472652140,
+    "wof:lastmodified":1492070671,
     "wof:name":"Victory Cnstr & Electrician",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

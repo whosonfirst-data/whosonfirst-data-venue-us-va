@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.531308,38.733255,-77.531308,38.733255",
     "geom:latitude":38.733255,
     "geom:longitude":-77.531308,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"www.homesteadbuildingsystems.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05nF3EqyuHgjHUAyCPuKmj_38.733255_-77.531308@1294252573"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461908069,
     "wof:geomhash":"00eca20f0632c3d6ce4e31d9661f4db2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739479815
+        }
+    ],
     "wof:id":739479815,
-    "wof:lastmodified":1472651649,
+    "wof:lastmodified":1492030588,
     "wof:name":"Homestead Building Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

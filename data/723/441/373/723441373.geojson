@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.45322,37.493236,-77.45322,37.493236",
     "geom:latitude":37.493236,
     "geom:longitude":-77.45322,
@@ -32,17 +33,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vQuX9twUBNsDBu7ZK41Qm_37.493236_-77.453220@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901792,
-    "wof:geomhash":"34a43c6adc3b8ca4a9599b6993154fee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"318ad9fabd3176b06446e14dd8ec1a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":723441373
+        }
+    ],
     "wof:id":723441373,
-    "wof:lastmodified":1472652241,
+    "wof:lastmodified":1492062262,
     "wof:name":"Schwans Consumer Brands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.473188,38.702981,-77.473188,38.702981",
     "geom:latitude":38.702981,
     "geom:longitude":-77.473188,
@@ -32,17 +33,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SZ9SBrFF60LSZfCY6t89n_38.702981_-77.473188@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885014,
-    "wof:geomhash":"2173e737901ffceaaada380a3164f8e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74f570a1e16a955d880f913ee736ab77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":722601673
+        }
+    ],
     "wof:id":722601673,
-    "wof:lastmodified":1472651302,
+    "wof:lastmodified":1492074404,
     "wof:name":"Country Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

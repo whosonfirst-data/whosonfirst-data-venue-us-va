@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.4972,39.084479,-77.4972,39.084479",
     "geom:latitude":39.084479,
     "geom:longitude":-77.4972,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Uuozptr04y2DjHPconZkK_39.084479_-77.497200@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885708,
-    "wof:geomhash":"97b43a620f4e73e6adc099a8805ddb94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a94071879ac62be02b3faefdeaa479b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":722633297
+        }
+    ],
     "wof:id":722633297,
-    "wof:lastmodified":1472651402,
+    "wof:lastmodified":1492068663,
     "wof:name":"Medical Dental Computer Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

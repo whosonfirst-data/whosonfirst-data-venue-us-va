@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.894455,38.419616,-78.894455,38.419616",
     "geom:latitude":38.419616,
     "geom:longitude":-78.894455,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://www.starrto.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MxEsHFHXdeegyyBXO874i_38.419616_-78.894455@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912477,
-    "wof:geomhash":"7f604a697c6c4a705213c40fa16d5172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"543fdbaf283e3921669a6250126916b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739696711
+        }
+    ],
     "wof:id":739696711,
-    "wof:lastmodified":1472652196,
+    "wof:lastmodified":1492044937,
     "wof:name":"Star Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

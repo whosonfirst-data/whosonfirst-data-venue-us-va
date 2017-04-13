@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.656731,37.243072,-76.656731,37.243072",
     "geom:latitude":37.243072,
     "geom:longitude":-76.656731,
@@ -31,7 +32,12 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894055,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mkwy5Yw92NhjJfRMWxhj0_37.243072_-76.656731@1294252573"
@@ -39,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461904253,
     "wof:geomhash":"86ef3e8a7fc9e902cf5a4aac42b343ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085967,
+            "neighbourhood_id":85894055,
+            "region_id":85688747,
+            "venue_id":739284771
+        }
+    ],
     "wof:id":739284771,
-    "wof:lastmodified":1472651179,
+    "wof:lastmodified":1492030625,
     "wof:name":"Kingsmill Realty Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85894055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

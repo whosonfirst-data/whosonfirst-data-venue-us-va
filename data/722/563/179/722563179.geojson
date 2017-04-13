@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.351286,36.964935,-79.351286,36.964935",
     "geom:latitude":36.964935,
     "geom:longitude":-79.351286,
@@ -34,7 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
+        101728697,
+        102084935,
+        85868201,
         101728587,
         102083813,
         85868197
@@ -45,9 +50,19 @@
     },
     "wof:country":"US",
     "wof:created":1461884277,
-    "wof:geomhash":"0e64dee79d9fd8b68d78bd44a67f94e7",
+    "wof:geomhash":"35e9fd234063d982354b5d3058c8c1ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101728697,
+            "neighbourhood_id":85868201,
+            "region_id":85688747,
+            "venue_id":722563179
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083813,
             "locality_id":101728587,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":722563179,
-    "wof:lastmodified":1472651106,
+    "wof:lastmodified":1492072364,
     "wof:name":"Randy Brumfield's Plumbing",
-    "wof:parent_id":85868197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

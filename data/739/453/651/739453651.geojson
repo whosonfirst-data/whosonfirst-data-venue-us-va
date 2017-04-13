@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.334786,37.534687,-77.334786,37.534687",
     "geom:latitude":37.534687,
     "geom:longitude":-77.334786,
@@ -28,7 +29,13 @@
     "sg:postcode":"23075",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GsjZVfY4gKxe7mSWYH2Qt_37.534687_-77.334786@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907606,
     "wof:geomhash":"1e99d965b435a4635e430af1ba44f3d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":739453651
+        }
+    ],
     "wof:id":739453651,
-    "wof:lastmodified":1472651579,
+    "wof:lastmodified":1492030410,
     "wof:name":"Michael Hamme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

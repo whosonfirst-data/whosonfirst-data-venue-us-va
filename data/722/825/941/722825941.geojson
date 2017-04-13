@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207706,38.27708,-77.207706,38.27708",
     "geom:latitude":38.27708,
     "geom:longitude":-77.207706,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_769A0LzSBLIiPT5b2ccynn_38.277080_-77.207706@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889374,
-    "wof:geomhash":"84b41fb91e37650ecabdf47a25a4140d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc4158a1f0dea333ec9fa950b5299888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":722825941
+        }
+    ],
     "wof:id":722825941,
-    "wof:lastmodified":1472651917,
+    "wof:lastmodified":1492070723,
     "wof:name":"Dahlgren Rescue Squad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

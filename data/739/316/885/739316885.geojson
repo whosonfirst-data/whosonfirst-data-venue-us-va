@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.628039,36.652806,-80.628039,36.652806",
     "geom:latitude":36.652806,
     "geom:longitude":-80.628039,
@@ -33,7 +34,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GbyQWZnbtMEwJmBoImzFu_36.652806_-80.628039@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904900,
     "wof:geomhash":"3b2d69975c40ef51b93064a3462a5b77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":739316885
+        }
+    ],
     "wof:id":739316885,
-    "wof:lastmodified":1472651237,
+    "wof:lastmodified":1492031807,
     "wof:name":"Ayers William Farm of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.628764,38.457223,-77.628764,38.457223",
     "geom:latitude":38.457223,
     "geom:longitude":-77.628764,
@@ -35,7 +36,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gdx0tWcqbSIHJJm8OC9cK_38.457223_-77.628764@1303262546"
@@ -43,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461912404,
     "wof:geomhash":"a1535264d05cbadc57ea274a323e79d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":739693191
+        }
+    ],
     "wof:id":739693191,
-    "wof:lastmodified":1472652171,
+    "wof:lastmodified":1492031402,
     "wof:name":"Landscape By Art",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

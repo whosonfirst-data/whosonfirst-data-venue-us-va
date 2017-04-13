@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.216125,36.591189,-82.216125,36.591189",
     "geom:latitude":36.591189,
     "geom:longitude":-82.216125,
@@ -32,17 +33,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4si5qnGQHAWIOP3PVAt7Rn_36.591189_-82.216125@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908708,
-    "wof:geomhash":"055b10bb9377b16028a494e6d3015416",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0734e9d9cc6e986bf48245e0182784bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":739515273
+        }
+    ],
     "wof:id":739515273,
-    "wof:lastmodified":1472651749,
+    "wof:lastmodified":1492040868,
     "wof:name":"Bristol Aerobic Fitnes CLB LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

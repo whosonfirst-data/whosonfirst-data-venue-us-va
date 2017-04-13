@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412279,38.468319,-77.412279,38.468319",
     "geom:latitude":38.468319,
     "geom:longitude":-77.412279,
@@ -31,17 +32,26 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sA2RWpIINYpgxtgUctMhP_38.468319_-77.412279@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898845,
-    "wof:geomhash":"dd52b5893e14fd31856723f82ef37125",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9edd3095b21e7778a4a6fde5a347e4bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":723288963
+        }
+    ],
     "wof:id":723288963,
-    "wof:lastmodified":1472651851,
+    "wof:lastmodified":1492052939,
     "wof:name":"Comfort Inn",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764121,37.354274,-76.764121,37.354274",
     "geom:latitude":37.354274,
     "geom:longitude":-76.764121,
@@ -31,7 +32,10 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53013f8ouVc1DuXfb8y7i4_37.354274_-76.764121@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907569,
     "wof:geomhash":"f8534ef3a2f51ab8bd320cd0d6248593",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739451485
+        }
+    ],
     "wof:id":739451485,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492031149,
     "wof:name":"Wilkris Antiques",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.466381,37.463709,-79.466381,37.463709",
     "geom:latitude":37.463709,
     "geom:longitude":-79.466381,
@@ -31,7 +32,12 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tgFQAOs4ka8Iydp2Kw3wf_37.463709_-79.466381@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906942,
     "wof:geomhash":"6ae4381933e5f9e7d69858c02cd9a594",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739419087
+        }
+    ],
     "wof:id":739419087,
-    "wof:lastmodified":1472651499,
+    "wof:lastmodified":1492029772,
     "wof:name":"Rock Haven Mills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

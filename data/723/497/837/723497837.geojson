@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.553071,37.578876,-77.553071,37.578876",
     "geom:latitude":37.578876,
     "geom:longitude":-77.553071,
@@ -37,17 +38,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j8aX4sAvEy5jBdgUTcJVW_37.578876_-77.553071@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902915,
-    "wof:geomhash":"b4946694254cb102a98700e29ae9ce04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"621e5c5258a2a5e891557102c6a2e5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723497837
+        }
+    ],
     "wof:id":723497837,
-    "wof:lastmodified":1472652362,
+    "wof:lastmodified":1492047646,
     "wof:name":"Westham Green Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

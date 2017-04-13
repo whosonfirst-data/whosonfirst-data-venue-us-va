@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.009504,36.709913,-82.009504,36.709913",
     "geom:latitude":36.709913,
     "geom:longitude":-82.009504,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jflqXmtMlwnb4sBSGMENL_36.709913_-82.009504@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891994,
-    "wof:geomhash":"d6be4e6cbe0e7517cbbb496018922501",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae5e70bb7b156703a4df165bdd075f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722958547
+        }
+    ],
     "wof:id":722958547,
-    "wof:lastmodified":1472652296,
+    "wof:lastmodified":1492071496,
     "wof:name":"New Dimensions Contg & Rmdlg",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.651547,37.782946,-75.651547,37.782946",
     "geom:latitude":37.782946,
     "geom:longitude":-75.651547,
@@ -33,7 +34,10 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RjAsp19pnyKJ0kdmqYQe4_37.782946_-75.651547@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461908071,
     "wof:geomhash":"2f1c84f38ab78797ab87321d554df2a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546533,
+            "venue_id":739479963
+        }
+    ],
     "wof:id":739479963,
-    "wof:lastmodified":1472651651,
+    "wof:lastmodified":1492030579,
     "wof:name":"Smoot's Auto Body",
     "wof:parent_id":420546533,
     "wof:placetype":"venue",

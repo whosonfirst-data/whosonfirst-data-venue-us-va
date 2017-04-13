@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.28048,38.601735,-77.28048,38.601735",
     "geom:latitude":38.601735,
     "geom:longitude":-77.28048,
@@ -34,7 +35,8 @@
         85633793,
         101729261,
         102084937,
-        85868219
+        85868219,
+        85868221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899911,
-    "wof:geomhash":"45b8252f467cddfb4ad23c169b8c7a05",
+    "wof:geomhash":"16cc9ac1c7599079fd9b5f5e72cb0d25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85868219,
             "region_id":85688747,
             "venue_id":723345151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729261,
+            "neighbourhood_id":85868221,
+            "region_id":85688747,
+            "venue_id":723345151
         }
     ],
     "wof:id":723345151,
-    "wof:lastmodified":1472651946,
+    "wof:lastmodified":1492059094,
     "wof:name":"James E Scott Rev",
-    "wof:parent_id":85868219,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

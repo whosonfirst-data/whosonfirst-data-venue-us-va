@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518107,38.793841,-77.518107,38.793841",
     "geom:latitude":38.793841,
     "geom:longitude":-77.518107,
@@ -33,17 +34,32 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QIBKo94wRMxY5mr1IEMfj_38.793841_-77.518107@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907413,
-    "wof:geomhash":"34e830245122fe02b12123ecc377a440",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edc0768e41149bb199933f33675adda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739443243
+        }
+    ],
     "wof:id":739443243,
-    "wof:lastmodified":1472651555,
+    "wof:lastmodified":1492038663,
     "wof:name":"Settlement Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

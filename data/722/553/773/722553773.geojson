@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.104108,38.74292,-77.104108,38.74292",
     "geom:latitude":38.74292,
     "geom:longitude":-77.104108,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729773,
+        101729749,
         102084863,
+        85853453,
+        101729773,
         420560171
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884084,
-    "wof:geomhash":"0a3f4ee77dc26efa65471c188e2b414f",
+    "wof:geomhash":"247c2b12501e60c5734ca0601ca452fc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729749,
+            "neighbourhood_id":85853453,
+            "region_id":85688747,
+            "venue_id":722553773
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":722553773,
-    "wof:lastmodified":1472651107,
+    "wof:lastmodified":1492074161,
     "wof:name":"Fernando Chopin",
-    "wof:parent_id":420560171,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

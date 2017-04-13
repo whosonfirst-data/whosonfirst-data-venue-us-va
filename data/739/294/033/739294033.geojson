@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.969062,37.274673,-79.969062,37.274673",
     "geom:latitude":37.274673,
     "geom:longitude":-79.969062,
@@ -31,19 +32,36 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927,
+        85817513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YyabpiGCsGzBnLvihW3bV_37.274673_-79.969062@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904447,
-    "wof:geomhash":"770e97d53b5fe0eb6b5d77dccff2d840",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859377b7dccab28552217221c6d2532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "neighbourhood_id":85817513,
+            "region_id":85688747,
+            "venue_id":739294033
+        }
+    ],
     "wof:id":739294033,
-    "wof:lastmodified":1472651186,
+    "wof:lastmodified":1492046482,
     "wof:name":"Greater Life Ministries",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

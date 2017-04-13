@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504195,37.625746,-77.504195,37.625746",
     "geom:latitude":37.625746,
     "geom:longitude":-77.504195,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hvm1EDQPNKxsac5hXnevO_37.625746_-77.504195@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893759,
-    "wof:geomhash":"4ad5e8bcf83618975255a17c6f7260c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63460dad68b379500fd0f9d37ed3de34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":723037391
+        }
+    ],
     "wof:id":723037391,
-    "wof:lastmodified":1472651153,
+    "wof:lastmodified":1492061127,
     "wof:name":"ACC Telecommunication Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

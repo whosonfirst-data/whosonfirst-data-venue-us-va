@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.167914,38.804486,-77.167914,38.804486",
     "geom:latitude":38.804486,
     "geom:longitude":-77.167914,
@@ -38,7 +39,8 @@
         85633793,
         101729761,
         102084863,
-        85818535
+        85818535,
+        85857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897519,
-    "wof:geomhash":"c0af798d6b866329b79387737646aca1",
+    "wof:geomhash":"599e19b624e45b7d53e291981e3234df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85818535,
             "region_id":85688747,
             "venue_id":723220887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85857319,
+            "region_id":85688747,
+            "venue_id":723220887
         }
     ],
     "wof:id":723220887,
-    "wof:lastmodified":1472651643,
+    "wof:lastmodified":1492051127,
     "wof:name":"Verio Inc",
-    "wof:parent_id":85818535,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

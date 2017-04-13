@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.739231,38.739459,-78.739231,38.739459",
     "geom:latitude":38.739459,
     "geom:longitude":-78.739231,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0z48RLWon9DdqQ4S7kCdCD_38.739459_-78.739231@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887868,
-    "wof:geomhash":"d69f2030a58b609a31f4d976d37bd46f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eceea187b180108ef4e1a07c2ea07648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":722746221
+        }
+    ],
     "wof:id":722746221,
-    "wof:lastmodified":1472651673,
+    "wof:lastmodified":1492066321,
     "wof:name":"Solomon Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

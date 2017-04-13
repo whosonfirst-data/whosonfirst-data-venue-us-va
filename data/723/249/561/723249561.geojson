@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.371528,36.803227,-76.371528,36.803227",
     "geom:latitude":36.803227,
     "geom:longitude":-76.371528,
@@ -38,7 +39,8 @@
         85633793,
         101728677,
         102086707,
-        420558427
+        420558427,
+        85868203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898106,
-    "wof:geomhash":"6daa9d2d8dbd129c7aad5140fe8a51af",
+    "wof:geomhash":"5fd708bee325a7fb867935b513395050",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":420558427,
             "region_id":85688747,
             "venue_id":723249561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85868203,
+            "region_id":85688747,
+            "venue_id":723249561
         }
     ],
     "wof:id":723249561,
-    "wof:lastmodified":1472651704,
+    "wof:lastmodified":1492047625,
     "wof:name":"Army National Guard Armory",
-    "wof:parent_id":420558427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

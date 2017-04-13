@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.212733,38.272895,-77.212733,38.272895",
     "geom:latitude":38.272895,
     "geom:longitude":-77.212733,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3235FrXsNX0W2xcQ9tkGOj_38.272895_-77.212733@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885481,
-    "wof:geomhash":"c74c4a369dc8b639812a25c33c69c584",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a7b40792dd3745c15025503197c2115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":722624411
+        }
+    ],
     "wof:id":722624411,
-    "wof:lastmodified":1472651399,
+    "wof:lastmodified":1492066139,
     "wof:name":"George King Auto Sale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

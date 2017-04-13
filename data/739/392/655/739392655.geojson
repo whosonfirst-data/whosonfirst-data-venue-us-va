@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.465124,38.894015,-77.465124,38.894015",
     "geom:latitude":38.894015,
     "geom:longitude":-77.465124,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"www.cgmoving.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_615JHFMtx3QGb7DwcWEKdC_38.894015_-77.465124@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461906443,
     "wof:geomhash":"d04f1119de5bab03d692263335eb4403",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739392655
+        }
+    ],
     "wof:id":739392655,
-    "wof:lastmodified":1472651424,
+    "wof:lastmodified":1492031627,
     "wof:name":"C & G Moving & Storage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

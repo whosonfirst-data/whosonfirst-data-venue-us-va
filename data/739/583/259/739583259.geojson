@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513196,38.292937,-77.513196,38.292937",
     "geom:latitude":38.292937,
     "geom:longitude":-77.513196,
@@ -33,7 +34,12 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24YbxHITw37I8q7k6eRFsS_38.292937_-77.513196@1299784598"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461910073,
     "wof:geomhash":"0ff31914d3bc6eaf71c89581ffeb59d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739583259
+        }
+    ],
     "wof:id":739583259,
-    "wof:lastmodified":1472651921,
+    "wof:lastmodified":1492030359,
     "wof:name":"Auntie Anne's Pretzels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

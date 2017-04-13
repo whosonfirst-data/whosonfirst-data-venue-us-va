@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.253283,36.892454,-81.253283,36.892454",
     "geom:latitude":36.892454,
     "geom:longitude":-81.253283,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZJ6Y3H77DyvFei3CG8Qpw_36.892454_-81.253283@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898504,
-    "wof:geomhash":"eec0663f88c74009590436f9b99555bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a0ce204990ecd4a9569c66ae0926997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723269929
+        }
+    ],
     "wof:id":723269929,
-    "wof:lastmodified":1472651836,
+    "wof:lastmodified":1492053877,
     "wof:name":"Rural Retreat Water Plant",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

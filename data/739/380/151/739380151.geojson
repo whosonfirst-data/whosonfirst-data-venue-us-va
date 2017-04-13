@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.481846,38.443146,-77.481846,38.443146",
     "geom:latitude":38.443146,
     "geom:longitude":-77.481846,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30AHCzr8OzCZuZLKEftpqB_38.443146_-77.481846@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461906199,
     "wof:geomhash":"58daea217e7e849889e7a1cfe9d4e157",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":739380151
+        }
+    ],
     "wof:id":739380151,
-    "wof:lastmodified":1472651338,
+    "wof:lastmodified":1492033079,
     "wof:name":"Paper Moods",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

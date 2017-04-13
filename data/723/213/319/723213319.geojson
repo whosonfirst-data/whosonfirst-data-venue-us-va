@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401373,38.434827,-77.401373,38.434827",
     "geom:latitude":38.434827,
     "geom:longitude":-77.401373,
@@ -31,17 +32,26 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BgcRO7QJsajVim2PBgnUY_38.434827_-77.401373@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897333,
-    "wof:geomhash":"dfb917062e4612867b4b40f6d2ed84a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d826cc51f0ce8c1e54e7f383a526c648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547161,
+            "venue_id":723213319
+        }
+    ],
     "wof:id":723213319,
-    "wof:lastmodified":1472651614,
+    "wof:lastmodified":1492051657,
     "wof:name":"Robert Bumbrey",
     "wof:parent_id":420547161,
     "wof:placetype":"venue",

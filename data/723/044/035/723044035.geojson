@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.141038,39.185051,-78.141038,39.185051",
     "geom:latitude":39.185051,
     "geom:longitude":-78.141038,
@@ -32,17 +33,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_610a3njZ4WYo0Jhp55CtUp_39.185051_-78.141038@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893898,
-    "wof:geomhash":"5cf59af54a2797fc8f47d62d5a895b9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1091bee69ee8645c6ff597d8a39370cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723044035
+        }
+    ],
     "wof:id":723044035,
-    "wof:lastmodified":1472651150,
+    "wof:lastmodified":1492056199,
     "wof:name":"Campbell's Country Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

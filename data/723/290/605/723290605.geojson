@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.421873,37.21669,-76.421873,37.21669",
     "geom:latitude":37.21669,
     "geom:longitude":-76.421873,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a5lOF56diAIsMf1YgAuc7_37.216690_-76.421873@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898886,
-    "wof:geomhash":"961a7a6057834566e0e947973ffd567d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1ff03e50577818832934bafac5a17f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086731,
+            "region_id":85688747,
+            "venue_id":723290605
+        }
+    ],
     "wof:id":723290605,
-    "wof:lastmodified":1472651808,
+    "wof:lastmodified":1492051288,
     "wof:name":"Heps Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.91294,37.403937,-79.91294,37.403937",
     "geom:latitude":37.403937,
     "geom:longitude":-79.91294,
@@ -38,17 +39,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RTT30fPPq3rqjFuJeKm0e_37.403937_-79.912940@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904619,
-    "wof:geomhash":"e830fc3f033e873c9c5720d1bf3ab1d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bcbd0333f7f38cff67bdab4fe6c5098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":739302205
+        }
+    ],
     "wof:id":739302205,
-    "wof:lastmodified":1472651192,
+    "wof:lastmodified":1492046688,
     "wof:name":"Fast Fuels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

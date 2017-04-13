@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.324364,37.89891,-78.324364,37.89891",
     "geom:latitude":37.89891,
     "geom:longitude":-78.324364,
@@ -28,7 +29,13 @@
     "sg:postcode":"22963",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5avgygBmQBWcRsgGHYoEHS_37.898730_-78.324766@1293134755"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461909773,
     "wof:geomhash":"26b4ac85c58fc64cc8a0ea3f5615aa38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":739569677
+        }
+    ],
     "wof:id":739569677,
-    "wof:lastmodified":1472651904,
+    "wof:lastmodified":1492030911,
     "wof:name":"Cedarwood Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

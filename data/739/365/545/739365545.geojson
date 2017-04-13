@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543052,37.11759,-76.543052,37.11759",
     "geom:latitude":37.11759,
     "geom:longitude":-76.543052,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27IJvXk1GsKnf2it1RCB3g_37.117590_-76.543052@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905910,
-    "wof:geomhash":"14290388f8dfc64a71aebd06d23bc7d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"191eb384ffe996105abef7344b761da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739365545
+        }
+    ],
     "wof:id":739365545,
-    "wof:lastmodified":1472651346,
+    "wof:lastmodified":1492039868,
     "wof:name":"Alexs Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

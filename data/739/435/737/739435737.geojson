@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.648476,38.88117,-78.648476,38.88117",
     "geom:latitude":38.88117,
     "geom:longitude":-78.648476,
@@ -28,7 +29,12 @@
     "sg:postcode":"22824",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_088khMbr92WNpr3WW3H9TJ_38.881170_-78.648476@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907274,
     "wof:geomhash":"f83fa41767063ed82c0085adc697f0ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739435737
+        }
+    ],
     "wof:id":739435737,
-    "wof:lastmodified":1472651544,
+    "wof:lastmodified":1492029395,
     "wof:name":"Owen's Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

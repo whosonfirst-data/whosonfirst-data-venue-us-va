@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.966844,37.260567,-79.966844,37.260567",
     "geom:latitude":37.260567,
     "geom:longitude":-79.966844,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OC38ALGbFx6YkqA8IUk9F_37.260567_-79.966844@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908465,
-    "wof:geomhash":"333ba2a97d73269196cabd921ae192fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c8cf38973d7c4cddee56b4a8b46af96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739501921
+        }
+    ],
     "wof:id":739501921,
-    "wof:lastmodified":1472651714,
+    "wof:lastmodified":1492044375,
     "wof:name":"Evergreen Burial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

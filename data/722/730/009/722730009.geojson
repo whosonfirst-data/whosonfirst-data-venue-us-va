@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.493295,37.500663,-77.493295,37.500663",
     "geom:latitude":37.500663,
     "geom:longitude":-77.493295,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YsmUYqbIuoAxGOIBT2jtD_37.500663_-77.493295@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887526,
-    "wof:geomhash":"6c2010797a2588ea35b6e0a7f474c332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"533163a5133199c5b55248fe0172b4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722730009
+        }
+    ],
     "wof:id":722730009,
-    "wof:lastmodified":1472651620,
+    "wof:lastmodified":1492066340,
     "wof:name":"Expert Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

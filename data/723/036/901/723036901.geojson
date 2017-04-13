@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.875624,36.69129,-79.875624,36.69129",
     "geom:latitude":36.69129,
     "geom:longitude":-79.875624,
@@ -37,17 +38,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VKsMEmE6CqTB3BkIEt7Io_36.691290_-79.875624@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893742,
-    "wof:geomhash":"4afb42afccff2d181eb4c6006728839c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf071b580360067ba0397dfe0037e00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723036901
+        }
+    ],
     "wof:id":723036901,
-    "wof:lastmodified":1472651174,
+    "wof:lastmodified":1492059954,
     "wof:name":"Martinsville Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

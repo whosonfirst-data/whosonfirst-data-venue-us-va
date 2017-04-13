@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.761872,37.395649,-79.761872,37.395649",
     "geom:latitude":37.395649,
     "geom:longitude":-79.761872,
@@ -32,17 +33,30 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J07CfHJY0q7XW9sl0oOmO_37.395649_-79.761872@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898882,
-    "wof:geomhash":"0e490746e2eaa10850d34a734f82757a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c9ee39468772a07c3824efda327302e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723290345
+        }
+    ],
     "wof:id":723290345,
-    "wof:lastmodified":1472651768,
+    "wof:lastmodified":1492051296,
     "wof:name":"Haynes Cabinet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

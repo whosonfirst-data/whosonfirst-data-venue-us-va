@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346417,37.611072,-77.346417,37.611072",
     "geom:latitude":37.611072,
     "geom:longitude":-77.346417,
@@ -33,17 +34,32 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36mC5AxT7HHpiwMTTOcQs6_37.611072_-77.346417@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896066,
-    "wof:geomhash":"33a2422fbf6ed61727cdf01c013be4a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90cce78bd01a846585b166e2df7d0d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":723148235
+        }
+    ],
     "wof:id":723148235,
-    "wof:lastmodified":1472651405,
+    "wof:lastmodified":1492053637,
     "wof:name":"US Army Recruiting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

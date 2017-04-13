@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.720615,36.786411,-79.720615,36.786411",
     "geom:latitude":36.786411,
     "geom:longitude":-79.720615,
@@ -32,7 +33,12 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kusCJn3t8JzwaAPNjaTH7_36.786411_-79.720615@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904956,
     "wof:geomhash":"6eb7bcfbc3695bdecc7f6d1b92775d35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086705,
+            "region_id":85688747,
+            "venue_id":739319449
+        }
+    ],
     "wof:id":739319449,
-    "wof:lastmodified":1472651257,
+    "wof:lastmodified":1492031277,
     "wof:name":"Rainbow Distributers-Jackson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

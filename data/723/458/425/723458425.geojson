@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.53341,39.215884,-77.53341,39.215884",
     "geom:latitude":39.215884,
     "geom:longitude":-77.53341,
@@ -37,17 +38,30 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08p9tMurGE6UsitzOFRIJu_39.215884_-77.533410@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902096,
-    "wof:geomhash":"88683e7ebbba2a60a0b004c2ad619ad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93c469eec337dcdc26e84759816ec5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723458425
+        }
+    ],
     "wof:id":723458425,
-    "wof:lastmodified":1472652287,
+    "wof:lastmodified":1492048195,
     "wof:name":"Lucketts Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

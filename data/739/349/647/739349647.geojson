@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.502476,39.08605,-77.502476,39.08605",
     "geom:latitude":39.08605,
     "geom:longitude":-77.502476,
@@ -32,17 +33,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GpgLLibVOkYbWC0tX7cJe_39.086050_-77.502476@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905601,
-    "wof:geomhash":"c0c6d0b2a11328372599a6f875710754",
-    "wof:hierarchy":[],
+    "wof:geomhash":"771a300a8772d908a00f5868bec46d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":739349647
+        }
+    ],
     "wof:id":739349647,
-    "wof:lastmodified":1472651306,
+    "wof:lastmodified":1492042713,
     "wof:name":"Thomas' Furniture Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

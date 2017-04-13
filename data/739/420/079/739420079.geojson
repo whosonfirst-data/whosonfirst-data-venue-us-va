@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.530122,37.349868,-79.530122,37.349868",
     "geom:latitude":37.349868,
     "geom:longitude":-79.530122,
@@ -31,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mFu6muFlHMRm0Dv9jJc34_37.349868_-79.530122@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906961,
     "wof:geomhash":"4bf21b3b495613a29c9268b80430c0c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739420079
+        }
+    ],
     "wof:id":739420079,
-    "wof:lastmodified":1472651499,
+    "wof:lastmodified":1492031958,
     "wof:name":"Prichard Business Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

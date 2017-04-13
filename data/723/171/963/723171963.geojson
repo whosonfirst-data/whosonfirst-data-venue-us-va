@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.920733,37.269763,-79.920733,37.269763",
     "geom:latitude":37.269763,
     "geom:longitude":-79.920733,
@@ -32,17 +33,32 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GMJkf93nxYNO8BlN2eAMT_37.269763_-79.920733@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896519,
-    "wof:geomhash":"a5dc549006f8bb9da0f73781184d254c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d435766e3b6856d1da13b4462b7f3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723171963
+        }
+    ],
     "wof:id":723171963,
-    "wof:lastmodified":1472651492,
+    "wof:lastmodified":1492053815,
     "wof:name":"Morning Side Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

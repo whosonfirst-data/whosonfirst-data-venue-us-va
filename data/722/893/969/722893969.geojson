@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.171064,36.617055,-82.171064,36.617055",
     "geom:latitude":36.617055,
     "geom:longitude":-82.171064,
@@ -38,6 +39,7 @@
         85633793,
         101728659,
         102084925,
+        85827531,
         85853971
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890659,
-    "wof:geomhash":"60f528bcc3d20a7efc25bb012073d283",
+    "wof:geomhash":"0ac3b9ee10a9db56926d0d26a84405b8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":85827531,
+            "region_id":85688747,
+            "venue_id":722893969
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":722893969,
-    "wof:lastmodified":1472652082,
+    "wof:lastmodified":1492064894,
     "wof:name":"Jerry B Peters Sales Inc",
-    "wof:parent_id":85853971,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

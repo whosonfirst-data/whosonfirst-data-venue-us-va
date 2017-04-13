@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.147475,37.414664,-79.147475,37.414664",
     "geom:latitude":37.414664,
     "geom:longitude":-79.147475,
@@ -33,7 +34,13 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aVXDqs2EQmUVyearnDv0D_37.414664_-79.147475@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461907647,
     "wof:geomhash":"3c84581be1717141a79a381d3756cc37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739456121
+        }
+    ],
     "wof:id":739456121,
-    "wof:lastmodified":1472651562,
+    "wof:lastmodified":1492033063,
     "wof:name":"College Hill Neighborhood Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.183368,38.927593,-77.183368,38.927593",
     "geom:latitude":38.927593,
     "geom:longitude":-77.183368,
@@ -34,7 +35,8 @@
         85633793,
         101729767,
         102084863,
-        85833305
+        85833305,
+        420546693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888089,
-    "wof:geomhash":"0772a51512f8520cb3836f3f9d60a80f",
+    "wof:geomhash":"e822e3f42bcf1b2be06c986dbbdd52dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85833305,
             "region_id":85688747,
             "venue_id":722758305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":420546693,
+            "region_id":85688747,
+            "venue_id":722758305
         }
     ],
     "wof:id":722758305,
-    "wof:lastmodified":1472651722,
+    "wof:lastmodified":1492073242,
     "wof:name":"J D McHale Group",
-    "wof:parent_id":85833305,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

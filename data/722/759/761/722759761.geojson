@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.404274,37.890026,-77.404274,37.890026",
     "geom:latitude":37.890026,
     "geom:longitude":-77.404274,
@@ -31,17 +32,30 @@
         "equine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58yMWVv4MPzc9hZ9PPqPdn_37.890026_-77.404274@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888120,
-    "wof:geomhash":"f104f260bd996e7aa93942c0128c894a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2209815f29a57062930e8a58bf13cbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":722759761
+        }
+    ],
     "wof:id":722759761,
-    "wof:lastmodified":1472651832,
+    "wof:lastmodified":1492066621,
     "wof:name":"Stubble Field",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

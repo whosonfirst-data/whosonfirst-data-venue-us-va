@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.95561,37.064087,-76.95561,37.064087",
     "geom:latitude":37.064087,
     "geom:longitude":-76.95561,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oNYDnGkNXjcHPFntMn7ud_37.064087_-76.955610@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899481,
-    "wof:geomhash":"fa33028b12614df9b36a0999865e543d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59182e062d85ec03e3c28b7f98b2435c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723321847
+        }
+    ],
     "wof:id":723321847,
-    "wof:lastmodified":1472651869,
+    "wof:lastmodified":1492048980,
     "wof:name":"Ryland Homes",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

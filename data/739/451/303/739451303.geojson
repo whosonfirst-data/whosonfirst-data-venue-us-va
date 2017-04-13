@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.580764,38.852216,-77.580764,38.852216",
     "geom:latitude":38.852216,
     "geom:longitude":-77.580764,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ulBUk11byCv9DZB8FwJQJ_38.852216_-77.580764@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907566,
     "wof:geomhash":"fca97b7a274a6db13b7762d9253b4706",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739451303
+        }
+    ],
     "wof:id":739451303,
-    "wof:lastmodified":1472651571,
+    "wof:lastmodified":1492031147,
     "wof:name":"D & A Aluminum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

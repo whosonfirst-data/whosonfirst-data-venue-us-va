@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146337,38.871044,-77.146337,38.871044",
     "geom:latitude":38.871044,
     "geom:longitude":-77.146337,
@@ -32,17 +33,32 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729789,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j6662ldcr0ixSqQ4QQ2N5_38.871044_-77.146337@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894727,
-    "wof:geomhash":"7820cb38247d7460339bc414b09058ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b3ab1ad40cfe6b9c3069073ab82b5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729789,
+            "region_id":85688747,
+            "venue_id":723080983
+        }
+    ],
     "wof:id":723080983,
-    "wof:lastmodified":1472651305,
+    "wof:lastmodified":1492055364,
     "wof:name":"Tax & Immigration Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

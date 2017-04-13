@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.952619,37.244525,-79.952619,37.244525",
     "geom:latitude":37.244525,
     "geom:longitude":-79.952619,
@@ -28,7 +29,13 @@
     "sg:postcode":"24014",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gdNXlXSx95bSMoSP9pM5w_37.244525_-79.952619@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907266,
     "wof:geomhash":"830f50d98b73721147383fed025cd851",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739435229
+        }
+    ],
     "wof:id":739435229,
-    "wof:lastmodified":1472651517,
+    "wof:lastmodified":1492029387,
     "wof:name":"Crystal Spring Elem School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.847666,38.427746,-78.847666,38.427746",
     "geom:latitude":38.427746,
     "geom:longitude":-78.847666,
@@ -37,17 +38,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XoQHiL4MN66QsRnUtdP85_38.427746_-78.847666@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887648,
-    "wof:geomhash":"85e0b48660bd4346c3bb2944f52c1e32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51fcdcb4a72650529e8ebf22b6d55193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722734999
+        }
+    ],
     "wof:id":722734999,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492072169,
     "wof:name":"Victor Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.954648,37.483137,-75.954648,37.483137",
     "geom:latitude":37.483137,
     "geom:longitude":-75.954648,
@@ -31,7 +32,12 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3whT6H4nzhlb5B7YbrtTKm_37.483137_-75.954648@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906600,
     "wof:geomhash":"4c7d143446262a42f0512bf1228b6272",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087293,
+            "region_id":85688747,
+            "venue_id":739401113
+        }
+    ],
     "wof:id":739401113,
-    "wof:lastmodified":1472651445,
+    "wof:lastmodified":1492032696,
     "wof:name":"C J Prettyman & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

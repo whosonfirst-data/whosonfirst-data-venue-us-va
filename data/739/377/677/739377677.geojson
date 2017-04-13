@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.131676,36.722708,-78.131676,36.722708",
     "geom:latitude":36.722708,
     "geom:longitude":-78.131676,
@@ -33,7 +34,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ey43D9kmgBQWU0Q022EEG_36.722708_-78.131676@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461906145,
     "wof:geomhash":"af471ddc485ddde2856eaa8f75b3fee9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739377677
+        }
+    ],
     "wof:id":739377677,
-    "wof:lastmodified":1472651358,
+    "wof:lastmodified":1492031198,
     "wof:name":"Tri County Gastroenterology PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

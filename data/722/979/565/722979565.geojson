@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41624,38.462657,-77.41624,38.462657",
     "geom:latitude":38.462657,
     "geom:longitude":-77.41624,
@@ -31,19 +32,38 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547109,
+        85688747,
+        85894041,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rVP42LvRZXfVrmURrEVXj_38.462657_-77.416240@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892446,
-    "wof:geomhash":"432a3515a87b32ee1f7c701aac7b709c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e31823eaf46fd235a1d5f8410c997fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547109,
+            "venue_id":722979565
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "neighbourhood_id":85894041,
+            "region_id":85688747,
+            "venue_id":722979565
+        }
+    ],
     "wof:id":722979565,
-    "wof:lastmodified":1472652345,
+    "wof:lastmodified":1492072741,
     "wof:name":"Vine Place Apartments",
-    "wof:parent_id":420547109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

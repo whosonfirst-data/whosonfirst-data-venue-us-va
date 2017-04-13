@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.035769,36.768145,-76.035769,36.768145",
     "geom:latitude":36.768145,
     "geom:longitude":-76.035769,
@@ -34,7 +35,9 @@
         85633793,
         101728745,
         102081929,
-        85843145
+        85858669,
+        85843145,
+        85811939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886969,
-    "wof:geomhash":"b987eb814dcbb3607912d1418f404333",
+    "wof:geomhash":"7c94fdf6eb97d21993b30f8978de96e2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85858669,
+            "region_id":85688747,
+            "venue_id":722700141
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -52,12 +64,21 @@
             "neighbourhood_id":85843145,
             "region_id":85688747,
             "venue_id":722700141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85811939,
+            "region_id":85688747,
+            "venue_id":722700141
         }
     ],
     "wof:id":722700141,
-    "wof:lastmodified":1472651549,
+    "wof:lastmodified":1492065961,
     "wof:name":"Pro Style Baits Inc",
-    "wof:parent_id":85843145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

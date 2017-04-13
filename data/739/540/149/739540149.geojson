@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.636105,36.932493,-82.636105,36.932493",
     "geom:latitude":36.932493,
     "geom:longitude":-82.636105,
@@ -31,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728955,
+        102084969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lMTdqasKSMfGwu5HFu1CP_36.932493_-82.636105@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909155,
     "wof:geomhash":"4cb2027bd52c2ddc98a942dadd79fc82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084969,
+            "locality_id":101728955,
+            "region_id":85688747,
+            "venue_id":739540149
+        }
+    ],
     "wof:id":739540149,
-    "wof:lastmodified":1472651764,
+    "wof:lastmodified":1492032613,
     "wof:name":"Christian Training Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

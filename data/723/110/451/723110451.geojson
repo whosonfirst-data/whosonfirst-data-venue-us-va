@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.173709,39.207903,-78.173709,39.207903",
     "geom:latitude":39.207903,
     "geom:longitude":-78.173709,
@@ -29,17 +30,30 @@
     "sg:province":"VA",
     "sg:website":"www.thecontinental.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TmBBBwtn8WmMGYKNpYELJ_39.207903_-78.173709@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895326,
-    "wof:geomhash":"d8a19172b62ad8651f333d2de4b5cec2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b83c563084b27bd7e57a1414d2aaa35e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":723110451
+        }
+    ],
     "wof:id":723110451,
-    "wof:lastmodified":1472651335,
+    "wof:lastmodified":1492055912,
     "wof:name":"Continental Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

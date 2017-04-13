@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.27593,36.894228,-81.27593,36.894228",
     "geom:latitude":36.894228,
     "geom:longitude":-81.27593,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eJVenPThIr57skYJdvWcM_36.894228_-81.275930@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892727,
-    "wof:geomhash":"a686226aad128430a29273b9d2df3222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bd0d157e0545a86371f0890d88874ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722991953
+        }
+    ],
     "wof:id":722991953,
-    "wof:lastmodified":1472652364,
+    "wof:lastmodified":1492063845,
     "wof:name":"Shoemaker Auto Repair",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

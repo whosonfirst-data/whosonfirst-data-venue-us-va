@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371222,38.508416,-77.371222,38.508416",
     "geom:latitude":38.508416,
     "geom:longitude":-77.371222,
@@ -32,19 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Y4Nig2kV9N0mT9OYLK88v_38.508416_-77.371222@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892612,
-    "wof:geomhash":"ec2f2269b4c613f9223256b85ae89ad1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcc3210c4436ea3eb3a2c3632c47ad0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":722986525
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":722986525
+        }
+    ],
     "wof:id":722986525,
-    "wof:lastmodified":1472652354,
+    "wof:lastmodified":1492065739,
     "wof:name":"Smart Auto Ctr",
-    "wof:parent_id":420547175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

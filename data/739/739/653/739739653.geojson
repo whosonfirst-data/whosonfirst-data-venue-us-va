@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.11099,37.281116,-80.11099,37.281116",
     "geom:latitude":37.281116,
     "geom:longitude":-80.11099,
@@ -50,17 +51,32 @@
     ],
     "sg:website":"http://www.stanleysteemer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mOInWD3ba9w70VQhk0qG6_37.281116_-80.110990@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913413,
-    "wof:geomhash":"adac3d27a67bd13b88e1e1ecd333aae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1d4dbf1adf0b464b3ce916313106c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739739653
+        }
+    ],
     "wof:id":739739653,
-    "wof:lastmodified":1472652256,
+    "wof:lastmodified":1492037897,
     "wof:name":"Stanley Steemer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

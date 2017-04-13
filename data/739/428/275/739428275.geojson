@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450803,38.312336,-77.450803,38.312336",
     "geom:latitude":38.312336,
     "geom:longitude":-77.450803,
@@ -36,7 +37,12 @@
         "w"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fRO7Vq5oJJ7vcq5tizQVc_38.312336_-77.450803@1294252573"
@@ -44,9 +50,17 @@
     "wof:country":"US",
     "wof:created":1461907128,
     "wof:geomhash":"5af0117b5b807a38dfdebaa0ae5b9374",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "region_id":85688747,
+            "venue_id":739428275
+        }
+    ],
     "wof:id":739428275,
-    "wof:lastmodified":1472651514,
+    "wof:lastmodified":1492030968,
     "wof:name":"BOC Gases",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

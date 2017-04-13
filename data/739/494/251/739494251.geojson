@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.70325,37.35283,-76.70325,37.35283",
     "geom:latitude":37.35283,
     "geom:longitude":-76.70325,
@@ -31,17 +32,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LX7R5gDAlX2HltN8iyqLR_37.352830_-76.703250@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908330,
-    "wof:geomhash":"ad13f792e7070183672be5b56445ac0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8350dc1aa60e4a796315668d5c7a970d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547343,
+            "venue_id":739494251
+        }
+    ],
     "wof:id":739494251,
-    "wof:lastmodified":1472651677,
+    "wof:lastmodified":1492037528,
     "wof:name":"Skimino Enterprises",
     "wof:parent_id":420547343,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.133734,38.644883,-77.133734,38.644883",
     "geom:latitude":38.644883,
     "geom:longitude":-77.133734,
@@ -32,7 +33,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729833,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P7oxfL5pA6LvgNDvqosyo_38.644883_-77.133734@1303262538"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461911017,
     "wof:geomhash":"663a31647683d8d09e3a94e5801846c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729833,
+            "region_id":85688747,
+            "venue_id":739629581
+        }
+    ],
     "wof:id":739629581,
-    "wof:lastmodified":1472652013,
+    "wof:lastmodified":1492033289,
     "wof:name":"Real Estate Law Group Pllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.3119,36.997444,-80.3119,36.997444",
     "geom:latitude":36.997444,
     "geom:longitude":-80.3119,
@@ -32,7 +33,12 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eBDNrOZdkMM8wcRuFRqFq_36.997444_-80.311900@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906244,
     "wof:geomhash":"dbd4dcc08c5b8d37973fe216a2dd8d13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739382603
+        }
+    ],
     "wof:id":739382603,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492030672,
     "wof:name":"Whitlock's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

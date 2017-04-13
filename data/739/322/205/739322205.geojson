@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504823,38.257769,-77.504823,38.257769",
     "geom:latitude":38.257769,
     "geom:longitude":-77.504823,
@@ -32,17 +33,30 @@
         "ceramic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cleHmDXAuosRbcMFTnv32_38.257769_-77.504823@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905019,
-    "wof:geomhash":"577dd69da6c24e1cfbf3bb5740c87de1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccb8b1b911f1c8d4588c8e2e9e73cdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739322205
+        }
+    ],
     "wof:id":739322205,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492043314,
     "wof:name":"Old Town Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

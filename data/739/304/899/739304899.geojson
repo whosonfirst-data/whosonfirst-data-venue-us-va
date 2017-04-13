@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048503,38.353251,-77.048503,38.353251",
     "geom:latitude":38.353251,
     "geom:longitude":-77.048503,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.sheetz.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729075,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25Lb5kncwtKKcCX97OL5wV_38.353251_-77.048503@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904679,
-    "wof:geomhash":"977f074913f437b3368f1f3f32cd8a88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eccb2c737d0fa9f9cb52394beba24317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729075,
+            "region_id":85688747,
+            "venue_id":739304899
+        }
+    ],
     "wof:id":739304899,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492040977,
     "wof:name":"Sheetz Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

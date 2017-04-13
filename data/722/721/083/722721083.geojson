@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.39792,37.236214,-80.39792,37.236214",
     "geom:latitude":37.236214,
     "geom:longitude":-80.39792,
@@ -32,19 +33,38 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546991,
+        85688747,
+        85852119,
+        102087271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EBOIQxyuPwvF8MW8WhBxu_37.236214_-80.397920@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887364,
-    "wof:geomhash":"0880233c5a3ea27c6eb1d60bb7193252",
-    "wof:hierarchy":[],
+    "wof:geomhash":"010d23fa2c506519e640851a59da4f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546991,
+            "venue_id":722721083
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087271,
+            "neighbourhood_id":85852119,
+            "region_id":85688747,
+            "venue_id":722721083
+        }
+    ],
     "wof:id":722721083,
-    "wof:lastmodified":1472651612,
+    "wof:lastmodified":1492068623,
     "wof:name":"Around Town Limousine Svc",
-    "wof:parent_id":420546991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

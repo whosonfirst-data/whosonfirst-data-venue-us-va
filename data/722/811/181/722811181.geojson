@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.338475,37.069022,-76.338475,37.069022",
     "geom:latitude":37.069022,
     "geom:longitude":-76.338475,
@@ -28,19 +29,36 @@
     "sg:postcode":"23669",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913,
+        85844779
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qgzj5jGg0steLqTNjRUcN_37.069022_-76.338475@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889086,
-    "wof:geomhash":"828ace0395b68723ba173eb71acc5520",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4824c628fbb32bf8083d6b149e6f39b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85844779,
+            "region_id":85688747,
+            "venue_id":722811181
+        }
+    ],
     "wof:id":722811181,
-    "wof:lastmodified":1472651856,
+    "wof:lastmodified":1492067992,
     "wof:name":"McSmith Engineering",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

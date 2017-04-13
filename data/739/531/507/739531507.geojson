@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.110663,38.764444,-77.110663,38.764444",
     "geom:latitude":38.764444,
     "geom:longitude":-77.110663,
@@ -37,6 +38,7 @@
         85633793,
         101729749,
         102084863,
+        85853453,
         85823299
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461909003,
-    "wof:geomhash":"720229b823600ec613624905fb2ad481",
+    "wof:geomhash":"bf1bae11dbcc5bfa2b1337a7912d0679",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729749,
+            "neighbourhood_id":85853453,
+            "region_id":85688747,
+            "venue_id":739531507
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":739531507,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492038360,
     "wof:name":"Whitaker Security Inc",
-    "wof:parent_id":85823299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

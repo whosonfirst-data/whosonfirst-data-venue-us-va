@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.478334,38.422264,-77.478334,38.422264",
     "geom:latitude":38.422264,
     "geom:longitude":-77.478334,
@@ -31,17 +32,26 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IsvnXK0uevogkUPgbemYg_38.422264_-77.478334@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897961,
-    "wof:geomhash":"b88081ffd4946ab00fdf60c76109aec6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de5a003815db753a0d680daf7ee0d38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":723242755
+        }
+    ],
     "wof:id":723242755,
-    "wof:lastmodified":1472651698,
+    "wof:lastmodified":1492049140,
     "wof:name":"Treb of Fredericksburg",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

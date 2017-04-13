@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.157406,38.911311,-77.157406,38.911311",
     "geom:latitude":38.911311,
     "geom:longitude":-77.157406,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T8SjcW6w3SU101kWtgnS7_38.911311_-77.157406@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899732,
-    "wof:geomhash":"78361a3544f718adf8bc328acf4dc884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ea042a0bf93ff8c06506a02c213d7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":723336009
+        }
+    ],
     "wof:id":723336009,
-    "wof:lastmodified":1472651874,
+    "wof:lastmodified":1492058230,
     "wof:name":"Imagefed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

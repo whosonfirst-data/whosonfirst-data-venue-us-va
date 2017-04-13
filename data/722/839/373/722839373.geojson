@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.392982,37.096762,-76.392982,37.096762",
     "geom:latitude":37.096762,
     "geom:longitude":-76.392982,
@@ -32,17 +33,32 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T18Bf5e18emMd5NDrAxtC_37.096762_-76.392982@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889618,
-    "wof:geomhash":"410e385b1957d10b5b2f8f469c45488e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59f23a8db4ec77fb649c8ba29f80879d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722839373
+        }
+    ],
     "wof:id":722839373,
-    "wof:lastmodified":1472651947,
+    "wof:lastmodified":1492065308,
     "wof:name":"Galaxy Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

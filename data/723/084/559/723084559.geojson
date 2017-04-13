@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.461892,38.466562,-77.461892,38.466562",
     "geom:latitude":38.466562,
     "geom:longitude":-77.461892,
@@ -31,17 +32,26 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oV6aJcheUkjqBnIuTU7iE_38.466562_-77.461892@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894804,
-    "wof:geomhash":"c50b6ce143ce315b6b95f619c46a76e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28c1e2fc158af82958b5f157c3a9f7f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547127,
+            "venue_id":723084559
+        }
+    ],
     "wof:id":723084559,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492049069,
     "wof:name":"Repair Guy",
     "wof:parent_id":420547127,
     "wof:placetype":"venue",

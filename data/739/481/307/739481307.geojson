@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735242,37.321814,-76.735242,37.321814",
     "geom:latitude":37.321814,
     "geom:longitude":-76.735242,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53B4fuJEHxroqUC3f12tif_37.321814_-76.735242@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908094,
-    "wof:geomhash":"29edab58959bde3b9c1baaa4d32d85fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b39374a9fc88138165b169ddf1d8fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739481307
+        }
+    ],
     "wof:id":739481307,
-    "wof:lastmodified":1472651628,
+    "wof:lastmodified":1492037913,
     "wof:name":"Custom Plumbing & Installation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

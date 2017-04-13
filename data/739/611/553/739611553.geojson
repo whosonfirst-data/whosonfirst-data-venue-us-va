@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394263,39.007425,-77.394263,39.007425",
     "geom:latitude":39.007425,
     "geom:longitude":-77.394263,
@@ -39,7 +40,13 @@
     ],
     "sg:website":"http://www.kidsunderconstruction.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Er2OR01Sg25w7GVuvyhhP_39.007425_-77.394263@1303262496"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461910630,
     "wof:geomhash":"e5290351dd34e53b49bf690fb46f4ca5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739611553
+        }
+    ],
     "wof:id":739611553,
-    "wof:lastmodified":1472651968,
+    "wof:lastmodified":1492029470,
     "wof:name":"Kids Under Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

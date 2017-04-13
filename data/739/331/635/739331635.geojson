@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.913499,37.405558,-79.913499,37.405558",
     "geom:latitude":37.405558,
     "geom:longitude":-79.913499,
@@ -31,17 +32,32 @@
         "casualty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XmHT0rGskMSBwmDswzIsZ_37.405558_-79.913499@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905209,
-    "wof:geomhash":"cd3272442c51112eab7de5c5336906fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9117e7e817953ddde5b911290e27439a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":739331635
+        }
+    ],
     "wof:id":739331635,
-    "wof:lastmodified":1472651291,
+    "wof:lastmodified":1492043112,
     "wof:name":"Rockingham Mutual Insurance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

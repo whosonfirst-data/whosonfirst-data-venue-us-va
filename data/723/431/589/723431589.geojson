@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.810183,37.333285,-80.810183,37.333285",
     "geom:latitude":37.333285,
     "geom:longitude":-80.810183,
@@ -31,17 +32,32 @@
         "rail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728849,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jFkT42oqlE333isAp6dqB_37.333285_-80.810183@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901596,
-    "wof:geomhash":"78906be07f13f6fc8db0db618a1b1f2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc8dfad4370ecb6effa353d0fabe72f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728849,
+            "region_id":85688747,
+            "venue_id":723431589
+        }
+    ],
     "wof:id":723431589,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492051706,
     "wof:name":"Norfolk Southern Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

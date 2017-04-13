@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.843497,38.43235,-78.843497,38.43235",
     "geom:latitude":38.43235,
     "geom:longitude":-78.843497,
@@ -33,17 +34,32 @@
         "burning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fcJtl6cn6AMoNTkpyxs2A_38.432350_-78.843497@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897330,
-    "wof:geomhash":"724105e70728afb061e0d21643e67609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca5669f2472616c0ea2ae33763d5efd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723213187
+        }
+    ],
     "wof:id":723213187,
-    "wof:lastmodified":1472651609,
+    "wof:lastmodified":1492051671,
     "wof:name":"Acme Stove Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

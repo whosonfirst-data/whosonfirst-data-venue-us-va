@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.183534,38.878964,-77.183534,38.878964",
     "geom:latitude":38.878964,
     "geom:longitude":-77.183534,
@@ -31,19 +32,36 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728685,
+        102081047,
+        85823119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XO2E41Z8qRfzGFaxHRjlb_38.878964_-77.183534@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895349,
-    "wof:geomhash":"ff57c2d22f6f3884f272d67fea71d99c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fce785c3ba8b15112308fc4b68251fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081047,
+            "locality_id":101728685,
+            "neighbourhood_id":85823119,
+            "region_id":85688747,
+            "venue_id":723111481
+        }
+    ],
     "wof:id":723111481,
-    "wof:lastmodified":1472651350,
+    "wof:lastmodified":1492060735,
     "wof:name":"Harrison Property Mgmt LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

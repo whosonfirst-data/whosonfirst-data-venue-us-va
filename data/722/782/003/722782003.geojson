@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.365659,37.797889,-76.365659,37.797889",
     "geom:latitude":37.797889,
     "geom:longitude":-76.365659,
@@ -31,17 +32,30 @@
         "dock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00wWCRWX2UnEENZIMl1DRk_37.797889_-76.365659@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888542,
-    "wof:geomhash":"f4b01fb21ba10572d2ac75774184bad4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de09fb5cc5da3b6525e46b6ebc4cadf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":722782003
+        }
+    ],
     "wof:id":722782003,
-    "wof:lastmodified":1472651724,
+    "wof:lastmodified":1492067045,
     "wof:name":"Dock Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

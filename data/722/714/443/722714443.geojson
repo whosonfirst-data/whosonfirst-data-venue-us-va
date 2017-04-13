@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422005,38.273341,-77.422005,38.273341",
     "geom:latitude":38.273341,
     "geom:longitude":-77.422005,
@@ -32,17 +33,26 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MKmGXJDYueBgef1Om6AAz_38.273341_-77.422005@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887242,
-    "wof:geomhash":"7f76551a32d63800cae83ddc828d653a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01886fe1bb5b584c903a720a58a121b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547267,
+            "venue_id":722714443
+        }
+    ],
     "wof:id":722714443,
-    "wof:lastmodified":1472651574,
+    "wof:lastmodified":1492073819,
     "wof:name":"Jackie's Gift & Thrift Shop",
     "wof:parent_id":420547267,
     "wof:placetype":"venue",

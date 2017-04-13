@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.9776,37.263611,-79.9776,37.263611",
     "geom:latitude":37.263611,
     "geom:longitude":-79.9776,
@@ -32,7 +33,13 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XeNXrWpfyortP0XjxrzhS_37.263611_-79.977600@1303262552"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913316,
     "wof:geomhash":"6a53fb7e12e17dc82a4395d18d978069",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735755
+        }
+    ],
     "wof:id":739735755,
-    "wof:lastmodified":1472652267,
+    "wof:lastmodified":1492032047,
     "wof:name":"Rakes Insurance Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

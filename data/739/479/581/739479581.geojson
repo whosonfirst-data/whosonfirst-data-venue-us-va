@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.539245,37.629261,-77.539245,37.629261",
     "geom:latitude":37.629261,
     "geom:longitude":-77.539245,
@@ -33,7 +34,12 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4csjjjnrkTNLNcM7oKX2EE_37.629261_-77.539245@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908064,
     "wof:geomhash":"4693d2d674f01c9dddb95a5299d17a1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739479581
+        }
+    ],
     "wof:id":739479581,
-    "wof:lastmodified":1472651641,
+    "wof:lastmodified":1492030578,
     "wof:name":"George Belovuss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

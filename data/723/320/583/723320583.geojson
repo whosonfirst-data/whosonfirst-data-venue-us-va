@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564337,37.603939,-77.564337,37.603939",
     "geom:latitude":37.603939,
     "geom:longitude":-77.564337,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H9hhvR8kdfv8VflO4FJBk_37.603939_-77.564337@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899459,
-    "wof:geomhash":"ea94f167adb2d57440a33dbf32063e00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fcd6800f347904084c4c4c5b7428a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723320583
+        }
+    ],
     "wof:id":723320583,
-    "wof:lastmodified":1472651801,
+    "wof:lastmodified":1492052962,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

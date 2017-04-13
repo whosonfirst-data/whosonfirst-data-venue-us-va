@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.890594,37.001454,-79.890594,37.001454",
     "geom:latitude":37.001454,
     "geom:longitude":-79.890594,
@@ -32,17 +33,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_584Kuc5nlUaMPDEioNeIsR_37.001454_-79.890594@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901270,
-    "wof:geomhash":"9fc8d6ab565d076feb6eb3cb16928626",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aad92eb8ac1d1c0307aaff440d48dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":723415147
+        }
+    ],
     "wof:id":723415147,
-    "wof:lastmodified":1472652179,
+    "wof:lastmodified":1492056899,
     "wof:name":"Hub Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

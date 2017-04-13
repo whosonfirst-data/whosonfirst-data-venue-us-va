@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.183428,36.5936,-82.183428,36.5936",
     "geom:latitude":36.5936,
     "geom:longitude":-82.183428,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OlEJh8OT8p9X2aX3hA9Ju_36.593600_-82.183428@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883821,
-    "wof:geomhash":"6bb058b9a20cbbb108666ade0cbd73fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d517c8deaad110d66c876e6bcffb798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":722541045
+        }
+    ],
     "wof:id":722541045,
-    "wof:lastmodified":1472651070,
+    "wof:lastmodified":1492074421,
     "wof:name":"DIRECTV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

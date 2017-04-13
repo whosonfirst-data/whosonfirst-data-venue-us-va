@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.396459,37.085479,-76.396459,37.085479",
     "geom:latitude":37.085479,
     "geom:longitude":-76.396459,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xNm83zRXQiavRiU1kwFXA_37.085479_-76.396459@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888248,
-    "wof:geomhash":"1fddb7315d1397d617d7d5db45b7cac9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"765d58c7b739471888e99bd3854dad68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722766745
+        }
+    ],
     "wof:id":722766745,
-    "wof:lastmodified":1472651812,
+    "wof:lastmodified":1492070932,
     "wof:name":"Tradewinds Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.99284,36.711005,-81.99284,36.711005",
     "geom:latitude":36.711005,
     "geom:longitude":-81.99284,
@@ -36,17 +37,26 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vCVdD8SZxD1vkkdd1dIHR_36.711005_-81.992840@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913454,
-    "wof:geomhash":"64e0eeeb04db51edc0903b28c1b07217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ad1ba18a3d657ba0f67be9ed3c816ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739741045
+        }
+    ],
     "wof:id":739741045,
-    "wof:lastmodified":1472652221,
+    "wof:lastmodified":1492044520,
     "wof:name":"Abingdon Orthopedic Associates PC",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.477504,38.75275,-77.477504,38.75275",
     "geom:latitude":38.75275,
     "geom:longitude":-77.477504,
@@ -32,19 +33,36 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053,
+        85821347
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59V0tQMW3AkAd3ZwdSSdNV_38.752750_-77.477504@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889377,
-    "wof:geomhash":"2c50d52e359ff25afa505ce75138090d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca619c0323d48c9d09499fe95d4dcd49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "neighbourhood_id":85821347,
+            "region_id":85688747,
+            "venue_id":722826111
+        }
+    ],
     "wof:id":722826111,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492071717,
     "wof:name":"Azais Consulting Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

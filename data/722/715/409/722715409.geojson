@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.713387,37.333075,-76.713387,37.333075",
     "geom:latitude":37.333075,
     "geom:longitude":-76.713387,
@@ -32,19 +33,28 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w8RKpMJwAWqCOd6K3EFaN_37.333075_-76.713387@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887260,
-    "wof:geomhash":"08b1ce7b0058361fad1145cde5b23473",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51bad57ce5be999e8dfe5e56020e4092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":722715409
+        }
+    ],
     "wof:id":722715409,
-    "wof:lastmodified":1472651571,
+    "wof:lastmodified":1492064492,
     "wof:name":"Andico",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

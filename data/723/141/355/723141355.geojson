@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.485617,39.063705,-77.485617,39.063705",
     "geom:latitude":39.063705,
     "geom:longitude":-77.485617,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729443,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hSCoTPrAfN8EwCqU3EYpC_39.063705_-77.485617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895924,
-    "wof:geomhash":"112bfa6dffa305f54237a7fb603052df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f42d340f7607d3ca3c627c11087b7ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729443,
+            "region_id":85688747,
+            "venue_id":723141355
+        }
+    ],
     "wof:id":723141355,
-    "wof:lastmodified":1472651393,
+    "wof:lastmodified":1492057688,
     "wof:name":"Metrolec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

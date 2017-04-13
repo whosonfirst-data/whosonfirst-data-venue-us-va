@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.936432,37.136494,-78.936432,37.136494",
     "geom:latitude":37.136494,
     "geom:longitude":-78.936432,
@@ -26,7 +27,12 @@
         "tobacco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Y7hHj1LZakQChnHyo5Snd_37.136494_-78.936432@1294252573"
@@ -34,9 +40,17 @@
     "wof:country":"US",
     "wof:created":1461909945,
     "wof:geomhash":"3be37e7cfa9987fd6454bdc4dd6dc95c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":739577145
+        }
+    ],
     "wof:id":739577145,
-    "wof:lastmodified":1472651918,
+    "wof:lastmodified":1492033258,
     "wof:name":"Cobbs Hall Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

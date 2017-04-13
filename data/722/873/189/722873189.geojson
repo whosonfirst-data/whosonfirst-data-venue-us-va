@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.896125,37.191644,-76.896125,37.191644",
     "geom:latitude":37.191644,
     "geom:longitude":-76.896125,
@@ -37,17 +38,26 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cV9kghyOtzXPJZXBMtS1Z_37.191644_-76.896125@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890259,
-    "wof:geomhash":"09b745f9c98e6ff539a0b160bdc7ef40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08381dd0a759b2ac837c79e4a184bcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722873189
+        }
+    ],
     "wof:id":722873189,
-    "wof:lastmodified":1472651994,
+    "wof:lastmodified":1492067430,
     "wof:name":"Eastover Retreat Center",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

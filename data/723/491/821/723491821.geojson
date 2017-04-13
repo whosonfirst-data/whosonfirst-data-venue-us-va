@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.731361,36.769212,-80.731361,36.769212",
     "geom:latitude":36.769212,
     "geom:longitude":-80.731361,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73Ai9m95E5fyLEmw8NHKpc_36.769212_-80.731361@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902777,
-    "wof:geomhash":"4c2a46f02c925d9d1949056a2aa6ed77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073d7635dbcc346f617e2c1e8f9adf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":723491821
+        }
+    ],
     "wof:id":723491821,
-    "wof:lastmodified":1472652353,
+    "wof:lastmodified":1492061212,
     "wof:name":"Montgomery Autocare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

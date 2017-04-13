@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.194955,38.854769,-77.194955,38.854769",
     "geom:latitude":38.854769,
     "geom:longitude":-77.194955,
@@ -35,9 +36,12 @@
         85688747,
         102191575,
         85633793,
-        101729723,
+        101729757,
         102084863,
-        85853389
+        420546683,
+        101729723,
+        85853389,
+        85858861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +55,34 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084863,
+            "locality_id":101729757,
+            "neighbourhood_id":420546683,
+            "region_id":85688747,
+            "venue_id":739274567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
             "locality_id":101729723,
             "neighbourhood_id":85853389,
+            "region_id":85688747,
+            "venue_id":739274567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "neighbourhood_id":85858861,
             "region_id":85688747,
             "venue_id":739274567
         }
     ],
     "wof:id":739274567,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492029575,
     "wof:name":"Behavior System Integrators",
-    "wof:parent_id":85853389,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

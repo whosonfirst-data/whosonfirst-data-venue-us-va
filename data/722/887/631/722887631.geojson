@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.470004,38.461011,-77.470004,38.461011",
     "geom:latitude":38.461011,
     "geom:longitude":-77.470004,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gpLrc666lsV5Z4hyLKx6S_38.461011_-77.470004@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890534,
-    "wof:geomhash":"6ddc39549d9e57e470d9876ff0786b5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4123bc25994db933930cee8c372ea7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":722887631
+        }
+    ],
     "wof:id":722887631,
-    "wof:lastmodified":1472652054,
+    "wof:lastmodified":1492069736,
     "wof:name":"Parker Adult Care Home",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

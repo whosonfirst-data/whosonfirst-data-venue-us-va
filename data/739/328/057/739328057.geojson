@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.047156,36.69849,-82.047156,36.69849",
     "geom:latitude":36.69849,
     "geom:longitude":-82.047156,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24pmWabOQXHlBDeoiisy1U_36.698490_-82.047156@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905138,
-    "wof:geomhash":"0b2dbb64d04171428ed1825098434aa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e609af4555c7c6b1ef07cfff8f86f65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739328057
+        }
+    ],
     "wof:id":739328057,
-    "wof:lastmodified":1472651252,
+    "wof:lastmodified":1492040940,
     "wof:name":"Sealking of Va Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

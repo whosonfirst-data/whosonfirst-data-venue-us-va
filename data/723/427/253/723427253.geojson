@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.308764,38.371238,-77.308764,38.371238",
     "geom:latitude":38.371238,
     "geom:longitude":-77.308764,
@@ -32,17 +33,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xkn24pJrzO3CdQjbSmQAl_38.371238_-77.308764@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901521,
-    "wof:geomhash":"b62c737a3ff5b9f45e2853eea5e55392",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ceedc395c059c268059a4c5bbb323c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547129,
+            "venue_id":723427253
+        }
+    ],
     "wof:id":723427253,
-    "wof:lastmodified":1472652231,
+    "wof:lastmodified":1492052642,
     "wof:name":"Deadeye Software",
     "wof:parent_id":420547129,
     "wof:placetype":"venue",

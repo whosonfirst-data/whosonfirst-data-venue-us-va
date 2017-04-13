@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518304,38.399868,-77.518304,38.399868",
     "geom:latitude":38.399868,
     "geom:longitude":-77.518304,
@@ -31,7 +32,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jyO2OUPkpOduIG5nRKbnD_38.399868_-77.518304@1303262546"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912403,
     "wof:geomhash":"3bea7ffe61c2c05238f0e7d94f541510",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":739693169
+        }
+    ],
     "wof:id":739693169,
-    "wof:lastmodified":1472652170,
+    "wof:lastmodified":1492031379,
     "wof:name":"Forum Group, The",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

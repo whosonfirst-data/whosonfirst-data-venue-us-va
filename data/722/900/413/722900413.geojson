@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.257498,37.487811,-78.257498,37.487811",
     "geom:latitude":37.487811,
     "geom:longitude":-78.257498,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729589,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XjwbptXWOjI1xAw74DL1w_37.487811_-78.257498@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890799,
-    "wof:geomhash":"99e6c9b175985babef8ab892c5a2947a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70663fc584c391b1d806f933ea971231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "locality_id":101729589,
+            "region_id":85688747,
+            "venue_id":722900413
+        }
+    ],
     "wof:id":722900413,
-    "wof:lastmodified":1472652067,
+    "wof:lastmodified":1492068857,
     "wof:name":"Cumberland Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

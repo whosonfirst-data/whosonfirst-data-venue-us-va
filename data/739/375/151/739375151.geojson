@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.015534,36.763432,-76.015534,36.763432",
     "geom:latitude":36.763432,
     "geom:longitude":-76.015534,
@@ -37,7 +38,8 @@
         85633793,
         101728745,
         102081929,
-        85858669
+        85858669,
+        85836985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,21 @@
             "neighbourhood_id":85858669,
             "region_id":85688747,
             "venue_id":739375151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85836985,
+            "region_id":85688747,
+            "venue_id":739375151
         }
     ],
     "wof:id":739375151,
-    "wof:lastmodified":1472651336,
+    "wof:lastmodified":1492030838,
     "wof:name":"Jones & Santos Family",
-    "wof:parent_id":85858669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

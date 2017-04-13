@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41324,38.97751,-77.41324,38.97751",
     "geom:latitude":38.97751,
     "geom:longitude":-77.41324,
@@ -47,7 +48,13 @@
     ],
     "sg:website":"http://ad.doubleclick.net/clk;221862232;45455595;j?http://www.carquest.com/carquest/store_locator.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729441,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xHWZdWOpDRk2ncD66Q64U_38.977510_-77.413240@1303262496"
@@ -55,9 +62,18 @@
     "wof:country":"US",
     "wof:created":1461910648,
     "wof:geomhash":"0d093ce125b46b46434d5c1ec4a141e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729441,
+            "region_id":85688747,
+            "venue_id":739612437
+        }
+    ],
     "wof:id":739612437,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492030199,
     "wof:name":"CARQUEST Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

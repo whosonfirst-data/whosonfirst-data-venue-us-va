@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.8681,37.78151,-78.8681,37.78151",
     "geom:latitude":37.78151,
     "geom:longitude":-78.8681,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77uSW9PXpWuERMKEqud0lX_37.781510_-78.868100@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899052,
-    "wof:geomhash":"270e021e737cc7bbc429be6e39a02daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98b47f4816d47dbfaae30b68e7bf599f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":723299389
+        }
+    ],
     "wof:id":723299389,
-    "wof:lastmodified":1472651766,
+    "wof:lastmodified":1492051049,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.39241,37.304155,-78.39241,37.304155",
     "geom:latitude":37.304155,
     "geom:longitude":-78.39241,
@@ -38,17 +39,32 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GetxI6sQtJuRzoL1ms0S9_37.304155_-78.392410@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895900,
-    "wof:geomhash":"2113e06a44ad02eaf1c8773f6a010c3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd26b31f991a64ade1cbd69590a8627c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723139941
+        }
+    ],
     "wof:id":723139941,
-    "wof:lastmodified":1472651406,
+    "wof:lastmodified":1492048543,
     "wof:name":"Central Virginia Cabinet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

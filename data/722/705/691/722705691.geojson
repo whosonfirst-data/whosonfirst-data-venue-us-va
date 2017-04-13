@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.408376,38.323689,-77.408376,38.323689",
     "geom:latitude":38.323689,
     "geom:longitude":-77.408376,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tmk6gMPNBRtKC1LZO3iuN_38.323689_-77.408376@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887072,
-    "wof:geomhash":"f96ae47d8bee0110022141dc3e017f31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56c57dd6488d887be955eafd464b2206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":722705691
+        }
+    ],
     "wof:id":722705691,
-    "wof:lastmodified":1472651587,
+    "wof:lastmodified":1492063429,
     "wof:name":"J&J Fencing Inc",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

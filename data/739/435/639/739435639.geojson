@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.531467,36.616902,-77.531467,36.616902",
     "geom:latitude":36.616902,
     "geom:longitude":-77.531467,
@@ -33,7 +34,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58VAGegFoG0kD1kfuubctc_36.616902_-77.531467@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907273,
     "wof:geomhash":"501c17cd77f9f71594bbdb12260ac63a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":739435639
+        }
+    ],
     "wof:id":739435639,
-    "wof:lastmodified":1472651538,
+    "wof:lastmodified":1492029402,
     "wof:name":"Ligon Trucking LLC J Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

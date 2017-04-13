@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.334498,37.393422,-77.334498,37.393422",
     "geom:latitude":37.393422,
     "geom:longitude":-77.334498,
@@ -29,17 +30,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L2Q3oT6N6CCVvvf22RILi_37.393422_-77.334498@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909733,
-    "wof:geomhash":"1c993e6d2db3e7bdf92e15e91f8f3c0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c92a0da96068629577cf2927b0ff9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739567977
+        }
+    ],
     "wof:id":739567977,
-    "wof:lastmodified":1472651915,
+    "wof:lastmodified":1492045270,
     "wof:name":"Louis Aigner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

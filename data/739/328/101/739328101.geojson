@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.534703,37.596049,-77.534703,37.596049",
     "geom:latitude":37.596049,
     "geom:longitude":-77.534703,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BDxnaWDKxRQeiymf23Oo6_37.596049_-77.534703@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905139,
-    "wof:geomhash":"c0c0feadb426a0203226fd86388f6882",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b43682e5b0ca2106bb9a4858b3c6e4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739328101
+        }
+    ],
     "wof:id":739328101,
-    "wof:lastmodified":1472651251,
+    "wof:lastmodified":1492040916,
     "wof:name":"Bridge The Gap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901946,38.658719,-78.901946,38.658719",
     "geom:latitude":38.658719,
     "geom:longitude":-78.901946,
@@ -32,17 +33,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fYRXTzDeZ6FysYbPzII9g_38.658719_-78.901946@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904107,
-    "wof:geomhash":"d52785193206ef4aedb6b60fa293b1d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57c7a99cad9e63794cc81b770065ea5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085949,
+            "region_id":85688747,
+            "venue_id":739278201
+        }
+    ],
     "wof:id":739278201,
-    "wof:lastmodified":1472651142,
+    "wof:lastmodified":1492040367,
     "wof:name":"Heavner Homestead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.963157,36.647049,-81.963157,36.647049",
     "geom:latitude":36.647049,
     "geom:longitude":-81.963157,
@@ -51,17 +52,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hwi2VPdcWLtRyTjLqSDyY_36.647049_-81.963157@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913455,
-    "wof:geomhash":"2c9a3e884bcdb1906866ca6876e02142",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb2c67d265891c28a00753313a51ea22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739741115
+        }
+    ],
     "wof:id":739741115,
-    "wof:lastmodified":1472652232,
+    "wof:lastmodified":1492044517,
     "wof:name":"Owens Landscaping",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

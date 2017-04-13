@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.997768,36.70416,-81.997768,36.70416",
     "geom:latitude":36.70416,
     "geom:longitude":-81.997768,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SFcf22nBJ8PYsJZokI9Zy_36.704160_-81.997768@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895641,
-    "wof:geomhash":"36baf7429c3bce8f8cd808c94efbe4de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"252b0286eb8310d73e158b96591841be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723126821
+        }
+    ],
     "wof:id":723126821,
-    "wof:lastmodified":1472651399,
+    "wof:lastmodified":1492058114,
     "wof:name":"Jones Retirement Manor",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

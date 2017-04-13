@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.416743,38.291745,-77.416743,38.291745",
     "geom:latitude":38.291745,
     "geom:longitude":-77.416743,
@@ -28,17 +29,26 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rtCi9mPEEVduZVD9vZgas_38.291745_-77.416743@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893206,
-    "wof:geomhash":"36f27ced57a54be3c18a525817c59cca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a559ccf88a809564244f67baec72cf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":723013241
+        }
+    ],
     "wof:id":723013241,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492054068,
     "wof:name":"John Hancock",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

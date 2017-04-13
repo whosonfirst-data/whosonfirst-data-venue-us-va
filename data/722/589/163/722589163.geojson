@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.564465,38.154924,-78.564465,38.154924",
     "geom:latitude":38.154924,
     "geom:longitude":-78.564465,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729629,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3olWgtB3aK7QrAU8uGlWq0_38.154924_-78.564465@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884779,
-    "wof:geomhash":"4b43e1c8c1f89f95f33adb2c9702ceba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6489e1ea978b24a35fd7a40b1f284e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729629,
+            "region_id":85688747,
+            "venue_id":722589163
+        }
+    ],
     "wof:id":722589163,
-    "wof:lastmodified":1472651218,
+    "wof:lastmodified":1492071535,
     "wof:name":"Bruce Campbell MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

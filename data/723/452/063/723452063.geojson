@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755552,37.270882,-76.755552,37.270882",
     "geom:latitude":37.270882,
     "geom:longitude":-76.755552,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.rubytuesday.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39TpWrqEzVNDsMjG7auPRs_37.270882_-76.755552@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901978,
-    "wof:geomhash":"6922c28b6a7ef8407eaba833834797bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8212976d4ce98133d383bc8a754f191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":723452063
+        }
+    ],
     "wof:id":723452063,
-    "wof:lastmodified":1472652280,
+    "wof:lastmodified":1492052227,
     "wof:name":"Ruby Tuesday",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

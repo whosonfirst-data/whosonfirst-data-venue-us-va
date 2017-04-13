@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.889146,37.301854,-79.889146,37.301854",
     "geom:latitude":37.301854,
     "geom:longitude":-79.889146,
@@ -32,17 +33,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2auFH1sU67Xwzu0Ge5TpwQ_37.301854_-79.889146@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890677,
-    "wof:geomhash":"f4a081c96c0362a4c980f2a5376d03f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b81062e53bfe0866ccbef4d106c4a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722894729
+        }
+    ],
     "wof:id":722894729,
-    "wof:lastmodified":1472652083,
+    "wof:lastmodified":1492075134,
     "wof:name":"Christian Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

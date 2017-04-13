@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.920233,38.287741,-78.920233,38.287741",
     "geom:latitude":38.287741,
     "geom:longitude":-78.920233,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729663,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aIFRWRmVhRIOGIi9xWhxy_38.287741_-78.920233@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892974,
-    "wof:geomhash":"0e02a08a55456442a14719691f52c50c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0665b49de54e2765ed0368d70d53100c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729663,
+            "region_id":85688747,
+            "venue_id":723002503
+        }
+    ],
     "wof:id":723002503,
-    "wof:lastmodified":1472651079,
+    "wof:lastmodified":1492051928,
     "wof:name":"Van's Garage & Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

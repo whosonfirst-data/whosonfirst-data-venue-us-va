@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.261936,37.45048,-79.261936,37.45048",
     "geom:latitude":37.45048,
     "geom:longitude":-79.261936,
@@ -33,17 +34,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Xlv2cBlX27I3dc95sTGbw_37.450480_-79.261936@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900559,
-    "wof:geomhash":"131665d99305ec37deba213cd6c006f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86e533b77d888e6d52eb2e10893eec3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723378459
+        }
+    ],
     "wof:id":723378459,
-    "wof:lastmodified":1472652096,
+    "wof:lastmodified":1492053941,
     "wof:name":"Mitchells",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

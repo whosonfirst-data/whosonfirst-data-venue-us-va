@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.349445,37.511629,-77.349445,37.511629",
     "geom:latitude":37.511629,
     "geom:longitude":-77.349445,
@@ -28,17 +29,32 @@
     "sg:postcode":"23231",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1urXnlTmBzHWPNH4ZyWikZ_37.511629_-77.349445@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904695,
-    "wof:geomhash":"308ea8cf47858f2237bb2464c69f5636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f4d3097d2064ec73724604bfbe65b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739305843
+        }
+    ],
     "wof:id":739305843,
-    "wof:lastmodified":1472651232,
+    "wof:lastmodified":1492044231,
     "wof:name":"Andy's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

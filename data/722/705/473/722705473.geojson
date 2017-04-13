@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.745045,38.344922,-77.745045,38.344922",
     "geom:latitude":38.344922,
     "geom:longitude":-77.745045,
@@ -33,17 +34,32 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729697,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76BCJAyQ8cUGGu63tHaCi5_38.344922_-77.745045@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887069,
-    "wof:geomhash":"7acf3a51fb4682c2a3f6f8bff0f50cb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ddda32c0e0aac4a22933670d3387970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "locality_id":101729697,
+            "region_id":85688747,
+            "venue_id":722705473
+        }
+    ],
     "wof:id":722705473,
-    "wof:lastmodified":1472651578,
+    "wof:lastmodified":1492063421,
     "wof:name":"Bridge To Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.870953,36.690473,-79.870953,36.690473",
     "geom:latitude":36.690473,
     "geom:longitude":-79.870953,
@@ -33,17 +34,32 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zyDL2egjjSdmDpD48LMc0_36.690473_-79.870953@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902478,
-    "wof:geomhash":"2168ca7abd353ed3b73a91dd23601cdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67472bcd4729a3782aa600bc4dec6163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723477147
+        }
+    ],
     "wof:id":723477147,
-    "wof:lastmodified":1472652298,
+    "wof:lastmodified":1492057839,
     "wof:name":"Mountain Park Spring Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617238,37.70207,-77.617238,37.70207",
     "geom:latitude":37.70207,
     "geom:longitude":-77.617238,
@@ -28,17 +29,32 @@
     "sg:postcode":"23059",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729379,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BnlEI868MGScU2EEIPRM7_37.702070_-77.617238@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902536,
-    "wof:geomhash":"8ff265834ad054f582b9178fc24c3810",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff3f757109908da3b6aa394050612c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729379,
+            "region_id":85688747,
+            "venue_id":723479785
+        }
+    ],
     "wof:id":723479785,
-    "wof:lastmodified":1472652316,
+    "wof:lastmodified":1492048772,
     "wof:name":"Wright Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

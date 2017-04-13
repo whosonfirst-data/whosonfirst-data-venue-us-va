@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.553044,37.601482,-77.553044,37.601482",
     "geom:latitude":37.601482,
     "geom:longitude":-77.553044,
@@ -31,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Av5cMqUcKKTUW9yjHFDya_37.601482_-77.553044@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904215,
     "wof:geomhash":"a2e099780dd0b6e011b7d406aeea035f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739282789
+        }
+    ],
     "wof:id":739282789,
-    "wof:lastmodified":1472651176,
+    "wof:lastmodified":1492031899,
     "wof:name":"Able & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

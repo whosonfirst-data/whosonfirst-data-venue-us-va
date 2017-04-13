@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.187699,36.595109,-82.187699,36.595109",
     "geom:latitude":36.595109,
     "geom:longitude":-82.187699,
@@ -31,19 +32,36 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728659,
+        102084925,
+        85827531
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FrfhSbWliGi0uvlaI9EIx_36.595109_-82.187699@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893778,
-    "wof:geomhash":"e5027e7b5e77e2a3fe2d05e7a8473fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bc22573c18012a4bdd4272b5a4fad42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":85827531,
+            "region_id":85688747,
+            "venue_id":723038461
+        }
+    ],
     "wof:id":723038461,
-    "wof:lastmodified":1472651171,
+    "wof:lastmodified":1492060719,
     "wof:name":"George W Mcree",
-    "wof:parent_id":-1,
+    "wof:parent_id":85827531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

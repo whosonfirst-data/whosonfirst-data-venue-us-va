@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497762,39.065358,-77.497762,39.065358",
     "geom:latitude":39.065358,
     "geom:longitude":-77.497762,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729443,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gIvpm7c6WUDza3sZpALRG_39.065358_-77.497762@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892494,
-    "wof:geomhash":"25eb6ceb89fdabaed95337ef4b7a230e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c294b0e46459cd7a3821bb46f58cc85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729443,
+            "region_id":85688747,
+            "venue_id":722982243
+        }
+    ],
     "wof:id":722982243,
-    "wof:lastmodified":1472652331,
+    "wof:lastmodified":1492074480,
     "wof:name":"Fiber Talk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

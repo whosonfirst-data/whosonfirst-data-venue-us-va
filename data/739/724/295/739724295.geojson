@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.596054,37.506891,-77.596054,37.506891",
     "geom:latitude":37.506891,
     "geom:longitude":-77.596054,
@@ -38,7 +39,13 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sW9c7q9298xBsYurlktgh_37.506891_-77.596054@1303262550"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461913079,
     "wof:geomhash":"3af8d955514b8a1d127bb0152326f892",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739724295
+        }
+    ],
     "wof:id":739724295,
-    "wof:lastmodified":1472652224,
+    "wof:lastmodified":1492030955,
     "wof:name":"Virginia Business Advisory Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

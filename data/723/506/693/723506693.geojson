@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.018909,36.757587,-82.018909,36.757587",
     "geom:latitude":36.757587,
     "geom:longitude":-82.018909,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lg0gw6cnyONiX55GLHu3M_36.757587_-82.018909@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903107,
-    "wof:geomhash":"4cfa169570627c7e3b1d7e8da7769c7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b342bdcc618b1a5ce4f20216badbfae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723506693
+        }
+    ],
     "wof:id":723506693,
-    "wof:lastmodified":1472652357,
+    "wof:lastmodified":1492051423,
     "wof:name":"Moran Construction",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

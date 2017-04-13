@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.390366,37.915153,-76.390366,37.915153",
     "geom:latitude":37.915153,
     "geom:longitude":-76.390366,
@@ -33,7 +34,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xbdxa4NVjE9uuU0KQEjj2_37.915153_-76.390366@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912422,
     "wof:geomhash":"2abb585cff844bed2aa3a46493aff8de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694147
+        }
+    ],
     "wof:id":739694147,
-    "wof:lastmodified":1472652158,
+    "wof:lastmodified":1492030248,
     "wof:name":"Assured Comfort, Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

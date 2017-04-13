@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429225,38.311127,-77.429225,38.311127",
     "geom:latitude":38.311127,
     "geom:longitude":-77.429225,
@@ -33,19 +34,40 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241,
+        420547245,
+        420547187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MS6yYuJZuVfSlJX5Qwiys_38.311127_-77.429225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899836,
-    "wof:geomhash":"00d178f74f04cd3c8f259003e047f97c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"842479cecc7deedf6f64fe4cb29e2523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723341501
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":723341501
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547187,
+            "venue_id":723341501
+        }
+    ],
     "wof:id":723341501,
-    "wof:lastmodified":1472651955,
+    "wof:lastmodified":1492051109,
     "wof:name":"A & B Professionals Inc",
-    "wof:parent_id":420547241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

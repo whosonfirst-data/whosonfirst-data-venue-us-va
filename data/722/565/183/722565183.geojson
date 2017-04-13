@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549914,37.137032,-76.549914,37.137032",
     "geom:latitude":37.137032,
     "geom:longitude":-76.549914,
@@ -34,19 +35,36 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        420548063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lkg1vyFkAp2chLgS4tXrL_37.137032_-76.549914@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884318,
-    "wof:geomhash":"11bf1282f1de6be74895bb1b632bbba7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cfe19476b61f1b4f83b5be03d509415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548063,
+            "region_id":85688747,
+            "venue_id":722565183
+        }
+    ],
     "wof:id":722565183,
-    "wof:lastmodified":1472651103,
+    "wof:lastmodified":1492066076,
     "wof:name":"Denbigh Body & Painting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

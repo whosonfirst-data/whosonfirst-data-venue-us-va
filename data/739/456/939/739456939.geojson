@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.185609,36.660286,-82.185609,36.660286",
     "geom:latitude":36.660286,
     "geom:longitude":-82.185609,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_111JkSt1rn8VT77prqavbi_36.660286_-82.185609@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907660,
     "wof:geomhash":"5e08340d0ba14fd8f1f040d45f2990b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087301,
+            "region_id":85688747,
+            "venue_id":739456939
+        }
+    ],
     "wof:id":739456939,
-    "wof:lastmodified":1472651596,
+    "wof:lastmodified":1492033048,
     "wof:name":"Bristol Electric Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

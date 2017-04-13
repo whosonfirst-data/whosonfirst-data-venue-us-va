@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.903429,37.684799,-78.903429,37.684799",
     "geom:latitude":37.684799,
     "geom:longitude":-78.903429,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729163,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mESmqnlCGprkZXWd7jyvl_37.684799_-78.903429@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904143,
-    "wof:geomhash":"a16f9d609d6900f25cfd5b672ccda094",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c53cb5c286322163a4b7b30bfadb22e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "locality_id":101729163,
+            "region_id":85688747,
+            "venue_id":739280045
+        }
+    ],
     "wof:id":739280045,
-    "wof:lastmodified":1472651137,
+    "wof:lastmodified":1492038937,
     "wof:name":"Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

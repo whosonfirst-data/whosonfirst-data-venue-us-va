@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.308608,38.824108,-77.308608,38.824108",
     "geom:latitude":38.824108,
     "geom:longitude":-77.308608,
@@ -31,17 +32,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jdeJJhQn8KMiWAlsgJ3e5_38.824108_-77.308608@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902197,
-    "wof:geomhash":"df5b8ab6f3d719b2d12ecdc2ea752648",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1ec4740c89cb045e564d336251399b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":723463431
+        }
+    ],
     "wof:id":723463431,
-    "wof:lastmodified":1472652298,
+    "wof:lastmodified":1492056392,
     "wof:name":"Rsg PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.592252,38.854069,-77.592252,38.854069",
     "geom:latitude":38.854069,
     "geom:longitude":-77.592252,
@@ -32,7 +33,12 @@
         "writing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sBXLEpPVLW7xHA7DYUagi_38.854069_-77.592252@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461903518,
     "wof:geomhash":"4b7f9bb8c90ca845fb316897e4195294",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739251345
+        }
+    ],
     "wof:id":739251345,
-    "wof:lastmodified":1472651076,
+    "wof:lastmodified":1492029820,
     "wof:name":"Sharon Carayainnis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

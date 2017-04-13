@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.397489,38.450277,-77.397489,38.450277",
     "geom:latitude":38.450277,
     "geom:longitude":-77.397489,
@@ -34,8 +35,8 @@
         85633793,
         101729335,
         102081931,
-        85865415,
-        420547163
+        420547163,
+        85865415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461892965,
-    "wof:geomhash":"8169efa7aad1c233b4abeb721d584918",
+    "wof:geomhash":"8965a51f4afc030aeb6b9b344114ac17",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081931,
-            "locality_id":101729335,
-            "neighbourhood_id":85865415,
-            "region_id":85688747,
-            "venue_id":723002291
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":420547163,
             "region_id":85688747,
             "venue_id":723002291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729335,
+            "neighbourhood_id":85865415,
+            "region_id":85688747,
+            "venue_id":723002291
         }
     ],
     "wof:id":723002291,
-    "wof:lastmodified":1472651075,
+    "wof:lastmodified":1492051936,
     "wof:name":"G I A Financials Incorporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

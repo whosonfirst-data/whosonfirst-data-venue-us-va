@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.040807,36.620379,-82.040807,36.620379",
     "geom:latitude":36.620379,
     "geom:longitude":-82.040807,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oGy1hyPpakOR7ArsOH1s2_36.620379_-82.040807@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909368,
-    "wof:geomhash":"0feb46c7f95c656bfc8cee7245681092",
-    "wof:hierarchy":[],
+    "wof:geomhash":"339c253c406481568f2b716f4cd81abe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739550715
+        }
+    ],
     "wof:id":739550715,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492038713,
     "wof:name":"Cleveland Presbyterian Church",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

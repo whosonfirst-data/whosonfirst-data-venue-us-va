@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.706215,37.525298,-77.706215,37.525298",
     "geom:latitude":37.525298,
     "geom:longitude":-77.706215,
@@ -33,17 +34,30 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_596pijLLt3RJOVodvqnPUG_37.525298_-77.706215@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899191,
-    "wof:geomhash":"40165a310506a6b22a4db1126ed89c3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d62deb5952c88480c2f92c71ca03fac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":723305945
+        }
+    ],
     "wof:id":723305945,
-    "wof:lastmodified":1472651834,
+    "wof:lastmodified":1492059367,
     "wof:name":"Interior Planners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

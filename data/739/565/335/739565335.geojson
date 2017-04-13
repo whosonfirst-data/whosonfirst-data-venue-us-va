@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471096,38.459841,-77.471096,38.459841",
     "geom:latitude":38.459841,
     "geom:longitude":-77.471096,
@@ -34,7 +35,10 @@
         "preschool"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KbHlN2PB8R4iBllzGuG1E_38.459915_-77.471093@1293134755"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461909670,
     "wof:geomhash":"c8eaab5bf34b8fbb78e7b02a37c6578a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":739565335
+        }
+    ],
     "wof:id":739565335,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492032769,
     "wof:name":"Red Apple Preschool Summit",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

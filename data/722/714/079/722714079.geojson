@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.332991,37.224255,-77.332991,37.224255",
     "geom:latitude":37.224255,
     "geom:longitude":-77.332991,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729471,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tWryvGadPBmp2qzzGYPQt_37.224255_-77.332991@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887236,
-    "wof:geomhash":"47c54f2cfce64b6d23bb2c1aa8898ed6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f2b1f28793f8bbadbff5293bcd8680c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "locality_id":101729471,
+            "region_id":85688747,
+            "venue_id":722714079
+        }
+    ],
     "wof:id":722714079,
-    "wof:lastmodified":1472651560,
+    "wof:lastmodified":1492073814,
     "wof:name":"USA ISS Dcl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

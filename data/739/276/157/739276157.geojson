@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.925357,37.304353,-79.925357,37.304353",
     "geom:latitude":37.304353,
     "geom:longitude":-79.925357,
@@ -33,17 +34,32 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c6l0JbOXLa1nfY9nZJ8ET_37.304353_-79.925357@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904062,
-    "wof:geomhash":"c9cd0c34f31497da9862a397dca39527",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cda1934b14a5e2a97240af5b2553db73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739276157
+        }
+    ],
     "wof:id":739276157,
-    "wof:lastmodified":1472651143,
+    "wof:lastmodified":1492039752,
     "wof:name":"Blue Ridge Behavioral Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

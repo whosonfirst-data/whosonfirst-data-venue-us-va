@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.792414,37.240903,-76.792414,37.240903",
     "geom:latitude":37.240903,
     "geom:longitude":-76.792414,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2H5xOlWsqHcrQe7ppFkBfA_37.240903_-76.792414@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896126,
-    "wof:geomhash":"c38b52d49c39f9545ff3bb3d04cc1c77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cb7077feaac5dd14bed4a019f7836ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546785,
+            "venue_id":723151681
+        }
+    ],
     "wof:id":723151681,
-    "wof:lastmodified":1472651417,
+    "wof:lastmodified":1492050423,
     "wof:name":"TCI",
     "wof:parent_id":420546785,
     "wof:placetype":"venue",

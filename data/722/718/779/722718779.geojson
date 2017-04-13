@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.006956,36.618583,-82.006956,36.618583",
     "geom:latitude":36.618583,
     "geom:longitude":-82.006956,
@@ -32,17 +33,26 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xTFt7ClwZQuFBMmkl9kBb_36.618583_-82.006956@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887318,
-    "wof:geomhash":"00b64a60bf10e437afe3f1ada29e4f98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e61843cb16283617b1087265ed21508a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722718779
+        }
+    ],
     "wof:id":722718779,
-    "wof:lastmodified":1472651596,
+    "wof:lastmodified":1492074155,
     "wof:name":"Marcas Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

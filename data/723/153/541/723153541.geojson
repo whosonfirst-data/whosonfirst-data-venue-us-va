@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.497687,37.992069,-76.497687,37.992069",
     "geom:latitude":37.992069,
     "geom:longitude":-76.497687,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MXuRDTbAUD4X3gn363uGN_37.992069_-76.497687@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896164,
-    "wof:geomhash":"13607c3bc5a804b5c177dfce23dd36a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d744bdaf5575dd47d31cf4675bdbd3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":723153541
+        }
+    ],
     "wof:id":723153541,
-    "wof:lastmodified":1472651416,
+    "wof:lastmodified":1492048853,
     "wof:name":"Northern Neck Refuse Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

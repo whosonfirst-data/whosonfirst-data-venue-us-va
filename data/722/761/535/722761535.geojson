@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.947383,38.067652,-78.947383,38.067652",
     "geom:latitude":38.067652,
     "geom:longitude":-78.947383,
@@ -35,17 +36,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IgOf0Q7rOpyqv2z8Sc3LD_38.067652_-78.947383@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888153,
-    "wof:geomhash":"baa08c521ce54a342904152e53d89738",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbd3e2e78d027b852d0cb570ccb39601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722761535
+        }
+    ],
     "wof:id":722761535,
-    "wof:lastmodified":1472651790,
+    "wof:lastmodified":1492074734,
     "wof:name":"Morgan Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

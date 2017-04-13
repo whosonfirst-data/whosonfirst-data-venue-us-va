@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436865,38.315515,-77.436865,38.315515",
     "geom:latitude":38.315515,
     "geom:longitude":-77.436865,
@@ -32,17 +33,26 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Rb45hr4S8JyTsZQ7yvEj4_38.315515_-77.436865@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896956,
-    "wof:geomhash":"d59098f4e0dde6d0eeecae12e0ec6824",
-    "wof:hierarchy":[],
+    "wof:geomhash":"818367725d7ee4ba31330922044421d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":723194053
+        }
+    ],
     "wof:id":723194053,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492056798,
     "wof:name":"Downtown Properties",
     "wof:parent_id":420547245,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.665703,37.705339,-77.665703,37.705339",
     "geom:latitude":37.705339,
     "geom:longitude":-77.665703,
@@ -41,17 +42,30 @@
         "driveway"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hAK2XTrumMQDY6c53ToEY_37.705339_-77.665703@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912811,
-    "wof:geomhash":"b50a6df8de31a737c830a06ecc309094",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a194cda2962daf6664447f2b9b9030c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739711549
+        }
+    ],
     "wof:id":739711549,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492044993,
     "wof:name":"River City Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

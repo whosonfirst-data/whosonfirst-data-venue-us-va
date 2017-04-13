@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.177667,38.849078,-77.177667,38.849078",
     "geom:latitude":38.849078,
     "geom:longitude":-77.177667,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729759,
+        101729723,
         102084863,
+        85853389,
+        101729759,
         85805665
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907099,
-    "wof:geomhash":"9818e02e4abf667f6dc0a586c9f7167e",
+    "wof:geomhash":"85dbac6e6a26bb7648b1fc4d0c26efcf",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729723,
+            "neighbourhood_id":85853389,
+            "region_id":85688747,
+            "venue_id":739426449
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":739426449,
-    "wof:lastmodified":1472651512,
+    "wof:lastmodified":1492046670,
     "wof:name":"Nu Tchnlgs Crp",
-    "wof:parent_id":85805665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

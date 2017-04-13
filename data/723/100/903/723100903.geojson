@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.286009,37.305009,-77.286009,37.305009",
     "geom:latitude":37.305009,
     "geom:longitude":-77.286009,
@@ -32,17 +33,32 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728945,
+        102087267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gVnpYtNu7qWWcYNRVkgd6_37.305009_-77.286009@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895142,
-    "wof:geomhash":"e0e861a83eb34a236c93a3306d3a7148",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3ff7019facbe84589683617f25a7dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087267,
+            "locality_id":101728945,
+            "region_id":85688747,
+            "venue_id":723100903
+        }
+    ],
     "wof:id":723100903,
-    "wof:lastmodified":1472651305,
+    "wof:lastmodified":1492052344,
     "wof:name":"Virginia Dept Social Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

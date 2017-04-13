@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.392822,36.846182,-76.392822,36.846182",
     "geom:latitude":36.846182,
     "geom:longitude":-76.392822,
@@ -32,17 +33,32 @@
         "booking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hxee3b0CUBWkOpG2nNcDo_36.846182_-76.392822@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905800,
-    "wof:geomhash":"7e04bd8dbfa19cd624419eb34b1ebc68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90714d5e432b7b5ff409f956253f8182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739359109
+        }
+    ],
     "wof:id":739359109,
-    "wof:lastmodified":1472651324,
+    "wof:lastmodified":1492037619,
     "wof:name":"MA & PA Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

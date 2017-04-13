@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564309,37.535873,-77.564309,37.535873",
     "geom:latitude":37.535873,
     "geom:longitude":-77.564309,
@@ -36,7 +37,13 @@
     ],
     "sg:website":"http://www.grinfixer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44J3E4BDxFo8QClbJf7jIn_37.535873_-77.564309@1303262550"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461913075,
     "wof:geomhash":"e4707bb52e8b6588b0b1ac1083c889ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739724057
+        }
+    ],
     "wof:id":739724057,
-    "wof:lastmodified":1472652216,
+    "wof:lastmodified":1492030964,
     "wof:name":"Steadman Robert B Dentist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.655968,37.44744,-77.655968,37.44744",
     "geom:latitude":37.44744,
     "geom:longitude":-77.655968,
@@ -36,17 +37,32 @@
         "pro"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08vSKNFm8D40kIxrabdriV_37.447440_-77.655968@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890593,
-    "wof:geomhash":"5db5f42c5ad16cb72f96602e08b74c33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af55fe150c595667d82dccef3a06fb15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722890627
+        }
+    ],
     "wof:id":722890627,
-    "wof:lastmodified":1472652066,
+    "wof:lastmodified":1492067823,
     "wof:name":"Superior Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.130088,38.7628,-77.130088,38.7628",
     "geom:latitude":38.7628,
     "geom:longitude":-77.130088,
@@ -36,8 +37,10 @@
         85688747,
         102191575,
         85633793,
-        101729841,
+        101729739,
         102084863,
+        85824359,
+        101729841,
         85823327
     ],
     "wof:breaches":[],
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461891034,
-    "wof:geomhash":"08fcfcb33f42ffb2b16e7cc10c76b58a",
+    "wof:geomhash":"7f2f5b8e377510a88cd8beb353a19980",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729739,
+            "neighbourhood_id":85824359,
+            "region_id":85688747,
+            "venue_id":722912419
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +71,9 @@
         }
     ],
     "wof:id":722912419,
-    "wof:lastmodified":1472652120,
+    "wof:lastmodified":1492063621,
     "wof:name":"Thomas J Shedlick & Associates",
-    "wof:parent_id":85823327,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

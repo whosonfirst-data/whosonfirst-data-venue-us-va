@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.005828,36.700631,-82.005828,36.700631",
     "geom:latitude":36.700631,
     "geom:longitude":-82.005828,
@@ -32,17 +33,26 @@
         "labor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w9xejeXn62aQomhBO9J9d_36.700631_-82.005828@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888701,
-    "wof:geomhash":"3768e9180111640508d493227aa4918a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0ed7ff529e10ee77436a7d6afa0c5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722790509
+        }
+    ],
     "wof:id":722790509,
-    "wof:lastmodified":1472651804,
+    "wof:lastmodified":1492075324,
     "wof:name":"Abingdon Field Office",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

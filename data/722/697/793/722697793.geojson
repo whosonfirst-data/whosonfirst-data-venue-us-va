@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.43176,37.236591,-80.43176,37.236591",
     "geom:latitude":37.236591,
     "geom:longitude":-80.43176,
@@ -38,8 +39,8 @@
         85633793,
         101728705,
         102087271,
-        85853185,
-        85851119
+        85851119,
+        85853185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461886930,
-    "wof:geomhash":"3564d77118e55ef0579d2dc0a73f8698",
+    "wof:geomhash":"e239f2fd954b3ff417394353b77484a4",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087271,
-            "locality_id":101728705,
-            "neighbourhood_id":85853185,
-            "region_id":85688747,
-            "venue_id":722697793
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +58,21 @@
             "neighbourhood_id":85851119,
             "region_id":85688747,
             "venue_id":722697793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728705,
+            "neighbourhood_id":85853185,
+            "region_id":85688747,
+            "venue_id":722697793
         }
     ],
     "wof:id":722697793,
-    "wof:lastmodified":1472651587,
+    "wof:lastmodified":1492072666,
     "wof:name":"United States Pony Clubs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.206103,36.841465,-76.206103,36.841465",
     "geom:latitude":36.841465,
     "geom:longitude":-76.206103,
@@ -34,19 +35,36 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935,
+        420548181
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_383FrC97dshmDLQiyXmS3u_36.841465_-76.206103@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891009,
-    "wof:geomhash":"29083ac69e1286b671b1cd2edaf17d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1263bb57bbfbe01a6381d81a122b509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420548181,
+            "region_id":85688747,
+            "venue_id":722911013
+        }
+    ],
     "wof:id":722911013,
-    "wof:lastmodified":1472652099,
+    "wof:lastmodified":1492071290,
     "wof:name":"Colonial Welding & Fabrication",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

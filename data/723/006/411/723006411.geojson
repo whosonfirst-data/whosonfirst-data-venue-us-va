@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436048,38.353884,-77.436048,38.353884",
     "geom:latitude":38.353884,
     "geom:longitude":-77.436048,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XnZYUSnpgSfHYBZjJDU6G_38.353884_-77.436048@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893071,
-    "wof:geomhash":"940d94e49ba78380669f469ed2152909",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c530667a71fa9d7801f729f2d4b335c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":723006411
+        }
+    ],
     "wof:id":723006411,
-    "wof:lastmodified":1472651085,
+    "wof:lastmodified":1492052510,
     "wof:name":"KV Restorations",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

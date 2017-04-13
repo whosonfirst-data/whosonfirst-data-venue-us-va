@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.395006,37.099263,-76.395006,37.099263",
     "geom:latitude":37.099263,
     "geom:longitude":-76.395006,
@@ -34,17 +35,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29jEOD1uHR9QtEJ7XCNalR_37.099263_-76.395006@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898887,
-    "wof:geomhash":"f1bccb454afd0628e3de9106d3683c04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78c34611a456aac4726679abb8f49479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":723290675
+        }
+    ],
     "wof:id":723290675,
-    "wof:lastmodified":1472651818,
+    "wof:lastmodified":1492051282,
     "wof:name":"St George Brewing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

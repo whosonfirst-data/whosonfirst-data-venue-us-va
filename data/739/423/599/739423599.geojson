@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.685095,37.328906,-79.685095,37.328906",
     "geom:latitude":37.328906,
     "geom:longitude":-79.685095,
@@ -32,7 +33,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IOGY5vIMjiiioAOonW1Uu_37.328906_-79.685095@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907038,
     "wof:geomhash":"9f53e5b024add99c63c9f954113b6b3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739423599
+        }
+    ],
     "wof:id":739423599,
-    "wof:lastmodified":1472651526,
+    "wof:lastmodified":1492032131,
     "wof:name":"J R W Trucking Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

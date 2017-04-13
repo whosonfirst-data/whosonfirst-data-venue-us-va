@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.398456,36.992931,-76.398456,36.992931",
     "geom:latitude":36.992931,
     "geom:longitude":-76.398456,
@@ -31,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qeMWOXZu7hJdMgWJuAItq_36.992931_-76.398456@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907569,
     "wof:geomhash":"7147cfd7b2fbc72ea8685aa446a699d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739451489
+        }
+    ],
     "wof:id":739451489,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492031160,
     "wof:name":"Sporting Styles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

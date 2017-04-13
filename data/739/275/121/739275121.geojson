@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.52825,36.971815,-80.52825,36.971815",
     "geom:latitude":36.971815,
     "geom:longitude":-80.52825,
@@ -31,7 +32,12 @@
         "sandblasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dsWbUXJLxPUfYqIeQ6q5W_36.971815_-80.528250@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904035,
     "wof:geomhash":"6686f38e2ffeebbe1aeabc71e9cf8073",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739275121
+        }
+    ],
     "wof:id":739275121,
-    "wof:lastmodified":1472651138,
+    "wof:lastmodified":1492031059,
     "wof:name":"Marshall's Sandblasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

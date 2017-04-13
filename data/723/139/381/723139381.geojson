@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.253441,36.879073,-76.253441,36.879073",
     "geom:latitude":36.879073,
     "geom:longitude":-76.253441,
@@ -43,8 +44,8 @@
         85633793,
         101728769,
         102085935,
-        85879273,
-        420560197
+        420560197,
+        85879273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +53,8 @@
     },
     "wof:country":"US",
     "wof:created":1461895889,
-    "wof:geomhash":"d81ecb7792985312ee8c2930566a87ed",
+    "wof:geomhash":"da9418f5755eff83755f170e44285297",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085935,
-            "locality_id":101728769,
-            "neighbourhood_id":85879273,
-            "region_id":85688747,
-            "venue_id":723139381
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +63,21 @@
             "neighbourhood_id":420560197,
             "region_id":85688747,
             "venue_id":723139381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85879273,
+            "region_id":85688747,
+            "venue_id":723139381
         }
     ],
     "wof:id":723139381,
-    "wof:lastmodified":1472651384,
+    "wof:lastmodified":1492048550,
     "wof:name":"Quality Stamp Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

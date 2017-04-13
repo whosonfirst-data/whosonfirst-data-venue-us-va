@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441784,37.453731,-77.441784,37.453731",
     "geom:latitude":37.453731,
     "geom:longitude":-77.441784,
@@ -28,17 +29,32 @@
     "sg:postcode":"23234",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZJn2JHHJCeSineDk2ZbzS_37.453731_-77.441784@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887582,
-    "wof:geomhash":"08342add375b334751444f9a52340af7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cf37c2341cc2ab165814882a02b4240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":722731985
+        }
+    ],
     "wof:id":722731985,
-    "wof:lastmodified":1472651655,
+    "wof:lastmodified":1492064037,
     "wof:name":"Patrick's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

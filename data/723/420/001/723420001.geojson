@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.711229,37.974913,-78.711229,37.974913",
     "geom:latitude":37.974913,
     "geom:longitude":-78.711229,
@@ -32,17 +33,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kkoqVlGTRrYnf7iijOVk7_37.974913_-78.711229@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901357,
-    "wof:geomhash":"1cafd0b42801c1edb694dbf1a0de3b43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"861cf40824c93ee38286ff63dfa7379a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":723420001
+        }
+    ],
     "wof:id":723420001,
-    "wof:lastmodified":1472652216,
+    "wof:lastmodified":1492050439,
     "wof:name":"ISF Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

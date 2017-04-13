@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434512,38.309846,-77.434512,38.309846",
     "geom:latitude":38.309846,
     "geom:longitude":-77.434512,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dQe7Jej78d6eUBJ8kqMOw_38.309846_-77.434512@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884366,
-    "wof:geomhash":"8b52c63d2940ab5138c66237189d3bac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"192eda5b22282a92ddbb5fcfc2196ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":722567407
+        }
+    ],
     "wof:id":722567407,
-    "wof:lastmodified":1472651131,
+    "wof:lastmodified":1492074025,
     "wof:name":"Mary Lou's Place",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

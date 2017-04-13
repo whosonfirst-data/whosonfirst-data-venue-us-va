@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.395358,37.176902,-76.395358,37.176902",
     "geom:latitude":37.176902,
     "geom:longitude":-76.395358,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39iuD9XmbSq3cFkzwR08DE_37.176902_-76.395358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899415,
-    "wof:geomhash":"8ed0429a0cde0fedb46315abdf2f040e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a13ab9fe5cfc7a28f62cc68d128c3117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723318019
+        }
+    ],
     "wof:id":723318019,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492060158,
     "wof:name":"J D Hammond Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

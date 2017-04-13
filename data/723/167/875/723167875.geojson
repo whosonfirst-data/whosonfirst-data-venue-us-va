@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.062578,36.698716,-82.062578,36.698716",
     "geom:latitude":36.698716,
     "geom:longitude":-82.062578,
@@ -31,17 +32,26 @@
         "guide"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46ZYdSUOmzwAJ4gbtDKtBd_36.698716_-82.062578@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896440,
-    "wof:geomhash":"dad4b4e9c4ce281e78e78b7bcda3933f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f3af960072cf9eb33cc402fd0c39f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723167875
+        }
+    ],
     "wof:id":723167875,
-    "wof:lastmodified":1472651476,
+    "wof:lastmodified":1492048304,
     "wof:name":"Appalacian Trout Farm",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

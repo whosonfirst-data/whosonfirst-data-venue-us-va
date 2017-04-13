@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.638126,37.052155,-78.638126,37.052155",
     "geom:latitude":37.052155,
     "geom:longitude":-78.638126,
@@ -31,17 +32,32 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728805,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oypyVgaR19qPnygrYzemF_37.052155_-78.638126@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897704,
-    "wof:geomhash":"bd4622d48f95d04a9a58d821a752afef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2d293fb66d3e5b6bcfc1d7fe7f45bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "locality_id":101728805,
+            "region_id":85688747,
+            "venue_id":723230083
+        }
+    ],
     "wof:id":723230083,
-    "wof:lastmodified":1472651625,
+    "wof:lastmodified":1492053117,
     "wof:name":"Charlotte Sheriff's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

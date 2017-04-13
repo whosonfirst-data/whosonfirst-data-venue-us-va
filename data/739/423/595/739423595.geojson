@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.55414,36.601603,-78.55414,36.601603",
     "geom:latitude":36.601603,
     "geom:longitude":-78.55414,
@@ -31,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VoUWPgyh9y2WUL43pwMRq_36.601603_-78.554140@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907038,
     "wof:geomhash":"0ff814f87df8059b05e0a5ac53eb92c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739423595
+        }
+    ],
     "wof:id":739423595,
-    "wof:lastmodified":1472651526,
+    "wof:lastmodified":1492032148,
     "wof:name":"LCAI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

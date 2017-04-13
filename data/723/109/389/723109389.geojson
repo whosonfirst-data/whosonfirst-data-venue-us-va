@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358819,38.311989,-77.358819,38.311989",
     "geom:latitude":38.311989,
     "geom:longitude":-77.358819,
@@ -34,17 +35,26 @@
         "hosting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m19s9kvnyyP051qtcUhdW_38.311989_-77.358819@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895301,
-    "wof:geomhash":"005e97bb13b6d30ebc55ddc9114685b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f6cc55f00390cd395e30dcfa274fbfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":723109389
+        }
+    ],
     "wof:id":723109389,
-    "wof:lastmodified":1472651346,
+    "wof:lastmodified":1492059227,
     "wof:name":"Geometeric Solutions",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.983808,36.705832,-81.983808,36.705832",
     "geom:latitude":36.705832,
     "geom:longitude":-81.983808,
@@ -32,17 +33,26 @@
         "concrete"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24Tn9KjlV8Swfm4M9w0VMC_36.705832_-81.983808@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893475,
-    "wof:geomhash":"d446063a2a2f619f0735584155d470cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1887a1040a2ba5b252c61a322aad497d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723024339
+        }
+    ],
     "wof:id":723024339,
-    "wof:lastmodified":1472651140,
+    "wof:lastmodified":1492061966,
     "wof:name":"Bristol Ready Mix Concrete",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

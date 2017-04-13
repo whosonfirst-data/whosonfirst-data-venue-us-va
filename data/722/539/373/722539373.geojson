@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.500958,37.255104,-76.500958,37.255104",
     "geom:latitude":37.255104,
     "geom:longitude":-76.500958,
@@ -28,17 +29,32 @@
     "sg:postcode":"23062",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WQeUusNvR96Sl28PbN4SC_37.255104_-76.500958@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883791,
-    "wof:geomhash":"3c94f9030993d6087df39ccbe32426b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdd7d31ad26c1cb387b73da680a676ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":722539373
+        }
+    ],
     "wof:id":722539373,
-    "wof:lastmodified":1472651074,
+    "wof:lastmodified":1492070593,
     "wof:name":"Go Tools Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

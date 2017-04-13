@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.865638,36.560534,-77.865638,36.560534",
     "geom:latitude":36.560534,
     "geom:longitude":-77.865638,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729391,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2epwvhLY2yohFLqh84E6rG_36.560534_-77.865638@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891491,
-    "wof:geomhash":"49124c0cef4e358c6a09ea7906c2f07f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc1cf24ac8069eb18a4076b02e3a25ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "locality_id":101729391,
+            "region_id":85688747,
+            "venue_id":722934103
+        }
+    ],
     "wof:id":722934103,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492069160,
     "wof:name":"ROD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

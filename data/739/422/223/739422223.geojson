@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445682,37.437534,-77.445682,37.437534",
     "geom:latitude":37.437534,
     "geom:longitude":-77.445682,
@@ -31,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YTIakaqqIXzrEfFu1uFMo_37.437534_-77.445682@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907013,
     "wof:geomhash":"5e9e1255740811ef2a55ef2353ef8d1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":739422223
+        }
+    ],
     "wof:id":739422223,
-    "wof:lastmodified":1472651501,
+    "wof:lastmodified":1492031225,
     "wof:name":"J E Coe Painting & Gen Cntrctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

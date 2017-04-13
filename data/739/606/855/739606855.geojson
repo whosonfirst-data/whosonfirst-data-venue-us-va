@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.483527,39.045163,-77.483527,39.045163",
     "geom:latitude":39.045163,
     "geom:longitude":-77.483527,
@@ -52,17 +53,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RfgK2MwprOqWktVxh1szR_39.045163_-77.483527@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910541,
-    "wof:geomhash":"b192d634b87e46f3f0774984bda21c53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8613ecd2b5633e31933ffe7d999edbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739606855
+        }
+    ],
     "wof:id":739606855,
-    "wof:lastmodified":1472651974,
+    "wof:lastmodified":1492039044,
     "wof:name":"Ashburn Cab and Limo Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

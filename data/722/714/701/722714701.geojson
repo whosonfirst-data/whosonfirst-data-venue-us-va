@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763176,37.249801,-76.763176,37.249801",
     "geom:latitude":37.249801,
     "geom:longitude":-76.763176,
@@ -35,17 +36,26 @@
         "antenna"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x58U3DrBhs8PhnaAlQdOl_37.249801_-76.763176@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887246,
-    "wof:geomhash":"515aadf6f8e8bbc9c4bf5eecf33da264",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fc086e81deaaf2549fec3bb93f2e58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546913,
+            "venue_id":722714701
+        }
+    ],
     "wof:id":722714701,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492073831,
     "wof:name":"Cr Communications",
     "wof:parent_id":420546913,
     "wof:placetype":"venue",

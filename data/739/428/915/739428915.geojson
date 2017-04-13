@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.599714,37.49919,-77.599714,37.49919",
     "geom:latitude":37.49919,
     "geom:longitude":-77.599714,
@@ -32,7 +33,12 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_553mATnR6QyuBgERSD5jYu_37.499190_-77.599714@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907139,
     "wof:geomhash":"be100d4518e6e7e6fd33eaeb920f0c81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739428915
+        }
+    ],
     "wof:id":739428915,
-    "wof:lastmodified":1472651539,
+    "wof:lastmodified":1492030987,
     "wof:name":"P C Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

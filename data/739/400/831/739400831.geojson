@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.334478,39.028302,-78.334478,39.028302",
     "geom:latitude":39.028302,
     "geom:longitude":-78.334478,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lxVTIC5rbM3i43megrbCi_39.028302_-78.334478@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461906596,
     "wof:geomhash":"7ca4c6e76a5dca9834e5d0ee93305cfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739400831
+        }
+    ],
     "wof:id":739400831,
-    "wof:lastmodified":1472651486,
+    "wof:lastmodified":1492032710,
     "wof:name":"Ed's Custom Woodworking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

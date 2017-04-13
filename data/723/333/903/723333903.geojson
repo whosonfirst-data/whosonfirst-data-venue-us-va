@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.169744,39.179429,-78.169744,39.179429",
     "geom:latitude":39.179429,
     "geom:longitude":-78.169744,
@@ -32,17 +33,32 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZAeld76NTdsq0debn60D7_39.179429_-78.169744@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899697,
-    "wof:geomhash":"acdd999021e3f7e4fb39cf811ccf1953",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17fe19572e5b8c4e38aa254209af4fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723333903
+        }
+    ],
     "wof:id":723333903,
-    "wof:lastmodified":1472651909,
+    "wof:lastmodified":1492057759,
     "wof:name":"Habitat For Humanity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

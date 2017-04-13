@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.396557,37.156331,-76.396557,37.156331",
     "geom:latitude":37.156331,
     "geom:longitude":-76.396557,
@@ -33,17 +34,26 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g9A778NOj107EA1iFpeZg_37.156331_-76.396557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886484,
-    "wof:geomhash":"85c6018d5bc6d5ee7f84bf8348f75bf5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16453d508f03f964d8b9918b8cdb39f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722674711
+        }
+    ],
     "wof:id":722674711,
-    "wof:lastmodified":1472651533,
+    "wof:lastmodified":1492065175,
     "wof:name":"Clear Water Well Drilling",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

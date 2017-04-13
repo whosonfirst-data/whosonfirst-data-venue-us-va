@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.428549,37.104755,-81.428549,37.104755",
     "geom:latitude":37.104755,
     "geom:longitude":-81.428549,
@@ -31,17 +32,30 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17GfiuZHXfLOmkGPTcWuLu_37.104755_-81.428549@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913504,
-    "wof:geomhash":"75d9e92921d1bf8e50b75874c548af8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073b3e0ab63a0b3e9a1c474e57e381eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081049,
+            "region_id":85688747,
+            "venue_id":739743475
+        }
+    ],
     "wof:id":739743475,
-    "wof:lastmodified":1472652249,
+    "wof:lastmodified":1492037959,
     "wof:name":"S-N-S Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

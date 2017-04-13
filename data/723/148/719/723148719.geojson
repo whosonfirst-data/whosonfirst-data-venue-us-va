@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.319139,38.850753,-77.319139,38.850753",
     "geom:latitude":38.850753,
     "geom:longitude":-77.319139,
@@ -35,9 +36,12 @@
         85688747,
         102191575,
         85633793,
+        101729825,
+        102084863,
+        85827657,
         101728653,
         102080645,
-        85827657
+        85818469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1461896074,
-    "wof:geomhash":"765536518f89c8311fff74a0afe618f2",
+    "wof:geomhash":"0561d9bf8ace0352d3e9df7ad81e623b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "neighbourhood_id":85827657,
+            "region_id":85688747,
+            "venue_id":723148719
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080645,
             "locality_id":101728653,
-            "neighbourhood_id":85827657,
+            "neighbourhood_id":85818469,
             "region_id":85688747,
             "venue_id":723148719
         }
     ],
     "wof:id":723148719,
-    "wof:lastmodified":1472651424,
+    "wof:lastmodified":1492053634,
     "wof:name":"W J K F",
-    "wof:parent_id":85827657,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

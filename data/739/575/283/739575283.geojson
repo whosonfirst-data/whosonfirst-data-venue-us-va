@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.533875,36.938663,-76.533875,36.938663",
     "geom:latitude":36.938663,
     "geom:longitude":-76.533875,
@@ -32,7 +33,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_772t8GVvGZGwxbgqx4T86B_36.938600_-76.533950@1293134755"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909898,
     "wof:geomhash":"cdc9e2882121126617a5e034e784a34c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739575283
+        }
+    ],
     "wof:id":739575283,
-    "wof:lastmodified":1472651918,
+    "wof:lastmodified":1492029839,
     "wof:name":"Village Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

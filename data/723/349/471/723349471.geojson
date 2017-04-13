@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.311486,37.481633,-78.311486,37.481633",
     "geom:latitude":37.481633,
     "geom:longitude":-78.311486,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51RTAHnMir4TBxao95RqqP_37.481633_-78.311486@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899985,
-    "wof:geomhash":"a29e3c9c27048f504b40eac6524e0124",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a9040befc0da4cc5dc862c64b5109ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "region_id":85688747,
+            "venue_id":723349471
+        }
+    ],
     "wof:id":723349471,
-    "wof:lastmodified":1472652009,
+    "wof:lastmodified":1492058077,
     "wof:name":"Peterson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

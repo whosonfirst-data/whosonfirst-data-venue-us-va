@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.406338,37.144264,-76.406338,37.144264",
     "geom:latitude":37.144264,
     "geom:longitude":-76.406338,
@@ -31,17 +32,26 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AFeB0mu5XhQ207U8MRo1F_37.144264_-76.406338@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895950,
-    "wof:geomhash":"aaad10e5a58830cb96c2670e305cd044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab925816cca833287a6479efac43c10e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723142659
+        }
+    ],
     "wof:id":723142659,
-    "wof:lastmodified":1472651422,
+    "wof:lastmodified":1492051064,
     "wof:name":"F & M Investors Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

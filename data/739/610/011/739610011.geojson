@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.613296,38.798415,-77.613296,38.798415",
     "geom:latitude":38.798415,
     "geom:longitude":-77.613296,
@@ -23,17 +24,32 @@
     "sg:province":"VA",
     "sg:website":"http://joesitalianrestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HKt3IWQTZf9JNPxU054J2_38.798415_-77.613296@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910602,
-    "wof:geomhash":"9c3f24fb113002826bda1bc94add12cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0811d5d7f8a26b3c966fe035a6bea733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739610011
+        }
+    ],
     "wof:id":739610011,
-    "wof:lastmodified":1472651932,
+    "wof:lastmodified":1492043816,
     "wof:name":"Joe's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.35184,37.933,-77.35184,37.933",
     "geom:latitude":37.933,
     "geom:longitude":-77.35184,
@@ -32,17 +33,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pAgqZw1jdoZgUgsUgsh4W_37.933000_-77.351840@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894616,
-    "wof:geomhash":"2075097f75bbfdf53c78aa4c9088957d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0db753761c2f55165142ed5ed6ead097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723076693
+        }
+    ],
     "wof:id":723076693,
-    "wof:lastmodified":1472651283,
+    "wof:lastmodified":1492056137,
     "wof:name":"Lone Star Post Structure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.685498,37.408868,-77.685498,37.408868",
     "geom:latitude":37.408868,
     "geom:longitude":-77.685498,
@@ -31,7 +32,13 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oe7XZGS3OvvJHR3WInYkk_37.408868_-77.685498@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906246,
     "wof:geomhash":"c949110b7f5d6b60c826ebe56d0197bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739382745
+        }
+    ],
     "wof:id":739382745,
-    "wof:lastmodified":1472651372,
+    "wof:lastmodified":1492030670,
     "wof:name":"Our Children Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.497164,37.275499,-76.497164,37.275499",
     "geom:latitude":37.275499,
     "geom:longitude":-76.497164,
@@ -32,7 +33,13 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WF86yjqnqlPAg7BEHhyCO_37.275499_-76.497164@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907019,
     "wof:geomhash":"85fa532735234ae3a12b0cb991413a70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739422611
+        }
+    ],
     "wof:id":739422611,
-    "wof:lastmodified":1472651520,
+    "wof:lastmodified":1492031201,
     "wof:name":"Merle Norman Cosmetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

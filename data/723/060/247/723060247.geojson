@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.736597,38.968662,-77.736597,38.968662",
     "geom:latitude":38.968662,
     "geom:longitude":-77.736597,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728817,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VGy9AWpH46M7AKK2rVG0J_38.968662_-77.736597@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894223,
-    "wof:geomhash":"5c7588ef2befc70b4e0c5d1810ef1651",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c534fd61d338a0650fec6dc6bd53d7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728817,
+            "region_id":85688747,
+            "venue_id":723060247
+        }
+    ],
     "wof:id":723060247,
-    "wof:lastmodified":1472651208,
+    "wof:lastmodified":1492056479,
     "wof:name":"Safeway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

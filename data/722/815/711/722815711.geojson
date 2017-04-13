@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400485,38.706075,-77.400485,38.706075",
     "geom:latitude":38.706075,
     "geom:longitude":-77.400485,
@@ -36,17 +37,30 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TCR9jrHMCa7foKXcE82Xl_38.706075_-77.400485@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889173,
-    "wof:geomhash":"21985dc8890620570adbbc13974214ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e801e3d8c277974ddf546a3f69f1f1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722815711
+        }
+    ],
     "wof:id":722815711,
-    "wof:lastmodified":1472651887,
+    "wof:lastmodified":1492069571,
     "wof:name":"Home Scope Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

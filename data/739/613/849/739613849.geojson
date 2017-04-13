@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.6413,38.814522,-77.6413,38.814522",
     "geom:latitude":38.814522,
     "geom:longitude":-77.6413,
@@ -32,7 +33,13 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aqFIaSZKMLGYdHBewgSMm_38.814522_-77.641300@1303262496"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910681,
     "wof:geomhash":"73c99c9510d10d3e24bcf879bf96c6d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613849
+        }
+    ],
     "wof:id":739613849,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492032447,
     "wof:name":"Young Chow Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

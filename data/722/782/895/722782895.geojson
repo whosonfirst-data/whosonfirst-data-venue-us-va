@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.45334,37.461691,-77.45334,37.461691",
     "geom:latitude":37.461691,
     "geom:longitude":-77.45334,
@@ -32,19 +33,36 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955,
+        85868223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X9DyZQCpNVDui3L4eIW3s_37.461691_-77.453340@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888561,
-    "wof:geomhash":"00ffa3bc6d073cafe0f9e6b3693a37a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52fcba1d0941b81e41df3e7e7811d882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "neighbourhood_id":85868223,
+            "region_id":85688747,
+            "venue_id":722782895
+        }
+    ],
     "wof:id":722782895,
-    "wof:lastmodified":1472651839,
+    "wof:lastmodified":1492067019,
     "wof:name":"Walmsley Boulevard United Meth",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

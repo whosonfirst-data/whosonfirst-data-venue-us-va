@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394189,39.011737,-77.394189,39.011737",
     "geom:latitude":39.011737,
     "geom:longitude":-77.394189,
@@ -31,7 +32,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vrRbQ4j5xcKWIiF9vsNFD_39.011737_-77.394189@1303262496"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910634,
     "wof:geomhash":"a69748e875c6e5fa7e830f3a5dc5a120",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739611779
+        }
+    ],
     "wof:id":739611779,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492029461,
     "wof:name":"Flt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

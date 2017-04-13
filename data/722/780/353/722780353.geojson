@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410247,37.277528,-77.410247,37.277528",
     "geom:latitude":37.277528,
     "geom:longitude":-77.410247,
@@ -33,17 +34,32 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728895,
+        102084911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43TVPeIBLbocj12CzomtP7_37.277528_-77.410247@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888505,
-    "wof:geomhash":"ce75be4e18a7d6091f4cf50d8767814b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a937fa227019e2f623f9c5b48d13e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084911,
+            "locality_id":101728895,
+            "region_id":85688747,
+            "venue_id":722780353
+        }
+    ],
     "wof:id":722780353,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492065489,
     "wof:name":"Turner & Son Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

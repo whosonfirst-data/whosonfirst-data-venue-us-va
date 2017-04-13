@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.598216,39.089078,-77.598216,39.089078",
     "geom:latitude":39.089078,
     "geom:longitude":-77.598216,
@@ -32,17 +33,32 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P9r7BifL79GTlc2XbLy6Y_39.089078_-77.598216@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901134,
-    "wof:geomhash":"8d4162c4bc25af9fd595d580b4c817ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5877c43aaec37690376b156ef055419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723408195
+        }
+    ],
     "wof:id":723408195,
-    "wof:lastmodified":1472652145,
+    "wof:lastmodified":1492048056,
     "wof:name":"Information Services Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

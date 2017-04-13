@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.444031,37.519588,-77.444031,37.519588",
     "geom:latitude":37.519588,
     "geom:longitude":-77.444031,
@@ -38,6 +39,7 @@
         85633793,
         101728675,
         102085959,
+        85850003,
         85880269
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896403,
-    "wof:geomhash":"74a95493a5c34308915d85e5ead3dfc8",
+    "wof:geomhash":"c789f66b67c81653aaae2c6573b02210",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85850003,
+            "region_id":85688747,
+            "venue_id":723165887
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723165887,
-    "wof:lastmodified":1472651485,
+    "wof:lastmodified":1492052738,
     "wof:name":"Housing Authority-Elderly Bldg",
-    "wof:parent_id":85880269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

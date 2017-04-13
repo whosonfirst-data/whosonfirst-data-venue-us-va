@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508742,39.02484,-77.508742,39.02484",
     "geom:latitude":39.02484,
     "geom:longitude":-77.508742,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yIMux7VmcCA7UdCA00lKz_39.024840_-77.508742@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886571,
-    "wof:geomhash":"1e180d7cb8f04ca248d84d2b70ba88e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bc92bfca64c6779fde98f3d12141c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":722679437
+        }
+    ],
     "wof:id":722679437,
-    "wof:lastmodified":1472651517,
+    "wof:lastmodified":1492066836,
     "wof:name":"American Cellular Mid Atlantic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

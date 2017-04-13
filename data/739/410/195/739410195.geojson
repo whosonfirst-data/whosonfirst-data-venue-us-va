@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.849884,38.429515,-78.849884,38.429515",
     "geom:latitude":38.429515,
     "geom:longitude":-78.849884,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.batteriesplus.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OsQFOiLjQLL34z9rKQ62E_38.429515_-78.849884@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461906769,
     "wof:geomhash":"a341e884252bab275b688ad0353b2190",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739410195
+        }
+    ],
     "wof:id":739410195,
-    "wof:lastmodified":1472651454,
+    "wof:lastmodified":1492032294,
     "wof:name":"Batteries Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

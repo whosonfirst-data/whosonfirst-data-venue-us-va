@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.058524,37.285863,-80.058524,37.285863",
     "geom:latitude":37.285863,
     "geom:longitude":-80.058524,
@@ -31,17 +32,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FfaugraHCIwBQmU0yTKWY_37.285835_-80.059008@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909857,
-    "wof:geomhash":"24deb8fcf77e14a89fc177ae19f0c464",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25c64cc4580fb1c9a8c4505a171d77c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739573121
+        }
+    ],
     "wof:id":739573121,
-    "wof:lastmodified":1472651874,
+    "wof:lastmodified":1492043975,
     "wof:name":"Stop In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.813093,37.436215,-76.813093,37.436215",
     "geom:latitude":37.436215,
     "geom:longitude":-76.813093,
@@ -32,7 +33,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546759
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DftoKLalCAYEBngsH5hqZ_37.436215_-76.813093@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904055,
     "wof:geomhash":"67a7df07c9b42c3a1efac8a074348b0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546759,
+            "venue_id":739275789
+        }
+    ],
     "wof:id":739275789,
-    "wof:lastmodified":1472651174,
+    "wof:lastmodified":1492031047,
     "wof:name":"Orchard Hill",
     "wof:parent_id":420546759,
     "wof:placetype":"venue",

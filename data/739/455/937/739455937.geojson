@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.106558,38.337142,-77.106558,38.337142",
     "geom:latitude":38.337142,
     "geom:longitude":-77.106558,
@@ -31,7 +32,12 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ahhnOXPxKgZafLepaGR9y_38.337142_-77.106558@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907644,
     "wof:geomhash":"0f08f75bea40cbe466d52e50fc34e3b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":739455937
+        }
+    ],
     "wof:id":739455937,
-    "wof:lastmodified":1472651593,
+    "wof:lastmodified":1492032958,
     "wof:name":"Sheltons Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

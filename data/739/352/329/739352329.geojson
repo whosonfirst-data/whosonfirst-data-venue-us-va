@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579535,38.332221,-77.579535,38.332221",
     "geom:latitude":38.332221,
     "geom:longitude":-77.579535,
@@ -28,19 +29,28 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s5aDcKUCZeE4qGmEJCHaP_38.332221_-77.579535@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905659,
-    "wof:geomhash":"e985bd8e3f80af18cfce43a10685e2ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3be15e4baa1b845a3379713423961b6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739352329
+        }
+    ],
     "wof:id":739352329,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492046013,
     "wof:name":"E-Z Sign Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

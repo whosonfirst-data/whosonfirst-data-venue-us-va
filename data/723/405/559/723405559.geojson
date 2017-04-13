@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.662539,36.584769,-80.662539,36.584769",
     "geom:latitude":36.584769,
     "geom:longitude":-80.662539,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.hillsshoes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729131,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bXjypn8pgMkJiX3AYBpoE_36.584769_-80.662539@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901080,
-    "wof:geomhash":"4bd00ac053ccbcdcc2e114758b7dbfc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e64dc2f0932857a60a25ce0f1ed4e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101729131,
+            "region_id":85688747,
+            "venue_id":723405559
+        }
+    ],
     "wof:id":723405559,
-    "wof:lastmodified":1472652153,
+    "wof:lastmodified":1492049941,
     "wof:name":"Hill's Shoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

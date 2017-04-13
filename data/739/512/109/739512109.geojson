@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.91078,37.546327,-77.91078,37.546327",
     "geom:latitude":37.546327,
     "geom:longitude":-77.91078,
@@ -33,7 +34,12 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52FmiwQRdxeV1NvNKZh2DG_37.546327_-77.910780@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908647,
     "wof:geomhash":"6acdd34583f7c166934886e245fd7e04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739512109
+        }
+    ],
     "wof:id":739512109,
-    "wof:lastmodified":1472651729,
+    "wof:lastmodified":1492031351,
     "wof:name":"Murphy's Auto Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

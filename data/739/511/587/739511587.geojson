@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635755,37.418146,-77.635755,37.418146",
     "geom:latitude":37.418146,
     "geom:longitude":-77.635755,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e8p1u8Ztp0l3V6cLxlC56_37.418146_-77.635755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908638,
-    "wof:geomhash":"95e4ecaf8a79660550be70144e743218",
-    "wof:hierarchy":[],
+    "wof:geomhash":"741e9ad0181e2c2068c6cdb02e59403c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739511587
+        }
+    ],
     "wof:id":739511587,
-    "wof:lastmodified":1472651783,
+    "wof:lastmodified":1492038888,
     "wof:name":"Hunters Chase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.944125,37.260165,-79.944125,37.260165",
     "geom:latitude":37.260165,
     "geom:longitude":-79.944125,
@@ -32,17 +33,32 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_546onBUTAY93C8RAhnrIKj_37.260165_-79.944125@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905915,
-    "wof:geomhash":"4ff11759e8cba5d8c7d7655fef4689ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b646f0fcf293b1f69017cf6242361e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739365881
+        }
+    ],
     "wof:id":739365881,
-    "wof:lastmodified":1472651353,
+    "wof:lastmodified":1492039867,
     "wof:name":"Discovery House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

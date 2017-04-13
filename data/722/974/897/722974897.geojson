@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.577452,37.542441,-77.577452,37.542441",
     "geom:latitude":37.542441,
     "geom:longitude":-77.577452,
@@ -31,19 +32,36 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85868239
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J9q2k83O4xqHRXFvzyHio_37.542441_-77.577452@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892351,
-    "wof:geomhash":"364b01483062dbf49cc183c4f0297244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60520f194d217adda1ee239588d4ea79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85868239,
+            "region_id":85688747,
+            "venue_id":722974897
+        }
+    ],
     "wof:id":722974897,
-    "wof:lastmodified":1472652317,
+    "wof:lastmodified":1492063719,
     "wof:name":"Lucy Guy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

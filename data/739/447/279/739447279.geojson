@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380936,38.793168,-77.380936,38.793168",
     "geom:latitude":38.793168,
     "geom:longitude":-77.380936,
@@ -32,17 +33,30 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WvxP60bDdsJQknXwqHQ5N_38.793168_-77.380936@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907492,
-    "wof:geomhash":"ca0690cea0c29ad7334d79640c21330f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62cd2e9fe130c9eca0dd7c160233a851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739447279
+        }
+    ],
     "wof:id":739447279,
-    "wof:lastmodified":1472651568,
+    "wof:lastmodified":1492043086,
     "wof:name":"Computer Rx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

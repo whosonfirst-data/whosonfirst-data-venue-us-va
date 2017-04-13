@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.009493,36.695834,-82.009493,36.695834",
     "geom:latitude":36.695834,
     "geom:longitude":-82.009493,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nJweKkHmpa9mFC1kb7WtQ_36.695834_-82.009493@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461907270,
     "wof:geomhash":"517504f3586514bed2ef32e14c2a8801",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739435421
+        }
+    ],
     "wof:id":739435421,
-    "wof:lastmodified":1472651526,
+    "wof:lastmodified":1492029396,
     "wof:name":"Best Western Inn & Suites",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

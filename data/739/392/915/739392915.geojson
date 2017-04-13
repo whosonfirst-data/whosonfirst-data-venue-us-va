@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.201521,38.283893,-77.201521,38.283893",
     "geom:latitude":38.283893,
     "geom:longitude":-77.201521,
@@ -28,7 +29,13 @@
     "sg:postcode":"22485",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O2HbA2bXvTwBgfr4PfXtG_38.283893_-77.201521@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906447,
     "wof:geomhash":"4ba74e4512dff0d4faec23c1979f0e82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":739392915
+        }
+    ],
     "wof:id":739392915,
-    "wof:lastmodified":1472651431,
+    "wof:lastmodified":1492031622,
     "wof:name":"King George Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

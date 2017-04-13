@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617195,37.640041,-77.617195,37.640041",
     "geom:latitude":37.640041,
     "geom:longitude":-77.617195,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SWm9viSUw56dYdUndVMHi_37.640041_-77.617195@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891763,
-    "wof:geomhash":"41dd6bda13a3f0df97ad1765a169514b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ac461af0f53843608dc4fb484acf162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":722946595
+        }
+    ],
     "wof:id":722946595,
-    "wof:lastmodified":1472652254,
+    "wof:lastmodified":1492069671,
     "wof:name":"Auto Alliance Of Richmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

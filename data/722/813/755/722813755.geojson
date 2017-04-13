@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410618,37.561144,-77.410618,37.561144",
     "geom:latitude":37.561144,
     "geom:longitude":-77.410618,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32I4Me8eFCbmfAIhrULe9M_37.561144_-77.410618@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889136,
-    "wof:geomhash":"2c20ddfa4e3050edcc1741158a6453e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aee42fb2e65b4caa05c7ceb255c7950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "region_id":85688747,
+            "venue_id":722813755
+        }
+    ],
     "wof:id":722813755,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492071173,
     "wof:name":"Lewis Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

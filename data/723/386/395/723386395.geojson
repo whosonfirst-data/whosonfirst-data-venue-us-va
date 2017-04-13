@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.361835,38.303757,-77.361835,38.303757",
     "geom:latitude":38.303757,
     "geom:longitude":-77.361835,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CKcVI22qEnyQD2rQ3JbCU_38.303757_-77.361835@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900703,
-    "wof:geomhash":"85844c371f6a6dd44e5ca0119c0d36b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"177fa6bc866981e4aced5ea5e06979f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":723386395
+        }
+    ],
     "wof:id":723386395,
-    "wof:lastmodified":1472652116,
+    "wof:lastmodified":1492061354,
     "wof:name":"Dwb Design",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

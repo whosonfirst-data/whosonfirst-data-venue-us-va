@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.404068,37.229532,-77.404068,37.229532",
     "geom:latitude":37.229532,
     "geom:longitude":-77.404068,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4evswckwDVAs69xQjzj3UH_37.229532_-77.404068@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886670,
-    "wof:geomhash":"87579103abbedf01e121d7b4ebb1eaf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f663b8becc5c3b0baf71cf504c53188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":722684585
+        }
+    ],
     "wof:id":722684585,
-    "wof:lastmodified":1472651533,
+    "wof:lastmodified":1492068371,
     "wof:name":"Apartment Finding & Rental Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.49854,37.348891,-79.49854,37.348891",
     "geom:latitude":37.348891,
     "geom:longitude":-79.49854,
@@ -32,17 +33,32 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iqvCqeCQobUcNTvnBCnZO_37.348891_-79.498540@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896891,
-    "wof:geomhash":"60506538fc0d921b3e735963db89c1ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b23d98ddf504b06440d64630f77d8237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723190337
+        }
+    ],
     "wof:id":723190337,
-    "wof:lastmodified":1472651526,
+    "wof:lastmodified":1492055287,
     "wof:name":"Saint Aarons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

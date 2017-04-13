@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.495732,38.264125,-77.495732,38.264125",
     "geom:latitude":38.264125,
     "geom:longitude":-77.495732,
@@ -28,7 +29,12 @@
     "sg:postcode":"22408",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l2hjy5vnOzR5yCWhfMmoT_38.264125_-77.495732@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912414,
     "wof:geomhash":"8366d3ff690488f9b112b24a0f1e34e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693783
+        }
+    ],
     "wof:id":739693783,
-    "wof:lastmodified":1472652192,
+    "wof:lastmodified":1492031404,
     "wof:name":"N Unity Barber And Braids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

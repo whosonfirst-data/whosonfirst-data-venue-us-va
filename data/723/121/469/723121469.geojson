@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518366,38.246497,-77.518366,38.246497",
     "geom:latitude":38.246497,
     "geom:longitude":-77.518366,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EII4TIX6J3HwPcc7amyIQ_38.246497_-77.518366@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895545,
-    "wof:geomhash":"4c23b0c94612ca128115bcbdbacdaa5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f388b8c6c81138498e726bf9f83373a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723121469
+        }
+    ],
     "wof:id":723121469,
-    "wof:lastmodified":1472651351,
+    "wof:lastmodified":1492055881,
     "wof:name":"St Matthew Outreach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

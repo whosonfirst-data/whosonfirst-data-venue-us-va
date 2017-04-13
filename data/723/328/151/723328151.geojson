@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.18132,38.879079,-77.18132,38.879079",
     "geom:latitude":38.879079,
     "geom:longitude":-77.18132,
@@ -39,19 +40,36 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729755,
+        102084863,
+        420547975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YV6hPrrCbM685oJEnrelO_38.879079_-77.181320@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899594,
-    "wof:geomhash":"9255db8f5f4b83d70e173064370e5c49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00c6ab8e4d1a7fc1c328acfcc1754b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729755,
+            "neighbourhood_id":420547975,
+            "region_id":85688747,
+            "venue_id":723328151
+        }
+    ],
     "wof:id":723328151,
-    "wof:lastmodified":1472651876,
+    "wof:lastmodified":1492056167,
     "wof:name":"Minh Auto Repairs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

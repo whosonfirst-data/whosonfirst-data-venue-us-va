@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.812052,37.940802,-78.812052,37.940802",
     "geom:latitude":37.940802,
     "geom:longitude":-78.812052,
@@ -49,7 +50,12 @@
     ],
     "sg:website":"http://www.stihlusa.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HH2JIEgsLoHn44DPbXAk9_37.940802_-78.812052@1303262548"
@@ -57,9 +63,17 @@
     "wof:country":"US",
     "wof:created":1461912739,
     "wof:geomhash":"3ad9f7b8aeb56af4eda1af2f6df9bb95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739708091
+        }
+    ],
     "wof:id":739708091,
-    "wof:lastmodified":1472652167,
+    "wof:lastmodified":1492030736,
     "wof:name":"JC's Repair Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

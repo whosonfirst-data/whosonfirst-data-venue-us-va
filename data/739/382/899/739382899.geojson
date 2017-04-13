@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.636703,37.424735,-77.636703,37.424735",
     "geom:latitude":37.424735,
     "geom:longitude":-77.636703,
@@ -32,7 +33,13 @@
         "manicuring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tGqdmoS7HoeGBWD4GZ8wt_37.424735_-77.636703@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906249,
     "wof:geomhash":"c0ef7b97e9f68b1f3020a46d1dd303bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739382899
+        }
+    ],
     "wof:id":739382899,
-    "wof:lastmodified":1472651374,
+    "wof:lastmodified":1492030645,
     "wof:name":"Inspirations Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

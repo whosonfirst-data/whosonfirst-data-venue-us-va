@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433581,37.494029,-77.433581,37.494029",
     "geom:latitude":37.494029,
     "geom:longitude":-77.433581,
@@ -32,17 +33,32 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kA7PHrDdzNiLuAlkS0SLN_37.494029_-77.433581@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898899,
-    "wof:geomhash":"1c4f269174cdc7cd26c48b7bdbacd888",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cb92753179d8998698f81aedea7b787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":723291217
+        }
+    ],
     "wof:id":723291217,
-    "wof:lastmodified":1472651753,
+    "wof:lastmodified":1492054948,
     "wof:name":"Material Handling Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

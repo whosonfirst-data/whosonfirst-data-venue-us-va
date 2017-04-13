@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.659733,38.057186,-77.659733,38.057186",
     "geom:latitude":38.057186,
     "geom:longitude":-77.659733,
@@ -38,7 +39,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XIBTF73lLJrfCML9gsRiV_38.057186_-77.659733@1303262547"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461912425,
     "wof:geomhash":"96b973ca430561a3d7e5dae5d64ae0e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694343
+        }
+    ],
     "wof:id":739694343,
-    "wof:lastmodified":1472652171,
+    "wof:lastmodified":1492030232,
     "wof:name":"Hill Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

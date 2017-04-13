@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.567251,37.606545,-77.567251,37.606545",
     "geom:latitude":37.606545,
     "geom:longitude":-77.567251,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09eOBPIT1EC9LicD0XeEYR_37.606545_-77.567251@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898939,
-    "wof:geomhash":"005b5eeb6021a228635dda56b63ab0d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"035dc5cf8e96ecebb72e1bf72fdab16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723293501
+        }
+    ],
     "wof:id":723293501,
-    "wof:lastmodified":1472651783,
+    "wof:lastmodified":1492055674,
     "wof:name":"First Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

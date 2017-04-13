@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.864879,36.696745,-79.864879,36.696745",
     "geom:latitude":36.696745,
     "geom:longitude":-79.864879,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NBjiykFQ9PZzuTFhjZHfH_36.696745_-79.864879@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891005,
-    "wof:geomhash":"7bdfc9c98d760a5c3cb48c7727351358",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a439e6a83eb98e4656f929d064ef41c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":722910809
+        }
+    ],
     "wof:id":722910809,
-    "wof:lastmodified":1472652131,
+    "wof:lastmodified":1492063261,
     "wof:name":"Sprinkle Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

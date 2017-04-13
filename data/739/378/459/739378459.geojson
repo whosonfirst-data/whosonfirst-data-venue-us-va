@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.092759,36.967974,-81.092759,36.967974",
     "geom:latitude":36.967974,
     "geom:longitude":-81.092759,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461906159,
-    "wof:geomhash":"91d7db2f93750cb59e6db7dfa73d0a63",
+    "wof:geomhash":"ab4d96449c9d796afa61e08211ce9994",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":739378459
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,12 +54,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":739378459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":739378459
         }
     ],
     "wof:id":739378459,
-    "wof:lastmodified":1472651354,
+    "wof:lastmodified":1492038863,
     "wof:name":"Decorous Home Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

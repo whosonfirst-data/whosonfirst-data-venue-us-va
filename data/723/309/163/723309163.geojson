@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.494081,38.2529,-77.494081,38.2529",
     "geom:latitude":38.2529,
     "geom:longitude":-77.494081,
@@ -31,17 +32,30 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SmaSgWC5rIubgNVCXH0np_38.252900_-77.494081@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899247,
-    "wof:geomhash":"5d664aad831be405abe132e875e2dc65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0971731d4bf56969b3bb560ad6d618c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723309163
+        }
+    ],
     "wof:id":723309163,
-    "wof:lastmodified":1472651755,
+    "wof:lastmodified":1492053280,
     "wof:name":"Tri County Soil & Wtr Con Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

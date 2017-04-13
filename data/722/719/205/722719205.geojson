@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374472,38.299756,-77.374472,38.299756",
     "geom:latitude":38.299756,
     "geom:longitude":-77.374472,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NAc53LchAxYiPobBzkvhZ_38.299756_-77.374472@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887328,
-    "wof:geomhash":"ccb0c15429fe8948f07ad6797def2de1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a3ce94c38fe8542be230e0d9efa6090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":722719205
+        }
+    ],
     "wof:id":722719205,
-    "wof:lastmodified":1472651580,
+    "wof:lastmodified":1492073467,
     "wof:name":"Wire Co LLC",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

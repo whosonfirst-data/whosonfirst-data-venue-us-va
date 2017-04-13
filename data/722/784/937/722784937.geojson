@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.918255,36.659799,-76.918255,36.659799",
     "geom:latitude":36.659799,
     "geom:longitude":-76.918255,
@@ -33,17 +34,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728635,
+        102084891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VgLEyF6A9XF6s6N96tMV6_36.659799_-76.918255@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888596,
-    "wof:geomhash":"84be30f341c36fa405534b67501be3f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f65e53738a4bfdff19984524ef76645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084891,
+            "locality_id":101728635,
+            "region_id":85688747,
+            "venue_id":722784937
+        }
+    ],
     "wof:id":722784937,
-    "wof:lastmodified":1472651844,
+    "wof:lastmodified":1492071967,
     "wof:name":"Franklin Public Works Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.117787,39.181678,-78.117787,39.181678",
     "geom:latitude":39.181678,
     "geom:longitude":-78.117787,
@@ -28,7 +29,12 @@
     "sg:postcode":"22602",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6evmRTVYY5vm0ZMcT30ibl_39.181678_-78.117787@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908829,
     "wof:geomhash":"841b8ed52fd1aabf4ccece71ab69d475",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739521767
+        }
+    ],
     "wof:id":739521767,
-    "wof:lastmodified":1472651809,
+    "wof:lastmodified":1492033267,
     "wof:name":"Allied Pharmaceutical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

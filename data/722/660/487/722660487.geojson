@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.538264,37.508998,-77.538264,37.508998",
     "geom:latitude":37.508998,
     "geom:longitude":-77.538264,
@@ -31,17 +32,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UQzfIKf7aM2yTbAgvalU1_37.508998_-77.538264@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886212,
-    "wof:geomhash":"35a6c00b165da31003fef17f3427f7e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bf0f01bcbf4d4cca9c1458fbbb695e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":722660487
+        }
+    ],
     "wof:id":722660487,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492075165,
     "wof:name":"Budget Transport Taxi & Whlchr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

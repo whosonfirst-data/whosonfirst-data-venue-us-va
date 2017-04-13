@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.694958,39.135754,-77.694958,39.135754",
     "geom:latitude":39.135754,
     "geom:longitude":-77.694958,
@@ -31,17 +32,32 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ieyMS00eMzIIhaRLfTUya_39.135754_-77.694958@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890359,
-    "wof:geomhash":"4d39b4057f962c3b711c2da5db371160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e91e62f52bc70ffcd36df2c40cba341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":722878545
+        }
+    ],
     "wof:id":722878545,
-    "wof:lastmodified":1472652003,
+    "wof:lastmodified":1492075453,
     "wof:name":"Loudoun Veterinary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

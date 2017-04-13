@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.374977,37.299401,-79.374977,37.299401",
     "geom:latitude":37.299401,
     "geom:longitude":-79.374977,
@@ -33,17 +34,30 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79UZzUGaI33bfiFKnbI35u_37.299401_-79.374977@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888278,
-    "wof:geomhash":"749546ce937d2708935e21d82f791f8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc08e745b2788acf80fa5c20fb136d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722767965
+        }
+    ],
     "wof:id":722767965,
-    "wof:lastmodified":1472651818,
+    "wof:lastmodified":1492067229,
     "wof:name":"Custom Precast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

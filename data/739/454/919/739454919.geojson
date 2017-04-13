@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.49537,38.067638,-78.49537,38.067638",
     "geom:latitude":38.067638,
     "geom:longitude":-78.49537,
@@ -31,17 +32,30 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jn6r6IJuzkcT84xSjRJ5M_38.067638_-78.495370@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907627,
-    "wof:geomhash":"43b048d47994be226cae6474ec1d45b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18d03ec109ab1d5ea9405ed7ebef527f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739454919
+        }
+    ],
     "wof:id":739454919,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492042507,
     "wof:name":"Cruise Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644571,37.483754,-77.644571,37.483754",
     "geom:latitude":37.483754,
     "geom:longitude":-77.644571,
@@ -31,17 +32,30 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LCjzry1o36IwoUfHAcbwl_37.483754_-77.644571@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905715,
-    "wof:geomhash":"94f7249082db5e40665d871949089272",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ed5aa32769e852dcd82671a1f4864dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739354873
+        }
+    ],
     "wof:id":739354873,
-    "wof:lastmodified":1472651360,
+    "wof:lastmodified":1492045514,
     "wof:name":"V R May PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.089165,36.775156,-82.089165,36.775156",
     "geom:latitude":36.775156,
     "geom:longitude":-82.089165,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07ANSu2QPnLWTVtC25CjkQ_36.775156_-82.089165@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908130,
-    "wof:geomhash":"68a79ba81cd08bf157363c83ed4502af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54ab7833bf69fae787a1ce19c0ebd713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739483243
+        }
+    ],
     "wof:id":739483243,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492044312,
     "wof:name":"Livingston Homes LLC",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

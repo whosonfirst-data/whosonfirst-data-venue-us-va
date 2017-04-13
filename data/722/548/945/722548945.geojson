@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.963947,37.28596,-79.963947,37.28596",
     "geom:latitude":37.28596,
     "geom:longitude":-79.963947,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_727wFfCLDdD4vDqCmG3H87_37.285960_-79.963947@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883985,
-    "wof:geomhash":"72552995717efe6853e3bc81078270be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1455f2d5d3947caf06ce12a99c2c375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722548945
+        }
+    ],
     "wof:id":722548945,
-    "wof:lastmodified":1472651115,
+    "wof:lastmodified":1492073915,
     "wof:name":"Protrek Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

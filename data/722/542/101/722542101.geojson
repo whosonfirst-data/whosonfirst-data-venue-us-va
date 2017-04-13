@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.652739,37.431221,-77.652739,37.431221",
     "geom:latitude":37.431221,
     "geom:longitude":-77.652739,
@@ -37,17 +38,32 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45Jq6z23xttGjXeJOegSR8_37.431221_-77.652739@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883851,
-    "wof:geomhash":"44431d0ec09abf95ac96c17178ac36f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3de99a6b4abe4a190e6644d24215669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722542101
+        }
+    ],
     "wof:id":722542101,
-    "wof:lastmodified":1472651071,
+    "wof:lastmodified":1492071830,
     "wof:name":"Custom Framing Made Simple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

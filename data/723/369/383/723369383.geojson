@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548949,37.500561,-77.548949,37.500561",
     "geom:latitude":37.500561,
     "geom:longitude":-77.548949,
@@ -31,17 +32,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WOyG0FeDBjHOIiXkJXZUl_37.500561_-77.548949@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900361,
-    "wof:geomhash":"330d22fda571a7a6e4a3524b58a48cc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2335a60e3cb59a69794f177ca8d90588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":723369383
+        }
+    ],
     "wof:id":723369383,
-    "wof:lastmodified":1472652070,
+    "wof:lastmodified":1492060684,
     "wof:name":"Braintrain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

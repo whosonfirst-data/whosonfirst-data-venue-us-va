@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.051851,36.677765,-82.051851,36.677765",
     "geom:latitude":36.677765,
     "geom:longitude":-82.051851,
@@ -31,17 +32,26 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xHr35h03DQqfrvytZquHZ_36.677765_-82.051851@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913452,
-    "wof:geomhash":"f4162be1f459f35b93615a49c3b8e0bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b08e4902655146254229409aea469175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739740953
+        }
+    ],
     "wof:id":739740953,
-    "wof:lastmodified":1472652255,
+    "wof:lastmodified":1492040514,
     "wof:name":"K And K Transport",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.946588,36.669104,-76.946588,36.669104",
     "geom:latitude":36.669104,
     "geom:longitude":-76.946588,
@@ -31,17 +32,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728635,
+        102084891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uMl85MlVKePRt81mE0cJo_36.669104_-76.946588@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901453,
-    "wof:geomhash":"69378dc7e0e63c5e6068d067c3726061",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c33fef1928151bfd75e36ef4249ffe2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084891,
+            "locality_id":101728635,
+            "region_id":85688747,
+            "venue_id":723424251
+        }
+    ],
     "wof:id":723424251,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492051248,
     "wof:name":"Franklin Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

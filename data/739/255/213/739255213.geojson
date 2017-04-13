@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.993118,36.682178,-81.993118,36.682178",
     "geom:latitude":36.682178,
     "geom:longitude":-81.993118,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4blKPrzKtHNn4AIWXwkTMl_36.682178_-81.993118@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903607,
-    "wof:geomhash":"ad6acef570ed857f0917847ca49285eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96c6d7e5de969d9168fb26c26fad8c2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739255213
+        }
+    ],
     "wof:id":739255213,
-    "wof:lastmodified":1472651086,
+    "wof:lastmodified":1492047184,
     "wof:name":"Conners Family Care",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

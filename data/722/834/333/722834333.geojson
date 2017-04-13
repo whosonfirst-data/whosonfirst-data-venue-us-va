@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.12095,36.905455,-76.12095,36.905455",
     "geom:latitude":36.905455,
     "geom:longitude":-76.12095,
@@ -39,6 +40,7 @@
         85633793,
         101728745,
         102081929,
+        85810697,
         85804919
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889522,
-    "wof:geomhash":"7e3f606a96f148e396e84d17fc3b3079",
+    "wof:geomhash":"6112cf5e241acb9a7a37c3c1b12e2b83",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85810697,
+            "region_id":85688747,
+            "venue_id":722834333
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722834333,
-    "wof:lastmodified":1472651935,
+    "wof:lastmodified":1492070529,
     "wof:name":"Stratford Preschool",
-    "wof:parent_id":85804919,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

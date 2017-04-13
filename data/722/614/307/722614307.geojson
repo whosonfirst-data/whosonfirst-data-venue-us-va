@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432212,38.899409,-77.432212,38.899409",
     "geom:latitude":38.899409,
     "geom:longitude":-77.432212,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OcxGSKCndEAc0y2wumTeY_38.899409_-77.432212@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885252,
-    "wof:geomhash":"afe3cf94d4cf420484a6854954a31e9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e10813db0ac1b25bfafa80a349766870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722614307
+        }
+    ],
     "wof:id":722614307,
-    "wof:lastmodified":1472651346,
+    "wof:lastmodified":1492064616,
     "wof:name":"Ecs Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

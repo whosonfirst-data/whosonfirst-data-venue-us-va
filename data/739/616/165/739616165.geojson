@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476357,39.08288,-77.476357,39.08288",
     "geom:latitude":39.08288,
     "geom:longitude":-77.476357,
@@ -40,7 +41,13 @@
     ],
     "sg:website":"http://www.bondsman.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05QU7Nx3xzKDF09ETfnMY2_39.082880_-77.476357@1303262497"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461910739,
     "wof:geomhash":"6cc99b209c3c7baa806ea55e0148f1aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":739616165
+        }
+    ],
     "wof:id":739616165,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492029651,
     "wof:name":"A 1 Payne Bonding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

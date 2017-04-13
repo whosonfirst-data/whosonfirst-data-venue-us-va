@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433642,38.743639,-77.433642,38.743639",
     "geom:latitude":38.743639,
     "geom:longitude":-77.433642,
@@ -35,7 +36,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rZodt8niePQ2zvXyaPN9U_38.743639_-77.433642@1303262495"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461910506,
     "wof:geomhash":"eac6f3faee83af6508154d800c3fcf78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":739604765
+        }
+    ],
     "wof:id":739604765,
-    "wof:lastmodified":1472651966,
+    "wof:lastmodified":1492032485,
     "wof:name":"Ar Lanscaping & Lawn Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.473637,38.443654,-77.473637,38.443654",
     "geom:latitude":38.443654,
     "geom:longitude":-77.473637,
@@ -29,7 +30,10 @@
     "sg:province":"VA",
     "sg:website":"www.circle-of-friends-inc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wim29rp8ZVzN2sUyiJFgR_38.443654_-77.473637@1294252573"
@@ -37,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461907654,
     "wof:geomhash":"8ebf0e924e7562d4e8ca0c981aa35d08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":739456539
+        }
+    ],
     "wof:id":739456539,
-    "wof:lastmodified":1472651581,
+    "wof:lastmodified":1492033065,
     "wof:name":"Circle Of Friends",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

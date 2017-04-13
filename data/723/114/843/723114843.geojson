@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.675553,37.113253,-79.675553,37.113253",
     "geom:latitude":37.113253,
     "geom:longitude":-79.675553,
@@ -31,17 +32,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729705,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2avjGX0GZKQRJ911Fqb3b1_37.113253_-79.675553@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895415,
-    "wof:geomhash":"d27e09fe4786bea05561ee411fc5d49b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f93f48933b241c94048f76ee3708ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729705,
+            "region_id":85688747,
+            "venue_id":723114843
+        }
+    ],
     "wof:id":723114843,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492060481,
     "wof:name":"Ferguson Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

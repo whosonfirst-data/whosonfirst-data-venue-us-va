@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.166725,36.590013,-82.166725,36.590013",
     "geom:latitude":36.590013,
     "geom:longitude":-82.166725,
@@ -28,7 +29,13 @@
     "sg:postcode":"37620",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rQsm19WzlLIvKaj8FqJUh_36.590013_-82.166725@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907655,
     "wof:geomhash":"fd3f14fa6ee5d88b96ef0b5238378a57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":739456621
+        }
+    ],
     "wof:id":739456621,
-    "wof:lastmodified":1472651588,
+    "wof:lastmodified":1492033068,
     "wof:name":"Bridge Refugee Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

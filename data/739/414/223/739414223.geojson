@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.143487,37.413028,-79.143487,37.413028",
     "geom:latitude":37.413028,
     "geom:longitude":-79.143487,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.lynchburg.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01vqd23CDZ5zLkYNW1UBAh_37.413028_-79.143487@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461906843,
     "wof:geomhash":"b0460fa1d4b9c10f0bd4e2eca7e4f976",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739414223
+        }
+    ],
     "wof:id":739414223,
-    "wof:lastmodified":1472651464,
+    "wof:lastmodified":1492032400,
     "wof:name":"Lynchburg Public Schools Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

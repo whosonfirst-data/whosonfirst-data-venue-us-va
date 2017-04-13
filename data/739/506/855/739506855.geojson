@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.480908,39.066076,-77.480908,39.066076",
     "geom:latitude":39.066076,
     "geom:longitude":-77.480908,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37EL3ZNcvL3FpaXdisEyQp_39.066076_-77.480908@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908550,
     "wof:geomhash":"a3bd2ad92317fce499d91d63cc5729f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739506855
+        }
+    ],
     "wof:id":739506855,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492032888,
     "wof:name":"Shirley Contracting Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

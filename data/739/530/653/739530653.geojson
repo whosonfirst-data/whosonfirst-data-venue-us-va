@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504545,37.630899,-77.504545,37.630899",
     "geom:latitude":37.630899,
     "geom:longitude":-77.504545,
@@ -31,17 +32,32 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bHiVytPepGiX0ytkQ6ZBD_37.630899_-77.504545@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908989,
-    "wof:geomhash":"3ff67c72289353bff5d9981b1b365734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9d0a853f2e02c5dc084cdc13839028f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":739530653
+        }
+    ],
     "wof:id":739530653,
-    "wof:lastmodified":1472651796,
+    "wof:lastmodified":1492044055,
     "wof:name":"Specified Tile and Floor Cvg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

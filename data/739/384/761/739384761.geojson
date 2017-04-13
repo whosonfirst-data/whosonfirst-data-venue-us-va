@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.256171,36.957857,-76.256171,36.957857",
     "geom:latitude":36.957857,
     "geom:longitude":-76.256171,
@@ -37,6 +38,7 @@
         85633793,
         101728769,
         102085935,
+        85881967,
         85881965
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461906280,
-    "wof:geomhash":"433c58e6361d86e886a3c89260868671",
+    "wof:geomhash":"9ed5a8121e262373d27e9444d509ef27",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85881967,
+            "region_id":85688747,
+            "venue_id":739384761
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":739384761,
-    "wof:lastmodified":1472651357,
+    "wof:lastmodified":1492043622,
     "wof:name":"Polyzos Enterprises Inc",
-    "wof:parent_id":85881965,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

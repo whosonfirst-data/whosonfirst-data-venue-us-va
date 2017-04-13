@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.462621,37.158028,-76.462621,37.158028",
     "geom:latitude":37.158028,
     "geom:longitude":-76.462621,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85879209,
-        102086731
+        101729041,
+        102085961,
+        85879209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,20 @@
     },
     "wof:country":"US",
     "wof:created":1461888040,
-    "wof:geomhash":"85e76bb7756970b545ae87e1fdf94093",
+    "wof:geomhash":"3a0c95c91e7aa37a939e111d727ffe5f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086731,
+            "county_id":102085961,
+            "locality_id":101729041,
             "neighbourhood_id":85879209,
             "region_id":85688747,
             "venue_id":722755551
         }
     ],
     "wof:id":722755551,
-    "wof:lastmodified":1472651717,
+    "wof:lastmodified":1492069225,
     "wof:name":"Pizza Shop",
     "wof:parent_id":85879209,
     "wof:placetype":"venue",

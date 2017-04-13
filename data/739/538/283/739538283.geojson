@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.389458,37.13832,-80.389458,37.13832",
     "geom:latitude":37.13832,
     "geom:longitude":-80.389458,
@@ -31,7 +32,10 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C8JfRy16pj0e72t5Uyj2Z_37.138320_-80.389458@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461909125,
     "wof:geomhash":"b03aa8fdd8ea73eefea9fd8d2fcf3790",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546957,
+            "venue_id":739538283
+        }
+    ],
     "wof:id":739538283,
-    "wof:lastmodified":1472651759,
+    "wof:lastmodified":1492029871,
     "wof:name":"Gibson Towing",
     "wof:parent_id":420546957,
     "wof:placetype":"venue",

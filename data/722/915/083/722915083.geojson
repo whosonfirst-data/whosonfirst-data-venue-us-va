@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.278507,36.896951,-81.278507,36.896951",
     "geom:latitude":36.896951,
     "geom:longitude":-81.278507,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s4If3hoZH78ZFcWpb6iCY_36.896951_-81.278507@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891084,
-    "wof:geomhash":"274f81ce4b15985e38614a8ba19bf116",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7470147a92d1b8de533354a5616e244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722915083
+        }
+    ],
     "wof:id":722915083,
-    "wof:lastmodified":1472652098,
+    "wof:lastmodified":1492072951,
     "wof:name":"George G Stamper",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

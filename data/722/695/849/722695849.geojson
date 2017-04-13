@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400463,37.341623,-77.400463,37.341623",
     "geom:latitude":37.341623,
     "geom:longitude":-77.400463,
@@ -32,19 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85868231,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cU5sjGV2iVzioyVq9T5f8_37.341623_-77.400463@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886891,
-    "wof:geomhash":"80d9d3ca72b34767eed62216ab746e93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d63754485edaa3d59588d3da078683e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084955,
+            "neighbourhood_id":85868231,
+            "region_id":85688747,
+            "venue_id":722695849
+        }
+    ],
     "wof:id":722695849,
-    "wof:lastmodified":1472651560,
+    "wof:lastmodified":1492074107,
     "wof:name":"Eaton Landscape and Lawn Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

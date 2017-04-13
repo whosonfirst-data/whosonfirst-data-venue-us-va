@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.45096,38.8899,-77.45096,38.8899",
     "geom:latitude":38.8899,
     "geom:longitude":-77.45096,
@@ -31,17 +32,32 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1okzW5lEQVrARXLHYO8ujX_38.889900_-77.450960@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893563,
-    "wof:geomhash":"77e653b4c674bba197bf23eedb6cf892",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd80e5bc420b0496f4cedcc5ed4a548f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723028155
+        }
+    ],
     "wof:id":723028155,
-    "wof:lastmodified":1472651136,
+    "wof:lastmodified":1492051913,
     "wof:name":"Fairfax Cnty Criminal Justice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

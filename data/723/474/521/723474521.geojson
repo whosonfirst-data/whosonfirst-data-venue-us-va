@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.522275,37.12585,-81.522275,37.12585",
     "geom:latitude":37.12585,
     "geom:longitude":-81.522275,
@@ -31,17 +32,26 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KOsgOu1JTyBviW0yu8TvZ_37.125850_-81.522275@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902403,
-    "wof:geomhash":"7cc9b551096d46ee0443f1b4e6b599f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaf4876bee84ee8ea5206746186a12e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723474521
+        }
+    ],
     "wof:id":723474521,
-    "wof:lastmodified":1472652313,
+    "wof:lastmodified":1492059775,
     "wof:name":"Payday USA",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

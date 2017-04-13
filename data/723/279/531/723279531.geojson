@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.278715,38.870624,-77.278715,38.870624",
     "geom:latitude":38.870624,
     "geom:longitude":-77.278715,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56pLOqMfTGGH3FlcFK5ppE_38.870624_-77.278715@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898670,
-    "wof:geomhash":"e4c49198c6e4cf6f69f39a362296ebd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4299d9e8f57f04494b6a2aec1bd628eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":723279531
+        }
+    ],
     "wof:id":723279531,
-    "wof:lastmodified":1472651772,
+    "wof:lastmodified":1492055975,
     "wof:name":"Northern Virginia Primitive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

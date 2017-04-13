@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.080666,37.284133,-80.080666,37.284133",
     "geom:latitude":37.284133,
     "geom:longitude":-80.080666,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"www.brmi.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HEFMPDyXgmfhCNrlkMz3M_37.284133_-80.080666@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893380,
-    "wof:geomhash":"7aaef8463bb0fcb39093eb5ceef558ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"704cfcd02590e7983c1bdd93ede29d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723020205
+        }
+    ],
     "wof:id":723020205,
-    "wof:lastmodified":1472651100,
+    "wof:lastmodified":1492048506,
     "wof:name":"Blue Ridge Medical Imaging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.156979,37.756634,-77.156979,37.756634",
     "geom:latitude":37.756634,
     "geom:longitude":-77.156979,
@@ -31,17 +32,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729413,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dGYddtzJtQDlKo42tBiPV_37.756634_-77.156979@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884324,
-    "wof:geomhash":"ff384bf7aa79c6ef5e25e86638c5d27d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8d418d5ab32136ad48af9dc89a54ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101729413,
+            "region_id":85688747,
+            "venue_id":722565503
+        }
+    ],
     "wof:id":722565503,
-    "wof:lastmodified":1472651118,
+    "wof:lastmodified":1492066058,
     "wof:name":"J W Abrams Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

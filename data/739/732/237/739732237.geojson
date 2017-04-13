@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393707,37.177449,-76.393707,37.177449",
     "geom:latitude":37.177449,
     "geom:longitude":-76.393707,
@@ -32,17 +33,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZUMWqz0YySQHPcrCDcH4d_37.177449_-76.393707@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913236,
-    "wof:geomhash":"7a982ff32ef0d78fe3afe3c566c4abe8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e9e94a4253265288c10e7051615226a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739732237
+        }
+    ],
     "wof:id":739732237,
-    "wof:lastmodified":1472652224,
+    "wof:lastmodified":1492044957,
     "wof:name":"Kashy Engineering",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

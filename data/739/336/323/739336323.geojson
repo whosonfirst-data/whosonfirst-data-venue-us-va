@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.403861,37.147794,-76.403861,37.147794",
     "geom:latitude":37.147794,
     "geom:longitude":-76.403861,
@@ -32,17 +33,26 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38mXTaAlX6wCFJXk3nRyjx_37.147794_-76.403861@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905306,
-    "wof:geomhash":"088d6ae6ec97be07f1500c6f6d3844cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bfc759be7e4d568f67e4ebb1f664639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739336323
+        }
+    ],
     "wof:id":739336323,
-    "wof:lastmodified":1472651273,
+    "wof:lastmodified":1492042893,
     "wof:name":"Capstone Video",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

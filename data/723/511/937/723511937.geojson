@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451946,38.773544,-77.451946,38.773544",
     "geom:latitude":38.773544,
     "geom:longitude":-77.451946,
@@ -32,17 +33,32 @@
         "electronic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AIUfAW4jjnsgoWvg2YcZX_38.773544_-77.451946@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903244,
-    "wof:geomhash":"293c802bf95c0d9feb226887b5401d5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3531fee1472525a301200379862b6ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":723511937
+        }
+    ],
     "wof:id":723511937,
-    "wof:lastmodified":1472652370,
+    "wof:lastmodified":1492053955,
     "wof:name":"Branch Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

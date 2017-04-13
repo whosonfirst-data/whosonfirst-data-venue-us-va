@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.294474,36.891861,-81.294474,36.891861",
     "geom:latitude":36.891861,
     "geom:longitude":-81.294474,
@@ -31,17 +32,26 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01eDNiIuVekIOtlumYjd1S_36.891861_-81.294474@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896713,
-    "wof:geomhash":"dd52df08fb3526b848e8c60b27e0f312",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fa518295b3832c416320a9deb09351f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723181669
+        }
+    ],
     "wof:id":723181669,
-    "wof:lastmodified":1472651522,
+    "wof:lastmodified":1492057885,
     "wof:name":"Flower House",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

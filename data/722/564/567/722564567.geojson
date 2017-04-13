@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.224572,36.777139,-76.224572,36.777139",
     "geom:latitude":36.777139,
     "geom:longitude":-76.224572,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FjXYFrFNkLANsPrU2YDfl_36.777139_-76.224572@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884305,
-    "wof:geomhash":"8b37b737e983fbb3991b25da6069b77a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e501e182380bb9ecc439fe740c64bfbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":722564567
+        }
+    ],
     "wof:id":722564567,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492070284,
     "wof:name":"Micro Information Systems Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

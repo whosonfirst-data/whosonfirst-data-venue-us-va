@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.505418,38.776585,-77.505418,38.776585",
     "geom:latitude":38.776585,
     "geom:longitude":-77.505418,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.macys.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70Ztbj3o6lp1OhZ3JYebAc_38.776585_-77.505418@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910484,
-    "wof:geomhash":"822b0da78de4f392a0049df39673e5a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed713242f0ed7445357ba28fae3e72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739603451
+        }
+    ],
     "wof:id":739603451,
-    "wof:lastmodified":1472651962,
+    "wof:lastmodified":1492044759,
     "wof:name":"Macy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

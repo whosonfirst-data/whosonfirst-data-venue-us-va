@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.071261,37.288323,-79.071261,37.288323",
     "geom:latitude":37.288323,
     "geom:longitude":-79.071261,
@@ -31,17 +32,32 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03OFvrbdosLtNYHiV788iF_37.288323_-79.071261@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897825,
-    "wof:geomhash":"285ed555a5ca800cb1aab87df860e4ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"307d4a783e37919b11e917e07291db40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":723235885
+        }
+    ],
     "wof:id":723235885,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492061310,
     "wof:name":"Wright's Green House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

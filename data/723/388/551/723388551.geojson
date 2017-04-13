@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.334099,38.83206,-77.334099,38.83206",
     "geom:latitude":38.83206,
     "geom:longitude":-77.334099,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62LZt8JaeM7elEzn5A51OE_38.832060_-77.334099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900741,
-    "wof:geomhash":"5ecfefba71bd83d59c0c006738049b50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"328e64d9e064b27cb0a58780bed20746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":723388551
+        }
+    ],
     "wof:id":723388551,
-    "wof:lastmodified":1472652135,
+    "wof:lastmodified":1492061244,
     "wof:name":"Thomas Stafford Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

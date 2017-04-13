@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.534394,37.11137,-81.534394,37.11137",
     "geom:latitude":37.11137,
     "geom:longitude":-81.534394,
@@ -31,17 +32,26 @@
         "probation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v2Q7eSFqfNO9UrIYqRd3J_37.111370_-81.534394@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899781,
-    "wof:geomhash":"b2deca35391a5d9dc050f67fb5bac861",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f27a51a56aa9d87ce16d9d381ec353b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723338479
+        }
+    ],
     "wof:id":723338479,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492052122,
     "wof:name":"Probation & Parole Office",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

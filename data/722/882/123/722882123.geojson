@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.159809,38.713776,-78.159809,38.713776",
     "geom:latitude":38.713776,
     "geom:longitude":-78.159809,
@@ -31,17 +32,32 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728561,
+        102087263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W1c6O8vFRIZS1OAvNSI9r_38.713776_-78.159809@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890434,
-    "wof:geomhash":"98a1794dd09ae70514a682b51468c26f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18c430b86c10bcbc931912fed40e7d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087263,
+            "locality_id":101728561,
+            "region_id":85688747,
+            "venue_id":722882123
+        }
+    ],
     "wof:id":722882123,
-    "wof:lastmodified":1472651998,
+    "wof:lastmodified":1492067544,
     "wof:name":"Rappahannock News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

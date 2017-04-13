@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506248,38.353008,-77.506248,38.353008",
     "geom:latitude":38.353008,
     "geom:longitude":-77.506248,
@@ -33,7 +34,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zZiILxaYARPQgcA8bkltH_38.353008_-77.506248@1303262546"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461912404,
     "wof:geomhash":"e1b1e8ecd19467041f47d41d70d9fdae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":739693237
+        }
+    ],
     "wof:id":739693237,
-    "wof:lastmodified":1472652173,
+    "wof:lastmodified":1492031410,
     "wof:name":"Pb's",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

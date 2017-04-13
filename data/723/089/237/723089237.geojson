@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.022634,36.7261,-82.022634,36.7261",
     "geom:latitude":36.7261,
     "geom:longitude":-82.022634,
@@ -32,17 +33,26 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bK4WK4fEmUGRmruJNLKBi_36.726100_-82.022634@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894904,
-    "wof:geomhash":"6297cea9e175edfe0541bde8c850288b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f30e260db36230d8e2b50c70f261530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723089237
+        }
+    ],
     "wof:id":723089237,
-    "wof:lastmodified":1472651283,
+    "wof:lastmodified":1492053580,
     "wof:name":"Southwest Virginia Jail Author",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

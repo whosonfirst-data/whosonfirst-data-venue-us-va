@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.293594,36.821986,-77.293594,36.821986",
     "geom:latitude":36.821986,
     "geom:longitude":-77.293594,
@@ -31,17 +32,30 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bbVG43dVPIT23cIXCe36V_36.821986_-77.293594@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890835,
-    "wof:geomhash":"8ffe2eee126ee87108c9ab6127096c1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4e9e89d708c205a0021db477314969c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":722902327
+        }
+    ],
     "wof:id":722902327,
-    "wof:lastmodified":1472652073,
+    "wof:lastmodified":1492074363,
     "wof:name":"Camp Rudolph",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

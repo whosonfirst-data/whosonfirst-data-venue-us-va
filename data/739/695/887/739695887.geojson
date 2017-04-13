@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.521109,38.891213,-78.521109,38.891213",
     "geom:latitude":38.891213,
     "geom:longitude":-78.521109,
@@ -33,17 +34,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HGuJ65EBpbJkb7QDWjM32_38.891213_-78.521109@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912460,
-    "wof:geomhash":"a1cb2cc801eeed1048305222e544cf44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b38071a4691b3facebf6aec5052c6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739695887
+        }
+    ],
     "wof:id":739695887,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492045352,
     "wof:name":"Center For Internet Security, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

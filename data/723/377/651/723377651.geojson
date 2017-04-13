@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526463,37.112504,-76.526463,37.112504",
     "geom:latitude":37.112504,
     "geom:longitude":-76.526463,
@@ -31,17 +32,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HxIFflPagUxOv2VGwgjf4_37.112504_-76.526463@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900537,
-    "wof:geomhash":"408a0f1ca21d5b87509a65df95e1b77b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"409754c734acd73f107cb7a5f14dca3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723377651
+        }
+    ],
     "wof:id":723377651,
-    "wof:lastmodified":1472652118,
+    "wof:lastmodified":1492049538,
     "wof:name":"Beck & Stein Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

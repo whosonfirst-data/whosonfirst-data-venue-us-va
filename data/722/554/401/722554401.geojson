@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.987731,36.706019,-81.987731,36.706019",
     "geom:latitude":36.706019,
     "geom:longitude":-81.987731,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UISBg8yzE7KfsxODZi5Yn_36.706019_-81.987731@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884101,
-    "wof:geomhash":"51f90701dbe42b824ee303724eeb9e63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed25e0ce6d4855a40dd370da6b15d16f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722554401
+        }
+    ],
     "wof:id":722554401,
-    "wof:lastmodified":1472651105,
+    "wof:lastmodified":1492072923,
     "wof:name":"Bob's Hair Designs",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

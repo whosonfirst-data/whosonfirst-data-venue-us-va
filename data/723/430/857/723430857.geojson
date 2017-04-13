@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761807,37.245016,-76.761807,37.245016",
     "geom:latitude":37.245016,
     "geom:longitude":-76.761807,
@@ -31,17 +32,26 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VqcPJ5thJKUlH35lNSUtb_37.245016_-76.761807@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901582,
-    "wof:geomhash":"597cc475ffea9659391bedc0739380fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7e2879ac0ebf2c721f57d1102a8b291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":723430857
+        }
+    ],
     "wof:id":723430857,
-    "wof:lastmodified":1472652266,
+    "wof:lastmodified":1492056735,
     "wof:name":"Unicorn Cottage",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

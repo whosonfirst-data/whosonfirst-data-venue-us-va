@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.895221,37.291757,-79.895221,37.291757",
     "geom:latitude":37.291757,
     "geom:longitude":-79.895221,
@@ -31,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j501Gj5NAIEebxHAoPX00_37.291757_-79.895221@1303262552"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461913300,
     "wof:geomhash":"b70c655d64695782f02458e69243f278",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735063
+        }
+    ],
     "wof:id":739735063,
-    "wof:lastmodified":1472652222,
+    "wof:lastmodified":1492032068,
     "wof:name":"Tasteful Treasures By Raquel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

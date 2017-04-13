@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.322285,37.110774,-76.322285,37.110774",
     "geom:latitude":37.110774,
     "geom:longitude":-76.322285,
@@ -37,17 +38,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728893,
+        102085963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2huWTCddKvBIHKXP5d2KTW_37.110774_-76.322285@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886567,
-    "wof:geomhash":"cacfe628ec244423c6d4070348a3ff11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1216760a79535826e62367256d9bc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085963,
+            "locality_id":101728893,
+            "region_id":85688747,
+            "venue_id":722679221
+        }
+    ],
     "wof:id":722679221,
-    "wof:lastmodified":1472651511,
+    "wof:lastmodified":1492066830,
     "wof:name":"Poquoson Yacht Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

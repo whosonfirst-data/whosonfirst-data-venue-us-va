@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508988,38.305109,-77.508988,38.305109",
     "geom:latitude":38.305109,
     "geom:longitude":-77.508988,
@@ -39,17 +40,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728699,
+        102084973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zFVE3YcV3aBeS7beStPhu_38.305109_-77.508988@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890947,
-    "wof:geomhash":"8a23febd9213433a41f209f11439a3df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f20eb028ba074f90094cff564a0ad8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "region_id":85688747,
+            "venue_id":722907853
+        }
+    ],
     "wof:id":722907853,
-    "wof:lastmodified":1472652136,
+    "wof:lastmodified":1492074311,
     "wof:name":"Wild Bird Ctr Fredericksburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411863,38.464092,-77.411863,38.464092",
     "geom:latitude":38.464092,
     "geom:longitude":-77.411863,
@@ -33,8 +34,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547111,
+        85688747,
         85894041,
         102081931
     ],
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1461896360,
-    "wof:geomhash":"cad8155d515677c60ecd917d7bf0f4dc",
+    "wof:geomhash":"f40e4744537d1ab147d35dc5fcfb9ea6",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":723163935
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":723163935,
-    "wof:lastmodified":1472651471,
+    "wof:lastmodified":1492052778,
     "wof:name":"Fredericksburg Orthopedic Assc",
-    "wof:parent_id":85894041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

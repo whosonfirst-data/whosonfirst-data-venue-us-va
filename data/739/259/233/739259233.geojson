@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.564646,38.823085,-78.564646,38.823085",
     "geom:latitude":38.823085,
     "geom:longitude":-78.564646,
@@ -31,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728873,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xmFVAXbqrY7v2xHRv3HSf_38.823085_-78.564646@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461903683,
     "wof:geomhash":"4d10db29160227f0435db65f3f150fbb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728873,
+            "region_id":85688747,
+            "venue_id":739259233
+        }
+    ],
     "wof:id":739259233,
-    "wof:lastmodified":1472651096,
+    "wof:lastmodified":1492032928,
     "wof:name":"Christian Edinburg Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

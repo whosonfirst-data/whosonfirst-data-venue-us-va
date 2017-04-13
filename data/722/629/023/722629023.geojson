@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.592096,38.322942,-77.592096,38.322942",
     "geom:latitude":38.322942,
     "geom:longitude":-77.592096,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KJrgEiMlnTEtH4NXpahxX_38.322942_-77.592096@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885591,
-    "wof:geomhash":"c083dc1c246313bd0dde9818d0251688",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e1df43a8962b4de0677f20a164d0e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":722629023
+        }
+    ],
     "wof:id":722629023,
-    "wof:lastmodified":1472651390,
+    "wof:lastmodified":1492066487,
     "wof:name":"Woodland Financial Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

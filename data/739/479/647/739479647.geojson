@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.189863,38.732721,-77.189863,38.732721",
     "geom:latitude":38.732721,
     "geom:longitude":-77.189863,
@@ -31,7 +32,13 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SO1HetE9OcRf3MMWVCgyi_38.732721_-77.189863@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908066,
     "wof:geomhash":"4d635ff28a42f7a42d84ad1251191105",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739479647
+        }
+    ],
     "wof:id":739479647,
-    "wof:lastmodified":1472651646,
+    "wof:lastmodified":1492030583,
     "wof:name":"Cheyenne Printing-E Digital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

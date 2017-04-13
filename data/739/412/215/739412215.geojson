@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.28507,36.828679,-76.28507,36.828679",
     "geom:latitude":36.828679,
     "geom:longitude":-76.28507,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CPWf2LGK3ovaNOlbmbh1L_36.828679_-76.285070@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906806,
-    "wof:geomhash":"dc3d2d7ead0565cf7502c71a6f5dcee1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03479eceacf1fb2dde49e101e548aebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739412215
+        }
+    ],
     "wof:id":739412215,
-    "wof:lastmodified":1472651462,
+    "wof:lastmodified":1492040637,
     "wof:name":"Port City Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

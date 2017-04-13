@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.867612,38.452877,-78.867612,38.452877",
     "geom:latitude":38.452877,
     "geom:longitude":-78.867612,
@@ -28,7 +29,13 @@
     "sg:postcode":"22802",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O922OPCaV5BISYKky6KQA_38.452877_-78.867612@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907689,
     "wof:geomhash":"2a63224955ddb8090db79fce6ffc4c69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739458291
+        }
+    ],
     "wof:id":739458291,
-    "wof:lastmodified":1472651577,
+    "wof:lastmodified":1492030026,
     "wof:name":"Asap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

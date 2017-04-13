@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.427964,37.173884,-76.427964,37.173884",
     "geom:latitude":37.173884,
     "geom:longitude":-76.427964,
@@ -31,17 +32,26 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09qADDzpFXFLMo6TGCClUm_37.173884_-76.427964@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906050,
-    "wof:geomhash":"f663ab30ad59314aaa1d58596f1d0716",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9f7c90c1122f126ded412d8681e915f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739372405
+        }
+    ],
     "wof:id":739372405,
-    "wof:lastmodified":1472651350,
+    "wof:lastmodified":1492037565,
     "wof:name":"MSG Drafting",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

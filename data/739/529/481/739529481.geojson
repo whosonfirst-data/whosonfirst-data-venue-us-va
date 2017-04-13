@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.307787,38.844313,-77.307787,38.844313",
     "geom:latitude":38.844313,
     "geom:longitude":-77.307787,
@@ -31,7 +32,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728653,
+        102080645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n3NktPrPTX6Mnrvi2VzXT_38.844313_-77.307787@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908969,
     "wof:geomhash":"db65e425b4ad59e9dce78c9b0f21b213",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080645,
+            "locality_id":101728653,
+            "region_id":85688747,
+            "venue_id":739529481
+        }
+    ],
     "wof:id":739529481,
-    "wof:lastmodified":1472651791,
+    "wof:lastmodified":1492030815,
     "wof:name":"ABC Rapid Recovery Credit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

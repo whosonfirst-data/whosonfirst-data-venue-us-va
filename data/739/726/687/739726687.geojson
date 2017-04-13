@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.538017,36.961888,-76.538017,36.961888",
     "geom:latitude":36.961888,
     "geom:longitude":-76.538017,
@@ -37,17 +38,32 @@
         "audio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DOWQoEPX5w4qmEdJ7Ugjw_36.961888_-76.538017@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913124,
-    "wof:geomhash":"1876ac4ef973ee1fa33f2737f96a92e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a77c89f9c55d2f96563180c992639e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739726687
+        }
+    ],
     "wof:id":739726687,
-    "wof:lastmodified":1472652237,
+    "wof:lastmodified":1492038605,
     "wof:name":"Soundhaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

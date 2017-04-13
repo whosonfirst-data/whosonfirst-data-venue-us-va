@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.085351,36.851787,-76.085351,36.851787",
     "geom:latitude":36.851787,
     "geom:longitude":-76.085351,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85828391,
         85832007
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888787,
-    "wof:geomhash":"408f3958761f6162409e5ff3d979a551",
+    "wof:geomhash":"b07f63583fd8bab3bcea3f0fe973013f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85828391,
+            "region_id":85688747,
+            "venue_id":722794407
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722794407,
-    "wof:lastmodified":1472651780,
+    "wof:lastmodified":1492074457,
     "wof:name":"All American Transcribing",
-    "wof:parent_id":85832007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

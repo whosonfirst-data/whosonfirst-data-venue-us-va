@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.58115,37.107478,-80.58115,37.107478",
     "geom:latitude":37.107478,
     "geom:longitude":-80.58115,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728831,
+        102081063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e2VHibIIn4Z0Ilo20y2bc_37.107478_-80.581150@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885022,
-    "wof:geomhash":"73222cbd714c6f36a45b9c82ee8c3bac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a2e78e94616dbad96739ea9792a6a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "region_id":85688747,
+            "venue_id":722602087
+        }
+    ],
     "wof:id":722602087,
-    "wof:lastmodified":1472651269,
+    "wof:lastmodified":1492075355,
     "wof:name":"New River Garden Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

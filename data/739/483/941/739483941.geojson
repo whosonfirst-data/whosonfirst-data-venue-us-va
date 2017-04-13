@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.339985,37.304573,-81.339985,37.304573",
     "geom:latitude":37.304573,
     "geom:longitude":-81.339985,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728569,
+        102081049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VLOcUaqypjzoDGDluQe1v_37.304573_-81.339985@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908144,
-    "wof:geomhash":"19efe79fc61f14ae0576152efac7a459",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3725e692d22c66a1b7ca00945cd2307c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081049,
+            "locality_id":101728569,
+            "region_id":85688747,
+            "venue_id":739483941
+        }
+    ],
     "wof:id":739483941,
-    "wof:lastmodified":1472651657,
+    "wof:lastmodified":1492044324,
     "wof:name":"Pocahontas Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

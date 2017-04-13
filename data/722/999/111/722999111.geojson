@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.093414,37.274701,-79.093414,37.274701",
     "geom:latitude":37.274701,
     "geom:longitude":-79.093414,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BduTzswpWhRaFgjANUqK1_37.274701_-79.093414@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892888,
-    "wof:geomhash":"828eb6446ecd250f0d8809aca8a1a9fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"869b13e8cf50505593b593b50752af90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":722999111
+        }
+    ],
     "wof:id":722999111,
-    "wof:lastmodified":1472652330,
+    "wof:lastmodified":1492069991,
     "wof:name":"Franklin Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

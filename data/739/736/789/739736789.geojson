@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.897488,37.348325,-79.897488,37.348325",
     "geom:latitude":37.348325,
     "geom:longitude":-79.897488,
@@ -31,7 +32,13 @@
         "arbitration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OI6tSMEybxsHcwTrJ9HO9_37.348325_-79.897488@1303262552"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461913347,
     "wof:geomhash":"4ab76022c915b9a12f11a2745f2accbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":739736789
+        }
+    ],
     "wof:id":739736789,
-    "wof:lastmodified":1472652259,
+    "wof:lastmodified":1492032253,
     "wof:name":"Alpha Omega Resolutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

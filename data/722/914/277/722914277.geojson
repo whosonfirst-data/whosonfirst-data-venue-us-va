@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.358791,37.032647,-76.358791,37.032647",
     "geom:latitude":37.032647,
     "geom:longitude":-76.358791,
@@ -38,6 +39,7 @@
         85633793,
         101728661,
         102084913,
+        85858251,
         85855597
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461891069,
-    "wof:geomhash":"66fd59bf64da20b778497493abe7b9b6",
+    "wof:geomhash":"01c7f64c34100f3c5578806f00b97cc4",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85858251,
+            "region_id":85688747,
+            "venue_id":722914277
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":722914277,
-    "wof:lastmodified":1472652112,
+    "wof:lastmodified":1492070665,
     "wof:name":"Oliver & Joan Reeves",
-    "wof:parent_id":85855597,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

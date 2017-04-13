@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.132049,36.721408,-78.132049,36.721408",
     "geom:latitude":36.721408,
     "geom:longitude":-78.132049,
@@ -31,17 +32,32 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oChWDoluCsXYIkyt1EXiB_36.721408_-78.132049@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900971,
-    "wof:geomhash":"34e9ade7edce0615e4a803e2456bf3fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"737669c9043ed91bc2ff225286a45cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":723400117
+        }
+    ],
     "wof:id":723400117,
-    "wof:lastmodified":1472652116,
+    "wof:lastmodified":1492051235,
     "wof:name":"The Medicine Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

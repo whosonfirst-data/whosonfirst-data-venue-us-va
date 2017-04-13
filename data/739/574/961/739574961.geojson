@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.581527,37.61965,-77.581527,37.61965",
     "geom:latitude":37.61965,
     "geom:longitude":-77.581527,
@@ -35,17 +36,30 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZJ2F1iDQrbSFUd61TAuR9_37.619714_-77.581633@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909893,
-    "wof:geomhash":"864bb7e1319cf8874e413b03bd70cad8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"016c71902a40c3550f6cc241db5001eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739574961
+        }
+    ],
     "wof:id":739574961,
-    "wof:lastmodified":1472651909,
+    "wof:lastmodified":1492045482,
     "wof:name":"Trego & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

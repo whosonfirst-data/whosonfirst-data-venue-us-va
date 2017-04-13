@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533734,38.367686,-77.533734,38.367686",
     "geom:latitude":38.367686,
     "geom:longitude":-77.533734,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32iZL7xa725JP14xyCewgW_38.367686_-77.533734@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889203,
-    "wof:geomhash":"3089044594825c5ecaadb659667d8aee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ef57f45d12734410345dc33f06b2443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":722817417
+        }
+    ],
     "wof:id":722817417,
-    "wof:lastmodified":1472651881,
+    "wof:lastmodified":1492073390,
     "wof:name":"Stafford Lake Apartments",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

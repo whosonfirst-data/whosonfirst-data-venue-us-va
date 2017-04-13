@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.070588,36.675556,-78.070588,36.675556",
     "geom:latitude":36.675556,
     "geom:longitude":-78.070588,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oORd361fYBWosjxRyoYsA_36.675556_-78.070588@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894818,
-    "wof:geomhash":"853264856b69eca33aadf3adaaf666f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"000bdc5ee028488071a6ac37f9bd8ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":723085341
+        }
+    ],
     "wof:id":723085341,
-    "wof:lastmodified":1472651283,
+    "wof:lastmodified":1492049891,
     "wof:name":"Hayes Lndon Pntg Pressure Wshg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

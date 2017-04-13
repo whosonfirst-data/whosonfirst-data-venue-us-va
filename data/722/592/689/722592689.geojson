@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.01351,36.720984,-82.01351,36.720984",
     "geom:latitude":36.720984,
     "geom:longitude":-82.01351,
@@ -31,17 +32,26 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kGX3vRss0yacJVxlyNCbb_36.720984_-82.013510@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884838,
-    "wof:geomhash":"e3a8ee2aa5fd5a727f184f73174f1952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68752dd337773635678f6f3da02f78bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722592689
+        }
+    ],
     "wof:id":722592689,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492069945,
     "wof:name":"OHM Shree Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

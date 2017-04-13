@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.570413,37.644833,-77.570413,37.644833",
     "geom:latitude":37.644833,
     "geom:longitude":-77.570413,
@@ -32,17 +33,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gO0MWwioqHE0knQl3Cxhm_37.644833_-77.570413@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900451,
-    "wof:geomhash":"839ae50bcc6ef0b2cbc7b34d6bfa20d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79750beaae17e9c842fda4678ed8db16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":723373707
+        }
+    ],
     "wof:id":723373707,
-    "wof:lastmodified":1472652103,
+    "wof:lastmodified":1492061763,
     "wof:name":"Tidewater Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374619,38.50568,-77.374619,38.50568",
     "geom:latitude":38.50568,
     "geom:longitude":-77.374619,
@@ -31,7 +32,10 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xKs4j8KYs2Netd0X7LvYG_38.505680_-77.374619@1303262547"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912433,
     "wof:geomhash":"8a3c97b9adeba47d615456d583a16735",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739694749
+        }
+    ],
     "wof:id":739694749,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492030225,
     "wof:name":"Dannys Auto Repair And Used Tires",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

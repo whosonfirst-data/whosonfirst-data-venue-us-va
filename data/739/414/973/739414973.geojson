@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.792796,37.514824,-77.792796,37.514824",
     "geom:latitude":37.514824,
     "geom:longitude":-77.792796,
@@ -31,7 +32,12 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4atqe7ytSMoxR6Z9Oaf5R6_37.514824_-77.792796@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906856,
     "wof:geomhash":"0265eda30bf8e58cdc4decb5dc4108fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739414973
+        }
+    ],
     "wof:id":739414973,
-    "wof:lastmodified":1472651497,
+    "wof:lastmodified":1492032395,
     "wof:name":"Powhatan Rental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

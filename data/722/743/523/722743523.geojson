@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.58672,38.300666,-77.58672,38.300666",
     "geom:latitude":38.300666,
     "geom:longitude":-77.58672,
@@ -32,17 +33,30 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OAz7GJdzeEAZ5qW3CszSF_38.300666_-77.586720@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887817,
-    "wof:geomhash":"463bedcefebc05b2db1edef59a0db999",
-    "wof:hierarchy":[],
+    "wof:geomhash":"063c72db4410650dc4b76430b8c49e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722743523
+        }
+    ],
     "wof:id":722743523,
-    "wof:lastmodified":1472651677,
+    "wof:lastmodified":1492067374,
     "wof:name":"SER Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

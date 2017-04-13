@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44165,38.353143,-77.44165,38.353143",
     "geom:latitude":38.353143,
     "geom:longitude":-77.44165,
@@ -32,17 +33,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sZmmbiTeWk69fBqQDXAut_38.353143_-77.441650@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899393,
-    "wof:geomhash":"20b3f9219df1765b04e98bd94537a35e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3db03818fe8dd12db0a565c0fd006951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":723317053
+        }
+    ],
     "wof:id":723317053,
-    "wof:lastmodified":1472651726,
+    "wof:lastmodified":1492057954,
     "wof:name":"Memories In Print",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

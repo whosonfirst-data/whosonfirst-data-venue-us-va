@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.234611,37.468739,-79.234611,37.468739",
     "geom:latitude":37.468739,
     "geom:longitude":-79.234611,
@@ -31,17 +32,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gnR7grYmvzJb1pt9l5FsF_37.468739_-79.234611@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907741,
-    "wof:geomhash":"5077a054bde49e51006955d8bf5001da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73d3df24de9eeeb461ecb41709b8a067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739461505
+        }
+    ],
     "wof:id":739461505,
-    "wof:lastmodified":1472651615,
+    "wof:lastmodified":1492042300,
     "wof:name":"Alpha Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

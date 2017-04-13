@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.155062,36.563529,-82.155062,36.563529",
     "geom:latitude":36.563529,
     "geom:longitude":-82.155062,
@@ -31,17 +32,30 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NeHzPpXrQDoGqlDyzW7F6_36.563529_-82.155062@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903651,
-    "wof:geomhash":"de02230694bd87341d48ab75812842be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"180b4c44dffa59ad7ec1472a64871e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "region_id":85688701,
+            "venue_id":739257731
+        }
+    ],
     "wof:id":739257731,
-    "wof:lastmodified":1472651120,
+    "wof:lastmodified":1492041903,
     "wof:name":"American Vending Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

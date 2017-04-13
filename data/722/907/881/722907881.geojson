@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.161296,38.82219,-77.161296,38.82219",
     "geom:latitude":38.82219,
     "geom:longitude":-77.161296,
@@ -34,7 +35,8 @@
         85633793,
         101729761,
         102084863,
-        85857319
+        85857319,
+        85841899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890947,
-    "wof:geomhash":"c7120e0b45c895e3d67015c3f0468b7f",
+    "wof:geomhash":"74406a03bca2b93511a25a69adffe435",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85857319,
             "region_id":85688747,
             "venue_id":722907881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85841899,
+            "region_id":85688747,
+            "venue_id":722907881
         }
     ],
     "wof:id":722907881,
-    "wof:lastmodified":1472652137,
+    "wof:lastmodified":1492074309,
     "wof:name":"Home Depot",
-    "wof:parent_id":85857319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

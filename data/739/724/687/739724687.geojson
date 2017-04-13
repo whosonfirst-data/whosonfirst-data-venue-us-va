@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.616859,37.492371,-77.616859,37.492371",
     "geom:latitude":37.492371,
     "geom:longitude":-77.616859,
@@ -40,7 +41,12 @@
     ],
     "sg:website":"http://www.fantasticsams.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LbdnteQNlRnDZY7wewIAS_37.492371_-77.616859@1303262551"
@@ -48,9 +54,17 @@
     "wof:country":"US",
     "wof:created":1461913086,
     "wof:geomhash":"1aac88dfb71d5ad6f68b000c2b44d2d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724687
+        }
+    ],
     "wof:id":739724687,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492030946,
     "wof:name":"Fantastic Sams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

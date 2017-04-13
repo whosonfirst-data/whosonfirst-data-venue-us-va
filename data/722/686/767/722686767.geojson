@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.468015,38.429527,-77.468015,38.429527",
     "geom:latitude":38.429527,
     "geom:longitude":-77.468015,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547171,
+        85688747,
         85843725,
         102081931
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1461886715,
-    "wof:geomhash":"f2b5da5fb4e018d4cf9a352fe34c01a1",
+    "wof:geomhash":"a2bf96aa48234146e826126d9f27b9f3",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547171,
+            "venue_id":722686767
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":722686767,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492063061,
     "wof:name":"RLB Homes LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

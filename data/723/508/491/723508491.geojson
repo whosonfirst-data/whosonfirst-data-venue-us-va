@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.276831,38.872711,-77.276831,38.872711",
     "geom:latitude":38.872711,
     "geom:longitude":-77.276831,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LTXUbxw5s5WS4BLwbMqNL_38.872711_-77.276831@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903144,
-    "wof:geomhash":"0ebb14eb05e8fde87f7a6ca7b78b4881",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03388230bcbf60036b6d346a17585e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":723508491
+        }
+    ],
     "wof:id":723508491,
-    "wof:lastmodified":1472652358,
+    "wof:lastmodified":1492054159,
     "wof:name":"D W Bruce MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

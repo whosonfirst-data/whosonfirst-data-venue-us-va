@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.714539,37.360541,-76.714539,37.360541",
     "geom:latitude":37.360541,
     "geom:longitude":-76.714539,
@@ -31,17 +32,26 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HjR4MKUlLbHEGdgOHvRpr_37.360541_-76.714539@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900436,
-    "wof:geomhash":"182b23acd8ea1ab64cf073a8104290ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59773c287216118501e37d7ff5c4181e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547343,
+            "venue_id":723372845
+        }
+    ],
     "wof:id":723372845,
-    "wof:lastmodified":1472652108,
+    "wof:lastmodified":1492052257,
     "wof:name":"KOA Kampground",
     "wof:parent_id":420547343,
     "wof:placetype":"venue",

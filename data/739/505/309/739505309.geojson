@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564163,37.480467,-77.564163,37.480467",
     "geom:latitude":37.480467,
     "geom:longitude":-77.564163,
@@ -31,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729311,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5h7CLK0bhYJgCJJvm9ZwsY_37.480467_-77.564163@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908524,
     "wof:geomhash":"7bbe8a376d16a82b7ed7af484387fad6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729311,
+            "region_id":85688747,
+            "venue_id":739505309
+        }
+    ],
     "wof:id":739505309,
-    "wof:lastmodified":1472651761,
+    "wof:lastmodified":1492032234,
     "wof:name":"Da Williams Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

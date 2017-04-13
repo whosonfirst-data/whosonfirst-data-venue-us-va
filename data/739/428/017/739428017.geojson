@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.886895,38.014083,-77.886895,38.014083",
     "geom:latitude":38.014083,
     "geom:longitude":-77.886895,
@@ -33,7 +34,12 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57RS6ZF4YP2sxVMwhnc8ym_38.014083_-77.886895@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907124,
     "wof:geomhash":"35b8d87507ae6d24cbacd07f6fd1239a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739428017
+        }
+    ],
     "wof:id":739428017,
-    "wof:lastmodified":1472651507,
+    "wof:lastmodified":1492030972,
     "wof:name":"Hanley Well Pump Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.398153,38.126717,-77.398153,38.126717",
     "geom:latitude":38.126717,
     "geom:longitude":-77.398153,
@@ -33,7 +34,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kvAG145o28AX7zglkoGJa_38.126717_-77.398153@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461905682,
     "wof:geomhash":"6b53b25c1a490094cf0597f56919ed3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739353149
+        }
+    ],
     "wof:id":739353149,
-    "wof:lastmodified":1472651329,
+    "wof:lastmodified":1492030568,
     "wof:name":"D L Sale Trucking Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.482178,38.431844,-77.482178,38.431844",
     "geom:latitude":38.431844,
     "geom:longitude":-77.482178,
@@ -31,17 +32,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3is2pESVyuPJ6ennItlWPi_38.431844_-77.482178@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896015,
-    "wof:geomhash":"4c1c723e0aa5dd1369e3743081c43871",
-    "wof:hierarchy":[],
+    "wof:geomhash":"994ac594192fb7bee92781eb7221199d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":723145843
+        }
+    ],
     "wof:id":723145843,
-    "wof:lastmodified":1472651425,
+    "wof:lastmodified":1492061635,
     "wof:name":"Arizona Golf Works",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

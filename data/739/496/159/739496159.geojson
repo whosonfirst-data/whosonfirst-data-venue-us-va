@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.598694,38.841533,-77.598694,38.841533",
     "geom:latitude":38.841533,
     "geom:longitude":-77.598694,
@@ -32,7 +33,12 @@
         "representative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kxYkeWOiTzWqOGlu2Si8U_38.841533_-77.598694@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908363,
     "wof:geomhash":"4c82d7339aca2607d532617db3109b15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739496159
+        }
+    ],
     "wof:id":739496159,
-    "wof:lastmodified":1472651678,
+    "wof:lastmodified":1492033020,
     "wof:name":"Days To Remember",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

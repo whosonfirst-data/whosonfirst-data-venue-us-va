@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.710908,37.328425,-76.710908,37.328425",
     "geom:latitude":37.328425,
     "geom:longitude":-76.710908,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b0RFBKdEovRD41bnral5u_37.328425_-76.710908@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897385,
-    "wof:geomhash":"2d06e527f545e636e018e297b5bb6f33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"027141f14b5afa66d77b5df02703cab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":723216035
+        }
+    ],
     "wof:id":723216035,
-    "wof:lastmodified":1472651601,
+    "wof:lastmodified":1492049491,
     "wof:name":"Donald Broady",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

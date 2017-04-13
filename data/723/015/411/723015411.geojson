@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.165945,39.187265,-78.165945,39.187265",
     "geom:latitude":39.187265,
     "geom:longitude":-78.165945,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xmfkYzmYApXpqmTY992iU_39.187265_-78.165945@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893256,
-    "wof:geomhash":"b2f0722ac77bbcdf61ba7a63a2fbc676",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07afac53e74b6641aad2684678c55c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723015411
+        }
+    ],
     "wof:id":723015411,
-    "wof:lastmodified":1472651107,
+    "wof:lastmodified":1492047454,
     "wof:name":"Apple Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

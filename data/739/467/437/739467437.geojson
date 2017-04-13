@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.559761,37.534444,-77.559761,37.534444",
     "geom:latitude":37.534444,
     "geom:longitude":-77.559761,
@@ -31,7 +32,13 @@
         "legal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kUu8vdwb7mtHxGt9Qd7p1_37.534444_-77.559761@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907843,
     "wof:geomhash":"52cc347a929d694c3ad3f0d125fc4cfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739467437
+        }
+    ],
     "wof:id":739467437,
-    "wof:lastmodified":1472651614,
+    "wof:lastmodified":1492030522,
     "wof:name":"Joe Lewis Attorney PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

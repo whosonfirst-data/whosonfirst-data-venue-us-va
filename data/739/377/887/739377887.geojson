@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460662,38.459149,-77.460662,38.459149",
     "geom:latitude":38.459149,
     "geom:longitude":-77.460662,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OcldTbRpnXiQO9UdCgdzI_38.459149_-77.460662@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461906149,
     "wof:geomhash":"8a49f7f04fa1072c93a6442b6b0b4f36",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":739377887
+        }
+    ],
     "wof:id":739377887,
-    "wof:lastmodified":1472651367,
+    "wof:lastmodified":1492031191,
     "wof:name":"Classic Carpentry Inc",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

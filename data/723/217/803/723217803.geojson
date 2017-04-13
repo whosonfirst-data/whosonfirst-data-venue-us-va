@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.189693,39.354155,-78.189693,39.354155",
     "geom:latitude":39.354155,
     "geom:longitude":-78.189693,
@@ -33,17 +34,30 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fEloxkQF5nEL09SJgjqwH_39.354155_-78.189693@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897423,
-    "wof:geomhash":"58aa4008c7f0d45fd1651c908f1048bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf36eb664bc4d16f1db794aa368cda95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":723217803
+        }
+    ],
     "wof:id":723217803,
-    "wof:lastmodified":1472651642,
+    "wof:lastmodified":1492059147,
     "wof:name":"Dansco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

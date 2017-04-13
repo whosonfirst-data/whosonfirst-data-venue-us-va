@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.275849,36.89433,-81.275849,36.89433",
     "geom:latitude":36.89433,
     "geom:longitude":-81.275849,
@@ -39,17 +40,26 @@
         "new"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RG9lN6Tr7TXprbeEt6mht_36.894330_-81.275849@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894784,
-    "wof:geomhash":"ee81384c6a2860afe7172c0bfac32545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f53f048afac9b321bb2c0ddc01412be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723083435
+        }
+    ],
     "wof:id":723083435,
-    "wof:lastmodified":1472651292,
+    "wof:lastmodified":1492052006,
     "wof:name":"Randy's Inc",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

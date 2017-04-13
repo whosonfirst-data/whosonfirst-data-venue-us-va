@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701696,37.356322,-76.701696,37.356322",
     "geom:latitude":37.356322,
     "geom:longitude":-76.701696,
@@ -33,19 +34,38 @@
         "engineering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894079,
+        102086731,
+        420547343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iE9FQXLt8lnLJpNv7OdHz_37.356322_-76.701696@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898152,
-    "wof:geomhash":"a29191d9b2c416119be0ee047fe2b1a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e700f191492003c2ac7966bfa2e77727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086731,
+            "neighbourhood_id":85894079,
+            "region_id":85688747,
+            "venue_id":723251597
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547343,
+            "venue_id":723251597
+        }
+    ],
     "wof:id":723251597,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492047886,
     "wof:name":"Hitek Security",
-    "wof:parent_id":420547343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

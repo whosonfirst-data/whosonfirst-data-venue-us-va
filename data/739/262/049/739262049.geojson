@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.729979,37.318599,-76.729979,37.318599",
     "geom:latitude":37.318599,
     "geom:longitude":-76.729979,
@@ -31,19 +32,28 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CAM95Px4hCGiJtth6BtnV_37.318599_-76.729979@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903749,
-    "wof:geomhash":"10b51482455108693badfd5aab4641e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c114827dd5de9ff78e3d833e11502cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":739262049
+        }
+    ],
     "wof:id":739262049,
-    "wof:lastmodified":1472651093,
+    "wof:lastmodified":1492045937,
     "wof:name":"Colonial Gardens",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

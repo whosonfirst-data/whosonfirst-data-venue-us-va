@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.440036,37.08448,-76.440036,37.08448",
     "geom:latitude":37.08448,
     "geom:longitude":-76.440036,
@@ -32,17 +33,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VfY3PYRuZrDBlJqpyIlC2_37.084480_-76.440036@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891984,
-    "wof:geomhash":"7e516661f98b9ff877441d5109157177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ec619e45a38f78573655776dd8f6e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722958031
+        }
+    ],
     "wof:id":722958031,
-    "wof:lastmodified":1472652277,
+    "wof:lastmodified":1492071512,
     "wof:name":"Forum Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

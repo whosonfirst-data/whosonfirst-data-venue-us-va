@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.520431,37.117194,-81.520431,37.117194",
     "geom:latitude":37.117194,
     "geom:longitude":-81.520431,
@@ -32,17 +33,26 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ajWdY7PwtZkcb95qpsTUg_37.117194_-81.520431@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906452,
-    "wof:geomhash":"2c2446e566a7b46977260363666f8c28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80585d167576a82d918b90d8a8e4bd90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739393193
+        }
+    ],
     "wof:id":739393193,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492041133,
     "wof:name":"Tazewell Treasurer",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

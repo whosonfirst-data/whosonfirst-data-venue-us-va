@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430125,38.886428,-77.430125,38.886428",
     "geom:latitude":38.886428,
     "geom:longitude":-77.430125,
@@ -37,7 +38,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZXUG2yAywY4dbMcgupQVS_38.886428_-77.430125@1294252573"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461904886,
     "wof:geomhash":"3d423d6a0d402147455904abfff865a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739316141
+        }
+    ],
     "wof:id":739316141,
-    "wof:lastmodified":1472651202,
+    "wof:lastmodified":1492031821,
     "wof:name":"Charles Chips of Northern VA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

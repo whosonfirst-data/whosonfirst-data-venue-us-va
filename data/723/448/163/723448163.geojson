@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.325806,37.32546,-77.325806,37.32546",
     "geom:latitude":37.32546,
     "geom:longitude":-77.325806,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729321,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wyx76gPJ5uxH4Lih9aWbm_37.325460_-77.325806@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901913,
-    "wof:geomhash":"7ca69a1c7f47925a0a5a30a4965971cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa9dc933c3ecfd725e2c77886f3933e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729321,
+            "region_id":85688747,
+            "venue_id":723448163
+        }
+    ],
     "wof:id":723448163,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492052879,
     "wof:name":"Evans Machine Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

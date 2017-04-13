@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.818467,37.097599,-76.818467,37.097599",
     "geom:latitude":37.097599,
     "geom:longitude":-76.818467,
@@ -36,17 +37,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PZtI5y2B8U9uonxbRTAHk_37.097599_-76.818467@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901621,
-    "wof:geomhash":"8063a5322971c2fa5f215855e8a2b403",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e45633bae7b7540fc175b5368b6a66a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723433007
+        }
+    ],
     "wof:id":723433007,
-    "wof:lastmodified":1472652217,
+    "wof:lastmodified":1492048555,
     "wof:name":"Billy's Equipment Repair",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

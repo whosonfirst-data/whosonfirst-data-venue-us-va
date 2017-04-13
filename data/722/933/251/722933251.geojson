@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.390069,36.667736,-78.390069,36.667736",
     "geom:latitude":36.667736,
     "geom:longitude":-78.390069,
@@ -31,17 +32,32 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729011,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zPwt8nIRvqmEf4NNlqpnj_36.667736_-78.390069@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891476,
-    "wof:geomhash":"86bc01fa16fbc53936ca2371dc930971",
-    "wof:hierarchy":[],
+    "wof:geomhash":"372aecbd37527c318ed30db522a0b3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729011,
+            "region_id":85688747,
+            "venue_id":722933251
+        }
+    ],
     "wof:id":722933251,
-    "wof:lastmodified":1472652157,
+    "wof:lastmodified":1492066178,
     "wof:name":"Mecklenburg Cnty Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

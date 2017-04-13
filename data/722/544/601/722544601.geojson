@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.559458,38.149421,-78.559458,38.149421",
     "geom:latitude":38.149421,
     "geom:longitude":-78.559458,
@@ -32,17 +33,32 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729629,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gE3VV4gZSXgtQpVkaw1g1_38.149421_-78.559458@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883895,
-    "wof:geomhash":"16f3cfcc4ec0f599af2b7ea81a6c9faa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec6df8ce8e4085e65ede3e5ae2089c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729629,
+            "region_id":85688747,
+            "venue_id":722544601
+        }
+    ],
     "wof:id":722544601,
-    "wof:lastmodified":1472651085,
+    "wof:lastmodified":1492068316,
     "wof:name":"Patagonia International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

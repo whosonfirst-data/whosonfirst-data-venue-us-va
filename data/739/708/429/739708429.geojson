@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.188528,38.209412,-78.188528,38.209412",
     "geom:latitude":38.209412,
     "geom:longitude":-78.188528,
@@ -32,7 +33,12 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KrKWDrVlCj6OAb9H0RMC8_38.209412_-78.188528@1303262548"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912749,
     "wof:geomhash":"683fda690a33e67176afcd912aab1e74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "region_id":85688747,
+            "venue_id":739708429
+        }
+    ],
     "wof:id":739708429,
-    "wof:lastmodified":1472652194,
+    "wof:lastmodified":1492030771,
     "wof:name":"Jason A Bradley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

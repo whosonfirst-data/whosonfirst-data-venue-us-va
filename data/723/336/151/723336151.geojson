@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.507117,37.124524,-81.507117,37.124524",
     "geom:latitude":37.124524,
     "geom:longitude":-81.507117,
@@ -31,17 +32,26 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g1evwf4GlYN8yaoO7Vyuz_37.124524_-81.507117@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899734,
-    "wof:geomhash":"ac0e087a5fe63248c2b24c289fb4a19d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69d3b31c6a1e3edf2ca2c0e68298e70a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":723336151
+        }
+    ],
     "wof:id":723336151,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492058227,
     "wof:name":"AV Department",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

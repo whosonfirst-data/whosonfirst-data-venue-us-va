@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430046,38.395386,-77.430046,38.395386",
     "geom:latitude":38.395386,
     "geom:longitude":-77.430046,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gsN0Y6lHTNsYOm7AcKtRK_38.395386_-77.430046@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906629,
-    "wof:geomhash":"2521b07c67c3c222716ef5605fb11ee5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc8de57cc3c08d89492b6038ed9e9f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739402687
+        }
+    ],
     "wof:id":739402687,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492040303,
     "wof:name":"Airport Auto Sales",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

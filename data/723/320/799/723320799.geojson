@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8967,37.387069,-76.8967,37.387069",
     "geom:latitude":37.387069,
     "geom:longitude":-76.8967,
@@ -32,19 +33,28 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UvP9CqF5lVxb0b9ejZd11_37.387069_-76.896700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899463,
-    "wof:geomhash":"ed0b116656a2058ffe5255bcedaaed4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d37d24eccb8164788af7d0a1c15114a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546607,
+            "venue_id":723320799
+        }
+    ],
     "wof:id":723320799,
-    "wof:lastmodified":1472651831,
+    "wof:lastmodified":1492052964,
     "wof:name":"Paulco Builders Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

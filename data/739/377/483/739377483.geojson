@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.357987,38.985925,-78.357987,38.985925",
     "geom:latitude":38.985925,
     "geom:longitude":-78.357987,
@@ -31,7 +32,13 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21LNv3huvKOpFJH6GAIB3D_38.985925_-78.357987@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906142,
     "wof:geomhash":"794a517763eca6677b4a1352e98034f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":739377483
+        }
+    ],
     "wof:id":739377483,
-    "wof:lastmodified":1472651352,
+    "wof:lastmodified":1492031196,
     "wof:name":"Six Star Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

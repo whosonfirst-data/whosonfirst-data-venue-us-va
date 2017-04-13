@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.296838,38.835698,-77.296838,38.835698",
     "geom:latitude":38.835698,
     "geom:longitude":-77.296838,
@@ -28,19 +29,36 @@
     "sg:postcode":"22032",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863,
+        85832285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nHVY6LHrTf4sFIknBIWKy_38.835698_-77.296838@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884627,
-    "wof:geomhash":"52ded91e13e6ca86ed97a9f9812f088e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"426642111858d880bf9f46c218e66bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "neighbourhood_id":85832285,
+            "region_id":85688747,
+            "venue_id":722581307
+        }
+    ],
     "wof:id":722581307,
-    "wof:lastmodified":1472651206,
+    "wof:lastmodified":1492066506,
     "wof:name":"Learning In Rtrment Inst Gorge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

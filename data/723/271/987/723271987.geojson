@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.235836,38.287084,-77.235836,38.287084",
     "geom:latitude":38.287084,
     "geom:longitude":-77.235836,
@@ -34,17 +35,30 @@
         "developer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QXQtCyJmeRbbHi6yZbQbF_38.287084_-77.235836@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898540,
-    "wof:geomhash":"eabebcd79f6436364b1bfd2d8083461d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"630880a0fc0626b324e89766e4cef6c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":723271987
+        }
+    ],
     "wof:id":723271987,
-    "wof:lastmodified":1472651837,
+    "wof:lastmodified":1492054025,
     "wof:name":"Miller Built",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.752022,37.309886,-76.752022,37.309886",
     "geom:latitude":37.309886,
     "geom:longitude":-76.752022,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C4xWH542VvEoSZeR661mM_37.309886_-76.752022@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891694,
-    "wof:geomhash":"2adf62e2f397a0564ac94f07d6f9880f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ff88f976610ef4e5fdb1db9eb927088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":722943193
+        }
+    ],
     "wof:id":722943193,
-    "wof:lastmodified":1472652227,
+    "wof:lastmodified":1492070294,
     "wof:name":"Family Dental Care",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

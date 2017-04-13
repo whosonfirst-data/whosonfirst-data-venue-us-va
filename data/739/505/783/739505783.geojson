@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.813403,37.328649,-80.813403,37.328649",
     "geom:latitude":37.328649,
     "geom:longitude":-80.813403,
@@ -31,7 +32,13 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728849,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DWJZLzXdIFkXbmTcINv9n_37.328649_-80.813403@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908532,
     "wof:geomhash":"97f48faccbd6f02f81f8de3501abfbeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728849,
+            "region_id":85688747,
+            "venue_id":739505783
+        }
+    ],
     "wof:id":739505783,
-    "wof:lastmodified":1472651833,
+    "wof:lastmodified":1492032244,
     "wof:name":"Narrows Town Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

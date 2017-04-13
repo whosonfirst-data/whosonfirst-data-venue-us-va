@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.002718,37.092248,-77.002718,37.092248",
     "geom:latitude":37.092248,
     "geom:longitude":-77.002718,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17zJsl88aSCzdO2lbi5JmP_37.092248_-77.002718@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889688,
-    "wof:geomhash":"902448829e5fe0a65afbf2016f3ec966",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98edd41c1817ef6d175c65641336253a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722843315
+        }
+    ],
     "wof:id":722843315,
-    "wof:lastmodified":1472651949,
+    "wof:lastmodified":1492063448,
     "wof:name":"Saddle Tree Bookeeping Svcs",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

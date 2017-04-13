@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441959,38.380552,-77.441959,38.380552",
     "geom:latitude":38.380552,
     "geom:longitude":-77.441959,
@@ -32,17 +33,26 @@
         "harley"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g13AOyCEkWMp6ytN0svW0_38.380552_-77.441959@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903412,
-    "wof:geomhash":"8f2172e53ffeadd95c6a9d313ee682ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46d979e496308517e00e4d0cd0490508",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739246829
+        }
+    ],
     "wof:id":739246829,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492038427,
     "wof:name":"Twin Jugs Cycle Parts & Svc",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.468839,37.442069,-77.468839,37.442069",
     "geom:latitude":37.442069,
     "geom:longitude":-77.468839,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oq36akuyg9cUXKbQkm0bU_37.442069_-77.468839@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908080,
-    "wof:geomhash":"5354f4499ff4679c88b32d543e5666e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa52eb5b3ddd570c0a2ef1111a62140d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":739480539
+        }
+    ],
     "wof:id":739480539,
-    "wof:lastmodified":1472651642,
+    "wof:lastmodified":1492046168,
     "wof:name":"Head Start Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.958518,37.254335,-79.958518,37.254335",
     "geom:latitude":37.254335,
     "geom:longitude":-79.958518,
@@ -32,7 +33,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hLvczGOPcKYqM5OV7zdek_37.254335_-79.958518@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904706,
     "wof:geomhash":"b94f4a9f85a5157ff9ce1f6db785e430",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739306429
+        }
+    ],
     "wof:id":739306429,
-    "wof:lastmodified":1472651199,
+    "wof:lastmodified":1492030323,
     "wof:name":"Columbia Beauty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

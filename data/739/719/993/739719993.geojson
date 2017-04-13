@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500359,37.636801,-77.500359,37.636801",
     "geom:latitude":37.636801,
     "geom:longitude":-77.500359,
@@ -71,17 +72,32 @@
     ],
     "sg:website":"https://smclean.custhelp.com/cgi-bin/smclean.cfg/php/enduser/doc_serve.php?2=DR_YP",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tPAQZWdglHcKV37mWWsWt_37.636801_-77.500359@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912997,
-    "wof:geomhash":"9fa2a56e69ca52caa2d1f1acff1b0f35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7db62b276b0669894fa0acf45305dcdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":739719993
+        }
+    ],
     "wof:id":739719993,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492044660,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

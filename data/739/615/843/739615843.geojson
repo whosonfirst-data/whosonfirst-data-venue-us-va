@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564941,39.110859,-77.564941,39.110859",
     "geom:latitude":39.110859,
     "geom:longitude":-77.564941,
@@ -40,17 +41,32 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wFmIlZzrjARJr4wzXP1xD_39.110859_-77.564941@1303262497"
     },
     "wof:country":"US",
     "wof:created":1461910733,
-    "wof:geomhash":"e346f40cd14d35bbb878f8b92ce37397",
-    "wof:hierarchy":[],
+    "wof:geomhash":"638da5684c72fa1b773a5e07b5c50e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739615843
+        }
+    ],
     "wof:id":739615843,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492038477,
     "wof:name":"Madison House Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

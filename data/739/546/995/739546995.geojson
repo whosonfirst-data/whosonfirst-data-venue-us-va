@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.373747,37.291638,-78.373747,37.291638",
     "geom:latitude":37.291638,
     "geom:longitude":-78.373747,
@@ -32,7 +33,13 @@
         "resource"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yiGQaOdxSpxVEkWv7hUy0_37.291638_-78.373747@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909298,
     "wof:geomhash":"d7bb08f39f061d80639266d336741e4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739546995
+        }
+    ],
     "wof:id":739546995,
-    "wof:lastmodified":1472651869,
+    "wof:lastmodified":1492031579,
     "wof:name":"Unemployment Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

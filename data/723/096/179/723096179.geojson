@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.040515,36.679287,-82.040515,36.679287",
     "geom:latitude":36.679287,
     "geom:longitude":-82.040515,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64PmwujEfZciAlRomclXAW_36.679287_-82.040515@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895040,
-    "wof:geomhash":"de08a01a7ec005ddf4e8178c5a98cbe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29bc276408f41aefb3f5146d79304fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723096179
+        }
+    ],
     "wof:id":723096179,
-    "wof:lastmodified":1472651276,
+    "wof:lastmodified":1492060775,
     "wof:name":"Jim's Cars",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

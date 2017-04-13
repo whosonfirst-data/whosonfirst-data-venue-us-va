@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.511668,38.795284,-77.511668,38.795284",
     "geom:latitude":38.795284,
     "geom:longitude":-77.511668,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mtA5fG9iZTYVbhwuv5qZ1_38.795284_-77.511668@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910473,
-    "wof:geomhash":"f9c1cd9e1031d01a4d32cd50de21bd17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc2d447e0a8927988d8a09a528409ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739603025
+        }
+    ],
     "wof:id":739603025,
-    "wof:lastmodified":1472651935,
+    "wof:lastmodified":1492044790,
     "wof:name":"American Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

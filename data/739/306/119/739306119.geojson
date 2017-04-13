@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.66933,37.268114,-76.66933,37.268114",
     "geom:latitude":37.268114,
     "geom:longitude":-76.66933,
@@ -31,7 +32,12 @@
         "wallpaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85827315,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nsTyZLydekm06kIS6FS9z_37.268114_-76.669330@1294252573"
@@ -39,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1461904700,
     "wof:geomhash":"8c2427427e6d98da4a40f5f1f65ccc84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086731,
+            "neighbourhood_id":85827315,
+            "region_id":85688747,
+            "venue_id":739306119
+        }
+    ],
     "wof:id":739306119,
-    "wof:lastmodified":1472651189,
+    "wof:lastmodified":1492030314,
     "wof:name":"Buma Painting Dutchman",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

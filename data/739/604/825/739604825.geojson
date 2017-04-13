@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454261,38.794743,-77.454261,38.794743",
     "geom:latitude":38.794743,
     "geom:longitude":-77.454261,
@@ -32,7 +33,13 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uxaMP7kvtk7e8hEj1sk5r_38.794743_-77.454261@1303262495"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910508,
     "wof:geomhash":"479abd78429d8b40e9eb47eb74ab5f3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739604825
+        }
+    ],
     "wof:id":739604825,
-    "wof:lastmodified":1472651970,
+    "wof:lastmodified":1492032497,
     "wof:name":"8a-Connections & Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

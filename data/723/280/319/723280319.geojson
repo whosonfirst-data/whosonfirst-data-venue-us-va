@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.478934,37.655773,-77.478934,37.655773",
     "geom:latitude":37.655773,
     "geom:longitude":-77.478934,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729363,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jLedlIi3lx0nRxFXkje2O_37.655773_-77.478934@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898686,
-    "wof:geomhash":"1d14386ee3b8777dbccfa4d69eed4081",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ade9df92e645aa25303d16ab64ba86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729363,
+            "region_id":85688747,
+            "venue_id":723280319
+        }
+    ],
     "wof:id":723280319,
-    "wof:lastmodified":1472651778,
+    "wof:lastmodified":1492054096,
     "wof:name":"Mayhew Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

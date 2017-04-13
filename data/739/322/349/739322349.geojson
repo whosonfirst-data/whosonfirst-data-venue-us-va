@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440994,38.289026,-77.440994,38.289026",
     "geom:latitude":38.289026,
     "geom:longitude":-77.440994,
@@ -32,17 +33,26 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GHHxxce2m7bHRAi4gh1Cl_38.289026_-77.440994@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905022,
-    "wof:geomhash":"868ea109f23100eb31d4ef75a5a48641",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79420cb830bab00bf63c2a46fea5cb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":739322349
+        }
+    ],
     "wof:id":739322349,
-    "wof:lastmodified":1472651257,
+    "wof:lastmodified":1492043321,
     "wof:name":"P C Goodloe & Son Inc",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579109,38.469198,-77.579109,38.469198",
     "geom:latitude":38.469198,
     "geom:longitude":-77.579109,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547205
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ah2hOc5TAgFj1UA02Ggd8_38.469198_-77.579109@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900556,
-    "wof:geomhash":"5e399f34bcb635edb82ea02e7034e26b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09b1020a7a9ceafa1b8f341c56a64dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547205,
+            "venue_id":723378345
+        }
+    ],
     "wof:id":723378345,
-    "wof:lastmodified":1472652099,
+    "wof:lastmodified":1492053937,
     "wof:name":"Ralph Carder Company",
     "wof:parent_id":420547205,
     "wof:placetype":"venue",

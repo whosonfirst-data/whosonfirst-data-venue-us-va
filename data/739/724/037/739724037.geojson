@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.553936,37.495417,-77.553936,37.495417",
     "geom:latitude":37.495417,
     "geom:longitude":-77.553936,
@@ -60,7 +61,13 @@
     ],
     "sg:website":"http://www.goodwill.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xI5zQ23rKcWKjYfEymnf7_37.495417_-77.553936@1303262550"
@@ -68,9 +75,18 @@
     "wof:country":"US",
     "wof:created":1461913075,
     "wof:geomhash":"8ef72165ef4654e5081a6a933c4efad1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739724037
+        }
+    ],
     "wof:id":739724037,
-    "wof:lastmodified":1472652216,
+    "wof:lastmodified":1492030963,
     "wof:name":"Goodwill Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

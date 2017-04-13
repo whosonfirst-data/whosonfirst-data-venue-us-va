@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.597021,37.501685,-77.597021,37.501685",
     "geom:latitude":37.501685,
     "geom:longitude":-77.597021,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"www.lamarhq.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57w5Ruw1dxnLT11jxNbHh4_37.501685_-77.597021@1294252573"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461907951,
     "wof:geomhash":"ef0e42548883083efdeb0b81e7344fcb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739473383
+        }
+    ],
     "wof:id":739473383,
-    "wof:lastmodified":1472651616,
+    "wof:lastmodified":1492032909,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

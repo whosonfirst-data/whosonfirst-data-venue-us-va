@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.943779,37.265796,-79.943779,37.265796",
     "geom:latitude":37.265796,
     "geom:longitude":-79.943779,
@@ -37,7 +38,13 @@
     ],
     "sg:website":"http://www.lutinsandpilgreen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3c2B1GAW7uxg38PoQoZyxG_37.265796_-79.943779@1303262552"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461913317,
     "wof:geomhash":"798d12037842df3cdbece6bc5c8779b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735851
+        }
+    ],
     "wof:id":739735851,
-    "wof:lastmodified":1472652270,
+    "wof:lastmodified":1492032067,
     "wof:name":"Lutins & Pilgreen PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

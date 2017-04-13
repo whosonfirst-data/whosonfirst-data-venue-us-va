@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.499839,37.482336,-77.499839,37.482336",
     "geom:latitude":37.482336,
     "geom:longitude":-77.499839,
@@ -32,17 +33,32 @@
         "complex"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KAZ7PMQoTaxq09vPyxIY6_37.482336_-77.499839@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887347,
-    "wof:geomhash":"53f8c3dd31d54576fb8114dd76ddecff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dac80ef5b17576b4dfe9fc6c126107b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722720365
+        }
+    ],
     "wof:id":722720365,
-    "wof:lastmodified":1472651615,
+    "wof:lastmodified":1492069077,
     "wof:name":"Timbercreek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

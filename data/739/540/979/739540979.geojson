@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.094408,39.159848,-78.094408,39.159848",
     "geom:latitude":39.159848,
     "geom:longitude":-78.094408,
@@ -31,7 +32,12 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67XpzVr93tXBA2O3Y4JnBe_39.159848_-78.094408@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909169,
     "wof:geomhash":"1595c56592f02f393bdc28ab32eb5ad5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739540979
+        }
+    ],
     "wof:id":739540979,
-    "wof:lastmodified":1472651849,
+    "wof:lastmodified":1492032609,
     "wof:name":"D&R Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

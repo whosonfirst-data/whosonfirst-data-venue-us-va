@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.932219,36.591189,-76.932219,36.591189",
     "geom:latitude":36.591189,
     "geom:longitude":-76.932219,
@@ -28,7 +29,13 @@
     "sg:postcode":"23851",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729495,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0totJ8BC4f8Ngs4zHVwmnG_36.591189_-76.932219@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906444,
     "wof:geomhash":"78ce021c20753496af9f0dae44129d33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101729495,
+            "region_id":85688747,
+            "venue_id":739392703
+        }
+    ],
     "wof:id":739392703,
-    "wof:lastmodified":1472651421,
+    "wof:lastmodified":1492031613,
     "wof:name":"Denise's Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

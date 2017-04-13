@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.313697,37.420386,-77.313697,37.420386",
     "geom:latitude":37.420386,
     "geom:longitude":-77.313697,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o84XVERDfhZzcgqySVaRA_37.420386_-77.313697@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900270,
-    "wof:geomhash":"9288918f0fd6c46a55243f4ce00c8da2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2af22266a66fecf17eb80bf52bb23cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723364291
+        }
+    ],
     "wof:id":723364291,
-    "wof:lastmodified":1472652064,
+    "wof:lastmodified":1492050188,
     "wof:name":"Franklin Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

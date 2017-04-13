@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.906392,36.678777,-80.906392,36.678777",
     "geom:latitude":36.678777,
     "geom:longitude":-80.906392,
@@ -31,7 +32,13 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728983,
+        102087321
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fr103H69AJkzYs7c5V5MG_36.678777_-80.906392@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906243,
     "wof:geomhash":"ea194bb339e061796e37a91f7c9738ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087321,
+            "locality_id":101728983,
+            "region_id":85688747,
+            "venue_id":739382547
+        }
+    ],
     "wof:id":739382547,
-    "wof:lastmodified":1472651365,
+    "wof:lastmodified":1492030646,
     "wof:name":"Galax Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.387667,38.256377,-77.387667,38.256377",
     "geom:latitude":38.256377,
     "geom:longitude":-77.387667,
@@ -32,19 +33,28 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yj4YDAZfKgly1q4Le3JQj_38.256377_-77.387667@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900567,
-    "wof:geomhash":"0534e80df7200f2b8c861ba84c8c0ab4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c83f18fe43c6e6fe1f080167022de0b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546943,
+            "venue_id":723378865
+        }
+    ],
     "wof:id":723378865,
-    "wof:lastmodified":1472652111,
+    "wof:lastmodified":1492053928,
     "wof:name":"Fredericksburg Sand & Gravel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

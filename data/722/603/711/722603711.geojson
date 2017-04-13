@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.782315,37.380666,-76.782315,37.380666",
     "geom:latitude":37.380666,
     "geom:longitude":-76.782315,
@@ -32,19 +33,34 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751,
+        420546857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G4xq7y8lGPLzgKUumfnlU_37.380666_-76.782315@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885057,
-    "wof:geomhash":"76cea90b57c2c334b21665ee8146fdf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b7c0bd6a16322e1bdede5ee1a6c969c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":722603711
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546857,
+            "venue_id":722603711
+        }
+    ],
     "wof:id":722603711,
-    "wof:lastmodified":1472651307,
+    "wof:lastmodified":1492073562,
     "wof:name":"Williamsburg Glass Engraving",
-    "wof:parent_id":420546751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

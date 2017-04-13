@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617995,37.652427,-77.617995,37.652427",
     "geom:latitude":37.652427,
     "geom:longitude":-77.617995,
@@ -32,17 +33,32 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SSEzP6M9stujrYkJlgz5X_37.652427_-77.617995@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894826,
-    "wof:geomhash":"5fc42bfbaf15498453f11a361cc13850",
-    "wof:hierarchy":[],
+    "wof:geomhash":"780cbc3954681474b085dd8b0f3187ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":723085805
+        }
+    ],
     "wof:id":723085805,
-    "wof:lastmodified":1472651312,
+    "wof:lastmodified":1492049890,
     "wof:name":"Sun Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.638101,36.565923,-80.638101,36.565923",
     "geom:latitude":36.565923,
     "geom:longitude":-80.638101,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729131,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XjjWly0g4eG7Lc1O4eNNT_36.565923_-80.638101@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909223,
     "wof:geomhash":"4b7b83d91298eb9e2acf2e0f310960b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101729131,
+            "region_id":85688747,
+            "venue_id":739543387
+        }
+    ],
     "wof:id":739543387,
-    "wof:lastmodified":1472651783,
+    "wof:lastmodified":1492032309,
     "wof:name":"Busick Brothers Masonry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

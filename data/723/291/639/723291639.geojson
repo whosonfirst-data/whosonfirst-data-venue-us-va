@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.713462,37.335997,-76.713462,37.335997",
     "geom:latitude":37.335997,
     "geom:longitude":-76.713462,
@@ -31,19 +32,32 @@
         "basket"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894079,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11rfhRm25snO5vwVyFZhbf_37.335997_-76.713462@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898907,
-    "wof:geomhash":"b1927b8fbfbefdc7cc4ed9b70da0ca58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4216f63b76ab62432a4956efe6e0d4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086731,
+            "neighbourhood_id":85894079,
+            "region_id":85688747,
+            "venue_id":723291639
+        }
+    ],
     "wof:id":723291639,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492054948,
     "wof:name":"Bargain Basket",
-    "wof:parent_id":-1,
+    "wof:parent_id":85894079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.648105,38.229327,-77.648105,38.229327",
     "geom:latitude":38.229327,
     "geom:longitude":-77.648105,
@@ -31,17 +32,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bf8IUghsPDj3OtNBbg6w2_38.229327_-77.648105@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894868,
-    "wof:geomhash":"cb8ddb8efbe24021cbb6d66a92adb43e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf71ed6ead56e141d82c85bdd99114cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723087447
+        }
+    ],
     "wof:id":723087447,
-    "wof:lastmodified":1472651290,
+    "wof:lastmodified":1492047846,
     "wof:name":"Magyar Express Carrier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

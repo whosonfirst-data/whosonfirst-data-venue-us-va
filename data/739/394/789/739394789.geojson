@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.223336,36.777339,-76.223336,36.777339",
     "geom:latitude":36.777339,
     "geom:longitude":-76.223336,
@@ -28,7 +29,13 @@
     "sg:postcode":"23320",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66ds5x4zMt9KCfxsOOKzUT_36.777339_-76.223336@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906480,
     "wof:geomhash":"b5ee77575e7293bbeae92b4eb176b49f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739394789
+        }
+    ],
     "wof:id":739394789,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492032979,
     "wof:name":"A J Gators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

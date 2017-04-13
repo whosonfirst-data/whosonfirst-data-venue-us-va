@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.501136,37.05781,-76.501136,37.05781",
     "geom:latitude":37.05781,
     "geom:longitude":-76.501136,
@@ -38,6 +39,7 @@
         85633793,
         101729041,
         102085961,
+        420548077,
         85845007
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903438,
-    "wof:geomhash":"3fda4079138fa38d2ce075677f4f9f19",
+    "wof:geomhash":"cd7806bd0bb72b1c3aac54238a7184bc",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548077,
+            "region_id":85688747,
+            "venue_id":739248181
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":739248181,
-    "wof:lastmodified":1472651077,
+    "wof:lastmodified":1492041506,
     "wof:name":"Home Buffers Maid & Cleaning",
-    "wof:parent_id":85845007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

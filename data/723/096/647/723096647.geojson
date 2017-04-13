@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.717581,37.356599,-76.717581,37.356599",
     "geom:latitude":37.356599,
     "geom:longitude":-76.717581,
@@ -31,17 +32,26 @@
         "customizing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41gIfg2msepHRXGR2WJsQX_37.356599_-76.717581@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895052,
-    "wof:geomhash":"026d151310e0edc8660621406e50de64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"810e2bdd41679acc36efd4d6357843f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547343,
+            "venue_id":723096647
+        }
+    ],
     "wof:id":723096647,
-    "wof:lastmodified":1472651304,
+    "wof:lastmodified":1492060765,
     "wof:name":"Michael Fleming",
     "wof:parent_id":420547343,
     "wof:placetype":"venue",

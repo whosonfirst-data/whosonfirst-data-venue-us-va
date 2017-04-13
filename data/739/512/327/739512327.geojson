@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650018,37.431043,-77.650018,37.431043",
     "geom:latitude":37.431043,
     "geom:longitude":-77.650018,
@@ -31,7 +32,13 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JjBdgAaThJNc7Nv1g91uD_37.431043_-77.650018@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908652,
     "wof:geomhash":"57aaf53d78ddebee10dc056bb5aecc1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739512327
+        }
+    ],
     "wof:id":739512327,
-    "wof:lastmodified":1472651762,
+    "wof:lastmodified":1492031347,
     "wof:name":"Stitches By Barb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

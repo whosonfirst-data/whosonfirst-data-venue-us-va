@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901643,38.069709,-78.901643,38.069709",
     "geom:latitude":38.069709,
     "geom:longitude":-78.901643,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"http://www.brfootandankle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ywYP5Rr3cu9oo8O6s81Xd_38.069709_-78.901643@1303262548"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461912751,
     "wof:geomhash":"e0dffc24c2ed4ea25c17322284c60af0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739708509
+        }
+    ],
     "wof:id":739708509,
-    "wof:lastmodified":1472652200,
+    "wof:lastmodified":1492030772,
     "wof:name":"Murray Kevin P Dpm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

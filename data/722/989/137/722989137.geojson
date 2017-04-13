@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.111832,36.851046,-76.111832,36.851046",
     "geom:latitude":36.851046,
     "geom:longitude":-76.111832,
@@ -38,6 +39,7 @@
         85633793,
         101728745,
         102081929,
+        420559045,
         85851991
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461892674,
-    "wof:geomhash":"e04424a98bab570c28ca670bc69f2922",
+    "wof:geomhash":"08a365cb7725181b6338602cca5b3cc3",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420559045,
+            "region_id":85688747,
+            "venue_id":722989137
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":722989137,
-    "wof:lastmodified":1472652331,
+    "wof:lastmodified":1492064188,
     "wof:name":"Zoopro",
-    "wof:parent_id":85851991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

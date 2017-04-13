@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.499542,38.799595,-77.499542,38.799595",
     "geom:latitude":38.799595,
     "geom:longitude":-77.499542,
@@ -40,17 +41,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GnSBXFTJaOvgaEVIIH81v_38.799595_-77.499542@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895121,
-    "wof:geomhash":"75bf2c1e4df7d74d3d2c6c57e43c16e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"babb0b299c3d67dbb7c3a0a32470b0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723100025
+        }
+    ],
     "wof:id":723100025,
-    "wof:lastmodified":1472651267,
+    "wof:lastmodified":1492052340,
     "wof:name":"Traffic Systems & Technology I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

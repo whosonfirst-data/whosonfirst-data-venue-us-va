@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615918,36.985243,-76.615918,36.985243",
     "geom:latitude":36.985243,
     "geom:longitude":-76.615918,
@@ -31,17 +32,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JrVkAxJF8KAXEfKbtFAcz_36.985243_-76.615918@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893545,
-    "wof:geomhash":"676a08de548cb7239a70b19e3a4eefe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"021c3faa43edbdea436f18f5cf199932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":723027205
+        }
+    ],
     "wof:id":723027205,
-    "wof:lastmodified":1472651133,
+    "wof:lastmodified":1492060035,
     "wof:name":"Smithfield Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

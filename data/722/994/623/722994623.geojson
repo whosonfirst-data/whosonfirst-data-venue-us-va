@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.986691,36.706704,-81.986691,36.706704",
     "geom:latitude":36.706704,
     "geom:longitude":-81.986691,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MsLH3nwjNFYLFb4rKujSQ_36.706704_-81.986691@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892779,
-    "wof:geomhash":"bd81d67eda528b7884af2fa950f30df6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2175ad324ddae94e8c97563c7e78dec0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722994623
+        }
+    ],
     "wof:id":722994623,
-    "wof:lastmodified":1472652341,
+    "wof:lastmodified":1492067792,
     "wof:name":"Dish Doctor",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

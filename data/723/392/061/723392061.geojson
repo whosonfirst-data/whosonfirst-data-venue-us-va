@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.769716,37.336921,-76.769716,37.336921",
     "geom:latitude":37.336921,
     "geom:longitude":-76.769716,
@@ -31,19 +32,34 @@
         "ice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546769,
+        420546775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k6N0M0CrARpfYl7vWtcCI_37.336921_-76.769716@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900821,
-    "wof:geomhash":"270c6f6d2ba1074064160578cbfd0ab7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c4b73c62e6eb4eb1172f89c3cdb295a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546769,
+            "venue_id":723392061
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546775,
+            "venue_id":723392061
+        }
+    ],
     "wof:id":723392061,
-    "wof:lastmodified":1472652102,
+    "wof:lastmodified":1492049942,
     "wof:name":"Handy Bottled Water",
-    "wof:parent_id":420546769,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

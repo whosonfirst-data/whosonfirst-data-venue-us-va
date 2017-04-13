@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.395117,39.002807,-77.395117,39.002807",
     "geom:latitude":39.002807,
     "geom:longitude":-77.395117,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_799oxhwo5NUhIFUGHcrjl5_39.002807_-77.395117@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900257,
-    "wof:geomhash":"bcf53b80857abbcd415f746575bb8782",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29d40c203c75f5e7978d1ae6a5ec3ece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":723363653
+        }
+    ],
     "wof:id":723363653,
-    "wof:lastmodified":1472652053,
+    "wof:lastmodified":1492052393,
     "wof:name":"Marshall Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

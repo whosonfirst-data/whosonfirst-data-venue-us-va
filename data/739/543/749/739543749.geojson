@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.382485,39.041827,-77.382485,39.041827",
     "geom:latitude":39.041827,
     "geom:longitude":-77.382485,
@@ -33,7 +34,13 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HETqqiEyJgEzwx6Wh5NmC_39.041827_-77.382485@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909234,
     "wof:geomhash":"6a4c49625d645cb93734ff680e828100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739543749
+        }
+    ],
     "wof:id":739543749,
-    "wof:lastmodified":1472651841,
+    "wof:lastmodified":1492032299,
     "wof:name":"Power Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

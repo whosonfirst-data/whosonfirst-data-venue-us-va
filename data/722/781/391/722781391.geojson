@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.509719,37.125735,-81.509719,37.125735",
     "geom:latitude":37.125735,
     "geom:longitude":-81.509719,
@@ -33,17 +34,26 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62cWh6mhOn4f8cRp0z12at_37.125735_-81.509719@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888526,
-    "wof:geomhash":"ca24477fe15d5c2c308405874ded1c44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a1c235f3732efde2ea723521e788037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722781391
+        }
+    ],
     "wof:id":722781391,
-    "wof:lastmodified":1472651775,
+    "wof:lastmodified":1492064726,
     "wof:name":"Tazewell Transportation",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

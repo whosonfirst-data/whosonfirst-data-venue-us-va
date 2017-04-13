@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.486149,37.645992,-77.486149,37.645992",
     "geom:latitude":37.645992,
     "geom:longitude":-77.486149,
@@ -31,17 +32,32 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WG3lg5YqweWp4uEVB09w0_37.645992_-77.486149@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900227,
-    "wof:geomhash":"67f60e54486b61e4dbbca3b2f6bfb5f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daf196064e36729a0524ba4388f5687c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":723362487
+        }
+    ],
     "wof:id":723362487,
-    "wof:lastmodified":1472652057,
+    "wof:lastmodified":1492062138,
     "wof:name":"McGlones Vending Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

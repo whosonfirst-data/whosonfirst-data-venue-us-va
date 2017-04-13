@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.489702,38.052565,-78.489702,38.052565",
     "geom:latitude":38.052565,
     "geom:longitude":-78.489702,
@@ -34,6 +35,7 @@
         85633793,
         101728535,
         102080639,
+        85852077,
         85876703
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461898976,
-    "wof:geomhash":"ec2828f783deaaee38b2d10290102043",
+    "wof:geomhash":"f0952e8705e01c21bdb32a00ecaa83cd",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080639,
+            "locality_id":101728535,
+            "neighbourhood_id":85852077,
+            "region_id":85688747,
+            "venue_id":723295613
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723295613,
-    "wof:lastmodified":1472651762,
+    "wof:lastmodified":1492057716,
     "wof:name":"Hook Family Ltd Partnership",
-    "wof:parent_id":85876703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.481321,38.262072,-77.481321,38.262072",
     "geom:latitude":38.262072,
     "geom:longitude":-77.481321,
@@ -32,17 +33,30 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uH5ov6cCPPuvOltu5UjDT_38.262072_-77.481321@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885799,
-    "wof:geomhash":"7b6969c3bdc83cf2375e0b4157fcf5b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b97f5c16d404ce030103142284aa3fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722637707
+        }
+    ],
     "wof:id":722637707,
-    "wof:lastmodified":1472651424,
+    "wof:lastmodified":1492071731,
     "wof:name":"COPS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

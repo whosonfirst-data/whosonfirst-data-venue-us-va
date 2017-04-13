@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.384706,38.383794,-77.384706,38.383794",
     "geom:latitude":38.383794,
     "geom:longitude":-77.384706,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vbY0ucJczNhaqcKXm6Icn_38.383794_-77.384706@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903828,
-    "wof:geomhash":"7d3981cd038a6b90e31475addffad268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65054e5994e898799b6f75c1818db7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547151,
+            "venue_id":739265635
+        }
+    ],
     "wof:id":739265635,
-    "wof:lastmodified":1472651134,
+    "wof:lastmodified":1492042020,
     "wof:name":"Mount Hope Baptist Church",
     "wof:parent_id":420547151,
     "wof:placetype":"venue",

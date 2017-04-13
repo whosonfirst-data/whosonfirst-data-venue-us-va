@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.193979,36.814113,-76.193979,36.814113",
     "geom:latitude":36.814113,
     "geom:longitude":-76.193979,
@@ -38,7 +39,8 @@
         85633793,
         101728745,
         102081929,
-        420558289
+        420558289,
+        85828665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907539,
-    "wof:geomhash":"eb1c7fc932860993f275b5ac46c0f3d8",
+    "wof:geomhash":"5694f86f7983834fe0489b040e8c96f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":420558289,
             "region_id":85688747,
             "venue_id":739450163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85828665,
+            "region_id":85688747,
+            "venue_id":739450163
         }
     ],
     "wof:id":739450163,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492038641,
     "wof:name":"Title Insurance Of Va Inc",
-    "wof:parent_id":420558289,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

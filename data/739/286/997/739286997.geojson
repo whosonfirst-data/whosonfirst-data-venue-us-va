@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.757318,37.240943,-76.757318,37.240943",
     "geom:latitude":37.240943,
     "geom:longitude":-76.757318,
@@ -28,7 +29,10 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xICoY9o5dE14wjX0ib6Y4_37.240943_-76.757318@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904307,
     "wof:geomhash":"bf00bf4142cc82411613e1ef4729b1ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":739286997
+        }
+    ],
     "wof:id":739286997,
-    "wof:lastmodified":1472651180,
+    "wof:lastmodified":1492030107,
     "wof:name":"Alexis Ent Inc",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

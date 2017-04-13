@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434768,38.837576,-77.434768,38.837576",
     "geom:latitude":38.837576,
     "geom:longitude":-77.434768,
@@ -28,7 +29,13 @@
     "sg:postcode":"20121",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7T3HRz5yikxPkVKbCMFSIu_38.837576_-77.434768@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904552,
     "wof:geomhash":"edf22273a34915589fb96f51e1f8a134",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739299183
+        }
+    ],
     "wof:id":739299183,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492032473,
     "wof:name":"Soltani Jim J DDS Assoc PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

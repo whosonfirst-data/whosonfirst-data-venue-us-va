@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.390811,37.308715,-78.390811,37.308715",
     "geom:latitude":37.308715,
     "geom:longitude":-78.390811,
@@ -34,17 +35,32 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09UD0w3tNxl6SCn2GoR00Y_37.308715_-78.390811@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895598,
-    "wof:geomhash":"749089322cc2c1ea1178f898eaa2c6dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"254e2fd1c365a11c05ca7e2ceff247a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723124621
+        }
+    ],
     "wof:id":723124621,
-    "wof:lastmodified":1472651385,
+    "wof:lastmodified":1492055125,
     "wof:name":"Price Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

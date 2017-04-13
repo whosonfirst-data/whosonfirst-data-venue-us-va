@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.478586,38.312802,-78.478586,38.312802",
     "geom:latitude":38.312802,
     "geom:longitude":-78.478586,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U8JQWYAIAUAGe9v5RTJkw_38.312802_-78.478586@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904703,
     "wof:geomhash":"4b8ae24e8ceecf17621e743b81a07c85",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739306297
+        }
+    ],
     "wof:id":739306297,
-    "wof:lastmodified":1472651191,
+    "wof:lastmodified":1492030324,
     "wof:name":"T & C Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

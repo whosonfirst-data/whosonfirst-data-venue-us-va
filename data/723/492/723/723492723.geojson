@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.898949,38.073106,-78.898949,38.073106",
     "geom:latitude":38.073106,
     "geom:longitude":-78.898949,
@@ -32,17 +33,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yqLNvhFuAZpaPgXjWATkb_38.073106_-78.898949@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902799,
-    "wof:geomhash":"d813f0ece3e6b8f7a769183df0180b9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b383e66fd20638de89ae07e4d0ca8f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723492723
+        }
+    ],
     "wof:id":723492723,
-    "wof:lastmodified":1472652360,
+    "wof:lastmodified":1492060958,
     "wof:name":"Rent Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

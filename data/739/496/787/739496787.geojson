@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.429898,37.385371,-76.429898,37.385371",
     "geom:latitude":37.385371,
     "geom:longitude":-76.429898,
@@ -28,7 +29,12 @@
     "sg:postcode":"23061",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uyEWZvv5PIcTkvRStggY2_37.385371_-76.429898@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908373,
     "wof:geomhash":"37670f3faeca2f6b152e4803759a22af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":739496787
+        }
+    ],
     "wof:id":739496787,
-    "wof:lastmodified":1472651712,
+    "wof:lastmodified":1492033021,
     "wof:name":"Medical Assistance Svcs Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

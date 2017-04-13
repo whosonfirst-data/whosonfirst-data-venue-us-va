@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.375158,38.505361,-77.375158,38.505361",
     "geom:latitude":38.505361,
     "geom:longitude":-77.375158,
@@ -31,17 +32,26 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MGfUcGTapg5X2XTsH8c5k_38.505361_-77.375158@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903848,
-    "wof:geomhash":"2d41ec0f6dbd523af7fdc3d857e3beca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba09bae838d26fe79806e7a2c9404204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739266749
+        }
+    ],
     "wof:id":739266749,
-    "wof:lastmodified":1472651169,
+    "wof:lastmodified":1492046703,
     "wof:name":"Spring Lake Motel",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

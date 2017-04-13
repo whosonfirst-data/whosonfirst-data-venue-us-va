@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.906416,37.393416,-79.906416,37.393416",
     "geom:latitude":37.393416,
     "geom:longitude":-79.906416,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rTW979tuQZA5upemKnJFg_37.393416_-79.906416@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896272,
-    "wof:geomhash":"0a70f9f1c212a53b497cb7d6afc04368",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dccaf272ab07f4b9fda60044694b553b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":723159065
+        }
+    ],
     "wof:id":723159065,
-    "wof:lastmodified":1472651435,
+    "wof:lastmodified":1492049250,
     "wof:name":"Valley Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

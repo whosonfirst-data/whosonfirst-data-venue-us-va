@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.431283,38.297596,-78.431283,38.297596",
     "geom:latitude":38.297596,
     "geom:longitude":-78.431283,
@@ -33,17 +34,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5snYcf4YDuNVKB4vUaoonM_38.297596_-78.431283@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901169,
-    "wof:geomhash":"dd1fa336cf887625b583fff6b4fa4d89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a8ce394767051d2401dcc033089da5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":723409901
+        }
+    ],
     "wof:id":723409901,
-    "wof:lastmodified":1472652204,
+    "wof:lastmodified":1492058895,
     "wof:name":"Standardsville Barbell Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

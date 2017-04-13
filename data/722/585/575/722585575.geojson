@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.975141,37.305985,-79.975141,37.305985",
     "geom:latitude":37.305985,
     "geom:longitude":-79.975141,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7azOL7AUm9YtOZOtVfP6E2_37.305985_-79.975141@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884706,
-    "wof:geomhash":"3cff4c8c363d45d8736716f2055d34d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"663226e73aa0827834b112a333b9a26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722585575
+        }
+    ],
     "wof:id":722585575,
-    "wof:lastmodified":1472651232,
+    "wof:lastmodified":1492074932,
     "wof:name":"JM Trucking Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

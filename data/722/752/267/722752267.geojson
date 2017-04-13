@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.949137,36.581307,-79.949137,36.581307",
     "geom:latitude":36.581307,
     "geom:longitude":-79.949137,
@@ -33,17 +34,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zMQkoehiGrwuXaJSEIP4Z_36.581307_-79.949137@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887976,
-    "wof:geomhash":"c04e8553127eb4bc3b2ada292867f7c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40bce13c09323b1de9e52c020762631d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086705,
+            "region_id":85688747,
+            "venue_id":722752267
+        }
+    ],
     "wof:id":722752267,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492072580,
     "wof:name":"Spencer Building Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

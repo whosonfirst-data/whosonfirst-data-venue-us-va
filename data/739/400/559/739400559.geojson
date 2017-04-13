@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.876965,37.381655,-79.876965,37.381655",
     "geom:latitude":37.381655,
     "geom:longitude":-79.876965,
@@ -31,7 +32,12 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_692lq4koVxcXLK5zU5DX9u_37.381655_-79.876965@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906591,
     "wof:geomhash":"b58e35d14cfd6f8c8fd541d29635c0a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739400559
+        }
+    ],
     "wof:id":739400559,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492032733,
     "wof:name":"Salem Antiques & Auction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

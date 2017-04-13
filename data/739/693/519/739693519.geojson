@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.595134,38.277869,-77.595134,38.277869",
     "geom:latitude":38.277869,
     "geom:longitude":-77.595134,
@@ -32,7 +33,12 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HN50XI4Awe5mwDPhLBXRs_38.277869_-77.595134@1303262547"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912410,
     "wof:geomhash":"e2fc0c94114bb53728e1df74fb11deeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693519
+        }
+    ],
     "wof:id":739693519,
-    "wof:lastmodified":1472652182,
+    "wof:lastmodified":1492031403,
     "wof:name":"Jesse W Shelton Iii",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

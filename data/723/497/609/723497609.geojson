@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048808,38.721359,-77.048808,38.721359",
     "geom:latitude":38.721359,
     "geom:longitude":-77.048808,
@@ -32,15 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
-        85633793,
-        85837843,
-        102082191,
         85688747,
         102191575,
+        85633793,
         101729741,
         102084863,
-        420558305
+        420558305,
+        85688501,
+        85837843,
+        102082191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461902909,
-    "wof:geomhash":"c1537fbf5222f849d076aedeee8e1d3c",
+    "wof:geomhash":"1eb131eec1bd684dbbc64d3467da51b5",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":723497609
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +59,19 @@
             "neighbourhood_id":420558305,
             "region_id":85688747,
             "venue_id":723497609
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":723497609
         }
     ],
     "wof:id":723497609,
-    "wof:lastmodified":1472652354,
+    "wof:lastmodified":1492047639,
     "wof:name":"Gallery Okuda International",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

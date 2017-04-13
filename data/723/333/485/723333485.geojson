@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137155,38.854655,-77.137155,38.854655",
     "geom:latitude":38.854655,
     "geom:longitude":-77.137155,
@@ -39,17 +40,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TsBykQhRsy5FaI8aKzONY_38.854655_-77.137155@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899690,
-    "wof:geomhash":"3708800ab54664b9c1a6563a3b41b3f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f3aea993e008f04d17b809270361f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":723333485
+        }
+    ],
     "wof:id":723333485,
-    "wof:lastmodified":1472651900,
+    "wof:lastmodified":1492057742,
     "wof:name":"Archie's Radiator & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

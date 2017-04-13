@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942456,37.267558,-79.942456,37.267558",
     "geom:latitude":37.267558,
     "geom:longitude":-79.942456,
@@ -32,17 +33,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N7PcT5fvwGozH0KLwz9OY_37.267558_-79.942456@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900105,
-    "wof:geomhash":"b9f8b5919005e301395133b2073acb51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85ee0facbe65ff132512aa88f4fc7a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723356041
+        }
+    ],
     "wof:id":723356041,
-    "wof:lastmodified":1472652031,
+    "wof:lastmodified":1492048633,
     "wof:name":"One Elm Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

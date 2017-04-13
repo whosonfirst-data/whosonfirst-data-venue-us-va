@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.693014,38.744054,-78.693014,38.744054",
     "geom:latitude":38.744054,
     "geom:longitude":-78.693014,
@@ -33,7 +34,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_691Nu8jJDmwirsZB3MEhLI_38.744054_-78.693014@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906745,
     "wof:geomhash":"e079e4dbb132aa3790593a5eacff6b20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739408721
+        }
+    ],
     "wof:id":739408721,
-    "wof:lastmodified":1472651484,
+    "wof:lastmodified":1492029932,
     "wof:name":"Herman Hensley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

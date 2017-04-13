@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.549203,37.36455,-76.549203,37.36455",
     "geom:latitude":37.36455,
     "geom:longitude":-76.549203,
@@ -34,17 +35,30 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kczfY3QtktmX8mAx2RtzM_37.364550_-76.549203@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887970,
-    "wof:geomhash":"f3214ff14696e6779ffaf8ddb24a698e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0fbaf7ffa5f36da6e900d0518f63392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":722751951
+        }
+    ],
     "wof:id":722751951,
-    "wof:lastmodified":1472651708,
+    "wof:lastmodified":1492062934,
     "wof:name":"Finelines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

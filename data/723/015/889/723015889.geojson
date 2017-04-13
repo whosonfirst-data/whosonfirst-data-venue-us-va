@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42704,37.242011,-77.42704,37.242011",
     "geom:latitude":37.242011,
     "geom:longitude":-77.42704,
@@ -31,17 +32,32 @@
         "rail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729303,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ULH2tCJkPUYdUQqTCtTVo_37.242011_-77.427040@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893266,
-    "wof:geomhash":"f53c90e3399844b2329197e237aa3b51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f526a5289c903bebc10ca5913d4aaeef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729303,
+            "region_id":85688747,
+            "venue_id":723015889
+        }
+    ],
     "wof:id":723015889,
-    "wof:lastmodified":1472651124,
+    "wof:lastmodified":1492047457,
     "wof:name":"Amtrak",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

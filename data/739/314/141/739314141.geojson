@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.89737,38.433796,-78.89737,38.433796",
     "geom:latitude":38.433796,
     "geom:longitude":-78.89737,
@@ -31,7 +32,13 @@
         "gun"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E8UDZTwUn8tBxW6DGA5iL_38.433796_-78.897370@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904851,
     "wof:geomhash":"612aa7f1ff7f30b186cb7d49c48f388b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739314141
+        }
+    ],
     "wof:id":739314141,
-    "wof:lastmodified":1472651207,
+    "wof:lastmodified":1492029910,
     "wof:name":"Hudson Guns Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

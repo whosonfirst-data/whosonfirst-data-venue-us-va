@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.005105,36.700897,-82.005105,36.700897",
     "geom:latitude":36.700897,
     "geom:longitude":-82.005105,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27yDv8O7dfcfZx6Jalnla6_36.700897_-82.005105@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887840,
-    "wof:geomhash":"3a1f7f772026ad9a237293b790ea45d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2775b329872a0d4006ab006580ff9939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722744959
+        }
+    ],
     "wof:id":722744959,
-    "wof:lastmodified":1472651701,
+    "wof:lastmodified":1492069306,
     "wof:name":"Select Motor Cars",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

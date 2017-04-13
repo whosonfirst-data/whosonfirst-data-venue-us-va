@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449274,37.443237,-77.449274,37.443237",
     "geom:latitude":37.443237,
     "geom:longitude":-77.449274,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SDtoYOh5DhrLjNrnSeAwZ_37.443237_-77.449274@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899752,
-    "wof:geomhash":"cea2058d0c0e33a4a01276e0bb0415de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02fea993b886566161cadbbe8ffc0eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":723337059
+        }
+    ],
     "wof:id":723337059,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492058453,
     "wof:name":"US Army Reserve Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

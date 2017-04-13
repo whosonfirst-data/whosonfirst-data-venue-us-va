@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.865609,37.910338,-78.865609,37.910338",
     "geom:latitude":37.910338,
     "geom:longitude":-78.865609,
@@ -32,17 +33,32 @@
         "apparatus"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729165,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pv9cFodFZM8mfcU9bWvqd_37.910338_-78.865609@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908154,
-    "wof:geomhash":"36071d0daf145b9f8923824b45461470",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e30a60f01c895c61742e3c691c0bc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "locality_id":101729165,
+            "region_id":85688747,
+            "venue_id":739484527
+        }
+    ],
     "wof:id":739484527,
-    "wof:lastmodified":1472651661,
+    "wof:lastmodified":1492037438,
     "wof:name":"Diagnostic Medical Health Phys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

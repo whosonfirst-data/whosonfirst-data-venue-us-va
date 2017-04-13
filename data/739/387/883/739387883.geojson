@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448734,38.408139,-77.448734,38.408139",
     "geom:latitude":38.408139,
     "geom:longitude":-77.448734,
@@ -28,7 +29,10 @@
     "sg:postcode":"22406",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547171
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VWjh2xFF1OySXUjKFtqLZ_38.408139_-77.448734@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906355,
     "wof:geomhash":"253f34151d72a63d8d6977f52907f44d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547171,
+            "venue_id":739387883
+        }
+    ],
     "wof:id":739387883,
-    "wof:lastmodified":1472651386,
+    "wof:lastmodified":1492033136,
     "wof:name":"Min U Yi",
     "wof:parent_id":420547171,
     "wof:placetype":"venue",

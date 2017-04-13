@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.520765,37.117751,-81.520765,37.117751",
     "geom:latitude":37.117751,
     "geom:longitude":-81.520765,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_264tXfupWg3bKzrT9Ef7sd_37.117751_-81.520765@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907008,
-    "wof:geomhash":"38866870e09e43d7dd20bb17d9faea75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f16cfc20585fc8feb9dbc70594793ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739421997
+        }
+    ],
     "wof:id":739421997,
-    "wof:lastmodified":1472651537,
+    "wof:lastmodified":1492041823,
     "wof:name":"Lutz Family Dentistry",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

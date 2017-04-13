@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.147939,39.218624,-78.147939,39.218624",
     "geom:latitude":39.218624,
     "geom:longitude":-78.147939,
@@ -40,7 +41,12 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T99UuQyEllC3fquGDHkzz_39.218624_-78.147939@1294252573"
@@ -48,9 +54,17 @@
     "wof:country":"US",
     "wof:created":1461906239,
     "wof:geomhash":"34f83d95f4c0e9c7e7e655e1f361a1cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739382333
+        }
+    ],
     "wof:id":739382333,
-    "wof:lastmodified":1472651350,
+    "wof:lastmodified":1492030667,
     "wof:name":"Packaging Corporation America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

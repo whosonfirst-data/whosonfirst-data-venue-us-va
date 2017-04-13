@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.888729,38.066938,-78.888729,38.066938",
     "geom:latitude":38.066938,
     "geom:longitude":-78.888729,
@@ -39,17 +40,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nqk7TL6yyDRiJO8kQkEGI_38.066938_-78.888729@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899423,
-    "wof:geomhash":"c9151f695303f8034aebe05e0d279c63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf0d4369cf032add6f09751252b84c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723318455
+        }
+    ],
     "wof:id":723318455,
-    "wof:lastmodified":1472651786,
+    "wof:lastmodified":1492060161,
     "wof:name":"Office Image Smart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

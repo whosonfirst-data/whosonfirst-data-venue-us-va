@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.006931,37.681227,-77.006931,37.681227",
     "geom:latitude":37.681227,
     "geom:longitude":-77.006931,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729415,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d9ej3HDWS2dCMBIRU5IZG_37.681227_-77.006931@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887863,
-    "wof:geomhash":"d9d3539f319abed62c9c9c9c7c2cf46c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"184e83f24ff09c8e6d9291d7b3627d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101729415,
+            "region_id":85688747,
+            "venue_id":722745965
+        }
+    ],
     "wof:id":722745965,
-    "wof:lastmodified":1472651704,
+    "wof:lastmodified":1492072806,
     "wof:name":"White Motor Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

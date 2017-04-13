@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.54919,39.10709,-77.54919,39.10709",
     "geom:latitude":39.10709,
     "geom:longitude":-77.54919,
@@ -38,17 +39,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zhR2DY6Sx8a0lPzyytF6N_39.107090_-77.549190@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901625,
-    "wof:geomhash":"1f5266bd7e34331d884eef74b8df0a49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b87793ada7638c2165045dc792aece7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723433251
+        }
+    ],
     "wof:id":723433251,
-    "wof:lastmodified":1472652226,
+    "wof:lastmodified":1492048554,
     "wof:name":"Shooters Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

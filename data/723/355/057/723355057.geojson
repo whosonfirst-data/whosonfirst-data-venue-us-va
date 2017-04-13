@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.534493,37.142314,-76.534493,37.142314",
     "geom:latitude":37.142314,
     "geom:longitude":-76.534493,
@@ -37,7 +38,8 @@
         85633793,
         101729041,
         102085961,
-        85879195
+        85879195,
+        420548015
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900089,
-    "wof:geomhash":"0031123ef2b46e509f895f3c316ea992",
+    "wof:geomhash":"628561b96db6fed249a300baf9363574",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85879195,
             "region_id":85688747,
             "venue_id":723355057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548015,
+            "region_id":85688747,
+            "venue_id":723355057
         }
     ],
     "wof:id":723355057,
-    "wof:lastmodified":1472652032,
+    "wof:lastmodified":1492050936,
     "wof:name":"Ultra",
-    "wof:parent_id":85879195,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

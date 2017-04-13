@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.425082,38.47565,-77.425082,38.47565",
     "geom:latitude":38.47565,
     "geom:longitude":-77.425082,
@@ -43,7 +44,10 @@
     ],
     "sg:website":"http://www.merchantstire.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yPtVhoPpi5WyCOu2O9eii_38.475650_-77.425082@1303262547"
@@ -51,9 +55,15 @@
     "wof:country":"US",
     "wof:created":1461912432,
     "wof:geomhash":"b8e01e5e837291128bb142696ec0f208",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547097,
+            "venue_id":739694671
+        }
+    ],
     "wof:id":739694671,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492030225,
     "wof:name":"Merchant's Tire",
     "wof:parent_id":420547097,
     "wof:placetype":"venue",

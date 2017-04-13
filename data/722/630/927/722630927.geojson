@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.901062,37.389251,-79.901062,37.389251",
     "geom:latitude":37.389251,
     "geom:longitude":-79.901062,
@@ -33,17 +34,30 @@
         "stops"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nPM1P2IAhXCsdKApUlqpc_37.389251_-79.901062@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885641,
-    "wof:geomhash":"4f987cba76be71f49d51e220042b215e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd29dbce9403394c7c58757e0fa068b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722630927
+        }
+    ],
     "wof:id":722630927,
-    "wof:lastmodified":1472651428,
+    "wof:lastmodified":1492070938,
     "wof:name":"Pilot Travel Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

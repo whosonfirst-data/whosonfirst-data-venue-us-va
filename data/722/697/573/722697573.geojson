@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.901596,37.304834,-79.901596,37.304834",
     "geom:latitude":37.304834,
     "geom:longitude":-79.901596,
@@ -31,17 +32,32 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06oN3T4vKXAF7PaMAEtGWS_37.304834_-79.901596@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886926,
-    "wof:geomhash":"a860e81e0c731d00668320115467c98d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be95dbe2d7baf12a3978fb07b80e0c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722697573
+        }
+    ],
     "wof:id":722697573,
-    "wof:lastmodified":1472651575,
+    "wof:lastmodified":1492072672,
     "wof:name":"Performance-Curve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

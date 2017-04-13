@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.310621,37.864966,-77.310621,37.864966",
     "geom:latitude":37.864966,
     "geom:longitude":-77.310621,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JpaIZuyZRv984NoBLv7Rl_37.864966_-77.310621@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902290,
-    "wof:geomhash":"2826d0214dcd7492c38d75107d8af898",
-    "wof:hierarchy":[],
+    "wof:geomhash":"001ad5dce511c7772ca2546cfa165253",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723468253
+        }
+    ],
     "wof:id":723468253,
-    "wof:lastmodified":1472652284,
+    "wof:lastmodified":1492058177,
     "wof:name":"Saint Luke's Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

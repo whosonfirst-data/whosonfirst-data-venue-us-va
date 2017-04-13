@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.979064,38.105522,-78.979064,38.105522",
     "geom:latitude":38.105522,
     "geom:longitude":-78.979064,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"http://www.tendercarevetcenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729647,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25DFWsBAXLlW5XlAUbYtJD_38.105522_-78.979064@1303262548"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461912741,
     "wof:geomhash":"0ee4e45d8aa9a8b59bfd710af569f65a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729647,
+            "region_id":85688747,
+            "venue_id":739708187
+        }
+    ],
     "wof:id":739708187,
-    "wof:lastmodified":1472652174,
+    "wof:lastmodified":1492030762,
     "wof:name":"Tendercare Veterinary Center LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610357,37.207395,-76.610357,37.207395",
     "geom:latitude":37.207395,
     "geom:longitude":-76.610357,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52b9HawyhnKqislLwH88Tm_37.207395_-76.610357@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906927,
-    "wof:geomhash":"49df3a09226bc9e244e6ccf1e0ea58ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfcf54e565ef40d6a4faab79e01f4a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":739418565
+        }
+    ],
     "wof:id":739418565,
-    "wof:lastmodified":1472651520,
+    "wof:lastmodified":1492046109,
     "wof:name":"Spray King",
     "wof:parent_id":420546871,
     "wof:placetype":"venue",

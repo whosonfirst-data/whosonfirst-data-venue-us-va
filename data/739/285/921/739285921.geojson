@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524066,38.146594,-77.524066,38.146594",
     "geom:latitude":38.146594,
     "geom:longitude":-77.524066,
@@ -31,7 +32,12 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IzjH4KTva0lYMzS7LPQU6_38.146594_-77.524066@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904273,
     "wof:geomhash":"227353e545b472cf9d890fcfc06359ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739285921
+        }
+    ],
     "wof:id":739285921,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492029732,
     "wof:name":"Spotsylvania County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

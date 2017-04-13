@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.811973,37.275242,-79.811973,37.275242",
     "geom:latitude":37.275242,
     "geom:longitude":-79.811973,
@@ -33,7 +34,12 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4169MiLWWufwYQHbsK5V32_37.275242_-79.811973@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906141,
     "wof:geomhash":"9583be9f84874a3884dcfbe59c463f06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739377433
+        }
+    ],
     "wof:id":739377433,
-    "wof:lastmodified":1472651349,
+    "wof:lastmodified":1492031175,
     "wof:name":"TMG Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

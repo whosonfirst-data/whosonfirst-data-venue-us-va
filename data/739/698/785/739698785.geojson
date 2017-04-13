@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.490768,38.087385,-78.490768,38.087385",
     "geom:latitude":38.087385,
     "geom:longitude":-78.490768,
@@ -31,7 +32,12 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F5YVKIQ8FJ84JuQV3vMsH_38.087385_-78.490768@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912526,
     "wof:geomhash":"a3cc3e9d4a53acfd4c2de463bbd2d429",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739698785
+        }
+    ],
     "wof:id":739698785,
-    "wof:lastmodified":1472652190,
+    "wof:lastmodified":1492029546,
     "wof:name":"Betts Martin B DVM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

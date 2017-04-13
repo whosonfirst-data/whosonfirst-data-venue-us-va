@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.323742,38.374984,-77.323742,38.374984",
     "geom:latitude":38.374984,
     "geom:longitude":-77.323742,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zrF6zk4c7ALp0f4cafemM_38.374984_-77.323742@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898752,
-    "wof:geomhash":"386fa636e90b10d9131b2da95e9c73d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fb95199bdbe4b556850bc760c304b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547291,
+            "venue_id":723283899
+        }
+    ],
     "wof:id":723283899,
-    "wof:lastmodified":1472651821,
+    "wof:lastmodified":1492052842,
     "wof:name":"Ponderosa Carpentry Inc",
     "wof:parent_id":420547291,
     "wof:placetype":"venue",

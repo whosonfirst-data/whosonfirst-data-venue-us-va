@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.653923,36.598866,-78.653923,36.598866",
     "geom:latitude":36.598866,
     "geom:longitude":-78.653923,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03K3ARMHCN6icqTrHVHIRR_36.598866_-78.653923@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892488,
-    "wof:geomhash":"0ea67d5ad571b949594ed098c5da1de9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dcc983b3688c654386e70da00308f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":722981901
+        }
+    ],
     "wof:id":722981901,
-    "wof:lastmodified":1472652364,
+    "wof:lastmodified":1492074121,
     "wof:name":"Thomas Hayes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

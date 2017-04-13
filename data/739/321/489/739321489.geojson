@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.526591,37.131268,-81.526591,37.131268",
     "geom:latitude":37.131268,
     "geom:longitude":-81.526591,
@@ -28,7 +29,10 @@
     "sg:postcode":"24630",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rDsfl7hTeFd223d8An7vf_37.131268_-81.526591@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461905007,
     "wof:geomhash":"a8d4d160b36d95b9ce972bce438a628e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739321489
+        }
+    ],
     "wof:id":739321489,
-    "wof:lastmodified":1472651266,
+    "wof:lastmodified":1492030721,
     "wof:name":"Four Seasons Florist & Tuxedo",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.143009,38.858732,-77.143009,38.858732",
     "geom:latitude":38.858732,
     "geom:longitude":-77.143009,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729789,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hGFTxwKZJfOM7VobtinVP_38.858732_-77.143009@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895683,
-    "wof:geomhash":"526e2b6982529c6da202fe7f2670b1a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ca8a0687497642bac413cac0f5a7fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729789,
+            "region_id":85688747,
+            "venue_id":723129107
+        }
+    ],
     "wof:id":723129107,
-    "wof:lastmodified":1472651377,
+    "wof:lastmodified":1492057777,
     "wof:name":"Feld Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.699439,37.402467,-77.699439,37.402467",
     "geom:latitude":37.402467,
     "geom:longitude":-77.699439,
@@ -32,17 +33,30 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZKRX9GqrGG48LIwBStIfo_37.402467_-77.699439@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893134,
-    "wof:geomhash":"9ae0f04c5a0d716e6fede212321b31ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b28395672860b614bd0c6bb2caa6756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723009565
+        }
+    ],
     "wof:id":723009565,
-    "wof:lastmodified":1472651090,
+    "wof:lastmodified":1492052100,
     "wof:name":"Sports Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

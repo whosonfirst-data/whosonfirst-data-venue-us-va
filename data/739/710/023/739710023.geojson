@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.655642,37.457554,-77.655642,37.457554",
     "geom:latitude":37.457554,
     "geom:longitude":-77.655642,
@@ -37,17 +38,32 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q275Fwnv98Gwti9R87Irc_37.457554_-77.655642@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912783,
-    "wof:geomhash":"c1e163f73e5b0fe411f3d0e184750eb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"248be74aa7321528fc2e31851665736a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739710023
+        }
+    ],
     "wof:id":739710023,
-    "wof:lastmodified":1472652163,
+    "wof:lastmodified":1492045648,
     "wof:name":"Colony Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.727061,36.841022,-78.727061,36.841022",
     "geom:latitude":36.841022,
     "geom:longitude":-78.727061,
@@ -31,7 +32,13 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729597,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q6e8vUb383aYQEA52Tvk7_36.841022_-78.727061@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907442,
     "wof:geomhash":"a9c8bbcacd41394c079305d4fc14a3ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101729597,
+            "region_id":85688747,
+            "venue_id":739444225
+        }
+    ],
     "wof:id":739444225,
-    "wof:lastmodified":1472651560,
+    "wof:lastmodified":1492031997,
     "wof:name":"A V Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

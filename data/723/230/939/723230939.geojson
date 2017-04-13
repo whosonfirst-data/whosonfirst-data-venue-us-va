@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.550657,39.097329,-77.550657,39.097329",
     "geom:latitude":39.097329,
     "geom:longitude":-77.550657,
@@ -32,17 +33,32 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xkK5DBqu27wFpLgb2e2ef_39.097329_-77.550657@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897724,
-    "wof:geomhash":"de56d5c08d92c174d30a02f9e8cc138f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc65512ff60cba342c7262bdbf6525a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723230939
+        }
+    ],
     "wof:id":723230939,
-    "wof:lastmodified":1472651654,
+    "wof:lastmodified":1492053103,
     "wof:name":"Feathered Nest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

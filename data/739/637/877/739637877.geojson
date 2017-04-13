@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.320892,38.86903,-77.320892,38.86903",
     "geom:latitude":38.86903,
     "geom:longitude":-77.320892,
@@ -31,17 +32,32 @@
         "oils-petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RJfDBCDbUISREC6gjZmwt_38.869030_-77.320892@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911217,
-    "wof:geomhash":"25e28f2d9c5e2e2790985a211d036eb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"612b3e8654177be05180768a3195454a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":739637877
+        }
+    ],
     "wof:id":739637877,
-    "wof:lastmodified":1472652028,
+    "wof:lastmodified":1492042739,
     "wof:name":"Global Oil & Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.016356,36.696913,-82.016356,36.696913",
     "geom:latitude":36.696913,
     "geom:longitude":-82.016356,
@@ -33,17 +34,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3StMnSQo3JBnq7V1MufOVS_36.696913_-82.016356@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896112,
-    "wof:geomhash":"02cc5736f98c5e3dd81152b1b8a47d10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0b974e2aed8b47d4eab117293a41371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723150901
+        }
+    ],
     "wof:id":723150901,
-    "wof:lastmodified":1472651429,
+    "wof:lastmodified":1492058931,
     "wof:name":"Abingdon Spatial Technologies",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

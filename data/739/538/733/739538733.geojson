@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564334,37.533612,-77.564334,37.533612",
     "geom:latitude":37.533612,
     "geom:longitude":-77.564334,
@@ -31,7 +32,13 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CLQMjISIWxnJj4rCqLm66_37.533612_-77.564334@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909133,
     "wof:geomhash":"c35fc266dbd8688660ecc5e9c98d8303",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739538733
+        }
+    ],
     "wof:id":739538733,
-    "wof:lastmodified":1472651816,
+    "wof:lastmodified":1492029873,
     "wof:name":"Bon Air Towing & Transport LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

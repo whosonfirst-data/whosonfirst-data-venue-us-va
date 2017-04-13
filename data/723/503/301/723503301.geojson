@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.65585,36.693761,-80.65585,36.693761",
     "geom:latitude":36.693761,
     "geom:longitude":-80.65585,
@@ -33,17 +34,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rMdDH4kCqUOQQ3xPMriil_36.693761_-80.655850@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903028,
-    "wof:geomhash":"29e23a8319d7d57523fc91e42f7d16c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f708f37f7b005252b69851b2bf495898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":723503301
+        }
+    ],
     "wof:id":723503301,
-    "wof:lastmodified":1472652344,
+    "wof:lastmodified":1492050875,
     "wof:name":"Surratt & Cox Building Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

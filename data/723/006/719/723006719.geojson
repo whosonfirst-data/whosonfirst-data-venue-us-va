@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.044037,36.844957,-76.044037,36.844957",
     "geom:latitude":36.844957,
     "geom:longitude":-76.044037,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        420548377,
         85831259
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461893076,
-    "wof:geomhash":"ca5c00cdda176b0e81eec99427adda6c",
+    "wof:geomhash":"1c4e4433d12c7f955ebf8c247c6211af",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420548377,
+            "region_id":85688747,
+            "venue_id":723006719
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723006719,
-    "wof:lastmodified":1472651099,
+    "wof:lastmodified":1492052511,
     "wof:name":"Vicki Greene",
-    "wof:parent_id":85831259,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.117408,38.845912,-77.117408,38.845912",
     "geom:latitude":38.845912,
     "geom:longitude":-77.117408,
@@ -37,17 +38,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qUlaTEIZPtILsRlTjXqWg_38.845912_-77.117408@1303262544"
     },
     "wof:country":"US",
     "wof:created":1461912106,
-    "wof:geomhash":"2210fafb7d561272492b2b9e9e41c911",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6f623860d96195a96e20172ceb516a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739677869
+        }
+    ],
     "wof:id":739677869,
-    "wof:lastmodified":1472652140,
+    "wof:lastmodified":1492045223,
     "wof:name":"High Sierra Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

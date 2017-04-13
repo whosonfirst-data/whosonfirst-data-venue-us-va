@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.174903,36.583991,-80.174903,36.583991",
     "geom:latitude":36.583991,
     "geom:longitude":-80.174903,
@@ -33,7 +34,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71iIhKYfm2mXSpX9RQumS7_36.583991_-80.174903@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908946,
     "wof:geomhash":"8009485c721be1d3d0eb37e154ff1b31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":739528093
+        }
+    ],
     "wof:id":739528093,
-    "wof:lastmodified":1472651736,
+    "wof:lastmodified":1492032529,
     "wof:name":"Guy Shockley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

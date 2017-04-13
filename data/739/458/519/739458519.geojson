@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.293268,38.817318,-77.293268,38.817318",
     "geom:latitude":38.817318,
     "geom:longitude":-77.293268,
@@ -28,7 +29,13 @@
     "sg:postcode":"22032",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZvKOMmkxKIt6LQ0iajz7U_38.817318_-77.293268@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907692,
     "wof:geomhash":"b2b5e6b78f74bd498253df52372c06e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739458519
+        }
+    ],
     "wof:id":739458519,
-    "wof:lastmodified":1472651581,
+    "wof:lastmodified":1492030036,
     "wof:name":"Katleman Inspections Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

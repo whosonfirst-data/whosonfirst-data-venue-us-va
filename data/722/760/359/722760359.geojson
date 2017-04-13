@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.732934,37.320661,-76.732934,37.320661",
     "geom:latitude":37.320661,
     "geom:longitude":-76.732934,
@@ -33,19 +34,28 @@
         "ornamental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kp7Ln0I4kUuctRUezjupy_37.320661_-76.732934@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888133,
-    "wof:geomhash":"5a003f61ce3307496765ec9a9f42a3e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b09e45e7cadae8533907df8d758eff18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722760359
+        }
+    ],
     "wof:id":722760359,
-    "wof:lastmodified":1472651738,
+    "wof:lastmodified":1492066729,
     "wof:name":"Eastern National",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

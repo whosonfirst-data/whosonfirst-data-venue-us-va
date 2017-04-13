@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.877318,38.438503,-78.877318,38.438503",
     "geom:latitude":38.438503,
     "geom:longitude":-78.877318,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S9pYbDVxdod9kLXU1pVaN_38.438503_-78.877318@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885295,
-    "wof:geomhash":"c69ffd7d37544c28140279ef60f2f51b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f48562c28813c93e306a32ec65e62ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722616787
+        }
+    ],
     "wof:id":722616787,
-    "wof:lastmodified":1472651374,
+    "wof:lastmodified":1492062643,
     "wof:name":"Frederick Fox MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

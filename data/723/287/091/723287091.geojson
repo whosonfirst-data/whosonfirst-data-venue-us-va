@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.403351,37.231129,-77.403351,37.231129",
     "geom:latitude":37.231129,
     "geom:longitude":-77.403351,
@@ -33,17 +34,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OS8wnwOOPRkdG3FL4X3I8_37.231129_-77.403351@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898811,
-    "wof:geomhash":"0c553afc020291511ce94fc836cd030b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc62f285e5644aa052e13e0d3cef8cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723287091
+        }
+    ],
     "wof:id":723287091,
-    "wof:lastmodified":1472651719,
+    "wof:lastmodified":1492061248,
     "wof:name":"Petersburg City Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

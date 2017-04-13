@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.570867,38.728985,-77.570867,38.728985",
     "geom:latitude":38.728985,
     "geom:longitude":-77.570867,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.dayspringopc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29tYlfSCBPzkX7wW0Qmo0Q_38.728985_-77.570867@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906962,
     "wof:geomhash":"bf56e9a3c801e27057ca9101d4787089",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739420089
+        }
+    ],
     "wof:id":739420089,
-    "wof:lastmodified":1472651499,
+    "wof:lastmodified":1492031965,
     "wof:name":"Dayspring Presbyterian-Opc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

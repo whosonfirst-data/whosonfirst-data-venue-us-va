@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.872607,38.442753,-78.872607,38.442753",
     "geom:latitude":38.442753,
     "geom:longitude":-78.872607,
@@ -32,17 +33,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GzuBeMiVTsn0gh3wzXhQO_38.442753_-78.872607@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899243,
-    "wof:geomhash":"455cbfc631ac5de374f4dd634c41fde8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad633e49d7b09c14896f87855a7b9cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723308911
+        }
+    ],
     "wof:id":723308911,
-    "wof:lastmodified":1472651850,
+    "wof:lastmodified":1492051325,
     "wof:name":"Campus Crusade For Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

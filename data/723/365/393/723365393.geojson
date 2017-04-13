@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503846,39.107921,-77.503846,39.107921",
     "geom:latitude":39.107921,
     "geom:longitude":-77.503846,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15Gk2SPJn9MPqrPqxzKV2s_39.107921_-77.503846@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900293,
-    "wof:geomhash":"164094f1f61e8149df72491c045d02bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fccc4d948198c2b21eb9af0bcf09e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723365393
+        }
+    ],
     "wof:id":723365393,
-    "wof:lastmodified":1472652047,
+    "wof:lastmodified":1492054911,
     "wof:name":"Mitchell & Best Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

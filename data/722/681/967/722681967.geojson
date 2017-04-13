@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.730485,37.319088,-76.730485,37.319088",
     "geom:latitude":37.319088,
     "geom:longitude":-76.730485,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hYmO4ZV6roahkaOC4Zb8y_37.319088_-76.730485@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886619,
-    "wof:geomhash":"cedcff1160b08da194acad783f99d89e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"635774873fc80bef6f917c39264c3bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722681967
+        }
+    ],
     "wof:id":722681967,
-    "wof:lastmodified":1472651542,
+    "wof:lastmodified":1492073494,
     "wof:name":"Landscape Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

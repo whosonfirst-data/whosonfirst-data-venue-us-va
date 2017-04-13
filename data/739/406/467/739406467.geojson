@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.456265,38.768183,-77.456265,38.768183",
     "geom:latitude":38.768183,
     "geom:longitude":-77.456265,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.kindercare.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LCemjxhVPqRpQ5XIDZZo9_38.768183_-77.456265@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461906706,
     "wof:geomhash":"335817a1a4ee919f55f6cef014e77523",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":739406467
+        }
+    ],
     "wof:id":739406467,
-    "wof:lastmodified":1472651464,
+    "wof:lastmodified":1492033176,
     "wof:name":"Kinder Care Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

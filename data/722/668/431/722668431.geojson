@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457763,38.300764,-77.457763,38.300764",
     "geom:latitude":38.300764,
     "geom:longitude":-77.457763,
@@ -39,6 +40,7 @@
         85633793,
         101728699,
         102084973,
+        85893997,
         85824407
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886367,
-    "wof:geomhash":"6c765318f79d202e2312cc49f30dabc7",
+    "wof:geomhash":"16e2e98f244b8ccb7fadb0b37222f42d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "neighbourhood_id":85893997,
+            "region_id":85688747,
+            "venue_id":722668431
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722668431,
-    "wof:lastmodified":1472651484,
+    "wof:lastmodified":1492071646,
     "wof:name":"Cone Connection",
-    "wof:parent_id":85824407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

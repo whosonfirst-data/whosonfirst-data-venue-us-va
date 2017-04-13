@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.514918,38.870604,-78.514918,38.870604",
     "geom:latitude":38.870604,
     "geom:longitude":-78.514918,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7epV8IrwgboGpXNTzPC2p3_38.870604_-78.514918@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906387,
-    "wof:geomhash":"5db27ec2176c9149df23e792f315f409",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc5eba2481599fb7b6ba34c010ba3fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":739389813
+        }
+    ],
     "wof:id":739389813,
-    "wof:lastmodified":1472651380,
+    "wof:lastmodified":1492041947,
     "wof:name":"Fred's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

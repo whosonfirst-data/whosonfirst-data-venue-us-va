@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.359761,38.988615,-78.359761,38.988615",
     "geom:latitude":38.988615,
     "geom:longitude":-78.359761,
@@ -31,17 +32,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w9LVZYaFHAE6nOC4GKFOy_38.988615_-78.359761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885065,
-    "wof:geomhash":"54ebd008130d1689af13d273f02ea5e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ca74a0f0c8db643b31704487b582169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":722604167
+        }
+    ],
     "wof:id":722604167,
-    "wof:lastmodified":1472651265,
+    "wof:lastmodified":1492065790,
     "wof:name":"Continuing Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

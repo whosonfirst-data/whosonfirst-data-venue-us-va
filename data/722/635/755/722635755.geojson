@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.064222,36.687194,-82.064222,36.687194",
     "geom:latitude":36.687194,
     "geom:longitude":-82.064222,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FbtejzFPTomh8pcGM7TPA_36.687194_-82.064222@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885761,
-    "wof:geomhash":"6ce8c3870769c60e22f4ab87b59e10df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"474fbbcf04094a40f00f1d49c0c08cc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722635755
+        }
+    ],
     "wof:id":722635755,
-    "wof:lastmodified":1472651420,
+    "wof:lastmodified":1492067461,
     "wof:name":"Wyndale & Wallace United Meth",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

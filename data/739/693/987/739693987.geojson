@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.599233,37.954641,-76.599233,37.954641",
     "geom:latitude":37.954641,
     "geom:longitude":-76.599233,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HegzIuD9Zi643GcBlmA83_37.954641_-76.599233@1303262547"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461912419,
     "wof:geomhash":"7809bcbc81073726f8c1b17e3a64a0ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739693987
+        }
+    ],
     "wof:id":739693987,
-    "wof:lastmodified":1472652194,
+    "wof:lastmodified":1492031405,
     "wof:name":"Martin Pinon Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

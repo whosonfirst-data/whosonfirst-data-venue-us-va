@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.276029,36.898345,-81.276029,36.898345",
     "geom:latitude":36.898345,
     "geom:longitude":-81.276029,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77qQ5pWKIumHZeVhQtqMdZ_36.898345_-81.276029@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890981,
-    "wof:geomhash":"706f8fa37a4716ba48ffe3a883ab7d75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4713684c34282680b0f294c35cdc90f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722909603
+        }
+    ],
     "wof:id":722909603,
-    "wof:lastmodified":1472652121,
+    "wof:lastmodified":1492070162,
     "wof:name":"Candu Auto Sales & Svc",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

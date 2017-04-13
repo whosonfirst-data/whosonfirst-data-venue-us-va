@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.543812,37.479418,-77.543812,37.479418",
     "geom:latitude":37.479418,
     "geom:longitude":-77.543812,
@@ -32,7 +33,13 @@
         "goods-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Lgt0jSmsfg862ePULzeii_37.479418_-77.543812@1303262551"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913084,
     "wof:geomhash":"0eb8623d85ac2d387592c5c71e40f513",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739724543
+        }
+    ],
     "wof:id":739724543,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492030937,
     "wof:name":"Msc Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

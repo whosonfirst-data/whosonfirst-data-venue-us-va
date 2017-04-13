@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.370702,38.508994,-77.370702,38.508994",
     "geom:latitude":38.508994,
     "geom:longitude":-77.370702,
@@ -32,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QNK0TSJni3938dasM9Sr7_38.508994_-77.370702@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461906212,
     "wof:geomhash":"8b6a5ad1fe6343024daa1ff88da5003d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739380787
+        }
+    ],
     "wof:id":739380787,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492033078,
     "wof:name":"L T Auto",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

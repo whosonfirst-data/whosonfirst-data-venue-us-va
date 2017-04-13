@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.855072,38.455532,-78.855072,38.455532",
     "geom:latitude":38.455532,
     "geom:longitude":-78.855072,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ashHpnXWfANF4sjWpA1xs_38.455532_-78.855072@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908390,
     "wof:geomhash":"67fa254d8e1be6d0a9bb051ed6258ca5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739497889
+        }
+    ],
     "wof:id":739497889,
-    "wof:lastmodified":1472651711,
+    "wof:lastmodified":1492029712,
     "wof:name":"Family Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

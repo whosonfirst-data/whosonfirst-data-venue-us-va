@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.777755,37.237704,-76.777755,37.237704",
     "geom:latitude":37.237704,
     "geom:longitude":-76.777755,
@@ -31,19 +32,34 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783,
+        420546831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l13OZaENTXy22acn55am3_37.237704_-76.777755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893221,
-    "wof:geomhash":"2c575fd7f346b4e356f83eea984c1c6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5bb795899d335e853872e0d238b4431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":723014013
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546831,
+            "venue_id":723014013
+        }
+    ],
     "wof:id":723014013,
-    "wof:lastmodified":1472651080,
+    "wof:lastmodified":1492050531,
     "wof:name":"Solid Rock Foundation",
-    "wof:parent_id":420546831,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.831352,37.374484,-79.831352,37.374484",
     "geom:latitude":37.374484,
     "geom:longitude":-79.831352,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729607,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RhicAX9GapuiapWRLvRAF_37.374484_-79.831352@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904428,
-    "wof:geomhash":"9afa70129cf82d407a0c6045082bbf79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a61306f2056c5508cb553214970bc383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729607,
+            "region_id":85688747,
+            "venue_id":739293061
+        }
+    ],
     "wof:id":739293061,
-    "wof:lastmodified":1472651186,
+    "wof:lastmodified":1492040447,
     "wof:name":"Custom Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

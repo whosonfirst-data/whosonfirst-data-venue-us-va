@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.975166,38.209291,-76.975166,38.209291",
     "geom:latitude":38.209291,
     "geom:longitude":-76.975166,
@@ -28,7 +29,12 @@
     "sg:postcode":"22443",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iBLK08G0iNlDaSC8p1KDg_38.209291_-76.975166@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905898,
     "wof:geomhash":"319c7984ee7fd460c32fd80abe60631a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739364861
+        }
+    ],
     "wof:id":739364861,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492031772,
     "wof:name":"J J Roperto Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

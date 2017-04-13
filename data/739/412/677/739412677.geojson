@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758849,37.270147,-76.758849,37.270147",
     "geom:latitude":37.270147,
     "geom:longitude":-76.758849,
@@ -31,17 +32,26 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SMweSnrH7lHNR69aQkdug_37.270147_-76.758849@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906817,
-    "wof:geomhash":"afb2b360c42332d07c8d1914d1ca8134",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6a642ddf4327af9c72070e522a4ac9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739412677
+        }
+    ],
     "wof:id":739412677,
-    "wof:lastmodified":1472651487,
+    "wof:lastmodified":1492040638,
     "wof:name":"Target One Hour Photo",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.304622,37.526186,-77.304622,37.526186",
     "geom:latitude":37.526186,
     "geom:longitude":-77.304622,
@@ -27,17 +28,32 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xOZY6avNzLfuZepLMHP7x_37.526186_-77.304622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909760,
-    "wof:geomhash":"3572fa8cd04de374f2c949084bd0b31a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7010295b38d089f95ab6c7143b322331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739568985
+        }
+    ],
     "wof:id":739568985,
-    "wof:lastmodified":1472651917,
+    "wof:lastmodified":1492043546,
     "wof:name":"Mark Farkas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

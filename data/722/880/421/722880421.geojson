@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.208003,36.933864,-76.208003,36.933864",
     "geom:latitude":36.933864,
     "geom:longitude":-76.208003,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q9tq6goHv0dO6jN05iyRw_36.933864_-76.208003@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890395,
-    "wof:geomhash":"2b144aeefeb110e702058dd6da2b2fa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0fc5a6847e7d419f3383501277682ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":722880421
+        }
+    ],
     "wof:id":722880421,
-    "wof:lastmodified":1472652009,
+    "wof:lastmodified":1492062758,
     "wof:name":"Miller & Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

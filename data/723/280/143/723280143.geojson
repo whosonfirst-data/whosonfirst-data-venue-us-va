@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434106,38.309844,-77.434106,38.309844",
     "geom:latitude":38.309844,
     "geom:longitude":-77.434106,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mSY7qP2UpDsq7EZI4hjiC_38.309844_-77.434106@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898681,
-    "wof:geomhash":"8bad832319bdf83a01a3f5e335813d4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e624ca5bfda59e1c2c14ea493c9bdbb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723280143
+        }
+    ],
     "wof:id":723280143,
-    "wof:lastmodified":1472651742,
+    "wof:lastmodified":1492054109,
     "wof:name":"J Mitchell Trucking Inc",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

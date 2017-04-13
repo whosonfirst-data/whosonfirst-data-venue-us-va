@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.547335,37.604238,-77.547335,37.604238",
     "geom:latitude":37.604238,
     "geom:longitude":-77.547335,
@@ -32,17 +33,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mQH0jPHMz6TsYRMSVVcde_37.604238_-77.547335@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907882,
-    "wof:geomhash":"7b762f8b8a9c5c24a95d53b388f4fc51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1887abbc0ab1a2819711ed7a2019a5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739469751
+        }
+    ],
     "wof:id":739469751,
-    "wof:lastmodified":1472651637,
+    "wof:lastmodified":1492047022,
     "wof:name":"Computer Research Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

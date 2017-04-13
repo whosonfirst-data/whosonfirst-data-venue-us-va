@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.174671,38.868248,-77.174671,38.868248",
     "geom:latitude":38.868248,
     "geom:longitude":-77.174671,
@@ -32,9 +33,11 @@
         85688747,
         102191575,
         85633793,
-        101729757,
+        101729759,
         102084863,
-        85848991
+        85848991,
+        101729757,
+        85805321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,22 +45,31 @@
     },
     "wof:country":"US",
     "wof:created":1461896747,
-    "wof:geomhash":"99313d1feb1520e54a1b01aacd80a80c",
+    "wof:geomhash":"d1d6bf7451cbd9d21e58aba2dbdc0825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084863,
-            "locality_id":101729757,
+            "locality_id":101729759,
             "neighbourhood_id":85848991,
+            "region_id":85688747,
+            "venue_id":723183033
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "neighbourhood_id":85805321,
             "region_id":85688747,
             "venue_id":723183033
         }
     ],
     "wof:id":723183033,
-    "wof:lastmodified":1472651502,
+    "wof:lastmodified":1492059498,
     "wof:name":"Japanese Auto Services Inc",
-    "wof:parent_id":85848991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

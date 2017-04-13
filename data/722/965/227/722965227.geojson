@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.304795,36.720947,-78.304795,36.720947",
     "geom:latitude":36.720947,
     "geom:longitude":-78.304795,
@@ -32,17 +33,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DTJR28eg2f1mEqTeZzu5u_36.720947_-78.304795@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892139,
-    "wof:geomhash":"88dcf1ae4fcf7806b49517ef4d4dddac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2aa406bb032eb46d06390c7797bced8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":722965227
+        }
+    ],
     "wof:id":722965227,
-    "wof:lastmodified":1472652287,
+    "wof:lastmodified":1492073514,
     "wof:name":"Baskervlle Correctional Unit 4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

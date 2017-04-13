@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433653,38.888873,-77.433653,38.888873",
     "geom:latitude":38.888873,
     "geom:longitude":-77.433653,
@@ -44,17 +45,32 @@
     ],
     "sg:website":"http://www.idealtile.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BE5UvO5wIOEZ1bJrRhuHG_38.888873_-77.433653@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910575,
-    "wof:geomhash":"5199af26621e0fe5631e33c081bfdcc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"030d19b27cda35dcfd88c835d3555602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739608493
+        }
+    ],
     "wof:id":739608493,
-    "wof:lastmodified":1472651965,
+    "wof:lastmodified":1492042574,
     "wof:name":"Ideal Tile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

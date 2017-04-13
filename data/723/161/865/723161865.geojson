@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.749839,37.308701,-76.749839,37.308701",
     "geom:latitude":37.308701,
     "geom:longitude":-76.749839,
@@ -32,17 +33,26 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42QqJ3tt2LNhjEoLrf3KxQ_37.308701_-76.749839@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896320,
-    "wof:geomhash":"0fa0ad69f0a8478d7b61f85fae8a6438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9190524086ac69ddc3c358d0ab8798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":723161865
+        }
+    ],
     "wof:id":723161865,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492054298,
     "wof:name":"Center For Systems Management",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

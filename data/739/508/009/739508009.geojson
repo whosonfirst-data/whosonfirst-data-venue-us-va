@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.653654,37.401135,-77.653654,37.401135",
     "geom:latitude":37.401135,
     "geom:longitude":-77.653654,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y1XlmnfIMplMwyU8uLfRy_37.401135_-77.653654@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908576,
-    "wof:geomhash":"5ad94be405963b435281ab16ed252afe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d95c01ccafd1638061c5b3116f079ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739508009
+        }
+    ],
     "wof:id":739508009,
-    "wof:lastmodified":1472651717,
+    "wof:lastmodified":1492038996,
     "wof:name":"Mitchells Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

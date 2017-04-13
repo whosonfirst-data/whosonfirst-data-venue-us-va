@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.995479,36.712295,-81.995479,36.712295",
     "geom:latitude":36.712295,
     "geom:longitude":-81.995479,
@@ -31,17 +32,26 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DHj3q1VV3HUhAwOkCP3Fy_36.712295_-81.995479@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908611,
-    "wof:geomhash":"beffd6510e8915003c796a3b02526c9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"708c32a9fad938d0c13cb0bb9fc5e988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739510061
+        }
+    ],
     "wof:id":739510061,
-    "wof:lastmodified":1472651726,
+    "wof:lastmodified":1492043371,
     "wof:name":"Fmc Of Abingdon",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

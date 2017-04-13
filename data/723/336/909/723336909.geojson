@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.173761,39.166417,-78.173761,39.166417",
     "geom:latitude":39.166417,
     "geom:longitude":-78.173761,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33MMgvKyItFnaCxIo0SJtc_39.166417_-78.173761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899750,
-    "wof:geomhash":"b688e75551e4cf23dbefa27170b2c3f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35772518ac008ec75f8942d65ef6a1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723336909
+        }
+    ],
     "wof:id":723336909,
-    "wof:lastmodified":1472651913,
+    "wof:lastmodified":1492058239,
     "wof:name":"Randstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

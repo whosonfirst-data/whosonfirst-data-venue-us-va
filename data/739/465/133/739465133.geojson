@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.383313,38.207457,-78.383313,38.207457",
     "geom:latitude":38.207457,
     "geom:longitude":-78.383313,
@@ -32,7 +33,12 @@
         "pumping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ojN6clOUR1OupvjRfmKYa_38.207457_-78.383313@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907803,
     "wof:geomhash":"7facee5b1ff15b7582a407fca743b24c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739465133
+        }
+    ],
     "wof:id":739465133,
-    "wof:lastmodified":1472651601,
+    "wof:lastmodified":1492031931,
     "wof:name":"Blue Ridge Concrete Pumping L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

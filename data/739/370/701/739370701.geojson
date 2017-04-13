@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.902811,38.069984,-78.902811,38.069984",
     "geom:latitude":38.069984,
     "geom:longitude":-78.902811,
@@ -31,7 +32,13 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o5sgmAVlqqcZnImaDiZYW_38.069984_-78.902811@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906008,
     "wof:geomhash":"e79fe5086d9c25df44fef72bf9958544",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739370701
+        }
+    ],
     "wof:id":739370701,
-    "wof:lastmodified":1472651370,
+    "wof:lastmodified":1492031018,
     "wof:name":"John R Roller DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

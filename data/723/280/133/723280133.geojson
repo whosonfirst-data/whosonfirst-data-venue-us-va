@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.371607,38.225188,-78.371607,38.225188",
     "geom:latitude":38.225188,
     "geom:longitude":-78.371607,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729591,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12fce0kdWAbN4U0ASORO0q_38.225188_-78.371607@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898680,
-    "wof:geomhash":"f0db9697f00a666f687a5763fd8888a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bff05c528d3d68365e526fc84b2099e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101729591,
+            "region_id":85688747,
+            "venue_id":723280133
+        }
+    ],
     "wof:id":723280133,
-    "wof:lastmodified":1472651739,
+    "wof:lastmodified":1492054099,
     "wof:name":"Mid Atlantic Motorsports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

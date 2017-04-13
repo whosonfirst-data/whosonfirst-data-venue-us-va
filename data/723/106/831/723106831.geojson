@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785701,37.225521,-76.785701,37.225521",
     "geom:latitude":37.225521,
     "geom:longitude":-76.785701,
@@ -33,7 +34,8 @@
         85688747,
         85633793,
         85894061,
-        102085967
+        102085967,
+        420546785
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895249,
-    "wof:geomhash":"f3fd5204bd9f0b478afa53329653e1f6",
+    "wof:geomhash":"34da92fcab962943b036300bf9672887",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,12 +51,17 @@
             "neighbourhood_id":85894061,
             "region_id":85688747,
             "venue_id":723106831
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546785,
+            "venue_id":723106831
         }
     ],
     "wof:id":723106831,
-    "wof:lastmodified":1472651318,
+    "wof:lastmodified":1492059997,
     "wof:name":"Jamestown Beach Campsites",
-    "wof:parent_id":85894061,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049635,38.724903,-77.049635,38.724903",
     "geom:latitude":38.724903,
     "geom:longitude":-77.049635,
@@ -34,15 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
-        85633793,
-        85837843,
-        102082191,
         85688747,
         102191575,
+        85633793,
         101729741,
         102084863,
-        420558305
+        420558305,
+        85688501,
+        85837843,
+        102082191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1461900272,
-    "wof:geomhash":"c341f3fba375c887e9ecd82a7c0dbdee",
+    "wof:geomhash":"89eb429cd31a943ab102a7783bfa0da3",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":723364393
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +61,19 @@
             "neighbourhood_id":420558305,
             "region_id":85688747,
             "venue_id":723364393
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":723364393
         }
     ],
     "wof:id":723364393,
-    "wof:lastmodified":1472652071,
+    "wof:lastmodified":1492050191,
     "wof:name":"Sheehy Wararat",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

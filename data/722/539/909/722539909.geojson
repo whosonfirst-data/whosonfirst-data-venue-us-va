@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.285702,36.702467,-80.285702,36.702467",
     "geom:latitude":36.702467,
     "geom:longitude":-80.285702,
@@ -31,17 +32,30 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0szETMXJqX8XWgFuX2rQf8_36.702467_-80.285702@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883800,
-    "wof:geomhash":"3b7febc3eca81aabaf904dd599b5335c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52f6e96605cb16e54b24d6e3877701cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":722539909
+        }
+    ],
     "wof:id":722539909,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492070582,
     "wof:name":"Helms Septic Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

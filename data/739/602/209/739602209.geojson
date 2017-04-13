@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.509105,38.780355,-77.509105,38.780355",
     "geom:latitude":38.780355,
     "geom:longitude":-77.509105,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.barnesandnoble.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zfakXKRq1yPitG77Jge6s_38.780355_-77.509105@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910453,
-    "wof:geomhash":"93a0bd2bae7874b50b1f1491b429cc7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09745906bef128c630add8ff70bf0d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739602209
+        }
+    ],
     "wof:id":739602209,
-    "wof:lastmodified":1472651943,
+    "wof:lastmodified":1492046983,
     "wof:name":"Barnes & Noble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

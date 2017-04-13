@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.66002,38.85606,-77.66002,38.85606",
     "geom:latitude":38.85606,
     "geom:longitude":-77.66002,
@@ -34,7 +35,12 @@
     ],
     "sg:website":"http://www.umbrasi.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MVgCKCTS5NT6NQdNbab0P_38.856060_-77.660020@1303262496"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461910677,
     "wof:geomhash":"fcac3eafc7937783a9b3e8307be5580e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613579
+        }
+    ],
     "wof:id":739613579,
-    "wof:lastmodified":1472651991,
+    "wof:lastmodified":1492032426,
     "wof:name":"Quantabit Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

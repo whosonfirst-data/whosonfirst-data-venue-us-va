@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.470899,36.811083,-77.470899,36.811083",
     "geom:latitude":36.811083,
     "geom:longitude":-77.470899,
@@ -31,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728725,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HzFWT9oQxbN9hd74AnXip_36.811083_-77.470899@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907851,
     "wof:geomhash":"c2e4ae1ae9f3726dbee72e5f63130bfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "locality_id":101728725,
+            "region_id":85688747,
+            "venue_id":739467877
+        }
+    ],
     "wof:id":739467877,
-    "wof:lastmodified":1472651637,
+    "wof:lastmodified":1492030516,
     "wof:name":"Centenary United Methodist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

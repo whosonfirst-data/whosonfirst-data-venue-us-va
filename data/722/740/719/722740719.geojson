@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.102292,36.950315,-81.102292,36.950315",
     "geom:latitude":36.950315,
     "geom:longitude":-81.102292,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461887758,
-    "wof:geomhash":"f0b80e23c68aff60e2c1129c200dac36",
+    "wof:geomhash":"810535b89257d8942aca637e61a5b596",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":722740719
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +58,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":722740719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":722740719
         }
     ],
     "wof:id":722740719,
-    "wof:lastmodified":1472651700,
+    "wof:lastmodified":1492069542,
     "wof:name":"Eastwood Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

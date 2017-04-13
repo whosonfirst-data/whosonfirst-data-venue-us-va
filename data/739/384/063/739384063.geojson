@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.509579,37.594541,-77.509579,37.594541",
     "geom:latitude":37.594541,
     "geom:longitude":-77.509579,
@@ -33,17 +34,30 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HukytQUCDd4m4eP37chVZ_37.594541_-77.509579@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906268,
-    "wof:geomhash":"1af8ac3a80ecee0bf55255646832e327",
-    "wof:hierarchy":[],
+    "wof:geomhash":"206792f34342d2fd9170fd47eba1c294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739384063
+        }
+    ],
     "wof:id":739384063,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492043624,
     "wof:name":"Star Cleaners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.90988,37.422426,-76.90988,37.422426",
     "geom:latitude":37.422426,
     "geom:longitude":-76.90988,
@@ -31,19 +32,28 @@
         "convenience"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tP7VHFk8uqiS9ucGOkBeD_37.422426_-76.909880@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888776,
-    "wof:geomhash":"09b14baa4a4780b904748a34f89cd51e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"230f837f0db1fb0e5f4cd2a394bbf177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":722793743
+        }
+    ],
     "wof:id":722793743,
-    "wof:lastmodified":1472651844,
+    "wof:lastmodified":1492069441,
     "wof:name":"Lanexa Plaza Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

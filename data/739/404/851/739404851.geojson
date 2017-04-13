@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.394107,36.666415,-78.394107,36.666415",
     "geom:latitude":36.666415,
     "geom:longitude":-78.394107,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.meck.k12.va.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729011,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GSDQL2GSpEvig1AZ9knfP_36.666415_-78.394107@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906675,
-    "wof:geomhash":"e04a1e0e924c6b01ea702e8146ab2ab2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"693b2ac03f2a80a37a278bd1682365db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729011,
+            "region_id":85688747,
+            "venue_id":739404851
+        }
+    ],
     "wof:id":739404851,
-    "wof:lastmodified":1472651488,
+    "wof:lastmodified":1492037494,
     "wof:name":"Mecklenburg County School Brd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

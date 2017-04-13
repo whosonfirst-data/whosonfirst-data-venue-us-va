@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.459217,38.830796,-77.459217,38.830796",
     "geom:latitude":38.830796,
     "geom:longitude":-77.459217,
@@ -32,17 +33,32 @@
         "complex"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BglC95V04eLarDLni96TD_38.830796_-77.459217@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894097,
-    "wof:geomhash":"3da8d284235e42899690d89f66df6d23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d57f15751d3812566b2804724fecfd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723054331
+        }
+    ],
     "wof:id":723054331,
-    "wof:lastmodified":1472651203,
+    "wof:lastmodified":1492052534,
     "wof:name":"Lee Overlook Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

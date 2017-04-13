@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.862489,37.575444,-78.862489,37.575444",
     "geom:latitude":37.575444,
     "geom:longitude":-78.862489,
@@ -28,7 +29,12 @@
     "sg:postcode":"24553",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FQeGQD5dtCoNKjeA4UjC7_37.575444_-78.862489@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907032,
     "wof:geomhash":"e049f044fb61809c2729e4e3979c846c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739423285
+        }
+    ],
     "wof:id":739423285,
-    "wof:lastmodified":1472651512,
+    "wof:lastmodified":1492032129,
     "wof:name":"Carlton Jackson Jr Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

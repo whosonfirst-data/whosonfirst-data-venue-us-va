@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.555031,39.124781,-77.555031,39.124781",
     "geom:latitude":39.124781,
     "geom:longitude":-77.555031,
@@ -31,17 +32,32 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GTgCn4PcGtCkgMrVBnHId_39.124781_-77.555031@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898499,
-    "wof:geomhash":"ba32f95136e05ab6f31687baa61c8dcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd3e795c3027b13e03579efd129d795e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723269725
+        }
+    ],
     "wof:id":723269725,
-    "wof:lastmodified":1472651810,
+    "wof:lastmodified":1492053872,
     "wof:name":"GLS Medical Processing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

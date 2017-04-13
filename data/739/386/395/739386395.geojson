@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.591599,39.090339,-77.591599,39.090339",
     "geom:latitude":39.090339,
     "geom:longitude":-77.591599,
@@ -32,17 +33,32 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AxFcVMhNG5LmDqzexynmF_39.090339_-77.591599@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906321,
-    "wof:geomhash":"d16d19de4a57b802eefd77f5c78ece31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"710d062f92cc4d828d294df541508257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739386395
+        }
+    ],
     "wof:id":739386395,
-    "wof:lastmodified":1472651375,
+    "wof:lastmodified":1492046420,
     "wof:name":"Inscope Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

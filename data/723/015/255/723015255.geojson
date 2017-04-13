@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.52959,37.470775,-77.52959,37.470775",
     "geom:latitude":37.470775,
     "geom:longitude":-77.52959,
@@ -33,17 +34,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aQTkTpz43ib7Yws21k9rP_37.470775_-77.529590@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893248,
-    "wof:geomhash":"449de3ae937267e173a1f28fd33be5ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c9b0248f55ea9befa1637c966ec9a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":723015255
+        }
+    ],
     "wof:id":723015255,
-    "wof:lastmodified":1472651096,
+    "wof:lastmodified":1492047458,
     "wof:name":"American Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.848428,37.5574,-79.848428,37.5574",
     "geom:latitude":37.5574,
     "geom:longitude":-79.848428,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"http://www.carris.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hia8lT0wn7NYbXjqo6Oeo_37.557222_-79.848026@1293134755"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461909785,
     "wof:geomhash":"82d9d1d423345cf4a452347219557ac3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739570323
+        }
+    ],
     "wof:id":739570323,
-    "wof:lastmodified":1472651899,
+    "wof:lastmodified":1492031736,
     "wof:name":"Carris Reels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

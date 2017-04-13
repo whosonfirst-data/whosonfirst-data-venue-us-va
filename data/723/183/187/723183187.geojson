@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.622791,38.996594,-77.622791,38.996594",
     "geom:latitude":38.996594,
     "geom:longitude":-77.622791,
@@ -34,17 +35,30 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GuxQi2erkzO0qh4nRHIkX_38.996594_-77.622791@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896751,
-    "wof:geomhash":"5dbdebf19a5d892eca269e87ba640332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c984d812c397fda151321c6b67e88920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723183187
+        }
+    ],
     "wof:id":723183187,
-    "wof:lastmodified":1472651508,
+    "wof:lastmodified":1492059487,
     "wof:name":"Peter Weeks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

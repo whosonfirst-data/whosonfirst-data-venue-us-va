@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.424652,38.835816,-77.424652,38.835816",
     "geom:latitude":38.835816,
     "geom:longitude":-77.424652,
@@ -37,17 +38,32 @@
     ],
     "sg:website":"http://www.ihop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yfv7XszEceJopYIhPAPnm_38.835816_-77.424652@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910521,
-    "wof:geomhash":"22475552af4b98307812c5bff5f13c92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e65f2bc30044edb5c393ec9a804a046b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739605661
+        }
+    ],
     "wof:id":739605661,
-    "wof:lastmodified":1472651966,
+    "wof:lastmodified":1492039575,
     "wof:name":"Ihop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

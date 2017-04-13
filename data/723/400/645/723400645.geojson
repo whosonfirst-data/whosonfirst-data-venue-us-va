@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.5377,37.173915,-76.5377,37.173915",
     "geom:latitude":37.173915,
     "geom:longitude":-76.5377,
@@ -33,17 +34,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aM7OUNiTCDwDfF06u4H8O_37.173915_-76.537700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900980,
-    "wof:geomhash":"ab1d4c65fddf88656fd9e78f4212e52d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"764bd5def305c16ea700e9c3b3d19985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723400645
+        }
+    ],
     "wof:id":723400645,
-    "wof:lastmodified":1472652141,
+    "wof:lastmodified":1492051228,
     "wof:name":"JP Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

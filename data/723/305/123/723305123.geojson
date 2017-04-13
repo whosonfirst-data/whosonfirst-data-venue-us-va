@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.386967,37.162159,-80.386967,37.162159",
     "geom:latitude":37.162159,
     "geom:longitude":-80.386967,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ku0gIGXtPBRhocTGBAkKm_37.162159_-80.386967@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899170,
-    "wof:geomhash":"c9b70ab60ef88f94d7d75c537edf7f32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdcea1b67071500a958f575ae6604109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546955,
+            "venue_id":723305123
+        }
+    ],
     "wof:id":723305123,
-    "wof:lastmodified":1472651749,
+    "wof:lastmodified":1492059346,
     "wof:name":"Jones & Sons Excavating",
     "wof:parent_id":420546955,
     "wof:placetype":"venue",

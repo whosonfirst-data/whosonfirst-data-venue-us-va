@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.456003,38.226413,-77.456003,38.226413",
     "geom:latitude":38.226413,
     "geom:longitude":-77.456003,
@@ -32,17 +33,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q3AotbjLhJScfXrxTdutM_38.226413_-77.456003@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904000,
-    "wof:geomhash":"d5760cd088ebadf5ed6db06dc58efbd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"befaeaa48fdfe2a95ff47dd56725594d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739273407
+        }
+    ],
     "wof:id":739273407,
-    "wof:lastmodified":1472651142,
+    "wof:lastmodified":1492038459,
     "wof:name":"Timber Ridge Town Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

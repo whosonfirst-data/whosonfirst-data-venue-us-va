@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.190285,39.14197,-78.190285,39.14197",
     "geom:latitude":39.14197,
     "geom:longitude":-78.190285,
@@ -32,7 +33,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62IPo0gGFJetm03tmxRKBx_39.141970_-78.190285@1299784598"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910085,
     "wof:geomhash":"9b064c2697c9a4bcc38f7bdbd878f309",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739583789
+        }
+    ],
     "wof:id":739583789,
-    "wof:lastmodified":1472651930,
+    "wof:lastmodified":1492030356,
     "wof:name":"Ij Canns American Grille",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

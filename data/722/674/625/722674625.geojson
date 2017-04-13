@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.892328,36.68847,-78.892328,36.68847",
     "geom:latitude":36.68847,
     "geom:longitude":-78.892328,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729599,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6no0cnNsRTr2OwEix68T9E_36.688470_-78.892328@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886483,
-    "wof:geomhash":"f22fcf73c42e061766d0fbb5f04e886d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1594e516f1b07956b895a7301a7705b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101729599,
+            "region_id":85688747,
+            "venue_id":722674625
+        }
+    ],
     "wof:id":722674625,
-    "wof:lastmodified":1472651528,
+    "wof:lastmodified":1492065163,
     "wof:name":"Fallen Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

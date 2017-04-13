@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.460435,38.05627,-78.460435,38.05627",
     "geom:latitude":38.05627,
     "geom:longitude":-78.460435,
@@ -33,17 +34,30 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a6MqtXAlJI0j8Tc5NvhuX_38.056270_-78.460435@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910099,
-    "wof:geomhash":"9ea491f1511b48ab221feb218610cd42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7b8967de5f2255253cf02ddca519f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739584575
+        }
+    ],
     "wof:id":739584575,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492040547,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

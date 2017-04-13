@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.669388,37.189661,-79.669388,37.189661",
     "geom:latitude":37.189661,
     "geom:longitude":-79.669388,
@@ -38,17 +39,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qLx131gzq1ady2JyWMMWy_37.189661_-79.669388@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896078,
-    "wof:geomhash":"ee9a086985862e99b50dc330f35945a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"007bcf609283822f57132858b60b3f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723148945
+        }
+    ],
     "wof:id":723148945,
-    "wof:lastmodified":1472651428,
+    "wof:lastmodified":1492053634,
     "wof:name":"McKesson Floyd & Hancock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

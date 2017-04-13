@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412114,38.465139,-77.412114,38.465139",
     "geom:latitude":38.465139,
     "geom:longitude":-77.412114,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547111,
+        85688747,
         85894041,
         102081931
     ],
@@ -47,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":739356359
+        },
+        {
+            "country_id":85633793,
             "county_id":102081931,
             "neighbourhood_id":85894041,
             "region_id":85688747,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":739356359,
-    "wof:lastmodified":1472651334,
+    "wof:lastmodified":1492030442,
     "wof:name":"Childrens World Lrng CT",
-    "wof:parent_id":85894041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

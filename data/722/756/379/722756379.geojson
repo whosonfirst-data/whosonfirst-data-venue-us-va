@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.733803,37.315863,-76.733803,37.315863",
     "geom:latitude":37.315863,
     "geom:longitude":-76.733803,
@@ -31,19 +32,28 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VsQUb0OjxVRim756Q6Jc2_37.315863_-76.733803@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888055,
-    "wof:geomhash":"057604a05ec9b1975423fa83a5c51c15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9317a98629125a20a736beeb698054b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722756379
+        }
+    ],
     "wof:id":722756379,
-    "wof:lastmodified":1472651725,
+    "wof:lastmodified":1492071606,
     "wof:name":"AMF Bowling Ctr",
-    "wof:parent_id":420546903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

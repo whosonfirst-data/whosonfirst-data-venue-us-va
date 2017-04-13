@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.099888,38.164226,-79.099888,38.164226",
     "geom:latitude":38.164226,
     "geom:longitude":-79.099888,
@@ -28,19 +29,36 @@
     "sg:postcode":"24401",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728733,
+        102081057,
+        85842443
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IxxhlIbz2jCA5nLnNYvYm_38.164226_-79.099888@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900724,
-    "wof:geomhash":"15ecf7770e511fcaa4cf126e781585b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5039996175454fcbd356671abe9cc5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081057,
+            "locality_id":101728733,
+            "neighbourhood_id":85842443,
+            "region_id":85688747,
+            "venue_id":723387565
+        }
+    ],
     "wof:id":723387565,
-    "wof:lastmodified":1472652122,
+    "wof:lastmodified":1492051721,
     "wof:name":"Buttermilk Springs Antique Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

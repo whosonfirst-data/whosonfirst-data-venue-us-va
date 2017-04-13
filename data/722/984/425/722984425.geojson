@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.846777,37.127878,-76.846777,37.127878",
     "geom:latitude":37.127878,
     "geom:longitude":-76.846777,
@@ -31,17 +32,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AXjGzDtWgyH10EKFbmtmc_37.127878_-76.846777@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892559,
-    "wof:geomhash":"25dd2ba7c873e997ebb926b69cd6580d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"242f2d38d515b00b003c8cb824e77b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722984425
+        }
+    ],
     "wof:id":722984425,
-    "wof:lastmodified":1472652338,
+    "wof:lastmodified":1492064847,
     "wof:name":"Surry County Parks & Rec",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

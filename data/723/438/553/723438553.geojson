@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.393748,37.242793,-80.393748,37.242793",
     "geom:latitude":37.242793,
     "geom:longitude":-80.393748,
@@ -32,19 +33,38 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546991,
+        85688747,
+        85852119,
+        102087271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jRFtAmLFsqoGt1bJDzfj5_37.242793_-80.393748@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901720,
-    "wof:geomhash":"deb61ce80cc63f603b0dbf7734a57e05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70b79fed56f43ba22288dce9b04d7ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546991,
+            "venue_id":723438553
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087271,
+            "neighbourhood_id":85852119,
+            "region_id":85688747,
+            "venue_id":723438553
+        }
+    ],
     "wof:id":723438553,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492054337,
     "wof:name":"Bug Shop",
-    "wof:parent_id":420546991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

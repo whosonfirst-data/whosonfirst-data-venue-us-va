@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.372699,38.896283,-77.372699,38.896283",
     "geom:latitude":38.896283,
     "geom:longitude":-77.372699,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729805,
+        101729785,
         102084863,
+        85834769,
+        101729805,
         85894019
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886397,
-    "wof:geomhash":"a8caea5ad8629b1d05e47e1858e2cc04",
+    "wof:geomhash":"8b1da7fc237af3aeeb5fb0b1a34e17ba",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85834769,
+            "region_id":85688747,
+            "venue_id":722670065
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":722670065,
-    "wof:lastmodified":1472651443,
+    "wof:lastmodified":1492074544,
     "wof:name":"Noori Ahmad Dr",
-    "wof:parent_id":85894019,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

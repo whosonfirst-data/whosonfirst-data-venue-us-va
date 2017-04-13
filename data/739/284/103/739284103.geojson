@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.65669,36.69417,-80.65669,36.69417",
     "geom:latitude":36.69417,
     "geom:longitude":-80.65669,
@@ -40,7 +41,12 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oVFFjJuWMlJMon5T0L2Em_36.694170_-80.656690@1294252573"
@@ -48,9 +54,17 @@
     "wof:country":"US",
     "wof:created":1461904240,
     "wof:geomhash":"6bdecf3695eb9e88374ad5ddac1036cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":739284103
+        }
+    ],
     "wof:id":739284103,
-    "wof:lastmodified":1472651146,
+    "wof:lastmodified":1492030631,
     "wof:name":"Bobby Utt's Custom Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

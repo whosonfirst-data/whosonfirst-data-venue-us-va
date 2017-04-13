@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.754378,37.238223,-76.754378,37.238223",
     "geom:latitude":37.238223,
     "geom:longitude":-76.754378,
@@ -31,17 +32,26 @@
         "playground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mBlkd72XdsUVQJsalYrzZ_37.238223_-76.754378@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894684,
-    "wof:geomhash":"2f98dc15136ad5dfe34399521accf39f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e61a0f6ff55182bbb49c27f088b6af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":723079975
+        }
+    ],
     "wof:id":723079975,
-    "wof:lastmodified":1472651314,
+    "wof:lastmodified":1492049877,
     "wof:name":"Settlers Mill Recreation Ctr",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

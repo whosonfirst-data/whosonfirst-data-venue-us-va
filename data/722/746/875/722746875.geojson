@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.670925,37.813621,-75.670925,37.813621",
     "geom:latitude":37.813621,
     "geom:longitude":-75.670925,
@@ -28,19 +29,40 @@
     "sg:postcode":"23308",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101728931,
+        102081415,
+        85868643,
+        420546533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WeQjAcLy9vfx5lV75K3Ly_37.813621_-75.670925@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887883,
-    "wof:geomhash":"68b2a709a59bcdff117154fe140f828c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"291c9e984fabbfbccc32fed355a0315e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081415,
+            "locality_id":101728931,
+            "neighbourhood_id":85868643,
+            "region_id":85688747,
+            "venue_id":722746875
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546533,
+            "venue_id":722746875
+        }
+    ],
     "wof:id":722746875,
-    "wof:lastmodified":1472651708,
+    "wof:lastmodified":1492066314,
     "wof:name":"Young's Creek Seafood",
-    "wof:parent_id":420546533,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

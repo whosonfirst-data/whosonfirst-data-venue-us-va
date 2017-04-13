@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.213343,38.938272,-77.213343,38.938272",
     "geom:latitude":38.938272,
     "geom:longitude":-77.213343,
@@ -38,6 +39,7 @@
         85633793,
         101729767,
         102084863,
+        85830359,
         85839227
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900289,
-    "wof:geomhash":"01a8a243048666701b50ae8bc951e02b",
+    "wof:geomhash":"9bebde0112100f163c7b37a8b0c59cac",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85830359,
+            "region_id":85688747,
+            "venue_id":723365131
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723365131,
-    "wof:lastmodified":1472652041,
+    "wof:lastmodified":1492054906,
     "wof:name":"Martin Information Systems Inc",
-    "wof:parent_id":85839227,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.903048,37.294272,-79.903048,37.294272",
     "geom:latitude":37.294272,
     "geom:longitude":-79.903048,
@@ -32,7 +33,13 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qjP21zxOHiqV3c0F9YWuw_37.294272_-79.903048@1303262552"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913304,
     "wof:geomhash":"eca1f5805dc165f72cbc731e85214478",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735221
+        }
+    ],
     "wof:id":739735221,
-    "wof:lastmodified":1472652239,
+    "wof:lastmodified":1492032048,
     "wof:name":"Jersey Lily's Roadhouse Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

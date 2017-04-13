@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.270024,38.849809,-77.270024,38.849809",
     "geom:latitude":38.849809,
     "geom:longitude":-77.270024,
@@ -28,17 +29,32 @@
     "sg:postcode":"22031",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729769,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3So8LsrbzekjBWv401Lcf4_38.849809_-77.270024@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893720,
-    "wof:geomhash":"4229384d200ddb07217e91bc797c5ebc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51ad55c3c447a473d945356b9bf465cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729769,
+            "region_id":85688747,
+            "venue_id":723035765
+        }
+    ],
     "wof:id":723035765,
-    "wof:lastmodified":1472651169,
+    "wof:lastmodified":1492054403,
     "wof:name":"Capitol Web Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.639805,39.267991,-77.639805,39.267991",
     "geom:latitude":39.267991,
     "geom:longitude":-77.639805,
@@ -28,7 +29,13 @@
     "sg:postcode":"20180",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728819,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12SfZWqdxoBGlkiu8QTLTM_39.267991_-77.639805@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904643,
     "wof:geomhash":"2960371b8c7f9bdc9fbeadc5c08525fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728819,
+            "region_id":85688747,
+            "venue_id":739303481
+        }
+    ],
     "wof:id":739303481,
-    "wof:lastmodified":1472651197,
+    "wof:lastmodified":1492029753,
     "wof:name":"Lovettsville Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

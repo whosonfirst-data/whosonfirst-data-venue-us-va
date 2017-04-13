@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.317818,37.615121,-77.317818,37.615121",
     "geom:latitude":37.615121,
     "geom:longitude":-77.317818,
@@ -67,17 +68,32 @@
     ],
     "sg:website":"http://www.theupsstorelocal.com/4572/index.htm",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dNmP9hHRAklqKnMiWhHE1_37.615121_-77.317818@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912780,
-    "wof:geomhash":"631216128dd066a198b6fef37894bcf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56688ed1799bfc9c06c6fb06b8de410a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739709867
+        }
+    ],
     "wof:id":739709867,
-    "wof:lastmodified":1472652203,
+    "wof:lastmodified":1492047081,
     "wof:name":"The UPS Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

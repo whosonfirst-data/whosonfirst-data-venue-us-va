@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.633323,37.223395,-77.633323,37.223395",
     "geom:latitude":37.223395,
     "geom:longitude":-77.633323,
@@ -31,17 +32,30 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ulp9BYpsodDGiwqFSakXa_37.223395_-77.633323@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913288,
-    "wof:geomhash":"897e06e6c71b14165eb382973ba75aa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db9fa82ff159ecd05e354e079e4cfa65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":739734441
+        }
+    ],
     "wof:id":739734441,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492043371,
     "wof:name":"Watkins Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

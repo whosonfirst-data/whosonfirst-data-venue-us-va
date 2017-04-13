@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411514,37.308153,-77.411514,37.308153",
     "geom:latitude":37.308153,
     "geom:longitude":-77.411514,
@@ -28,7 +29,12 @@
     "sg:postcode":"23834",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hlv235JmABErcI7Wf6boE_37.308153_-77.411514@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904853,
     "wof:geomhash":"10c6c96138d09a4aa1f827d9f8c13c82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739314281
+        }
+    ],
     "wof:id":739314281,
-    "wof:lastmodified":1472651215,
+    "wof:lastmodified":1492029905,
     "wof:name":"CMS Benefits Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

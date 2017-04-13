@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.161668,37.328283,-79.161668,37.328283",
     "geom:latitude":37.328283,
     "geom:longitude":-79.161668,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b4nOFwHwb5bTMdzNyNfL0_37.328283_-79.161668@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908957,
     "wof:geomhash":"ee7c4ed8b4cc1e75fed3107c3e4ac4da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":739528723
+        }
+    ],
     "wof:id":739528723,
-    "wof:lastmodified":1472651810,
+    "wof:lastmodified":1492032523,
     "wof:name":"NSA Ministries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.492468,37.137321,-81.492468,37.137321",
     "geom:latitude":37.137321,
     "geom:longitude":-81.492468,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h0RwdX86d2QxxukaE2GR8_37.137321_-81.492468@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891038,
-    "wof:geomhash":"a0c921a0af86cd1bee6b0399838c80ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39b78171ce6b652938d070747a2f2c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":722912645
+        }
+    ],
     "wof:id":722912645,
-    "wof:lastmodified":1472652124,
+    "wof:lastmodified":1492063630,
     "wof:name":"Tazewell Family Worship Ctr",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

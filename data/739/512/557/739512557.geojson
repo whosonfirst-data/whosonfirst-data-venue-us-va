@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.778706,38.062558,-76.778706,38.062558",
     "geom:latitude":38.062558,
     "geom:longitude":-76.778706,
@@ -31,7 +32,12 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pEkdsId34ztIsm7KEGRwv_38.062558_-76.778706@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908656,
     "wof:geomhash":"effee2473c589526344a74af18533bce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739512557
+        }
+    ],
     "wof:id":739512557,
-    "wof:lastmodified":1472651785,
+    "wof:lastmodified":1492031350,
     "wof:name":"BTS Contracting Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

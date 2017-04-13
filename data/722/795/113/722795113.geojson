@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.561269,36.594732,-82.561269,36.594732",
     "geom:latitude":36.594732,
     "geom:longitude":-82.561269,
@@ -31,17 +32,26 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z7vtR0iBhxBB1GNNCe75N_36.594732_-82.561269@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888799,
-    "wof:geomhash":"87718646401be10c9ad509a410297fdd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0547d6288940d4205797b7ca6b3c9495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547079,
+            "venue_id":722795113
+        }
+    ],
     "wof:id":722795113,
-    "wof:lastmodified":1472651747,
+    "wof:lastmodified":1492067397,
     "wof:name":"Hobbs Enterprizes",
     "wof:parent_id":420547079,
     "wof:placetype":"venue",

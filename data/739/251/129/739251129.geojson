@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.101658,36.749866,-80.101658,36.749866",
     "geom:latitude":36.749866,
     "geom:longitude":-80.101658,
@@ -32,7 +33,12 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nHQBOXWgjz905tC8yjeTQ_36.749866_-80.101658@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461903514,
     "wof:geomhash":"97212bb06d07965af4ff88e7ea9ce624",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":739251129
+        }
+    ],
     "wof:id":739251129,
-    "wof:lastmodified":1472651073,
+    "wof:lastmodified":1492029818,
     "wof:name":"Clyde Hylton Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.139782,36.515154,-82.139782,36.515154",
     "geom:latitude":36.515154,
     "geom:longitude":-82.139782,
@@ -31,17 +32,30 @@
         "physician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31ReDZ8uXVckmQqy68L0iR_36.515154_-82.139782@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893813,
-    "wof:geomhash":"420a536f14720ddac9c059b4537c09f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3a4b42402ead7e5da97e5c4e864a9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "region_id":85688701,
+            "venue_id":723040183
+        }
+    ],
     "wof:id":723040183,
-    "wof:lastmodified":1472651149,
+    "wof:lastmodified":1492049298,
     "wof:name":"VA Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.464508,37.305146,-79.464508,37.305146",
     "geom:latitude":37.305146,
     "geom:longitude":-79.464508,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TCeXxPXXRae6wddwlEExS_37.305146_-79.464508@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461905445,
     "wof:geomhash":"68ad8ba21da363d9d0d2dab8bfa6bcf1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739343069
+        }
+    ],
     "wof:id":739343069,
-    "wof:lastmodified":1472651266,
+    "wof:lastmodified":1492032169,
     "wof:name":"Hippo Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635091,37.521568,-77.635091,37.521568",
     "geom:latitude":37.521568,
     "geom:longitude":-77.635091,
@@ -32,17 +33,30 @@
         "voting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s723nJJdM5TBN67rluoUF_37.521568_-77.635091@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898600,
-    "wof:geomhash":"f2dbd475a0c8f744a822f7b06dd5274b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e492bb01290922d6e9d8344363887388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723275465
+        }
+    ],
     "wof:id":723275465,
-    "wof:lastmodified":1472651772,
+    "wof:lastmodified":1492049398,
     "wof:name":"Virginia Election Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

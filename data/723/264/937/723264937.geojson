@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758533,37.313323,-76.758533,37.313323",
     "geom:latitude":37.313323,
     "geom:longitude":-76.758533,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XyW1wkaplIMIdSiJHfZS9_37.313323_-76.758533@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898402,
-    "wof:geomhash":"d8825cd19c412ced7dbb676652a93201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f7a3eafd6d859f6e5b311abe9ea52b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546935,
+            "venue_id":723264937
+        }
+    ],
     "wof:id":723264937,
-    "wof:lastmodified":1472651848,
+    "wof:lastmodified":1492058695,
     "wof:name":"Woods of Williamsburg",
     "wof:parent_id":420546935,
     "wof:placetype":"venue",

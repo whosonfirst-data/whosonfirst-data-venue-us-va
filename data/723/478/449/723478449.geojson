@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.407499,38.948788,-77.407499,38.948788",
     "geom:latitude":38.948788,
     "geom:longitude":-77.407499,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729837,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JDVm3Fslw0TIU1gksY7km_38.948788_-77.407499@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902505,
-    "wof:geomhash":"a5341518148a16dd5e164c63f2b19a56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93acab426fb69a49d5776122aeeb27cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729837,
+            "region_id":85688747,
+            "venue_id":723478449
+        }
+    ],
     "wof:id":723478449,
-    "wof:lastmodified":1472652314,
+    "wof:lastmodified":1492057504,
     "wof:name":"Virtual Technology Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

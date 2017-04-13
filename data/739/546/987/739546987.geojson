@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.607215,38.711271,-77.607215,38.711271",
     "geom:latitude":38.711271,
     "geom:longitude":-77.607215,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.tree-experts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tpb53W6RsEUYm5EJANMQb_38.711271_-77.607215@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461909298,
     "wof:geomhash":"a74540e81a725727e0046bac25a96423",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739546987
+        }
+    ],
     "wof:id":739546987,
-    "wof:lastmodified":1472651869,
+    "wof:lastmodified":1492031597,
     "wof:name":"Family Tree Experts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

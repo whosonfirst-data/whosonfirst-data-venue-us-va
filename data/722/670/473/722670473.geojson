@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.627319,38.332238,-77.627319,38.332238",
     "geom:latitude":38.332238,
     "geom:longitude":-77.627319,
@@ -31,17 +32,30 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QRFtiAkIIHLMAmy8dvi4O_38.332238_-77.627319@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886406,
-    "wof:geomhash":"98a0dda5765972e082efc7abec012f36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9da9a8170938d6d6fd2495a7d71bd667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722670473
+        }
+    ],
     "wof:id":722670473,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492074544,
     "wof:name":"Northwind Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

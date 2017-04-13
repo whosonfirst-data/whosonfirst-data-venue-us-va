@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.685745,36.744313,-77.685745,36.744313",
     "geom:latitude":36.744313,
     "geom:longitude":-77.685745,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xbjy1mR1jvruTESa621il_36.744313_-77.685745@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893976,
-    "wof:geomhash":"ed885f9b110a584aa9ada5c58876f059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10e095c03015a61a2accf8faaf5229c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":723048279
+        }
+    ],
     "wof:id":723048279,
-    "wof:lastmodified":1472651164,
+    "wof:lastmodified":1492059288,
     "wof:name":"Saint Thomas Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

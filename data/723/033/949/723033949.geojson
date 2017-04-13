@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.549386,37.516948,-77.549386,37.516948",
     "geom:latitude":37.516948,
     "geom:longitude":-77.549386,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eWmOLfaoqJHv7hTeEDpO9_37.516948_-77.549386@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893683,
-    "wof:geomhash":"0cd70230571d94b05b51f42b1ebbb797",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1abf8849624537841b9a54a4ccfd3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":723033949
+        }
+    ],
     "wof:id":723033949,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492061821,
     "wof:name":"Shepherd Visual Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

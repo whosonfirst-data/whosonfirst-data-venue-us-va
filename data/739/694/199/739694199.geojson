@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611834,38.023575,-76.611834,38.023575",
     "geom:latitude":38.023575,
     "geom:longitude":-76.611834,
@@ -28,7 +29,12 @@
     "sg:postcode":"22488",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YJvjFaDPzxs4kNVcs1Rw7_38.023575_-76.611834@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912423,
     "wof:geomhash":"28a8316a647154d154ddd93e34ce87d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739694199
+        }
+    ],
     "wof:id":739694199,
-    "wof:lastmodified":1472652165,
+    "wof:lastmodified":1492030257,
     "wof:name":"Good Eats Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

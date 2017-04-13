@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.577528,39.114176,-77.577528,39.114176",
     "geom:latitude":39.114176,
     "geom:longitude":-77.577528,
@@ -31,17 +32,32 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oSbWRwB9f0PTLvkiLwCJ5_39.114176_-77.577528@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894044,
-    "wof:geomhash":"d4744c6535f43ab20270ccf4c8c9ce7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e35de810ad10b441cb64e8ba53feccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723051611
+        }
+    ],
     "wof:id":723051611,
-    "wof:lastmodified":1472651203,
+    "wof:lastmodified":1492061548,
     "wof:name":"Adtran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

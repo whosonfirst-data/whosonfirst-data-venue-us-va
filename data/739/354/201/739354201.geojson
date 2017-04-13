@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.612036,37.693544,-77.612036,37.693544",
     "geom:latitude":37.693544,
     "geom:longitude":-77.612036,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729379,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77nwYyaTQNX7KfVJsYeiUm_37.693544_-77.612036@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905704,
-    "wof:geomhash":"70828304e8baf6bea9ab37a3e8dd832c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfdbe13d6577e61eb690abd4e8532175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729379,
+            "region_id":85688747,
+            "venue_id":739354201
+        }
+    ],
     "wof:id":739354201,
-    "wof:lastmodified":1472651336,
+    "wof:lastmodified":1492045523,
     "wof:name":"General Maintenance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

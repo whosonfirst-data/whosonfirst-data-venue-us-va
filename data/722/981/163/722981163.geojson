@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.476664,37.073238,-76.476664,37.073238",
     "geom:latitude":37.073238,
     "geom:longitude":-76.476664,
@@ -39,6 +40,7 @@
         85633793,
         101729041,
         102085961,
+        85879201,
         85805029
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461892475,
-    "wof:geomhash":"ba3f43f47c6044532bc13158af52db6c",
+    "wof:geomhash":"0dec7c833a50603885e1a8a2f2c5386b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879201,
+            "region_id":85688747,
+            "venue_id":722981163
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722981163,
-    "wof:lastmodified":1472652326,
+    "wof:lastmodified":1492074119,
     "wof:name":"Richman Steel & Fabrication",
-    "wof:parent_id":85805029,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

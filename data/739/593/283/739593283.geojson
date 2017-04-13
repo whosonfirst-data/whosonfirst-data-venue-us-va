@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.907607,37.396197,-79.907607,37.396197",
     "geom:latitude":37.396197,
     "geom:longitude":-79.907607,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Eq3FFkKP4fN0q0t5KBy7D_37.396197_-79.907607@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910262,
-    "wof:geomhash":"4633aced8d40ca43f7f33794ff0d4707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edc37456642655e318792eb367613c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":739593283
+        }
+    ],
     "wof:id":739593283,
-    "wof:lastmodified":1472651935,
+    "wof:lastmodified":1492039926,
     "wof:name":"Rancho Viejo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.224942,36.993879,-78.224942,36.993879",
     "geom:latitude":36.993879,
     "geom:longitude":-78.224942,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728613,
+        102084945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5e35r9gNmUtffgl7uD2MgO_36.993879_-78.224942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905988,
-    "wof:geomhash":"0a53fb9348fa47215d878d280ac24f57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c86e61c9629e7eaa1124fa0a568c792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084945,
+            "locality_id":101728613,
+            "region_id":85688747,
+            "venue_id":739369511
+        }
+    ],
     "wof:id":739369511,
-    "wof:lastmodified":1472651342,
+    "wof:lastmodified":1492045697,
     "wof:name":"Computer & Things",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

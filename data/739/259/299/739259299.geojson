@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.094092,36.69713,-78.094092,36.69713",
     "geom:latitude":36.69713,
     "geom:longitude":-78.094092,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"www.virginiaquilting.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729015,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OhHzrOnSPLmyz86JH66r3_36.697130_-78.094092@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461903684,
     "wof:geomhash":"d0b202244915c1466d98540372c24086",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729015,
+            "region_id":85688747,
+            "venue_id":739259299
+        }
+    ],
     "wof:id":739259299,
-    "wof:lastmodified":1472651091,
+    "wof:lastmodified":1492032931,
     "wof:name":"Virginia Quilting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

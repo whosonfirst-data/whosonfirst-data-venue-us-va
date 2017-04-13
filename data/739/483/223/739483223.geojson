@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.173834,37.629068,-77.173834,37.629068",
     "geom:latitude":37.629068,
     "geom:longitude":-77.173834,
@@ -31,17 +32,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WUFMXcVRzTGeKMqa5Yjy3_37.629068_-77.173834@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908130,
-    "wof:geomhash":"a869f43bb05ec5a027dc0916c6a701f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b83dbaff9b06ab97e44c39a1e7082ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739483223
+        }
+    ],
     "wof:id":739483223,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492044328,
     "wof:name":"Acme Dental Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

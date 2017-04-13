@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.753716,37.153266,-76.753716,37.153266",
     "geom:latitude":37.153266,
     "geom:longitude":-76.753716,
@@ -32,17 +33,26 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AzfuHPUKemsvftLLKPfzN_37.153266_-76.753716@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900996,
-    "wof:geomhash":"6ad7894ec83d73c9fdb531fb0d88f414",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d31ec2454c86bbeea03d47d09101b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723401521
+        }
+    ],
     "wof:id":723401521,
-    "wof:lastmodified":1472652122,
+    "wof:lastmodified":1492051199,
     "wof:name":"Mt Ivy Property Owners",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.288215,36.856781,-76.288215,36.856781",
     "geom:latitude":36.856781,
     "geom:longitude":-76.288215,
@@ -38,17 +39,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44VaoE6DX6rAmm0Yh9MLym_36.856781_-76.288215@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884711,
-    "wof:geomhash":"cfaab4874e25316adca9f1a77159f3ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6616e74717a48181390bc8d559df24a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":722585879
+        }
+    ],
     "wof:id":722585879,
-    "wof:lastmodified":1472651248,
+    "wof:lastmodified":1492074936,
     "wof:name":"Creative Annex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

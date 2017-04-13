@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.220627,36.915076,-76.220627,36.915076",
     "geom:latitude":36.915076,
     "geom:longitude":-76.220627,
@@ -34,7 +35,9 @@
         85633793,
         101728769,
         102085935,
-        420548213
+        85868193,
+        420548213,
+        420548089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888474,
-    "wof:geomhash":"ee05a63392481a5e783d7f33634804b8",
+    "wof:geomhash":"0b49f10f3c4ed969c9818f1ec8208fa7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85868193,
+            "region_id":85688747,
+            "venue_id":722778807
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -52,12 +64,21 @@
             "neighbourhood_id":420548213,
             "region_id":85688747,
             "venue_id":722778807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420548089,
+            "region_id":85688747,
+            "venue_id":722778807
         }
     ],
     "wof:id":722778807,
-    "wof:lastmodified":1472651842,
+    "wof:lastmodified":1492069415,
     "wof:name":"Thecep Inc",
-    "wof:parent_id":420548213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

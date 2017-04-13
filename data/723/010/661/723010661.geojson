@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.563968,37.641942,-77.563968,37.641942",
     "geom:latitude":37.641942,
     "geom:longitude":-77.563968,
@@ -31,17 +32,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Nn9Qv71Lgc6VHtmp03JNW_37.641942_-77.563968@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893154,
-    "wof:geomhash":"c20a6e3a0dd8e84b00ba98115f92cfcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bc8b8300ce57d26a05c086a47647084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":723010661
+        }
+    ],
     "wof:id":723010661,
-    "wof:lastmodified":1472651113,
+    "wof:lastmodified":1492050146,
     "wof:name":"Wine & Beer Westpark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

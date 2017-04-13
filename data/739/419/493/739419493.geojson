@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.184741,36.894003,-76.184741,36.894003",
     "geom:latitude":36.894003,
     "geom:longitude":-76.184741,
@@ -34,7 +35,11 @@
         85633793,
         101728745,
         102081929,
-        85834003
+        420548395,
+        85834003,
+        101728769,
+        102085935,
+        85808951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,33 @@
             "country_id":85633793,
             "county_id":102081929,
             "locality_id":101728745,
+            "neighbourhood_id":420548395,
+            "region_id":85688747,
+            "venue_id":739419493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
             "neighbourhood_id":85834003,
+            "region_id":85688747,
+            "venue_id":739419493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85808951,
             "region_id":85688747,
             "venue_id":739419493
         }
     ],
     "wof:id":739419493,
-    "wof:lastmodified":1472651512,
+    "wof:lastmodified":1492029772,
     "wof:name":"Dominion Interior Supply Corp",
-    "wof:parent_id":85834003,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

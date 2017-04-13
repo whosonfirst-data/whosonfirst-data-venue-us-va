@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.541711,39.098268,-77.541711,39.098268",
     "geom:latitude":39.098268,
     "geom:longitude":-77.541711,
@@ -32,17 +33,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HHQDNC8L1huH0aYsgXARD_39.098268_-77.541711@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889063,
-    "wof:geomhash":"34e05b08ffebb58dcc7652d028cefc94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8056daa5d78b6176546018a8044fa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722809825
+        }
+    ],
     "wof:id":722809825,
-    "wof:lastmodified":1472651874,
+    "wof:lastmodified":1492070063,
     "wof:name":"Leesburg Southern Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.005072,36.702182,-82.005072,36.702182",
     "geom:latitude":36.702182,
     "geom:longitude":-82.005072,
@@ -32,17 +33,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oF3AZRRF8aFQ6XEgINIqu_36.702182_-82.005072@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902855,
-    "wof:geomhash":"01ea16516b61584103573b13362abb65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e44f183f5dc4e4cbbc3f662cb17bab75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723495803
+        }
+    ],
     "wof:id":723495803,
-    "wof:lastmodified":1472652353,
+    "wof:lastmodified":1492053268,
     "wof:name":"H & S Food Brokerage",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

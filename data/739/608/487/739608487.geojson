@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433408,38.878134,-77.433408,38.878134",
     "geom:latitude":38.878134,
     "geom:longitude":-77.433408,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xf0mEIO1P1iljEDe5P1xB_38.878134_-77.433408@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910575,
-    "wof:geomhash":"c673c0bb7cc74619386f7a159d550ac2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d1cd323158be5d2d2646116fd6fed54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739608487
+        }
+    ],
     "wof:id":739608487,
-    "wof:lastmodified":1472651964,
+    "wof:lastmodified":1492042589,
     "wof:name":"Blue Cloud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.5947,37.240233,-79.5947,37.240233",
     "geom:latitude":37.240233,
     "geom:longitude":-79.5947,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CweH31rDZh4wLeX9CdZ6d_37.240233_-79.594700@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905721,
     "wof:geomhash":"be4429a179b2bb0695d2c89770ae6da2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739355133
+        }
+    ],
     "wof:id":739355133,
-    "wof:lastmodified":1472651326,
+    "wof:lastmodified":1492032361,
     "wof:name":"McGuire Roofing Rmdlg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

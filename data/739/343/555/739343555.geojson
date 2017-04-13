@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.92445,37.642026,-78.92445,37.642026",
     "geom:latitude":37.642026,
     "geom:longitude":-78.92445,
@@ -32,7 +33,12 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IxIZMppB4xvZIPI7nYLJ2_37.642026_-78.924450@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461905454,
     "wof:geomhash":"6e91f6c81ee25cbe22cf9d1a69a37913",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739343555
+        }
+    ],
     "wof:id":739343555,
-    "wof:lastmodified":1472651287,
+    "wof:lastmodified":1492032179,
     "wof:name":"D & W Machine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.114804,37.360883,-79.114804,37.360883",
     "geom:latitude":37.360883,
     "geom:longitude":-79.114804,
@@ -28,7 +29,12 @@
     "sg:postcode":"24501",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AWY6khJodKy8Y6Zbi4ZNs_37.360883_-79.114804@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908662,
     "wof:geomhash":"2344b4aaf5c930b8165ec2696928a35f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":739512889
+        }
+    ],
     "wof:id":739512889,
-    "wof:lastmodified":1472651846,
+    "wof:lastmodified":1492031354,
     "wof:name":"New Vine Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.487734,38.901438,-77.487734,38.901438",
     "geom:latitude":38.901438,
     "geom:longitude":-77.487734,
@@ -28,7 +29,13 @@
     "sg:postcode":"20152",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729459,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Py7FANadv9XReA684FxA8_38.901438_-77.487734@1303262496"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910590,
     "wof:geomhash":"af7b0fcfab7e6633dea765e3f8211958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729459,
+            "region_id":85688747,
+            "venue_id":739609289
+        }
+    ],
     "wof:id":739609289,
-    "wof:lastmodified":1472651949,
+    "wof:lastmodified":1492032681,
     "wof:name":"D & V Autobody",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

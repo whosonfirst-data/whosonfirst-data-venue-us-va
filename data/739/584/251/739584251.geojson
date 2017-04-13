@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.847934,38.429825,-78.847934,38.429825",
     "geom:latitude":38.429825,
     "geom:longitude":-78.847934,
@@ -38,17 +39,32 @@
         "wrap"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w4KOz4blPtdpkZujfDe79_38.429825_-78.847934@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910093,
-    "wof:geomhash":"9d68d4e6edef48bff18e847d4fb74dd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc153de717e645c813e2358ba5b5978b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739584251
+        }
+    ],
     "wof:id":739584251,
-    "wof:lastmodified":1472651925,
+    "wof:lastmodified":1492040547,
     "wof:name":"IHOP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

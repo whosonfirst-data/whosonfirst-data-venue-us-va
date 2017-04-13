@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.771135,37.308959,-76.771135,37.308959",
     "geom:latitude":37.308959,
     "geom:longitude":-76.771135,
@@ -31,17 +32,26 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DfWSh1bc11zhE518LWKkE_37.308959_-76.771135@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901495,
-    "wof:geomhash":"8a7e315e19ea61ba03a67afec40334fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90b28da5631cc7d08332423842731770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546847,
+            "venue_id":723425885
+        }
+    ],
     "wof:id":723425885,
-    "wof:lastmodified":1472652259,
+    "wof:lastmodified":1492055627,
     "wof:name":"Bridge Group",
     "wof:parent_id":420546847,
     "wof:placetype":"venue",

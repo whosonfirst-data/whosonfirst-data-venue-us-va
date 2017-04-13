@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365945,39.035805,-77.365945,39.035805",
     "geom:latitude":39.035805,
     "geom:longitude":-77.365945,
@@ -28,7 +29,13 @@
     "sg:postcode":"20164",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32Bf9hX4xjVVQEzXzDI1pn_39.035805_-77.365945@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904369,
     "wof:geomhash":"a422ef383a4d7d61cff74e0457dbbe15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739290117
+        }
+    ],
     "wof:id":739290117,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492032802,
     "wof:name":"Jmg Computer Network Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

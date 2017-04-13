@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.741462,37.278074,-76.741462,37.278074",
     "geom:latitude":37.278074,
     "geom:longitude":-76.741462,
@@ -32,7 +33,12 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TcFDMsD7538ZtMRgacaA5_37.278074_-76.741462@1299784598"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"d812cd2ed7d32f8b0cc9d7c728c87648",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739586571
+        }
+    ],
     "wof:id":739586571,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492031890,
     "wof:name":"Coco Chocolatier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

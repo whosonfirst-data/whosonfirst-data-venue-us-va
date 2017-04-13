@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.484279,37.755977,-77.484279,37.755977",
     "geom:latitude":37.755977,
     "geom:longitude":-77.484279,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
-        102191575,
         85633793,
-        101728723,
+        85823377,
         102087245,
-        85868185,
-        85823377
+        102191575,
+        101728723,
+        85868185
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +44,15 @@
     },
     "wof:country":"US",
     "wof:created":1461909147,
-    "wof:geomhash":"a610bfa102b57284a15c2862bb4cef6f",
+    "wof:geomhash":"be324882d05cecae93a32eae537be04e",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087245,
+            "neighbourhood_id":85823377,
+            "region_id":85688747,
+            "venue_id":739539643
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -53,19 +61,12 @@
             "neighbourhood_id":85868185,
             "region_id":85688747,
             "venue_id":739539643
-        },
-        {
-            "country_id":85633793,
-            "county_id":102087245,
-            "neighbourhood_id":85823377,
-            "region_id":85688747,
-            "venue_id":739539643
         }
     ],
     "wof:id":739539643,
-    "wof:lastmodified":1472651814,
+    "wof:lastmodified":1492041612,
     "wof:name":"Harpers Lawn Care Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

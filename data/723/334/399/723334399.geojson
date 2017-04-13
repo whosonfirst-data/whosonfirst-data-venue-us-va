@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.11493,38.768952,-77.11493,38.768952",
     "geom:latitude":38.768952,
     "geom:longitude":-77.11493,
@@ -38,7 +39,11 @@
         85633793,
         101729749,
         102084863,
-        85853453
+        85853453,
+        101729841,
+        85823327,
+        101729787,
+        420546691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899705,
-    "wof:geomhash":"662369ff3bea1170610b54215d6a06d0",
+    "wof:geomhash":"341bf6e61b1c11087018849116db1b0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +61,30 @@
             "neighbourhood_id":85853453,
             "region_id":85688747,
             "venue_id":723334399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729841,
+            "neighbourhood_id":85823327,
+            "region_id":85688747,
+            "venue_id":723334399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729787,
+            "neighbourhood_id":420546691,
+            "region_id":85688747,
+            "venue_id":723334399
         }
     ],
     "wof:id":723334399,
-    "wof:lastmodified":1472651898,
+    "wof:lastmodified":1492057971,
     "wof:name":"Northrop Grumman Info Tech",
-    "wof:parent_id":85853453,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

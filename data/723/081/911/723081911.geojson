@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.778538,37.247374,-76.778538,37.247374",
     "geom:latitude":37.247374,
     "geom:longitude":-76.778538,
@@ -31,17 +32,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52tgQTVVMIwiX0Ja1gCoje_37.247374_-76.778538@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894752,
-    "wof:geomhash":"d47f166c868f32d1c92a990018da5e95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dff9fc4b5c924b53968884a479a10c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":723081911
+        }
+    ],
     "wof:id":723081911,
-    "wof:lastmodified":1472651306,
+    "wof:lastmodified":1492050507,
     "wof:name":"Smith-Wade Band",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

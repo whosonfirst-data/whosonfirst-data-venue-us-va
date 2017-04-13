@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.248131,38.93799,-77.248131,38.93799",
     "geom:latitude":38.93799,
     "geom:longitude":-77.248131,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729767,
+        101729797,
         102084863,
+        85852975,
+        101729767,
         85839227
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461908188,
-    "wof:geomhash":"f6da6a002550e64eb8c04cfbf040a393",
+    "wof:geomhash":"39e6a6bb3baa5bfd19f3beefae8cc945",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729797,
+            "neighbourhood_id":85852975,
+            "region_id":85688747,
+            "venue_id":739486349
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":739486349,
-    "wof:lastmodified":1472651670,
+    "wof:lastmodified":1492038160,
     "wof:name":"WFW Resources",
-    "wof:parent_id":85839227,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

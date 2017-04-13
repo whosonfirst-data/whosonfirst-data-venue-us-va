@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.167048,39.182275,-78.167048,39.182275",
     "geom:latitude":39.182275,
     "geom:longitude":-78.167048,
@@ -32,17 +33,32 @@
         "promoter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B5qDISMgvl7gjbsJra4xY_39.182275_-78.167048@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896752,
-    "wof:geomhash":"1cb25df60da016e7cb9a39bb072197df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddce1aebb4daa70bc2588fb2ee509802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723183263
+        }
+    ],
     "wof:id":723183263,
-    "wof:lastmodified":1472651510,
+    "wof:lastmodified":1492059485,
     "wof:name":"RTB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

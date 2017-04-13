@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346248,37.244987,-77.346248,37.244987",
     "geom:latitude":37.244987,
     "geom:longitude":-77.346248,
@@ -28,17 +29,32 @@
     "sg:postcode":"23801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729471,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qDFt95Uh4AdqkAz3SFuBb_37.244987_-77.346248@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887198,
-    "wof:geomhash":"02879b7a6c093ef9418cc1663776c40e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afd47f24a024bbf0831102afda1827c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "locality_id":101729471,
+            "region_id":85688747,
+            "venue_id":722712407
+        }
+    ],
     "wof:id":722712407,
-    "wof:lastmodified":1472651574,
+    "wof:lastmodified":1492068681,
     "wof:name":"Central VA Area Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

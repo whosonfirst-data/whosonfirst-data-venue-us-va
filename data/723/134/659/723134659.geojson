@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.997395,36.70072,-81.997395,36.70072",
     "geom:latitude":36.70072,
     "geom:longitude":-81.997395,
@@ -33,17 +34,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yq1tBGb9MZwBBHUO8MSGk_36.700720_-81.997395@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895786,
-    "wof:geomhash":"55f2ef58e0c0dd51562fedb1f58174ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"455b687e72108384ab81241c2413c71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723134659
+        }
+    ],
     "wof:id":723134659,
-    "wof:lastmodified":1472651403,
+    "wof:lastmodified":1492050119,
     "wof:name":"TLC Pet Sitting",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

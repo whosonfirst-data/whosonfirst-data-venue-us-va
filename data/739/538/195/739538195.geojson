@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.270888,37.23369,-81.270888,37.23369",
     "geom:latitude":37.23369,
     "geom:longitude":-81.270888,
@@ -32,7 +33,13 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728573,
+        102081049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dvcOo1aAkRUfE8Jg2N9ov_37.233690_-81.270888@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909123,
     "wof:geomhash":"ae74e1ec8c18b1d354ad18c457959acb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081049,
+            "locality_id":101728573,
+            "region_id":85688747,
+            "venue_id":739538195
+        }
+    ],
     "wof:id":739538195,
-    "wof:lastmodified":1472651748,
+    "wof:lastmodified":1492029881,
     "wof:name":"Systems Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

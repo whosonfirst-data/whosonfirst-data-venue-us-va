@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.011053,36.876388,-80.011053,36.876388",
     "geom:latitude":36.876388,
     "geom:longitude":-80.011053,
@@ -31,7 +32,12 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lRmstRBKa3VVweiamrWhj_36.876388_-80.011053@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905999,
     "wof:geomhash":"a271656ec54cbc5139b434f8763b306d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739370217
+        }
+    ],
     "wof:id":739370217,
-    "wof:lastmodified":1472651341,
+    "wof:lastmodified":1492031016,
     "wof:name":"E W F & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

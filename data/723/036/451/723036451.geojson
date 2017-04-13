@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.557912,38.241438,-77.557912,38.241438",
     "geom:latitude":38.241438,
     "geom:longitude":-77.557912,
@@ -31,17 +32,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vZGqsHIW7KDHLaGUCiBoM_38.241438_-77.557912@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893732,
-    "wof:geomhash":"020845393fd4e0f9ba84b38654d66f3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7da493cffa1ac153debb37082e529686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723036451
+        }
+    ],
     "wof:id":723036451,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492059946,
     "wof:name":"Quinn Consulting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.992144,36.895091,-75.992144,36.895091",
     "geom:latitude":36.895091,
     "geom:longitude":-75.992144,
@@ -38,6 +39,7 @@
         85633793,
         101728745,
         102081929,
+        85838147,
         85804805
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896841,
-    "wof:geomhash":"c1b0423d6904ddc08a93e78ae62fcba1",
+    "wof:geomhash":"3b039d58966de007d9b9def8277cae5f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85838147,
+            "region_id":85688747,
+            "venue_id":723187915
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723187915,
-    "wof:lastmodified":1472651535,
+    "wof:lastmodified":1492056824,
     "wof:name":"Jack Henry & Assoc Inc",
-    "wof:parent_id":85804805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

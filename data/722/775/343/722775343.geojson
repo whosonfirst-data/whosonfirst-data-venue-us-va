@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.01507,36.722068,-82.01507,36.722068",
     "geom:latitude":36.722068,
     "geom:longitude":-82.01507,
@@ -32,17 +33,26 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tFLQZGAOkuFI6Q79Yxdmv_36.722068_-82.015070@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888415,
-    "wof:geomhash":"61f18152b1dbec5217a96da6787b0bb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0483483ce90af632cb4f1b7c482c0c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722775343
+        }
+    ],
     "wof:id":722775343,
-    "wof:lastmodified":1472651774,
+    "wof:lastmodified":1492067147,
     "wof:name":"Greenville Oil Petroleum",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

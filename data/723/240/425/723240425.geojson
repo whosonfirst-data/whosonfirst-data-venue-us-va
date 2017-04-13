@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.630097,38.835423,-77.630097,38.835423",
     "geom:latitude":38.835423,
     "geom:longitude":-77.630097,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52opNJa3nffAcpwbDSFeyf_38.835423_-77.630097@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897919,
-    "wof:geomhash":"db167923814209b6139beed9ca81e0d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49f1d227608fc07de5c93c407d7a0b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723240425
+        }
+    ],
     "wof:id":723240425,
-    "wof:lastmodified":1472651676,
+    "wof:lastmodified":1492059849,
     "wof:name":"Richmond American Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.477183,38.751158,-77.477183,38.751158",
     "geom:latitude":38.751158,
     "geom:longitude":-77.477183,
@@ -31,7 +32,14 @@
         "screen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053,
+        85821347
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SCDeJLn9J7IEfkHjDxT9J_38.751158_-77.477183@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461903637,
     "wof:geomhash":"6d81a52bf9a968a4417013bdf1deb9f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "neighbourhood_id":85821347,
+            "region_id":85688747,
+            "venue_id":739256903
+        }
+    ],
     "wof:id":739256903,
-    "wof:lastmodified":1472651115,
+    "wof:lastmodified":1492031092,
     "wof:name":"Leading Edge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

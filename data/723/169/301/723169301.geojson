@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.018663,36.724092,-82.018663,36.724092",
     "geom:latitude":36.724092,
     "geom:longitude":-82.018663,
@@ -31,17 +32,26 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v3BqRO2k2Xc3kUOjZ5JGe_36.724092_-82.018663@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896465,
-    "wof:geomhash":"4c7ea0dbcf1b1cbf654dfc74e156c6ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c5971a09f6023641b34abf3dd69a972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723169301
+        }
+    ],
     "wof:id":723169301,
-    "wof:lastmodified":1472651445,
+    "wof:lastmodified":1492049331,
     "wof:name":"Brooke Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

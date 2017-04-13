@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436509,38.892073,-77.436509,38.892073",
     "geom:latitude":38.892073,
     "geom:longitude":-77.436509,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.allenwayne.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jVBRow2muU5aZJCDUZmjD_38.892073_-77.436509@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905001,
     "wof:geomhash":"43ecf230ddec5c2109cacd9d3340daae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739321157
+        }
+    ],
     "wof:id":739321157,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492030723,
     "wof:name":"Allen Wayne LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

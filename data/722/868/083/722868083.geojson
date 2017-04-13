@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.888672,37.356182,-79.888672,37.356182",
     "geom:latitude":37.356182,
     "geom:longitude":-79.888672,
@@ -32,17 +33,30 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HIiatJ99jg7Eqz1sxHbqi_37.356182_-79.888672@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890165,
-    "wof:geomhash":"388e6fe9e907cd6a92bb4254aabb9f72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2990a91d13be3e29cf82c86b7762797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722868083
+        }
+    ],
     "wof:id":722868083,
-    "wof:lastmodified":1472651983,
+    "wof:lastmodified":1492074802,
     "wof:name":"Pugh Driver Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

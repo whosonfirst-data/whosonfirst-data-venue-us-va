@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.462701,36.807909,-78.462701,36.807909",
     "geom:latitude":36.807909,
     "geom:longitude":-78.462701,
@@ -31,17 +32,32 @@
         "drug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729013,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qi2OwYkfOClgpaEa0bjON_36.807909_-78.462701@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888191,
-    "wof:geomhash":"209ae5f16e7e378841712aa050f90b72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a8bc7c9868c961236bb20eadd69c40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729013,
+            "region_id":85688747,
+            "venue_id":722763795
+        }
+    ],
     "wof:id":722763795,
-    "wof:lastmodified":1472651842,
+    "wof:lastmodified":1492070377,
     "wof:name":"Richards Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

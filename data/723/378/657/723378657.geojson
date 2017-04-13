@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.881231,38.453471,-78.881231,38.453471",
     "geom:latitude":38.453471,
     "geom:longitude":-78.881231,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.westside-baptist.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jHjaDD5N44iUjYo6fm1Nj_38.453471_-78.881231@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900563,
-    "wof:geomhash":"0306455ed18c301a6dc22ee35d80ab04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2aba2299e5bd0a0dc284a1d50a54b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723378657
+        }
+    ],
     "wof:id":723378657,
-    "wof:lastmodified":1472652103,
+    "wof:lastmodified":1492053928,
     "wof:name":"West Side Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

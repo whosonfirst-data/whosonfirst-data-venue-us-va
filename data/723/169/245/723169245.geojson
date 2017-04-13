@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442355,38.31523,-77.442355,38.31523",
     "geom:latitude":38.31523,
     "geom:longitude":-77.442355,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Eb0WDlcYbFxwqb2SOQtVE_38.315230_-77.442355@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896464,
-    "wof:geomhash":"20f7dcf88541ebcabcddf2fde5fabcc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc8ab661b7792eea2d83607eccbd4449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":723169245
+        }
+    ],
     "wof:id":723169245,
-    "wof:lastmodified":1472651444,
+    "wof:lastmodified":1492049315,
     "wof:name":"D & J Painting",
     "wof:parent_id":420547245,
     "wof:placetype":"venue",

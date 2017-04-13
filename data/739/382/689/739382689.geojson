@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.881973,37.893007,-78.881973,37.893007",
     "geom:latitude":37.893007,
     "geom:longitude":-78.881973,
@@ -32,7 +33,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729165,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WA7Ds9SHbsBcOmkqTkwDe_37.893007_-78.881973@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906245,
     "wof:geomhash":"c769c515dacbdb941ea282ff9b37be88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "locality_id":101729165,
+            "region_id":85688747,
+            "venue_id":739382689
+        }
+    ],
     "wof:id":739382689,
-    "wof:lastmodified":1472651371,
+    "wof:lastmodified":1492030652,
     "wof:name":"Simmons Ross & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.630749,37.235306,-76.630749,37.235306",
     "geom:latitude":37.235306,
     "geom:longitude":-76.630749,
@@ -33,19 +34,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894069,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24mUjHI5il3Zf7PESDw8Hb_37.235306_-76.630749@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902235,
-    "wof:geomhash":"8fc21d62a2be26f8a0322da5b85396e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8960c02384286d3f0cfe74231f524f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086731,
+            "neighbourhood_id":85894069,
+            "region_id":85688747,
+            "venue_id":723465381
+        }
+    ],
     "wof:id":723465381,
-    "wof:lastmodified":1472652287,
+    "wof:lastmodified":1492050397,
     "wof:name":"Katherines Creations",
-    "wof:parent_id":-1,
+    "wof:parent_id":85894069,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

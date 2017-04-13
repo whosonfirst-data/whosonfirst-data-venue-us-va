@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.179344,36.850013,-76.179344,36.850013",
     "geom:latitude":36.850013,
     "geom:longitude":-76.179344,
@@ -31,7 +32,13 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KMKOtT3qOYAKhLCEoBKv8_36.850013_-76.179344@1303262551"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461913198,
     "wof:geomhash":"83704c2e596e767e849df5f5f93cef6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739730341
+        }
+    ],
     "wof:id":739730341,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492033160,
     "wof:name":"Crump Kim M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

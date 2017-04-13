@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.381079,37.015553,-76.381079,37.015553",
     "geom:latitude":37.015553,
     "geom:longitude":-76.381079,
@@ -38,7 +39,8 @@
         85633793,
         101728661,
         102084913,
-        85859265
+        85859265,
+        85855597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885972,
-    "wof:geomhash":"f2dbf694d0f240e0bdb5d0201a7246be",
+    "wof:geomhash":"df5d5fd03c9f3c69e0e505c445f2a424",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85859265,
             "region_id":85688747,
             "venue_id":722647643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85855597,
+            "region_id":85688747,
+            "venue_id":722647643
         }
     ],
     "wof:id":722647643,
-    "wof:lastmodified":1472651463,
+    "wof:lastmodified":1492068132,
     "wof:name":"Sawyer Construction Co",
-    "wof:parent_id":85859265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

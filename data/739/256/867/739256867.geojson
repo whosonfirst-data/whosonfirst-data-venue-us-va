@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449553,38.313531,-77.449553,38.313531",
     "geom:latitude":38.313531,
     "geom:longitude":-77.449553,
@@ -33,7 +34,10 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yYFw5qR3SwrZrEiOLQT6R_38.313531_-77.449553@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461903636,
     "wof:geomhash":"c040a74c1aaca15aced4104bad4edf3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739256867
+        }
+    ],
     "wof:id":739256867,
-    "wof:lastmodified":1472651118,
+    "wof:lastmodified":1492031092,
     "wof:name":"Auto Wholesale Center",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523398,36.728496,-77.523398,36.728496",
     "geom:latitude":36.728496,
     "geom:longitude":-77.523398,
@@ -31,7 +32,12 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CLz1udaiMnLmYXLTcJAbp_36.728496_-77.523398@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906446,
     "wof:geomhash":"9400fa595c519cddbee59a2c6f34bf5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":739392835
+        }
+    ],
     "wof:id":739392835,
-    "wof:lastmodified":1472651429,
+    "wof:lastmodified":1492031608,
     "wof:name":"Three Creek Pump Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497446,38.25675,-77.497446,38.25675",
     "geom:latitude":38.25675,
     "geom:longitude":-77.497446,
@@ -37,7 +38,12 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tb2o4vF18PoDtjjwFRAvC_38.256866_-77.497490@1294252573"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461910348,
     "wof:geomhash":"8a4fe355d1417fa99c2b253bfced0afc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739597781
+        }
+    ],
     "wof:id":739597781,
-    "wof:lastmodified":1472651959,
+    "wof:lastmodified":1492030047,
     "wof:name":"Hard Times Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.353437,37.602856,-77.353437,37.602856",
     "geom:latitude":37.602856,
     "geom:longitude":-77.353437,
@@ -31,7 +32,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w4XBwIuYKOee45Q5asGt1_37.602856_-77.353437@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907444,
     "wof:geomhash":"355c8a19030c348dd21de2514ebfb039",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739444363
+        }
+    ],
     "wof:id":739444363,
-    "wof:lastmodified":1472651574,
+    "wof:lastmodified":1492032006,
     "wof:name":"AMF Hanover Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

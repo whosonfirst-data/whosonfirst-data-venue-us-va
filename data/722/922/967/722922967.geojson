@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.113745,37.103213,-81.113745,37.103213",
     "geom:latitude":37.103213,
     "geom:longitude":-81.113745,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.bland.k12.va.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729139,
+        102087285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52YU8QYB8DInqI4Gb9fhyb_37.103213_-81.113745@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891267,
-    "wof:geomhash":"709f22a255bc46e0310f0ed3650bc3be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61c6231b9951752fb2502c326317f64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087285,
+            "locality_id":101729139,
+            "region_id":85688747,
+            "venue_id":722922967
+        }
+    ],
     "wof:id":722922967,
-    "wof:lastmodified":1472652142,
+    "wof:lastmodified":1492072055,
     "wof:name":"Bland Schools K-12",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

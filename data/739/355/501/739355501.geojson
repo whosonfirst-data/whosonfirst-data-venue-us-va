@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.382077,37.610918,-77.382077,37.610918",
     "geom:latitude":37.610918,
     "geom:longitude":-77.382077,
@@ -31,7 +32,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WKhwh0e7oesbcpougIkUv_37.610918_-77.382077@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905727,
     "wof:geomhash":"b2b2cc2224e06571107df0a72996f46b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739355501
+        }
+    ],
     "wof:id":739355501,
-    "wof:lastmodified":1472651342,
+    "wof:lastmodified":1492032375,
     "wof:name":"Bellcreek Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

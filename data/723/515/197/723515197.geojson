@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.832738,39.110513,-77.832738,39.110513",
     "geom:latitude":39.110513,
     "geom:longitude":-77.832738,
@@ -32,17 +33,30 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0to7raqOhZUfg6L6dE5jIS_39.110513_-77.832738@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903331,
-    "wof:geomhash":"1334fab6db4c2e7a1db27b0faa4d6478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05cf1e51cbe5f291fed0b887d4d95c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723515197
+        }
+    ],
     "wof:id":723515197,
-    "wof:lastmodified":1472652372,
+    "wof:lastmodified":1492056085,
     "wof:name":"Bluemont Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

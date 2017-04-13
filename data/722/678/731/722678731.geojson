@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.379752,37.299097,-78.379752,37.299097",
     "geom:latitude":37.299097,
     "geom:longitude":-78.379752,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MWXcaAO5LyTJErnjZ5r8B_37.299097_-78.379752@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886559,
-    "wof:geomhash":"f3403643ca0b1dfce11eab7f1f6d3d24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a165e6b8df884ea9edc092e0ee36418f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":722678731
+        }
+    ],
     "wof:id":722678731,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492068434,
     "wof:name":"Timberlake Village Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

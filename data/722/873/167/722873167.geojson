@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71216,39.308575,-77.71216,39.308575",
     "geom:latitude":39.308575,
     "geom:longitude":-77.71216,
@@ -32,17 +33,30 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iyV4qsQwTgnDv9ZaWK4Gv_39.308575_-77.712160@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890259,
-    "wof:geomhash":"ff97e9776dcae584d950667f5ab257e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a0cc47939b7da098a874f22167b8b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722873167
+        }
+    ],
     "wof:id":722873167,
-    "wof:lastmodified":1472651993,
+    "wof:lastmodified":1492067414,
     "wof:name":"T Dean Reed Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

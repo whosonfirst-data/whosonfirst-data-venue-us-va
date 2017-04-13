@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.630676,38.870414,-78.630676,38.870414",
     "geom:latitude":38.870414,
     "geom:longitude":-78.630676,
@@ -32,7 +33,12 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19FI20Qhx6pEPGanQsS4xB_38.870414_-78.630676@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907572,
     "wof:geomhash":"41bc26498f179fee852eb9cb7871e6bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739451677
+        }
+    ],
     "wof:id":739451677,
-    "wof:lastmodified":1472651593,
+    "wof:lastmodified":1492031169,
     "wof:name":"Diamond L Western Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

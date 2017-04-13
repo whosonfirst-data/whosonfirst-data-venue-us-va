@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236539,38.923912,-77.236539,38.923912",
     "geom:latitude":38.923912,
     "geom:longitude":-77.236539,
@@ -33,8 +34,10 @@
         85688747,
         102191575,
         85633793,
-        101729793,
+        101729797,
         102084863,
+        85852975,
+        101729793,
         85894017
     ],
     "wof:breaches":[],
@@ -43,8 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897808,
-    "wof:geomhash":"90406e0f2cb9bd6e0f134f37d27398dd",
+    "wof:geomhash":"b201d5bf739b73f6dc0f015822385ba5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729797,
+            "neighbourhood_id":85852975,
+            "region_id":85688747,
+            "venue_id":723234995
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +68,9 @@
         }
     ],
     "wof:id":723234995,
-    "wof:lastmodified":1472651688,
+    "wof:lastmodified":1492048263,
     "wof:name":"Automobile Dealers Assn",
-    "wof:parent_id":85894017,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

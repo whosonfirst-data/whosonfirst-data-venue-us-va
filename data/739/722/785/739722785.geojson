@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448836,37.472642,-77.448836,37.472642",
     "geom:latitude":37.472642,
     "geom:longitude":-77.448836,
@@ -39,17 +40,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MwGbyr2guVBIDRq0F7IKG_37.472642_-77.448836@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913048,
-    "wof:geomhash":"66a74be52ac2503e38033216f6ea219f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"221eb9f909c5123c43311a0729c761a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739722785
+        }
+    ],
     "wof:id":739722785,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492046881,
     "wof:name":"Fence City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

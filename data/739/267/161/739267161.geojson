@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.681443,36.899338,-76.681443,36.899338",
     "geom:latitude":36.899338,
     "geom:longitude":-76.681443,
@@ -32,17 +33,30 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ELkcbWIqv094pPYK3oHjN_36.899338_-76.681443@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903857,
-    "wof:geomhash":"bde83584ede445159a60dd42e6c44064",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60cd5991b468f3d9776ce0296b79a5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739267161
+        }
+    ],
     "wof:id":739267161,
-    "wof:lastmodified":1472651131,
+    "wof:lastmodified":1492039710,
     "wof:name":"American Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

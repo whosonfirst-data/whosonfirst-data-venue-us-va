@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.754309,37.271872,-76.754309,37.271872",
     "geom:latitude":37.271872,
     "geom:longitude":-76.754309,
@@ -33,7 +34,10 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546781
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VJ7RqqOMYbilS5GPRyKGQ_37.271872_-76.754309@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461910131,
     "wof:geomhash":"4328955328324170a42969f3e3f9a46e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546781,
+            "venue_id":739586507
+        }
+    ],
     "wof:id":739586507,
-    "wof:lastmodified":1472651941,
+    "wof:lastmodified":1492031891,
     "wof:name":"New China",
     "wof:parent_id":420546781,
     "wof:placetype":"venue",

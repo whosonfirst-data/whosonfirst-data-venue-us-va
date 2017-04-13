@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.555701,36.937557,-76.555701,36.937557",
     "geom:latitude":36.937557,
     "geom:longitude":-76.555701,
@@ -28,7 +29,12 @@
     "sg:postcode":"23314",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gqPtPuRbpotRXrYBQov18_36.937557_-76.555701@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908522,
     "wof:geomhash":"2c602273b0bbeaf4211f679c42167630",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739505189
+        }
+    ],
     "wof:id":739505189,
-    "wof:lastmodified":1472651744,
+    "wof:lastmodified":1492032241,
     "wof:name":"Newport News YMCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

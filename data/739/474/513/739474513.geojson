@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.423734,37.318526,-78.423734,37.318526",
     "geom:latitude":37.318526,
     "geom:longitude":-78.423734,
@@ -31,17 +32,32 @@
         "probation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q1SyAYvHoKF6umSsHjKRD_37.318526_-78.423734@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907970,
-    "wof:geomhash":"e7366888d836e40010cf0129ad63bae2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e93e252fc132a6c9e9448d208ff90ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739474513
+        }
+    ],
     "wof:id":739474513,
-    "wof:lastmodified":1472651617,
+    "wof:lastmodified":1492044613,
     "wof:name":"Probation & Parole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

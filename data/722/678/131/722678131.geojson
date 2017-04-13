@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506818,37.629536,-77.506818,37.629536",
     "geom:latitude":37.629536,
     "geom:longitude":-77.506818,
@@ -31,17 +32,32 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BOr6uczrpiXbfRuSiY8u4_37.629536_-77.506818@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886548,
-    "wof:geomhash":"8010fcf1f76e94e76b80debfd1b82154",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e182f07a19f194fa9da9e647bccf162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":722678131
+        }
+    ],
     "wof:id":722678131,
-    "wof:lastmodified":1472651502,
+    "wof:lastmodified":1492068443,
     "wof:name":"US Drug Enforcement Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

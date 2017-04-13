@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731039,37.31285,-76.731039,37.31285",
     "geom:latitude":37.31285,
     "geom:longitude":-76.731039,
@@ -33,19 +34,28 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ap4twEXO8AKjO6CB5GKjt_37.312850_-76.731039@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896190,
-    "wof:geomhash":"9b79dd4c87128f2448d72023f749f4e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e3dca1e1f8d35b04ee0ad69128df576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":723155023
+        }
+    ],
     "wof:id":723155023,
-    "wof:lastmodified":1472651398,
+    "wof:lastmodified":1492059064,
     "wof:name":"Safe Place Mini Storage The",
-    "wof:parent_id":420546903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

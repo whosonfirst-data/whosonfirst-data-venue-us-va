@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.577997,36.87911,-80.577997,36.87911",
     "geom:latitude":36.87911,
     "geom:longitude":-80.577997,
@@ -34,7 +35,12 @@
         "prepared"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wSEPxhb4G0QOopwrwKFrU_36.879110_-80.577997@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461905352,
     "wof:geomhash":"3e8d0c1c11b2e501ed6a1df9e5a9e9c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739338423
+        }
+    ],
     "wof:id":739338423,
-    "wof:lastmodified":1472651281,
+    "wof:lastmodified":1492033433,
     "wof:name":"Vaughans Mill Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

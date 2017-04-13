@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650187,38.785878,-77.650187,38.785878",
     "geom:latitude":38.785878,
     "geom:longitude":-77.650187,
@@ -31,7 +32,13 @@
         "hair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6owJuPybg0faVt3EN82xte_38.785878_-77.650187@1303262496"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910600,
     "wof:geomhash":"d8c616debf12a61e3d5628fda69e4bf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739609849
+        }
+    ],
     "wof:id":739609849,
-    "wof:lastmodified":1472651974,
+    "wof:lastmodified":1492032678,
     "wof:name":"The Famous America Barber Shop II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

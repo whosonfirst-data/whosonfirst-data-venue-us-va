@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526567,37.303972,-76.526567,37.303972",
     "geom:latitude":37.303972,
     "geom:longitude":-76.526567,
@@ -31,7 +32,13 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bdGCscM2t8byI811DJwb3_37.303972_-76.526567@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908661,
     "wof:geomhash":"780af1bed6241da3a7dce81f780396aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739512867
+        }
+    ],
     "wof:id":739512867,
-    "wof:lastmodified":1472651847,
+    "wof:lastmodified":1492031346,
     "wof:name":"Gayfield Family Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

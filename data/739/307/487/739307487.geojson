@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.296182,38.828056,-77.296182,38.828056",
     "geom:latitude":38.828056,
     "geom:longitude":-77.296182,
@@ -28,7 +29,13 @@
     "sg:postcode":"22032",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ul3YXkgsTkBYmyZEnpW41_38.828056_-77.296182@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904726,
     "wof:geomhash":"087850b4997c81d8c6323587ec4a5765",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":739307487
+        }
+    ],
     "wof:id":739307487,
-    "wof:lastmodified":1472651216,
+    "wof:lastmodified":1492029995,
     "wof:name":"Patent Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

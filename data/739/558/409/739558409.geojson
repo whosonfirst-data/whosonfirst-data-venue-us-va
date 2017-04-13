@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437248,39.053509,-77.437248,39.053509",
     "geom:latitude":39.053509,
     "geom:longitude":-77.437248,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10270708%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729437,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15KUxyHfFl8lydTv3L9FJR_39.053570_-77.437260@1293134755"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909524,
     "wof:geomhash":"dc92ab3860c4ea30ad93dcdb86872f40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729437,
+            "region_id":85688747,
+            "venue_id":739558409
+        }
+    ],
     "wof:id":739558409,
-    "wof:lastmodified":1472651874,
+    "wof:lastmodified":1492031304,
     "wof:name":"University Heights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

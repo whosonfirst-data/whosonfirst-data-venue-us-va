@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.815094,37.379916,-79.815094,37.379916",
     "geom:latitude":37.379916,
     "geom:longitude":-79.815094,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729607,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IlRPjKidflSUX2MmP60eV_37.379916_-79.815094@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893665,
-    "wof:geomhash":"e2b938a088573f1393203efe4cbe3b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a7d8cf5352ae6b4b6c769ebacacdeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729607,
+            "region_id":85688747,
+            "venue_id":723032989
+        }
+    ],
     "wof:id":723032989,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492050030,
     "wof:name":"Computer Products Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

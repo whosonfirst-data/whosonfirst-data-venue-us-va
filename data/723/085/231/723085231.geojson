@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.417835,38.868692,-77.417835,38.868692",
     "geom:latitude":38.868692,
     "geom:longitude":-77.417835,
@@ -32,17 +33,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hveFd313502NQbKaYMydT_38.868692_-77.417835@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894816,
-    "wof:geomhash":"b92b772a0cab9a2cb2dc3660f716615d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84b89ff86cb1e71fefb64adc1be9e432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723085231
+        }
+    ],
     "wof:id":723085231,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492049909,
     "wof:name":"Strategic Insights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

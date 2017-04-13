@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437085,38.29646,-77.437085,38.29646",
     "geom:latitude":38.29646,
     "geom:longitude":-77.437085,
@@ -33,17 +34,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WKSDmYuf4Foq164jpdDnw_38.296460_-77.437085@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888188,
-    "wof:geomhash":"49bbb5e4974ca4e3dcf9d05535356880",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9c6cac4a08143da91db4500969106e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":722763665
+        }
+    ],
     "wof:id":722763665,
-    "wof:lastmodified":1472651822,
+    "wof:lastmodified":1492070385,
     "wof:name":"Keystones-Plus",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.850771,37.264725,-79.850771,37.264725",
     "geom:latitude":37.264725,
     "geom:longitude":-79.850771,
@@ -32,17 +33,30 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WOOyDbmP278D28EBsWhbP_37.264725_-79.850771@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885824,
-    "wof:geomhash":"f8d17126339e2f8876a05beb283e953f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d367eed9f5329e88b11b1457d89c4157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722639173
+        }
+    ],
     "wof:id":722639173,
-    "wof:lastmodified":1472651407,
+    "wof:lastmodified":1492072852,
     "wof:name":"Pharmacare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500688,38.359442,-77.500688,38.359442",
     "geom:latitude":38.359442,
     "geom:longitude":-77.500688,
@@ -31,17 +32,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dkUOVemjIWh1e3A5bDgDN_38.359442_-77.500688@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887719,
-    "wof:geomhash":"eec62621ba025158ac6f6bc5b25fd189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1818683c84b49a785d7a918bf0953271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547209,
+            "venue_id":722738843
+        }
+    ],
     "wof:id":722738843,
-    "wof:lastmodified":1472651696,
+    "wof:lastmodified":1492072287,
     "wof:name":"Painters Painting",
     "wof:parent_id":420547209,
     "wof:placetype":"venue",

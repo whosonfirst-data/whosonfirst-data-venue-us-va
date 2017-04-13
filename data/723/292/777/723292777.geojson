@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.424918,37.092167,-80.424918,37.092167",
     "geom:latitude":37.092167,
     "geom:longitude":-80.424918,
@@ -32,17 +33,26 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44Q2WetpS3Il5Y8hSvGz8b_37.092167_-80.424918@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898926,
-    "wof:geomhash":"c56ff12a92d5a0a8bf29651bb13816ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ab303c34f12b99ebaa6037737e20d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":723292777
+        }
+    ],
     "wof:id":723292777,
-    "wof:lastmodified":1472651827,
+    "wof:lastmodified":1492051875,
     "wof:name":"Lee Chrystie Golf",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

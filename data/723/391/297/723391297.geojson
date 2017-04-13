@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209406,38.703758,-77.209406,38.703758",
     "geom:latitude":38.703758,
     "geom:longitude":-77.209406,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dN8TfJpL5HPbAMqNOrEfb_38.703758_-77.209406@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900800,
-    "wof:geomhash":"39b5aae4e94b14964419c59013999404",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea08b69cb25e9a48c8c59a6de770f3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":723391297
+        }
+    ],
     "wof:id":723391297,
-    "wof:lastmodified":1472652115,
+    "wof:lastmodified":1492058305,
     "wof:name":"Mt Vernon Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

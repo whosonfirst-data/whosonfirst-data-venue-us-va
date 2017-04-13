@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.351588,37.686263,-77.351588,37.686263",
     "geom:latitude":37.686263,
     "geom:longitude":-77.351588,
@@ -31,7 +32,12 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ioMsxsel0vt2ycKHjFyh9_37.686263_-77.351588@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907726,
     "wof:geomhash":"81db38d44174a6eddeafac174956ce51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739460651
+        }
+    ],
     "wof:id":739460651,
-    "wof:lastmodified":1472651593,
+    "wof:lastmodified":1492031233,
     "wof:name":"Good Days Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518223,38.794474,-77.518223,38.794474",
     "geom:latitude":38.794474,
     "geom:longitude":-77.518223,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PNQp8xdd1GeaJ71teiiEQ_38.794474_-77.518223@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893456,
-    "wof:geomhash":"dc09eb7ed6357fbcdc744522e99e8bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60536a353c1947a8f5b185dc7386192d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":723023445
+        }
+    ],
     "wof:id":723023445,
-    "wof:lastmodified":1472651149,
+    "wof:lastmodified":1492053763,
     "wof:name":"Lopez & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

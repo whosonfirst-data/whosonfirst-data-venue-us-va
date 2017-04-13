@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.885257,37.353147,-77.885257,37.353147",
     "geom:latitude":37.353147,
     "geom:longitude":-77.885257,
@@ -33,17 +34,30 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DKucKxUxwfUGxkSDVbyIW_37.353147_-77.885257@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902530,
-    "wof:geomhash":"19d1139435ef977662641ccf3ecc50e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f6c7cf24fe872ead855a4b5bfa1670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087257,
+            "region_id":85688747,
+            "venue_id":723479725
+        }
+    ],
     "wof:id":723479725,
-    "wof:lastmodified":1472652310,
+    "wof:lastmodified":1492048763,
     "wof:name":"Anderson Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

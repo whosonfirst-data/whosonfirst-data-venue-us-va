@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.62373,37.84109,-76.62373,37.84109",
     "geom:latitude":37.84109,
     "geom:longitude":-76.62373,
@@ -26,7 +27,12 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_199lkfUfLLlofBuvWLxo69_37.841090_-76.623730@1294252573"
@@ -34,9 +40,17 @@
     "wof:country":"US",
     "wof:created":1461909527,
     "wof:geomhash":"c7cced4200453225050809e9cc0be74f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739558565
+        }
+    ],
     "wof:id":739558565,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492031290,
     "wof:name":"Stephen Greenstreet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.017694,36.601758,-82.017694,36.601758",
     "geom:latitude":36.601758,
     "geom:longitude":-82.017694,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WUOr6GRHPSqgl25XWMwok_36.601758_-82.017694@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903100,
-    "wof:geomhash":"cbb3a4a3e4eca54ff98079bd4767334c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"279822c759455dc8af63c788af399500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723506439
+        }
+    ],
     "wof:id":723506439,
-    "wof:lastmodified":1472652348,
+    "wof:lastmodified":1492051445,
     "wof:name":"Lakeshore Campground Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

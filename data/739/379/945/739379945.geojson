@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.757791,37.306451,-76.757791,37.306451",
     "geom:latitude":37.306451,
     "geom:longitude":-76.757791,
@@ -31,17 +32,26 @@
         "administrator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s0t6TSurbJhMP6FpRXzZO_37.306451_-76.757791@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906195,
-    "wof:geomhash":"1b2f4af377753c52470129d53a6cec3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb982a4527357d284101f972b86521b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546935,
+            "venue_id":739379945
+        }
+    ],
     "wof:id":739379945,
-    "wof:lastmodified":1472651366,
+    "wof:lastmodified":1492044223,
     "wof:name":"My Other Office",
     "wof:parent_id":420546935,
     "wof:placetype":"venue",

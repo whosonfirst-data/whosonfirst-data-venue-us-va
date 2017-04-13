@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.779741,37.244871,-76.779741,37.244871",
     "geom:latitude":37.244871,
     "geom:longitude":-76.779741,
@@ -35,7 +36,10 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aPagr5ME4h01b8JJ8o0m3_37.244871_-76.779741@1294252573"
@@ -43,9 +47,15 @@
     "wof:country":"US",
     "wof:created":1461906445,
     "wof:geomhash":"db585cc5e2cbd76f0178c5ade56c3e73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":739392793
+        }
+    ],
     "wof:id":739392793,
-    "wof:lastmodified":1472651428,
+    "wof:lastmodified":1492031617,
     "wof:name":"Travelers Insurance",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

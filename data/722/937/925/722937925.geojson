@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.175652,38.884165,-77.175652,38.884165",
     "geom:latitude":38.884165,
     "geom:longitude":-77.175652,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728685,
+        102081047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X3BgWlrbETCPXtdOMZ0rT_38.884165_-77.175652@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891588,
-    "wof:geomhash":"d28291a9b0637e34dd3eb7bd3a3676e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fa394a3067c753f85f5e25e2369163a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081047,
+            "locality_id":101728685,
+            "region_id":85688747,
+            "venue_id":722937925
+        }
+    ],
     "wof:id":722937925,
-    "wof:lastmodified":1472652201,
+    "wof:lastmodified":1492067106,
     "wof:name":"Winter Hills Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

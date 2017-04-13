@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.9415,37.262989,-79.9415,37.262989",
     "geom:latitude":37.262989,
     "geom:longitude":-79.9415,
@@ -35,7 +36,13 @@
         "disease"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BiawDy2P3czWWxBvx3xft_37.262989_-79.941500@1303262552"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461913317,
     "wof:geomhash":"f04d6c48eadb3a21e4eaa70537369f0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735811
+        }
+    ],
     "wof:id":739735811,
-    "wof:lastmodified":1472652270,
+    "wof:lastmodified":1492032041,
     "wof:name":"Pulmonary Medicine Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

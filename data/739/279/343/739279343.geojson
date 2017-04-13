@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.5896,38.276064,-77.5896,38.276064",
     "geom:latitude":38.276064,
     "geom:longitude":-77.5896,
@@ -32,17 +33,30 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ri6Winb5xG4EQ67KWhI3A_38.276064_-77.589600@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904128,
-    "wof:geomhash":"fc3f3600696edafc2eb851e47f44fc20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d045c420da5a45821dd9983fff077363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739279343
+        }
+    ],
     "wof:id":739279343,
-    "wof:lastmodified":1472651148,
+    "wof:lastmodified":1492040787,
     "wof:name":"David Hoadley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

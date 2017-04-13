@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450461,38.312935,-77.450461,38.312935",
     "geom:latitude":38.312935,
     "geom:longitude":-77.450461,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hVQrhWJocZ6cIDjDswO7V_38.312935_-77.450461@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898609,
-    "wof:geomhash":"c850b7ba02fed655b92f9940d13757bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0501977a4b4fca87e7838da2f9ea23ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":723276053
+        }
+    ],
     "wof:id":723276053,
-    "wof:lastmodified":1472651724,
+    "wof:lastmodified":1492054779,
     "wof:name":"W C English Inc",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

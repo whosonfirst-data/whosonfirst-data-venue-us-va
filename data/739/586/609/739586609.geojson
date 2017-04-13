@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.756592,37.270533,-76.756592,37.270533",
     "geom:latitude":37.270533,
     "geom:longitude":-76.756592,
@@ -32,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xr2lyy8vderIYSG2pz3kM_37.270533_-76.756592@1299784598"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461910133,
     "wof:geomhash":"86f120ea3e61a609916ead0ac9090a6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739586609
+        }
+    ],
     "wof:id":739586609,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492031875,
     "wof:name":"Spectator's Food And Fun",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

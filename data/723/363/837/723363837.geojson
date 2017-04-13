@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.423301,36.998892,-76.423301,36.998892",
     "geom:latitude":36.998892,
     "geom:longitude":-76.423301,
@@ -40,6 +41,9 @@
         85688747,
         102191575,
         85633793,
+        101728661,
+        102084913,
+        420547983,
         101729041,
         102085961,
         85879213
@@ -50,8 +54,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900262,
-    "wof:geomhash":"33484dceeb897dad3f0318adabdc26fd",
+    "wof:geomhash":"d243c27ed58e44ea9719bfb4e87299ec",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":420547983,
+            "region_id":85688747,
+            "venue_id":723363837
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,9 +76,9 @@
         }
     ],
     "wof:id":723363837,
-    "wof:lastmodified":1472652062,
+    "wof:lastmodified":1492052390,
     "wof:name":"Superior Packaging Corp",
-    "wof:parent_id":85879213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

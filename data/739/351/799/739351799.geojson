@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.766302,37.270207,-76.766302,37.270207",
     "geom:latitude":37.270207,
     "geom:longitude":-76.766302,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546873
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tZtvSIa6rnEnK1E3SpLVx_37.270207_-76.766302@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905647,
-    "wof:geomhash":"c0b9fd856f7cc4dad93f985e2ab7bf6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efda9a2aa156751d69c373465d4f739f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546873,
+            "venue_id":739351799
+        }
+    ],
     "wof:id":739351799,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492042271,
     "wof:name":"First Graphics Inc",
     "wof:parent_id":420546873,
     "wof:placetype":"venue",

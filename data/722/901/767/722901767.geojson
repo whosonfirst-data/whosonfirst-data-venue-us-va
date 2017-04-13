@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371353,38.508215,-77.371353,38.508215",
     "geom:latitude":38.508215,
     "geom:longitude":-77.371353,
@@ -31,19 +32,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HzaMQKXB2Md4rkjc276Ws_38.508215_-77.371353@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890822,
-    "wof:geomhash":"d350d58ade19e54b3e9f6ef167a5912c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"861d386a4ad46f32c5433929ae2bb7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":722901767
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":722901767
+        }
+    ],
     "wof:id":722901767,
-    "wof:lastmodified":1472652087,
+    "wof:lastmodified":1492067586,
     "wof:name":"Guarantee Automaxx Inc",
-    "wof:parent_id":420547175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

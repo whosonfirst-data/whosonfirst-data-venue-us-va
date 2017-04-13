@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.881841,36.995654,-79.881841,36.995654",
     "geom:latitude":36.995654,
     "geom:longitude":-79.881841,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56PPpvJYw8VmtnuPs86x37_36.995654_-79.881841@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894188,
-    "wof:geomhash":"4bb0df7b879ea703b3c347d239698f68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fcedae4a03c8c53612bf4164e4dfc50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":723058631
+        }
+    ],
     "wof:id":723058631,
-    "wof:lastmodified":1472651243,
+    "wof:lastmodified":1492058601,
     "wof:name":"Candlewood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

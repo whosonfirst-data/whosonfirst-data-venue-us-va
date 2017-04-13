@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.292947,37.111272,-79.292947,37.111272",
     "geom:latitude":37.111272,
     "geom:longitude":-79.292947,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728697,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rg6UIYJY3WV6GGXAu1yMF_37.111272_-79.292947@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908983,
-    "wof:geomhash":"6527e18eed5ef8fc0ef8e9e53b0a071a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4be940711c72f843e9eac1c43d2a269d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101728697,
+            "region_id":85688747,
+            "venue_id":739530343
+        }
+    ],
     "wof:id":739530343,
-    "wof:lastmodified":1472651777,
+    "wof:lastmodified":1492044045,
     "wof:name":"Bbc Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

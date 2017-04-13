@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.100634,38.145824,-78.100634,38.145824",
     "geom:latitude":38.145824,
     "geom:longitude":-78.100634,
@@ -31,7 +32,12 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FaFPImcITA3h3YmB9GvWS_38.145824_-78.100634@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906212,
     "wof:geomhash":"fe12bb70ef6fa105292e5ba3441b8cab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739380801
+        }
+    ],
     "wof:id":739380801,
-    "wof:lastmodified":1472651361,
+    "wof:lastmodified":1492033091,
     "wof:name":"Mrlg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

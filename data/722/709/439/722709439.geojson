@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.414519,37.127085,-80.414519,37.127085",
     "geom:latitude":37.127085,
     "geom:longitude":-80.414519,
@@ -34,7 +35,9 @@
         85633793,
         101728703,
         102087271,
-        420546953
+        420546953,
+        420547021,
+        85831813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887141,
-    "wof:geomhash":"78752d5dbb9941b1388d791c5b8c7f12",
+    "wof:geomhash":"c5499b21cc7c4c38f43dc0550ae1f7cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,30 @@
             "neighbourhood_id":420546953,
             "region_id":85688747,
             "venue_id":722709439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728703,
+            "neighbourhood_id":420547021,
+            "region_id":85688747,
+            "venue_id":722709439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728703,
+            "neighbourhood_id":85831813,
+            "region_id":85688747,
+            "venue_id":722709439
         }
     ],
     "wof:id":722709439,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492075407,
     "wof:name":"Dove Insurance",
-    "wof:parent_id":420546953,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

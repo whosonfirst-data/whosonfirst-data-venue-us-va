@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.552791,37.628081,-77.552791,37.628081",
     "geom:latitude":37.628081,
     "geom:longitude":-77.552791,
@@ -31,7 +32,12 @@
         "legal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MesmmdwYMPcmWoNbJAtU5_37.628081_-77.552791@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906009,
     "wof:geomhash":"b405e728c989e7ad72f76df293885a3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739370713
+        }
+    ],
     "wof:id":739370713,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492030995,
     "wof:name":"Christopher T McGee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

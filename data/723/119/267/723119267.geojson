@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.379923,39.03642,-77.379923,39.03642",
     "geom:latitude":39.03642,
     "geom:longitude":-77.379923,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qGzKya5W5Ko1jMJgJ4BGQ_39.036420_-77.379923@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895501,
-    "wof:geomhash":"1e670ca44dbd79d67c5ab99a8ccde798",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5234c7eb86110dcab5cb075dd6f3278f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723119267
+        }
+    ],
     "wof:id":723119267,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492055435,
     "wof:name":"Tech-Aide Computer Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

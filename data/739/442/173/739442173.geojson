@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.94599,36.695678,-80.94599,36.695678",
     "geom:latitude":36.695678,
     "geom:longitude":-80.94599,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r8nDVrW6B6kB0rkfeKC5c_36.695678_-80.945990@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907389,
     "wof:geomhash":"b2b7f32987318b18633c02988d92f8fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":739442173
+        }
+    ],
     "wof:id":739442173,
-    "wof:lastmodified":1472651557,
+    "wof:lastmodified":1492030168,
     "wof:name":"Rite-Way Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

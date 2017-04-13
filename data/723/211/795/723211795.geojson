@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.58976,38.330821,-77.58976,38.330821",
     "geom:latitude":38.330821,
     "geom:longitude":-77.58976,
@@ -33,19 +34,28 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AXNw4xh3z5wFRKtrMForq_38.330821_-77.589760@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897303,
-    "wof:geomhash":"8af191efdb0d7b0d2b7096439fd3753a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0991f373d8c9e5f3b58796f4a57311d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":723211795
+        }
+    ],
     "wof:id":723211795,
-    "wof:lastmodified":1472651639,
+    "wof:lastmodified":1492047786,
     "wof:name":"Wendy K's Of Virginia Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

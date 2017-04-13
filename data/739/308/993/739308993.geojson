@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.571667,37.267462,-79.571667,37.267462",
     "geom:latitude":37.267462,
     "geom:longitude":-79.571667,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HFSszAS8SH12Q8blr7VHc_37.267462_-79.571667@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904751,
     "wof:geomhash":"eb515d0b7e86183e457d07383f7accf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739308993
+        }
+    ],
     "wof:id":739308993,
-    "wof:lastmodified":1472651245,
+    "wof:lastmodified":1492032816,
     "wof:name":"Bedford Welding Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

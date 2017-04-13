@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.903403,37.538062,-79.903403,37.538062",
     "geom:latitude":37.538062,
     "geom:longitude":-79.903403,
@@ -31,17 +32,30 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GpKy4ZqABZ51EGLVQuTgf_37.538062_-79.903403@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891709,
-    "wof:geomhash":"87d875ea235c5bc2486812a4a04e5100",
-    "wof:hierarchy":[],
+    "wof:geomhash":"258d4bca71d8091130d2769e9bdb135e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722943937
+        }
+    ],
     "wof:id":722943937,
-    "wof:lastmodified":1472652272,
+    "wof:lastmodified":1492070295,
     "wof:name":"Camp Eagle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

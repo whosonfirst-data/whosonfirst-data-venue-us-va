@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523263,38.36836,-77.523263,38.36836",
     "geom:latitude":38.36836,
     "geom:longitude":-77.523263,
@@ -32,17 +33,26 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z6BAs4m49F78LXinQO7oi_38.368360_-77.523263@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891474,
-    "wof:geomhash":"69adf1da02988cbe827b5bee73efad1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4e76a5278dd19f9a8a44c4201bad03b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":722933147
+        }
+    ],
     "wof:id":722933147,
-    "wof:lastmodified":1472652160,
+    "wof:lastmodified":1492066199,
     "wof:name":"Second Time Around",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

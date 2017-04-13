@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.133376,37.391544,-79.133376,37.391544",
     "geom:latitude":37.391544,
     "geom:longitude":-79.133376,
@@ -32,17 +33,32 @@
         "complex"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EJCcPqlP3E35Q3q2Y6rzQ_37.391544_-79.133376@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893511,
-    "wof:geomhash":"0950a5b96d7f3a077ad14f7b5ff29f70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96952e87b3a69240651c31b588d8570a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":723025405
+        }
+    ],
     "wof:id":723025405,
-    "wof:lastmodified":1472651142,
+    "wof:lastmodified":1492055828,
     "wof:name":"Greenfield Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.173112,38.881192,-77.173112,38.881192",
     "geom:latitude":38.881192,
     "geom:longitude":-77.173112,
@@ -40,6 +41,7 @@
         85633793,
         101728685,
         102081047,
+        85855467,
         85823119
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899359,
-    "wof:geomhash":"2e6b749cf18980606f875319537815e1",
+    "wof:geomhash":"363bbdcdb35b411eb19990329754cde6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081047,
+            "locality_id":101728685,
+            "neighbourhood_id":85855467,
+            "region_id":85688747,
+            "venue_id":723315325
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":723315325,
-    "wof:lastmodified":1472651765,
+    "wof:lastmodified":1492052677,
     "wof:name":"PRS Inc",
-    "wof:parent_id":85823119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

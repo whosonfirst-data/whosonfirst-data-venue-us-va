@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429348,38.896511,-77.429348,38.896511",
     "geom:latitude":38.896511,
     "geom:longitude":-77.429348,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AHuzJaYrZBBy7yIBkwu9t_38.896511_-77.429348@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906724,
-    "wof:geomhash":"ea6c291c9fdfc95dacc6c60c87ea73c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8376b98b36d54219288789f409bbd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739407469
+        }
+    ],
     "wof:id":739407469,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492040064,
     "wof:name":"Bank Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

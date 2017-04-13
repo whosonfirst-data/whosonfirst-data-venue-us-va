@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.750123,37.374088,-76.750123,37.374088",
     "geom:latitude":37.374088,
     "geom:longitude":-76.750123,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dmqaVomZMIe8Y2OUSVdpO_37.374088_-76.750123@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461903981,
     "wof:geomhash":"8cf40d759731b786653583e8e6db9802",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739272649
+        }
+    ],
     "wof:id":739272649,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492029344,
     "wof:name":"George Myers Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

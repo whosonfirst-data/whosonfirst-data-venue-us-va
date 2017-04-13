@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761527,37.263645,-76.761527,37.263645",
     "geom:latitude":37.263645,
     "geom:longitude":-76.761527,
@@ -32,7 +33,13 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894085,
+        102085967,
+        420546907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FZQkmWiedS9v6HHKaMTO1_37.263645_-76.761527@1294252573"
@@ -40,11 +47,24 @@
     "wof:country":"US",
     "wof:created":1461908371,
     "wof:geomhash":"aa48650ed54f098a1a38eb142fa581b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085967,
+            "neighbourhood_id":85894085,
+            "region_id":85688747,
+            "venue_id":739496667
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546907,
+            "venue_id":739496667
+        }
+    ],
     "wof:id":739496667,
-    "wof:lastmodified":1472651707,
+    "wof:lastmodified":1492033045,
     "wof:name":"Lightfoot Materials",
-    "wof:parent_id":420546907,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.40403,39.051449,-77.40403,39.051449",
     "geom:latitude":39.051449,
     "geom:longitude":-77.40403,
@@ -34,7 +35,13 @@
         "cat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729461,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15jUOlaEtmcY4G2R6Siobg_39.051449_-77.404030@1303262496"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461910636,
     "wof:geomhash":"d0b6ec5139b03684cf1aecd35edfaa4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729461,
+            "region_id":85688747,
+            "venue_id":739611921
+        }
+    ],
     "wof:id":739611921,
-    "wof:lastmodified":1472651976,
+    "wof:lastmodified":1492029460,
     "wof:name":"Greyhound Pets Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

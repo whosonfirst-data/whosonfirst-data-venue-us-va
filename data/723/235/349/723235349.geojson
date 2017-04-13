@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.803543,37.385306,-76.803543,37.385306",
     "geom:latitude":37.385306,
     "geom:longitude":-76.803543,
@@ -31,17 +32,26 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oWpaatLd6DuGDE8Q7B6vK_37.385306_-76.803543@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897815,
-    "wof:geomhash":"05683b791e25a847cd0a7c3fe886e8da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bbf7c1395ef884ef27543b27dda9251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":723235349
+        }
+    ],
     "wof:id":723235349,
-    "wof:lastmodified":1472651659,
+    "wof:lastmodified":1492061323,
     "wof:name":"Signature Stone Corp",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

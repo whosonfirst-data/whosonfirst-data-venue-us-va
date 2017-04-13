@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401015,38.284316,-77.401015,38.284316",
     "geom:latitude":38.284316,
     "geom:longitude":-77.401015,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36C7iDzA5Nc4eKa4g5vEx5_38.284316_-77.401015@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901704,
-    "wof:geomhash":"438fbd473e000aed738458930794aaa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebc5d91c943e31b60de515fa3db2078b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723437601
+        }
+    ],
     "wof:id":723437601,
-    "wof:lastmodified":1472652250,
+    "wof:lastmodified":1492058982,
     "wof:name":"Morgan & Sons Homes Inc",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

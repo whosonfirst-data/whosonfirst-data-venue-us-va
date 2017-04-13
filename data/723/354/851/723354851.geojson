@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.288255,36.857983,-76.288255,36.857983",
     "geom:latitude":36.857983,
     "geom:longitude":-76.288255,
@@ -32,17 +33,32 @@
         "offset"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vxQEK5JQk8b7Fe5r7d69J_36.857983_-76.288255@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900085,
-    "wof:geomhash":"4f7db589b3f1c57d134b6128d3cd2e47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb49f05bf185aa8b309adbe50bf4113d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":723354851
+        }
+    ],
     "wof:id":723354851,
-    "wof:lastmodified":1472652073,
+    "wof:lastmodified":1492060555,
     "wof:name":"Norfolk Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.031088,36.616704,-82.031088,36.616704",
     "geom:latitude":36.616704,
     "geom:longitude":-82.031088,
@@ -31,17 +32,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g3oqQwEBYfB3BfkJHnREy_36.616704_-82.031088@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899115,
-    "wof:geomhash":"48e8868bd12e5fae1052ae255cb1c8a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd48d363abd8fd3e7d2aeef8c1647048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723302923
+        }
+    ],
     "wof:id":723302923,
-    "wof:lastmodified":1472651847,
+    "wof:lastmodified":1492061691,
     "wof:name":"Chuck Stacy Trucking Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

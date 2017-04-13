@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.3448,37.027823,-76.3448,37.027823",
     "geom:latitude":37.027823,
     "geom:longitude":-76.3448,
@@ -37,6 +38,7 @@
         85633793,
         101728661,
         102084913,
+        85816385,
         85810639
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903045,
-    "wof:geomhash":"b3bb5ca4f26d4406e670d6f209e6d9b6",
+    "wof:geomhash":"b752801f0bee72dcdd1a452f55544dd1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85816385,
+            "region_id":85688747,
+            "venue_id":723503931
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723503931,
-    "wof:lastmodified":1472652365,
+    "wof:lastmodified":1492050856,
     "wof:name":"Honorable Louis R Lerner",
-    "wof:parent_id":85810639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

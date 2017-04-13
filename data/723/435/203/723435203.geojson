@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.536966,37.516591,-77.536966,37.516591",
     "geom:latitude":37.516591,
     "geom:longitude":-77.536966,
@@ -33,17 +34,32 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hGr2kUQnbqNES2BBFp0Hr_37.516591_-77.536966@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901662,
-    "wof:geomhash":"131ab79a29b96bfda8105e74bac1cd9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f4ecca7cce2b2fa4fb330641abd2788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":723435203
+        }
+    ],
     "wof:id":723435203,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492047343,
     "wof:name":"Mechanical Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

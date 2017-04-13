@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378755,38.710553,-77.378755,38.710553",
     "geom:latitude":38.710553,
     "geom:longitude":-77.378755,
@@ -31,17 +32,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lxvTVDD6CrVjLpcqYH4s0_38.710553_-77.378755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899103,
-    "wof:geomhash":"6bb626b32bfadcd3938855ad1ec8c27c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d43916360d5bcfcd22eb9d37de8742ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723302365
+        }
+    ],
     "wof:id":723302365,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492061680,
     "wof:name":"Butler Brothers Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

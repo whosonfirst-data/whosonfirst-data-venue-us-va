@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.538457,37.323431,-79.538457,37.323431",
     "geom:latitude":37.323431,
     "geom:longitude":-79.538457,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KPS6h9e1gFm0VoqpVOxqB_37.323431_-79.538457@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902491,
-    "wof:geomhash":"a004c4d0b651d8009ace8cb5c3c48045",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f962374e569235db6e4cf1b12b473184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723477669
+        }
+    ],
     "wof:id":723477669,
-    "wof:lastmodified":1472652318,
+    "wof:lastmodified":1492057833,
     "wof:name":"Brown Construction of Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

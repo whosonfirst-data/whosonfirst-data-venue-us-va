@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.664435,37.700819,-77.664435,37.700819",
     "geom:latitude":37.700819,
     "geom:longitude":-77.664435,
@@ -32,17 +33,30 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fSne4MLntEMkiBcLF8v3T_37.700819_-77.664435@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905974,
-    "wof:geomhash":"dba3595d4bb31b185a3a7854a3ea569f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f96125698cd35d22017b230b409cdb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739368749
+        }
+    ],
     "wof:id":739368749,
-    "wof:lastmodified":1472651359,
+    "wof:lastmodified":1492041983,
     "wof:name":"Virginia Energy Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

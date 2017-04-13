@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.161017,36.847646,-76.161017,36.847646",
     "geom:latitude":36.847646,
     "geom:longitude":-76.161017,
@@ -38,7 +39,9 @@
         85633793,
         101728745,
         102081929,
-        420548397
+        420548389,
+        420548397,
+        85818287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461891417,
-    "wof:geomhash":"7cc58d80ea070ab1f31f3ed405aa3d39",
+    "wof:geomhash":"6a00adf40715a14af3c740ab0dd30c71",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420548389,
+            "region_id":85688747,
+            "venue_id":722930431
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,12 +68,21 @@
             "neighbourhood_id":420548397,
             "region_id":85688747,
             "venue_id":722930431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85818287,
+            "region_id":85688747,
+            "venue_id":722930431
         }
     ],
     "wof:id":722930431,
-    "wof:lastmodified":1472652175,
+    "wof:lastmodified":1492067936,
     "wof:name":"Piano and Organ Warehouse",
-    "wof:parent_id":420548397,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

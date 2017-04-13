@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.052411,36.672816,-82.052411,36.672816",
     "geom:latitude":36.672816,
     "geom:longitude":-82.052411,
@@ -32,17 +33,26 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nDs55NJLnFih9A6i3GWJe_36.672816_-82.052411@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890971,
-    "wof:geomhash":"e86be62b0a50bfc4675a94ee7f8aada1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15d4c7a5289c0e01737fdd502acfc829",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722909185
+        }
+    ],
     "wof:id":722909185,
-    "wof:lastmodified":1472652107,
+    "wof:lastmodified":1492070146,
     "wof:name":"National Guard Recruiting",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

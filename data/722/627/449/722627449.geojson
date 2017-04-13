@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.903325,36.700127,-78.903325,36.700127",
     "geom:latitude":36.700127,
     "geom:longitude":-78.903325,
@@ -28,17 +29,32 @@
     "sg:postcode":"24592",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ub1JjMyRstIklN6gQsKfN_36.700127_-78.903325@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885542,
-    "wof:geomhash":"1ced489b37cb14b512ab8bd1049e8a1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36b39cdc199beaa6c56ec35966511fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":722627449
+        }
+    ],
     "wof:id":722627449,
-    "wof:lastmodified":1472651406,
+    "wof:lastmodified":1492065544,
     "wof:name":"Hill's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441455,38.379773,-77.441455,38.379773",
     "geom:latitude":38.379773,
     "geom:longitude":-77.441455,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_185tM3xHJ8hRMegeQuFvS2_38.379773_-77.441455@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888700,
-    "wof:geomhash":"0ca8bab37f0b5be78efa1876484c9829",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d24727ddc36bd9bc66da563ba21c32fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":722790473
+        }
+    ],
     "wof:id":722790473,
-    "wof:lastmodified":1472651796,
+    "wof:lastmodified":1492075301,
     "wof:name":"Potomac Creek Automotive Svc",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

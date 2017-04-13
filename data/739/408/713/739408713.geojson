@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.455949,38.469576,-77.455949,38.469576",
     "geom:latitude":38.469576,
     "geom:longitude":-77.455949,
@@ -31,7 +32,10 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vKQIUB40N0Osw9HnbTQ6w_38.469576_-77.455949@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906745,
     "wof:geomhash":"839a6f7eef9d5cc3817954ab2f336b9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547107,
+            "venue_id":739408713
+        }
+    ],
     "wof:id":739408713,
-    "wof:lastmodified":1472651487,
+    "wof:lastmodified":1492029922,
     "wof:name":"Aquia-Garrisonville Animal",
     "wof:parent_id":420547107,
     "wof:placetype":"venue",

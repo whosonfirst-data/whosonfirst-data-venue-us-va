@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.072876,38.339387,-77.072876,38.339387",
     "geom:latitude":38.339387,
     "geom:longitude":-77.072876,
@@ -32,7 +33,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729075,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Urol83TJ8NG7wshohEcDg_38.339387_-77.072876@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905723,
     "wof:geomhash":"f397757085f8c08c214e562304318f17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729075,
+            "region_id":85688747,
+            "venue_id":739355243
+        }
+    ],
     "wof:id":739355243,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492032362,
     "wof:name":"Dalhgren Self Store-It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

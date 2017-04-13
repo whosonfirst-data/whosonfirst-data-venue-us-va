@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.387995,37.308824,-78.387995,37.308824",
     "geom:latitude":37.308824,
     "geom:longitude":-78.387995,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5V5M0t9JPa8YtowBJoc18f_37.308824_-78.387995@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884769,
-    "wof:geomhash":"d655d15596a3a894bd0efead3664bdbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a1c1922a7303e506249d1372236cc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":722588705
+        }
+    ],
     "wof:id":722588705,
-    "wof:lastmodified":1472651222,
+    "wof:lastmodified":1492073083,
     "wof:name":"Taylor Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

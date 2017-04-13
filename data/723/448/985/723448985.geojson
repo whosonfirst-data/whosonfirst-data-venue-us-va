@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.395364,37.578249,-77.395364,37.578249",
     "geom:latitude":37.578249,
     "geom:longitude":-77.395364,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77fICQpwgiEMnB4ZeJomAN_37.578249_-77.395364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901927,
-    "wof:geomhash":"72cc4b1af25a3eaae441fa6c7a9b722e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"084315eff8fbfafa85c13de2cca38087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "region_id":85688747,
+            "venue_id":723448985
+        }
+    ],
     "wof:id":723448985,
-    "wof:lastmodified":1472652276,
+    "wof:lastmodified":1492052880,
     "wof:name":"Prince Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

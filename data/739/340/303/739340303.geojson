@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44953,38.823708,-77.44953,38.823708",
     "geom:latitude":38.823708,
     "geom:longitude":-77.44953,
@@ -28,17 +29,32 @@
     "sg:postcode":"20121",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ChU8yXiJEVx8rzZstsAlQ_38.823708_-77.449530@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905386,
-    "wof:geomhash":"b0de534e7bc852ef2830de255c891ab1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a297bda2891281218c97ef43cfae9a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739340303
+        }
+    ],
     "wof:id":739340303,
-    "wof:lastmodified":1472651282,
+    "wof:lastmodified":1492039544,
     "wof:name":"Local Coverage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

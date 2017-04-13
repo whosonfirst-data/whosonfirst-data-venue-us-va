@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556508,37.494182,-77.556508,37.494182",
     "geom:latitude":37.494182,
     "geom:longitude":-77.556508,
@@ -32,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76sIzOWorlQlmLF6rXQw3Z_37.494182_-77.556508@1303262551"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913089,
     "wof:geomhash":"65448da9a1db4bbd9f06db3d97d6a9e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739724819
+        }
+    ],
     "wof:id":739724819,
-    "wof:lastmodified":1472652255,
+    "wof:lastmodified":1492030929,
     "wof:name":"White Robert J Doctor of Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

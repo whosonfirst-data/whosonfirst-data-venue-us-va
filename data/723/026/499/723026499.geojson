@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432737,38.896257,-77.432737,38.896257",
     "geom:latitude":38.896257,
     "geom:longitude":-77.432737,
@@ -31,17 +32,32 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LZtyDQhdgq6HhnvV2San5_38.896257_-77.432737@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893532,
-    "wof:geomhash":"5de1f06528be08eb0b92068127a1604c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d3d8db8078c65cdb197222bfbfc564a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723026499
+        }
+    ],
     "wof:id":723026499,
-    "wof:lastmodified":1472651152,
+    "wof:lastmodified":1492048085,
     "wof:name":"Computer World Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

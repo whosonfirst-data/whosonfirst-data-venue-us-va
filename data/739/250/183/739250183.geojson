@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.442384,37.78581,-79.442384,37.78581",
     "geom:latitude":37.78581,
     "geom:longitude":-79.442384,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728589,
+        102085969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59vK6yHjT4KFDm7FFjU48E_37.785810_-79.442384@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903489,
-    "wof:geomhash":"720659ed3865bb2009555a098aad4353",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f37169384240018b91b50adb3b38ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085969,
+            "locality_id":101728589,
+            "region_id":85688747,
+            "venue_id":739250183
+        }
+    ],
     "wof:id":739250183,
-    "wof:lastmodified":1472651087,
+    "wof:lastmodified":1492039467,
     "wof:name":"University Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.938315,37.317596,-79.938315,37.317596",
     "geom:latitude":37.317596,
     "geom:longitude":-79.938315,
@@ -28,17 +29,32 @@
     "sg:postcode":"24012",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F3fk5fv4aynxfdQbv2mPW_37.317596_-79.938315@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897004,
-    "wof:geomhash":"0507b43d6265e6519927948d94250acc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70abda1b11cdf443095310c36f416161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723196573
+        }
+    ],
     "wof:id":723196573,
-    "wof:lastmodified":1472651578,
+    "wof:lastmodified":1492048028,
     "wof:name":"Fleming Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.571957,38.688169,-77.571957,38.688169",
     "geom:latitude":38.688169,
     "geom:longitude":-77.571957,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ae7a9H3rt6BtNuynbPedq_38.688169_-77.571957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895765,
-    "wof:geomhash":"61b00f4c34f2a6e9a80030c15e6d6742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf6d3b857cf5e76323c481814190ca9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":723133381
+        }
+    ],
     "wof:id":723133381,
-    "wof:lastmodified":1472651384,
+    "wof:lastmodified":1492050847,
     "wof:name":"LPR Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

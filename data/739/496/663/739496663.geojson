@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735225,37.319094,-76.735225,37.319094",
     "geom:latitude":37.319094,
     "geom:longitude":-76.735225,
@@ -31,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Co58WT3S2Rk4oHAPRixtK_37.319094_-76.735225@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908371,
     "wof:geomhash":"37e94fb547549a7949925d5ee21c8a71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":739496663
+        }
+    ],
     "wof:id":739496663,
-    "wof:lastmodified":1472651703,
+    "wof:lastmodified":1492033030,
     "wof:name":"Pelican Restaurant",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

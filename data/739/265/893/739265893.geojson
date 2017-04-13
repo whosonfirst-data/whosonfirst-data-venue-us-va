@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.719701,37.365417,-76.719701,37.365417",
     "geom:latitude":37.365417,
     "geom:longitude":-76.719701,
@@ -34,17 +35,26 @@
     ],
     "sg:website":"www.goodbooks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62hwp3lX7eZXyEPzqQsfWO_37.365417_-76.719701@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903832,
-    "wof:geomhash":"7684cab010062ebd74d61d90d40245a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec22b5c4fdfdd67ac707b539f0117be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":739265893
+        }
+    ],
     "wof:id":739265893,
-    "wof:lastmodified":1472651143,
+    "wof:lastmodified":1492042016,
     "wof:name":"Hamilton's Book Store",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

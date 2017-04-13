@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.012392,36.720373,-82.012392,36.720373",
     "geom:latitude":36.720373,
     "geom:longitude":-82.012392,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IbuRBOMS29NUDJaWa7vt6_36.720373_-82.012392@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895185,
-    "wof:geomhash":"423cdd10681387ae1cf8caeaebe77d2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0674da1c520fa65dd6a7f7a5018eca88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723103493
+        }
+    ],
     "wof:id":723103493,
-    "wof:lastmodified":1472651323,
+    "wof:lastmodified":1492055480,
     "wof:name":"Four Seasons Garden Ctr",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

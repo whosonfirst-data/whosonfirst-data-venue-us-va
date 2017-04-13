@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761719,37.33959,-76.761719,37.33959",
     "geom:latitude":37.33959,
     "geom:longitude":-76.761719,
@@ -32,7 +33,10 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u0rsl2WYpDs7LbLaqe9SE_37.339590_-76.761719@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907226,
     "wof:geomhash":"ad7d36d59f5718475515ec176d769fd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739433153
+        }
+    ],
     "wof:id":739433153,
-    "wof:lastmodified":1472651512,
+    "wof:lastmodified":1492030381,
     "wof:name":"Cook's Home Repair",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

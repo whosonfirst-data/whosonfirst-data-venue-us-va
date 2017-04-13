@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513068,39.107639,-77.513068,39.107639",
     "geom:latitude":39.107639,
     "geom:longitude":-77.513068,
@@ -42,7 +43,12 @@
     ],
     "sg:website":"http://www.blewjem.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23Dd4kWLBe9lBxqqBmE6dq_39.107639_-77.513068@1303262497"
@@ -50,9 +56,17 @@
     "wof:country":"US",
     "wof:created":1461910750,
     "wof:geomhash":"b50f1584cb7b00651b690b3c71136665",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616665
+        }
+    ],
     "wof:id":739616665,
-    "wof:lastmodified":1472652008,
+    "wof:lastmodified":1492029666,
     "wof:name":"Blew Jem Management Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

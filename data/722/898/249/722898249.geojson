@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.644788,38.745017,-78.644788,38.745017",
     "geom:latitude":38.745017,
     "geom:longitude":-78.644788,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728875,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UqTkxIDjfRxxfInh1m9E9_38.745017_-78.644788@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890759,
-    "wof:geomhash":"b25d325cec4b8ea1b9ec4f60f7540244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9672dd3a236f48a0ec0ee7877e02a58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728875,
+            "region_id":85688747,
+            "venue_id":722898249
+        }
+    ],
     "wof:id":722898249,
-    "wof:lastmodified":1472652069,
+    "wof:lastmodified":1492070796,
     "wof:name":"Mt Jackson United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

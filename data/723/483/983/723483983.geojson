@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.647282,37.432905,-77.647282,37.432905",
     "geom:latitude":37.432905,
     "geom:longitude":-77.647282,
@@ -32,17 +33,32 @@
         "noncommercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3znHbmItc0YAEEQrX6pRHd_37.432905_-77.647282@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902612,
-    "wof:geomhash":"6153007e841c8325c730657603b3aa0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fec2b01090013db885b562cb2a9b3b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":723483983
+        }
+    ],
     "wof:id":723483983,
-    "wof:lastmodified":1472652351,
+    "wof:lastmodified":1492059399,
     "wof:name":"Wright Research Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

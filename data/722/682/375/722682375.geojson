@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.230381,37.213046,-78.230381,37.213046",
     "geom:latitude":37.213046,
     "geom:longitude":-78.230381,
@@ -32,17 +33,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DuEq4OFoDmslrRJys2iBN_37.213046_-78.230381@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886628,
-    "wof:geomhash":"54f7ea670ed9f4a04398bc3d7c5bceb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c85a29c9b2f3bea06afa2a49d154757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087251,
+            "region_id":85688747,
+            "venue_id":722682375
+        }
+    ],
     "wof:id":722682375,
-    "wof:lastmodified":1472651522,
+    "wof:lastmodified":1492063219,
     "wof:name":"James River Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

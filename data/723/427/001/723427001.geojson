@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.026968,36.802324,-82.026968,36.802324",
     "geom:latitude":36.802324,
     "geom:longitude":-82.026968,
@@ -32,17 +33,26 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EcJstzaQ0sFT753JjtnNJ_36.802324_-82.026968@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901517,
-    "wof:geomhash":"9a9f0541b23263c97ddeaead2d7f1902",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aba5645b54c901e10c0948d3550a722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723427001
+        }
+    ],
     "wof:id":723427001,
-    "wof:lastmodified":1472652217,
+    "wof:lastmodified":1492052642,
     "wof:name":"S & W Grocery",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.428839,38.336159,-77.428839,38.336159",
     "geom:latitude":38.336159,
     "geom:longitude":-77.428839,
@@ -32,17 +33,26 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SMHR3Ye7cbL6RPll9rPnB_38.336159_-77.428839@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902874,
-    "wof:geomhash":"536e0d1ff89fd8ea9faeb18e3212d0e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"555794a2825e1be2b208e2d04affcf34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":723496431
+        }
+    ],
     "wof:id":723496431,
-    "wof:lastmodified":1472652343,
+    "wof:lastmodified":1492051577,
     "wof:name":"Paulie Productions",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

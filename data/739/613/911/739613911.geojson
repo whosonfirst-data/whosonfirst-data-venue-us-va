@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.633036,38.837859,-77.633036,38.837859",
     "geom:latitude":38.837859,
     "geom:longitude":-77.633036,
@@ -31,7 +32,12 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sSYUwBFSfgORjEig9nmcp_38.837859_-77.633036@1303262496"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461910682,
     "wof:geomhash":"56214c07cf05062f1f386944eac2136b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613911
+        }
+    ],
     "wof:id":739613911,
-    "wof:lastmodified":1472652014,
+    "wof:lastmodified":1492032435,
     "wof:name":"Flooring by Saunders Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

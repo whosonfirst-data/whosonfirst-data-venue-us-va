@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.289363,38.998382,-77.289363,38.998382",
     "geom:latitude":38.998382,
     "geom:longitude":-77.289363,
@@ -32,17 +33,32 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ybkwvmSnIvOe1rgmoAbvr_38.998382_-77.289363@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892983,
-    "wof:geomhash":"33ccdd65b0e3e1064ca4318441e86803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d48e275a245d086c4f7bd948780857a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":723002731
+        }
+    ],
     "wof:id":723002731,
-    "wof:lastmodified":1472651093,
+    "wof:lastmodified":1492051925,
     "wof:name":"Great Falls Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

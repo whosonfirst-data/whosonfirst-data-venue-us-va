@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.634923,38.811209,-77.634923,38.811209",
     "geom:latitude":38.811209,
     "geom:longitude":-77.634923,
@@ -32,7 +33,13 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LrPcsZYbpXd2eV4xxWsqm_38.811209_-77.634923@1303262496"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910667,
     "wof:geomhash":"09b71c30f747c76dc262767a06aa22fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613139
+        }
+    ],
     "wof:id":739613139,
-    "wof:lastmodified":1472651979,
+    "wof:lastmodified":1492032408,
     "wof:name":"Abundant Love For Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.765751,37.368038,-76.765751,37.368038",
     "geom:latitude":37.368038,
     "geom:longitude":-76.765751,
@@ -32,17 +33,26 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546857
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qwdw2iNAAecqBnjvZiRf1_37.368038_-76.765751@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884841,
-    "wof:geomhash":"572149cc86fec920ef16608d16bbb79c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6c7dd6550d81f2ec57c054319da295b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546857,
+            "venue_id":722592887
+        }
+    ],
     "wof:id":722592887,
-    "wof:lastmodified":1472651236,
+    "wof:lastmodified":1492069955,
     "wof:name":"Bob Kirkpatrick & Son",
     "wof:parent_id":420546857,
     "wof:placetype":"venue",

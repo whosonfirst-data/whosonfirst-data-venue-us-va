@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.63789,37.637327,-77.63789,37.637327",
     "geom:latitude":37.637327,
     "geom:longitude":-77.63789,
@@ -32,17 +33,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HjIcL2gPXr8lgP3TEz3BG_37.637327_-77.637890@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899710,
-    "wof:geomhash":"224d52e7c65c998003e5b6178f4ab371",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2c612575dc0ca00fb53ea85943d7baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":723334705
+        }
+    ],
     "wof:id":723334705,
-    "wof:lastmodified":1472651911,
+    "wof:lastmodified":1492057958,
     "wof:name":"3rd Avenue L Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

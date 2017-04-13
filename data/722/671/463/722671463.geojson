@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.617997,37.219514,-76.617997,37.219514",
     "geom:latitude":37.219514,
     "geom:longitude":-76.617997,
@@ -33,17 +34,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hYRr85tnOmEHZD1VM5mcZ_37.219514_-76.617997@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886424,
-    "wof:geomhash":"5bda89ed572ead80bc98394f6b6ca303",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee5652a23e8d1080f9fb702b81ca9249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":722671463
+        }
+    ],
     "wof:id":722671463,
-    "wof:lastmodified":1472651510,
+    "wof:lastmodified":1492062466,
     "wof:name":"Country Village Mobile Home Pk",
     "wof:parent_id":420546871,
     "wof:placetype":"venue",

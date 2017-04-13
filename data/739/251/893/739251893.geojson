@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.984074,37.758912,-79.984074,37.758912",
     "geom:latitude":37.758912,
     "geom:longitude":-79.984074,
@@ -31,7 +32,13 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728707,
+        102085937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H7xmSaVL2i6MxPL4tq4yY_37.758912_-79.984074@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461903529,
     "wof:geomhash":"39e22827c31bfe282654b567383e2f05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085937,
+            "locality_id":101728707,
+            "region_id":85688747,
+            "venue_id":739251893
+        }
+    ],
     "wof:id":739251893,
-    "wof:lastmodified":1472651099,
+    "wof:lastmodified":1492029802,
     "wof:name":"Electrolysis Clinic-Covington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

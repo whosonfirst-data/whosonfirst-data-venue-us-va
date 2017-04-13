@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.566041,39.115928,-77.566041,39.115928",
     "geom:latitude":39.115928,
     "geom:longitude":-77.566041,
@@ -47,7 +48,13 @@
     ],
     "sg:website":"http://comiddletonlaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aPXtHNbZSlsWRJqYVh3kp_39.115928_-77.566041@1303262497"
@@ -55,9 +62,18 @@
     "wof:country":"US",
     "wof:created":1461910740,
     "wof:geomhash":"59a98ab73e6576ae663e23eb5ae5e737",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616231
+        }
+    ],
     "wof:id":739616231,
-    "wof:lastmodified":1472651985,
+    "wof:lastmodified":1492029676,
     "wof:name":"Middleton Clinton O Attorney at Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

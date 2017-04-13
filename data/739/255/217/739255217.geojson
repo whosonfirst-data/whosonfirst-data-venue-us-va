@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.558692,37.53764,-77.558692,37.53764",
     "geom:latitude":37.53764,
     "geom:longitude":-77.558692,
@@ -32,17 +33,32 @@
         "guard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HwjEeiN2IzGv4g5P3sFxk_37.537640_-77.558692@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903607,
-    "wof:geomhash":"f1dbb029eca73285d2edb148783d834e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f21443274f35e032113ea3b063b205c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739255217
+        }
+    ],
     "wof:id":739255217,
-    "wof:lastmodified":1472651087,
+    "wof:lastmodified":1492047200,
     "wof:name":"Splish Splash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

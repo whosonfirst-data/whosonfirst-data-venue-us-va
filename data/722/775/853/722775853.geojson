@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.461041,36.802124,-78.461041,36.802124",
     "geom:latitude":36.802124,
     "geom:longitude":-78.461041,
@@ -32,17 +33,32 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729013,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ps4k3KfJ8hu7jtTFm9E5h_36.802124_-78.461041@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888424,
-    "wof:geomhash":"13dd54ba819838413c203c5d315f05a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7b460970dbbf02c7c3727580da6c5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729013,
+            "region_id":85688747,
+            "venue_id":722775853
+        }
+    ],
     "wof:id":722775853,
-    "wof:lastmodified":1472651852,
+    "wof:lastmodified":1492067164,
     "wof:name":"Goodwill Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

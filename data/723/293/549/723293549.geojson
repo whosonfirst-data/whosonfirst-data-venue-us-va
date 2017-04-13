@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.622364,36.594716,-81.622364,36.594716",
     "geom:latitude":36.594716,
     "geom:longitude":-81.622364,
@@ -33,17 +34,30 @@
         "tract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XledM57exvIpMoOdV20xt_36.594716_-81.622364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898940,
-    "wof:geomhash":"a7db67c478d102e829277ba1b69e401f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9b504bf281c3f247478b999eb0c71d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087253,
+            "region_id":85688747,
+            "venue_id":723293549
+        }
+    ],
     "wof:id":723293549,
-    "wof:lastmodified":1472651793,
+    "wof:lastmodified":1492055655,
     "wof:name":"Mountain Meadows Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

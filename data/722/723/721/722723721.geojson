@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.496517,38.372084,-77.496517,38.372084",
     "geom:latitude":38.372084,
     "geom:longitude":-77.496517,
@@ -32,17 +33,26 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_437ntlylfrBStessbqXiZl_38.372084_-77.496517@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887413,
-    "wof:geomhash":"1d10a7ba93ceb62e0c71b720e466cd4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b9615f8b8ff9ba69025ad8df041e8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":722723721
+        }
+    ],
     "wof:id":722723721,
-    "wof:lastmodified":1472651641,
+    "wof:lastmodified":1492070551,
     "wof:name":"Mary Kay Ind Sales",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

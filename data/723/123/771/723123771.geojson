@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544643,37.1067,-76.544643,37.1067",
     "geom:latitude":37.1067,
     "geom:longitude":-76.544643,
@@ -32,19 +33,46 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        420548039,
+        420548065
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZnVmXFAiwSl7CPClwsBWj_37.106700_-76.544643@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895582,
-    "wof:geomhash":"8f39b52c34e55f3925dc128eaebef37c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bfdc8796b0d9872fafd4295eaaaed1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548039,
+            "region_id":85688747,
+            "venue_id":723123771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548065,
+            "region_id":85688747,
+            "venue_id":723123771
+        }
+    ],
     "wof:id":723123771,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492049746,
     "wof:name":"Jesse Fisher Builder",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

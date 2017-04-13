@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.398151,37.147568,-76.398151,37.147568",
     "geom:latitude":37.147568,
     "geom:longitude":-76.398151,
@@ -31,17 +32,26 @@
         "toilet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36A9eK8WWszZu4ZKltFKyM_37.147568_-76.398151@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900497,
-    "wof:geomhash":"2a809ecd6e9b686d4181c1423f365a63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bd4f476bed21cb38f1ccdf211e5a44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723376231
+        }
+    ],
     "wof:id":723376231,
-    "wof:lastmodified":1472652096,
+    "wof:lastmodified":1492060254,
     "wof:name":"Bay Front Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

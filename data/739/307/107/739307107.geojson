@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.855373,39.09817,-77.855373,39.09817",
     "geom:latitude":39.09817,
     "geom:longitude":-77.855373,
@@ -31,7 +32,12 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aL6IV3efH9pU9KqbaNnHd_39.098170_-77.855373@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904719,
     "wof:geomhash":"4a2d8379d07bee0512cf4adbe081e909",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084971,
+            "region_id":85688747,
+            "venue_id":739307107
+        }
+    ],
     "wof:id":739307107,
-    "wof:lastmodified":1472651192,
+    "wof:lastmodified":1492029992,
     "wof:name":"Chef Food Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130728,36.724564,-78.130728,36.724564",
     "geom:latitude":36.724564,
     "geom:longitude":-78.130728,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WYHZeMGBHj5rBQnU2uj01_36.724564_-78.130728@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896666,
-    "wof:geomhash":"fbc4dd36f38bc192baa99302a767d4c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03fb985e72e168739b03bbcea33a2f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":723179113
+        }
+    ],
     "wof:id":723179113,
-    "wof:lastmodified":1472651498,
+    "wof:lastmodified":1492059195,
     "wof:name":"South Hill Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

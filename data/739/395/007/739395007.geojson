@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.337864,38.470589,-77.337864,38.470589",
     "geom:latitude":38.470589,
     "geom:longitude":-77.337864,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FzhZTmeonazlZokQGsTyx_38.470589_-77.337864@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906484,
-    "wof:geomhash":"9f5ba42f7d009c1c70d86a8830232770",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b1b1f74fd959bf76be468ef3d80534b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739395007
+        }
+    ],
     "wof:id":739395007,
-    "wof:lastmodified":1472651436,
+    "wof:lastmodified":1492044276,
     "wof:name":"Widewater Volunteer Fire Dept",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

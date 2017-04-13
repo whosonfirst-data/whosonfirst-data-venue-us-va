@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.628197,38.9142,-77.628197,38.9142",
     "geom:latitude":38.9142,
     "geom:longitude":-77.628197,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TX118fYF3lSZC7mK9ykK4_38.914200_-77.628197@1303262496"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461910667,
     "wof:geomhash":"1ff86ad16a3f7c616398e0e806d1b5a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613159
+        }
+    ],
     "wof:id":739613159,
-    "wof:lastmodified":1472651981,
+    "wof:lastmodified":1492032410,
     "wof:name":"Langhorne Bernard K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

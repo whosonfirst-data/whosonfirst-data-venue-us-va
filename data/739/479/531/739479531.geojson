@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.490963,38.813379,-77.490963,38.813379",
     "geom:latitude":38.813379,
     "geom:longitude":-77.490963,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56qx9yyFgJaHGwNOBlPRTb_38.813379_-77.490963@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908063,
     "wof:geomhash":"808204a58d0dba76accaa13cc105590b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739479531
+        }
+    ],
     "wof:id":739479531,
-    "wof:lastmodified":1472651637,
+    "wof:lastmodified":1492030581,
     "wof:name":"Everguard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

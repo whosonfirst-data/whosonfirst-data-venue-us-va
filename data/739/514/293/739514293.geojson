@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.32799,38.380017,-77.32799,38.380017",
     "geom:latitude":38.380017,
     "geom:longitude":-77.32799,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41Zsn4v4bs3pZ2vOTMMpQl_38.380017_-77.327990@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908691,
-    "wof:geomhash":"a2f9c0d68b0478e8363c09bc8b3bfabc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac41fc535189c460ab97f734e307801f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547291,
+            "venue_id":739514293
+        }
+    ],
     "wof:id":739514293,
-    "wof:lastmodified":1472651753,
+    "wof:lastmodified":1492043476,
     "wof:name":"Jack Earlys Roadside Cafe",
     "wof:parent_id":420547291,
     "wof:placetype":"venue",

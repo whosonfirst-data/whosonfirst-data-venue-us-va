@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.243939,38.936662,-77.243939,38.936662",
     "geom:latitude":38.936662,
     "geom:longitude":-77.243939,
@@ -36,8 +37,10 @@
         85688747,
         102191575,
         85633793,
-        101729767,
+        101729797,
         102084863,
+        85852975,
+        101729767,
         85839227
     ],
     "wof:breaches":[],
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903240,
-    "wof:geomhash":"e88779a07d52ca5f830867cebcc5e817",
+    "wof:geomhash":"f573f5640746c04d994ed97dec37a447",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729797,
+            "neighbourhood_id":85852975,
+            "region_id":85688747,
+            "venue_id":723511861
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +71,9 @@
         }
     ],
     "wof:id":723511861,
-    "wof:lastmodified":1472652370,
+    "wof:lastmodified":1492053964,
     "wof:name":"Winsoft Inc",
-    "wof:parent_id":85839227,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

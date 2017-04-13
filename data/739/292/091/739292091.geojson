@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504318,38.257604,-77.504318,38.257604",
     "geom:latitude":38.257604,
     "geom:longitude":-77.504318,
@@ -31,7 +32,12 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BCVpJEGbYI98FkI5jhHsh_38.257604_-77.504318@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904407,
     "wof:geomhash":"644da4f429cfcda26b1915dbdeebf829",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739292091
+        }
+    ],
     "wof:id":739292091,
-    "wof:lastmodified":1472651185,
+    "wof:lastmodified":1492033204,
     "wof:name":"Mendez Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

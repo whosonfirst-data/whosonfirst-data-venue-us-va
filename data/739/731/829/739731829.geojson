@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.395142,37.10025,-76.395142,37.10025",
     "geom:latitude":37.10025,
     "geom:longitude":-76.395142,
@@ -53,7 +54,13 @@
     ],
     "sg:website":"http://www.causeyinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GWquXi8L1oG60hydZCOjY_37.100250_-76.395142@1303262551"
@@ -61,9 +68,18 @@
     "wof:country":"US",
     "wof:created":1461913229,
     "wof:geomhash":"5f87182990b47090e70faf5b3c973ddf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739731829
+        }
+    ],
     "wof:id":739731829,
-    "wof:lastmodified":1472652257,
+    "wof:lastmodified":1492031027,
     "wof:name":"Causey Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

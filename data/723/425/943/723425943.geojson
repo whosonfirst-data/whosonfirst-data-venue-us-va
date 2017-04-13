@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.337756,36.846407,-76.337756,36.846407",
     "geom:latitude":36.846407,
     "geom:longitude":-76.337756,
@@ -37,6 +38,7 @@
         85633793,
         101728677,
         102086707,
+        85856023,
         420548237
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901496,
-    "wof:geomhash":"1887219d737b04967725f0147ee8c0a4",
+    "wof:geomhash":"ad5e38afa4c2a5ec5f908488a43401aa",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85856023,
+            "region_id":85688747,
+            "venue_id":723425943
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723425943,
-    "wof:lastmodified":1472652262,
+    "wof:lastmodified":1492055637,
     "wof:name":"Alden Antiques & Interiors",
-    "wof:parent_id":420548237,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.006296,37.468427,-80.006296,37.468427",
     "geom:latitude":37.468427,
     "geom:longitude":-80.006296,
@@ -28,7 +29,12 @@
     "sg:postcode":"24175",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cVvNjehdEDRj4VyD2t2vQ_37.468427_-80.006296@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906736,
     "wof:geomhash":"d5eb4d387526c501e66199675ca3d09d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739408201
+        }
+    ],
     "wof:id":739408201,
-    "wof:lastmodified":1472651449,
+    "wof:lastmodified":1492029938,
     "wof:name":"Botetourt Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

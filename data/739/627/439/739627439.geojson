@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.12517,38.848337,-77.12517,38.848337",
     "geom:latitude":38.848337,
     "geom:longitude":-77.12517,
@@ -28,7 +29,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wny2tqo3wHllBg2qEuQAe_38.848337_-77.125170@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910980,
     "wof:geomhash":"5618a3802d6ce908386fd7425dd2e4b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739627439
+        }
+    ],
     "wof:id":739627439,
-    "wof:lastmodified":1472652002,
+    "wof:lastmodified":1492032125,
     "wof:name":"Ash Maids Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

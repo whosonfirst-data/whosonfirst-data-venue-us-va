@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.704954,37.097514,-79.704954,37.097514",
     "geom:latitude":37.097514,
     "geom:longitude":-79.704954,
@@ -28,17 +29,32 @@
     "sg:postcode":"24121",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729705,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jgrn7is3REPRv0G2cJ8Vz_37.097514_-79.704954@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901448,
-    "wof:geomhash":"4a1b3637783e7e92f82afee024101744",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb8e977b876efca7230be2b9656efbcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729705,
+            "region_id":85688747,
+            "venue_id":723424101
+        }
+    ],
     "wof:id":723424101,
-    "wof:lastmodified":1472652220,
+    "wof:lastmodified":1492051249,
     "wof:name":"Home Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

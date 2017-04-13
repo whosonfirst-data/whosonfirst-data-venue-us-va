@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.238757,37.377032,-79.238757,37.377032",
     "geom:latitude":37.377032,
     "geom:longitude":-79.238757,
@@ -32,17 +33,32 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wFq2TgvApXSIa0fc0XuA8_37.377032_-79.238757@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898089,
-    "wof:geomhash":"0300912fdde083656fb6508827cfe398",
-    "wof:hierarchy":[],
+    "wof:geomhash":"602b7ab0c550a4e925856f3137925b17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":723248615
+        }
+    ],
     "wof:id":723248615,
-    "wof:lastmodified":1472651695,
+    "wof:lastmodified":1492056701,
     "wof:name":"Community First Financial Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

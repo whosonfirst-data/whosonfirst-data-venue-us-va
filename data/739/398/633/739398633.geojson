@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.413911,38.456551,-77.413911,38.456551",
     "geom:latitude":38.456551,
     "geom:longitude":-77.413911,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TWuUFyeYvKegocZaGgC43_38.456551_-77.413911@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906559,
-    "wof:geomhash":"a6d1412ef20d3b828c923b8a354c1c9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23468ef86a7e36f750017ae253a7439e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":739398633
+        }
+    ],
     "wof:id":739398633,
-    "wof:lastmodified":1472651458,
+    "wof:lastmodified":1492043260,
     "wof:name":"McCray Trucking Inc",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

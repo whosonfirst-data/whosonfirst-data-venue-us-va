@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.825561,37.151717,-76.825561,37.151717",
     "geom:latitude":37.151717,
     "geom:longitude":-76.825561,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LEi3o7oGygilGrbN5GAVJ_37.151717_-76.825561@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890198,
-    "wof:geomhash":"7653bf9bc7ed59fbaec0bb4ac69f34db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c16eae36c0f76366769e7faa6057e1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722869975
+        }
+    ],
     "wof:id":722869975,
-    "wof:lastmodified":1472652021,
+    "wof:lastmodified":1492063406,
     "wof:name":"South of Ferry Farm Inc",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

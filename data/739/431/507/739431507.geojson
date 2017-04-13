@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.200232,36.58436,-77.200232,36.58436",
     "geom:latitude":36.58436,
     "geom:longitude":-77.200232,
@@ -31,7 +32,13 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728857,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mhaXb4g4DPqC7f5Wk4ZDK_36.584360_-77.200232@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907192,
     "wof:geomhash":"cebecf1bb907b8a50dd0ea9328f81d73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728857,
+            "region_id":85688747,
+            "venue_id":739431507
+        }
+    ],
     "wof:id":739431507,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492033125,
     "wof:name":"Boykins Town Rescue Dpet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

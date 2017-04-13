@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.627022,36.9347,-82.627022,36.9347",
     "geom:latitude":36.9347,
     "geom:longitude":-82.627022,
@@ -33,17 +34,32 @@
         "reporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728955,
+        102084969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69GqGBLoyE4UPfKKhFYkru_36.934700_-82.627022@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896174,
-    "wof:geomhash":"358b91a1419b83796b5e524ee69519ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b954df3af344589a90be0bebb431c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084969,
+            "locality_id":101728955,
+            "region_id":85688747,
+            "venue_id":723154065
+        }
+    ],
     "wof:id":723154065,
-    "wof:lastmodified":1472651399,
+    "wof:lastmodified":1492051959,
     "wof:name":"Miller Court Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

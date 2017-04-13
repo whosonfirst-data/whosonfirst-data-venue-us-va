@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.996331,38.181309,-76.996331,38.181309",
     "geom:latitude":38.181309,
     "geom:longitude":-76.996331,
@@ -43,17 +44,30 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MVgwflaBYznMSbIcaHGM7_38.181309_-76.996331@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893344,
-    "wof:geomhash":"7139dd47cdcf5d11e47ceed93098d5a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10c00f6aada989f6c69bf9c9e029904f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723018731
+        }
+    ],
     "wof:id":723018731,
-    "wof:lastmodified":1472651123,
+    "wof:lastmodified":1492055246,
     "wof:name":"Pumphouse Gym & Tanning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

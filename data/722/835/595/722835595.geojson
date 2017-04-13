@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.563023,37.645286,-77.563023,37.645286",
     "geom:latitude":37.645286,
     "geom:longitude":-77.563023,
@@ -28,17 +29,32 @@
     "sg:postcode":"23060",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XX37zyRJ3wcBQ5XOdbNtO_37.645286_-77.563023@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889548,
-    "wof:geomhash":"1e9894babce28bd1327756af04b0a6e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"560679ca6f3fadb9d52021ffcee28478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":722835595
+        }
+    ],
     "wof:id":722835595,
-    "wof:lastmodified":1472651956,
+    "wof:lastmodified":1492064662,
     "wof:name":"Dave Wainwright",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

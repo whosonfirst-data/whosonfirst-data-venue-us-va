@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.521237,37.115408,-81.521237,37.115408",
     "geom:latitude":37.115408,
     "geom:longitude":-81.521237,
@@ -31,7 +32,10 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tc7LZwx6Bg0NGf1fUbQD8_37.115408_-81.521237@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908551,
     "wof:geomhash":"092b7965ffad8fab420d88556e4b4c82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739506893
+        }
+    ],
     "wof:id":739506893,
-    "wof:lastmodified":1472651843,
+    "wof:lastmodified":1492032875,
     "wof:name":"Tazewell County Sheriffs Dept",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

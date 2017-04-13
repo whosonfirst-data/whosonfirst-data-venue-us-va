@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.82363,37.506853,-79.82363,37.506853",
     "geom:latitude":37.506853,
     "geom:longitude":-79.82363,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fr19feoqvEUuoA8QhyEHy_37.506853_-79.823630@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906693,
     "wof:geomhash":"c5219760abd5d49aedfc919cb8c9d806",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739405721
+        }
+    ],
     "wof:id":739405721,
-    "wof:lastmodified":1472651474,
+    "wof:lastmodified":1492031562,
     "wof:name":"Lily Of The Valley Baptist Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.512274,37.320535,-79.512274,37.320535",
     "geom:latitude":37.320535,
     "geom:longitude":-79.512274,
@@ -28,7 +29,13 @@
     "sg:postcode":"24523",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ls9sH8MPhbJDKhEPrwF4C_37.320535_-79.512274@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461909302,
     "wof:geomhash":"9aabb4ab6a2e2d86ead648a481186dec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739547245
+        }
+    ],
     "wof:id":739547245,
-    "wof:lastmodified":1472651860,
+    "wof:lastmodified":1492029485,
     "wof:name":"Peaks Of Knowledge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

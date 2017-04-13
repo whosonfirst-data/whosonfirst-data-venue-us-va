@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.464012,38.773815,-77.464012,38.773815",
     "geom:latitude":38.773815,
     "geom:longitude":-77.464012,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WisrMJPq394gbZr5qp5dA_38.773815_-77.464012@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898509,
-    "wof:geomhash":"b7d63a7faaf81c3acfc234262a4b1e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbb397e610ff952db0e5be6748809361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":723270271
+        }
+    ],
     "wof:id":723270271,
-    "wof:lastmodified":1472651778,
+    "wof:lastmodified":1492054488,
     "wof:name":"RAD Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

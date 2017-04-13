@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.070809,36.687309,-82.070809,36.687309",
     "geom:latitude":36.687309,
     "geom:longitude":-82.070809,
@@ -34,7 +35,10 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uOQClBKrV7ADOsnficeUw_36.687309_-82.070809@1294252573"
@@ -42,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906587,
     "wof:geomhash":"7371f28a012d8f71ac38f6d1c20734a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739400293
+        }
+    ],
     "wof:id":739400293,
-    "wof:lastmodified":1472651457,
+    "wof:lastmodified":1492032723,
     "wof:name":"Stanley Home Moving Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

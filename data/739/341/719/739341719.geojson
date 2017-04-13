@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.669392,39.131561,-77.669392,39.131561",
     "geom:latitude":39.131561,
     "geom:longitude":-77.669392,
@@ -31,7 +32,12 @@
         "resume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o9GlCsgb9uIzVvuBylqPS_39.131561_-77.669392@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905414,
     "wof:geomhash":"0e88ebe6a66a05a2808cb67029ec4b03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739341719
+        }
+    ],
     "wof:id":739341719,
-    "wof:lastmodified":1472651299,
+    "wof:lastmodified":1492032559,
     "wof:name":"Stepping Stone Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

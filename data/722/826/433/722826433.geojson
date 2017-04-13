@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.375487,38.39942,-77.375487,38.39942",
     "geom:latitude":38.39942,
     "geom:longitude":-77.375487,
@@ -31,19 +32,28 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RdnWXyBsnO0XehmTp5sVi_38.399420_-77.375487@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889382,
-    "wof:geomhash":"858bd7a8757b84c688886f9dab7d74f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"493eef53a62464410b0061645ba45f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547151,
+            "venue_id":722826433
+        }
+    ],
     "wof:id":722826433,
-    "wof:lastmodified":1472651897,
+    "wof:lastmodified":1492071695,
     "wof:name":"Mount Peniel Church Of God",
-    "wof:parent_id":420547159,
+    "wof:parent_id":420547151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

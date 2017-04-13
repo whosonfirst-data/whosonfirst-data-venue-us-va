@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.973925,37.268311,-79.973925,37.268311",
     "geom:latitude":37.268311,
     "geom:longitude":-79.973925,
@@ -31,7 +32,13 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N8rP6hbx3boR2YUJYGf92_37.268311_-79.973925@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905233,
     "wof:geomhash":"ea6de8eab5cc78665398ca5e94a21636",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739332875
+        }
+    ],
     "wof:id":739332875,
-    "wof:lastmodified":1472651314,
+    "wof:lastmodified":1492030786,
     "wof:name":"Best Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

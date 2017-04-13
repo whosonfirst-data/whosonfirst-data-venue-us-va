@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.338005,38.332913,-77.338005,38.332913",
     "geom:latitude":38.332913,
     "geom:longitude":-77.338005,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CFm8HDTNRsrTIYPTJpFua_38.332913_-77.338005@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883801,
-    "wof:geomhash":"32aca834d8a56d6610499a5b66e29a98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdaf6e7a5e0f306f3e2825b2295e360d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":722539929
+        }
+    ],
     "wof:id":722539929,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492070582,
     "wof:name":"Civitan International",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

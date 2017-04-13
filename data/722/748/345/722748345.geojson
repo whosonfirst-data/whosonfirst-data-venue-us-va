@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.088417,38.739599,-77.088417,38.739599",
     "geom:latitude":38.739599,
     "geom:longitude":-77.088417,
@@ -36,8 +37,10 @@
         85688747,
         102191575,
         85633793,
-        101729753,
+        101729773,
         102084863,
+        85851501,
+        101729753,
         420546657
     ],
     "wof:breaches":[],
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461887910,
-    "wof:geomhash":"574646f1409aca62fe73767e7e2a6bc0",
+    "wof:geomhash":"3d4a55b212968f6df0c12df5ebeab7e8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729773,
+            "neighbourhood_id":85851501,
+            "region_id":85688747,
+            "venue_id":722748345
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +71,9 @@
         }
     ],
     "wof:id":722748345,
-    "wof:lastmodified":1472651683,
+    "wof:lastmodified":1492072416,
     "wof:name":"Nightingale Trucking Co Inc",
-    "wof:parent_id":420546657,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429416,38.306588,-77.429416,38.306588",
     "geom:latitude":38.306588,
     "geom:longitude":-77.429416,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08iGb1RFcNZiTrBWCA2cv5_38.306588_-77.429416@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883945,
-    "wof:geomhash":"92317454aa6f7767f622b1c7c7801dad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b831ad5b6bad44886bd690337e50724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":722547375
+        }
+    ],
     "wof:id":722547375,
-    "wof:lastmodified":1472651080,
+    "wof:lastmodified":1492062511,
     "wof:name":"Tiffany's Cleaning Svc",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

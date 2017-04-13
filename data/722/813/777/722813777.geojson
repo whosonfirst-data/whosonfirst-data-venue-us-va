@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378593,37.70583,-77.378593,37.70583",
     "geom:latitude":37.70583,
     "geom:longitude":-77.378593,
@@ -35,17 +36,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MYVecI674cts6mS1Jw50E_37.705830_-77.378593@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889137,
-    "wof:geomhash":"174ced7999a8e20c24099f3dd895718f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec92ca0a5600ded42f823083ae449e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":722813777
+        }
+    ],
     "wof:id":722813777,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492071173,
     "wof:name":"Dick Hale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.156104,36.620172,-81.156104,36.620172",
     "geom:latitude":36.620172,
     "geom:longitude":-81.156104,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728887,
+        102087253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MsRXz404RKVt8UfU0IwFx_36.620172_-81.156104@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900812,
-    "wof:geomhash":"29d48c47012e13e2b31c8f3e550c419b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25bcbb5d002a648e43ef93faaab3dc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087253,
+            "locality_id":101728887,
+            "region_id":85688747,
+            "venue_id":723391697
+        }
+    ],
     "wof:id":723391697,
-    "wof:lastmodified":1472652134,
+    "wof:lastmodified":1492058302,
     "wof:name":"ITF Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

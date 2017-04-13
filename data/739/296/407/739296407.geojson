@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.024651,36.713002,-82.024651,36.713002",
     "geom:latitude":36.713002,
     "geom:longitude":-82.024651,
@@ -32,7 +33,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JhKJMDY73r8hDsMItdS02_36.713002_-82.024651@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904489,
     "wof:geomhash":"554e96576094d941dbe337380e352133",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739296407
+        }
+    ],
     "wof:id":739296407,
-    "wof:lastmodified":1472651205,
+    "wof:lastmodified":1492029519,
     "wof:name":"Southwest Supergrow",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

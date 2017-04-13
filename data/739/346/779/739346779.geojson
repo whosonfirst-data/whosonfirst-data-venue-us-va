@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.525099,37.33363,-79.525099,37.33363",
     "geom:latitude":37.33363,
     "geom:longitude":-79.525099,
@@ -32,17 +33,32 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ydK1RSp88lrV0UxE01PEs_37.333630_-79.525099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905538,
-    "wof:geomhash":"3c93e74b1934819a1640ed109141f14d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2848b637caf401bb2f33031edee19ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739346779
+        }
+    ],
     "wof:id":739346779,
-    "wof:lastmodified":1472651299,
+    "wof:lastmodified":1492042463,
     "wof:name":"Shepherd's Table",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

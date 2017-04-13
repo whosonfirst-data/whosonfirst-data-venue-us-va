@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519729,37.478305,-77.519729,37.478305",
     "geom:latitude":37.478305,
     "geom:longitude":-77.519729,
@@ -40,17 +41,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KCqW7x3MENFab3jcxTSRO_37.478305_-77.519729@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904059,
-    "wof:geomhash":"715880a1c92bd8b105c5c5d68f7bab24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0b611c3728acdc9e880f833dd0ad44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739276007
+        }
+    ],
     "wof:id":739276007,
-    "wof:lastmodified":1472651134,
+    "wof:lastmodified":1492039733,
     "wof:name":"Davis Auto Machine Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

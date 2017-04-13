@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.554942,38.914059,-78.554942,38.914059",
     "geom:latitude":38.914059,
     "geom:longitude":-78.554942,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xE17tJf58K2QTWhg16kgJ_38.914059_-78.554942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891292,
-    "wof:geomhash":"80761671acffe883c2e5077e297625da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a44ec831f72e72c9a61da19c0231a877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":722924385
+        }
+    ],
     "wof:id":722924385,
-    "wof:lastmodified":1472652157,
+    "wof:lastmodified":1492064010,
     "wof:name":"Bradley Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

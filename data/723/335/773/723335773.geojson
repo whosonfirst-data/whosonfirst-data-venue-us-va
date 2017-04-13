@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.562795,38.818847,-78.562795,38.818847",
     "geom:latitude":38.818847,
     "geom:longitude":-78.562795,
@@ -32,17 +33,32 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728873,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tiEpbVyO5hBvIUO9Cbao5_38.818847_-78.562795@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899728,
-    "wof:geomhash":"f6041400f110d0165ba0423fc06471cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58d33491d3428cfbb7792941c4d9d315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728873,
+            "region_id":85688747,
+            "venue_id":723335773
+        }
+    ],
     "wof:id":723335773,
-    "wof:lastmodified":1472651915,
+    "wof:lastmodified":1492052434,
     "wof:name":"Edinburg Water Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

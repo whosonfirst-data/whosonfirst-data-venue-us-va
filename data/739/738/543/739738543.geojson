@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.875626,36.691536,-79.875626,36.691536",
     "geom:latitude":36.691536,
     "geom:longitude":-79.875626,
@@ -31,17 +32,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r4YJY9ZgTtX4KEZfLLEcH_36.691536_-79.875626@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913394,
-    "wof:geomhash":"eebcb4671e888921868001133ae3693a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"605ec8139996a09458c10741b8fda1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":739738543
+        }
+    ],
     "wof:id":739738543,
-    "wof:lastmodified":1472652241,
+    "wof:lastmodified":1492043663,
     "wof:name":"Lawyers Title",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

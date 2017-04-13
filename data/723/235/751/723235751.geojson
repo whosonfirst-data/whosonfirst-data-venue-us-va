@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.704025,39.1364,-77.704025,39.1364",
     "geom:latitude":39.1364,
     "geom:longitude":-77.704025,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KqSQUtQJ18Vxxgv7tPvPO_39.136400_-77.704025@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897823,
-    "wof:geomhash":"45f7d9b0e3b9a9fa787c96aebe94f5b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2e132e6bb2c64af8e91f1515409b29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":723235751
+        }
+    ],
     "wof:id":723235751,
-    "wof:lastmodified":1472651684,
+    "wof:lastmodified":1492061303,
     "wof:name":"Purcellville Family Hlth Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.181223,37.021425,-77.181223,37.021425",
     "geom:latitude":37.021425,
     "geom:longitude":-77.181223,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mzh947Lc8THrm4qQ6dZ4R_37.021425_-77.181223@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906148,
     "wof:geomhash":"cd7c453f034683f7638888f39010110d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":739377821
+        }
+    ],
     "wof:id":739377821,
-    "wof:lastmodified":1472651360,
+    "wof:lastmodified":1492031194,
     "wof:name":"Wilborne Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

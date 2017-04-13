@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.543836,37.167198,-76.543836,37.167198",
     "geom:latitude":37.167198,
     "geom:longitude":-76.543836,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sIO07Pwv6axg5lyvfeBsO_37.167198_-76.543836@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889417,
-    "wof:geomhash":"9f10ec9efa82cf585e89ef2f5e3ef371",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6c46a3185f630823ca73638c6188857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":722828283
+        }
+    ],
     "wof:id":722828283,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492066034,
     "wof:name":"Denbigh Trace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

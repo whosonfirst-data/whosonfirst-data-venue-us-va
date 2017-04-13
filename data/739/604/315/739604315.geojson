@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50307,38.747579,-77.50307,38.747579",
     "geom:latitude":38.747579,
     "geom:longitude":-77.50307,
@@ -42,7 +43,13 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TopAO4YNEhBDq3W5qYTEi_38.747579_-77.503070@1303262495"
@@ -50,9 +57,18 @@
     "wof:country":"US",
     "wof:created":1461910498,
     "wof:geomhash":"15d7f0cd31531ea0f922a1756ead126e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":739604315
+        }
+    ],
     "wof:id":739604315,
-    "wof:lastmodified":1472651943,
+    "wof:lastmodified":1492032488,
     "wof:name":"Ramblin's Bistro And Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

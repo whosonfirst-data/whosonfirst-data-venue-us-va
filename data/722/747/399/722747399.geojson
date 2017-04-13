@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401662,37.233994,-77.401662,37.233994",
     "geom:latitude":37.233994,
     "geom:longitude":-77.401662,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aAujjDbZnpcF2R3fJAT4k_37.233994_-77.401662@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887892,
-    "wof:geomhash":"be3f888b3c941e12f887b1db7ab1e58b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28576718401966889bb4a2b31ea32843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":722747399
+        }
+    ],
     "wof:id":722747399,
-    "wof:lastmodified":1472651682,
+    "wof:lastmodified":1492064574,
     "wof:name":"Central Virginia Property Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.62397,37.493561,-77.62397,37.493561",
     "geom:latitude":37.493561,
     "geom:longitude":-77.62397,
@@ -33,7 +34,12 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6771252fAXbaVHXAYcLL3Y_37.493561_-77.623970@1303262551"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461913091,
     "wof:geomhash":"66c454bd71c9ed1947e4fba6b13e3c27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724941
+        }
+    ],
     "wof:id":739724941,
-    "wof:lastmodified":1472652261,
+    "wof:lastmodified":1492030956,
     "wof:name":"General Resource Management, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

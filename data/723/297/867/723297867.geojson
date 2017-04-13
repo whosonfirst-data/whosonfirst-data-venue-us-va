@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.522475,38.367241,-77.522475,38.367241",
     "geom:latitude":38.367241,
     "geom:longitude":-77.522475,
@@ -32,17 +33,26 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Fznto56UJ3vG5wB1p8he_38.367241_-77.522475@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899024,
-    "wof:geomhash":"751bc0a916fc4b72a7a47564e8ce062f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d87f3c29936e358fa32ecd06264179e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":723297867
+        }
+    ],
     "wof:id":723297867,
-    "wof:lastmodified":1472651815,
+    "wof:lastmodified":1492060661,
     "wof:name":"Holly Haven Swim Club",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

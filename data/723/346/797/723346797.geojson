@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.177036,38.873486,-77.177036,38.873486",
     "geom:latitude":38.873486,
     "geom:longitude":-77.177036,
@@ -32,19 +33,36 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729757,
+        102084863,
+        85805321
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6olrHp5FtFAmoIcOwx25_38.873486_-77.177036@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899939,
-    "wof:geomhash":"12be8b7c1dad0befb8f9ffafa9e9cb84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3c862ecd1a30c93b8bc83935540115a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "neighbourhood_id":85805321,
+            "region_id":85688747,
+            "venue_id":723346797
+        }
+    ],
     "wof:id":723346797,
-    "wof:lastmodified":1472651959,
+    "wof:lastmodified":1492057808,
     "wof:name":"A&E Design Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

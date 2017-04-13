@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.54611,36.70322,-78.54611,36.70322",
     "geom:latitude":36.70322,
     "geom:longitude":-78.54611,
@@ -31,7 +32,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75w9ETdUWhiD0ZJ4kkf1na_36.703220_-78.546110@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905400,
     "wof:geomhash":"ed16a87aef615555fde92597250839b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739341035
+        }
+    ],
     "wof:id":739341035,
-    "wof:lastmodified":1472651263,
+    "wof:lastmodified":1492032547,
     "wof:name":"Virginia Speed & Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

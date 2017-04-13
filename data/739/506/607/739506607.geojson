@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.190016,38.074939,-78.190016,38.074939",
     "geom:latitude":38.074939,
     "geom:longitude":-78.190016,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_060waI5Hi2wPCwNrforA2I_38.074939_-78.190016@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461908546,
     "wof:geomhash":"b0c239156cf4753f53113aeff09c9fb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739506607
+        }
+    ],
     "wof:id":739506607,
-    "wof:lastmodified":1472651811,
+    "wof:lastmodified":1492032895,
     "wof:name":"Duff & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.644788,38.039155,-76.644788,38.039155",
     "geom:latitude":38.039155,
     "geom:longitude":-76.644788,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CK2gfCO6jASPn9rAGnuXw_38.039155_-76.644788@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901062,
-    "wof:geomhash":"68824e4a0eda88cf1644e52a175ca189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3eaeaae98e55196e5f331a7d6109dbbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723404491
+        }
+    ],
     "wof:id":723404491,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492052197,
     "wof:name":"Tarleton Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

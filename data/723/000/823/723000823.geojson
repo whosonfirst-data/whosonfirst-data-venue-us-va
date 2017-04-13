@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.479809,39.085644,-77.479809,39.085644",
     "geom:latitude":39.085644,
     "geom:longitude":-77.479809,
@@ -32,17 +33,32 @@
         "architecture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OmG11pIs2yUoXyyY1QThv_39.085644_-77.479809@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892920,
-    "wof:geomhash":"d5d23b2cf0ec3a9062005e69fd1b295e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf834f81380bb413bd243e23651aa575",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":723000823
+        }
+    ],
     "wof:id":723000823,
-    "wof:lastmodified":1472651084,
+    "wof:lastmodified":1492056923,
     "wof:name":"Peter Aedivan RA PC Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

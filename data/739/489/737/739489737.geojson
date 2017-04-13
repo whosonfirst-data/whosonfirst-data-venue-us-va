@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.963467,38.251727,-76.963467,38.251727",
     "geom:latitude":38.251727,
     "geom:longitude":-76.963467,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729001,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K9x9LFnO4OKvGuIzEZaYc_38.251727_-76.963467@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908250,
-    "wof:geomhash":"51fe98377e0e05e49c79d7fd38a2ba2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"438e188e72033fa99c207650056a5dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "locality_id":101729001,
+            "region_id":85688747,
+            "venue_id":739489737
+        }
+    ],
     "wof:id":739489737,
-    "wof:lastmodified":1472651701,
+    "wof:lastmodified":1492040147,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

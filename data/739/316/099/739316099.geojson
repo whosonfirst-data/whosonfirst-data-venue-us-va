@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.324818,38.430063,-77.324818,38.430063",
     "geom:latitude":38.430063,
     "geom:longitude":-77.324818,
@@ -31,7 +32,10 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547153
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0daVzshyywGQYAYe1vBzuI_38.430063_-77.324818@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904885,
     "wof:geomhash":"660fe73fee40bebcc1c0a10923053035",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547153,
+            "venue_id":739316099
+        }
+    ],
     "wof:id":739316099,
-    "wof:lastmodified":1472651200,
+    "wof:lastmodified":1492031830,
     "wof:name":"Widewater Constr Corp",
     "wof:parent_id":420547153,
     "wof:placetype":"venue",

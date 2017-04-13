@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.562314,37.644644,-77.562314,37.644644",
     "geom:latitude":37.644644,
     "geom:longitude":-77.562314,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TAni3x29gOWkX4qaFYFJD_37.644644_-77.562314@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896952,
-    "wof:geomhash":"a614b5b5ed7c47e95821aa3e7eaed091",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87c0e5fef6970e6eda93880aeb9fc6a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":723193879
+        }
+    ],
     "wof:id":723193879,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492051804,
     "wof:name":"Continental Systems USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

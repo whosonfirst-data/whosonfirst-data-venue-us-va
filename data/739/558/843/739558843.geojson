@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508656,37.491548,-77.508656,37.491548",
     "geom:latitude":37.491548,
     "geom:longitude":-77.508656,
@@ -31,7 +32,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cxlgtdhxRB7eAHedy3MGf_37.491525_-77.508553@1293134755"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909531,
     "wof:geomhash":"bab6952462cf3509a5a0a3b1fe3da0f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739558843
+        }
+    ],
     "wof:id":739558843,
-    "wof:lastmodified":1472651894,
+    "wof:lastmodified":1492031283,
     "wof:name":"Kathys Kreations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

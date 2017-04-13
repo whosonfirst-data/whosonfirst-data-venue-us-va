@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.461347,37.464388,-76.461347,37.464388",
     "geom:latitude":37.464388,
     "geom:longitude":-76.461347,
@@ -32,17 +33,30 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YfGcFgkcezhaLYbuRSmiu_37.464388_-76.461347@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909203,
-    "wof:geomhash":"d61cc67d5a4a64802ac697511726cd04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baee86b5ff0e0db3eccf13423ebf7bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":739542673
+        }
+    ],
     "wof:id":739542673,
-    "wof:lastmodified":1472651817,
+    "wof:lastmodified":1492042945,
     "wof:name":"Foster Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

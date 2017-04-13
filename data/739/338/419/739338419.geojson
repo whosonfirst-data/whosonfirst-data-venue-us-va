@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.489508,37.962391,-76.489508,37.962391",
     "geom:latitude":37.962391,
     "geom:longitude":-76.489508,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VMnIqaYXPBiHa6SV58sVU_37.962391_-76.489508@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461905352,
     "wof:geomhash":"8e60794511fd3c2d0260bc327f8f154c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739338419
+        }
+    ],
     "wof:id":739338419,
-    "wof:lastmodified":1472651274,
+    "wof:lastmodified":1492033427,
     "wof:name":"Jackson & Associated Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

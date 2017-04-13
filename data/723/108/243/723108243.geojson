@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429573,38.333497,-77.429573,38.333497",
     "geom:latitude":38.333497,
     "geom:longitude":-77.429573,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Y8FyRNDK1bYc44Ff6GsQM_38.333497_-77.429573@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895281,
-    "wof:geomhash":"88cb662b46ee213fcf9cc13be63bacc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78de404a147b79b01c625a1bfc4a22e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":723108243
+        }
+    ],
     "wof:id":723108243,
-    "wof:lastmodified":1472651331,
+    "wof:lastmodified":1492052045,
     "wof:name":"Snn Painting",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

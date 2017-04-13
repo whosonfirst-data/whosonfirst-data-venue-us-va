@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.348464,37.044384,-76.348464,37.044384",
     "geom:latitude":37.044384,
     "geom:longitude":-76.348464,
@@ -31,17 +32,32 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cqDsLOvWnF7y7RLDFaYu6_37.044384_-76.348464@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886491,
-    "wof:geomhash":"865073d20122f8d7f8bc3587d91ed714",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324332d892732b9b6586ab85d7088c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722675135
+        }
+    ],
     "wof:id":722675135,
-    "wof:lastmodified":1472651501,
+    "wof:lastmodified":1492065552,
     "wof:name":"Bob's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

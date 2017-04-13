@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526235,39.020412,-77.526235,39.020412",
     "geom:latitude":39.020412,
     "geom:longitude":-77.526235,
@@ -32,17 +33,32 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xpgYxLJWt99SSS3ebh6RX_39.020412_-77.526235@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898379,
-    "wof:geomhash":"8c25c36e5484d9b9d0e05f5c146b5b12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cedf3e663f587f2dd0307e71d101278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":723263983
+        }
+    ],
     "wof:id":723263983,
-    "wof:lastmodified":1472651846,
+    "wof:lastmodified":1492055452,
     "wof:name":"Davis Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

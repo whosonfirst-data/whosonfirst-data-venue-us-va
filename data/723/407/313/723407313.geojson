@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.813682,37.115308,-77.813682,37.115308",
     "geom:latitude":37.115308,
     "geom:longitude":-77.813682,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ku3vx7yRedraltZWRUDim_37.115308_-77.813682@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901117,
-    "wof:geomhash":"1e0c6afe197cb223d97d87902aa06a09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9509291b2816ceba3ec6864de1f61386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":723407313
+        }
+    ],
     "wof:id":723407313,
-    "wof:lastmodified":1472652153,
+    "wof:lastmodified":1492055093,
     "wof:name":"B & T Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.560031,39.171602,-77.560031,39.171602",
     "geom:latitude":39.171602,
     "geom:longitude":-77.560031,
@@ -31,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32DtCv75yzKy4bWAaQxUqe_39.171602_-77.560031@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907065,
     "wof:geomhash":"c4443cdf47b8c45e10eb8ff24f17f4ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739424553
+        }
+    ],
     "wof:id":739424553,
-    "wof:lastmodified":1472651519,
+    "wof:lastmodified":1492032758,
     "wof:name":"Selma Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488814,37.492367,-77.488814,37.492367",
     "geom:latitude":37.492367,
     "geom:longitude":-77.488814,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ft875V1ONmgMrdd2eUODT_37.492367_-77.488814@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905860,
-    "wof:geomhash":"8aaaa68390ec9ab2619a84115b191494",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3510985af7d71a2f81b7ccb2c9c035e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739362647
+        }
+    ],
     "wof:id":739362647,
-    "wof:lastmodified":1472651357,
+    "wof:lastmodified":1492047107,
     "wof:name":"Pinebrook Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

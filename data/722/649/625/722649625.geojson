@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.353214,37.043447,-76.353214,37.043447",
     "geom:latitude":37.043447,
     "geom:longitude":-76.353214,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3upPrCFcXfo71RIfcyUYtw_37.043447_-76.353214@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886013,
-    "wof:geomhash":"bbd1bdc4780229160836e0a685b6c5b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5ae754cdb96a268b1ba29b48e5348a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722649625
+        }
+    ],
     "wof:id":722649625,
-    "wof:lastmodified":1472651471,
+    "wof:lastmodified":1492064140,
     "wof:name":"VIP Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

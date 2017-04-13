@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.501827,38.260523,-77.501827,38.260523",
     "geom:latitude":38.260523,
     "geom:longitude":-77.501827,
@@ -31,7 +32,12 @@
         "reconditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uGDQx4eDmWGHllCm7SV3S_38.260523_-77.501827@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906897,
     "wof:geomhash":"75463338ab9a749838fc922f05a4c193",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739417079
+        }
+    ],
     "wof:id":739417079,
-    "wof:lastmodified":1472651499,
+    "wof:lastmodified":1492031471,
     "wof:name":"Shirlie Slack RE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

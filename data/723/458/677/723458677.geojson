@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.326426,38.379928,-77.326426,38.379928",
     "geom:latitude":38.379928,
     "geom:longitude":-77.326426,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547291
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mLuNzNB6N9dIxcuZHAdAT_38.379928_-77.326426@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902101,
-    "wof:geomhash":"54fb9d8705c668137e7403a6bfb0b0b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"531d767981148a063bcd745d0fba8471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547291,
+            "venue_id":723458677
+        }
+    ],
     "wof:id":723458677,
-    "wof:lastmodified":1472652294,
+    "wof:lastmodified":1492048203,
     "wof:name":"Schilling Assoc",
     "wof:parent_id":420547291,
     "wof:placetype":"venue",

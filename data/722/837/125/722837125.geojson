@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.372492,37.93593,-75.372492,37.93593",
     "geom:latitude":37.93593,
     "geom:longitude":-75.372492,
@@ -39,6 +40,7 @@
         85633793,
         101728921,
         102081415,
+        85806167,
         85813917
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889574,
-    "wof:geomhash":"20e68231bd4bcb2b6e50b2d4ce952c44",
+    "wof:geomhash":"dd1e4042e55606991847dd52391321c3",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081415,
+            "locality_id":101728921,
+            "neighbourhood_id":85806167,
+            "region_id":85688747,
+            "venue_id":722837125
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722837125,
-    "wof:lastmodified":1472651928,
+    "wof:lastmodified":1492068427,
     "wof:name":"Watson House",
-    "wof:parent_id":85813917,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

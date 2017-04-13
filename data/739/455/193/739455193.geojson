@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.431442,38.299485,-78.431442,38.299485",
     "geom:latitude":38.299485,
     "geom:longitude":-78.431442,
@@ -31,7 +32,12 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jp8NnzUG8vIyILBJufRHU_38.299485_-78.431442@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907631,
     "wof:geomhash":"c32f9083beafcda4e9f68e89940b3f42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739455193
+        }
+    ],
     "wof:id":739455193,
-    "wof:lastmodified":1472651557,
+    "wof:lastmodified":1492032957,
     "wof:name":"Brother's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

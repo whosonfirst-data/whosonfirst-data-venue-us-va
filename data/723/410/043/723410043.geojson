@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.101985,37.276965,-79.101985,37.276965",
     "geom:latitude":37.276965,
     "geom:longitude":-79.101985,
@@ -31,17 +32,32 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I53cWd542TyFreVs52MZs_37.276965_-79.101985@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901172,
-    "wof:geomhash":"383adee951f6d0a8c623a720f5416d55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5fa43973745e857968bd678aa63d678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":723410043
+        }
+    ],
     "wof:id":723410043,
-    "wof:lastmodified":1472652175,
+    "wof:lastmodified":1492050817,
     "wof:name":"Senior Recreation Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

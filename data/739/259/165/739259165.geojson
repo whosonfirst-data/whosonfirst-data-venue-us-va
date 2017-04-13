@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.795833,37.369963,-76.795833,37.369963",
     "geom:latitude":37.369963,
     "geom:longitude":-76.795833,
@@ -33,7 +34,10 @@
         "leveling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wd3S6hr7TfxKidirU0HjL_37.369963_-76.795833@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461903682,
     "wof:geomhash":"99e9696a10ccd82435fd488301e8ff57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546763,
+            "venue_id":739259165
+        }
+    ],
     "wof:id":739259165,
-    "wof:lastmodified":1472651093,
+    "wof:lastmodified":1492032933,
     "wof:name":"Hertzler Clearing & Grading Co",
     "wof:parent_id":420546763,
     "wof:placetype":"venue",

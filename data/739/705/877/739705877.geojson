@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.526361,38.025087,-78.526361,38.025087",
     "geom:latitude":38.025087,
     "geom:longitude":-78.526361,
@@ -28,7 +29,12 @@
     "sg:postcode":"22903",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oG8ooXZsISHyWga8w549n_38.025087_-78.526361@1303262548"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912691,
     "wof:geomhash":"563bcf9d87d4a8b4a4ca067f4bd52102",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739705877
+        }
+    ],
     "wof:id":739705877,
-    "wof:lastmodified":1472652198,
+    "wof:lastmodified":1492030340,
     "wof:name":"Chirichetti Scott D DO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

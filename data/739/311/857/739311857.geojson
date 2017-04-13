@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.804848,37.380628,-76.804848,37.380628",
     "geom:latitude":37.380628,
     "geom:longitude":-76.804848,
@@ -31,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66quvyA38cwmgKHmFJ1RXl_37.380628_-76.804848@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904810,
     "wof:geomhash":"cb2ef63a14224c3c8d2473312bfa8789",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":739311857
+        }
+    ],
     "wof:id":739311857,
-    "wof:lastmodified":1472651244,
+    "wof:lastmodified":1492030287,
     "wof:name":"M Anderson Bradshaw PC",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.655359,38.926393,-77.655359,38.926393",
     "geom:latitude":38.926393,
     "geom:longitude":-77.655359,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"landscapeanddesigncenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729263,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SG9bW58gkouJhbWIRRmkh_38.926393_-77.655359@1303262496"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461910679,
     "wof:geomhash":"254930effa5bbd9f1f79518e09169b71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729263,
+            "region_id":85688747,
+            "venue_id":739613689
+        }
+    ],
     "wof:id":739613689,
-    "wof:lastmodified":1472652003,
+    "wof:lastmodified":1492032415,
     "wof:name":"Landscape & Design Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

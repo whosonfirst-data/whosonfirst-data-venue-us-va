@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.328085,38.843067,-77.328085,38.843067",
     "geom:latitude":38.843067,
     "geom:longitude":-77.328085,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XT7fy7BLOnAy0TaCBFw2Q_38.843067_-77.328085@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899325,
-    "wof:geomhash":"63ba3794a06c9efe3830fa0a3435d3b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccd48b8f281d182d350a65a65942fc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":723313339
+        }
+    ],
     "wof:id":723313339,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492057298,
     "wof:name":"Gfc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

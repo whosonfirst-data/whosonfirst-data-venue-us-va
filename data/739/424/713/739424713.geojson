@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.762993,37.253296,-76.762993,37.253296",
     "geom:latitude":37.253296,
     "geom:longitude":-76.762993,
@@ -32,7 +33,11 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805,
+        420546913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eWQh43nzpeoBE7a65gi4m_37.253296_-76.762993@1294252573"
@@ -40,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1461907067,
     "wof:geomhash":"9314d0ce143ac46fa8c8c22db423c7ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":739424713
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546913,
+            "venue_id":739424713
+        }
+    ],
     "wof:id":739424713,
-    "wof:lastmodified":1472651516,
+    "wof:lastmodified":1492032736,
     "wof:name":"Branscome Inc",
-    "wof:parent_id":420546913,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

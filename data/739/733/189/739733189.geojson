@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.248435,36.569849,-77.248435,36.569849",
     "geom:latitude":36.569849,
     "geom:longitude":-77.248435,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728861,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X4Pa9sjrx6rlH14isQo9l_36.569849_-77.248435@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913254,
-    "wof:geomhash":"68d8419a95b164eee62ebcb47b31d2a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"175711df88843b940d892d830ee6b73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728861,
+            "region_id":85688747,
+            "venue_id":739733189
+        }
+    ],
     "wof:id":739733189,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492039249,
     "wof:name":"USPS - United States Post Office - Branchville Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

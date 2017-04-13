@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.47299,38.451966,-77.47299,38.451966",
     "geom:latitude":38.451966,
     "geom:longitude":-77.47299,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g9nDV1dwzDra9EJO7QJC1_38.451966_-77.472990@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893021,
-    "wof:geomhash":"a9c410d774220abdba1dc87caa152ffb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d2054542c18891867bbb712045c8969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":723004049
+        }
+    ],
     "wof:id":723004049,
-    "wof:lastmodified":1472651069,
+    "wof:lastmodified":1492059983,
     "wof:name":"C W Martin Trucking Inc",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

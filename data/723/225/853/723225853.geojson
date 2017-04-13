@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.250403,36.923102,-81.250403,36.923102",
     "geom:latitude":36.923102,
     "geom:longitude":-81.250403,
@@ -31,17 +32,26 @@
         "balloon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DbUWpXkBoQimO9jj0bMDJ_36.923102_-81.250403@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897615,
-    "wof:geomhash":"11c12434a7382d783ecd4a1192e2d116",
-    "wof:hierarchy":[],
+    "wof:geomhash":"879834879fde514e68023aaf4dda1ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723225853
+        }
+    ],
     "wof:id":723225853,
-    "wof:lastmodified":1472651654,
+    "wof:lastmodified":1492047381,
     "wof:name":"Hot Air Balloons",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

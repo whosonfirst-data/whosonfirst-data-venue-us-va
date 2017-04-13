@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.545817,37.656427,-77.545817,37.656427",
     "geom:latitude":37.656427,
     "geom:longitude":-77.545817,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XRPpEHN0G4P6Ayver0VV4_37.656427_-77.545817@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891073,
-    "wof:geomhash":"29bf5cd0147051b6633e914ba8a85875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b7c4899a624038756dcdf15469c83c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722914487
+        }
+    ],
     "wof:id":722914487,
-    "wof:lastmodified":1472652126,
+    "wof:lastmodified":1492070664,
     "wof:name":"Mount Vernon Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

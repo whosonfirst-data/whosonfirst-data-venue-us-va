@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.528665,36.927607,-76.528665,36.927607",
     "geom:latitude":36.927607,
     "geom:longitude":-76.528665,
@@ -31,17 +32,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KHrfYzqS4imhFHZNf0SqA_36.927607_-76.528665@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908037,
-    "wof:geomhash":"15db3a66812d4f25089003d4b38f48cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fe1ea120b6fdebf32668ac695b9d579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739478265
+        }
+    ],
     "wof:id":739478265,
-    "wof:lastmodified":1472651614,
+    "wof:lastmodified":1492042154,
     "wof:name":"Old South Contruction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

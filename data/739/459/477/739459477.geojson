@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.925222,37.550601,-77.925222,37.550601",
     "geom:latitude":37.550601,
     "geom:longitude":-77.925222,
@@ -31,17 +32,30 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37XXzZKs493fr8TAjzyied_37.550601_-77.925222@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907707,
-    "wof:geomhash":"57c68064042151f6da5e4aed9337783c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb59de7813b3d80a4ff6971cadc370e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739459477
+        }
+    ],
     "wof:id":739459477,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492046067,
     "wof:name":"Baldwin Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

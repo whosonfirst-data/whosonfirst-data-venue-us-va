@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.601419,37.726109,-77.601419,37.726109",
     "geom:latitude":37.726109,
     "geom:longitude":-77.601419,
@@ -39,7 +40,12 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I5tRWpKJrXlbuSJkSz0dH_37.726109_-77.601419@1294252573"
@@ -47,9 +53,17 @@
     "wof:country":"US",
     "wof:created":1461904260,
     "wof:geomhash":"284059f26b91dd492425295a9a11be49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739285197
+        }
+    ],
     "wof:id":739285197,
-    "wof:lastmodified":1472651143,
+    "wof:lastmodified":1492029723,
     "wof:name":"Glen Allen Glass & Morror LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

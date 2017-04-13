@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.188898,38.921859,-77.188898,38.921859",
     "geom:latitude":38.921859,
     "geom:longitude":-77.188898,
@@ -37,7 +38,10 @@
         85633793,
         101729783,
         102084863,
-        420546653
+        420546653,
+        101729767,
+        85830359,
+        85833305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898589,
-    "wof:geomhash":"ae722a4a7df3328e64f181cd315c3962",
+    "wof:geomhash":"a132b5eb6b3073ed595e2dd669d80bc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +59,30 @@
             "neighbourhood_id":420546653,
             "region_id":85688747,
             "venue_id":723274797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85830359,
+            "region_id":85688747,
+            "venue_id":723274797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85833305,
+            "region_id":85688747,
+            "venue_id":723274797
         }
     ],
     "wof:id":723274797,
-    "wof:lastmodified":1472651838,
+    "wof:lastmodified":1492047502,
     "wof:name":"Maurice A Kelliher",
-    "wof:parent_id":420546653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

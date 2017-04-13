@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.161475,38.924065,-77.161475,38.924065",
     "geom:latitude":38.924065,
     "geom:longitude":-77.161475,
@@ -42,7 +43,8 @@
         85633793,
         101729767,
         102084863,
-        85807829
+        85807829,
+        85810727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461883907,
-    "wof:geomhash":"32c40fd514aef05c1c07cc0a75460313",
+    "wof:geomhash":"b14e876564aa5e50a14eb4014b4cce75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,21 @@
             "neighbourhood_id":85807829,
             "region_id":85688747,
             "venue_id":722545259
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85810727,
+            "region_id":85688747,
+            "venue_id":722545259
         }
     ],
     "wof:id":722545259,
-    "wof:lastmodified":1472651078,
+    "wof:lastmodified":1492070113,
     "wof:name":"Lifestyles Development Inst",
-    "wof:parent_id":85807829,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

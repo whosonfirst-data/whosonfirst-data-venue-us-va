@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.451698,38.961684,-78.451698,38.961684",
     "geom:latitude":38.961684,
     "geom:longitude":-78.451698,
@@ -37,17 +38,30 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3v9SQndPWftlAC4j42p1jB_38.961684_-78.451698@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907622,
-    "wof:geomhash":"703f22df3a7fa8b460cca042e0d993de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c49e953d863d8ae9eebf3f08a9ace59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739454627
+        }
+    ],
     "wof:id":739454627,
-    "wof:lastmodified":1472651586,
+    "wof:lastmodified":1492042508,
     "wof:name":"Country Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

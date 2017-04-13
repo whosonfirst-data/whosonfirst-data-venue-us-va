@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471736,38.459045,-77.471736,38.459045",
     "geom:latitude":38.459045,
     "geom:longitude":-77.471736,
@@ -44,17 +45,26 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10nGXu37HI51qeQcOR3KQX_38.459045_-77.471736@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893040,
-    "wof:geomhash":"9356572f2eac0b07db4fe884881d488e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8731537d3e203aa0ac06e8bf3154a447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":723004895
+        }
+    ],
     "wof:id":723004895,
-    "wof:lastmodified":1472651086,
+    "wof:lastmodified":1492059973,
     "wof:name":"Stafford Stone & Mulch Company",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

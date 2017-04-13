@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.417495,38.891614,-77.417495,38.891614",
     "geom:latitude":38.891614,
     "geom:longitude":-77.417495,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SxJiNgK2QEyYLz2HpJvTE_38.891614_-77.417495@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885225,
-    "wof:geomhash":"265b3c6dacbd66384285c846d949eecd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcb1e969e865da0cf9db65bba049221e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722612823
+        }
+    ],
     "wof:id":722612823,
-    "wof:lastmodified":1472651322,
+    "wof:lastmodified":1492063203,
     "wof:name":"Custom Lighting & Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.829621,37.35445,-78.829621,37.35445",
     "geom:latitude":37.35445,
     "geom:longitude":-78.829621,
@@ -31,17 +32,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728991,
+        102083819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4s3qw82yJDbpLaXSz0ONcv_37.354450_-78.829621@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899934,
-    "wof:geomhash":"1a39519fd5424262fbb7c77a0efa08d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c091ef71d2e275a51f6d31d40b19afd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083819,
+            "locality_id":101728991,
+            "region_id":85688747,
+            "venue_id":723346483
+        }
+    ],
     "wof:id":723346483,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492057816,
     "wof:name":"Southern Trust Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

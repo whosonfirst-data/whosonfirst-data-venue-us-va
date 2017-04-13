@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.069266,37.29081,-80.069266,37.29081",
     "geom:latitude":37.29081,
     "geom:longitude":-80.069266,
@@ -32,17 +33,32 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fXT8q2gxuIyNYfbvljtv4_37.290810_-80.069266@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904620,
-    "wof:geomhash":"e60d3ec1562f30305f2ab6abc46efb86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f708ede021ca9b24f9d9f5b258737a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739302215
+        }
+    ],
     "wof:id":739302215,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492046699,
     "wof:name":"Salem Water Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

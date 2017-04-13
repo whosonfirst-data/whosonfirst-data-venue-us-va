@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.320917,36.817996,-76.320917,36.817996",
     "geom:latitude":36.817996,
     "geom:longitude":-76.320917,
@@ -39,8 +40,8 @@
         85633793,
         101728677,
         102086707,
-        85836925,
-        420548257
+        420548257,
+        85836925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461889031,
-    "wof:geomhash":"c76eb324b2ad15f794a0d62325d9772c",
+    "wof:geomhash":"d83bf9603f2e6a204d170ea0881adee6",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85836925,
-            "region_id":85688747,
-            "venue_id":722807983
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":420548257,
             "region_id":85688747,
             "venue_id":722807983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85836925,
+            "region_id":85688747,
+            "venue_id":722807983
         }
     ],
     "wof:id":722807983,
-    "wof:lastmodified":1472651879,
+    "wof:lastmodified":1492068897,
     "wof:name":"Alternative Behavioral Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

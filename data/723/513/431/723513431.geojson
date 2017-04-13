@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.592407,38.757227,-77.592407,38.757227",
     "geom:latitude":38.757227,
     "geom:longitude":-77.592407,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iDmdzqPmEU7e8WZojqFQL_38.757227_-77.592407@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903290,
-    "wof:geomhash":"cac4261b05beb60f04d524ce7445b502",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df1a0b1498918fa83a334686ebf1135a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":723513431
+        }
+    ],
     "wof:id":723513431,
-    "wof:lastmodified":1472652368,
+    "wof:lastmodified":1492058021,
     "wof:name":"Nova Technical Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

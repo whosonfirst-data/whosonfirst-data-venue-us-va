@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458552,38.765587,-77.458552,38.765587",
     "geom:latitude":38.765587,
     "geom:longitude":-77.458552,
@@ -31,7 +32,13 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aJY9cstdgdw0UoUR0QCkN_38.765587_-77.458552@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904959,
     "wof:geomhash":"c1fc1958f2f60d356b77364be8834b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":739319567
+        }
+    ],
     "wof:id":739319567,
-    "wof:lastmodified":1472651258,
+    "wof:lastmodified":1492031278,
     "wof:name":"Apple Federal Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.009834,36.698803,-82.009834,36.698803",
     "geom:latitude":36.698803,
     "geom:longitude":-82.009834,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UIpytqXh0M2eBlrKxzTy7_36.698803_-82.009834@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902064,
-    "wof:geomhash":"9a8f1462cef28ec6cc4f732cffd502ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b56500a6a1bcdd56ea179fd31b887a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723456629
+        }
+    ],
     "wof:id":723456629,
-    "wof:lastmodified":1472652299,
+    "wof:lastmodified":1492051607,
     "wof:name":"Pioneer Chevrolet-Oldsmobile",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.929182,37.270511,-79.929182,37.270511",
     "geom:latitude":37.270511,
     "geom:longitude":-79.929182,
@@ -31,7 +32,13 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5limpsZf7N5iU6xMftZJUx_37.270511_-79.929182@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907439,
     "wof:geomhash":"0268269510624867f0c0e7d159fd8158",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739444065
+        }
+    ],
     "wof:id":739444065,
-    "wof:lastmodified":1472651554,
+    "wof:lastmodified":1492032003,
     "wof:name":"Ellis Auto Body & Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

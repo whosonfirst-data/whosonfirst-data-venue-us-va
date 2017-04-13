@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.645264,38.041502,-77.645264,38.041502",
     "geom:latitude":38.041502,
     "geom:longitude":-77.645264,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SOI9EbM42eoE83PULwFpL_38.041502_-77.645264@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896536,
-    "wof:geomhash":"6250c7e479f9438e35099ddf1866c698",
-    "wof:hierarchy":[],
+    "wof:geomhash":"436c6b45c9b72983ea805a9bc88728b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723172967
+        }
+    ],
     "wof:id":723172967,
-    "wof:lastmodified":1472651495,
+    "wof:lastmodified":1492048363,
     "wof:name":"Maslock Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

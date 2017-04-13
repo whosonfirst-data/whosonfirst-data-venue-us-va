@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.131699,38.844601,-77.131699,38.844601",
     "geom:latitude":38.844601,
     "geom:longitude":-77.131699,
@@ -28,7 +29,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01gU3nan50dkyR0bgjhRQN_38.844601_-77.131699@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910983,
     "wof:geomhash":"978a574610a29da9957793505df4bc9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739627597
+        }
+    ],
     "wof:id":739627597,
-    "wof:lastmodified":1472652008,
+    "wof:lastmodified":1492032074,
     "wof:name":"Ak Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

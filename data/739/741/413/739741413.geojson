@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.209954,36.909772,-81.209954,36.909772",
     "geom:latitude":36.909772,
     "geom:longitude":-81.209954,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OrpREkK695GosuUUizeeW_36.909772_-81.209954@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913461,
-    "wof:geomhash":"10cf3f7a5628f1123a945591d4a5f41a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07f076a09695ac3419115c5234e39b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739741413
+        }
+    ],
     "wof:id":739741413,
-    "wof:lastmodified":1472652254,
+    "wof:lastmodified":1492044538,
     "wof:name":"Pine Mountain Service Ctr Inc",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

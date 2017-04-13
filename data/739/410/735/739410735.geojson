@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650585,37.724183,-77.650585,37.724183",
     "geom:latitude":37.724183,
     "geom:longitude":-77.650585,
@@ -28,7 +29,12 @@
     "sg:postcode":"23146",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gMrt0OhI4xNOZRa5Mx1nq_37.724183_-77.650585@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906778,
     "wof:geomhash":"577a5c08beafcb441dbc299cdc6d1017",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739410735
+        }
+    ],
     "wof:id":739410735,
-    "wof:lastmodified":1472651494,
+    "wof:lastmodified":1492032278,
     "wof:name":"Telecom Advantages Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

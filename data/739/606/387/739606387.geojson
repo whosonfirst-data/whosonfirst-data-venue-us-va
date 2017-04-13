@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.551089,38.733664,-77.551089,38.733664",
     "geom:latitude":38.733664,
     "geom:longitude":-77.551089,
@@ -33,17 +34,32 @@
     ],
     "sg:website":"www.tonysnewyorkpizza.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TdGRLaM4zyl5qNna7czRK_38.733664_-77.551089@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910533,
-    "wof:geomhash":"856979c94d877f284b16caa81943ec03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d33f7055bd1a818738ce6c544536287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739606387
+        }
+    ],
     "wof:id":739606387,
-    "wof:lastmodified":1472651957,
+    "wof:lastmodified":1492039030,
     "wof:name":"Tony's NY Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

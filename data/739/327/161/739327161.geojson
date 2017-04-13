@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.138894,38.846205,-77.138894,38.846205",
     "geom:latitude":38.846205,
     "geom:longitude":-77.138894,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TvYj08ZjRITjtICRGIXY9_38.846205_-77.138894@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905122,
-    "wof:geomhash":"a21478ffd98ddf17dd09e79c10a855f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ae678461d9fce4f6276432a56bc405d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739327161
+        }
+    ],
     "wof:id":739327161,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492041886,
     "wof:name":"Barcroft View Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

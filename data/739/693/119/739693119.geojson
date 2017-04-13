@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449741,38.308947,-77.449741,38.308947",
     "geom:latitude":38.308947,
     "geom:longitude":-77.449741,
@@ -32,7 +33,10 @@
         "part"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RJ7rYA3BpLyZ7BETJRMLZ_38.308947_-77.449741@1303262546"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912403,
     "wof:geomhash":"135591d9bd31e06ac4bb1f8c9ae61e6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739693119
+        }
+    ],
     "wof:id":739693119,
-    "wof:lastmodified":1472652170,
+    "wof:lastmodified":1492031393,
     "wof:name":"NAPA AUTO PARTS",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

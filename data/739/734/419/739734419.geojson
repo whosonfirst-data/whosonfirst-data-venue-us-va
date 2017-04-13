@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.791517,37.187334,-76.791517,37.187334",
     "geom:latitude":37.187334,
     "geom:longitude":-76.791517,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08k52K0r8PoUpydOrXUFLB_37.187334_-76.791517@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913288,
-    "wof:geomhash":"c887096cfc996f62b8880bd6ecd6eb0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be976d63e99792a100510819b53a15a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739734419
+        }
+    ],
     "wof:id":739734419,
-    "wof:lastmodified":1472652229,
+    "wof:lastmodified":1492043331,
     "wof:name":"Wiggins All Brand Ptac",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

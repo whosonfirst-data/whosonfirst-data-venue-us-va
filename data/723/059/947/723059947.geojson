@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.170503,39.174674,-78.170503,39.174674",
     "geom:latitude":39.174674,
     "geom:longitude":-78.170503,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MNQPV7Me4uz5V7hlGHdfG_39.174674_-78.170503@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894218,
-    "wof:geomhash":"e6b2c1c03e225bf8a8f567168176db05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42c5f948ce073054c560387bd516b236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723059947
+        }
+    ],
     "wof:id":723059947,
-    "wof:lastmodified":1472651241,
+    "wof:lastmodified":1492048399,
     "wof:name":"Places Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

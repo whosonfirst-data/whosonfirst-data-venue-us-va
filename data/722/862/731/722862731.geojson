@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.53789,39.113536,-77.53789,39.113536",
     "geom:latitude":39.113536,
     "geom:longitude":-77.53789,
@@ -32,17 +33,32 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sGeFa1m45J5748xF6czCz_39.113536_-77.537890@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890065,
-    "wof:geomhash":"b31058666a0ae90f362567a6d4db4720",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e70d745471d25c7fe1fe9ea4e718c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722862731
+        }
+    ],
     "wof:id":722862731,
-    "wof:lastmodified":1472652008,
+    "wof:lastmodified":1492066751,
     "wof:name":"World Gym Fitness Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.465532,37.197388,-77.465532,37.197388",
     "geom:latitude":37.197388,
     "geom:longitude":-77.465532,
@@ -31,7 +32,12 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XZ8MV8rasIy6NPwxhpKc2_37.197388_-77.465532@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909135,
     "wof:geomhash":"e04087ad4e8c8ed63e6d622b4a1ea914",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":739538871
+        }
+    ],
     "wof:id":739538871,
-    "wof:lastmodified":1472651834,
+    "wof:lastmodified":1492029872,
     "wof:name":"Hardees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

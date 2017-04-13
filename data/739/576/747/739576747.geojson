@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.705344,39.140572,-77.705344,39.140572",
     "geom:latitude":39.140572,
     "geom:longitude":-77.705344,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MxkLc3dYgeR7POJ4oD8QG_39.140226_-77.705854@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909930,
-    "wof:geomhash":"997e599b2620ec41035952ecdc0618c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d070a239315c325062f63f74ff906a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":739576747
+        }
+    ],
     "wof:id":739576747,
-    "wof:lastmodified":1472651930,
+    "wof:lastmodified":1492043008,
     "wof:name":"Maple Avenue Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

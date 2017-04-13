@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432291,38.835992,-77.432291,38.835992",
     "geom:latitude":38.835992,
     "geom:longitude":-77.432291,
@@ -32,17 +33,32 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nbO73s7ewRBa6bW6k7SLI_38.835992_-77.432291@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884159,
-    "wof:geomhash":"ff2051a70d3e478ab940f114d7504aa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc280cb9793c75a98d2d7eca39740246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":722557531
+        }
+    ],
     "wof:id":722557531,
-    "wof:lastmodified":1472651120,
+    "wof:lastmodified":1492072110,
     "wof:name":"Courtyard University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

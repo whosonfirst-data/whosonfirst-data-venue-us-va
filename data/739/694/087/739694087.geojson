@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.448299,37.912313,-76.448299,37.912313",
     "geom:latitude":37.912313,
     "geom:longitude":-76.448299,
@@ -33,7 +34,12 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eqzKsk6KbLrOgBTEzV9sj_37.912313_-76.448299@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912421,
     "wof:geomhash":"ae524e376d55620a3b66143204a69fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694087
+        }
+    ],
     "wof:id":739694087,
-    "wof:lastmodified":1472652159,
+    "wof:lastmodified":1492030226,
     "wof:name":"Redmonds Plumbing & Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

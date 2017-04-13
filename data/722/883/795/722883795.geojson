@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.984456,36.852022,-75.984456,36.852022",
     "geom:latitude":36.852022,
     "geom:longitude":-75.984456,
@@ -35,7 +36,8 @@
         85633793,
         101728745,
         102081929,
-        85872041
+        85872041,
+        85847613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890464,
-    "wof:geomhash":"ba8c3cd97cc358b34e6dc0fc71182878",
+    "wof:geomhash":"b7720716f076c8a1fd7116870540fa91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,21 @@
             "neighbourhood_id":85872041,
             "region_id":85688747,
             "venue_id":722883795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85847613,
+            "region_id":85688747,
+            "venue_id":722883795
         }
     ],
     "wof:id":722883795,
-    "wof:lastmodified":1472652070,
+    "wof:lastmodified":1492066855,
     "wof:name":"Virginia Beach Middle School",
-    "wof:parent_id":85872041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.415159,37.193444,-77.415159,37.193444",
     "geom:latitude":37.193444,
     "geom:longitude":-77.415159,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_495wZ5006LHby1xomyuWtx_37.193444_-77.415159@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901499,
-    "wof:geomhash":"c44ba879c2654aeecaee83a9a179cc2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30e77bb525d4c2909f2ab10859ca6270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723426103
+        }
+    ],
     "wof:id":723426103,
-    "wof:lastmodified":1472652219,
+    "wof:lastmodified":1492061593,
     "wof:name":"Good Neighbor Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.325406,37.325106,-77.325406,37.325106",
     "geom:latitude":37.325106,
     "geom:longitude":-77.325406,
@@ -27,7 +28,13 @@
         "filtration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729321,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YryfmwVJ6DMEjQN9aN534_37.325106_-77.325406@1294252573"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461909946,
     "wof:geomhash":"1fcb730f96f0ce320e5c04f3dde10747",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729321,
+            "region_id":85688747,
+            "venue_id":739577189
+        }
+    ],
     "wof:id":739577189,
-    "wof:lastmodified":1472651918,
+    "wof:lastmodified":1492033246,
     "wof:name":"Amsoil Direct Jobbers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

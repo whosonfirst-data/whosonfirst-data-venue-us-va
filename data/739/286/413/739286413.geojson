@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401772,37.203441,-77.401772,37.203441",
     "geom:latitude":37.203441,
     "geom:longitude":-77.401772,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.rent.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GBAv0MQSeP1s71p9dwyVP_37.203441_-77.401772@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904284,
     "wof:geomhash":"b2d391423f1b9fbd2e54a45b15e09bf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":739286413
+        }
+    ],
     "wof:id":739286413,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492030111,
     "wof:name":"Tanglewood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.558636,37.121247,-76.558636,37.121247",
     "geom:latitude":37.121247,
     "geom:longitude":-76.558636,
@@ -31,19 +32,36 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        85879247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hRXhnbWi0KHx7uSOEQxaO_37.121247_-76.558636@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903557,
-    "wof:geomhash":"42c43eaec7eef7641cdc36f8cb6a251e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c39782c2d584bb1a26f35ed607855c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879247,
+            "region_id":85688747,
+            "venue_id":739253001
+        }
+    ],
     "wof:id":739253001,
-    "wof:lastmodified":1472651076,
+    "wof:lastmodified":1492038747,
     "wof:name":"Symmetrical Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

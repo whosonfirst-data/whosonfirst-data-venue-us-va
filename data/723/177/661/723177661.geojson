@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.945037,37.255547,-79.945037,37.255547",
     "geom:latitude":37.255547,
     "geom:longitude":-79.945037,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z9KDJiYuzEyvlDkeEd8ah_37.255547_-79.945037@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896641,
-    "wof:geomhash":"7a1de7e45c209897a6af962997e0661b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"469b087d0640e8e48048adc8960968a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723177661
+        }
+    ],
     "wof:id":723177661,
-    "wof:lastmodified":1472651493,
+    "wof:lastmodified":1492053300,
     "wof:name":"Lucent Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

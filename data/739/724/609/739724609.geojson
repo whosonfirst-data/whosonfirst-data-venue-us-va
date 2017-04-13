@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.600343,37.502543,-77.600343,37.502543",
     "geom:latitude":37.502543,
     "geom:longitude":-77.600343,
@@ -44,7 +45,12 @@
     ],
     "sg:website":"http://www.cronecorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uuixsUiwaH3IRH7CNMnsY_37.502543_-77.600343@1303262551"
@@ -52,9 +58,17 @@
     "wof:country":"US",
     "wof:created":1461913085,
     "wof:geomhash":"fbbd00ced5b96d03be396cfe93b66200",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724609
+        }
+    ],
     "wof:id":739724609,
-    "wof:lastmodified":1472652233,
+    "wof:lastmodified":1492030938,
     "wof:name":"Crone Construction Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

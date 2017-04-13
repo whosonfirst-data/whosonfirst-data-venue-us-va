@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901518,36.698331,-78.901518,36.698331",
     "geom:latitude":36.698331,
     "geom:longitude":-78.901518,
@@ -33,17 +34,32 @@
         "dev"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EyWGOh8KmJLnKZTwcNTmC_36.698331_-78.901518@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899284,
-    "wof:geomhash":"24a09f5e07cac364893330a790723af9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23078ad7d75da0a1d166e0ec4d775aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":723310957
+        }
+    ],
     "wof:id":723310957,
-    "wof:lastmodified":1472651853,
+    "wof:lastmodified":1492053041,
     "wof:name":"South Boston Community Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

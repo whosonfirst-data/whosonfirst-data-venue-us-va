@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422826,38.329655,-77.422826,38.329655",
     "geom:latitude":38.329655,
     "geom:longitude":-77.422826,
@@ -32,7 +33,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gfo6klqtcglUt9uSrXcAO_38.329655_-77.422826@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461906589,
     "wof:geomhash":"c4aff170626db145772b13c13e51a36c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":739400411
+        }
+    ],
     "wof:id":739400411,
-    "wof:lastmodified":1472651460,
+    "wof:lastmodified":1492032730,
     "wof:name":"J Fill Fowler Site Co",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

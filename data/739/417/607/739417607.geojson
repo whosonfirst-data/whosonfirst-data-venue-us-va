@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432734,37.20634,-77.432734,37.20634",
     "geom:latitude":37.20634,
     "geom:longitude":-77.432734,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aIqvYPFJqooGphpJH7B5d_37.206340_-77.432734@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906906,
     "wof:geomhash":"c595a4d3d198cfb1131e99a82c7fe249",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":739417607
+        }
+    ],
     "wof:id":739417607,
-    "wof:lastmodified":1472651518,
+    "wof:lastmodified":1492031493,
     "wof:name":"Mitchells Electrical Servicing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

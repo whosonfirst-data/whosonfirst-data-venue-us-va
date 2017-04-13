@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.184854,36.527051,-82.184854,36.527051",
     "geom:latitude":36.527051,
     "geom:longitude":-82.184854,
@@ -28,7 +29,12 @@
     "sg:postcode":"37620",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aXswhNvtBidJigVYWpA8f_36.527051_-82.184854@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907028,
     "wof:geomhash":"a26f97a0a9b0a6cd54920621ad4676d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "region_id":85688701,
+            "venue_id":739423121
+        }
+    ],
     "wof:id":739423121,
-    "wof:lastmodified":1472651504,
+    "wof:lastmodified":1492032143,
     "wof:name":"Patton Crosswhite Post 6975",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

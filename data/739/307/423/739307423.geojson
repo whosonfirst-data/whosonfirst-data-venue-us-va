@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.875052,37.108354,-79.875052,37.108354",
     "geom:latitude":37.108354,
     "geom:longitude":-79.875052,
@@ -38,7 +39,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4840ShTa3UlFOpMzTvhHOK_37.108354_-79.875052@1294252573"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461904725,
     "wof:geomhash":"7eee333e9937fd902b90c89c6ea2c694",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739307423
+        }
+    ],
     "wof:id":739307423,
-    "wof:lastmodified":1472651215,
+    "wof:lastmodified":1492029988,
     "wof:name":"Bailey's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

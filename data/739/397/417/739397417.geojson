@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.576953,37.130243,-80.576953,37.130243",
     "geom:latitude":37.130243,
     "geom:longitude":-80.576953,
@@ -38,6 +39,7 @@
         85633793,
         101728831,
         102081063,
+        85834851,
         85825119
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461906531,
-    "wof:geomhash":"438b5d21b899ee6f54c2dc20ef886d9d",
+    "wof:geomhash":"18c91c65dab79b7e3f7541bcd2dcbeb5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "neighbourhood_id":85834851,
+            "region_id":85688747,
+            "venue_id":739397417
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":739397417,
-    "wof:lastmodified":1472651462,
+    "wof:lastmodified":1492042243,
     "wof:name":"Annie Kays Whole Foods Inc",
-    "wof:parent_id":85825119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

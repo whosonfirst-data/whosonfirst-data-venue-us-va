@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.563848,38.400135,-77.563848,38.400135",
     "geom:latitude":38.400135,
     "geom:longitude":-77.563848,
@@ -34,19 +35,32 @@
     ],
     "sg:website":"www.bridgessenior.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894007,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GRY7Q05y3Ufwh0Vh1FvPH_38.400135_-77.563848@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893828,
-    "wof:geomhash":"ddd763fdf4f2f95c00a4427a4c31b45a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e1d12d16345ec3eb13168cc1e583dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "neighbourhood_id":85894007,
+            "region_id":85688747,
+            "venue_id":723040949
+        }
+    ],
     "wof:id":723040949,
-    "wof:lastmodified":1472651181,
+    "wof:lastmodified":1492049283,
     "wof:name":"Bridges Senior Care Solutions",
-    "wof:parent_id":420547231,
+    "wof:parent_id":85894007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

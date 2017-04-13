@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400583,38.985663,-77.400583,38.985663",
     "geom:latitude":38.985663,
     "geom:longitude":-77.400583,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9642851%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EiBxqtprkef6jIIMxgYJA_38.985663_-77.400583@1303262496"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461910634,
     "wof:geomhash":"ee49d5de0a3e95c169daf70e30d7c20e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739611757
+        }
+    ],
     "wof:id":739611757,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492029464,
     "wof:name":"All Star Limo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

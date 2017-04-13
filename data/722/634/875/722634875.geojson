@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.320478,38.728152,-77.320478,38.728152",
     "geom:latitude":38.728152,
     "geom:longitude":-77.320478,
@@ -32,17 +33,30 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sVgUi32hsrvQY63l9w9N6_38.728152_-77.320478@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885742,
-    "wof:geomhash":"b50cd277c46939696850531cf76646db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34147a4daa5727f2319d8afb880074f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":722634875
+        }
+    ],
     "wof:id":722634875,
-    "wof:lastmodified":1472651432,
+    "wof:lastmodified":1492072895,
     "wof:name":"Northern Virginia Regional",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

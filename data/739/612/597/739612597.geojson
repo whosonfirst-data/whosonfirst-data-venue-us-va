@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.414029,38.979127,-77.414029,38.979127",
     "geom:latitude":38.979127,
     "geom:longitude":-77.414029,
@@ -49,7 +50,13 @@
     ],
     "sg:website":"http://www.stihldealer.net/default-dealer-010002.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729441,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MR61AZVUP2TjTfIakqs3d_38.979127_-77.414029@1303262496"
@@ -57,9 +64,18 @@
     "wof:country":"US",
     "wof:created":1461910651,
     "wof:geomhash":"079ca4af0a822e54cc4edbb5892e62cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729441,
+            "region_id":85688747,
+            "venue_id":739612597
+        }
+    ],
     "wof:id":739612597,
-    "wof:lastmodified":1472651966,
+    "wof:lastmodified":1492030179,
     "wof:name":"Lawn And Leisure Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

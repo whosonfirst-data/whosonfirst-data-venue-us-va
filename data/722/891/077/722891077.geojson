@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.56765,37.995042,-77.56765,37.995042",
     "geom:latitude":37.995042,
     "geom:longitude":-77.56765,
@@ -37,17 +38,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aP34eFQ07eOCLdMZYtf2v_37.995042_-77.567650@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890601,
-    "wof:geomhash":"85803c91964dcff81f54d7ae4bb8cadc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"933bce3e320916a7d914700236ce969f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":722891077
+        }
+    ],
     "wof:id":722891077,
-    "wof:lastmodified":1472652041,
+    "wof:lastmodified":1492064119,
     "wof:name":"Highland Enterprise LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

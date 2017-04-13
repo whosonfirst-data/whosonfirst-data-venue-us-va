@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.772726,37.328251,-76.772726,37.328251",
     "geom:latitude":37.328251,
     "geom:longitude":-76.772726,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wjhbDagHM66QQKQ77d1GG_37.328251_-76.772726@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900430,
-    "wof:geomhash":"c524e77a6648e34e7295f0c83cb5d2e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ff6887fad24409a5785f3c279923877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546769,
+            "venue_id":723372551
+        }
+    ],
     "wof:id":723372551,
-    "wof:lastmodified":1472652098,
+    "wof:lastmodified":1492052285,
     "wof:name":"Wendys",
     "wof:parent_id":420546769,
     "wof:placetype":"venue",

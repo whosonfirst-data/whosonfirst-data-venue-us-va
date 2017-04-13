@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.481793,38.035269,-78.481793,38.035269",
     "geom:latitude":38.035269,
     "geom:longitude":-78.481793,
@@ -37,7 +38,8 @@
         85633793,
         101728535,
         102080639,
-        85876717
+        85876717,
+        85876721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900209,
-    "wof:geomhash":"a560799f6800f242c13b72eae5f90ca1",
+    "wof:geomhash":"15f280fb7863f0cdcaa20558939a62d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85876717,
             "region_id":85688747,
             "venue_id":723361505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080639,
+            "locality_id":101728535,
+            "neighbourhood_id":85876721,
+            "region_id":85688747,
+            "venue_id":723361505
         }
     ],
     "wof:id":723361505,
-    "wof:lastmodified":1472652064,
+    "wof:lastmodified":1492056579,
     "wof:name":"Scarlet Owls",
-    "wof:parent_id":85876717,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

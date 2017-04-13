@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.458884,37.096143,-76.458884,37.096143",
     "geom:latitude":37.096143,
     "geom:longitude":-76.458884,
@@ -39,7 +40,13 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LFvEMxU9pcdZ85Etdaua1_37.096143_-76.458884@1294252573"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461904737,
     "wof:geomhash":"154e2ef65f62882795796cfcde63374f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739308165
+        }
+    ],
     "wof:id":739308165,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492032822,
     "wof:name":"Tidewater Sew & Vac Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

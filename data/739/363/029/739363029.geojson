@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471655,38.899539,-77.471655,38.899539",
     "geom:latitude":38.899539,
     "geom:longitude":-77.471655,
@@ -38,17 +39,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vnp1TAQfMGCUGNpoAebdP_38.899539_-77.471655@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905867,
-    "wof:geomhash":"a8b117cd732f2e981a0415f78d1a8a3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6adda34530946ed984a6ef025eb8834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739363029
+        }
+    ],
     "wof:id":739363029,
-    "wof:lastmodified":1472651325,
+    "wof:lastmodified":1492037644,
     "wof:name":"Brainworks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

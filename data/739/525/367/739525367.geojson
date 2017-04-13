@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.60577,37.467839,-77.60577,37.467839",
     "geom:latitude":37.467839,
     "geom:longitude":-77.60577,
@@ -36,7 +37,12 @@
     ],
     "sg:website":"www.deltacentauri.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DUN811Z5fqhD2USQyhrLl_37.467839_-77.605770@1294252573"
@@ -44,9 +50,17 @@
     "wof:country":"US",
     "wof:created":1461908895,
     "wof:geomhash":"149c68002250370c00f63deafe1436fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739525367
+        }
+    ],
     "wof:id":739525367,
-    "wof:lastmodified":1472651765,
+    "wof:lastmodified":1492032631,
     "wof:name":"Deltacentauri Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

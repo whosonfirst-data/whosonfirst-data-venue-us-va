@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.188266,38.920558,-77.188266,38.920558",
     "geom:latitude":38.920558,
     "geom:longitude":-77.188266,
@@ -40,7 +41,9 @@
         85633793,
         101729783,
         102084863,
-        420546653
+        420546653,
+        101729767,
+        85833305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885386,
-    "wof:geomhash":"96199b78c25d4db90e27dc730bc96ddd",
+    "wof:geomhash":"585f1b813743408ee6d1918e81d8003c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,21 @@
             "neighbourhood_id":420546653,
             "region_id":85688747,
             "venue_id":722619987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85833305,
+            "region_id":85688747,
+            "venue_id":722619987
         }
     ],
     "wof:id":722619987,
-    "wof:lastmodified":1472651420,
+    "wof:lastmodified":1492065365,
     "wof:name":"Mc Lean Swim & Tennis Assn",
-    "wof:parent_id":420546653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

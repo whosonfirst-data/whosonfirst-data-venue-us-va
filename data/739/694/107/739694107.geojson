@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.445824,37.945039,-76.445824,37.945039",
     "geom:latitude":37.945039,
     "geom:longitude":-76.445824,
@@ -49,7 +50,12 @@
     ],
     "sg:website":"http://www.carrier.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BvEIZGosBXhlHau3LWH7E_37.945039_-76.445824@1303262547"
@@ -57,9 +63,17 @@
     "wof:country":"US",
     "wof:created":1461912421,
     "wof:geomhash":"7dcded3f19d6c4e1dc716734d043be3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694107
+        }
+    ],
     "wof:id":739694107,
-    "wof:lastmodified":1472652160,
+    "wof:lastmodified":1492030239,
     "wof:name":"Richard F Haynie Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

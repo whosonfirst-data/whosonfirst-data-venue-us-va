@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.02087,36.678997,-82.02087,36.678997",
     "geom:latitude":36.678997,
     "geom:longitude":-82.02087,
@@ -31,17 +32,26 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xIQetzQMo7GQJORWuT5EO_36.678997_-82.020870@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885840,
-    "wof:geomhash":"3a6131bd1e714014bb5007dc4d8d5ca7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba11b8c4a64f6c27bc7b841899f5a5ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722640099
+        }
+    ],
     "wof:id":722640099,
-    "wof:lastmodified":1472651409,
+    "wof:lastmodified":1492066241,
     "wof:name":"Joe Campbell",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

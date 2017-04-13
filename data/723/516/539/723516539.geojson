@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443462,38.311201,-77.443462,38.311201",
     "geom:latitude":38.311201,
     "geom:longitude":-77.443462,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p7LL1sqiV95oxHuCfV2Rg_38.311201_-77.443462@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903361,
-    "wof:geomhash":"e7934b2a8265e79cc780020bcabc0ef7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"925709a2571ed2fbc01a6aad5c3b0b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723516539
+        }
+    ],
     "wof:id":723516539,
-    "wof:lastmodified":1472652372,
+    "wof:lastmodified":1492057387,
     "wof:name":"Alexcom & Assoc Inc",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

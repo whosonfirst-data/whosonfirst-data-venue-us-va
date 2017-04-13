@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755316,37.236888,-76.755316,37.236888",
     "geom:latitude":37.236888,
     "geom:longitude":-76.755316,
@@ -33,17 +34,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uPy0ta6ubG9MDYfwZcT8v_37.236888_-76.755316@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902633,
-    "wof:geomhash":"5bbbac0633920e4e5a770ecccf9d07e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f458d16c5446ede04007c44defb87a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":723485129
+        }
+    ],
     "wof:id":723485129,
-    "wof:lastmodified":1472652323,
+    "wof:lastmodified":1492048955,
     "wof:name":"Proto Graphics",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

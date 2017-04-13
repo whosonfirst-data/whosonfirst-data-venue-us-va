@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.781196,37.247845,-76.781196,37.247845",
     "geom:latitude":37.247845,
     "geom:longitude":-76.781196,
@@ -31,17 +32,26 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s1A19RkRHvnTRfUdwd0AC_37.247845_-76.781196@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889760,
-    "wof:geomhash":"f9bdc5e03479f51f763b880ebd85f173",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c44c793250db5b693e3ee7ca35ce3312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":722846777
+        }
+    ],
     "wof:id":722846777,
-    "wof:lastmodified":1472651963,
+    "wof:lastmodified":1492062868,
     "wof:name":"Jackson Hewitt Tax Service",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

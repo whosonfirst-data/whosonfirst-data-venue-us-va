@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.76415,37.354558,-76.76415,37.354558",
     "geom:latitude":37.354558,
     "geom:longitude":-76.76415,
@@ -31,17 +32,26 @@
         "lesson"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Cy8sgkLiP9FWOtWuvXsFK_37.354558_-76.764150@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899527,
-    "wof:geomhash":"55af5c3077832cb5f139e779b5e3f9c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba34d07a3d92b751436a09639c0282e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":723324173
+        }
+    ],
     "wof:id":723324173,
-    "wof:lastmodified":1472651876,
+    "wof:lastmodified":1492056040,
     "wof:name":"Musicland",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

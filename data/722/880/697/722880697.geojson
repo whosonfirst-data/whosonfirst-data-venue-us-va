@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.321341,37.343831,-77.321341,37.343831",
     "geom:latitude":37.343831,
     "geom:longitude":-77.321341,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729321,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tUxc8kV9GZ5bcJHZxqN6q_37.343831_-77.321341@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890399,
-    "wof:geomhash":"352feffc8a69cbf1fb4155a544d0a54c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcc8290919e6b63085b679c12b494045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729321,
+            "region_id":85688747,
+            "venue_id":722880697
+        }
+    ],
     "wof:id":722880697,
-    "wof:lastmodified":1472652023,
+    "wof:lastmodified":1492062764,
     "wof:name":"Bermuda Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

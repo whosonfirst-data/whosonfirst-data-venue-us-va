@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.436694,37.027968,-76.436694,37.027968",
     "geom:latitude":37.027968,
     "geom:longitude":-76.436694,
@@ -31,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YVqAJNJ51FzNXx38D7qpX_37.027968_-76.436694@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908892,
     "wof:geomhash":"1ea506e6769db326fb66165e69b66331",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739525209
+        }
+    ],
     "wof:id":739525209,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492032626,
     "wof:name":"Scope Painting Co Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.736034,36.764755,-80.736034,36.764755",
     "geom:latitude":36.764755,
     "geom:longitude":-80.736034,
@@ -31,7 +32,13 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RteclAoH9ZhfGfjOfIv1A_36.764755_-80.736034@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904796,
     "wof:geomhash":"11af23de913eb4cbe40e812e919a60b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":739311135
+        }
+    ],
     "wof:id":739311135,
-    "wof:lastmodified":1472651196,
+    "wof:lastmodified":1492030278,
     "wof:name":"Thomas M Jackson Jr & Assocs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.770067,37.314747,-76.770067,37.314747",
     "geom:latitude":37.314747,
     "geom:longitude":-76.770067,
@@ -33,19 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546847,
+        420546769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KAg7YPQO0laMTU3DZF2dc_37.314747_-76.770067@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908573,
-    "wof:geomhash":"fed5e8560c06912716677b3cffe3f349",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d6cc7bdbc853cc0ad234806095ea754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546847,
+            "venue_id":739507843
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546769,
+            "venue_id":739507843
+        }
+    ],
     "wof:id":739507843,
-    "wof:lastmodified":1472651845,
+    "wof:lastmodified":1492045278,
     "wof:name":"Williamsburg Indoor Sports",
-    "wof:parent_id":420546847,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

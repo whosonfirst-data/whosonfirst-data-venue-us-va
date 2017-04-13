@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524144,37.473517,-77.524144,37.473517",
     "geom:latitude":37.473517,
     "geom:longitude":-77.524144,
@@ -34,17 +35,30 @@
     "sg:province":"VA",
     "sg:website":"http://www.shell.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NW9VvssPwZKbwPrFkFaJI_37.473517_-77.524144@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912922,
-    "wof:geomhash":"827129adaa1a1e1a1f7fa74b86554ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b073808c96bf548344a552e44b8c148a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739716667
+        }
+    ],
     "wof:id":739716667,
-    "wof:lastmodified":1472652213,
+    "wof:lastmodified":1492037711,
     "wof:name":"Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

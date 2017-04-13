@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.783078,37.963603,-76.783078,37.963603",
     "geom:latitude":37.963603,
     "geom:longitude":-76.783078,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728753,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z8JxOcV0uClohsQPeYbVR_37.963603_-76.783078@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883951,
-    "wof:geomhash":"1069a1bc095f587fb4ab4127b5d5d540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5d167f4c80aba17fe64991c40e40ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "locality_id":101728753,
+            "region_id":85688747,
+            "venue_id":722547649
+        }
+    ],
     "wof:id":722547649,
-    "wof:lastmodified":1472651095,
+    "wof:lastmodified":1492062511,
     "wof:name":"Food Lion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.660749,37.456992,-77.660749,37.456992",
     "geom:latitude":37.456992,
     "geom:longitude":-77.660749,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5isdyKLp3vkgzaCbV6l50v_37.456992_-77.660749@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895426,
-    "wof:geomhash":"adf1e90f10203424bdedb5b40f238c26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7946680ff24dd23f53b33835fc63153a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":723115459
+        }
+    ],
     "wof:id":723115459,
-    "wof:lastmodified":1472651359,
+    "wof:lastmodified":1492050311,
     "wof:name":"Venture Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497585,38.255091,-77.497585,38.255091",
     "geom:latitude":38.255091,
     "geom:longitude":-77.497585,
@@ -39,7 +40,12 @@
     ],
     "sg:website":"http://washingtondc.citysearch.com/profile/external/653719700/fredericksburg_va/safford_auto.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ynukl3OkwlSOE6OJ1qTAa_38.255091_-77.497585@1303262547"
@@ -47,9 +53,17 @@
     "wof:country":"US",
     "wof:created":1461912413,
     "wof:geomhash":"bfcfd15c2c9ed623792ff86f4f831e2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693725
+        }
+    ],
     "wof:id":739693725,
-    "wof:lastmodified":1472652190,
+    "wof:lastmodified":1492031393,
     "wof:name":"Safford Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

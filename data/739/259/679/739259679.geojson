@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.551977,39.108765,-77.551977,39.108765",
     "geom:latitude":39.108765,
     "geom:longitude":-77.551977,
@@ -28,7 +29,13 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09zPIG5LXNCjKiIKFx3vCn_39.108765_-77.551977@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903691,
     "wof:geomhash":"4c4aa988276c78256c41fda078eb5b93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739259679
+        }
+    ],
     "wof:id":739259679,
-    "wof:lastmodified":1472651111,
+    "wof:lastmodified":1492032932,
     "wof:name":"Pardoe & Graham Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

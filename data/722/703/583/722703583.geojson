@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.926179,37.282887,-79.926179,37.282887",
     "geom:latitude":37.282887,
     "geom:longitude":-79.926179,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RsQMXY7guyg1QLH9Nx8fm_37.282887_-79.926179@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887035,
-    "wof:geomhash":"1166f6e4845842b8e8bbe0f99b0d0231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb223c8a2f6dfe45d91239b41e358f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722703583
+        }
+    ],
     "wof:id":722703583,
-    "wof:lastmodified":1472651577,
+    "wof:lastmodified":1492066538,
     "wof:name":"David's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.413225,38.336476,-77.413225,38.336476",
     "geom:latitude":38.336476,
     "geom:longitude":-77.413225,
@@ -28,7 +29,10 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D7JnRWMk3DTJq7q62lwjH_38.336476_-77.413225@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904022,
     "wof:geomhash":"a1f468d4bf0e510fc244a3bbe4dd2099",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":739274611
+        }
+    ],
     "wof:id":739274611,
-    "wof:lastmodified":1472651155,
+    "wof:lastmodified":1492029551,
     "wof:name":"Maria Costa & Associates",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

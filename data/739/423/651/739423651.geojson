@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.84004,36.925589,-79.84004,36.925589",
     "geom:latitude":36.925589,
     "geom:longitude":-79.84004,
@@ -28,7 +29,12 @@
     "sg:postcode":"24151",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QYlCv423cKxvRUV9GGrLv_36.925589_-79.840040@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907039,
     "wof:geomhash":"841eb4d34b89650c055b226ce701a43d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739423651
+        }
+    ],
     "wof:id":739423651,
-    "wof:lastmodified":1472651531,
+    "wof:lastmodified":1492032133,
     "wof:name":"Sontag Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

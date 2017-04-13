@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.889901,36.675288,-76.889901,36.675288",
     "geom:latitude":36.675288,
     "geom:longitude":-76.889901,
@@ -32,17 +33,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729141,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30H6huKHdCwbYi7QgcB5DJ_36.675288_-76.889901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905152,
-    "wof:geomhash":"89d6f32cb67f73129a770bcb5f019252",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5de3bbc33a33de98af43e06a2cc59bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729141,
+            "region_id":85688747,
+            "venue_id":739328835
+        }
+    ],
     "wof:id":739328835,
-    "wof:lastmodified":1472651280,
+    "wof:lastmodified":1492040918,
     "wof:name":"Blackwater Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

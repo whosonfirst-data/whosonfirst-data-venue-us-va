@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.005371,36.702367,-82.005371,36.702367",
     "geom:latitude":36.702367,
     "geom:longitude":-82.005371,
@@ -31,17 +32,26 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50FgrEXNdWwwgK6nNthcmp_36.702367_-82.005371@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903496,
-    "wof:geomhash":"86318bdaa0455418afd0de8f7e083517",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e932c51e713d0cc864ea29b53dff4865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739250491
+        }
+    ],
     "wof:id":739250491,
-    "wof:lastmodified":1472651103,
+    "wof:lastmodified":1492039470,
     "wof:name":"SWVA Pyschological Svc Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

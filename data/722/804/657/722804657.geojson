@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548498,37.644999,-77.548498,37.644999",
     "geom:latitude":37.644999,
     "geom:longitude":-77.548498,
@@ -31,17 +32,30 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W9YcyvE7tMvPsZpk27fhB_37.644999_-77.548498@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888969,
-    "wof:geomhash":"57fac2046cb1327df55c30f8d487578f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50a0eebe0367fb901570b2e37d544db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722804657
+        }
+    ],
     "wof:id":722804657,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492074579,
     "wof:name":"Murray Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

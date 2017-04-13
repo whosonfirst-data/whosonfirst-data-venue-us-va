@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.167449,37.483138,-78.167449,37.483138",
     "geom:latitude":37.483138,
     "geom:longitude":-78.167449,
@@ -26,7 +27,12 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FMdqYb4czxqox99h0ClVv_37.483138_-78.167449@1294252573"
@@ -34,9 +40,17 @@
     "wof:country":"US",
     "wof:created":1461909781,
     "wof:geomhash":"ce7a3de4de61f32b0a32b44452e1bbb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "region_id":85688747,
+            "venue_id":739570099
+        }
+    ],
     "wof:id":739570099,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492031741,
     "wof:name":"Jimmy Blackwell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.258121,36.891903,-76.258121,36.891903",
     "geom:latitude":36.891903,
     "geom:longitude":-76.258121,
@@ -38,8 +39,9 @@
         85633793,
         101728769,
         102085935,
+        420560197,
         85879273,
-        420560197
+        85879279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901032,
-    "wof:geomhash":"8bbbe1bdc8e26ae9601290db2381e0c2",
+    "wof:geomhash":"86d2e0edfbf518c4df28ea9e721cc74a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420560197,
+            "region_id":85688747,
+            "venue_id":723403061
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,15 +74,15 @@
             "country_id":85633793,
             "county_id":102085935,
             "locality_id":101728769,
-            "neighbourhood_id":420560197,
+            "neighbourhood_id":85879279,
             "region_id":85688747,
             "venue_id":723403061
         }
     ],
     "wof:id":723403061,
-    "wof:lastmodified":1472652145,
+    "wof:lastmodified":1492053326,
     "wof:name":"Golden Years Retirement Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.629205,37.455724,-77.629205,37.455724",
     "geom:latitude":37.455724,
     "geom:longitude":-77.629205,
@@ -31,17 +32,30 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33rXegiKMmSZhXor3vipnT_37.455724_-77.629205@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891198,
-    "wof:geomhash":"05158c991198aae3c31e6653f0afea75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"197f0dbfa11e4676f9fc44ca35af7341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722920735
+        }
+    ],
     "wof:id":722920735,
-    "wof:lastmodified":1472652136,
+    "wof:lastmodified":1492068099,
     "wof:name":"Medical One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

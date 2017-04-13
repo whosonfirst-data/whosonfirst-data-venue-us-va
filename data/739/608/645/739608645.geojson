@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.425103,38.890008,-77.425103,38.890008",
     "geom:latitude":38.890008,
     "geom:longitude":-77.425103,
@@ -40,17 +41,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IV98HpQr1qIBmWLXDQU2V_38.890008_-77.425103@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910578,
-    "wof:geomhash":"b3d8c3660fe362299378e625e44aedb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2be9574e4368e0d593aed0fec559452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739608645
+        }
+    ],
     "wof:id":739608645,
-    "wof:lastmodified":1472651970,
+    "wof:lastmodified":1492042584,
     "wof:name":"Designer Fitness Consultant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

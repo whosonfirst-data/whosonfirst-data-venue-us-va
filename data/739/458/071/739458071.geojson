@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.331835,37.547193,-77.331835,37.547193",
     "geom:latitude":37.547193,
     "geom:longitude":-77.331835,
@@ -32,7 +33,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iUyDbOl6rmBZSEhptNLRS_37.547193_-77.331835@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907684,
     "wof:geomhash":"d58b967c84ea27b282a3c24812b091cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":739458071
+        }
+    ],
     "wof:id":739458071,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492030032,
     "wof:name":"Garrett Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

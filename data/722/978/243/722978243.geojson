@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.022152,37.001173,-79.022152,37.001173",
     "geom:latitude":37.001173,
     "geom:longitude":-79.022152,
@@ -32,17 +33,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VZxmdhCGqgXSbayUcXkiH_37.001173_-79.022152@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892420,
-    "wof:geomhash":"300cc6519db5adb2c893eb4c38e65949",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a08d21035aefeed9314e89fc075b602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":722978243
+        }
+    ],
     "wof:id":722978243,
-    "wof:lastmodified":1472652325,
+    "wof:lastmodified":1492067676,
     "wof:name":"Business Productivity Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.009303,36.697875,-82.009303,36.697875",
     "geom:latitude":36.697875,
     "geom:longitude":-82.009303,
@@ -32,7 +33,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kNRFCEn0VBHXQ9vdJAYV8_36.697875_-82.009303@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907846,
     "wof:geomhash":"76e3473a56ba4be1187e9c0cba633d4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739467559
+        }
+    ],
     "wof:id":739467559,
-    "wof:lastmodified":1472651621,
+    "wof:lastmodified":1492030528,
     "wof:name":"Minex Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

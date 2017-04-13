@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.32097,37.920833,-78.32097,37.920833",
     "geom:latitude":37.920833,
     "geom:longitude":-78.32097,
@@ -32,17 +33,32 @@
         "cruise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Uyz98zGDL33cYjwtYRSgH_37.920833_-78.320970@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889372,
-    "wof:geomhash":"d7f76f896381171650619e4511d6f111",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63158e5696643b26bd14d2da3e01193f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":722825817
+        }
+    ],
     "wof:id":722825817,
-    "wof:lastmodified":1472651915,
+    "wof:lastmodified":1492070727,
     "wof:name":"Cruises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

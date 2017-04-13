@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.494588,39.05047,-77.494588,39.05047",
     "geom:latitude":39.05047,
     "geom:longitude":-77.494588,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"http://www.steelcloud.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iyWtxopduBdsoCXBx7X64_39.050470_-77.494588@1308186501"
     },
     "wof:country":"US",
     "wof:created":1461913537,
-    "wof:geomhash":"dd4192f70c6982d89bb3a7b3d523dec2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a5fad0348d01e322aa57b9a07e9e5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739745419
+        }
+    ],
     "wof:id":739745419,
-    "wof:lastmodified":1472652263,
+    "wof:lastmodified":1492044068,
     "wof:name":"SteelCloud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

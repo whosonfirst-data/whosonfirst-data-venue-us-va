@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609354,38.136869,-77.609354,38.136869",
     "geom:latitude":38.136869,
     "geom:longitude":-77.609354,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"http://www.spotsylvaniadrivingschool.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3goVWOpPEGn9LChh8NdfrS_38.136869_-77.609354@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912427,
     "wof:geomhash":"bd6e35f42d3eaffaf01e1aca4419cf2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694453
+        }
+    ],
     "wof:id":739694453,
-    "wof:lastmodified":1472652178,
+    "wof:lastmodified":1492030228,
     "wof:name":"Spotsylvania Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

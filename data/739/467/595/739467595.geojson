@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.340015,38.990873,-77.340015,38.990873",
     "geom:latitude":38.990873,
     "geom:longitude":-77.340015,
@@ -32,7 +33,13 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729785,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ptzHLquhjyg8NVaY6RQcD_38.990873_-77.340015@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907846,
     "wof:geomhash":"81c57dde37bbdf80bc9e181be57e417e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "region_id":85688747,
+            "venue_id":739467595
+        }
+    ],
     "wof:id":739467595,
-    "wof:lastmodified":1472651623,
+    "wof:lastmodified":1492030520,
     "wof:name":"Marlinn Ventures LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

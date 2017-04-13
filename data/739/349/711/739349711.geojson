@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497739,37.615802,-77.497739,37.615802",
     "geom:latitude":37.615802,
     "geom:longitude":-77.497739,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HvXmmPEz5CqBc7e6sGHPL_37.615802_-77.497739@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905602,
-    "wof:geomhash":"2db9682120d410566f2a7f56ff12ae8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11427a899df87da3175eaaaad7c7630d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":739349711
+        }
+    ],
     "wof:id":739349711,
-    "wof:lastmodified":1472651306,
+    "wof:lastmodified":1492042726,
     "wof:name":"Johns Electrical and Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

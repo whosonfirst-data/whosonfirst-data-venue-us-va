@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.873302,38.448787,-78.873302,38.448787",
     "geom:latitude":38.448787,
     "geom:longitude":-78.873302,
@@ -33,17 +34,32 @@
         "pollution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fnrk7c3TClfOH3Ai3foOa_38.448787_-78.873302@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896459,
-    "wof:geomhash":"1ea481309d41384ec869be74da69e3ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a848b0d98b621d3f439a18b68182af54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723168965
+        }
+    ],
     "wof:id":723168965,
-    "wof:lastmodified":1472651495,
+    "wof:lastmodified":1492059692,
     "wof:name":"Romac Indoor Air Quality Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.616307,38.778492,-77.616307,38.778492",
     "geom:latitude":38.778492,
     "geom:longitude":-77.616307,
@@ -32,17 +33,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RZgeyjp7ih26WETezak6D_38.778492_-77.616307@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902780,
-    "wof:geomhash":"fd1558693587cf31706f5fa1044ebc8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbe7da4628be2091d0800ff5a90692b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":723492041
+        }
+    ],
     "wof:id":723492041,
-    "wof:lastmodified":1472652327,
+    "wof:lastmodified":1492060968,
     "wof:name":"Vanteck Distribution and Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

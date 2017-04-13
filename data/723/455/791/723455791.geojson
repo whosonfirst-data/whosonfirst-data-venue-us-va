@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763435,37.225928,-76.763435,37.225928",
     "geom:latitude":37.225928,
     "geom:longitude":-76.763435,
@@ -33,17 +34,26 @@
         "bath"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57k0ZQSAqz7EM9KhjrTVO6_37.225928_-76.763435@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902049,
-    "wof:geomhash":"ece9849c7aad1a522be35292aade63f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f52c030e97ed2386b09a477d39be81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546877,
+            "venue_id":723455791
+        }
+    ],
     "wof:id":723455791,
-    "wof:lastmodified":1472652306,
+    "wof:lastmodified":1492051525,
     "wof:name":"Heartspun Collections",
     "wof:parent_id":420546877,
     "wof:placetype":"venue",

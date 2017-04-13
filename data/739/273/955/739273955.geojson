@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.287308,38.745232,-77.287308,38.745232",
     "geom:latitude":38.745232,
     "geom:longitude":-77.287308,
@@ -33,19 +34,36 @@
     "sg:postcode":"22039",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729845,
+        102084863,
+        85842501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tkdZCVXiJVAiEkZuPQqnt_38.745232_-77.287308@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904010,
-    "wof:geomhash":"b417380b33143267e170da29872f9570",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46ae9ff78eb37478d3d32b9ad1568028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729845,
+            "neighbourhood_id":85842501,
+            "region_id":85688747,
+            "venue_id":739273955
+        }
+    ],
     "wof:id":739273955,
-    "wof:lastmodified":1472651167,
+    "wof:lastmodified":1492038455,
     "wof:name":"Steven M Green DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.613337,39.152222,-77.613337,39.152222",
     "geom:latitude":39.152222,
     "geom:longitude":-77.613337,
@@ -32,17 +33,30 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18XhAM8Uz0eEZ0AuPM5P6L_39.152222_-77.613337@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896537,
-    "wof:geomhash":"9fb94c7c41685f611313fc7dc85a6def",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca44c4ebc6add7d19846746af28733ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723173023
+        }
+    ],
     "wof:id":723173023,
-    "wof:lastmodified":1472651448,
+    "wof:lastmodified":1492057091,
     "wof:name":"Custom Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

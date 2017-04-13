@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.414529,38.458109,-77.414529,38.458109",
     "geom:latitude":38.458109,
     "geom:longitude":-77.414529,
@@ -33,17 +34,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Lf5Lg0MKlJ6a9vKBufY7P_38.458109_-77.414529@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908221,
-    "wof:geomhash":"7d9a41d6c2e1ae5b62aac4dc3c748e86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34723df6c7567bb4888cbc9469eca58b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":739488005
+        }
+    ],
     "wof:id":739488005,
-    "wof:lastmodified":1472651661,
+    "wof:lastmodified":1492041049,
     "wof:name":"Southern Fire & Safety Co",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

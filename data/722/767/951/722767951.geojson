@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.644779,38.747493,-78.644779,38.747493",
     "geom:latitude":38.747493,
     "geom:longitude":-78.644779,
@@ -32,17 +33,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728875,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58da1Wwf4kbLXlJ0XSG0bH_38.747493_-78.644779@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888278,
-    "wof:geomhash":"9b714d64656b4d7177129573f7817f34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b32d4d9bb28a73078ebbc0f5e4b1e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728875,
+            "region_id":85688747,
+            "venue_id":722767951
+        }
+    ],
     "wof:id":722767951,
-    "wof:lastmodified":1472651815,
+    "wof:lastmodified":1492067224,
     "wof:name":"Shenandoah Bowling Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

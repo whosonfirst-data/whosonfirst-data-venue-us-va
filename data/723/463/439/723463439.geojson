@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.384268,37.283813,-78.384268,37.283813",
     "geom:latitude":37.283813,
     "geom:longitude":-78.384268,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cE9t4Hf07MK1bRYw00Unl_37.283813_-78.384268@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902198,
-    "wof:geomhash":"b1ff3b59d9d4b29e1520f3a9ae47fc0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6258c3ee1cfddd1e98c7b2bbd479c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723463439
+        }
+    ],
     "wof:id":723463439,
-    "wof:lastmodified":1472652303,
+    "wof:lastmodified":1492056414,
     "wof:name":"Milnwood Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

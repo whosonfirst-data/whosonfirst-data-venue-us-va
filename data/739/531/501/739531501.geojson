@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.638645,39.274028,-77.638645,39.274028",
     "geom:latitude":39.274028,
     "geom:longitude":-77.638645,
@@ -32,17 +33,32 @@
         "parcel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728819,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xYNSbmJbtA4Q5DUjhunxU_39.274028_-77.638645@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909003,
-    "wof:geomhash":"1cde239995a46bc97eef6dcb335de83a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24adebfad333b19d4a65ad202583ec18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728819,
+            "region_id":85688747,
+            "venue_id":739531501
+        }
+    ],
     "wof:id":739531501,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492038358,
     "wof:name":"Total Basket Cases",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

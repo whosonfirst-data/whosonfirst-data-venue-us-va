@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.099149,38.772276,-77.099149,38.772276",
     "geom:latitude":38.772276,
     "geom:longitude":-77.099149,
@@ -38,8 +39,10 @@
         85688747,
         102191575,
         85633793,
-        101729749,
+        101729787,
         102084863,
+        420546691,
+        101729749,
         85823299
     ],
     "wof:breaches":[],
@@ -48,8 +51,17 @@
     },
     "wof:country":"US",
     "wof:created":1461892310,
-    "wof:geomhash":"098757cc6a3b0f711ede85460dd97a60",
+    "wof:geomhash":"19f7fa2075d2900363433a9071fdecc8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729787,
+            "neighbourhood_id":420546691,
+            "region_id":85688747,
+            "venue_id":722972929
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +73,9 @@
         }
     ],
     "wof:id":722972929,
-    "wof:lastmodified":1472652321,
+    "wof:lastmodified":1492069024,
     "wof:name":"Neon Networks",
-    "wof:parent_id":85823299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

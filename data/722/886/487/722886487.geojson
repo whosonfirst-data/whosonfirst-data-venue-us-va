@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.223173,36.819837,-76.223173,36.819837",
     "geom:latitude":36.819837,
     "geom:longitude":-76.223173,
@@ -36,6 +37,9 @@
         85688747,
         102191575,
         85633793,
+        101728745,
+        102081929,
+        85828665,
         101728797,
         102087265,
         85876755
@@ -46,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890512,
-    "wof:geomhash":"882a677291898e7f4c8109f9bf607de1",
+    "wof:geomhash":"b89bdeeacb4fe09cb248a3d4e255b24a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85828665,
+            "region_id":85688747,
+            "venue_id":722886487
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +72,9 @@
         }
     ],
     "wof:id":722886487,
-    "wof:lastmodified":1472652041,
+    "wof:lastmodified":1492073065,
     "wof:name":"Davis Trucking Inc",
-    "wof:parent_id":85876755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

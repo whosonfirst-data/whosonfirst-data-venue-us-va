@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513675,37.503388,-77.513675,37.503388",
     "geom:latitude":37.503388,
     "geom:longitude":-77.513675,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mGPwUMJOdSFedV3cr6H3h_37.503388_-77.513675@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894771,
-    "wof:geomhash":"ad2566cc5b8caae171f413b6e1701976",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33a3541eb7ba45a13c9c08ba57181de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":723082713
+        }
+    ],
     "wof:id":723082713,
-    "wof:lastmodified":1472651305,
+    "wof:lastmodified":1492048409,
     "wof:name":"Global Maintenance Industry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.668656,39.130983,-77.668656,39.130983",
     "geom:latitude":39.130983,
     "geom:longitude":-77.668656,
@@ -33,17 +34,30 @@
         "asset"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47Kc2j28Ta6nFTBK9KXN09_39.130983_-77.668656@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884702,
-    "wof:geomhash":"552ac34acd27e913dbc8951c85284ce5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99cd585b60941cc6caa5c5eae56d11e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722585329
+        }
+    ],
     "wof:id":722585329,
-    "wof:lastmodified":1472651223,
+    "wof:lastmodified":1492074955,
     "wof:name":"Tcmi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

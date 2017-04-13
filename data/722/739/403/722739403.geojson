@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434527,38.311465,-77.434527,38.311465",
     "geom:latitude":38.311465,
     "geom:longitude":-77.434527,
@@ -31,17 +32,26 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nwzhhmnz1rx6zhJHSUIWG_38.311465_-77.434527@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887735,
-    "wof:geomhash":"4941007885150c1e544a483e74765cf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17e4743edebfdf6cfcebe334544a8ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":722739403
+        }
+    ],
     "wof:id":722739403,
-    "wof:lastmodified":1472651670,
+    "wof:lastmodified":1492067334,
     "wof:name":"Pro-Trucks",
     "wof:parent_id":420547245,
     "wof:placetype":"venue",

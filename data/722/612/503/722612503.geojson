@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.797782,37.377273,-76.797782,37.377273",
     "geom:latitude":37.377273,
     "geom:longitude":-76.797782,
@@ -31,17 +32,26 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gNQ6osvq6vaPegWKGPdSn_37.377273_-76.797782@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885215,
-    "wof:geomhash":"98c6efc77dddc827a93802c53f7154e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"824ee921259fb094e6a5a8937f7d4a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":722612503
+        }
+    ],
     "wof:id":722612503,
-    "wof:lastmodified":1472651320,
+    "wof:lastmodified":1492063193,
     "wof:name":"Charlie's Antiques",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

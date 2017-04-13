@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437895,37.407165,-77.437895,37.407165",
     "geom:latitude":37.407165,
     "geom:longitude":-77.437895,
@@ -33,17 +34,32 @@
         "grading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iqJw6rVeELXJ3l3U4xiHz_37.407165_-77.437895@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913107,
-    "wof:geomhash":"ca0a90b7900f1468a99a9dbf342fdef8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fadd8c4c590c2709922979c889f25d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":739725695
+        }
+    ],
     "wof:id":739725695,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492039843,
     "wof:name":"Mold Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

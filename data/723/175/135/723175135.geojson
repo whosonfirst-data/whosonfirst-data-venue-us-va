@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.300175,37.518881,-77.300175,37.518881",
     "geom:latitude":37.518881,
     "geom:longitude":-77.300175,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jduuohWH4E3giPfidaLW9_37.518881_-77.300175@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896582,
-    "wof:geomhash":"4f560a85c89c8bda6c754e9b11d52a6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"496cd03cb947289cec2d91be48a1906d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":723175135
+        }
+    ],
     "wof:id":723175135,
-    "wof:lastmodified":1472651454,
+    "wof:lastmodified":1492055305,
     "wof:name":"John Testerman Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

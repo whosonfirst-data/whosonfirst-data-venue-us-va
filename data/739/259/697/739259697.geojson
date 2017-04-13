@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.296504,36.858875,-76.296504,36.858875",
     "geom:latitude":36.858875,
     "geom:longitude":-76.296504,
@@ -36,7 +37,13 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_483hQpDHqTSwPMZwSxUy0p_36.858875_-76.296504@1294252573"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461903691,
     "wof:geomhash":"35063f7d79321f6ebc285d7e5a80ad8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739259697
+        }
+    ],
     "wof:id":739259697,
-    "wof:lastmodified":1472651116,
+    "wof:lastmodified":1492032944,
     "wof:name":"Lutheran Council of Tidewater",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.902977,38.072006,-78.902977,38.072006",
     "geom:latitude":38.072006,
     "geom:longitude":-78.902977,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69MJSLkFuVJzTlH9nVsF8d_38.072006_-78.902977@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909379,
-    "wof:geomhash":"eaf03f0148e48a6427ab83155bc8404c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"309f904d797b632fa21446809c83473c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739551369
+        }
+    ],
     "wof:id":739551369,
-    "wof:lastmodified":1472651860,
+    "wof:lastmodified":1492046322,
     "wof:name":"Allergist Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

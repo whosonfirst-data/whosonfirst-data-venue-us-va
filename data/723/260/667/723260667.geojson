@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.268964,37.253317,-81.268964,37.253317",
     "geom:latitude":37.253317,
     "geom:longitude":-81.268964,
@@ -31,17 +32,32 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728573,
+        102081049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02uEjCjdNyXWCbOGhojgPB_37.253317_-81.268964@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898316,
-    "wof:geomhash":"f9515167804a59fddba10b69e3f0fc35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e263fd318c3015739bd56f23f215f187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081049,
+            "locality_id":101728573,
+            "region_id":85688747,
+            "venue_id":723260667
+        }
+    ],
     "wof:id":723260667,
-    "wof:lastmodified":1472651761,
+    "wof:lastmodified":1492049122,
     "wof:name":"Bluefield Monument Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

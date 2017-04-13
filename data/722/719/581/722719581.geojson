@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.40427,38.17752,-79.40427,38.17752",
     "geom:latitude":38.17752,
     "geom:longitude":-79.40427,
@@ -31,17 +32,30 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EVDJWUzPOLWyD2rrybl8k_38.177520_-79.404270@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887334,
-    "wof:geomhash":"488352c544807cd64a5b1ed586f6a42a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"016be31904d20d3cf62069b270695963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "region_id":85688747,
+            "venue_id":722719581
+        }
+    ],
     "wof:id":722719581,
-    "wof:lastmodified":1472651595,
+    "wof:lastmodified":1492073461,
     "wof:name":"Stockyard Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

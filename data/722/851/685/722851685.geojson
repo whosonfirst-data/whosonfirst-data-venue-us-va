@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435817,37.440551,-77.435817,37.440551",
     "geom:latitude":37.440551,
     "geom:longitude":-77.435817,
@@ -36,17 +37,32 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UVP9Nl8C5TlJC02Qjthut_37.440551_-77.435817@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889852,
-    "wof:geomhash":"343335e486c4ad077cbed997c22fdbd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46a455301ce73b286ccb2af5ceab9598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":722851685
+        }
+    ],
     "wof:id":722851685,
-    "wof:lastmodified":1472651966,
+    "wof:lastmodified":1492074856,
     "wof:name":"Eastern Aluminum Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

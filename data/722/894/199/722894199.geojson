@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475466,38.444295,-77.475466,38.444295",
     "geom:latitude":38.444295,
     "geom:longitude":-77.475466,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iMCb4saaLMEIqOeS27JvU_38.444295_-77.475466@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890664,
-    "wof:geomhash":"cc5d7f6cf04eae2f2e023ac4f9b7e67d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92c0d83311f4ce489b1767de59e014d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":722894199
+        }
+    ],
     "wof:id":722894199,
-    "wof:lastmodified":1472652065,
+    "wof:lastmodified":1492075153,
     "wof:name":"SEAM Consulting Svc",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

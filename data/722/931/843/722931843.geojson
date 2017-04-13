@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.226723,37.352303,-79.226723,37.352303",
     "geom:latitude":37.352303,
     "geom:longitude":-79.226723,
@@ -31,17 +32,32 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l15bVPmDI2KUgL9CF8cOs_37.352303_-79.226723@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891444,
-    "wof:geomhash":"3021b793e3f87f1ad7bf36d6056859b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bbaaf0a2b9be1baf3d88910100a028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":722931843
+        }
+    ],
     "wof:id":722931843,
-    "wof:lastmodified":1472652199,
+    "wof:lastmodified":1492066276,
     "wof:name":"Kroger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

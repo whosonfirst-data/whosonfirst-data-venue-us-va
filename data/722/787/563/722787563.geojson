@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.064686,37.119633,-77.064686,37.119633",
     "geom:latitude":37.119633,
     "geom:longitude":-77.064686,
@@ -31,17 +32,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GFcp3gqJVJB2P44mswIy9_37.119633_-77.064686@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888650,
-    "wof:geomhash":"5d8f290cce77222e925c3c36f79ccccc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"102e21b9d5059a39a210f3ea0c322158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722787563
+        }
+    ],
     "wof:id":722787563,
-    "wof:lastmodified":1472651790,
+    "wof:lastmodified":1492064173,
     "wof:name":"Murphy-Brown",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

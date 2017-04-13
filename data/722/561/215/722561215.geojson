@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.198693,36.580019,-77.198693,36.580019",
     "geom:latitude":36.580019,
     "geom:longitude":-77.198693,
@@ -31,17 +32,32 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728857,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aGewyyPfWmOM5PYAN6AQ4_36.580019_-77.198693@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884234,
-    "wof:geomhash":"f0b4750c7ef1026c376853e54349196d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc523c6e9f2f85649b87fe47f078a68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728857,
+            "region_id":85688747,
+            "venue_id":722561215
+        }
+    ],
     "wof:id":722561215,
-    "wof:lastmodified":1472651104,
+    "wof:lastmodified":1492073584,
     "wof:name":"Sykes Hatchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.2318,36.763247,-76.2318,36.763247",
     "geom:latitude":36.763247,
     "geom:longitude":-76.2318,
@@ -37,17 +38,32 @@
     ],
     "sg:website":"http://www.mhsva.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z0xze8uP2wwSpRvCdalKq_36.763119_-76.232090@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909638,
-    "wof:geomhash":"e8a6ae6b947d766225ea32267643986f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dc4382b078722ee0a80970b1800aebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739563639
+        }
+    ],
     "wof:id":739563639,
-    "wof:lastmodified":1472651898,
+    "wof:lastmodified":1492043744,
     "wof:name":"Material Handling Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

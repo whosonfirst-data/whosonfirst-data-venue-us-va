@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.445017,37.079147,-78.445017,37.079147",
     "geom:latitude":37.079147,
     "geom:longitude":-78.445017,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P8kZWbL6WvFvIPRxXItDG_37.079147_-78.445017@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895445,
-    "wof:geomhash":"748abbc675feb50d01be994448e21d88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bb5f495c35111062089582ad49dcff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "region_id":85688747,
+            "venue_id":723116399
+        }
+    ],
     "wof:id":723116399,
-    "wof:lastmodified":1472651344,
+    "wof:lastmodified":1492056978,
     "wof:name":"Rhema",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

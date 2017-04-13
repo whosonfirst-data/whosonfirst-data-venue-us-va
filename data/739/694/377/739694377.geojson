@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.274351,37.844689,-76.274351,37.844689",
     "geom:latitude":37.844689,
     "geom:longitude":-76.274351,
@@ -37,7 +38,12 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QrDnECq8NGEdkLr5zS0cL_37.844689_-76.274351@1303262547"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461912425,
     "wof:geomhash":"f13c18e733aa77b89b94a6fba0d8cd2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694377
+        }
+    ],
     "wof:id":739694377,
-    "wof:lastmodified":1472652174,
+    "wof:lastmodified":1492030230,
     "wof:name":"Azalea Grove Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

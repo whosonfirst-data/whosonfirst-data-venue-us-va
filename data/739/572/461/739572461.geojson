@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449553,38.313531,-77.449553,38.313531",
     "geom:latitude":38.313531,
     "geom:longitude":-77.449553,
@@ -25,17 +26,26 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62Yjiza0A6GN9FARhIsKmi_38.313531_-77.449553@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909845,
-    "wof:geomhash":"c040a74c1aaca15aced4104bad4edf3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71650016ce4ef00ff8966213a39e8105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739572461
+        }
+    ],
     "wof:id":739572461,
-    "wof:lastmodified":1472651896,
+    "wof:lastmodified":1492040119,
     "wof:name":"Virginia Propane 2207",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

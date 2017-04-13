@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.463058,38.218762,-77.463058,38.218762",
     "geom:latitude":38.218762,
     "geom:longitude":-77.463058,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12GnoziEfphTfJZvz0HXco_38.218762_-77.463058@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894195,
-    "wof:geomhash":"9386d76860a960afcb5cd448e1a5bdb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"977bcd0725b27a32be251636a863d12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723058931
+        }
+    ],
     "wof:id":723058931,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492058608,
     "wof:name":"Washington Knm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

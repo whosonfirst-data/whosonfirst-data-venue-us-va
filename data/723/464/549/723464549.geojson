@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369151,39.034485,-77.369151,39.034485",
     "geom:latitude":39.034485,
     "geom:longitude":-77.369151,
@@ -31,17 +32,32 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26L3icgNbM7Pb9ESdCAHlq_39.034485_-77.369151@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902218,
-    "wof:geomhash":"e1afff0d2782d46dffbaa8d71007beec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b18b2e564c5a32468ddcb235fbf72779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723464549
+        }
+    ],
     "wof:id":723464549,
-    "wof:lastmodified":1472652308,
+    "wof:lastmodified":1492058129,
     "wof:name":"Destinations Bus Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

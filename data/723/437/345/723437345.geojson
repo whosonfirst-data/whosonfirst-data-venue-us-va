@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.165832,39.18413,-78.165832,39.18413",
     "geom:latitude":39.18413,
     "geom:longitude":-78.165832,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ncYvkHSoEU8g1VYEpv5IV_39.184130_-78.165832@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901699,
-    "wof:geomhash":"85eb59ae252c97729eba6557f23d2faf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7db86bff1b1cd1fbf8d401c96bf7256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723437345
+        }
+    ],
     "wof:id":723437345,
-    "wof:lastmodified":1472652233,
+    "wof:lastmodified":1492058979,
     "wof:name":"Unimin Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380771,37.601384,-77.380771,37.601384",
     "geom:latitude":37.601384,
     "geom:longitude":-77.380771,
@@ -37,17 +38,32 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VG6IhTUo18lHj8Ze5KahK_37.601384_-77.380771@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912779,
-    "wof:geomhash":"d409950a8adf389cbeffb3789cc64e3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a8bf16b061116b956106af25f6bcf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739709839
+        }
+    ],
     "wof:id":739709839,
-    "wof:lastmodified":1472652203,
+    "wof:lastmodified":1492047055,
     "wof:name":"River City Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

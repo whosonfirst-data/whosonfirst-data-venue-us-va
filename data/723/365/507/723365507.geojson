@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441401,38.840375,-77.441401,38.840375",
     "geom:latitude":38.840375,
     "geom:longitude":-77.441401,
@@ -40,17 +41,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hXTxHfhJfl8aaT0xUUse8_38.840375_-77.441401@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900295,
-    "wof:geomhash":"317db11472dcfdf76410ec2428694937",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e526a885329707d48fcae227a13eddc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723365507
+        }
+    ],
     "wof:id":723365507,
-    "wof:lastmodified":1472652059,
+    "wof:lastmodified":1492054919,
     "wof:name":"Life Time Fitness Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

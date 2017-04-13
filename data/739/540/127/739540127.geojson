@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.939683,37.635529,-78.939683,37.635529",
     "geom:latitude":37.635529,
     "geom:longitude":-78.939683,
@@ -28,7 +29,12 @@
     "sg:postcode":"24521",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IPPM0IecjemBs0Lk7SXxQ_37.635529_-78.939683@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909155,
     "wof:geomhash":"8a465a7c2fac8afd2e4eeae94f24dd79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739540127
+        }
+    ],
     "wof:id":739540127,
-    "wof:lastmodified":1472651747,
+    "wof:lastmodified":1492032608,
     "wof:name":"Bliss Variety Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

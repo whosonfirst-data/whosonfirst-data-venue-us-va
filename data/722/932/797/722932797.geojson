@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.37419,37.934998,-75.37419,37.934998",
     "geom:latitude":37.934998,
     "geom:longitude":-75.37419,
@@ -35,9 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729549,
+        101728921,
         102081415,
-        85806167
+        85806167,
+        85813917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +47,31 @@
     },
     "wof:country":"US",
     "wof:created":1461891468,
-    "wof:geomhash":"1d45f0b5f9304f2ec8147d453129491a",
+    "wof:geomhash":"2ca1f16684b50c33123285d45a984c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081415,
-            "locality_id":101729549,
+            "locality_id":101728921,
             "neighbourhood_id":85806167,
+            "region_id":85688747,
+            "venue_id":722932797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081415,
+            "locality_id":101728921,
+            "neighbourhood_id":85813917,
             "region_id":85688747,
             "venue_id":722932797
         }
     ],
     "wof:id":722932797,
-    "wof:lastmodified":1472652197,
+    "wof:lastmodified":1492069506,
     "wof:name":"Lighthouse Motel",
-    "wof:parent_id":85806167,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

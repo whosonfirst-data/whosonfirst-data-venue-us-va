@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701546,37.355621,-76.701546,37.355621",
     "geom:latitude":37.355621,
     "geom:longitude":-76.701546,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547343
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gwK29uGgLVhOWuBixT25x_37.355621_-76.701546@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899320,
-    "wof:geomhash":"9880010829e27f12e69f3cf75c1ad93d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9a5b742ce3f0fa6e692b6abb1274017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547343,
+            "venue_id":723313031
+        }
+    ],
     "wof:id":723313031,
-    "wof:lastmodified":1472651728,
+    "wof:lastmodified":1492057299,
     "wof:name":"Mitchell Software Services",
     "wof:parent_id":420547343,
     "wof:placetype":"venue",

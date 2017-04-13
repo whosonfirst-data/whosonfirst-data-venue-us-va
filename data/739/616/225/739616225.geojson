@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.55648,39.167137,-77.55648,39.167137",
     "geom:latitude":39.167137,
     "geom:longitude":-77.55648,
@@ -28,7 +29,12 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pxVy5CIByXSR40QZconNo_39.167137_-77.556480@1303262497"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910740,
     "wof:geomhash":"a4e41a41ece23c2741bf935f0c4128a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616225
+        }
+    ],
     "wof:id":739616225,
-    "wof:lastmodified":1472651986,
+    "wof:lastmodified":1492029636,
     "wof:name":"Outsourced Sales Team",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

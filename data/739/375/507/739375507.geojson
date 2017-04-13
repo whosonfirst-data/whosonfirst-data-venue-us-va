@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548692,36.670524,-77.548692,36.670524",
     "geom:latitude":36.670524,
     "geom:longitude":-77.548692,
@@ -32,7 +33,12 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AQnFwueMR1NFTCZ1T9Obf_36.670524_-77.548692@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906107,
     "wof:geomhash":"09ada5a497d55e2e685f192dbf029862",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":739375507
+        }
+    ],
     "wof:id":739375507,
-    "wof:lastmodified":1472651354,
+    "wof:lastmodified":1492030855,
     "wof:name":"Falling Run Treatment Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

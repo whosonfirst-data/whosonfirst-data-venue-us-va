@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358236,37.168589,-77.358236,37.168589",
     "geom:latitude":37.168589,
     "geom:longitude":-77.358236,
@@ -31,17 +32,30 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gUEhv5pSuGxalda3FZM6F_37.168589_-77.358236@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895904,
-    "wof:geomhash":"8a4096153f320530f413e29be6a5db26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7538428f19a5855a7188bae2e235a299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":723140175
+        }
+    ],
     "wof:id":723140175,
-    "wof:lastmodified":1472651386,
+    "wof:lastmodified":1492058059,
     "wof:name":"Taylor's Farmers Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

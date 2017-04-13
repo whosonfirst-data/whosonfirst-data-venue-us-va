@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.980049,36.708296,-81.980049,36.708296",
     "geom:latitude":36.708296,
     "geom:longitude":-81.980049,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TKfZNcVttivTIi3GhdDp6_36.708296_-81.980049@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461907732,
     "wof:geomhash":"f078ffc25d8619123ed29f1a4b20fc40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739460955
+        }
+    ],
     "wof:id":739460955,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492031238,
     "wof:name":"Starving Artist Cafe",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

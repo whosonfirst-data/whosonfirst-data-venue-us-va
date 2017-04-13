@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.573472,38.399537,-77.573472,38.399537",
     "geom:latitude":38.399537,
     "geom:longitude":-77.573472,
@@ -31,19 +32,28 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27E1Apb0gtAXQdj1ywYtVJ_38.399537_-77.573472@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894264,
-    "wof:geomhash":"ff9f2f4317a48522ebf4b574e2dd16be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed5fdc4e1309b480763b6a13a6c9d70f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546629,
+            "venue_id":723062185
+        }
+    ],
     "wof:id":723062185,
-    "wof:lastmodified":1472651210,
+    "wof:lastmodified":1492059707,
     "wof:name":"Flying H Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

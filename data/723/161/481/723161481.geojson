@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526583,37.160354,-76.526583,37.160354",
     "geom:latitude":37.160354,
     "geom:longitude":-76.526583,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uR5yP5sp0S49yZAh9ZzuL_37.160354_-76.526583@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896314,
-    "wof:geomhash":"06aeff54db98e5536f2d7fad83ec9c19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df54356ab9c7e7cbb15ed91129a7899e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723161481
+        }
+    ],
     "wof:id":723161481,
-    "wof:lastmodified":1472651446,
+    "wof:lastmodified":1492054296,
     "wof:name":"Dorseys Painting Contract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

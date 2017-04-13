@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.058071,36.678717,-82.058071,36.678717",
     "geom:latitude":36.678717,
     "geom:longitude":-82.058071,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Tgkz2wOdJ22L4jjhMBrPo_36.678717_-82.058071@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461909313,
     "wof:geomhash":"63022ab92cd87edd939b19a52f029c3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739547587
+        }
+    ],
     "wof:id":739547587,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492029498,
     "wof:name":"Sprys Quality Gifts",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

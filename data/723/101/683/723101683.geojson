@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.070933,38.737109,-77.070933,38.737109",
     "geom:latitude":38.737109,
     "geom:longitude":-77.070933,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729753,
+        101729741,
         102084863,
+        85893977,
+        101729753,
         420546657
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461895155,
-    "wof:geomhash":"15a1146b6ebfcf4a2227fb3402796f8f",
+    "wof:geomhash":"83baefe534e1b641b64758ed70ee9f1f",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729741,
+            "neighbourhood_id":85893977,
+            "region_id":85688747,
+            "venue_id":723101683
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":723101683,
-    "wof:lastmodified":1472651322,
+    "wof:lastmodified":1492048808,
     "wof:name":"Tulloch Music Ltd",
-    "wof:parent_id":420546657,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

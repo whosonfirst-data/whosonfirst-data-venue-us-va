@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.780822,36.72915,-78.780822,36.72915",
     "geom:latitude":36.72915,
     "geom:longitude":-78.780822,
@@ -32,17 +33,30 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mm87APXQcM2sR4mVg9da1_36.729150_-78.780822@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889186,
-    "wof:geomhash":"f5cb307ab6fc1f01f9c09c80b82d28d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3e174f87cf373f9f6d78cf931cb5b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":722816489
+        }
+    ],
     "wof:id":722816489,
-    "wof:lastmodified":1472651887,
+    "wof:lastmodified":1492075195,
     "wof:name":"Halifax County Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

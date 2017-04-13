@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.723955,38.154876,-77.723955,38.154876",
     "geom:latitude":38.154876,
     "geom:longitude":-77.723955,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HlGfzu8MTCS3ErjbHtFTO_38.154876_-77.723955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901946,
-    "wof:geomhash":"8765909fecd884dc07472b73352523a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e145a279b50718514d17a5d19b1c2d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723450163
+        }
+    ],
     "wof:id":723450163,
-    "wof:lastmodified":1472652283,
+    "wof:lastmodified":1492053676,
     "wof:name":"Mitchell Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

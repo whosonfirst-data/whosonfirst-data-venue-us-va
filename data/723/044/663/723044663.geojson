@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.367698,38.494625,-77.367698,38.494625",
     "geom:latitude":38.494625,
     "geom:longitude":-77.367698,
@@ -32,17 +33,26 @@
         "closed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Di9M1FJa2s4Z4nNGQxk96_38.494625_-77.367698@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893908,
-    "wof:geomhash":"79dc94980f807d017d871cb1f5737da0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0068fa769c29083bd494a2e16a78efc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":723044663
+        }
+    ],
     "wof:id":723044663,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492056199,
     "wof:name":"Gs Services LLC",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

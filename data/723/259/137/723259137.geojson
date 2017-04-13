@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.792302,37.473045,-79.792302,37.473045",
     "geom:latitude":37.473045,
     "geom:longitude":-79.792302,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Qb9DlsrSdhdB9yDyz3agD_37.473045_-79.792302@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898291,
-    "wof:geomhash":"08c7b8d86508084e8d3ec91495730db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4be64cc1bf76ef099f5188bb36ddbde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":723259137
+        }
+    ],
     "wof:id":723259137,
-    "wof:lastmodified":1472651675,
+    "wof:lastmodified":1492051486,
     "wof:name":"Mill Creek Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

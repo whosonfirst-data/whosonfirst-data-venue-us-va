@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.151364,38.763821,-77.151364,38.763821",
     "geom:latitude":38.763821,
     "geom:longitude":-77.151364,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729841,
+        101729743,
         102084863,
+        85850737,
+        101729841,
         420546703
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461905270,
-    "wof:geomhash":"e2af25127e1feda01116b777cbffe38f",
+    "wof:geomhash":"0bbeccb5f81379922db07cde6081ede2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729743,
+            "neighbourhood_id":85850737,
+            "region_id":85688747,
+            "venue_id":739334867
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":739334867,
-    "wof:lastmodified":1472651304,
+    "wof:lastmodified":1492042626,
     "wof:name":"Book Rack",
-    "wof:parent_id":420546703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

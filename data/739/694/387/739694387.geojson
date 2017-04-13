@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.286134,37.843049,-76.286134,37.843049",
     "geom:latitude":37.843049,
     "geom:longitude":-76.286134,
@@ -28,7 +29,12 @@
     "sg:postcode":"22539",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_141WUpKbziIiBqhbDFj31v_37.843049_-76.286134@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912426,
     "wof:geomhash":"ba824f65fc104b2a1b8131cb4d732384",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694387
+        }
+    ],
     "wof:id":739694387,
-    "wof:lastmodified":1472652169,
+    "wof:lastmodified":1492030235,
     "wof:name":"Laura Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

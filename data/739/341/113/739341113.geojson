@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130888,36.724564,-78.130888,36.724564",
     "geom:latitude":36.724564,
     "geom:longitude":-78.130888,
@@ -31,7 +32,13 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FIxpOSg1HuAbz5iI57OQI_36.724564_-78.130888@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905401,
     "wof:geomhash":"1831c01ce46de5646a7800d432ef345c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739341113
+        }
+    ],
     "wof:id":739341113,
-    "wof:lastmodified":1472651267,
+    "wof:lastmodified":1492032552,
     "wof:name":"Michael W Corwin CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

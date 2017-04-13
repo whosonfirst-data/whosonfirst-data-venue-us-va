@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.55129,38.511552,-77.55129,38.511552",
     "geom:latitude":38.511552,
     "geom:longitude":-77.55129,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547137
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x7L0TbtbJYNzKNROVMF3c_38.511552_-77.551290@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912440,
-    "wof:geomhash":"7cd47c8909a15f3cedfeba9a352ded02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc10b2399446280b95dd4c7f84eb6130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547137,
+            "venue_id":739695053
+        }
+    ],
     "wof:id":739695053,
-    "wof:lastmodified":1472652152,
+    "wof:lastmodified":1492045369,
     "wof:name":"Beyond Delivery",
     "wof:parent_id":420547137,
     "wof:placetype":"venue",

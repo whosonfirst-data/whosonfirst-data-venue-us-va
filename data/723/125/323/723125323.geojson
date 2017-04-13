@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.875861,37.15087,-76.875861,37.15087",
     "geom:latitude":37.15087,
     "geom:longitude":-76.875861,
@@ -35,17 +36,26 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eh8fO3XWiqDbF5dWpDVkY_37.150870_-76.875861@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895609,
-    "wof:geomhash":"4220369e8964803db151bdaa0cd34f4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a33f3bce69b024503ec941c386ba278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723125323
+        }
+    ],
     "wof:id":723125323,
-    "wof:lastmodified":1472651379,
+    "wof:lastmodified":1492060639,
     "wof:name":"William Gilchrist",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

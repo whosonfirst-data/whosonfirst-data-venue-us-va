@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.594908,37.500019,-77.594908,37.500019",
     "geom:latitude":37.500019,
     "geom:longitude":-77.594908,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"http://www.odfc.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6meHLPJOSCP4uriRwi6Lab_37.500019_-77.594908@1303262551"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461913085,
     "wof:geomhash":"957446b273cb414fee471120d9538410",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724619
+        }
+    ],
     "wof:id":739724619,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492030936,
     "wof:name":"Old Dominion Floor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

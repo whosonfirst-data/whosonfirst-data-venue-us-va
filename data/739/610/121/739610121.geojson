@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.624379,38.792769,-77.624379,38.792769",
     "geom:latitude":38.792769,
     "geom:longitude":-77.624379,
@@ -42,17 +43,32 @@
     ],
     "sg:website":"www.wawa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ts59q9QTyPWqPT8ikL1I0_38.792769_-77.624379@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910604,
-    "wof:geomhash":"16218427a856b276510effa3244be9f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ec6c68f938227d1198c58dde2124dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739610121
+        }
+    ],
     "wof:id":739610121,
-    "wof:lastmodified":1472651943,
+    "wof:lastmodified":1492043822,
     "wof:name":"Wawa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

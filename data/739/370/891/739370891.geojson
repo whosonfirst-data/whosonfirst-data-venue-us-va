@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.00972,36.829689,-77.00972,36.829689",
     "geom:latitude":36.829689,
     "geom:longitude":-77.00972,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xZRExmiMDOVFrssUrPSaw_36.829689_-77.009720@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906012,
     "wof:geomhash":"703636df6915f2a00a1ec69a8ceda40d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":739370891
+        }
+    ],
     "wof:id":739370891,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492030997,
     "wof:name":"Lewis E & Delores B Parker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

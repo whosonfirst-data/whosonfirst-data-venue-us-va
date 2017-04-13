@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.234725,36.76747,-76.234725,36.76747",
     "geom:latitude":36.76747,
     "geom:longitude":-76.234725,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AiuSgIjQZSLuYhtk00kto_36.767470_-76.234725@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903032,
-    "wof:geomhash":"740238a4a9d8254d5248f41038382910",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0691806f3a32fb78d97d0a9290df062e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":723503515
+        }
+    ],
     "wof:id":723503515,
-    "wof:lastmodified":1472652352,
+    "wof:lastmodified":1492050866,
     "wof:name":"Children's Diagnostic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

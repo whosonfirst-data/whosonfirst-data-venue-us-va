@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.943185,37.290144,-79.943185,37.290144",
     "geom:latitude":37.290144,
     "geom:longitude":-79.943185,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PB2SuP6yCxcQpi8KvMbSb_37.290144_-79.943185@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888327,
-    "wof:geomhash":"2aa4912a1338db23f9ba2b42ee552730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ffd643a8c14c6cb1b74db2671b90403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722770853
+        }
+    ],
     "wof:id":722770853,
-    "wof:lastmodified":1472651845,
+    "wof:lastmodified":1492065328,
     "wof:name":"Afton Garden Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

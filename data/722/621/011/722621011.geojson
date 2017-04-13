@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.576143,37.664963,-77.576143,37.664963",
     "geom:latitude":37.664963,
     "geom:longitude":-77.576143,
@@ -32,17 +33,32 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51ScyFw1H8D23DiqbWFP10_37.664963_-77.576143@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885410,
-    "wof:geomhash":"1c0d6c73c8662c37067dcfe09a860358",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eafa7cf26c53860712b3333a402c93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":722621011
+        }
+    ],
     "wof:id":722621011,
-    "wof:lastmodified":1472651381,
+    "wof:lastmodified":1492072194,
     "wof:name":"Eric Cantor Congressman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.550597,36.566315,-80.550597,36.566315",
     "geom:latitude":36.566315,
     "geom:longitude":-80.550597,
@@ -31,17 +32,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RLNbiXGiD8EMep6Lt3D0P_36.566315_-80.550597@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908921,
-    "wof:geomhash":"bb7362cacb90ce609b540471a131c035",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a29d52ce40d594d0fb02199f3c0ffb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":739526973
+        }
+    ],
     "wof:id":739526973,
-    "wof:lastmodified":1472651844,
+    "wof:lastmodified":1492043865,
     "wof:name":"Country Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

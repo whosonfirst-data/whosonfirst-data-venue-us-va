@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445677,38.769402,-77.445677,38.769402",
     "geom:latitude":38.769402,
     "geom:longitude":-77.445677,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ixi7jSSIdcp1GcBJrM0AJ_38.769402_-77.445677@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887172,
-    "wof:geomhash":"6252ac5c1082e6ad802355dc9bb4587f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1f6857d403e9c11e1fefa99b94f4361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":722711075
+        }
+    ],
     "wof:id":722711075,
-    "wof:lastmodified":1472651554,
+    "wof:lastmodified":1492073795,
     "wof:name":"Haas Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

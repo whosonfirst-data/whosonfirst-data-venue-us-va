@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.46055,37.83232,-78.46055,37.83232",
     "geom:latitude":37.83232,
     "geom:longitude":-78.46055,
@@ -33,17 +34,30 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nGQNojryro8awRy39NFZB_37.832320_-78.460550@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903751,
-    "wof:geomhash":"66d67900054ab5c1de03e6cadbc03205",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80fd35b8d192314e45809c4974314b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739262177
+        }
+    ],
     "wof:id":739262177,
-    "wof:lastmodified":1472651100,
+    "wof:lastmodified":1492045933,
     "wof:name":"National Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

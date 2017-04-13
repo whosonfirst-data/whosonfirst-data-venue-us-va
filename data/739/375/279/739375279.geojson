@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.12827,37.771576,-77.12827,37.771576",
     "geom:latitude":37.771576,
     "geom:longitude":-77.12827,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hUeODELwO0xuHoXaO5gN7_37.771576_-77.128270@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906103,
     "wof:geomhash":"4edfbe52a7f25084f03d32f78cb22a94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739375279
+        }
+    ],
     "wof:id":739375279,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492030848,
     "wof:name":"Best Painting Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

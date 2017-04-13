@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529809,37.516277,-77.529809,37.516277",
     "geom:latitude":37.516277,
     "geom:longitude":-77.529809,
@@ -35,17 +36,32 @@
         "surgery-general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CbCquR9KIfIHFiluDGtKY_37.516277_-77.529809@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912957,
-    "wof:geomhash":"1311065ba68c824a17559c27af56da7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c77febc26b8457a1336e216fb4e662d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739718285
+        }
+    ],
     "wof:id":739718285,
-    "wof:lastmodified":1472652210,
+    "wof:lastmodified":1492045374,
     "wof:name":"Medical College of Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.544172,38.75188,-77.544172,38.75188",
     "geom:latitude":38.75188,
     "geom:longitude":-77.544172,
@@ -32,7 +33,12 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44JS1h9JXCmgUtX2IvZ1vv_38.751880_-77.544172@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907602,
     "wof:geomhash":"070a7f0ea612ef4e1c3828dbe6bca2d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739453467
+        }
+    ],
     "wof:id":739453467,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492030407,
     "wof:name":"Equipment Specialists Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

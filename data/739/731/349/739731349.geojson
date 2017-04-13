@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.282943,36.835399,-76.282943,36.835399",
     "geom:latitude":36.835399,
     "geom:longitude":-76.282943,
@@ -37,7 +38,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lTwQD37xu9T22P7kYG8oX_36.835399_-76.282943@1303262551"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461913218,
     "wof:geomhash":"6dcde27255dfcc0a34a46dde720aea95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739731349
+        }
+    ],
     "wof:id":739731349,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492031034,
     "wof:name":"Unique Master Cleaning Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

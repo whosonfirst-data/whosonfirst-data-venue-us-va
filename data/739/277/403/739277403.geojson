@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.000767,36.639687,-82.000767,36.639687",
     "geom:latitude":36.639687,
     "geom:longitude":-82.000767,
@@ -32,17 +33,26 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BcFwy5n8yapmRNycxzCKZ_36.639687_-82.000767@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904090,
-    "wof:geomhash":"c28b23233be3d13e328f12960216ee84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13ff643bf1f4efe8ccaa01a09357799a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739277403
+        }
+    ],
     "wof:id":739277403,
-    "wof:lastmodified":1472651140,
+    "wof:lastmodified":1492039481,
     "wof:name":"Green Springs Convenient Sta",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

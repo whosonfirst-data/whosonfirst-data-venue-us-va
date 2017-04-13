@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.165114,36.821121,-76.165114,36.821121",
     "geom:latitude":36.821121,
     "geom:longitude":-76.165114,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85824253,
         85826541
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899526,
-    "wof:geomhash":"fa116f830cd177c52d7a9f42266b608a",
+    "wof:geomhash":"557ca5e9245a3de8b145b077f6f7915c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85824253,
+            "region_id":85688747,
+            "venue_id":723324115
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723324115,
-    "wof:lastmodified":1472651871,
+    "wof:lastmodified":1492056026,
     "wof:name":"City Utilities Inc",
-    "wof:parent_id":85826541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

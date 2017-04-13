@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441419,38.314063,-77.441419,38.314063",
     "geom:latitude":38.314063,
     "geom:longitude":-77.441419,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56f9zO8kGksod7ZuftgCxO_38.314063_-77.441419@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899926,
-    "wof:geomhash":"6f67995c9851619e9a554ef675d1a0df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3273f5559c9e52ca2008a91f654875df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":723346025
+        }
+    ],
     "wof:id":723346025,
-    "wof:lastmodified":1472651930,
+    "wof:lastmodified":1492057808,
     "wof:name":"Nails By Us",
     "wof:parent_id":420547245,
     "wof:placetype":"venue",

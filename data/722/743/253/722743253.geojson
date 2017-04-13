@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.248084,37.378707,-79.248084,37.378707",
     "geom:latitude":37.378707,
     "geom:longitude":-79.248084,
@@ -32,17 +33,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AttqMnxRMnNTf0JjYowKI_37.378707_-79.248084@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887813,
-    "wof:geomhash":"e7b62c55628928acb8acac12c00ae363",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92416e8f4e7a6d0e5e7b9ea4cd4e7c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":722743253
+        }
+    ],
     "wof:id":722743253,
-    "wof:lastmodified":1472651668,
+    "wof:lastmodified":1492067365,
     "wof:name":"Graves Mill Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

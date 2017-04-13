@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.124002,38.849089,-77.124002,38.849089",
     "geom:latitude":38.849089,
     "geom:longitude":-77.124002,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_594oSMpcsXbgAoI0XOIrIK_38.849089_-77.124002@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898669,
-    "wof:geomhash":"6f3ae002d66d7d818226cd72ab616395",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0440fd771a8d30290471b8a08e25c809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":723279431
+        }
+    ],
     "wof:id":723279431,
-    "wof:lastmodified":1472651761,
+    "wof:lastmodified":1492055972,
     "wof:name":"Grand View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

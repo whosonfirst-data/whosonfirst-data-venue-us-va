@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.041926,36.678457,-82.041926,36.678457",
     "geom:latitude":36.678457,
     "geom:longitude":-82.041926,
@@ -33,17 +34,26 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cYd694hEAOhe3TR0QEjxU_36.678457_-82.041926@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908093,
-    "wof:geomhash":"ecae30c20fc86ca331b5180273e53560",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d2173681345afa844e1f99ab74ff50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739481259
+        }
+    ],
     "wof:id":739481259,
-    "wof:lastmodified":1472651625,
+    "wof:lastmodified":1492037919,
     "wof:name":"Hound Hilton Hotel",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

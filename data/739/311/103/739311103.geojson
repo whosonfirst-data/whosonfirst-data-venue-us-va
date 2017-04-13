@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.487186,37.50975,-77.487186,37.50975",
     "geom:latitude":37.50975,
     "geom:longitude":-77.487186,
@@ -31,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k8uvMAjK2KsWMj2k83Akv_37.509750_-77.487186@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904796,
     "wof:geomhash":"70880ec1ce9d78eeb740ba6828358a8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739311103
+        }
+    ],
     "wof:id":739311103,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492030287,
     "wof:name":"Belt Blvd BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

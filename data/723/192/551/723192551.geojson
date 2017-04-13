@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.961015,38.245276,-76.961015,38.245276",
     "geom:latitude":38.245276,
     "geom:longitude":-76.961015,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729001,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fEhkIK0A6tPh5UJsNGbJu_38.245276_-76.961015@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896929,
-    "wof:geomhash":"76fc784aa1e85877e1c203f6c1586e59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55283b26a0aa0b0023bc5ee125f62703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "locality_id":101729001,
+            "region_id":85688747,
+            "venue_id":723192551
+        }
+    ],
     "wof:id":723192551,
-    "wof:lastmodified":1472651568,
+    "wof:lastmodified":1492050231,
     "wof:name":"Rich Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

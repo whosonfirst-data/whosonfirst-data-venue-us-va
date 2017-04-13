@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.867382,37.057776,-79.867382,37.057776",
     "geom:latitude":37.057776,
     "geom:longitude":-79.867382,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SrigBEGyxBAsm6zRttu23_37.057776_-79.867382@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907813,
     "wof:geomhash":"60d053bb17fee668fa251cd34f151307",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739465599
+        }
+    ],
     "wof:id":739465599,
-    "wof:lastmodified":1472651625,
+    "wof:lastmodified":1492031928,
     "wof:name":"R & C Siding-Arrington Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

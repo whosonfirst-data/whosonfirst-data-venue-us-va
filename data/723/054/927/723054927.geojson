@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.425551,38.475625,-77.425551,38.475625",
     "geom:latitude":38.475625,
     "geom:longitude":-77.425551,
@@ -35,7 +36,8 @@
         85688747,
         85633793,
         85894043,
-        102081931
+        102081931,
+        420547097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894108,
-    "wof:geomhash":"1bcf50562e2959f2b490347045ab74f1",
+    "wof:geomhash":"b8b78ec853d63c6697be72f58522d9b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,17 @@
             "neighbourhood_id":85894043,
             "region_id":85688747,
             "venue_id":723054927
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547097,
+            "venue_id":723054927
         }
     ],
     "wof:id":723054927,
-    "wof:lastmodified":1472651237,
+    "wof:lastmodified":1492052516,
     "wof:name":"Griswold Special Care",
-    "wof:parent_id":85894043,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

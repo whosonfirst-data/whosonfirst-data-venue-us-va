@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.396633,37.179418,-76.396633,37.179418",
     "geom:latitude":37.179418,
     "geom:longitude":-76.396633,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wb1M7ylg0ff0s2be2zQvA_37.179418_-76.396633@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899468,
-    "wof:geomhash":"a0a732ed883a752300cf5f1f0fce709c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70d639b9102ae5e4d1093fe0a177a91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723321087
+        }
+    ],
     "wof:id":723321087,
-    "wof:lastmodified":1472651854,
+    "wof:lastmodified":1492048963,
     "wof:name":"Beilhart Construction",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

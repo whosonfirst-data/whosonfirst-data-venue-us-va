@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.659638,38.856225,-78.659638,38.856225",
     "geom:latitude":38.856225,
     "geom:longitude":-78.659638,
@@ -33,7 +34,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M8dqq72pdhS1vphJpxauq_38.856225_-78.659638@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908973,
     "wof:geomhash":"a69b0ed1b9f26cd8656f8df5d63a7f5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739529747
+        }
+    ],
     "wof:id":739529747,
-    "wof:lastmodified":1472651831,
+    "wof:lastmodified":1492030810,
     "wof:name":"Randy Fadley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

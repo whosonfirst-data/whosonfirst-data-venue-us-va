@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.954096,37.266581,-79.954096,37.266581",
     "geom:latitude":37.266581,
     "geom:longitude":-79.954096,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n3oRKfcAMQOnWKxGOmDVk_37.266581_-79.954096@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902795,
-    "wof:geomhash":"e7b332ed69435897136f30e2d3d45c54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7423974a6f5b2c7fc2d85e2ebba165e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723492499
+        }
+    ],
     "wof:id":723492499,
-    "wof:lastmodified":1472652353,
+    "wof:lastmodified":1492060959,
     "wof:name":"Nyrox Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

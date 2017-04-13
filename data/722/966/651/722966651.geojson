@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.247452,38.852612,-77.247452,38.852612",
     "geom:latitude":38.852612,
     "geom:longitude":-77.247452,
@@ -41,7 +42,9 @@
         85633793,
         101729723,
         102084863,
-        85842309
+        85842309,
+        101729035,
+        85853775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892165,
-    "wof:geomhash":"df35343789f4d262bf19ab185ced8c39",
+    "wof:geomhash":"e0d51aa41e1be830d9ab526c6b34437f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,21 @@
             "neighbourhood_id":85842309,
             "region_id":85688747,
             "venue_id":722966651
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729035,
+            "neighbourhood_id":85853775,
+            "region_id":85688747,
+            "venue_id":722966651
         }
     ],
     "wof:id":722966651,
-    "wof:lastmodified":1472652299,
+    "wof:lastmodified":1492065639,
     "wof:name":"Charlotte's Web Studios LLC",
-    "wof:parent_id":85842309,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

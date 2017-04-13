@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475814,39.057865,-77.475814,39.057865",
     "geom:latitude":39.057865,
     "geom:longitude":-77.475814,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LzBJ8C5DZodQy6ldgrejx_39.057865_-77.475814@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898467,
-    "wof:geomhash":"ec04fabdc5a567e4f59d969191eb63cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32339ec30db58031c6f1ceaa0df03a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723268409
+        }
+    ],
     "wof:id":723268409,
-    "wof:lastmodified":1472651772,
+    "wof:lastmodified":1492055414,
     "wof:name":"Westview Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

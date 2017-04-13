@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.479711,37.0867,-76.479711,37.0867",
     "geom:latitude":37.0867,
     "geom:longitude":-76.479711,
@@ -39,6 +40,7 @@
         85633793,
         101729041,
         102085961,
+        85879201,
         85879253
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461892127,
-    "wof:geomhash":"a64d31313b99a1cd3428c318e7d19f6d",
+    "wof:geomhash":"a145728601add62e98fb94839f239b80",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879201,
+            "region_id":85688747,
+            "venue_id":722964539
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722964539,
-    "wof:lastmodified":1472652297,
+    "wof:lastmodified":1492065195,
     "wof:name":"Epic",
-    "wof:parent_id":85879253,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.322074,36.817821,-76.322074,36.817821",
     "geom:latitude":36.817821,
     "geom:longitude":-76.322074,
@@ -38,8 +39,8 @@
         85633793,
         101728677,
         102086707,
-        85836925,
-        420548257
+        420548257,
+        85836925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461896705,
-    "wof:geomhash":"de89434fb3ec75414cfe88e9d50e84a1",
+    "wof:geomhash":"72b0c9d6c4b984724310eade40713e04",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85836925,
-            "region_id":85688747,
-            "venue_id":723181215
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +58,21 @@
             "neighbourhood_id":420548257,
             "region_id":85688747,
             "venue_id":723181215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85836925,
+            "region_id":85688747,
+            "venue_id":723181215
         }
     ],
     "wof:id":723181215,
-    "wof:lastmodified":1472651502,
+    "wof:lastmodified":1492057892,
     "wof:name":"Corprew Funeral Home Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

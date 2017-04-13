@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763603,37.253178,-76.763603,37.253178",
     "geom:latitude":37.253178,
     "geom:longitude":-76.763603,
@@ -31,17 +32,26 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01Z8T6BaZ9UadFhsrVzAPI_37.253178_-76.763603@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908637,
-    "wof:geomhash":"5a77fb69ad493783af9b0ceb9797d37c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"202a05e774aa15bdcbed0f606c5d9ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":739511547
+        }
+    ],
     "wof:id":739511547,
-    "wof:lastmodified":1472651793,
+    "wof:lastmodified":1492038865,
     "wof:name":"Towne Cntry Lmsne Williamsburg",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

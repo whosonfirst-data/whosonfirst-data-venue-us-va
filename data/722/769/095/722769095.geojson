@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441858,38.380048,-77.441858,38.380048",
     "geom:latitude":38.380048,
     "geom:longitude":-77.441858,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"www.indoorrange.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01I3J9iBj4vhDin9m63xt4_38.380048_-77.441858@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888298,
-    "wof:geomhash":"8032b188bdb961a6f9ce4ba2de45082a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62b3af8a25ccc1ed292af47f4136e97a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":722769095
+        }
+    ],
     "wof:id":722769095,
-    "wof:lastmodified":1472651727,
+    "wof:lastmodified":1492065585,
     "wof:name":"Range",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

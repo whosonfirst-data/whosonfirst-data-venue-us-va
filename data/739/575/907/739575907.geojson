@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.636597,38.812199,-77.636597,38.812199",
     "geom:latitude":38.812199,
     "geom:longitude":-77.636597,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.townofhaymarket.org/museum.php",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f6NOOuYjqqzLpmNffSmMu_38.812491_-77.637345@1293134755"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909911,
     "wof:geomhash":"4f34e1209eaa62b36011e3745c2e6a9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739575907
+        }
+    ],
     "wof:id":739575907,
-    "wof:lastmodified":1472651941,
+    "wof:lastmodified":1492029858,
     "wof:name":"The Haymarket Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

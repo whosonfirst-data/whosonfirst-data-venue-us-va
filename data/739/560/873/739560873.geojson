@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.595686,37.114536,-79.595686,37.114536",
     "geom:latitude":37.114536,
     "geom:longitude":-79.595686,
@@ -31,7 +32,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20zTEdIAvnf39rmZkdOZwM_37.114536_-79.595686@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909577,
     "wof:geomhash":"e7a01263ea1ef2c9e19cb78db69eee96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739560873
+        }
+    ],
     "wof:id":739560873,
-    "wof:lastmodified":1472651898,
+    "wof:lastmodified":1492030129,
     "wof:name":"Richard Blankenship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.472185,38.44985,-77.472185,38.44985",
     "geom:latitude":38.44985,
     "geom:longitude":-77.472185,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J4GWUEHxOL02TgjUX7wjj_38.449850_-77.472185@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901839,
-    "wof:geomhash":"fc65bc69b210e5ccc4fd5b18af63db2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f062b1aa83a666d172fbbb3ac7c06be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":723444137
+        }
+    ],
     "wof:id":723444137,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492050560,
     "wof:name":"Signature Series Construction",
     "wof:parent_id":420547157,
     "wof:placetype":"venue",

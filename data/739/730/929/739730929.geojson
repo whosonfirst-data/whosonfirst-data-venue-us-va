@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.293044,36.846562,-76.293044,36.846562",
     "geom:latitude":36.846562,
     "geom:longitude":-76.293044,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"http://www.SunTrust.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Tb48hri1jnrrBIkaILNQY_36.846562_-76.293044@1303262551"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461913211,
     "wof:geomhash":"f22e5e60537a4bb2dacac42367176bfd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739730929
+        }
+    ],
     "wof:id":739730929,
-    "wof:lastmodified":1472652245,
+    "wof:lastmodified":1492033168,
     "wof:name":"SunTrust Bank - 150 West Main",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

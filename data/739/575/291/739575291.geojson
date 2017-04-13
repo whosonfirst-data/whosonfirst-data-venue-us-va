@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60738,36.967503,-76.60738,36.967503",
     "geom:latitude":36.967503,
     "geom:longitude":-76.60738,
@@ -28,7 +29,13 @@
     "sg:postcode":"23430",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77f1j20OVWRPRpE4g75K8f_36.967471_-76.607598@1293134755"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461909899,
     "wof:geomhash":"8e2abe4ac107545173c0f4b4702cf608",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739575291
+        }
+    ],
     "wof:id":739575291,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492029844,
     "wof:name":"Church Street Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

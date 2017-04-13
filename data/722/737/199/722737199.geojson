@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.473483,37.046752,-76.473483,37.046752",
     "geom:latitude":37.046752,
     "geom:longitude":-76.473483,
@@ -39,7 +40,8 @@
         85633793,
         101729041,
         102085961,
-        85879217
+        85879217,
+        85879203
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887687,
-    "wof:geomhash":"dc15bb6ed85a7c640881676570abecc4",
+    "wof:geomhash":"d62a2a05de542f2134b706e8e2968d89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85879217,
             "region_id":85688747,
             "venue_id":722737199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879203,
+            "region_id":85688747,
+            "venue_id":722737199
         }
     ],
     "wof:id":722737199,
-    "wof:lastmodified":1472651670,
+    "wof:lastmodified":1492070621,
     "wof:name":"Bowditch Ford",
-    "wof:parent_id":85879217,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

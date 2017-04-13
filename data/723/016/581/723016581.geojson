@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.604784,38.443785,-77.604784,38.443785",
     "geom:latitude":38.443785,
     "geom:longitude":-77.604784,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oSuGqlS9TIRTlyI4Ff78G_38.443785_-77.604784@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893290,
-    "wof:geomhash":"64938ae2178acab9238d298900ccc95a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb6553ad4b5c46eeefade181f0a0b390",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":723016581
+        }
+    ],
     "wof:id":723016581,
-    "wof:lastmodified":1472651109,
+    "wof:lastmodified":1492050464,
     "wof:name":"Lanes Hvac & Sheetmetal Inc",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

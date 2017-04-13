@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.117752,38.845718,-77.117752,38.845718",
     "geom:latitude":38.845718,
     "geom:longitude":-77.117752,
@@ -28,7 +29,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q9Tyzwty2n8iBP2E856Og_38.845718_-77.117752@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910999,
     "wof:geomhash":"c7c5d5fc11e25196e0b4f9b96cf21b05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739628479
+        }
+    ],
     "wof:id":739628479,
-    "wof:lastmodified":1472652004,
+    "wof:lastmodified":1492030465,
     "wof:name":"Central Fidelity Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

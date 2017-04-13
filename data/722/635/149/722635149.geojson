@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437281,38.89449,-77.437281,38.89449",
     "geom:latitude":38.89449,
     "geom:longitude":-77.437281,
@@ -33,17 +34,32 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uVWiHLUgKvQ3qdAuwIkDP_38.894490_-77.437281@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885748,
-    "wof:geomhash":"fcdd22706e1cda096cf2814548991731",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6229c31f21ff4bf1830b61910735ca3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722635149
+        }
+    ],
     "wof:id":722635149,
-    "wof:lastmodified":1472651403,
+    "wof:lastmodified":1492067475,
     "wof:name":"Raytheon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

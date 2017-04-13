@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.635225,37.124583,-82.635225,37.124583",
     "geom:latitude":37.124583,
     "geom:longitude":-82.635225,
@@ -32,17 +33,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084983
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JFTH9wUMkaQ5BeZhCGzxg_37.124583_-82.635225@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913458,
-    "wof:geomhash":"5096c211af5a05d65b34ef39be937f0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1667765939ce26f30dd203f0b0c64923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084983,
+            "region_id":85688747,
+            "venue_id":739741285
+        }
+    ],
     "wof:id":739741285,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492044510,
     "wof:name":"Army Corp Of Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

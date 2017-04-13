@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.403564,36.880791,-77.403564,36.880791",
     "geom:latitude":36.880791,
     "geom:longitude":-77.403564,
@@ -33,17 +34,30 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39aX3PZDAI9n1SNP1MgE38_36.880791_-77.403564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895927,
-    "wof:geomhash":"0b7911a02bd65623b6b4b108ac258a02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60ef8f4f37388f68522e5d2b5605108c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":723141461
+        }
+    ],
     "wof:id":723141461,
-    "wof:lastmodified":1472651392,
+    "wof:lastmodified":1492057702,
     "wof:name":"Wilson's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

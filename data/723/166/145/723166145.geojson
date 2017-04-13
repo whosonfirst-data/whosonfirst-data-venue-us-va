@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.415782,37.306895,-78.415782,37.306895",
     "geom:latitude":37.306895,
     "geom:longitude":-78.415782,
@@ -31,17 +32,32 @@
         "seafood"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XYSilmF4VMlzToUdjDLHs_37.306895_-78.415782@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896408,
-    "wof:geomhash":"2df320c3eba538b7115e91fe646a4249",
-    "wof:hierarchy":[],
+    "wof:geomhash":"209918e5f2075638bdf98304529111b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723166145
+        }
+    ],
     "wof:id":723166145,
-    "wof:lastmodified":1472651439,
+    "wof:lastmodified":1492048005,
     "wof:name":"Joe's Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

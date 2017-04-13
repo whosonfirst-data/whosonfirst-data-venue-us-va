@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.94358,37.260596,-79.94358,37.260596",
     "geom:latitude":37.260596,
     "geom:longitude":-79.94358,
@@ -31,7 +32,13 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lNFtAYfs4IFXVDMdC14wM_37.260596_-79.943580@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906966,
     "wof:geomhash":"13a83a18318c9f643a7c6e9a1f17051e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739420391
+        }
+    ],
     "wof:id":739420391,
-    "wof:lastmodified":1472651508,
+    "wof:lastmodified":1492031974,
     "wof:name":"Blue Ridge Community Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

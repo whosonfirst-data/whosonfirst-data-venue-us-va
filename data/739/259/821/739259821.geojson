@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.530015,38.371116,-77.530015,38.371116",
     "geom:latitude":38.371116,
     "geom:longitude":-77.530015,
@@ -31,7 +32,10 @@
         "transcription"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FX2fm6amJDeg6lg1laidh_38.371116_-77.530015@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461903693,
     "wof:geomhash":"fc33c776b856a1902b38b5ecf59afe88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":739259821
+        }
+    ],
     "wof:id":739259821,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492032942,
     "wof:name":"Lmw Transcription Services",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

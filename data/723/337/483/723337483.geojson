@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.821358,37.557675,-76.821358,37.557675",
     "geom:latitude":37.557675,
     "geom:longitude":-76.821358,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728795,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MYBIrTXkI24SwuQNn8P8z_37.557675_-76.821358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899759,
-    "wof:geomhash":"c7b759a51c6803727235bfa57e2eb12c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cf10992c83c573e30807e7896203f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101728795,
+            "region_id":85688747,
+            "venue_id":723337483
+        }
+    ],
     "wof:id":723337483,
-    "wof:lastmodified":1472651903,
+    "wof:lastmodified":1492058477,
     "wof:name":"De LA War Auto Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

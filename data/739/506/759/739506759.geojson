@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.460819,38.340485,-78.460819,38.340485",
     "geom:latitude":38.340485,
     "geom:longitude":-78.460819,
@@ -28,7 +29,12 @@
     "sg:postcode":"22973",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LmhtgRuXgZ7zti7bPbbt9_38.340485_-78.460819@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908548,
     "wof:geomhash":"4096e4855189ee4d075da50b4f3a5791",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739506759
+        }
+    ],
     "wof:id":739506759,
-    "wof:lastmodified":1472651817,
+    "wof:lastmodified":1492032878,
     "wof:name":"Alpacas Of Tranquility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

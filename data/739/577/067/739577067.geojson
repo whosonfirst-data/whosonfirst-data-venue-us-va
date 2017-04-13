@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.870678,38.444596,-78.870678,38.444596",
     "geom:latitude":38.444596,
     "geom:longitude":-78.870678,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"http://www.lindseyfuneralhomes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VxJKmX2jwbViiAJhdp8wN_38.444754_-78.870504@1293134755"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909944,
     "wof:geomhash":"5ff28858cc2d180ea34b7e570031e8a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739577067
+        }
+    ],
     "wof:id":739577067,
-    "wof:lastmodified":1472651917,
+    "wof:lastmodified":1492033241,
     "wof:name":"Lindsey Funeral Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

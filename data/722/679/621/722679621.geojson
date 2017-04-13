@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.897106,36.691608,-76.897106,36.691608",
     "geom:latitude":36.691608,
     "geom:longitude":-76.897106,
@@ -33,17 +34,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729141,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EuARAsC8VEVYL0slE4w2m_36.691608_-76.897106@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886574,
-    "wof:geomhash":"98bad9137ea776850bc50402bcb88792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad4bbb0431d25eda5b2de59d9bef896f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729141,
+            "region_id":85688747,
+            "venue_id":722679621
+        }
+    ],
     "wof:id":722679621,
-    "wof:lastmodified":1472651537,
+    "wof:lastmodified":1492066835,
     "wof:name":"Franklin VA Tube Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.542762,37.586147,-77.542762,37.586147",
     "geom:latitude":37.586147,
     "geom:longitude":-77.542762,
@@ -33,17 +34,32 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x8MYBhM1I15F9T3pBQu9u_37.586147_-77.542762@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889257,
-    "wof:geomhash":"bd0dcfa7038571ea13f474ab5f10f2b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"630483e730e8ea7d5b8902774293c173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":722819917
+        }
+    ],
     "wof:id":722819917,
-    "wof:lastmodified":1472651914,
+    "wof:lastmodified":1492062705,
     "wof:name":"Muller Martini Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

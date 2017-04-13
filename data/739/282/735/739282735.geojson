@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449218,38.893731,-77.449218,38.893731",
     "geom:latitude":38.893731,
     "geom:longitude":-77.449218,
@@ -35,7 +36,13 @@
         "conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24gzPvvP7Q9bq1MHvB3Rrn_38.893731_-77.449218@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461904213,
     "wof:geomhash":"25d995c7bf30e128982365f3612053f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739282735
+        }
+    ],
     "wof:id":739282735,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492031900,
     "wof:name":"Lovewell Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.606921,38.795988,-77.606921,38.795988",
     "geom:latitude":38.795988,
     "geom:longitude":-77.606921,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.target.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rchzh9imRcGjizKfaTGoU_38.795988_-77.606921@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910615,
-    "wof:geomhash":"24adebe303fc7efa455b22331e61ed35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f4a23a7f0bb01cd3090d6acdf83a64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739610791
+        }
+    ],
     "wof:id":739610791,
-    "wof:lastmodified":1472651968,
+    "wof:lastmodified":1492043820,
     "wof:name":"Super Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

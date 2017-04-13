@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.361104,39.029309,-77.361104,39.029309",
     "geom:latitude":39.029309,
     "geom:longitude":-77.361104,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2efiAsHwKPs1PZg87VMdUx_39.029309_-77.361104@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899198,
-    "wof:geomhash":"01c81acfe6e679826b7199cd93d85e6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2d3e67fca9ae0794e947cf646a620c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":723306347
+        }
+    ],
     "wof:id":723306347,
-    "wof:lastmodified":1472651776,
+    "wof:lastmodified":1492048486,
     "wof:name":"House Dressing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

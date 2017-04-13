@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.630462,38.881007,-77.630462,38.881007",
     "geom:latitude":38.881007,
     "geom:longitude":-77.630462,
@@ -31,7 +32,12 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q1Vj7J08kR1Vr1O2fNgKI_38.881007_-77.630462@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907681,
     "wof:geomhash":"1260afb0040d5fd6db051db133c4cabc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739457877
+        }
+    ],
     "wof:id":739457877,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492031857,
     "wof:name":"CT Wholesale Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

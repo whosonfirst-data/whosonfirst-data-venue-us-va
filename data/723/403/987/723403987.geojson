@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.311753,37.991561,-77.311753,37.991561",
     "geom:latitude":37.991561,
     "geom:longitude":-77.311753,
@@ -31,17 +32,30 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63YcNX2skpnK4jGgaxNshg_37.991561_-77.311753@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901051,
-    "wof:geomhash":"399989a3d2d84e11287282a23bc6becf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbdf2c2561b272742e9acfccfdd673b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723403987
+        }
+    ],
     "wof:id":723403987,
-    "wof:lastmodified":1472652155,
+    "wof:lastmodified":1492053349,
     "wof:name":"Norris & Sons Lawns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

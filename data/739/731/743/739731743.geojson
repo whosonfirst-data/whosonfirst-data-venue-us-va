@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.431805,37.057328,-76.431805,37.057328",
     "geom:latitude":37.057328,
     "geom:longitude":-76.431805,
@@ -38,7 +39,13 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48zgpHP8PtfyDJDBJecqXB_37.057328_-76.431805@1303262551"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461913227,
     "wof:geomhash":"58872fa7989fae837aff0477eaf78c57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739731743
+        }
+    ],
     "wof:id":739731743,
-    "wof:lastmodified":1472652248,
+    "wof:lastmodified":1492031028,
     "wof:name":"Benson Blake Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

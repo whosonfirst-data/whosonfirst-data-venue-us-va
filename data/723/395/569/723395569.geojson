@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517073,39.02052,-77.517073,39.02052",
     "geom:latitude":39.02052,
     "geom:longitude":-77.517073,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IQTsIOf1xa67hAq7GI7cC_39.020520_-77.517073@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900884,
-    "wof:geomhash":"ea965a86053266376eec935b2a6537c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17e40c0100ae5afa0e62183573173867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":723395569
+        }
+    ],
     "wof:id":723395569,
-    "wof:lastmodified":1472652128,
+    "wof:lastmodified":1492059375,
     "wof:name":"Martin Security Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

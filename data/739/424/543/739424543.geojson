@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.193966,38.740645,-77.193966,38.740645",
     "geom:latitude":38.740645,
     "geom:longitude":-77.193966,
@@ -32,7 +33,12 @@
         "blueprinting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85805977,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c9AoqpJDC44cazJ8asvvE_38.740645_-77.193966@1294252573"
@@ -40,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1461907064,
     "wof:geomhash":"fa08548e68afdb97b7af4c055a1ee2a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084863,
+            "neighbourhood_id":85805977,
+            "region_id":85688747,
+            "venue_id":739424543
+        }
+    ],
     "wof:id":739424543,
-    "wof:lastmodified":1472651519,
+    "wof:lastmodified":1492032741,
     "wof:name":"Capitol Tchngraphics/Charrette",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805977,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

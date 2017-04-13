@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.799408,37.370965,-76.799408,37.370965",
     "geom:latitude":37.370965,
     "geom:longitude":-76.799408,
@@ -31,7 +32,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lnpBf2mlr46y9ebexgycY_37.370965_-76.799408@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461909121,
     "wof:geomhash":"3315d901eeb2d5fc1132718d490538d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":739538047
+        }
+    ],
     "wof:id":739538047,
-    "wof:lastmodified":1472651744,
+    "wof:lastmodified":1492029874,
     "wof:name":"Heath Construction Inc Ki",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

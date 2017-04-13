@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.525581,37.611334,-77.525581,37.611334",
     "geom:latitude":37.611334,
     "geom:longitude":-77.525581,
@@ -32,17 +33,30 @@
         "armored"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64CtZ5SqQhYPgyQqvMKsKZ_37.611334_-77.525581@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886990,
-    "wof:geomhash":"548932039320115ea53132ca26406540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eaec1777b267dcfc25b62a03a8b37ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722701181
+        }
+    ],
     "wof:id":722701181,
-    "wof:lastmodified":1472651550,
+    "wof:lastmodified":1492074070,
     "wof:name":"Dunbar Armored Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.353673,37.363575,-78.353673,37.363575",
     "geom:latitude":37.363575,
     "geom:longitude":-78.353673,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XDoJ35P71sltHAA2qdNUw_37.363575_-78.353673@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886620,
-    "wof:geomhash":"8da26d35403ab810dcb49f03825aaa31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d8a692523ca3927e0895fe3186c6649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "region_id":85688747,
+            "venue_id":722682031
+        }
+    ],
     "wof:id":722682031,
-    "wof:lastmodified":1472651507,
+    "wof:lastmodified":1492063233,
     "wof:name":"Flippen Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.20241,38.707418,-77.20241,38.707418",
     "geom:latitude":38.707418,
     "geom:longitude":-77.20241,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uvSILRD3T0ZSRcDV6MtI5_38.707418_-77.202410@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902546,
-    "wof:geomhash":"a53de26e5a1f540337185c606617a236",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b58af4dcff93fa7fdcbcb34f1dfe00bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":723480317
+        }
+    ],
     "wof:id":723480317,
-    "wof:lastmodified":1472652322,
+    "wof:lastmodified":1492061182,
     "wof:name":"Woodside Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

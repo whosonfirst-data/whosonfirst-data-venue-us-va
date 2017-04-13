@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.383849,37.299079,-78.383849,37.299079",
     "geom:latitude":37.299079,
     "geom:longitude":-78.383849,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65EeXBpDmakCd3RBFNJf04_37.299079_-78.383849@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893354,
-    "wof:geomhash":"02ec5553d25956b5efca24f92f3360d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"631ebe7260d06170c19e3cbc71fedd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723018975
+        }
+    ],
     "wof:id":723018975,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492055262,
     "wof:name":"Bob's Glass & Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

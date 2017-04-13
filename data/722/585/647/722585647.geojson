@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.330357,37.22698,-77.330357,37.22698",
     "geom:latitude":37.22698,
     "geom:longitude":-77.330357,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729471,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UKaWptZuoVsHRLlGoVma9_37.226980_-77.330357@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884708,
-    "wof:geomhash":"6638509ee3018a590beb969a1abceced",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c78e6bfd2894239e06edb1100995f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "locality_id":101729471,
+            "region_id":85688747,
+            "venue_id":722585647
+        }
+    ],
     "wof:id":722585647,
-    "wof:lastmodified":1472651240,
+    "wof:lastmodified":1492074944,
     "wof:name":"Military Professional Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

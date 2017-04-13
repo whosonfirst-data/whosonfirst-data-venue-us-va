@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.910753,37.36752,-79.910753,37.36752",
     "geom:latitude":37.36752,
     "geom:longitude":-79.910753,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.clayton.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MtfPg8cnuTKaxcImQ4f1d_37.367520_-79.910753@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461905446,
     "wof:geomhash":"a0ae47969333ea2f43b3a938ee23f8a0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":739343161
+        }
+    ],
     "wof:id":739343161,
-    "wof:lastmodified":1472651263,
+    "wof:lastmodified":1492032168,
     "wof:name":"Clayton Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

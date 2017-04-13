@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905071,37.423018,-76.905071,37.423018",
     "geom:latitude":37.423018,
     "geom:longitude":-76.905071,
@@ -32,19 +33,28 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dp2wpJTSQvUy0fbWR6NB8_37.423018_-76.905071@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898717,
-    "wof:geomhash":"c227e54bb42a0dd58725a171988f7edc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"701fb8f1c6175506341c67af8984dce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723282187
+        }
+    ],
     "wof:id":723282187,
-    "wof:lastmodified":1472651757,
+    "wof:lastmodified":1492050361,
     "wof:name":"Verizon Wireless",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

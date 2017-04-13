@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412552,38.4548,-77.412552,38.4548",
     "geom:latitude":38.4548,
     "geom:longitude":-77.412552,
@@ -31,7 +32,10 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j9ZdkbEqA3pussRnUk74K_38.454800_-77.412552@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904952,
     "wof:geomhash":"d992e3e1b073216913174c05713ab976",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":739319323
+        }
+    ],
     "wof:id":739319323,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492031277,
     "wof:name":"New Construction Production",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

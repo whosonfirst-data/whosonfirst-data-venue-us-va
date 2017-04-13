@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.132942,38.638769,-77.132942,38.638769",
     "geom:latitude":38.638769,
     "geom:longitude":-77.132942,
@@ -32,17 +33,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729833,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lg82H09nCz7J2QMu75i5n_38.638769_-77.132942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896309,
-    "wof:geomhash":"7292de794928bce6d0e447b9f9e07a0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb71778bb64cb942e7ae2d57b1a699a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729833,
+            "region_id":85688747,
+            "venue_id":723161185
+        }
+    ],
     "wof:id":723161185,
-    "wof:lastmodified":1472651439,
+    "wof:lastmodified":1492054298,
     "wof:name":"College Park Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

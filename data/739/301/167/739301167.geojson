@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.168593,37.400003,-79.168593,37.400003",
     "geom:latitude":37.400003,
     "geom:longitude":-79.168593,
@@ -34,7 +35,8 @@
         85633793,
         101729021,
         102083815,
-        85813835
+        85813835,
+        85855879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904601,
-    "wof:geomhash":"22f62c9342cc2d83ed0a5b1e43782a98",
+    "wof:geomhash":"0ca3f27e7de511423d21ce7b05f7a341",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85813835,
             "region_id":85688747,
             "venue_id":739301167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "neighbourhood_id":85855879,
+            "region_id":85688747,
+            "venue_id":739301167
         }
     ],
     "wof:id":739301167,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492046019,
     "wof:name":"Sean L Shull Dr",
-    "wof:parent_id":85813835,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

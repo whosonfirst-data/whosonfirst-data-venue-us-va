@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.641327,37.619871,-77.641327,37.619871",
     "geom:latitude":37.619871,
     "geom:longitude":-77.641327,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v8Ee8RQinqHHvLMn3Hn4W_37.619871_-77.641327@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913112,
-    "wof:geomhash":"422932fd0716a65be70b362b9e93c3fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b038f798b36bec14f142c95c8735f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739725977
+        }
+    ],
     "wof:id":739725977,
-    "wof:lastmodified":1472652258,
+    "wof:lastmodified":1492039841,
     "wof:name":"General Services Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

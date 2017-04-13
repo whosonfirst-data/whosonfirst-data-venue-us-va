@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.254443,36.844816,-76.254443,36.844816",
     "geom:latitude":36.844816,
     "geom:longitude":-76.254443,
@@ -37,7 +38,8 @@
         85633793,
         101728769,
         102085935,
-        420558745
+        420558745,
+        85810739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461883795,
-    "wof:geomhash":"ed9b3cf60328922424ebafdd05525526",
+    "wof:geomhash":"89ac03658639c49d9c0d8bad2133c1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":420558745,
             "region_id":85688747,
             "venue_id":722539613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85810739,
+            "region_id":85688747,
+            "venue_id":722539613
         }
     ],
     "wof:id":722539613,
-    "wof:lastmodified":1472651085,
+    "wof:lastmodified":1492070571,
     "wof:name":"Fresh Janitorial Svc Inc",
-    "wof:parent_id":420558745,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

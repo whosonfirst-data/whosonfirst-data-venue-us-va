@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.132148,38.726763,-77.132148,38.726763",
     "geom:latitude":38.726763,
     "geom:longitude":-77.132148,
@@ -41,8 +42,10 @@
         85688747,
         102191575,
         85633793,
-        101729849,
+        101729739,
         102084863,
+        85835753,
+        101729849,
         85835747
     ],
     "wof:breaches":[],
@@ -51,8 +54,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903818,
-    "wof:geomhash":"20ac91f832ff4899c2b19c894099d248",
+    "wof:geomhash":"77bba474e399477e8d8145d7a139c211",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729739,
+            "neighbourhood_id":85835753,
+            "region_id":85688747,
+            "venue_id":739265181
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,9 +76,9 @@
         }
     ],
     "wof:id":739265181,
-    "wof:lastmodified":1472651130,
+    "wof:lastmodified":1492042031,
     "wof:name":"Pinewood Lawns Condominium Ofc",
-    "wof:parent_id":85835747,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

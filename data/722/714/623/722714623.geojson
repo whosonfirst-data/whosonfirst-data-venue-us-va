@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.299067,37.139151,-77.299067,37.139151",
     "geom:latitude":37.139151,
     "geom:longitude":-77.299067,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YDKs4h5Z8DCle1ki1Q0x4_37.139151_-77.299067@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887245,
-    "wof:geomhash":"032b3bbd879efe0848004d2e9bbaa8d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"062def044edfe502678e9c349faee153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":722714623
+        }
+    ],
     "wof:id":722714623,
-    "wof:lastmodified":1472651586,
+    "wof:lastmodified":1492073814,
     "wof:name":"Oakland Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

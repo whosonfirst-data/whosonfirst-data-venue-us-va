@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.728068,37.333409,-80.728068,37.333409",
     "geom:latitude":37.333409,
     "geom:longitude":-80.728068,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728851,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ceYe475sp5ByVvOeD7GSH_37.333409_-80.728068@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888140,
-    "wof:geomhash":"619c03cc969e76bfb8381ea6d8bde172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c1f26da299eb59bbd3bcbfa27c8cd61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728851,
+            "region_id":85688747,
+            "venue_id":722760747
+        }
+    ],
     "wof:id":722760747,
-    "wof:lastmodified":1472651801,
+    "wof:lastmodified":1492066723,
     "wof:name":"Old Orchard Place Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.570228,39.107696,-77.570228,39.107696",
     "geom:latitude":39.107696,
     "geom:longitude":-77.570228,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yr5W7sqFXFnYxOsdoLZ7g_39.107696_-77.570228@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885512,
-    "wof:geomhash":"e17d05aa30a6f4ec47f100ccf21028d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2981477236f461ad663dc02222376748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722625955
+        }
+    ],
     "wof:id":722625955,
-    "wof:lastmodified":1472651425,
+    "wof:lastmodified":1492068384,
     "wof:name":"Miguel Custom Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

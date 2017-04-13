@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.557611,37.620905,-77.557611,37.620905",
     "geom:latitude":37.620905,
     "geom:longitude":-77.557611,
@@ -60,17 +61,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vGVlLltp8xWB1Jgkbkvt7_37.620905_-77.557611@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913003,
-    "wof:geomhash":"7dac5daea8817c7066d297caa501a446",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4190bf5b9a15e2b96d7644ecc89d8594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739720397
+        }
+    ],
     "wof:id":739720397,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492040016,
     "wof:name":"Dominion Behavioral Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.732431,37.391692,-77.732431,37.391692",
     "geom:latitude":37.391692,
     "geom:longitude":-77.732431,
@@ -34,17 +35,30 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AaEQx7xGWbAkox654wQc4_37.391692_-77.732431@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902220,
-    "wof:geomhash":"51e9a4d1debf584faeeff927892888a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb29ee98cae8da13a49533171e94d765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723464599
+        }
+    ],
     "wof:id":723464599,
-    "wof:lastmodified":1472652311,
+    "wof:lastmodified":1492058125,
     "wof:name":"Fred Floyd Floor Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

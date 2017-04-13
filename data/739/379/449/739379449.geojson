@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.327167,37.548242,-77.327167,37.548242",
     "geom:latitude":37.548242,
     "geom:longitude":-77.327167,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IjKKHn4pq0kcNB4ptMD7W_37.548242_-77.327167@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906186,
-    "wof:geomhash":"fc5af0495d7061d5069ea6c3437ee7f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46dcb49e0df2c350ef8f21755b94912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":739379449
+        }
+    ],
     "wof:id":739379449,
-    "wof:lastmodified":1472651357,
+    "wof:lastmodified":1492044223,
     "wof:name":"First Way Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

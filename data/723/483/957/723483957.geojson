@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.873833,37.452245,-79.873833,37.452245",
     "geom:latitude":37.452245,
     "geom:longitude":-79.873833,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lF26rbSOH1ADYt6ozaXUC_37.452245_-79.873833@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902611,
-    "wof:geomhash":"e9e0512fd8085b44d4d887e378952028",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e96ea17ca6a10e0a5777c2cb9758743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":723483957
+        }
+    ],
     "wof:id":723483957,
-    "wof:lastmodified":1472652356,
+    "wof:lastmodified":1492059411,
     "wof:name":"RTS Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

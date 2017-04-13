@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.441194,37.784363,-79.441194,37.784363",
     "geom:latitude":37.784363,
     "geom:longitude":-79.441194,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.halestone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728589,
+        102085969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KiMMKT8VexW1wWr2HlZPH_37.784363_-79.441194@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461907388,
     "wof:geomhash":"4b89af2a51b896888d00ad54e78347bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085969,
+            "locality_id":101728589,
+            "region_id":85688747,
+            "venue_id":739442065
+        }
+    ],
     "wof:id":739442065,
-    "wof:lastmodified":1472651554,
+    "wof:lastmodified":1492030157,
     "wof:name":"Halestone Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

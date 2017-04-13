@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.255017,36.890573,-76.255017,36.890573",
     "geom:latitude":36.890573,
     "geom:longitude":-76.255017,
@@ -38,8 +39,9 @@
         85633793,
         101728769,
         102085935,
+        420560197,
         85879273,
-        420560197
+        85879279
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461893942,
-    "wof:geomhash":"d4597bd2989e840b2067c30e8b0f5c0b",
+    "wof:geomhash":"f37bc78bace4d5c1f5c4504b9350cb37",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420560197,
+            "region_id":85688747,
+            "venue_id":723046551
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,15 +74,15 @@
             "country_id":85633793,
             "county_id":102085935,
             "locality_id":101728769,
-            "neighbourhood_id":420560197,
+            "neighbourhood_id":85879279,
             "region_id":85688747,
             "venue_id":723046551
         }
     ],
     "wof:id":723046551,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492049854,
     "wof:name":"Smith & Williams Funeral Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

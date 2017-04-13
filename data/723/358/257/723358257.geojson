@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.350091,39.043458,-77.350091,39.043458",
     "geom:latitude":39.043458,
     "geom:longitude":-77.350091,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qfoh2DBbtC9z6yiB7HLrS_39.043458_-77.350091@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900146,
-    "wof:geomhash":"a67622265f5a03eaf68713985c11d5e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"817fec1fba33c8a5c383794d24a2146a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":723358257
+        }
+    ],
     "wof:id":723358257,
-    "wof:lastmodified":1472652034,
+    "wof:lastmodified":1492055352,
     "wof:name":"Federal Acquisition Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

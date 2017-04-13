@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.586445,37.134994,-80.586445,37.134994",
     "geom:latitude":37.134994,
     "geom:longitude":-80.586445,
@@ -31,17 +32,41 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729185,
+        102084953,
+        101729175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ErC6LgBOezgqeXRgiKYX1_37.134994_-80.586445@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905369,
-    "wof:geomhash":"839da81daa3c689f718163900046ad4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7d40a4cc5893241ecfd04d866d406d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "locality_id":101729185,
+            "region_id":85688747,
+            "venue_id":739339337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "locality_id":101729175,
+            "region_id":85688747,
+            "venue_id":739339337
+        }
+    ],
     "wof:id":739339337,
-    "wof:lastmodified":1472651268,
+    "wof:lastmodified":1492040091,
     "wof:name":"Jere Clauser Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

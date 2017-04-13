@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518629,39.0509,-77.518629,39.0509",
     "geom:latitude":39.0509,
     "geom:longitude":-77.518629,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NDIoaJ2i4ZoKskGImgzko_39.050900_-77.518629@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894201,
-    "wof:geomhash":"4c0336fc8e687d0a17fea88bc7032ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7359a5402ceab712175ea5dec50adb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723059131
+        }
+    ],
     "wof:id":723059131,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492048392,
     "wof:name":"LMG Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

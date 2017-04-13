@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.183712,37.352412,-79.183712,37.352412",
     "geom:latitude":37.352412,
     "geom:longitude":-79.183712,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hr6JFk9GMqN0LYo0Yqd5T_37.352412_-79.183712@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910297,
-    "wof:geomhash":"fd1b6a2e02b5b1ef8066b7371e98c137",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fbae6076f8bf24714725e1b629782a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739595099
+        }
+    ],
     "wof:id":739595099,
-    "wof:lastmodified":1472651930,
+    "wof:lastmodified":1492042109,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

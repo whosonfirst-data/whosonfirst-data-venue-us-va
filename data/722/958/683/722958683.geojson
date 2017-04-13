@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.729601,37.312979,-76.729601,37.312979",
     "geom:latitude":37.312979,
     "geom:longitude":-76.729601,
@@ -28,19 +29,48 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728999,
+        102087299,
+        85848873,
+        420546793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q1OIRJ9cEGiroUcnVocjJ_37.312979_-76.729601@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892001,
-    "wof:geomhash":"2c0f979fb8c23b9475b940d7c5f25762",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5140802fbf9dd5183a841fb04b5607c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087299,
+            "locality_id":101728999,
+            "neighbourhood_id":85848873,
+            "region_id":85688747,
+            "venue_id":722958683
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722958683
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":722958683
+        }
+    ],
     "wof:id":722958683,
-    "wof:lastmodified":1472652301,
+    "wof:lastmodified":1492071499,
     "wof:name":"Family Inns Of America",
-    "wof:parent_id":420546903,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

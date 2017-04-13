@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.975051,36.848265,-75.975051,36.848265",
     "geom:latitude":36.848265,
     "geom:longitude":-75.975051,
@@ -37,7 +38,8 @@
         85633793,
         101728745,
         102081929,
-        85847613
+        85847613,
+        85872041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889720,
-    "wof:geomhash":"eb10ca3b5b309d3b137cc25d7b42d98a",
+    "wof:geomhash":"ad8f99a29653813a3a5d12ddca572c98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85847613,
             "region_id":85688747,
             "venue_id":722845081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85872041,
+            "region_id":85688747,
+            "venue_id":722845081
         }
     ],
     "wof:id":722845081,
-    "wof:lastmodified":1472651929,
+    "wof:lastmodified":1492062548,
     "wof:name":"N Y Pizza",
-    "wof:parent_id":85847613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

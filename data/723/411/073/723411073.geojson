@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.284674,38.876721,-77.284674,38.876721",
     "geom:latitude":38.876721,
     "geom:longitude":-77.284674,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F6srqW8x2x1bdMsbSVmCX_38.876721_-77.284674@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901192,
-    "wof:geomhash":"f7a6a7b57088990712d4c1de698f84a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"023bee0728769325622e3bc9960b6c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":723411073
+        }
+    ],
     "wof:id":723411073,
-    "wof:lastmodified":1472652165,
+    "wof:lastmodified":1492059561,
     "wof:name":"Two Dragons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

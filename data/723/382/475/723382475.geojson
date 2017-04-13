@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.363907,38.738875,-77.363907,38.738875",
     "geom:latitude":38.738875,
     "geom:longitude":-77.363907,
@@ -33,17 +34,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KAVanLgQfQvohs4ZAL1QH_38.738875_-77.363907@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900631,
-    "wof:geomhash":"39dfc2e74871fb6c6f6d1473ebe8ed34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29ace3cadf008f979020fd0d895be231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":723382475
+        }
+    ],
     "wof:id":723382475,
-    "wof:lastmodified":1472652123,
+    "wof:lastmodified":1492048924,
     "wof:name":"Digital Decisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

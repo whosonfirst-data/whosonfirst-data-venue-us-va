@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.58988,37.485627,-77.58988,37.485627",
     "geom:latitude":37.485627,
     "geom:longitude":-77.58988,
@@ -31,19 +32,36 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955,
+        420546625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GaE8b9rsPFR1w5QA1wPoP_37.485627_-77.589880@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888255,
-    "wof:geomhash":"711a2e301a107beaa1687e3cfa24f5e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30785d5b9a4641ad48b54d359bef435e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "neighbourhood_id":420546625,
+            "region_id":85688747,
+            "venue_id":722767109
+        }
+    ],
     "wof:id":722767109,
-    "wof:lastmodified":1472651727,
+    "wof:lastmodified":1492067228,
     "wof:name":"Eic-Kel Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

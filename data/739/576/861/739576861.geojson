@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523245,37.149703,-77.523245,37.149703",
     "geom:latitude":37.149703,
     "geom:longitude":-77.523245,
@@ -27,17 +28,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OxYqUMCTEhqA6goDQtQP0_37.149703_-77.523245@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909938,
-    "wof:geomhash":"24c1ba36019074390d9eec911583ffab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ac0d264be68c15e950db05d67a3be76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":739576861
+        }
+    ],
     "wof:id":739576861,
-    "wof:lastmodified":1472651939,
+    "wof:lastmodified":1492043022,
     "wof:name":"Turner Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

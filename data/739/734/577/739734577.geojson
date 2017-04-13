@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.444531,37.235685,-78.444531,37.235685",
     "geom:latitude":37.235685,
     "geom:longitude":-78.444531,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729117,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hs3cZ9GhCb1n0FAh1wbDv_37.235685_-78.444531@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913291,
-    "wof:geomhash":"ced379af373052fc0b373bd64687cc79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e792ae059882b74d507269b993ab46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101729117,
+            "region_id":85688747,
+            "venue_id":739734577
+        }
+    ],
     "wof:id":739734577,
-    "wof:lastmodified":1472652239,
+    "wof:lastmodified":1492043341,
     "wof:name":"Scott's Pc Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

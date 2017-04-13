@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518558,38.794589,-77.518558,38.794589",
     "geom:latitude":38.794589,
     "geom:longitude":-77.518558,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OlJNPH6XREvvPOjcpoQxQ_38.794589_-77.518558@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910477,
-    "wof:geomhash":"0720ccfd986676035e2d702f473c7c15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07d54b1231f9e8ff77d2d24b75ffb103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739603163
+        }
+    ],
     "wof:id":739603163,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492044774,
     "wof:name":"Agressive Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

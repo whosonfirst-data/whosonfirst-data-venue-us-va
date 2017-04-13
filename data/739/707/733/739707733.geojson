@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.452301,38.036499,-78.452301,38.036499",
     "geom:latitude":38.036499,
     "geom:longitude":-78.452301,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.mcdonalds.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729625,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bVpVuZg0WAGPFOZHI2R6v_38.036499_-78.452301@1303262548"
     },
     "wof:country":"US",
     "wof:created":1461912732,
-    "wof:geomhash":"0dee1b92968accdc90931f3c950c941d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"947800c257b492d79c56223635c6c291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729625,
+            "region_id":85688747,
+            "venue_id":739707733
+        }
+    ],
     "wof:id":739707733,
-    "wof:lastmodified":1472652203,
+    "wof:lastmodified":1492039218,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

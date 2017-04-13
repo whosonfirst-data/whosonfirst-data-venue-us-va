@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735006,37.318241,-76.735006,37.318241",
     "geom:latitude":37.318241,
     "geom:longitude":-76.735006,
@@ -33,17 +34,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OT8aukHHAAznJYP6nM3nA_37.318241_-76.735006@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885873,
-    "wof:geomhash":"72ba13f234e38e931d94c06c7d662850",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7b3e4b1fb0fd079fd912378c099b2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722641669
+        }
+    ],
     "wof:id":722641669,
-    "wof:lastmodified":1472651424,
+    "wof:lastmodified":1492069329,
     "wof:name":"Ewell Station",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

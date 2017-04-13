@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.171633,38.959674,-77.171633,38.959674",
     "geom:latitude":38.959674,
     "geom:longitude":-77.171633,
@@ -32,17 +33,32 @@
         "dispute"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2G3ZlKewb0ybteZRxb3Xxu_38.959674_-77.171633@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895648,
-    "wof:geomhash":"394c1fe9a7e1aeb70382136f43d83c0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c773e576b82ea2c2c532b0d2576c441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":723127261
+        }
+    ],
     "wof:id":723127261,
-    "wof:lastmodified":1472651377,
+    "wof:lastmodified":1492058674,
     "wof:name":"Tech Mediation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

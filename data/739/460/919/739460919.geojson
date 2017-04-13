@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.243176,37.367842,-79.243176,37.367842",
     "geom:latitude":37.367842,
     "geom:longitude":-79.243176,
@@ -39,7 +40,13 @@
     ],
     "sg:website":"www.warnco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_530j2ozy86RF6bRlbnMk6h_37.367842_-79.243176@1294252573"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461907731,
     "wof:geomhash":"f86dd26fb3c727dd7aafb1740860e0f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739460919
+        }
+    ],
     "wof:id":739460919,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492031233,
     "wof:name":"Warnco Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

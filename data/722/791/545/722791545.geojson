@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.500102,37.112998,-76.500102,37.112998",
     "geom:latitude":37.112998,
     "geom:longitude":-76.500102,
@@ -38,6 +39,7 @@
         85633793,
         101729041,
         102085961,
+        85879189,
         85879241
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888722,
-    "wof:geomhash":"ab3ff60df15a300e04d9a37a96efea2b",
+    "wof:geomhash":"55e5d7d50926aec6cbbcc1f6ec6c8066",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879189,
+            "region_id":85688747,
+            "venue_id":722791545
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":722791545,
-    "wof:lastmodified":1472651817,
+    "wof:lastmodified":1492069810,
     "wof:name":"Art Louis Photographics",
-    "wof:parent_id":85879241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.021232,36.692972,-82.021232,36.692972",
     "geom:latitude":36.692972,
     "geom:longitude":-82.021232,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LdYz7FLCLATc4c5LimtCt_36.692972_-82.021232@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895695,
-    "wof:geomhash":"84fcca679bd5d5faa7f0f3e182dc7734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6d22877ee9fca08b68446519e0c6e49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723129843
+        }
+    ],
     "wof:id":723129843,
-    "wof:lastmodified":1472651400,
+    "wof:lastmodified":1492057770,
     "wof:name":"Emmanuel Baptist Church",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

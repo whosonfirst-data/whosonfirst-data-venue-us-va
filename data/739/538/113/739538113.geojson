@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.523934,37.115134,-81.523934,37.115134",
     "geom:latitude":37.115134,
     "geom:longitude":-81.523934,
@@ -28,7 +29,10 @@
     "sg:postcode":"24651",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22Oq5CMWCuS0ireAZG40e5_37.115134_-81.523934@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461909122,
     "wof:geomhash":"da437a3cf62715fecc8aa6ab5e50503d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739538113
+        }
+    ],
     "wof:id":739538113,
-    "wof:lastmodified":1472651738,
+    "wof:lastmodified":1492029876,
     "wof:name":"Murray's Laundromat",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.348391,39.043219,-77.348391,39.043219",
     "geom:latitude":39.043219,
     "geom:longitude":-77.348391,
@@ -32,7 +33,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TxZzTs0KgRS4vnQxasboL_39.043219_-77.348391@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909285,
     "wof:geomhash":"6acd685591ee5956b594095551a72531",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":739546161
+        }
+    ],
     "wof:id":739546161,
-    "wof:lastmodified":1472651857,
+    "wof:lastmodified":1492031590,
     "wof:name":"Commonwealth Appraisal Grp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

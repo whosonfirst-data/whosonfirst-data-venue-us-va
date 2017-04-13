@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.570301,37.496572,-77.570301,37.496572",
     "geom:latitude":37.496572,
     "geom:longitude":-77.570301,
@@ -48,7 +49,12 @@
     ],
     "sg:website":"http://www.nationwide.com/agent/Richmond-VIRGINIA-insurance-agent/dexter-williams/office.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SwRrgQYNIt7LqenL6CXwE_37.496572_-77.570301@1303262551"
@@ -56,9 +62,17 @@
     "wof:country":"US",
     "wof:created":1461913092,
     "wof:geomhash":"3dd022e3deebb69108bc82f4d5584ff7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724995
+        }
+    ],
     "wof:id":739724995,
-    "wof:lastmodified":1472652266,
+    "wof:lastmodified":1492030932,
     "wof:name":"Dnl Insurance & Financial Services Ltd - Nationwide Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

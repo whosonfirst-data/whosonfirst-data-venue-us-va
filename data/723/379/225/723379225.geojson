@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755041,37.265143,-76.755041,37.265143",
     "geom:latitude":37.265143,
     "geom:longitude":-76.755041,
@@ -31,17 +32,26 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hJ54yff00i1GevleF419E_37.265143_-76.755041@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900573,
-    "wof:geomhash":"3f7d62ecd8d689e5c3863e072b5fbb86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21fcea3b70f1c87e748662497f233f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546907,
+            "venue_id":723379225
+        }
+    ],
     "wof:id":723379225,
-    "wof:lastmodified":1472652103,
+    "wof:lastmodified":1492059305,
     "wof:name":"First Investments of Virginia",
     "wof:parent_id":420546907,
     "wof:placetype":"venue",

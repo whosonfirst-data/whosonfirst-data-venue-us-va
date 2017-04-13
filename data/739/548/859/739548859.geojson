@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905645,37.062565,-76.905645,37.062565",
     "geom:latitude":37.062565,
     "geom:longitude":-76.905645,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uQ3DSP9ngl1H02neZbXjj_37.062565_-76.905645@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909336,
-    "wof:geomhash":"6c6a37c7bda6023722c17da416763b90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2772d6a00f6215e54a0e092f8b16548d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739548859
+        }
+    ],
     "wof:id":739548859,
-    "wof:lastmodified":1472651878,
+    "wof:lastmodified":1492045073,
     "wof:name":"Winston Lowe",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

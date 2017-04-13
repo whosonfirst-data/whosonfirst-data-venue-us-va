@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.497466,38.052178,-78.497466,38.052178",
     "geom:latitude":38.052178,
     "geom:longitude":-78.497466,
@@ -34,7 +35,10 @@
         85633793,
         101728535,
         102080639,
-        85876703
+        85876703,
+        101729633,
+        102084933,
+        85867261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1461899553,
-    "wof:geomhash":"1b1b84b18e4afaf86b1f83a31755a653",
+    "wof:geomhash":"4882bf2242181dc3cd1996f0d245068a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +56,21 @@
             "neighbourhood_id":85876703,
             "region_id":85688747,
             "venue_id":723325735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "neighbourhood_id":85867261,
+            "region_id":85688747,
+            "venue_id":723325735
         }
     ],
     "wof:id":723325735,
-    "wof:lastmodified":1472651908,
+    "wof:lastmodified":1492054674,
     "wof:name":"Coyner Associates Incorporated",
-    "wof:parent_id":85876703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.439982,38.837064,-77.439982,38.837064",
     "geom:latitude":38.837064,
     "geom:longitude":-77.439982,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ItaMfVuAT2vsgsBpLhoEE_38.837064_-77.439982@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897383,
-    "wof:geomhash":"a533ec3652409890e189aaa762b4c60c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4d728e706d731cd64ff15d0a2ef15df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723215953
+        }
+    ],
     "wof:id":723215953,
-    "wof:lastmodified":1472651645,
+    "wof:lastmodified":1492059439,
     "wof:name":"Knolls At Newgate Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

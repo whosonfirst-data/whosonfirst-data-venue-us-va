@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.943737,37.262741,-79.943737,37.262741",
     "geom:latitude":37.262741,
     "geom:longitude":-79.943737,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gibKXJ0BTA3ibMvJEwMb1_37.262741_-79.943737@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905635,
-    "wof:geomhash":"4b32a1d8b12e13bbe8131633c80009d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a37c4eba0de669338284eae424821504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739351267
+        }
+    ],
     "wof:id":739351267,
-    "wof:lastmodified":1472651323,
+    "wof:lastmodified":1492042280,
     "wof:name":"Financial Management Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548426,39.118153,-77.548426,39.118153",
     "geom:latitude":39.118153,
     "geom:longitude":-77.548426,
@@ -32,7 +33,13 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y7h62EUXLnKAY7vT6QpwK_39.118153_-77.548426@1303262497"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910741,
     "wof:geomhash":"7726b498e594dc2f963c5040b5af92aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616291
+        }
+    ],
     "wof:id":739616291,
-    "wof:lastmodified":1472651990,
+    "wof:lastmodified":1492029658,
     "wof:name":"Allen It Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.538141,37.648355,-77.538141,37.648355",
     "geom:latitude":37.648355,
     "geom:longitude":-77.538141,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fXNihja8p02OCkM9iNboA_37.648355_-77.538141@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896905,
-    "wof:geomhash":"85b58a7af6670df8137294194a75e148",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a86a91707cde469a362b3cfd579e3b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723191083
+        }
+    ],
     "wof:id":723191083,
-    "wof:lastmodified":1472651549,
+    "wof:lastmodified":1492058202,
     "wof:name":"Hometown Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

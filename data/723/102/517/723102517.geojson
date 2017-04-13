@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.526472,37.338193,-79.526472,37.338193",
     "geom:latitude":37.338193,
     "geom:longitude":-79.526472,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WWU5YTq6WJK5kg8PZmMR1_37.338193_-79.526472@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895169,
-    "wof:geomhash":"1b56b7ac9967969e7a4a11566584e94f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ae35f030827c4c1b4fc7091b3951a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723102517
+        }
+    ],
     "wof:id":723102517,
-    "wof:lastmodified":1472651320,
+    "wof:lastmodified":1492058794,
     "wof:name":"Peaks Manor Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

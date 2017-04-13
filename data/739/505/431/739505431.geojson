@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.644522,38.643316,-78.644522,38.643316",
     "geom:latitude":38.643316,
     "geom:longitude":-78.644522,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HUPahgnVwE7UfzULFiGsn_38.643316_-78.644522@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908526,
     "wof:geomhash":"c12217e76ab2476844ff1b3dd1346da3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739505431
+        }
+    ],
     "wof:id":739505431,
-    "wof:lastmodified":1472651792,
+    "wof:lastmodified":1492032231,
     "wof:name":"John J Patricia L Brumback Frm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

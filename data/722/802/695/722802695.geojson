@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.985019,37.315806,-79.985019,37.315806",
     "geom:latitude":37.315806,
     "geom:longitude":-79.985019,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YQWUzFDEKCMqD1D2ijnua_37.315806_-79.985019@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888936,
-    "wof:geomhash":"7853ecd0c96223e2e8085b6effc32927",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e18c7216bd7a737423a3288e940663ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722802695
+        }
+    ],
     "wof:id":722802695,
-    "wof:lastmodified":1472651814,
+    "wof:lastmodified":1492073636,
     "wof:name":"Countryside Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

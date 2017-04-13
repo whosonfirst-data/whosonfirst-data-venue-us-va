@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.52829,38.230545,-77.52829,38.230545",
     "geom:latitude":38.230545,
     "geom:longitude":-77.52829,
@@ -28,7 +29,12 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qgh2T0POeJma1Rtm4tTKl_38.230545_-77.528290@1303262546"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912405,
     "wof:geomhash":"83a3fc54a450129f3e87249ae07c284d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693239
+        }
+    ],
     "wof:id":739693239,
-    "wof:lastmodified":1472652170,
+    "wof:lastmodified":1492031376,
     "wof:name":"Houston Lefear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

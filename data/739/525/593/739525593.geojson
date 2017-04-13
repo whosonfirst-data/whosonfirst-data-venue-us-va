@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.180565,39.171843,-78.180565,39.171843",
     "geom:latitude":39.171843,
     "geom:longitude":-78.180565,
@@ -28,7 +29,13 @@
     "sg:postcode":"22601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ErrAp6CpFEyOJjYs5hQCx_39.171843_-78.180565@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908898,
     "wof:geomhash":"4d6ffa0e1c725ba425e1ebdb0a29ab7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739525593
+        }
+    ],
     "wof:id":739525593,
-    "wof:lastmodified":1472651801,
+    "wof:lastmodified":1492032628,
     "wof:name":"Jay and Jae Lc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

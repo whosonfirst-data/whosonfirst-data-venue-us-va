@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451027,38.778411,-77.451027,38.778411",
     "geom:latitude":38.778411,
     "geom:longitude":-77.451027,
@@ -33,17 +34,32 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TnlpCNFJ79YhMOBFJnjG7_38.778411_-77.451027@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899342,
-    "wof:geomhash":"984ddef63661b1aa23df759514f1d466",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b541de32aafaf676bec7c01fa4200f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":723314333
+        }
+    ],
     "wof:id":723314333,
-    "wof:lastmodified":1472651781,
+    "wof:lastmodified":1492047964,
     "wof:name":"Paul's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

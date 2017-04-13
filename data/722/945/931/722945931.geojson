@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.988685,36.706333,-81.988685,36.706333",
     "geom:latitude":36.706333,
     "geom:longitude":-81.988685,
@@ -32,17 +33,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0apuQr7r0IeNiWHd2Ix7jk_36.706333_-81.988685@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891749,
-    "wof:geomhash":"ea54845d92452d69e2b2323a893d4cc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32ccc93c58f27b59714a081fb09ef0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722945931
+        }
+    ],
     "wof:id":722945931,
-    "wof:lastmodified":1472652268,
+    "wof:lastmodified":1492073288,
     "wof:name":"VA Dept Alcoholic Bev Ctrl",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

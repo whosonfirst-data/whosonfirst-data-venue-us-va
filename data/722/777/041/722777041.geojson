@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600501,36.953411,-76.600501,36.953411",
     "geom:latitude":36.953411,
     "geom:longitude":-76.600501,
@@ -32,17 +33,32 @@
         "check"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D3HGIm5I5gmTScrjh0e1M_36.953411_-76.600501@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888443,
-    "wof:geomhash":"ff1d7341b21d19ec4d9ddfc9c56094d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eed5b6272cb502c198e90c9ced68f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":722777041
+        }
+    ],
     "wof:id":722777041,
-    "wof:lastmodified":1472651720,
+    "wof:lastmodified":1492069401,
     "wof:name":"Check Into Cash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

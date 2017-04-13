@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451448,38.163643,-77.451448,38.163643",
     "geom:latitude":38.163643,
     "geom:longitude":-77.451448,
@@ -33,7 +34,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IEG7koReHDpB6HOGvmFk1_38.163643_-77.451448@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908312,
     "wof:geomhash":"c01fd7abdbdd56a28c39b1cf5ef1c737",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739493197
+        }
+    ],
     "wof:id":739493197,
-    "wof:lastmodified":1472651673,
+    "wof:lastmodified":1492029957,
     "wof:name":"George's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

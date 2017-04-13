@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.531036,37.513901,-77.531036,37.513901",
     "geom:latitude":37.513901,
     "geom:longitude":-77.531036,
@@ -43,7 +44,13 @@
     ],
     "sg:website":"http://www.vitasinnovativehospicecare.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03x4HWuS6IfqteuKpIw7bi_37.513901_-77.531036@1303262550"
@@ -51,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461912949,
     "wof:geomhash":"1bc8294b0621d95e02f848f7d7587a35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739717949
+        }
+    ],
     "wof:id":739717949,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492031499,
     "wof:name":"Vitas Innovative Hopice Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.025186,36.712,-82.025186,36.712",
     "geom:latitude":36.712,
     "geom:longitude":-82.025186,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KvxG6ORC21EUYXVk93DBX_36.712000_-82.025186@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894635,
-    "wof:geomhash":"6b1eaed5061eb0078153493202d4a598",
-    "wof:hierarchy":[],
+    "wof:geomhash":"472224a4c5c1073c99c1858291f67f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723077515
+        }
+    ],
     "wof:id":723077515,
-    "wof:lastmodified":1472651277,
+    "wof:lastmodified":1492057037,
     "wof:name":"Providence Community Church",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

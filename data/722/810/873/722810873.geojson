@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556637,39.102509,-77.556637,39.102509",
     "geom:latitude":39.102509,
     "geom:longitude":-77.556637,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WCXBbN4xzx0rJXNoxfCZ1_39.102509_-77.556637@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889081,
-    "wof:geomhash":"a75ec7db853861f6c31045c4028be3fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfa57434f507daf967d5c47920d30ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722810873
+        }
+    ],
     "wof:id":722810873,
-    "wof:lastmodified":1472651887,
+    "wof:lastmodified":1492074996,
     "wof:name":"Expedited Exibit Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

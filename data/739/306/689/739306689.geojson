@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371353,38.508215,-77.371353,38.508215",
     "geom:latitude":38.508215,
     "geom:longitude":-77.371353,
@@ -31,7 +32,11 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vo6UHvPK0ijYga5xrHcsa_38.508215_-77.371353@1294252573"
@@ -39,11 +44,22 @@
     "wof:country":"US",
     "wof:created":1461904712,
     "wof:geomhash":"d350d58ade19e54b3e9f6ef167a5912c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739306689
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739306689
+        }
+    ],
     "wof:id":739306689,
-    "wof:lastmodified":1472651210,
+    "wof:lastmodified":1492030304,
     "wof:name":"Hamilton Jewelers",
-    "wof:parent_id":420547175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

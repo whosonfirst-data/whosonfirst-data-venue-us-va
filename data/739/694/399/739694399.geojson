@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.282767,37.853481,-76.282767,37.853481",
     "geom:latitude":37.853481,
     "geom:longitude":-76.282767,
@@ -28,7 +29,12 @@
     "sg:postcode":"22539",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FFoyi4CWBy1oc0gvIvPfs_37.853481_-76.282767@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912426,
     "wof:geomhash":"69cf8b6613098471e1952811155d650b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694399
+        }
+    ],
     "wof:id":739694399,
-    "wof:lastmodified":1472652174,
+    "wof:lastmodified":1492030243,
     "wof:name":"I Am Ministry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

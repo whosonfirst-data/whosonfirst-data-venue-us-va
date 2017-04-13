@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.387732,39.024111,-77.387732,39.024111",
     "geom:latitude":39.024111,
     "geom:longitude":-77.387732,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38KRxLnWD97ESfVmE68NXe_39.024111_-77.387732@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901757,
-    "wof:geomhash":"3c6dc8d1d53a30d706123bb04a4d69fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28918093a26aa8e7d7dc21647b6841b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723439785
+        }
+    ],
     "wof:id":723439785,
-    "wof:lastmodified":1472652263,
+    "wof:lastmodified":1492061464,
     "wof:name":"United Stations Radio Net",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

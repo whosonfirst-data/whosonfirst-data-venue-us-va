@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506049,37.497191,-77.506049,37.497191",
     "geom:latitude":37.497191,
     "geom:longitude":-77.506049,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QBy1IiRMDZkp0ouulDEak_37.497191_-77.506049@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892191,
-    "wof:geomhash":"549a6a5352bdffcb270adf7ed782accf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9287c540f4beaedeb1fe0bf022ef5e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722968035
+        }
+    ],
     "wof:id":722968035,
-    "wof:lastmodified":1472652283,
+    "wof:lastmodified":1492075341,
     "wof:name":"Davis Concrete Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

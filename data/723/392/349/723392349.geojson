@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.753068,38.089255,-76.753068,38.089255",
     "geom:latitude":38.089255,
     "geom:longitude":-76.753068,
@@ -31,17 +32,30 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7go0G5mrBdszcVapHi1WZW_38.089255_-76.753068@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900826,
-    "wof:geomhash":"4be98789b374aa3cffd9cc32c939ef28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20129703a450f2783043adb8f2b14999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723392349
+        }
+    ],
     "wof:id":723392349,
-    "wof:lastmodified":1472652122,
+    "wof:lastmodified":1492049964,
     "wof:name":"McDonalds Partners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453511,38.835498,-77.453511,38.835498",
     "geom:latitude":38.835498,
     "geom:longitude":-77.453511,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uNUqDtxfCTAr2S2YIeABC_38.835498_-77.453511@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902391,
-    "wof:geomhash":"00f7a583d8976efa0d5cc8dc65fa6626",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86fa07085ecf0c83ffa705583a81429e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723473927
+        }
+    ],
     "wof:id":723473927,
-    "wof:lastmodified":1472652318,
+    "wof:lastmodified":1492051446,
     "wof:name":"RWG Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

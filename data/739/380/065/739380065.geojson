@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.727973,37.348654,-76.727973,37.348654",
     "geom:latitude":37.348654,
     "geom:longitude":-76.727973,
@@ -28,7 +29,10 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p1UCPYZzjSLPJaW4qD7S5_37.348654_-76.727973@1294252573"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461906197,
     "wof:geomhash":"765eb1568b32c545be0cc08c9203a117",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739380065
+        }
+    ],
     "wof:id":739380065,
-    "wof:lastmodified":1472651335,
+    "wof:lastmodified":1492033081,
     "wof:name":"Great Wolf Lodge Resort",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

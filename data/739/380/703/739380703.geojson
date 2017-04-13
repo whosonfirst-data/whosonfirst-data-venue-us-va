@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.615686,37.519644,-77.615686,37.519644",
     "geom:latitude":37.519644,
     "geom:longitude":-77.615686,
@@ -32,7 +33,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LU9vjaSUgz6lHRNSCFhJu_37.519644_-77.615686@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906210,
     "wof:geomhash":"ff91d0403e5c1d06648c54c01f24a846",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739380703
+        }
+    ],
     "wof:id":739380703,
-    "wof:lastmodified":1472651358,
+    "wof:lastmodified":1492033082,
     "wof:name":"Whitescarver  Hurd & Obenchain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

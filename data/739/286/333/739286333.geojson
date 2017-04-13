@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.522318,36.930467,-76.522318,36.930467",
     "geom:latitude":36.930467,
     "geom:longitude":-76.522318,
@@ -34,7 +35,13 @@
         "typesetting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2inIYCbEHSLHs8kaCz1nFf_36.930467_-76.522318@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461904282,
     "wof:geomhash":"8258bb2b3c8f9fd0e0c198082b984657",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739286333
+        }
+    ],
     "wof:id":739286333,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492030108,
     "wof:name":"G & L Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

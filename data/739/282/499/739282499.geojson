@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.405236,38.678323,-77.405236,38.678323",
     "geom:latitude":38.678323,
     "geom:longitude":-77.405236,
@@ -37,7 +38,12 @@
     ],
     "sg:website":"www.yourhome-inspector.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TwaZpRXqamJdNtzWqi3d9_38.678323_-77.405236@1294252573"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461904206,
     "wof:geomhash":"80f0dca52927225007af6c7b63ebb997",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739282499
+        }
+    ],
     "wof:id":739282499,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492031913,
     "wof:name":"Your Home Inspector LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

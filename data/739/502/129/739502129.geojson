@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.561686,37.476916,-77.561686,37.476916",
     "geom:latitude":37.476916,
     "geom:longitude":-77.561686,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.bethanyplace.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729311,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ysu93pW014iUyfsLBAW0R_37.476916_-77.561686@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461908468,
     "wof:geomhash":"a8f0c2bee4feb4500396ddd2cfc22396",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729311,
+            "region_id":85688747,
+            "venue_id":739502129
+        }
+    ],
     "wof:id":739502129,
-    "wof:lastmodified":1472651678,
+    "wof:lastmodified":1492029600,
     "wof:name":"Bethany Place Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

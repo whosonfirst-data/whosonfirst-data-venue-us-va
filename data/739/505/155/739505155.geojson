@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.015213,36.567143,-80.015213,36.567143",
     "geom:latitude":36.567143,
     "geom:longitude":-80.015213,
@@ -31,7 +32,12 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MMomt4soD8pTy6nH25oNa_36.567143_-80.015213@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908521,
     "wof:geomhash":"633032275445796b9ab197dd62fe9147",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086705,
+            "region_id":85688747,
+            "venue_id":739505155
+        }
+    ],
     "wof:id":739505155,
-    "wof:lastmodified":1472651739,
+    "wof:lastmodified":1492032244,
     "wof:name":"George Brinegar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

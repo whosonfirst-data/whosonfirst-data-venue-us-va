@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.620191,38.794286,-77.620191,38.794286",
     "geom:latitude":38.794286,
     "geom:longitude":-77.620191,
@@ -31,17 +32,32 @@
         "dermatologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Af4A94DmMNfGITbxnw7fz_38.794286_-77.620191@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910610,
-    "wof:geomhash":"baee903935022ec1546c1e0aac116310",
-    "wof:hierarchy":[],
+    "wof:geomhash":"764d83e480f4359b471284b0b0924fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739610507
+        }
+    ],
     "wof:id":739610507,
-    "wof:lastmodified":1472651960,
+    "wof:lastmodified":1492043841,
     "wof:name":"Warrenton Dermatology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

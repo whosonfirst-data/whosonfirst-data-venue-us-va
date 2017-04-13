@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.205474,38.825001,-77.205474,38.825001",
     "geom:latitude":38.825001,
     "geom:longitude":-77.205474,
@@ -37,6 +38,7 @@
         85633793,
         101729723,
         102084863,
+        85842309,
         85830181
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897736,
-    "wof:geomhash":"4aa9ba8bc757db66ea7eb024ea56cc80",
+    "wof:geomhash":"509c8d5f74999d121a450ee2dc19ce8c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729723,
+            "neighbourhood_id":85842309,
+            "region_id":85688747,
+            "venue_id":723231391
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723231391,
-    "wof:lastmodified":1472651643,
+    "wof:lastmodified":1492059827,
     "wof:name":"Keung Vending",
-    "wof:parent_id":85830181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

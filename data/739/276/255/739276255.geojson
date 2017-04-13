@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.414625,38.821216,-77.414625,38.821216",
     "geom:latitude":38.821216,
     "geom:longitude":-77.414625,
@@ -35,17 +36,32 @@
         "foreign"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kufrbyZdQuhjoXMW8lhFC_38.821216_-77.414625@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904065,
-    "wof:geomhash":"0ac06a513569558062639ae87f7d432b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05222711da0f9d5c0bbf77672b3e83d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739276255
+        }
+    ],
     "wof:id":739276255,
-    "wof:lastmodified":1472651151,
+    "wof:lastmodified":1492039764,
     "wof:name":"Alex Schiller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.999726,36.614923,-81.999726,36.614923",
     "geom:latitude":36.614923,
     "geom:longitude":-81.999726,
@@ -31,17 +32,26 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mhCtpBN3mGTARRw7nIT7B_36.614923_-81.999726@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893917,
-    "wof:geomhash":"0324e213ea1ba9df08360e776d0749f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dc623ea050138ab3388f722bfc2d385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723045163
+        }
+    ],
     "wof:id":723045163,
-    "wof:lastmodified":1472651152,
+    "wof:lastmodified":1492051779,
     "wof:name":"Raymond James",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

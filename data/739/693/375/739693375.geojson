@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.525909,38.24268,-77.525909,38.24268",
     "geom:latitude":38.24268,
     "geom:longitude":-77.525909,
@@ -28,7 +29,12 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XgF8j7hrj8VRyxF3ubafH_38.242680_-77.525909@1303262546"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912407,
     "wof:geomhash":"49ff9f0317cb64d2b2568e49e4b380e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693375
+        }
+    ],
     "wof:id":739693375,
-    "wof:lastmodified":1472652179,
+    "wof:lastmodified":1492031379,
     "wof:name":"Bob's Carwash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

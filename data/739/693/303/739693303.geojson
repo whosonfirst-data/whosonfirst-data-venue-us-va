@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.509328,38.292348,-77.509328,38.292348",
     "geom:latitude":38.292348,
     "geom:longitude":-77.509328,
@@ -31,7 +32,12 @@
         "tailor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yIqnvEPUhiWb3Ku6r0Jne_38.292348_-77.509328@1303262546"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912406,
     "wof:geomhash":"83d760afbce9ac9cd77a93283c9d0fc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693303
+        }
+    ],
     "wof:id":739693303,
-    "wof:lastmodified":1472652177,
+    "wof:lastmodified":1492031375,
     "wof:name":"Dandy Custom Tailor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

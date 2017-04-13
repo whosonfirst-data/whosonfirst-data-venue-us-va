@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.392152,37.302442,-78.392152,37.302442",
     "geom:latitude":37.302442,
     "geom:longitude":-78.392152,
@@ -32,17 +33,32 @@
         "resource"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DQ9h7dsSsZ2yoQv7fI77V_37.302442_-78.392152@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889548,
-    "wof:geomhash":"80177dfbedc5f3793da1d9cceb8fec9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6a106929c40bb97067d95cc411e26dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":722835587
+        }
+    ],
     "wof:id":722835587,
-    "wof:lastmodified":1472651956,
+    "wof:lastmodified":1492064668,
     "wof:name":"Prince Edward Social Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

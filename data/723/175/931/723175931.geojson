@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.490961,37.629191,-77.490961,37.629191",
     "geom:latitude":37.629191,
     "geom:longitude":-77.490961,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mhJdAjuJkCKqehsxfPodr_37.629191_-77.490961@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896605,
-    "wof:geomhash":"08ee33ca9770b09bfe4957ecc5d02adf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07b7cac569d77ab0c5fc940cc93ed060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":723175931
+        }
+    ],
     "wof:id":723175931,
-    "wof:lastmodified":1472651494,
+    "wof:lastmodified":1492055306,
     "wof:name":"Hill Contracting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

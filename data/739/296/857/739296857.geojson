@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761715,37.239326,-76.761715,37.239326",
     "geom:latitude":37.239326,
     "geom:longitude":-76.761715,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"www.ontheline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JQzvryH5iqrTbYrWdQoar_37.239326_-76.761715@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461904498,
     "wof:geomhash":"cc827d3a10dde0193430be7b55dee4ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":739296857
+        }
+    ],
     "wof:id":739296857,
-    "wof:lastmodified":1472651238,
+    "wof:lastmodified":1492029519,
     "wof:name":"Oller Studios Inc",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.886453,36.697272,-79.886453,36.697272",
     "geom:latitude":36.697272,
     "geom:longitude":-79.886453,
@@ -32,17 +33,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t8QDWe2IGSO5cEzjrB0CT_36.697272_-79.886453@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891462,
-    "wof:geomhash":"2ff64ed6ea77185b943bdc7b166c435d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac596d7f520bbdc02f568f8c018c51dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":722932525
+        }
+    ],
     "wof:id":722932525,
-    "wof:lastmodified":1472652180,
+    "wof:lastmodified":1492069495,
     "wof:name":"HCA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

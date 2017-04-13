@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726523,37.368084,-76.726523,37.368084",
     "geom:latitude":37.368084,
     "geom:longitude":-76.726523,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zBFgYSLNx5MRaju5vSUaj_37.368084_-76.726523@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903925,
-    "wof:geomhash":"bdfe5a749e36e03c96809272ea9ab5af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce0a1e3d9254bc875efae9298109ea13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":739270489
+        }
+    ],
     "wof:id":739270489,
-    "wof:lastmodified":1472651157,
+    "wof:lastmodified":1492039407,
     "wof:name":"John F Sawin Builder Inc",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

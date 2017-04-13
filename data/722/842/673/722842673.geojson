@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.592751,38.32215,-77.592751,38.32215",
     "geom:latitude":38.32215,
     "geom:longitude":-77.592751,
@@ -31,19 +32,28 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UqxB7zvBoU2UFMuPYsuno_38.322150_-77.592751@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889676,
-    "wof:geomhash":"4f608ea875598492666ab2e61a3e8d96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40e4df66e030ddc5207473bf820c7d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":722842673
+        }
+    ],
     "wof:id":722842673,
-    "wof:lastmodified":1472651956,
+    "wof:lastmodified":1492065386,
     "wof:name":"Specialty Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

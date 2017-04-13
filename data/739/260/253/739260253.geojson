@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429501,37.324556,-77.429501,37.324556",
     "geom:latitude":37.324556,
     "geom:longitude":-77.429501,
@@ -31,7 +32,12 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J9frKYtPokogXGho6Snzp_37.324556_-77.429501@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903705,
     "wof:geomhash":"bedef0d46008c72f93aefafaed7b3609",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739260253
+        }
+    ],
     "wof:id":739260253,
-    "wof:lastmodified":1472651103,
+    "wof:lastmodified":1492030872,
     "wof:name":"Custom Silks & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

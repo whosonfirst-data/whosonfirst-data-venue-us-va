@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.535441,37.972735,-77.535441,37.972735",
     "geom:latitude":37.972735,
     "geom:longitude":-77.535441,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5medRW6WHvHOVab0OSUd6B_37.972735_-77.535441@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895624,
-    "wof:geomhash":"00a5ef7e0bf8bd598013e47737b7a84c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5368beb638b4808a68ee0438db56fc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723126219
+        }
+    ],
     "wof:id":723126219,
-    "wof:lastmodified":1472651382,
+    "wof:lastmodified":1492058109,
     "wof:name":"Beamer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453415,38.89388,-77.453415,38.89388",
     "geom:latitude":38.89388,
     "geom:longitude":-77.453415,
@@ -56,17 +57,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65qtUPfRTKXA1fy9rcAfUv_38.893880_-77.453415@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910571,
-    "wof:geomhash":"d5550f8f0cb3eeb4a18a6e9be0700ede",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f11ac3dee7f70903de869cd61d05d3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739608259
+        }
+    ],
     "wof:id":739608259,
-    "wof:lastmodified":1472651950,
+    "wof:lastmodified":1492042582,
     "wof:name":"A B & S Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

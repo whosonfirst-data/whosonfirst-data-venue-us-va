@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.013945,36.696981,-82.013945,36.696981",
     "geom:latitude":36.696981,
     "geom:longitude":-82.013945,
@@ -33,17 +34,26 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gC0JDxzcNg0wLmLL6VWH5_36.696981_-82.013945@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890091,
-    "wof:geomhash":"c6c5ad064c173fc35492c91e485362f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88aac903cf34abd12fecc9632c27f976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722864175
+        }
+    ],
     "wof:id":722864175,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492073435,
     "wof:name":"South West VA Cmnty Dev Fing",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

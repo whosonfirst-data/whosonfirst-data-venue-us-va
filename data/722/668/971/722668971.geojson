@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.23865,38.791404,-77.23865,38.791404",
     "geom:latitude":38.791404,
     "geom:longitude":-77.23865,
@@ -37,7 +38,9 @@
         85633793,
         101729795,
         102084863,
-        85809469
+        85809469,
+        101729731,
+        85826119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886379,
-    "wof:geomhash":"6b39eb7a18be6b9a7da0ca6404d700b0",
+    "wof:geomhash":"12042c77397758e4cf09f785ea691feb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":85809469,
             "region_id":85688747,
             "venue_id":722668971
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729731,
+            "neighbourhood_id":85826119,
+            "region_id":85688747,
+            "venue_id":722668971
         }
     ],
     "wof:id":722668971,
-    "wof:lastmodified":1472651498,
+    "wof:lastmodified":1492071640,
     "wof:name":"Bush Faten",
-    "wof:parent_id":85809469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

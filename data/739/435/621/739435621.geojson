@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.655202,39.134136,-77.655202,39.134136",
     "geom:latitude":39.134136,
     "geom:longitude":-77.655202,
@@ -28,7 +29,13 @@
     "sg:postcode":"20158",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728825,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bNMbG08FgUwqPgYto7GX9_39.134136_-77.655202@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907273,
     "wof:geomhash":"28883289b04a03d9d7a6e65ff4184c83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728825,
+            "region_id":85688747,
+            "venue_id":739435621
+        }
+    ],
     "wof:id":739435621,
-    "wof:lastmodified":1472651538,
+    "wof:lastmodified":1492029401,
     "wof:name":"Harmony United Methdst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

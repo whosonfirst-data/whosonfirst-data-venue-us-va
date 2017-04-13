@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.550394,39.125178,-77.550394,39.125178",
     "geom:latitude":39.125178,
     "geom:longitude":-77.550394,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TR3zmdprbIFuXisAj76os_39.125178_-77.550394@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902769,
-    "wof:geomhash":"4507ae954cef7103d7980a3b43414fd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"361a09b5478d2374ec9162181e0bc776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723491417
+        }
+    ],
     "wof:id":723491417,
-    "wof:lastmodified":1472652340,
+    "wof:lastmodified":1492061195,
     "wof:name":"Novate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71597,39.140333,-77.71597,39.140333",
     "geom:latitude":39.140333,
     "geom:longitude":-77.71597,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dY9yjTDAEQG13sffRxfB3_39.140333_-77.715970@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888066,
-    "wof:geomhash":"88d3d3f244bf75e4527e2795cd592b1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6de021d732fa6e5ede1c2eaa1f17859a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":722756993
+        }
+    ],
     "wof:id":722756993,
-    "wof:lastmodified":1472651783,
+    "wof:lastmodified":1492071583,
     "wof:name":"Cardinal Concrete Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

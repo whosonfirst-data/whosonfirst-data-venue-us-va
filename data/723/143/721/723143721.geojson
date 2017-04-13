@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.407465,37.016199,-76.407465,37.016199",
     "geom:latitude":37.016199,
     "geom:longitude":-76.407465,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"www.thetypefactory.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GQ4ibg38oa5mvC48PAXuH_37.016199_-76.407465@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895973,
-    "wof:geomhash":"873473200821e2ed671620369318083e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e026775f25d0817f90ae2354aae1782b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":723143721
+        }
+    ],
     "wof:id":723143721,
-    "wof:lastmodified":1472651416,
+    "wof:lastmodified":1492054625,
     "wof:name":"Type Factory Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

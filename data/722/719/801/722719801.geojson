@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.152768,38.863445,-77.152768,38.863445",
     "geom:latitude":38.863445,
     "geom:longitude":-77.152768,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729759,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ekn87MoEQgPwg9UsHJAIE_38.863445_-77.152768@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887337,
-    "wof:geomhash":"be6ee1aa26fe50943f34805d52e918fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c9a97686be77ddf916037122c9c14cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729759,
+            "region_id":85688747,
+            "venue_id":722719801
+        }
+    ],
     "wof:id":722719801,
-    "wof:lastmodified":1472651598,
+    "wof:lastmodified":1492073471,
     "wof:name":"Polytech USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

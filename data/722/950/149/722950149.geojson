@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.880611,36.999087,-76.880611,36.999087",
     "geom:latitude":36.999087,
     "geom:longitude":-76.880611,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28jwerJuU4ygsNzs1fqW3f_36.999087_-76.880611@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891827,
-    "wof:geomhash":"2998683be18dae8173bc54fe33090df2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78cf3aa628fb239519365c9e81bbf238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722950149
+        }
+    ],
     "wof:id":722950149,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492072480,
     "wof:name":"R A Goodrich Trucking",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

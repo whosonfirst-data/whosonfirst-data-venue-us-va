@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.281299,37.187309,-77.281299,37.187309",
     "geom:latitude":37.187309,
     "geom:longitude":-77.281299,
@@ -38,17 +39,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dAfyYswVIltOqKKLFkSO8_37.187309_-77.281299@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913278,
-    "wof:geomhash":"2aff53a1a5587791fca61cc1c56bf336",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5512c79cb34bd953f8c78265ae902943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739734001
+        }
+    ],
     "wof:id":739734001,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492043347,
     "wof:name":"Sac Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

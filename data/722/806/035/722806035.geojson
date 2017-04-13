@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532634,37.414477,-76.532634,37.414477",
     "geom:latitude":37.414477,
     "geom:longitude":-76.532634,
@@ -31,17 +32,32 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GaITiZYCHzJg2pQGOsksM_37.414477_-76.532634@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888993,
-    "wof:geomhash":"3b17d209c5a0478b67a86f17533df0db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a645ade0e38859eda2de6db68d973a6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":722806035
+        }
+    ],
     "wof:id":722806035,
-    "wof:lastmodified":1472651722,
+    "wof:lastmodified":1492064929,
     "wof:name":"Cary Adult Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

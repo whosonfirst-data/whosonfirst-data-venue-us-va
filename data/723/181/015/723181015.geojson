@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.349662,37.511552,-77.349662,37.511552",
     "geom:latitude":37.511552,
     "geom:longitude":-77.349662,
@@ -40,17 +41,30 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FoxDwRg38WSS7q2KstBm6_37.511552_-77.349662@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896702,
-    "wof:geomhash":"3516751e34766730f0fe0aa96a0ec6b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66f3ab3b73fc74c1b8f5ef88fc819f65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723181015
+        }
+    ],
     "wof:id":723181015,
-    "wof:lastmodified":1472651498,
+    "wof:lastmodified":1492057871,
     "wof:name":"Richmond Manufacturing Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

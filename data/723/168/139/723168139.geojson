@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429029,38.309734,-77.429029,38.309734",
     "geom:latitude":38.309734,
     "geom:longitude":-77.429029,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xx5h4TCY7ISuIGNLizhru_38.309734_-77.429029@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896445,
-    "wof:geomhash":"2b350d2d74de1e152a59480458c6b7e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c96bf26a2e4dc5a2d0c2c05188865fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723168139
+        }
+    ],
     "wof:id":723168139,
-    "wof:lastmodified":1472651442,
+    "wof:lastmodified":1492059668,
     "wof:name":"Potomac Tile & Marble",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.227232,36.579183,-82.227232,36.579183",
     "geom:latitude":36.579183,
     "geom:longitude":-82.227232,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v9eH92R0SL5JDy3BiKud2_36.579183_-82.227232@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884624,
-    "wof:geomhash":"474b84b69246d81543e09bcf2ddc451c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7235c524cb07f22e1ecf4979187adc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":722581139
+        }
+    ],
     "wof:id":722581139,
-    "wof:lastmodified":1472651197,
+    "wof:lastmodified":1492066507,
     "wof:name":"Windsor Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758658,37.267711,-76.758658,37.267711",
     "geom:latitude":37.267711,
     "geom:longitude":-76.758658,
@@ -37,17 +38,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2V6HsAx8smJdkBPhs2Jmd6_37.267711_-76.758658@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899434,
-    "wof:geomhash":"3f06527be4d16626d71e0bd6ec31c114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d29becd03f4bf1e319001dd042774e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546907,
+            "venue_id":723319097
+        }
+    ],
     "wof:id":723319097,
-    "wof:lastmodified":1472651738,
+    "wof:lastmodified":1492049711,
     "wof:name":"Mid County Park",
     "wof:parent_id":420546907,
     "wof:placetype":"venue",

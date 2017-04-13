@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.386127,38.37518,-77.386127,38.37518",
     "geom:latitude":38.37518,
     "geom:longitude":-77.386127,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547151
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sJhtI9rpWRc1Nx9thhwcM_38.375180_-77.386127@1303262547"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912438,
     "wof:geomhash":"3c6f2c1906f38c2360ced8722dfccf90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547151,
+            "venue_id":739694975
+        }
+    ],
     "wof:id":739694975,
-    "wof:lastmodified":1472652202,
+    "wof:lastmodified":1492030252,
     "wof:name":"All Landscaping Services",
     "wof:parent_id":420547151,
     "wof:placetype":"venue",

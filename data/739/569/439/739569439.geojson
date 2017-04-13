@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.103613,36.59635,-77.103613,36.59635",
     "geom:latitude":36.59635,
     "geom:longitude":-77.103613,
@@ -28,7 +29,12 @@
         "cotton"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55Zyh2R92ZbFsqnU7ytUaj_36.596350_-77.103613@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909769,
     "wof:geomhash":"3f3d8d11487ebcfeed363bb884cd9dae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":739569439
+        }
+    ],
     "wof:id":739569439,
-    "wof:lastmodified":1472651897,
+    "wof:lastmodified":1492030914,
     "wof:name":"Willie & Randy Drake Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

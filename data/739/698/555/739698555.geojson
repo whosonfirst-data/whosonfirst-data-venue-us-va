@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.498584,38.069806,-78.498584,38.069806",
     "geom:latitude":38.069806,
     "geom:longitude":-78.498584,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"http://www.gemc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OQrPpXbuRL3dBXggf4xXu_38.069806_-78.498584@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912520,
     "wof:geomhash":"64d10c43296aecd31cd35f264901052c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739698555
+        }
+    ],
     "wof:id":739698555,
-    "wof:lastmodified":1472652178,
+    "wof:lastmodified":1492029548,
     "wof:name":"Great Eastern Management Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

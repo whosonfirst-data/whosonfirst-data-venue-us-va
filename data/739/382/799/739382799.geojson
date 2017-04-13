@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.170769,39.186376,-78.170769,39.186376",
     "geom:latitude":39.186376,
     "geom:longitude":-78.170769,
@@ -31,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tnRi0q8e4Y3W4ldWkBThW_39.186376_-78.170769@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906247,
     "wof:geomhash":"019517f11803ccab2149271a8a539c68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739382799
+        }
+    ],
     "wof:id":739382799,
-    "wof:lastmodified":1472651372,
+    "wof:lastmodified":1492030650,
     "wof:name":"Richards Amherst Chevron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

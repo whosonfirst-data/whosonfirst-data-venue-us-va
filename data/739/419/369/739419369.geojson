@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.56537,37.491996,-77.56537,37.491996",
     "geom:latitude":37.491996,
     "geom:longitude":-77.56537,
@@ -31,7 +32,12 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S2SAqkvtpHTivw0qmgsIZ_37.491996_-77.565370@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906947,
     "wof:geomhash":"636b1dccfb58ae0e4f10f4717eefd7ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739419369
+        }
+    ],
     "wof:id":739419369,
-    "wof:lastmodified":1472651503,
+    "wof:lastmodified":1492029793,
     "wof:name":"Johnson Mirmiran & Thompson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

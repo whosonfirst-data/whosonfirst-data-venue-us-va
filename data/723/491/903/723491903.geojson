@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635617,38.810674,-77.635617,38.810674",
     "geom:latitude":38.810674,
     "geom:longitude":-77.635617,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MZvMEM1lGRt2I8fSoSoUT_38.810674_-77.635617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902778,
-    "wof:geomhash":"ece2aeb749268a355d25446a2736cb1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c940e1ef604ac6276d53b6d774f66a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":723491903
+        }
+    ],
     "wof:id":723491903,
-    "wof:lastmodified":1472652355,
+    "wof:lastmodified":1492061210,
     "wof:name":"Transnet Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

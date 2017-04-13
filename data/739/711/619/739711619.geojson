@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.344059,37.509894,-77.344059,37.509894",
     "geom:latitude":37.509894,
     "geom:longitude":-77.344059,
@@ -37,17 +38,32 @@
         "foods-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pwT5mQF82dQyJpSTd3I37_37.509894_-77.344059@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912812,
-    "wof:geomhash":"4acef1993fad3b9b06f17838a4b3e6a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2994d1c31db6e86400b5b60483a0f12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739711619
+        }
+    ],
     "wof:id":739711619,
-    "wof:lastmodified":1472652196,
+    "wof:lastmodified":1492044992,
     "wof:name":"Southeast Frozen Food Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

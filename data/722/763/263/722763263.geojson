@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510742,38.805519,-77.510742,38.805519",
     "geom:latitude":38.805519,
     "geom:longitude":-77.510742,
@@ -34,17 +35,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00OPrttOa9a4GoyZiP19TE_38.805519_-77.510742@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888181,
-    "wof:geomhash":"3b3d09b1c4c193a24f3146f24c11f159",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cb3d543314916e18b70b8f260fbc3a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722763263
+        }
+    ],
     "wof:id":722763263,
-    "wof:lastmodified":1472651762,
+    "wof:lastmodified":1492070381,
     "wof:name":"Ahc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

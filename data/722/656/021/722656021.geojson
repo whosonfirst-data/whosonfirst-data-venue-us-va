@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.991015,36.706197,-81.991015,36.706197",
     "geom:latitude":36.706197,
     "geom:longitude":-81.991015,
@@ -31,17 +32,26 @@
         "collectible"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zu9m6BB3Pdn1QGQLXPAdI_36.706197_-81.991015@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886134,
-    "wof:geomhash":"db89e008e147740d40d1d80f700f2f0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ef0a17af45b64dba823561bbd89cd38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722656021
+        }
+    ],
     "wof:id":722656021,
-    "wof:lastmodified":1472651436,
+    "wof:lastmodified":1492066102,
     "wof:name":"Victory Lane Racing",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

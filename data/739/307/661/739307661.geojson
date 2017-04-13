@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.405552,38.970297,-78.405552,38.970297",
     "geom:latitude":38.970297,
     "geom:longitude":-78.405552,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M7a64NmDGnmv15X1LbJwW_38.970297_-78.405552@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461904728,
     "wof:geomhash":"908c507f41bc77c03573e6b2e2f41c4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739307661
+        }
+    ],
     "wof:id":739307661,
-    "wof:lastmodified":1472651228,
+    "wof:lastmodified":1492029984,
     "wof:name":"King Plumbing & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

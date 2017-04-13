@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.415389,38.374122,-77.415389,38.374122",
     "geom:latitude":38.374122,
     "geom:longitude":-77.415389,
@@ -33,7 +34,10 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dhU9XtIcafbwpT1Ro5RDd_38.374122_-77.415389@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461907070,
     "wof:geomhash":"112ecc562d09bfc7cde96188272fe2a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739424855
+        }
+    ],
     "wof:id":739424855,
-    "wof:lastmodified":1472651525,
+    "wof:lastmodified":1492032752,
     "wof:name":"Relate It Inc",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

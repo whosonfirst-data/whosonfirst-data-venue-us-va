@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.16473,39.181752,-78.16473,39.181752",
     "geom:latitude":39.181752,
     "geom:longitude":-78.16473,
@@ -33,17 +34,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZuzIuWjfPwsiUExK5APL2_39.181752_-78.164730@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890981,
-    "wof:geomhash":"a67fd8ae1327fa94e742cbf49b624ff4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e17bba9c77cf967810824ec6154a49c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722909643
+        }
+    ],
     "wof:id":722909643,
-    "wof:lastmodified":1472652119,
+    "wof:lastmodified":1492070148,
     "wof:name":"Counseling Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

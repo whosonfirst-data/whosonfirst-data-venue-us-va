@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.776004,39.049069,-77.776004,39.049069",
     "geom:latitude":39.049069,
     "geom:longitude":-77.776004,
@@ -31,7 +32,12 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r9NQYMqZ1aoGCxgYm2lyQ_39.049069_-77.776004@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904950,
     "wof:geomhash":"5c6269e33cd2bee8ca866086bf5825fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739319255
+        }
+    ],
     "wof:id":739319255,
-    "wof:lastmodified":1472651251,
+    "wof:lastmodified":1492031281,
     "wof:name":"Hidden Brook Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.532886,37.335606,-79.532886,37.335606",
     "geom:latitude":37.335606,
     "geom:longitude":-79.532886,
@@ -32,17 +33,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aU2S4F75m8ndrcaeLNIhQ_37.335606_-79.532886@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891828,
-    "wof:geomhash":"8ba9996427a48f2a085241d417e242d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15ae213afe84bda575acc4678532fee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":722950193
+        }
+    ],
     "wof:id":722950193,
-    "wof:lastmodified":1472652237,
+    "wof:lastmodified":1492072460,
     "wof:name":"Express Check Advance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

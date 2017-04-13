@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.210247,38.70118,-77.210247,38.70118",
     "geom:latitude":38.70118,
     "geom:longitude":-77.210247,
@@ -31,17 +32,32 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ej8fHlnuBifWdKHzpdP43_38.701180_-77.210247@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901254,
-    "wof:geomhash":"1fb8fcc374b18774037d68fef5f71614",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70eab03bf3feddac738f0ca4aa4ae593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":723414359
+        }
+    ],
     "wof:id":723414359,
-    "wof:lastmodified":1472652183,
+    "wof:lastmodified":1492050981,
     "wof:name":"Computer Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

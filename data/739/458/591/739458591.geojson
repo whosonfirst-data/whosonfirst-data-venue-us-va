@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942163,37.255925,-79.942163,37.255925",
     "geom:latitude":37.255925,
     "geom:longitude":-79.942163,
@@ -31,7 +32,13 @@
         "flour"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fKl25tXGKSZWg5qZolwZd_37.255925_-79.942163@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907693,
     "wof:geomhash":"66e5c96489626aa65f8270b513edb9d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739458591
+        }
+    ],
     "wof:id":739458591,
-    "wof:lastmodified":1472651585,
+    "wof:lastmodified":1492030034,
     "wof:name":"Mennel Milling Of Va",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.533353,37.11208,-81.533353,37.11208",
     "geom:latitude":37.11208,
     "geom:longitude":-81.533353,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5figyZy28mjlpbxBWkKSyy_37.112080_-81.533353@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885704,
-    "wof:geomhash":"1f2d560d692e3b8472e86d91b581e211",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8222cca56eab23886aab941bcd7e656c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722633037
+        }
+    ],
     "wof:id":722633037,
-    "wof:lastmodified":1472651398,
+    "wof:lastmodified":1492068664,
     "wof:name":"Altizer Walk & White",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

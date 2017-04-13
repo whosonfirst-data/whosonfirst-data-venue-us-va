@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.086831,37.288052,-80.086831,37.288052",
     "geom:latitude":37.288052,
     "geom:longitude":-80.086831,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZZzLgtdBN1c2HwE2pC6g5_37.288349_-80.086833@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909842,
-    "wof:geomhash":"ceef3a719e274704d12b20cbc32637ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fc6171d9bece51ed10c72350898d8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739572301
+        }
+    ],
     "wof:id":739572301,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492040125,
     "wof:name":"Carr's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

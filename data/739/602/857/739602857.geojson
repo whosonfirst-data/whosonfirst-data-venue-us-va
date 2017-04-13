@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510644,38.779903,-77.510644,38.779903",
     "geom:latitude":38.779903,
     "geom:longitude":-77.510644,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.wachovia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W98tpGx6xR3UwuzCQiC7t_38.779903_-77.510644@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910470,
-    "wof:geomhash":"955df817873a0c713e1f2eadc1b1ef5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67f88e3a925a711bbff013e7b64403c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739602857
+        }
+    ],
     "wof:id":739602857,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492046988,
     "wof:name":"Wachovia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

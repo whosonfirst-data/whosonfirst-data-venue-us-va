@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.506947,37.231925,-80.506947,37.231925",
     "geom:latitude":37.231925,
     "geom:longitude":-80.506947,
@@ -31,17 +32,26 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YvKXvQ1AivOSE3mkxxhNb_37.231925_-80.506947@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884603,
-    "wof:geomhash":"7ce3ede01b26b5ebbfca91d1cd358397",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1562b4ef2dc0b7bbd5ddc31f8d2e9b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547025,
+            "venue_id":722580005
+        }
+    ],
     "wof:id":722580005,
-    "wof:lastmodified":1472651186,
+    "wof:lastmodified":1492064682,
     "wof:name":"Val-Pak",
     "wof:parent_id":420547025,
     "wof:placetype":"venue",

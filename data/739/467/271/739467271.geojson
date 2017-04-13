@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.545512,39.092151,-77.545512,39.092151",
     "geom:latitude":39.092151,
     "geom:longitude":-77.545512,
@@ -31,7 +32,13 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jq0yzTBa2ljMjhZHeh4J3_39.092151_-77.545512@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907841,
     "wof:geomhash":"807c464d13c714992842fb56f5cf78ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739467271
+        }
+    ],
     "wof:id":739467271,
-    "wof:lastmodified":1472651608,
+    "wof:lastmodified":1492030513,
     "wof:name":"Elite Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

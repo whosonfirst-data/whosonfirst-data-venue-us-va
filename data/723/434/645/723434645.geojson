@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.438476,38.846011,-77.438476,38.846011",
     "geom:latitude":38.846011,
     "geom:longitude":-77.438476,
@@ -31,17 +32,32 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d7sVf4Zx8ohHw1OtClqHR_38.846011_-77.438476@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901650,
-    "wof:geomhash":"5755843d0bbb7392d5ad855bca8a44a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1736cca0a5723418f13107fa95c05439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723434645
+        }
+    ],
     "wof:id":723434645,
-    "wof:lastmodified":1472652252,
+    "wof:lastmodified":1492057522,
     "wof:name":"Jupiter Global Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

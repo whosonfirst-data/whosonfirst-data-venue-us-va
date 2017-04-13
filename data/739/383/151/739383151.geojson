@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.352587,37.519874,-77.352587,37.519874",
     "geom:latitude":37.519874,
     "geom:longitude":-77.352587,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729373,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gtWMQGj7wPnPdCdqTbesO_37.519874_-77.352587@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906253,
-    "wof:geomhash":"2ffb11e4417764cf866e17ed72e21d9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"665119223acb20ccdaf83e13d7e1f6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729373,
+            "region_id":85688747,
+            "venue_id":739383151
+        }
+    ],
     "wof:id":739383151,
-    "wof:lastmodified":1472651340,
+    "wof:lastmodified":1492039131,
     "wof:name":"ABC Phones Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

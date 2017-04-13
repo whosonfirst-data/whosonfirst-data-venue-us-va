@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445038,38.309211,-77.445038,38.309211",
     "geom:latitude":38.309211,
     "geom:longitude":-77.445038,
@@ -31,19 +32,28 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IjjdZMYLnnhM04evMX66W_38.309211_-77.445038@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900460,
-    "wof:geomhash":"4acb446623be2f8ae5ba4804f728cde0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fed808e7aade19a8139db083f7b6cf31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723374259
+        }
+    ],
     "wof:id":723374259,
-    "wof:lastmodified":1472652094,
+    "wof:lastmodified":1492056668,
     "wof:name":"Fraternal Order Of Eagles",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

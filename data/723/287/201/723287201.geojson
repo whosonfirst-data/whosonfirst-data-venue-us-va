@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.212113,38.883776,-77.212113,38.883776",
     "geom:latitude":38.883776,
     "geom:longitude":-77.212113,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729771,
+        101729755,
         102084863,
+        85842731,
+        101729771,
         85841869
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461898813,
-    "wof:geomhash":"fc1401800b11fd75cc45d70d75d8af64",
+    "wof:geomhash":"a0465f6f794a8b37f2859d8168b24dc1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729755,
+            "neighbourhood_id":85842731,
+            "region_id":85688747,
+            "venue_id":723287201
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":723287201,
-    "wof:lastmodified":1472651736,
+    "wof:lastmodified":1492061263,
     "wof:name":"Davids Co",
-    "wof:parent_id":85841869,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

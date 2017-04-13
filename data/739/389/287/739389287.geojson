@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.238935,38.791847,-77.238935,38.791847",
     "geom:latitude":38.791847,
     "geom:longitude":-77.238935,
@@ -34,7 +35,9 @@
         85633793,
         101729795,
         102084863,
-        85809469
+        85809469,
+        101729731,
+        85826119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906378,
-    "wof:geomhash":"d7866d98dee09661f634374d52dd28ba",
+    "wof:geomhash":"31ddf236eadafecd5a4269274c28433b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,21 @@
             "neighbourhood_id":85809469,
             "region_id":85688747,
             "venue_id":739389287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729731,
+            "neighbourhood_id":85826119,
+            "region_id":85688747,
+            "venue_id":739389287
         }
     ],
     "wof:id":739389287,
-    "wof:lastmodified":1472651375,
+    "wof:lastmodified":1492041954,
     "wof:name":"Bibiana K Popal",
-    "wof:parent_id":85809469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

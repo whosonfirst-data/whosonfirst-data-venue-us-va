@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.562934,37.601745,-77.562934,37.601745",
     "geom:latitude":37.601745,
     "geom:longitude":-77.562934,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FWmD5Ox0tIU287DXLoJqz_37.601745_-77.562934@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895708,
-    "wof:geomhash":"c725e88b06e6e077a22a998fa2692909",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745d0b347cd90a3ce45e8b37d7ca4a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723130481
+        }
+    ],
     "wof:id":723130481,
-    "wof:lastmodified":1472651386,
+    "wof:lastmodified":1492049344,
     "wof:name":"Williams Investments Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

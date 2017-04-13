@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369382,38.511177,-77.369382,38.511177",
     "geom:latitude":38.511177,
     "geom:longitude":-77.369382,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jkgwU4MkIC7aqCg6g8cDR_38.511177_-77.369382@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894242,
-    "wof:geomhash":"44114226d6851137c663a170edb7a9c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd3514d98c847fc8c5ceee79f2c91c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":723061273
+        }
+    ],
     "wof:id":723061273,
-    "wof:lastmodified":1472651213,
+    "wof:lastmodified":1492047290,
     "wof:name":"EZY Auto Sales",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

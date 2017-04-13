@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.313416,36.913437,-80.313416,36.913437",
     "geom:latitude":36.913437,
     "geom:longitude":-80.313416,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728837,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UaHAmPnvoc6mJAhEzIyHE_36.913437_-80.313416@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908078,
-    "wof:geomhash":"c201d80f152d5ac7c0a359f515685201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b92951364eb03c8d3b1288e8909a69e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "locality_id":101728837,
+            "region_id":85688747,
+            "venue_id":739480363
+        }
+    ],
     "wof:id":739480363,
-    "wof:lastmodified":1472651634,
+    "wof:lastmodified":1492046159,
     "wof:name":"Floyd Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

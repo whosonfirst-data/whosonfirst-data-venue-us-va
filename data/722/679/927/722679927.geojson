@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.902301,38.076019,-78.902301,38.076019",
     "geom:latitude":38.076019,
     "geom:longitude":-78.902301,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VtLnsT7ZStaoJn3oV9uYN_38.076019_-78.902301@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886579,
-    "wof:geomhash":"4070db2339baaf661cae067a1c67f152",
-    "wof:hierarchy":[],
+    "wof:geomhash":"068674af3c4acc9c771eb3c94384b3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722679927
+        }
+    ],
     "wof:id":722679927,
-    "wof:lastmodified":1472651544,
+    "wof:lastmodified":1492066809,
     "wof:name":"Todd Harman MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

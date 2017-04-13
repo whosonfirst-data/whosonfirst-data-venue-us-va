@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.863325,38.032531,-76.863325,38.032531",
     "geom:latitude":38.032531,
     "geom:longitude":-76.863325,
@@ -32,7 +33,12 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eUJrmHyrqFrPwuTzzaZPP_38.032531_-76.863325@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907909,
     "wof:geomhash":"4a4c9e17e76e332770008b1a74a567cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739471331
+        }
+    ],
     "wof:id":739471331,
-    "wof:lastmodified":1472651609,
+    "wof:lastmodified":1492031141,
     "wof:name":"France-Packett Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

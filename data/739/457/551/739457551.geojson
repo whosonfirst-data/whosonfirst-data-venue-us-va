@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.122024,36.533075,-82.122024,36.533075",
     "geom:latitude":36.533075,
     "geom:longitude":-82.122024,
@@ -28,7 +29,12 @@
     "sg:postcode":"37620",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688701,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZbeLa2oigsVCbyug1KGlN_36.533075_-82.122024@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907670,
     "wof:geomhash":"46e023c7d895c92efc4560b221d122aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "region_id":85688701,
+            "venue_id":739457551
+        }
+    ],
     "wof:id":739457551,
-    "wof:lastmodified":1472651587,
+    "wof:lastmodified":1492031868,
     "wof:name":"G&G Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

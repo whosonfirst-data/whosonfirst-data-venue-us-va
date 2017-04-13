@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.860963,38.101271,-78.860963,38.101271",
     "geom:latitude":38.101271,
     "geom:longitude":-78.860963,
@@ -31,17 +32,32 @@
         "rigger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729645,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YATp0NhhrGIZByDD1Zph6_38.101271_-78.860963@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908716,
-    "wof:geomhash":"ab2ec76cbe4cfd50eea66ca97899ecb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8085c507b9286842431b4232722d55aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729645,
+            "region_id":85688747,
+            "venue_id":739515741
+        }
+    ],
     "wof:id":739515741,
-    "wof:lastmodified":1472651828,
+    "wof:lastmodified":1492040879,
     "wof:name":"Spencer & Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

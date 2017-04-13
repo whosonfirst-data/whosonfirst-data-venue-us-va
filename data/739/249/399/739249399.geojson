@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.320603,37.544143,-79.320603,37.544143",
     "geom:latitude":37.544143,
     "geom:longitude":-79.320603,
@@ -31,7 +32,12 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wVR4O92d2svfsUWVQbIgD_37.544143_-79.320603@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903467,
     "wof:geomhash":"184c9b029e280f92bac9963a649fc691",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087249,
+            "region_id":85688747,
+            "venue_id":739249399
+        }
+    ],
     "wof:id":739249399,
-    "wof:lastmodified":1472651088,
+    "wof:lastmodified":1492029623,
     "wof:name":"William Phillip Gibbs MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

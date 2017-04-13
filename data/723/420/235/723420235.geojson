@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.427557,38.291157,-77.427557,38.291157",
     "geom:latitude":38.291157,
     "geom:longitude":-77.427557,
@@ -32,19 +33,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zs7Y7cnTEObejIyIAG4Yk_38.291157_-77.427557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901361,
-    "wof:geomhash":"8facf272a0b5bc78640d9f671e41a087",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6178b33d6be3ab58d85c0f3ca48e9908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":723420235
+        }
+    ],
     "wof:id":723420235,
-    "wof:lastmodified":1472652227,
+    "wof:lastmodified":1492050455,
     "wof:name":"Hampton A Covert Masonry",
-    "wof:parent_id":420547193,
+    "wof:parent_id":420547177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

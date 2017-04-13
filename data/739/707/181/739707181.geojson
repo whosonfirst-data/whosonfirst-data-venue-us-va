@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.51263,38.034616,-78.51263,38.034616",
     "geom:latitude":38.034616,
     "geom:longitude":-78.51263,
@@ -32,17 +33,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2snC0OUbxqTsII7N2TU9lE_38.034616_-78.512630@1303262548"
     },
     "wof:country":"US",
     "wof:created":1461912716,
-    "wof:geomhash":"c26066b32a6df131bed9230f480d6fb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c7bd7865f6ef01bdb8a6ed4bd884236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":739707181
+        }
+    ],
     "wof:id":739707181,
-    "wof:lastmodified":1472652173,
+    "wof:lastmodified":1492039225,
     "wof:name":"System & Information Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

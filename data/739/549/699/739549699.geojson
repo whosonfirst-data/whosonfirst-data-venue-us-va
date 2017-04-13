@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735249,37.32149,-76.735249,37.32149",
     "geom:latitude":37.32149,
     "geom:longitude":-76.735249,
@@ -31,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NfMNDANfmYMi313qtDD2l_37.321490_-76.735249@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461909350,
     "wof:geomhash":"a2049e76397f8f23481dfb09b5542006",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":739549699
+        }
+    ],
     "wof:id":739549699,
-    "wof:lastmodified":1472651876,
+    "wof:lastmodified":1492032212,
     "wof:name":"Colonial Clippers LTD",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

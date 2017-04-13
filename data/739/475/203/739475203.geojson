@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433526,38.899085,-77.433526,38.899085",
     "geom:latitude":38.899085,
     "geom:longitude":-77.433526,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EoEZrAV9cybJPg3dMf8Y4_38.899085_-77.433526@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907981,
-    "wof:geomhash":"f340dff50a76a847e36b0a15eea39cec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46cc386ac42908fd6e9fa968d32bc054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739475203
+        }
+    ],
     "wof:id":739475203,
-    "wof:lastmodified":1472651608,
+    "wof:lastmodified":1492041076,
     "wof:name":"ADCS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

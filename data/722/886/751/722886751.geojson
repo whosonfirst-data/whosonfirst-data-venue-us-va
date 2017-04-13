@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.188602,36.807578,-76.188602,36.807578",
     "geom:latitude":36.807578,
     "geom:longitude":-76.188602,
@@ -40,6 +41,7 @@
         85633793,
         101728745,
         102081929,
+        85826091,
         420548413
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890516,
-    "wof:geomhash":"170faf64d9a95e93d5018ee9190009c0",
+    "wof:geomhash":"231bf3af1039e561da055ab1a19f9837",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85826091,
+            "region_id":85688747,
+            "venue_id":722886751
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":722886751,
-    "wof:lastmodified":1472652061,
+    "wof:lastmodified":1492073057,
     "wof:name":"Jack Rabbit Postal Center",
-    "wof:parent_id":420548413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

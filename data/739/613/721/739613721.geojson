@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.6398,38.830007,-77.6398,38.830007",
     "geom:latitude":38.830007,
     "geom:longitude":-77.6398,
@@ -38,7 +39,12 @@
     ],
     "sg:website":"HolidayMuse.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z0jYvA6kDh6Ob4O2P0YJ0_38.830007_-77.639800@1303262496"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461910679,
     "wof:geomhash":"b7d29bc4b762edbf04d86ff7f1b55e24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613721
+        }
+    ],
     "wof:id":739613721,
-    "wof:lastmodified":1472652004,
+    "wof:lastmodified":1492032425,
     "wof:name":"HOLIDAY MUSE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

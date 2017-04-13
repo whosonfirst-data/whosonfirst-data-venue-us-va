@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.544557,37.521622,-77.544557,37.521622",
     "geom:latitude":37.521622,
     "geom:longitude":-77.544557,
@@ -31,17 +32,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JMQrx4igj7NzN061ZfFBo_37.521622_-77.544557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896772,
-    "wof:geomhash":"5357dab7c947642588adcd63240877e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f3455136b9524f09bf64af5c748eaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":723184221
+        }
+    ],
     "wof:id":723184221,
-    "wof:lastmodified":1472651509,
+    "wof:lastmodified":1492056119,
     "wof:name":"Fraher Firm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

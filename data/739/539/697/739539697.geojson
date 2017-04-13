@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.810957,37.3302,-80.810957,37.3302",
     "geom:latitude":37.3302,
     "geom:longitude":-80.810957,
@@ -32,17 +33,32 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728849,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R7PqxzrdeQFWBuQEzOMsZ_37.330200_-80.810957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909148,
-    "wof:geomhash":"d30073ff70d4fc5bf2068e4eeddaf6ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8c35dc4ca610b406f75b3591664fd7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728849,
+            "region_id":85688747,
+            "venue_id":739539697
+        }
+    ],
     "wof:id":739539697,
-    "wof:lastmodified":1472651836,
+    "wof:lastmodified":1492041624,
     "wof:name":"Smith Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

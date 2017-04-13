@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731997,37.31696,-76.731997,37.31696",
     "geom:latitude":37.31696,
     "geom:longitude":-76.731997,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53pP4ZwHWvBIF5af9OWCM8_37.316960_-76.731997@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897063,
-    "wof:geomhash":"cdaf5826931079c93762941ae4aaa51a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b48881d5acfd9177c5cb08e8f2cfc66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":723199373
+        }
+    ],
     "wof:id":723199373,
-    "wof:lastmodified":1472651573,
+    "wof:lastmodified":1492061521,
     "wof:name":"Williamsburg Merchants Inc",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

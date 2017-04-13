@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.205597,38.931611,-78.205597,38.931611",
     "geom:latitude":38.931611,
     "geom:longitude":-78.205597,
@@ -34,7 +35,8 @@
         85633793,
         101728731,
         102085975,
-        420547305
+        420547305,
+        85845101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898092,
-    "wof:geomhash":"bae43a5beb4e968a55a54d4e3dd096cc",
+    "wof:geomhash":"b6950d0a9f3bc13d90b567321cf23fbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,19 @@
             "neighbourhood_id":420547305,
             "region_id":85688747,
             "venue_id":723248789
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085975,
+            "neighbourhood_id":85845101,
+            "region_id":85688747,
+            "venue_id":723248789
         }
     ],
     "wof:id":723248789,
-    "wof:lastmodified":1472651700,
+    "wof:lastmodified":1492056694,
     "wof:name":"E Z Filer Systems",
-    "wof:parent_id":420547305,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

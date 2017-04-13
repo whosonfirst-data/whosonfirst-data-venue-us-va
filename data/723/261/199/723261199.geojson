@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48198,38.421141,-77.48198,38.421141",
     "geom:latitude":38.421141,
     "geom:longitude":-77.48198,
@@ -31,19 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547115,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0B89tOfVxOBueo1ZEIlpEJ_38.421141_-77.481980@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898325,
-    "wof:geomhash":"5c4602e4eae1d6aa1a7c319598f3a8ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4440026a2285370bf93b5fbda969cc96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547115,
+            "venue_id":723261199
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":723261199
+        }
+    ],
     "wof:id":723261199,
-    "wof:lastmodified":1472651750,
+    "wof:lastmodified":1492054989,
     "wof:name":"Mountainview Volunteer Fire",
-    "wof:parent_id":420547251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.069755,37.287798,-80.069755,37.287798",
     "geom:latitude":37.287798,
     "geom:longitude":-80.069755,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fA5cYW4qiDyyY59YXNAoa_37.287798_-80.069755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903218,
-    "wof:geomhash":"5714fcdd24c849b84eb6048eb8b7f570",
-    "wof:hierarchy":[],
+    "wof:geomhash":"426fcca41a6e02e8cbfd9d54f61e70e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723510985
+        }
+    ],
     "wof:id":723510985,
-    "wof:lastmodified":1472652363,
+    "wof:lastmodified":1492058646,
     "wof:name":"Salem Paving Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

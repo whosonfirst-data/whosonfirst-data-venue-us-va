@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.534976,38.79251,-77.534976,38.79251",
     "geom:latitude":38.79251,
     "geom:longitude":-77.534976,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cKiowyJDA88W025W6X5bO_38.792510_-77.534976@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904299,
     "wof:geomhash":"c7eeebf1d37f3a594662ea4b2fe13cd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739286755
+        }
+    ],
     "wof:id":739286755,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492030101,
     "wof:name":"Dean Divers Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

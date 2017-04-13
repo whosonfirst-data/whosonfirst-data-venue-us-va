@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.447134,37.048149,-76.447134,37.048149",
     "geom:latitude":37.048149,
     "geom:longitude":-76.447134,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k4d59T9IGZKT13KWubU2A_37.048149_-76.447134@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905090,
-    "wof:geomhash":"b7ab14ea5fe7694a9674a16bfcf09e6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faccead6f847581a2aa7a1516f9a58ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739325523
+        }
+    ],
     "wof:id":739325523,
-    "wof:lastmodified":1472651280,
+    "wof:lastmodified":1492039642,
     "wof:name":"Farmington Garden Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

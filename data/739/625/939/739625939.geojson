@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.299257,38.821467,-77.299257,38.821467",
     "geom:latitude":38.821467,
     "geom:longitude":-77.299257,
@@ -40,17 +41,32 @@
         "people"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sDugbSJtupqLYZkXSquYr_38.821467_-77.299257@1303262538"
     },
     "wof:country":"US",
     "wof:created":1461910955,
-    "wof:geomhash":"c391acc8683dc374a7d0c8e15ecfaec1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a48f735fff1ba0ee1c894d886320e763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739625939
+        }
+    ],
     "wof:id":739625939,
-    "wof:lastmodified":1472652023,
+    "wof:lastmodified":1492039105,
     "wof:name":"T Heatherwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

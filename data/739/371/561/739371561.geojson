@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.338738,38.822704,-77.338738,38.822704",
     "geom:latitude":38.822704,
     "geom:longitude":-77.338738,
@@ -31,7 +32,12 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HPhONfw7847lK59Je2wAI_38.822704_-77.338738@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906023,
     "wof:geomhash":"096b555a72e6f01d2f7637d2d428ec96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739371561
+        }
+    ],
     "wof:id":739371561,
-    "wof:lastmodified":1472651351,
+    "wof:lastmodified":1492031710,
     "wof:name":"Willams Ventures Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.269468,38.831111,-77.269468,38.831111",
     "geom:latitude":38.831111,
     "geom:longitude":-77.269468,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729829,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xW6Eu6nlsMd2rIIaQPJeA_38.831111_-77.269468@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893007,
-    "wof:geomhash":"cb5a0bb0ab837585bb949f8bc5f26420",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63fb0ce2d85ed8e15bdd51842b2b3577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729829,
+            "region_id":85688747,
+            "venue_id":723003393
+        }
+    ],
     "wof:id":723003393,
-    "wof:lastmodified":1472651076,
+    "wof:lastmodified":1492060468,
     "wof:name":"IDR Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

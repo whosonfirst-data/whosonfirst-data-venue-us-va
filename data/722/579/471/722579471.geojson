@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.707966,37.825099,-78.707966,37.825099",
     "geom:latitude":37.825099,
     "geom:longitude":-78.707966,
@@ -37,17 +38,38 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gW3YuJENl81NJ10142niI_37.825099_-78.707966@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884591,
-    "wof:geomhash":"47a351599c819a074ee27ca3868b6c9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9c08c1062f3f31ad2ce9dcf3ef9406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":722579471
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722579471
+        }
+    ],
     "wof:id":722579471,
-    "wof:lastmodified":1472651211,
+    "wof:lastmodified":1492068724,
     "wof:name":"Walton's Mountain Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

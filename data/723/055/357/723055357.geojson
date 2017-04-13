@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609029,38.478899,-77.609029,38.478899",
     "geom:latitude":38.478899,
     "geom:longitude":-77.609029,
@@ -32,17 +33,26 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xWSTBBrgmnbkDBCbetjEk_38.478899_-77.609029@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894117,
-    "wof:geomhash":"1ad3c30b25d6944d96ce57473be0889c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd3a45fe70f5d2c49592b1c6d90506a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":723055357
+        }
+    ],
     "wof:id":723055357,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492058363,
     "wof:name":"Noah's Promise Inc",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

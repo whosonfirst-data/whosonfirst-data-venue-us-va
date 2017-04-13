@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.5961,38.384986,-77.5961,38.384986",
     "geom:latitude":38.384986,
     "geom:longitude":-77.5961,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547217
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KDvCQf8Ht54BSJPj6XJO4_38.384986_-77.596100@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893214,
-    "wof:geomhash":"820e331e936a436ff166cf9d33f4a243",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0260c98d3179c7c099f87703213131a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547217,
+            "venue_id":723013685
+        }
+    ],
     "wof:id":723013685,
-    "wof:lastmodified":1472651116,
+    "wof:lastmodified":1492054066,
     "wof:name":"Wilsey Home Improvement",
     "wof:parent_id":420547217,
     "wof:placetype":"venue",

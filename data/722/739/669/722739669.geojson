@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.947069,37.312104,-79.947069,37.312104",
     "geom:latitude":37.312104,
     "geom:longitude":-79.947069,
@@ -39,17 +40,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0t1S88RA1wvlG39izjJdSs_37.312104_-79.947069@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887739,
-    "wof:geomhash":"8440dd44c60fb8f73b6d6a6cc8156f9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1401414ccd8674efbe62e56cfe14dc15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722739669
+        }
+    ],
     "wof:id":722739669,
-    "wof:lastmodified":1472651683,
+    "wof:lastmodified":1492067338,
     "wof:name":"Abney Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

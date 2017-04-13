@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.236153,37.826042,-77.236153,37.826042",
     "geom:latitude":37.826042,
     "geom:longitude":-77.236153,
@@ -31,7 +32,12 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mkPk5NuuSnWppPh1fdcKp_37.826042_-77.236153@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907020,
     "wof:geomhash":"a6592728cf6eb41b3aa7a97b57aba908",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739422635
+        }
+    ],
     "wof:id":739422635,
-    "wof:lastmodified":1472651518,
+    "wof:lastmodified":1492031211,
     "wof:name":"G Mitchell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

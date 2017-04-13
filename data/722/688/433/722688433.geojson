@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.505068,38.881647,-78.505068,38.881647",
     "geom:latitude":38.881647,
     "geom:longitude":-78.505068,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IJIXSEyTdAuJ2r4SxJxXY_38.881647_-78.505068@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886754,
-    "wof:geomhash":"22258405a59f4280497f0cd435caf12e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd5b5d14206c630f2a3d511735e65ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":722688433
+        }
+    ],
     "wof:id":722688433,
-    "wof:lastmodified":1472651528,
+    "wof:lastmodified":1492073591,
     "wof:name":"Emmanuel Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

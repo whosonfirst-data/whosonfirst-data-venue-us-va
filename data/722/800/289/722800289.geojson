@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.379365,38.968716,-77.379365,38.968716",
     "geom:latitude":38.968716,
     "geom:longitude":-77.379365,
@@ -38,7 +39,9 @@
         85633793,
         101729037,
         102084863,
-        85824695
+        85824695,
+        101729785,
+        85894021
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888894,
-    "wof:geomhash":"be487bded0e8c595aed4301028013742",
+    "wof:geomhash":"52b4685b72555180644185dccf499b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,21 @@
             "neighbourhood_id":85824695,
             "region_id":85688747,
             "venue_id":722800289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85894021,
+            "region_id":85688747,
+            "venue_id":722800289
         }
     ],
     "wof:id":722800289,
-    "wof:lastmodified":1472651759,
+    "wof:lastmodified":1492066176,
     "wof:name":"Herndon Checks Cashed",
-    "wof:parent_id":85824695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

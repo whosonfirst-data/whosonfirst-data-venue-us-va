@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.659223,37.410163,-77.659223,37.410163",
     "geom:latitude":37.410163,
     "geom:longitude":-77.659223,
@@ -32,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fZkvxTyQffUXY17qHwPKr_37.410163_-77.659223@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906113,
     "wof:geomhash":"f7f5cce1778df1b4edb1fc72f099c4bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739375851
+        }
+    ],
     "wof:id":739375851,
-    "wof:lastmodified":1472651367,
+    "wof:lastmodified":1492030858,
     "wof:name":"Ronald Lentz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

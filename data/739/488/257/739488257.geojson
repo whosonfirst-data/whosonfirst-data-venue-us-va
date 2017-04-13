@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.594828,37.513761,-77.594828,37.513761",
     "geom:latitude":37.513761,
     "geom:longitude":-77.594828,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_042oJ5VMo40hnMg877QTGm_37.513761_-77.594828@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908225,
-    "wof:geomhash":"a00a140388e49a9539cff7c5fc0e7e5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e085adbbb140913b1f45feb9475b40ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739488257
+        }
+    ],
     "wof:id":739488257,
-    "wof:lastmodified":1472651676,
+    "wof:lastmodified":1492041060,
     "wof:name":"Ace Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.096764,37.030619,-77.096764,37.030619",
     "geom:latitude":37.030619,
     "geom:longitude":-77.096764,
@@ -31,17 +32,32 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728757,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f0VqzYNgYxR6hBRxqlpO8_37.030619_-77.096764@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897793,
-    "wof:geomhash":"effe07b67b4650859d120d139a555e3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8676c2c6ca9d1f35087b5848d54dbde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "locality_id":101728757,
+            "region_id":85688747,
+            "venue_id":723234149
+        }
+    ],
     "wof:id":723234149,
-    "wof:lastmodified":1472651657,
+    "wof:lastmodified":1492048289,
     "wof:name":"Sussex Counseling Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

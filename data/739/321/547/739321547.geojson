@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.941204,36.567601,-78.941204,36.567601",
     "geom:latitude":36.567601,
     "geom:longitude":-78.941204,
@@ -28,7 +29,12 @@
     "sg:postcode":"24520",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ktKdsCM5mAwdVxgm5nHp8_36.567601_-78.941204@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905008,
     "wof:geomhash":"ce1a1df315a73f10e8e8f6440015981c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739321547
+        }
+    ],
     "wof:id":739321547,
-    "wof:lastmodified":1472651268,
+    "wof:lastmodified":1492030704,
     "wof:name":"Denniston Grove Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448863,38.378446,-77.448863,38.378446",
     "geom:latitude":38.378446,
     "geom:longitude":-77.448863,
@@ -32,17 +33,26 @@
         "assisted"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BuvxjdBCapqRW9lswwvy2_38.378446_-77.448863@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900441,
-    "wof:geomhash":"410369ee9eb2ec0d70565139121f2149",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35749f554907398618dfc9b40826751b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723373143
+        }
+    ],
     "wof:id":723373143,
-    "wof:lastmodified":1472652093,
+    "wof:lastmodified":1492061764,
     "wof:name":"Outlook Pointe At Stafford",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

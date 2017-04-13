@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.577811,37.48155,-77.577811,37.48155",
     "geom:latitude":37.48155,
     "geom:longitude":-77.577811,
@@ -32,7 +33,12 @@
         "concessionaire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jCuSDMIqVYVRe0qI4khi5_37.481550_-77.577811@1303262551"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461913088,
     "wof:geomhash":"2ec62aea22ddee36b1f2eb2ab0c0e87b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724785
+        }
+    ],
     "wof:id":739724785,
-    "wof:lastmodified":1472652246,
+    "wof:lastmodified":1492030958,
     "wof:name":"One Stop Refreshments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

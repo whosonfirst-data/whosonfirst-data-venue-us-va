@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.847054,36.760587,-77.847054,36.760587",
     "geom:latitude":36.760587,
     "geom:longitude":-77.847054,
@@ -32,17 +33,32 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728763,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49qaquwQIxbKnwh2dtLWrD_36.760587_-77.847054@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902600,
-    "wof:geomhash":"cb97ca6eef7a886c7ff610765be55f35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6248ae32f7ec893e89196d1c4656788d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "locality_id":101728763,
+            "region_id":85688747,
+            "venue_id":723483289
+        }
+    ],
     "wof:id":723483289,
-    "wof:lastmodified":1472652324,
+    "wof:lastmodified":1492059427,
     "wof:name":"Water Superintendent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

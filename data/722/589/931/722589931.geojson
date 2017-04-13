@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.849668,37.248676,-76.849668,37.248676",
     "geom:latitude":37.248676,
     "geom:longitude":-76.849668,
@@ -32,17 +33,26 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2txxRv0mTOfFXsjlgrGMve_37.248676_-76.849668@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884792,
-    "wof:geomhash":"5115cbc43db183fe201f18c28e6c3eec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2aa8d42e54b612b33ebc3efd3535fa70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546809,
+            "venue_id":722589931
+        }
+    ],
     "wof:id":722589931,
-    "wof:lastmodified":1472651249,
+    "wof:lastmodified":1492071533,
     "wof:name":"Production Machinery Assoc",
     "wof:parent_id":420546809,
     "wof:placetype":"venue",

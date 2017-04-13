@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443463,38.476701,-77.443463,38.476701",
     "geom:latitude":38.476701,
     "geom:longitude":-77.443463,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547099
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oCZUEXefV73vQuuE6o5ir_38.476701_-77.443463@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912446,
-    "wof:geomhash":"f5040745e1a73cb844f67c094eca91b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"658f8301ba2a1afa0d1a2906040bb692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547099,
+            "venue_id":739695117
+        }
+    ],
     "wof:id":739695117,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492045354,
     "wof:name":"Trigger Control Inc.",
     "wof:parent_id":420547099,
     "wof:placetype":"venue",

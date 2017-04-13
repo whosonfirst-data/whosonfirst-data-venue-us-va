@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.976098,38.102892,-78.976098,38.102892",
     "geom:latitude":38.102892,
     "geom:longitude":-78.976098,
@@ -45,7 +46,13 @@
     ],
     "sg:website":"http://www.hammondtownsend.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729647,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6CSGEo0rOwAI9SA3taRW_38.102892_-78.976098@1303262548"
@@ -53,9 +60,18 @@
     "wof:country":"US",
     "wof:created":1461912741,
     "wof:geomhash":"d631124dc615830b3fb648cf97466e06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729647,
+            "region_id":85688747,
+            "venue_id":739708175
+        }
+    ],
     "wof:id":739708175,
-    "wof:lastmodified":1472652179,
+    "wof:lastmodified":1492030757,
     "wof:name":"HammondTownsend,PLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

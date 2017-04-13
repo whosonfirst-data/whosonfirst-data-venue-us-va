@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.452451,38.307455,-77.452451,38.307455",
     "geom:latitude":38.307455,
     "geom:longitude":-77.452451,
@@ -31,17 +32,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547201
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X8Qh6CqY8GbAs3qtAuGS5_38.307455_-77.452451@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884112,
-    "wof:geomhash":"5d0ad48698722d3dcb98289081ef8106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef45e4678738b2440e7a5ed568257333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547201,
+            "venue_id":722555029
+        }
+    ],
     "wof:id":722555029,
-    "wof:lastmodified":1472651084,
+    "wof:lastmodified":1492073159,
     "wof:name":"US National Park Svc",
     "wof:parent_id":420547201,
     "wof:placetype":"venue",

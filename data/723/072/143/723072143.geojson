@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.364965,38.898391,-77.364965,38.898391",
     "geom:latitude":38.898391,
     "geom:longitude":-77.364965,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729805,
+        101729785,
         102084863,
+        85834769,
+        101729805,
         85894019
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894510,
-    "wof:geomhash":"e23412223c462c7b7d60b168a77b9014",
+    "wof:geomhash":"eb76cd247a734ccd12460f850ec1d531",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85834769,
+            "region_id":85688747,
+            "venue_id":723072143
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":723072143,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492052556,
     "wof:name":"Land Pro Consultants",
-    "wof:parent_id":85894019,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

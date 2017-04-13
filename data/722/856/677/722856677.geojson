@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.705575,39.108425,-77.705575,39.108425",
     "geom:latitude":39.108425,
     "geom:longitude":-77.705575,
@@ -33,17 +34,30 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lhbenSjJrPLzkP2mtdOMb_39.108425_-77.705575@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889950,
-    "wof:geomhash":"faad1405c9f8988c3bd6d77caab171ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd1a895d7f23068e9294563b6b1bd95e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722856677
+        }
+    ],
     "wof:id":722856677,
-    "wof:lastmodified":1472651983,
+    "wof:lastmodified":1492071392,
     "wof:name":"WSI Internet Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

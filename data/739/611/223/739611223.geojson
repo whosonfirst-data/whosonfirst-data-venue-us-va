@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.652115,39.107981,-77.652115,39.107981",
     "geom:latitude":39.107981,
     "geom:longitude":-77.652115,
@@ -44,7 +45,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PppvvbX2AaecJJrwCLwIx_39.107981_-77.652115@1303262496"
@@ -52,9 +58,17 @@
     "wof:country":"US",
     "wof:created":1461910624,
     "wof:geomhash":"3f204735b3a6a769eb23a18ee46af7d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739611223
+        }
+    ],
     "wof:id":739611223,
-    "wof:lastmodified":1472651950,
+    "wof:lastmodified":1492029469,
     "wof:name":"Loving Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

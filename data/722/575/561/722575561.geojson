@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.332849,37.050041,-76.332849,37.050041",
     "geom:latitude":37.050041,
     "geom:longitude":-76.332849,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YmnmX8wvod1s3cYohPo5K_37.050041_-76.332849@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884520,
-    "wof:geomhash":"eb36f0f7e7530d36c410b15a3eda1ae3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"141c5aba57f8ddf18a004c261b43143c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722575561
+        }
+    ],
     "wof:id":722575561,
-    "wof:lastmodified":1472651231,
+    "wof:lastmodified":1492062849,
     "wof:name":"Simple Details",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

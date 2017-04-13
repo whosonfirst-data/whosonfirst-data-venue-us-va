@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.161202,37.103266,-80.161202,37.103266",
     "geom:latitude":37.103266,
     "geom:longitude":-80.161202,
@@ -28,19 +29,28 @@
     "sg:postcode":"24079",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S26e1tJfMki32AGZyUhou_37.103266_-80.161202@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887753,
-    "wof:geomhash":"08805417719c903ab39398318412ee97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1e41c71ba45aa43eabe28e0b8079014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546967,
+            "venue_id":722740483
+        }
+    ],
     "wof:id":722740483,
-    "wof:lastmodified":1472651683,
+    "wof:lastmodified":1492069542,
     "wof:name":"Alice Walker",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546967,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

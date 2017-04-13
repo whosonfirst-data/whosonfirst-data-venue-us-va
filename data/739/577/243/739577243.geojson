@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637691,36.938095,-76.637691,36.938095",
     "geom:latitude":36.938095,
     "geom:longitude":-76.637691,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZizD9jdqGdVDvCE9Ebnew_36.938167_-76.637824@1293134755"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909947,
     "wof:geomhash":"64df2c8abf6b23cdd77b91cf49ce7bf9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739577243
+        }
+    ],
     "wof:id":739577243,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492033237,
     "wof:name":"Rod Busters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

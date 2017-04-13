@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.735637,37.32516,-76.735637,37.32516",
     "geom:latitude":37.32516,
     "geom:longitude":-76.735637,
@@ -32,19 +33,28 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KLtp7ZePATYoxfO4a8cSk_37.325160_-76.735637@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896405,
-    "wof:geomhash":"ffb63a8fdb76604da27f7fa74a7a2cb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be42838af8b0793ecf2aa473fd323c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":723165981
+        }
+    ],
     "wof:id":723165981,
-    "wof:lastmodified":1472651490,
+    "wof:lastmodified":1492052748,
     "wof:name":"Innovative Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

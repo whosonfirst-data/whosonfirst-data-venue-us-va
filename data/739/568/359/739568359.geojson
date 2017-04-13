@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442375,37.586694,-77.442375,37.586694",
     "geom:latitude":37.586694,
     "geom:longitude":-77.442375,
@@ -36,17 +37,32 @@
         "salons-equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PKwCFfQt9I8ZE0EnFRPqd_37.586853_-77.442662@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909740,
-    "wof:geomhash":"ad05e9b63e1bd18750b3c7b8ebf87c6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9d8063e4f8f0608ec736cd16d6c636f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739568359
+        }
+    ],
     "wof:id":739568359,
-    "wof:lastmodified":1472651893,
+    "wof:lastmodified":1492043541,
     "wof:name":"Beauty Empire Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

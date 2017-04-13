@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.258716,38.379124,-78.258716,38.379124",
     "geom:latitude":38.379124,
     "geom:longitude":-78.258716,
@@ -32,19 +33,36 @@
     ],
     "sg:website":"www.madison-news.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728547,
+        102087241,
+        85846479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h34MbwbeNu3TFhbvbEWqz_38.379124_-78.258716@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891087,
-    "wof:geomhash":"10b34f39afd6d2d8dd8ae651fcda2cab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96ed1c9ebdc90e2a6b34465b9c179e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087241,
+            "locality_id":101728547,
+            "neighbourhood_id":85846479,
+            "region_id":85688747,
+            "venue_id":722915259
+        }
+    ],
     "wof:id":722915259,
-    "wof:lastmodified":1472652111,
+    "wof:lastmodified":1492072951,
     "wof:name":"Madison County Eagle",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

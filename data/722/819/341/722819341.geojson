@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579636,38.343201,-77.579636,38.343201",
     "geom:latitude":38.343201,
     "geom:longitude":-77.579636,
@@ -33,19 +34,28 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VhiVVGoJpuOPdyhwgSx2T_38.343201_-77.579636@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889242,
-    "wof:geomhash":"494471fe16eb6275e42066caf99c24d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfda7d488a589c23f6571a9daf2080d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":722819341
+        }
+    ],
     "wof:id":722819341,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492062707,
     "wof:name":"JRM Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

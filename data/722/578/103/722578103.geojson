@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.989074,36.631601,-81.989074,36.631601",
     "geom:latitude":36.631601,
     "geom:longitude":-81.989074,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0By8XzM38Mz8AsmcBMQZ6h_36.631601_-81.989074@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884568,
-    "wof:geomhash":"b72c6a629d3f4ee59a582696fa6bb919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be84129e6430002ad938cf621f37ceaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722578103
+        }
+    ],
     "wof:id":722578103,
-    "wof:lastmodified":1472651186,
+    "wof:lastmodified":1492069928,
     "wof:name":"Hall Electrical & Contracting",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

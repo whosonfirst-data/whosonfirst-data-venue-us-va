@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.661817,36.584357,-80.661817,36.584357",
     "geom:latitude":36.584357,
     "geom:longitude":-80.661817,
@@ -33,17 +34,32 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729131,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RmJ6ZgG8ypkVQFvreIb61_36.584357_-80.661817@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901250,
-    "wof:geomhash":"388d271dec71a2d0284622fbe2cdbede",
-    "wof:hierarchy":[],
+    "wof:geomhash":"539b4ead2e1a6356cb54083582b8974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101729131,
+            "region_id":85688747,
+            "venue_id":723414153
+        }
+    ],
     "wof:id":723414153,
-    "wof:lastmodified":1472652177,
+    "wof:lastmodified":1492050975,
     "wof:name":"R & R Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

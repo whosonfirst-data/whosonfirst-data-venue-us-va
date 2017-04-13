@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.511242,38.307167,-77.511242,38.307167",
     "geom:latitude":38.307167,
     "geom:longitude":-77.511242,
@@ -36,7 +37,13 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728699,
+        102084973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FpIaPSXbG82m9F33WUMb6_38.307167_-77.511242@1303262546"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461912395,
     "wof:geomhash":"18f9cc6770258d4e347f6063e12a8041",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "region_id":85688747,
+            "venue_id":739692749
+        }
+    ],
     "wof:id":739692749,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492033391,
     "wof:name":"Gold Leaf Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

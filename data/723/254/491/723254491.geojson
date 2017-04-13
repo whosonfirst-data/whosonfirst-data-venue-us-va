@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.186026,38.822813,-77.186026,38.822813",
     "geom:latitude":38.822813,
     "geom:longitude":-77.186026,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729723,
+        101729761,
         102084863,
+        85857319,
+        101729723,
         85830181
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461898206,
-    "wof:geomhash":"97272a6ab4aa386964aeeac8e3bae7ab",
+    "wof:geomhash":"dc588aa8e3fe3b005ffa6e151631703b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85857319,
+            "region_id":85688747,
+            "venue_id":723254491
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":723254491,
-    "wof:lastmodified":1472651692,
+    "wof:lastmodified":1492060612,
     "wof:name":"Auto Parts Express LLC",
-    "wof:parent_id":85830181,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

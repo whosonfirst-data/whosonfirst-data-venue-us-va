@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.642426,39.265655,-77.642426,39.265655",
     "geom:latitude":39.265655,
     "geom:longitude":-77.642426,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728819,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i17JWlZdtUfaCROvx6R6S_39.265655_-77.642426@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893180,
-    "wof:geomhash":"43b50373a8ab487cae059f6410265d61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b386d93cee0530d876c5402821006354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728819,
+            "region_id":85688747,
+            "venue_id":723012043
+        }
+    ],
     "wof:id":723012043,
-    "wof:lastmodified":1472651081,
+    "wof:lastmodified":1492053494,
     "wof:name":"Dulles Flyer Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

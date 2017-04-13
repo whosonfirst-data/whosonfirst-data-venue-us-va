@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.824942,37.042819,-78.824942,37.042819",
     "geom:latitude":37.042819,
     "geom:longitude":-78.824942,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ec1JTJIoxUjs9YUNelIdi_37.042819_-78.824942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888604,
-    "wof:geomhash":"2cdbe0671e0cdc33b43673aaae63d45a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"054c8fb6a3ba18358029a9b617096589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "region_id":85688747,
+            "venue_id":722785385
+        }
+    ],
     "wof:id":722785385,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492072551,
     "wof:name":"Green Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

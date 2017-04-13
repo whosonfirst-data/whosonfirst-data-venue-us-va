@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.461974,38.023011,-78.461974,38.023011",
     "geom:latitude":38.023011,
     "geom:longitude":-78.461974,
@@ -31,7 +32,13 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728535,
+        102080639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1umwKQWL6axqtmLznvUuoR_38.023011_-78.461974@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906584,
     "wof:geomhash":"b38e51464cb7d492e199d05575f55f6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080639,
+            "locality_id":101728535,
+            "region_id":85688747,
+            "venue_id":739400111
+        }
+    ],
     "wof:id":739400111,
-    "wof:lastmodified":1472651442,
+    "wof:lastmodified":1492032732,
     "wof:name":"Woolen Mills Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

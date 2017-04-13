@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.215223,36.616744,-78.215223,36.616744",
     "geom:latitude":36.616744,
     "geom:longitude":-78.215223,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_585WUoKrlVoHidu0qy4uSh_36.616744_-78.215223@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894599,
-    "wof:geomhash":"309756291ae83af1d88d6d59377915cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53692fe78787238115ea7506557b4494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":723075783
+        }
+    ],
     "wof:id":723075783,
-    "wof:lastmodified":1472651306,
+    "wof:lastmodified":1492055960,
     "wof:name":"RSC Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

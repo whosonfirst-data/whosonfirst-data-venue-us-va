@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.473539,38.918248,-78.473539,38.918248",
     "geom:latitude":38.918248,
     "geom:longitude":-78.473539,
@@ -28,7 +29,12 @@
     "sg:postcode":"22644",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gL3o9RAgWt6p9W01B843F_38.918248_-78.473539@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907849,
     "wof:geomhash":"1fbf5a0d25b556b5e112456d74649ed9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739467809
+        }
+    ],
     "wof:id":739467809,
-    "wof:lastmodified":1472651628,
+    "wof:lastmodified":1492030518,
     "wof:name":"Bowers Taxidermy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.008791,36.786028,-76.008791,36.786028",
     "geom:latitude":36.786028,
     "geom:longitude":-76.008791,
@@ -40,6 +41,7 @@
         85633793,
         101728745,
         102081929,
+        85858669,
         85813431
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902225,
-    "wof:geomhash":"76782d91b3aa778a9512f897041a2dd6",
+    "wof:geomhash":"f84df4560d54ad6fea5979fbb793cc87",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85858669,
+            "region_id":85688747,
+            "venue_id":723464785
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":723464785,
-    "wof:lastmodified":1472652317,
+    "wof:lastmodified":1492058148,
     "wof:name":"Al-Anon Family Group Hdqtr",
-    "wof:parent_id":85813431,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445296,38.447548,-77.445296,38.447548",
     "geom:latitude":38.447548,
     "geom:longitude":-77.445296,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HgrhHjPQo0IkeRoUXr9ec_38.447548_-77.445296@1303262547"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912433,
     "wof:geomhash":"6e3fe59b5cd7097cd58197e06d2b5de8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":739694717
+        }
+    ],
     "wof:id":739694717,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492030231,
     "wof:name":"Authentic Construction & Remodeling",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

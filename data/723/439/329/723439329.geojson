@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423011,38.2745,-77.423011,38.2745",
     "geom:latitude":38.2745,
     "geom:longitude":-77.423011,
@@ -32,17 +33,26 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tzRV2T3lD3ZO7GnZQMlUA_38.274500_-77.423011@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901746,
-    "wof:geomhash":"422a478d7edd550400f760a4bf5f11c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8089d78e2eb3839c5d2d7ca3281f3316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547215,
+            "venue_id":723439329
+        }
+    ],
     "wof:id":723439329,
-    "wof:lastmodified":1472652237,
+    "wof:lastmodified":1492061466,
     "wof:name":"T L C Registry",
     "wof:parent_id":420547215,
     "wof:placetype":"venue",

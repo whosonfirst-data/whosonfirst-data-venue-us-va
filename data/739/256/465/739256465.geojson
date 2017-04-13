@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.468806,37.037267,-76.468806,37.037267",
     "geom:latitude":37.037267,
     "geom:longitude":-76.468806,
@@ -38,7 +39,8 @@
         85633793,
         101729041,
         102085961,
-        420548017
+        420548017,
+        85881989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +58,21 @@
             "neighbourhood_id":420548017,
             "region_id":85688747,
             "venue_id":739256465
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85881989,
+            "region_id":85688747,
+            "venue_id":739256465
         }
     ],
     "wof:id":739256465,
-    "wof:lastmodified":1472651104,
+    "wof:lastmodified":1491930358,
     "wof:name":"Christian Hilton Church",
-    "wof:parent_id":420548017,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

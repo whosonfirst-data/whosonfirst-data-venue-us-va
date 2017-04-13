@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.524335,37.114968,-81.524335,37.114968",
     "geom:latitude":37.114968,
     "geom:longitude":-81.524335,
@@ -31,7 +32,10 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WVVMIFLaUtvsWygOAScN3_37.114968_-81.524335@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461905678,
     "wof:geomhash":"158ae280b452c902bd77e5001f8b5b0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739353007
+        }
+    ],
     "wof:id":739353007,
-    "wof:lastmodified":1472651325,
+    "wof:lastmodified":1492030546,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

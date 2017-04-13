@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.333848,37.881028,-76.333848,37.881028",
     "geom:latitude":37.881028,
     "geom:longitude":-76.333848,
@@ -32,7 +33,12 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LdKbybwS19UMnnxKICavg_37.881028_-76.333848@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907062,
     "wof:geomhash":"d3410d60e25941f91eb377cf8ab48540",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739424445
+        }
+    ],
     "wof:id":739424445,
-    "wof:lastmodified":1472651515,
+    "wof:lastmodified":1492032745,
     "wof:name":"Bay Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

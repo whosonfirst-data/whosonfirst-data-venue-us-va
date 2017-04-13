@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374515,37.602125,-77.374515,37.602125",
     "geom:latitude":37.602125,
     "geom:longitude":-77.374515,
@@ -35,17 +36,32 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pkcr7sDUhcnmntOkjfyXw_37.602125_-77.374515@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912775,
-    "wof:geomhash":"c9070b174c8b614c3298c76b916828f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87b290ec63f4ed6bb60be9b3282576c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739709543
+        }
+    ],
     "wof:id":739709543,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492047056,
     "wof:name":"I-64 Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

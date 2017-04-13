@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.606733,37.50066,-77.606733,37.50066",
     "geom:latitude":37.50066,
     "geom:longitude":-77.606733,
@@ -42,17 +43,30 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sV2XSxL70Rv2pM05oXF9e_37.500660_-77.606733@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884327,
-    "wof:geomhash":"e75acbd148c04692b592583d1f381ce3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5d39d5294985cd680025b39c4b8ec8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722565699
+        }
+    ],
     "wof:id":722565699,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492066068,
     "wof:name":"Technical Medical Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

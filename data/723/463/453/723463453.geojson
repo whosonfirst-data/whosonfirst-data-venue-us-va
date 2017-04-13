@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.46646,38.326984,-77.46646,38.326984",
     "geom:latitude":38.326984,
     "geom:longitude":-77.46646,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729337,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tO8CGd52kvDOLQZRXswVQ_38.326984_-77.466460@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902198,
-    "wof:geomhash":"e9ee62fd734d654d7f336c1d2b448be1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0373a568e2e793d129dd27863b249f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729337,
+            "region_id":85688747,
+            "venue_id":723463453
+        }
+    ],
     "wof:id":723463453,
-    "wof:lastmodified":1472652299,
+    "wof:lastmodified":1492056387,
     "wof:name":"Best Buy Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

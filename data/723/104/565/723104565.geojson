@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.515901,37.332192,-79.515901,37.332192",
     "geom:latitude":37.332192,
     "geom:longitude":-79.515901,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AG6t1dUc62g5XpzQftOTU_37.332192_-79.515901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895206,
-    "wof:geomhash":"68caf16b3aafa9826c5143a590a2f5ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fa8e3101846500419b4b923ef110b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723104565
+        }
+    ],
     "wof:id":723104565,
-    "wof:lastmodified":1472651320,
+    "wof:lastmodified":1492048996,
     "wof:name":"Bedford Septic & Port-A-John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

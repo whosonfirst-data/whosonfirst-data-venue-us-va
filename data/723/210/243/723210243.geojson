@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.159857,38.713574,-78.159857,38.713574",
     "geom:latitude":38.713574,
     "geom:longitude":-78.159857,
@@ -33,17 +34,32 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728561,
+        102087263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IEj7I5dco6QvEeEfGgQWX_38.713574_-78.159857@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897277,
-    "wof:geomhash":"fe9dfc5526c8ecfb909052f69c1df46d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d068e3da19c30d9534a370fcaffa9fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087263,
+            "locality_id":101728561,
+            "region_id":85688747,
+            "venue_id":723210243
+        }
+    ],
     "wof:id":723210243,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492050887,
     "wof:name":"Rappahannock Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

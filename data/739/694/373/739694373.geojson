@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.271783,37.878703,-76.271783,37.878703",
     "geom:latitude":37.878703,
     "geom:longitude":-76.271783,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31UQnFu1Me0qLunwLzhrz9_37.878703_-76.271783@1303262547"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461912425,
     "wof:geomhash":"2c7f834d422fbd28481bd41fa757c4f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694373
+        }
+    ],
     "wof:id":739694373,
-    "wof:lastmodified":1472652167,
+    "wof:lastmodified":1492030257,
     "wof:name":"Creative Touch Painting Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

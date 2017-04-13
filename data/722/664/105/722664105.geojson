@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445681,38.779597,-77.445681,38.779597",
     "geom:latitude":38.779597,
     "geom:longitude":-77.445681,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LADqqbprB03kEV9Own8w8_38.779597_-77.445681@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886286,
-    "wof:geomhash":"4e68df29d4b6db6b3ce7545441bd35fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"856802f3c65ddb4c4b696e6aa1ab9dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":722664105
+        }
+    ],
     "wof:id":722664105,
-    "wof:lastmodified":1472651448,
+    "wof:lastmodified":1492075211,
     "wof:name":"United We Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

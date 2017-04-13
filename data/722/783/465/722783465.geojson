@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529291,37.470562,-77.529291,37.470562",
     "geom:latitude":37.470562,
     "geom:longitude":-77.529291,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25VpRN8w9mgHnAddufA4ik_37.470562_-77.529291@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888571,
-    "wof:geomhash":"eb6a310ea859ad04430dc3210c774daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e212a984a95da531219ae4b21a3f0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":722783465
+        }
+    ],
     "wof:id":722783465,
-    "wof:lastmodified":1472651771,
+    "wof:lastmodified":1492072516,
     "wof:name":"Doublee Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

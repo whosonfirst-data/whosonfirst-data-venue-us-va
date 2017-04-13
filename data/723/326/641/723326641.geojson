@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.152986,39.205754,-78.152986,39.205754",
     "geom:latitude":39.205754,
     "geom:longitude":-78.152986,
@@ -32,17 +33,30 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Pp07JQS2VjPbduZIaHjE6_39.205754_-78.152986@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899568,
-    "wof:geomhash":"7f00291d6a761a47518bee54f44dc510",
-    "wof:hierarchy":[],
+    "wof:geomhash":"102731fb5267d0866c0dfb3d8beddb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":723326641
+        }
+    ],
     "wof:id":723326641,
-    "wof:lastmodified":1472651904,
+    "wof:lastmodified":1492062196,
     "wof:name":"WMC Radiology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.005854,38.480339,-78.005854,38.480339",
     "geom:latitude":38.480339,
     "geom:longitude":-78.005854,
@@ -38,6 +39,7 @@
         85633793,
         101728993,
         102085941,
+        85839013,
         85809799
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461887843,
-    "wof:geomhash":"f9b3c8885fbf29664ead9bd3be15c6d8",
+    "wof:geomhash":"929d471670301ee35e16c814f32fa873",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085941,
+            "locality_id":101728993,
+            "neighbourhood_id":85839013,
+            "region_id":85688747,
+            "venue_id":722745111
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":722745111,
-    "wof:lastmodified":1472651664,
+    "wof:lastmodified":1492072807,
     "wof:name":"K C's Thrift Shop",
-    "wof:parent_id":85809799,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

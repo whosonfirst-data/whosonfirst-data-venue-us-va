@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.525518,38.857023,-78.525518,38.857023",
     "geom:latitude":38.857023,
     "geom:longitude":-78.525518,
@@ -32,17 +33,30 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MZ69LcsZpciXaDFA5vuEV_38.857023_-78.525518@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889521,
-    "wof:geomhash":"076cd73ec628bcf804d3f03a848b11a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e8f69a4b836ad632fc5abe8795ae3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":722834269
+        }
+    ],
     "wof:id":722834269,
-    "wof:lastmodified":1472651925,
+    "wof:lastmodified":1492070519,
     "wof:name":"Country Peddler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

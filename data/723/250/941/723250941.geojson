@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378596,38.968544,-77.378596,38.968544",
     "geom:latitude":38.968544,
     "geom:longitude":-77.378596,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729785,
+        101729037,
         102084863,
+        85824695,
+        101729785,
         85894021
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461898135,
-    "wof:geomhash":"a99e1c6c903af4dfa33888204b61ca8f",
+    "wof:geomhash":"8924c03141309d5a9cf0dc00258d72a6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729037,
+            "neighbourhood_id":85824695,
+            "region_id":85688747,
+            "venue_id":723250941
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":723250941,
-    "wof:lastmodified":1472651701,
+    "wof:lastmodified":1492054524,
     "wof:name":"A P F",
-    "wof:parent_id":85894021,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

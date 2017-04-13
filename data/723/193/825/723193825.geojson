@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.962717,37.314379,-79.962717,37.314379",
     "geom:latitude":37.314379,
     "geom:longitude":-79.962717,
@@ -28,17 +29,32 @@
     "sg:postcode":"24012",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IhEc6sJ270bcTAW0xAeQm_37.314379_-79.962717@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896951,
-    "wof:geomhash":"ddeb06a82faaec5cc24a3aba0610663d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ba328b8bebb69c715534055608eaca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723193825
+        }
+    ],
     "wof:id":723193825,
-    "wof:lastmodified":1472651581,
+    "wof:lastmodified":1492051819,
     "wof:name":"Appliance Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

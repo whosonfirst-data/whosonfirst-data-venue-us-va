@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.565656,39.113055,-77.565656,39.113055",
     "geom:latitude":39.113055,
     "geom:longitude":-77.565656,
@@ -31,17 +32,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uftPHdGDWlrscmZHJSMMq_39.113055_-77.565656@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886624,
-    "wof:geomhash":"e647571bd925cd3eda59e6307faddf2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fa42f51cc87fe83630a1ba2088e62b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722682179
+        }
+    ],
     "wof:id":722682179,
-    "wof:lastmodified":1472651513,
+    "wof:lastmodified":1492063239,
     "wof:name":"General Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

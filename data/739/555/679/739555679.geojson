@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.502784,38.803654,-77.502784,38.803654",
     "geom:latitude":38.803654,
     "geom:longitude":-77.502784,
@@ -26,17 +27,30 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04fSr5QAv9ahlJZMFaSxzi_38.803654_-77.502784@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909473,
-    "wof:geomhash":"30fe874c3d7e186549c55a8ac30d1423",
-    "wof:hierarchy":[],
+    "wof:geomhash":"302b2840c48153ad3ac20b3bb3283d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739555679
+        }
+    ],
     "wof:id":739555679,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492044428,
     "wof:name":"Mobil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

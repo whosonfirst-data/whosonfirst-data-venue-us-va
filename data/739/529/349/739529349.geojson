@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.014142,37.314023,-80.014142,37.314023",
     "geom:latitude":37.314023,
     "geom:longitude":-80.014142,
@@ -28,7 +29,13 @@
     "sg:postcode":"24017",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pUgehkHSb0FbbHWTLiKI0_37.314023_-80.014142@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908967,
     "wof:geomhash":"803bb99d2f679c39059b6e05de3a43c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739529349
+        }
+    ],
     "wof:id":739529349,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492030826,
     "wof:name":"Thomas C Clay Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

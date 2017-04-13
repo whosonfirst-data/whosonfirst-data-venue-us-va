@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.780715,37.505828,-77.780715,37.505828",
     "geom:latitude":37.505828,
     "geom:longitude":-77.780715,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22WjVTiLG9lArKGw4bnuOL_37.505828_-77.780715@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908379,
     "wof:geomhash":"c86ebfbe6a75c554c86aaab788777ec4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739497227
+        }
+    ],
     "wof:id":739497227,
-    "wof:lastmodified":1472651674,
+    "wof:lastmodified":1492029685,
     "wof:name":"Chemcut Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

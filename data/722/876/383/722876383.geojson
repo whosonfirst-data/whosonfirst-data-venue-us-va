@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755989,37.311777,-76.755989,37.311777",
     "geom:latitude":37.311777,
     "geom:longitude":-76.755989,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zM0EaHOow2uVaocFckfq3_37.311777_-76.755989@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890318,
-    "wof:geomhash":"3d631a8fb01533b99bb553263283d2ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cc0856368b7a6d3b51c3f2ad845aee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":722876383
+        }
+    ],
     "wof:id":722876383,
-    "wof:lastmodified":1472652012,
+    "wof:lastmodified":1492068499,
     "wof:name":"Lafayette Village Apartments",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

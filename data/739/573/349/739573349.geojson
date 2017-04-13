@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.375297,39.043008,-77.375297,39.043008",
     "geom:latitude":39.043008,
     "geom:longitude":-77.375297,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HkxzF0q8saY7BIca3heUc_39.043390_-77.375232@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909861,
-    "wof:geomhash":"ef45bb0cbc409a955d68793f989f6058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d951abf2c1aba3033379c93eda69e104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739573349
+        }
+    ],
     "wof:id":739573349,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492043980,
     "wof:name":"Leonard Greenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

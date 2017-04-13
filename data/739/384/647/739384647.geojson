@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.408312,38.420777,-77.408312,38.420777",
     "geom:latitude":38.420777,
     "geom:longitude":-77.408312,
@@ -37,7 +38,8 @@
         85633793,
         101729343,
         102081931,
-        420547169
+        420547169,
+        85894037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461906278,
-    "wof:geomhash":"525edd0144b47dca7ae5cbee970543f9",
+    "wof:geomhash":"7394d2021c260de24f131a0e2992c7ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,20 @@
             "neighbourhood_id":420547169,
             "region_id":85688747,
             "venue_id":739384647
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729343,
+            "neighbourhood_id":85894037,
+            "region_id":85688747,
+            "venue_id":739384647
         }
     ],
     "wof:id":739384647,
-    "wof:lastmodified":1472651353,
+    "wof:lastmodified":1492043607,
     "wof:name":"Affordable Catrg & Concessions",
-    "wof:parent_id":420547169,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

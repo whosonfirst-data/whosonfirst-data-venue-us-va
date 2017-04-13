@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.507304,38.357552,-77.507304,38.357552",
     "geom:latitude":38.357552,
     "geom:longitude":-77.507304,
@@ -32,17 +33,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ukUrQI0dbGXwmS25zhdTO_38.357552_-77.507304@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902227,
-    "wof:geomhash":"1f72f88846accea29b43cff91df55728",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddf3b4a938cf1c72fd91eb3e1a6dd99a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":723464897
+        }
+    ],
     "wof:id":723464897,
-    "wof:lastmodified":1472652319,
+    "wof:lastmodified":1492058134,
     "wof:name":"Sh3 Computer Systems Inc",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

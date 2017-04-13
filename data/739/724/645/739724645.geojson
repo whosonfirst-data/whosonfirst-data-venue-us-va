@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.597054,37.500389,-77.597054,37.500389",
     "geom:latitude":37.500389,
     "geom:longitude":-77.597054,
@@ -55,7 +56,12 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10349186%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77dmYgjkciTzjnBltAZZ61_37.500389_-77.597054@1303262551"
@@ -63,9 +69,17 @@
     "wof:country":"US",
     "wof:created":1461913086,
     "wof:geomhash":"caf1da38ba5c0f341436f9acc810bae7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724645
+        }
+    ],
     "wof:id":739724645,
-    "wof:lastmodified":1472652238,
+    "wof:lastmodified":1492030942,
     "wof:name":"Complete Interior Package Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

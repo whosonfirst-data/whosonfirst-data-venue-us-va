@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764152,37.354575,-76.764152,37.354575",
     "geom:latitude":37.354575,
     "geom:longitude":-76.764152,
@@ -32,17 +33,26 @@
         "campground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VpcYTOjrDQRoKhMBkmALN_37.354575_-76.764152@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896477,
-    "wof:geomhash":"5964102583816dba3ee7bd828fa04a23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81c7e7588419a42531dd08fbd9582939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":723169973
+        }
+    ],
     "wof:id":723169973,
-    "wof:lastmodified":1472651478,
+    "wof:lastmodified":1492049323,
     "wof:name":"Williamsburg Brass & Gift Shop",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

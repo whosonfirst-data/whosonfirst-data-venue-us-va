@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.387259,38.828638,-77.387259,38.828638",
     "geom:latitude":38.828638,
     "geom:longitude":-77.387259,
@@ -31,17 +32,30 @@
         "sprinkler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32q8cMMVOO7GR4k4rjszEM_38.828638_-77.387259@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897936,
-    "wof:geomhash":"87b8a2b6c781848ae9bf485f035cb672",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe6173c69f34b1357ad22de5c65ee4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":723241339
+        }
+    ],
     "wof:id":723241339,
-    "wof:lastmodified":1472651663,
+    "wof:lastmodified":1492050622,
     "wof:name":"Urban Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

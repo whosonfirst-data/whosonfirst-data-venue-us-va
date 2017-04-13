@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.360081,37.13448,-80.360081,37.13448",
     "geom:latitude":37.13448,
     "geom:longitude":-80.360081,
@@ -37,7 +38,8 @@
         85633793,
         101728703,
         102087271,
-        420547037
+        420547037,
+        85826325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895019,
-    "wof:geomhash":"36c801a19cfbf043d35bbb3c1b14b2e5",
+    "wof:geomhash":"a7c98ce518d34f9b56c9268a053ef45f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,20 @@
             "neighbourhood_id":420547037,
             "region_id":85688747,
             "venue_id":723095137
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728703,
+            "neighbourhood_id":85826325,
+            "region_id":85688747,
+            "venue_id":723095137
         }
     ],
     "wof:id":723095137,
-    "wof:lastmodified":1472651277,
+    "wof:lastmodified":1492053394,
     "wof:name":"Howard Johnson",
-    "wof:parent_id":420547037,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

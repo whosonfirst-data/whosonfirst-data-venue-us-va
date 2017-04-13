@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.225269,39.194465,-78.225269,39.194465",
     "geom:latitude":39.194465,
     "geom:longitude":-78.225269,
@@ -28,7 +29,12 @@
     "sg:postcode":"22603",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ukl3dr1W9OmxG9L5yx2p4_39.194465_-78.225269@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905223,
     "wof:geomhash":"cfff45cffbe2a36204d7c8ba3a539699",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739332309
+        }
+    ],
     "wof:id":739332309,
-    "wof:lastmodified":1472651282,
+    "wof:lastmodified":1492030787,
     "wof:name":"Jim Bayliss Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

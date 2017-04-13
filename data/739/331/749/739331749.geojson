@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737356,37.350193,-76.737356,37.350193",
     "geom:latitude":37.350193,
     "geom:longitude":-76.737356,
@@ -33,17 +34,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IcMpxx0jfGPvnjIwSCazX_37.350193_-76.737356@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905210,
-    "wof:geomhash":"269b4526c290a52c71c5fd96f3d1c4f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13f53ef3cc3ec59f4631201cff4a4694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":739331749
+        }
+    ],
     "wof:id":739331749,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492043102,
     "wof:name":"Colonial Photography",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

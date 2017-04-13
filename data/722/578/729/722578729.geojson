@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.935945,37.045478,-76.935945,37.045478",
     "geom:latitude":37.045478,
     "geom:longitude":-76.935945,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rhhFSVIQrzDNXJuMl5LYE_37.045478_-76.935945@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884578,
-    "wof:geomhash":"8a8c57f1c5216e45a7fcda8064700593",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9decd12ecdf80a8469c7fdffa68656b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722578729
+        }
+    ],
     "wof:id":722578729,
-    "wof:lastmodified":1472651209,
+    "wof:lastmodified":1492069917,
     "wof:name":"Dendron City Office",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

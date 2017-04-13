@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.808808,37.271538,-79.808808,37.271538",
     "geom:latitude":37.271538,
     "geom:longitude":-79.808808,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fLihL5t7jZZSxOgSriy6Q_37.271538_-79.808808@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904732,
     "wof:geomhash":"b38838affe4ad5b4d5bcb2ffa18635ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739307893
+        }
+    ],
     "wof:id":739307893,
-    "wof:lastmodified":1472651239,
+    "wof:lastmodified":1492029987,
     "wof:name":"P J Little Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

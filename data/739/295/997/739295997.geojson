@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.005324,36.702294,-82.005324,36.702294",
     "geom:latitude":36.702294,
     "geom:longitude":-82.005324,
@@ -31,17 +32,26 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CNzwP0tmrSZDtAzHlAlei_36.702294_-82.005324@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904482,
-    "wof:geomhash":"cbc5fe5d2708aa9837b1c2de5c8ddd05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43a26096dfbd81ed1e1e05a477fa7b0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739295997
+        }
+    ],
     "wof:id":739295997,
-    "wof:lastmodified":1472651231,
+    "wof:lastmodified":1492042375,
     "wof:name":"Frame Shop",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

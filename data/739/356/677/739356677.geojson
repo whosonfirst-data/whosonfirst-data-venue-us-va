@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.382611,39.045914,-77.382611,39.045914",
     "geom:latitude":39.045914,
     "geom:longitude":-77.382611,
@@ -33,7 +34,13 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18ufmv5qmHpgqrHozrg8QV_39.045914_-77.382611@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461905751,
     "wof:geomhash":"d8e41638b28f0a27b0c588aa378572a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":739356677
+        }
+    ],
     "wof:id":739356677,
-    "wof:lastmodified":1472651347,
+    "wof:lastmodified":1492030456,
     "wof:name":"Snider Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

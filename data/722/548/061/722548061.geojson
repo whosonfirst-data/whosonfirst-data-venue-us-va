@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.011531,36.678591,-82.011531,36.678591",
     "geom:latitude":36.678591,
     "geom:longitude":-82.011531,
@@ -33,17 +34,26 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HpnYrF0G2e3tYnFdphcVC_36.678591_-82.011531@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883960,
-    "wof:geomhash":"d0ba46dfdd7b10868661eaac355d9ea9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f744355fe255f254e9e2cec3fdc5ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722548061
+        }
+    ],
     "wof:id":722548061,
-    "wof:lastmodified":1472651073,
+    "wof:lastmodified":1492073890,
     "wof:name":"Abingdon Propane Exchange",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

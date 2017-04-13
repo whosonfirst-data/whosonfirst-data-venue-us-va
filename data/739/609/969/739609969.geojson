@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.603035,38.843965,-77.603035,38.843965",
     "geom:latitude":38.843965,
     "geom:longitude":-77.603035,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"http://www.onthelevel-va.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78uFZ3uVsr7VyhvoiAzct6_38.843965_-77.603035@1303262496"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910601,
     "wof:geomhash":"989f62df0e062a8d09c2fc2c48f4dd89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739609969
+        }
+    ],
     "wof:id":739609969,
-    "wof:lastmodified":1472651974,
+    "wof:lastmodified":1492032652,
     "wof:name":"On The Level Contracting & Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

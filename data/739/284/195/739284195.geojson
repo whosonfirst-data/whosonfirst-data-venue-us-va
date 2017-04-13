@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.303306,37.526944,-77.303306,37.526944",
     "geom:latitude":37.526944,
     "geom:longitude":-77.303306,
@@ -33,7 +34,13 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YbgOqUZSzCl9M6t6ryZ3L_37.526944_-77.303306@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461904242,
     "wof:geomhash":"849b2f2e7c8a90cc6926a477b7a89217",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739284195
+        }
+    ],
     "wof:id":739284195,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492030638,
     "wof:name":"First Class Mobile Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

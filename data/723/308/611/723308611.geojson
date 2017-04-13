@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.615845,36.94941,-82.615845,36.94941",
     "geom:latitude":36.94941,
     "geom:longitude":-82.615845,
@@ -28,19 +29,36 @@
     "sg:postcode":"24273",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728955,
+        102084969,
+        420548231
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TfLObKuUIupqHGVdQkS42_36.949410_-82.615845@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899236,
-    "wof:geomhash":"1a4d3a948a6c7932f9ecdab04801b2da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a4c40a8fce5847ae72eb1781f417718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084969,
+            "locality_id":101728955,
+            "neighbourhood_id":420548231,
+            "region_id":85688747,
+            "venue_id":723308611
+        }
+    ],
     "wof:id":723308611,
-    "wof:lastmodified":1472651812,
+    "wof:lastmodified":1492051303,
     "wof:name":"Double KWIK Markets",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

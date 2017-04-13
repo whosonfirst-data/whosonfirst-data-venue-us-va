@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.025596,37.298076,-80.025596,37.298076",
     "geom:latitude":37.298076,
     "geom:longitude":-80.025596,
@@ -37,17 +38,32 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TqK5gF7Zeaxwzd9qnLL26_37.298076_-80.025596@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888627,
-    "wof:geomhash":"be38ec0b77d318848683c6decae17b59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2786c9142952f09b09f1b88dcdaaadd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":722786401
+        }
+    ],
     "wof:id":722786401,
-    "wof:lastmodified":1472651760,
+    "wof:lastmodified":1492064058,
     "wof:name":"Roanoke County Woman's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

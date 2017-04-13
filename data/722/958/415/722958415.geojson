@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.384675,37.678124,-77.384675,37.678124",
     "geom:latitude":37.678124,
     "geom:longitude":-77.384675,
@@ -32,17 +33,30 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x2kt3U3xqLnt2FUDm7N7k_37.678124_-77.384675@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891991,
-    "wof:geomhash":"6286639ea7b6d79aa72d38c574c4d447",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1f192a3db417208373a6c445059e73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":722958415
+        }
+    ],
     "wof:id":722958415,
-    "wof:lastmodified":1472652289,
+    "wof:lastmodified":1492071514,
     "wof:name":"Travel Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

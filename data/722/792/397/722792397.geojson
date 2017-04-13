@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.581356,38.394952,-77.581356,38.394952",
     "geom:latitude":38.394952,
     "geom:longitude":-77.581356,
@@ -31,19 +32,28 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2obREeYuPv8hxvFS4ocCbT_38.394952_-77.581356@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888743,
-    "wof:geomhash":"aac3fb19548d68d3b5047074661acb39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e250a5678bc35b906c02158aa9ccca38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546629,
+            "venue_id":722792397
+        }
+    ],
     "wof:id":722792397,
-    "wof:lastmodified":1472651767,
+    "wof:lastmodified":1492067779,
     "wof:name":"Painter's Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

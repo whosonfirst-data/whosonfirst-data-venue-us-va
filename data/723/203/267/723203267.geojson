@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.521099,38.868753,-78.521099,38.868753",
     "geom:latitude":38.868753,
     "geom:longitude":-78.521099,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UauV1bGck7c7Xy04cwjqR_38.868753_-78.521099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897135,
-    "wof:geomhash":"1d4b31f1828ede517f5b2bad24c7d7ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34149fbdeb3881dccf39f152de22f98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":723203267
+        }
+    ],
     "wof:id":723203267,
-    "wof:lastmodified":1472651602,
+    "wof:lastmodified":1492051013,
     "wof:name":"Woodstock Rescue Squad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

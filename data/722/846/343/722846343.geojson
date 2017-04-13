@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731445,37.316472,-76.731445,37.316472",
     "geom:latitude":37.316472,
     "geom:longitude":-76.731445,
@@ -32,19 +33,28 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t3P2Qh4LMnd6s6VABronY_37.316472_-76.731445@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889750,
-    "wof:geomhash":"3f97429cda2bc233a8dc5cf6bae3bde8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c914c81336920cd2d8eb5487e4f81d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":722846343
+        }
+    ],
     "wof:id":722846343,
-    "wof:lastmodified":1472651949,
+    "wof:lastmodified":1492062859,
     "wof:name":"Virginia Neon Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.636717,37.42478,-77.636717,37.42478",
     "geom:latitude":37.42478,
     "geom:longitude":-77.636717,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.gayleandcompany.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JcMIDbNVtywGiR2eJ1keO_37.424780_-77.636717@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461907138,
     "wof:geomhash":"4882adbd6a4735012678b3e4fd5f18b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739428857
+        }
+    ],
     "wof:id":739428857,
-    "wof:lastmodified":1472651540,
+    "wof:lastmodified":1492030980,
     "wof:name":"Gayle & Company Realtors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

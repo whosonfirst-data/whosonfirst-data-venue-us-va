@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.097181,36.967754,-79.097181,36.967754",
     "geom:latitude":36.967754,
     "geom:longitude":-79.097181,
@@ -32,7 +33,12 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jahcCLLHg2X7D6tTpfz2E_36.967754_-79.097181@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906847,
     "wof:geomhash":"97ab1ff77a7ca29e45b4a6bb526c3987",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739414469
+        }
+    ],
     "wof:id":739414469,
-    "wof:lastmodified":1472651480,
+    "wof:lastmodified":1492032403,
     "wof:name":"L E De Jarnette Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

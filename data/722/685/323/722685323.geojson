@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.681864,37.419781,-77.681864,37.419781",
     "geom:latitude":37.419781,
     "geom:longitude":-77.681864,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nG85LKiAPqiWwGzPdmXt8_37.419781_-77.681864@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886686,
-    "wof:geomhash":"02cdaa96857c0025db2d45ea7eb4f2ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cce9ebc878e50fb19f9830e53f857ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":722685323
+        }
+    ],
     "wof:id":722685323,
-    "wof:lastmodified":1472651526,
+    "wof:lastmodified":1492064461,
     "wof:name":"Professional Delivery Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

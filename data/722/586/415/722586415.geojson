@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.538259,37.534704,-77.538259,37.534704",
     "geom:latitude":37.534704,
     "geom:longitude":-77.538259,
@@ -35,6 +36,9 @@
         85688747,
         102191575,
         85633793,
+        101729299,
+        102084955,
+        420546615,
         101728675,
         102085959,
         85868255
@@ -45,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884724,
-    "wof:geomhash":"690653c69780fc54b5677083fd7deb89",
+    "wof:geomhash":"fae8b893fd6df44de02285e57bd09c48",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "neighbourhood_id":420546615,
+            "region_id":85688747,
+            "venue_id":722586415
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":722586415,
-    "wof:lastmodified":1472651206,
+    "wof:lastmodified":1492065244,
     "wof:name":"Bethany Springs Apartments",
-    "wof:parent_id":85868255,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

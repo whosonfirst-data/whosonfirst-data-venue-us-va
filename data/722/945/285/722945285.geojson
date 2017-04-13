@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.923652,37.550114,-77.923652,37.550114",
     "geom:latitude":37.550114,
     "geom:longitude":-77.923652,
@@ -32,17 +33,30 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kaycNzsYLQhWff1V1TZuV_37.550114_-77.923652@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891733,
-    "wof:geomhash":"8855679558dbe5366c732a52ab87e8c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d1e2ef819c9490361cc54d7d887c438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":722945285
+        }
+    ],
     "wof:id":722945285,
-    "wof:lastmodified":1472652231,
+    "wof:lastmodified":1492073281,
     "wof:name":"Healthcare Transcription Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

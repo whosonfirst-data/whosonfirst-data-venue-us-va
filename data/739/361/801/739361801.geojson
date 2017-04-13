@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.368173,38.282236,-77.368173,38.282236",
     "geom:latitude":38.282236,
     "geom:longitude":-77.368173,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cbAwuni3uZlHPOsgFYoyM_38.282236_-77.368173@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905846,
-    "wof:geomhash":"3e4a9f2b4fc925979dc2d055e0485904",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c4e6f09a6b986966a9ea05be327060b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":739361801
+        }
+    ],
     "wof:id":739361801,
-    "wof:lastmodified":1472651363,
+    "wof:lastmodified":1492041343,
     "wof:name":"Shawn's Lawns",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

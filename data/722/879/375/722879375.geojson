@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.553236,37.138905,-80.553236,37.138905",
     "geom:latitude":37.138905,
     "geom:longitude":-80.553236,
@@ -34,7 +35,8 @@
         85633793,
         101728831,
         102081063,
-        420548267,
+        85822513,
+        85834851,
         101729175,
         102084953,
         420547067
@@ -45,14 +47,23 @@
     },
     "wof:country":"US",
     "wof:created":1461890378,
-    "wof:geomhash":"86caa30002292ece8c4fa4568c5c8fc6",
+    "wof:geomhash":"c9b59a182d6905136bfa26bf9c2d1f28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081063,
             "locality_id":101728831,
-            "neighbourhood_id":420548267,
+            "neighbourhood_id":85822513,
+            "region_id":85688747,
+            "venue_id":722879375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "neighbourhood_id":85834851,
             "region_id":85688747,
             "venue_id":722879375
         },
@@ -67,9 +78,9 @@
         }
     ],
     "wof:id":722879375,
-    "wof:lastmodified":1472652011,
+    "wof:lastmodified":1492064504,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.101463,38.732481,-77.101463,38.732481",
     "geom:latitude":38.732481,
     "geom:longitude":-77.101463,
@@ -37,7 +38,8 @@
         85633793,
         101729773,
         102084863,
-        85851501
+        85851501,
+        420560171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886437,
-    "wof:geomhash":"dd0f465796ede5edc3721e60e8a5e0e6",
+    "wof:geomhash":"a9d5034468ea64d62eaac742740c4da0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85851501,
             "region_id":85688747,
             "venue_id":722672237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729773,
+            "neighbourhood_id":420560171,
+            "region_id":85688747,
+            "venue_id":722672237
         }
     ],
     "wof:id":722672237,
-    "wof:lastmodified":1472651503,
+    "wof:lastmodified":1492072041,
     "wof:name":"Unified Services",
-    "wof:parent_id":85851501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

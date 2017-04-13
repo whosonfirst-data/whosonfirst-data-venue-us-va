@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476192,38.444595,-77.476192,38.444595",
     "geom:latitude":38.444595,
     "geom:longitude":-77.476192,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yrGOfCIONEYa66qoIg2Xv_38.444595_-77.476192@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888167,
-    "wof:geomhash":"a76bef5a63ddac28cec1ec99ee0de2c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a04465774abc2156b55d75e28651916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":722762407
+        }
+    ],
     "wof:id":722762407,
-    "wof:lastmodified":1472651769,
+    "wof:lastmodified":1492065217,
     "wof:name":"Augustine Home Construction",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

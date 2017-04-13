@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.611397,36.976398,-76.611397,36.976398",
     "geom:latitude":36.976398,
     "geom:longitude":-76.611397,
@@ -37,7 +38,13 @@
         "cardiologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Fxj5Q61j9J55JodNK3WSJ_36.976398_-76.611397@1303262551"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461913174,
     "wof:geomhash":"f16ecb1e608912a2051e3bf0aa9feee6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739729209
+        }
+    ],
     "wof:id":739729209,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492031649,
     "wof:name":"Suffolk Eye Physicians & Surgeons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

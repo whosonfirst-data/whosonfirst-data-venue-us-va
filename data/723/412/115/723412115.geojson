@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.951078,37.318922,-79.951078,37.318922",
     "geom:latitude":37.318922,
     "geom:longitude":-79.951078,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YcVdwXFFKJofTsdUlVs0m_37.318922_-79.951078@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901209,
-    "wof:geomhash":"e190bb3c95754dee4e482f3d44ab4e6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be5ff36b46b61b8b86b0fa44a2874eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723412115
+        }
+    ],
     "wof:id":723412115,
-    "wof:lastmodified":1472652177,
+    "wof:lastmodified":1492055744,
     "wof:name":"St Thomas Of Canterbury Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

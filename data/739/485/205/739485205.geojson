@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.169562,39.165019,-78.169562,39.165019",
     "geom:latitude":39.165019,
     "geom:longitude":-78.169562,
@@ -32,7 +33,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4srzD0nB9oLgF7gZCVVx7l_39.165019_-78.169562@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908165,
     "wof:geomhash":"36c1567edd122a3313e160b2550052db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739485205
+        }
+    ],
     "wof:id":739485205,
-    "wof:lastmodified":1472651655,
+    "wof:lastmodified":1492030690,
     "wof:name":"Book Shelf The Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

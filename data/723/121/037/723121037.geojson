@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.802484,38.98317,-77.802484,38.98317",
     "geom:latitude":38.98317,
     "geom:longitude":-77.802484,
@@ -31,17 +32,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49WT7GSbtbQWBxw6BJjF3q_38.983170_-77.802484@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895537,
-    "wof:geomhash":"890d706d597cb616a227663180043992",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a101dffc8f7f8da1767ceefc63d6aaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723121037
+        }
+    ],
     "wof:id":723121037,
-    "wof:lastmodified":1472651334,
+    "wof:lastmodified":1492055878,
     "wof:name":"Eliot Consulting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

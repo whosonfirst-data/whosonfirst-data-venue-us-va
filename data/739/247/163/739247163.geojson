@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.466024,38.327868,-77.466024,38.327868",
     "geom:latitude":38.327868,
     "geom:longitude":-77.466024,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729337,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NnvxvegTuIxpRcqQYatR7_38.327868_-77.466024@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903419,
-    "wof:geomhash":"0372eaf0c2fc0b290f03a1a0569a6268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2606585e5f7a6ed46050b173aaefafa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729337,
+            "region_id":85688747,
+            "venue_id":739247163
+        }
+    ],
     "wof:id":739247163,
-    "wof:lastmodified":1472651069,
+    "wof:lastmodified":1492038525,
     "wof:name":"Trinity",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

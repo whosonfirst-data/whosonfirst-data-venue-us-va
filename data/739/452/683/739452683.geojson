@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.645122,37.657746,-77.645122,37.657746",
     "geom:latitude":37.657746,
     "geom:longitude":-77.645122,
@@ -28,17 +29,32 @@
     "sg:postcode":"23233",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zbubc0lnbnCbJEQU2WPJ2_37.657746_-77.645122@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907590,
-    "wof:geomhash":"a8560bcd52370a49c493355634ca8f06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f16825b00628ab922e63289524dc0175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":739452683
+        }
+    ],
     "wof:id":739452683,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492037499,
     "wof:name":"William A Branch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

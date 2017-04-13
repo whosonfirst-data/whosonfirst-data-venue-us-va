@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.545129,37.497614,-77.545129,37.497614",
     "geom:latitude":37.497614,
     "geom:longitude":-77.545129,
@@ -28,17 +29,32 @@
     "sg:postcode":"23235",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nbh9L44hjpdg8jQzgaiWp_37.497614_-77.545129@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906517,
-    "wof:geomhash":"4bf4ecd514185c2bcd581fe754d1918f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"899cf68f669bf510c1dbe3bd46cedbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739396901
+        }
+    ],
     "wof:id":739396901,
-    "wof:lastmodified":1472651483,
+    "wof:lastmodified":1492042204,
     "wof:name":"PM Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

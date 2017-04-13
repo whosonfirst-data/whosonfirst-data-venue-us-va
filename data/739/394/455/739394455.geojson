@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.376691,39.047288,-77.376691,39.047288",
     "geom:latitude":39.047288,
     "geom:longitude":-77.376691,
@@ -31,7 +32,13 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rr0Dpe09ieNE7VyRIbtgy_39.047288_-77.376691@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906475,
     "wof:geomhash":"459f40eb164c6fb25b6583fa85db1b7f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":739394455
+        }
+    ],
     "wof:id":739394455,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492032981,
     "wof:name":"Johnson Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

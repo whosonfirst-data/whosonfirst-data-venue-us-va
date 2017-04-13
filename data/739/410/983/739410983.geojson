@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450759,38.867926,-77.450759,38.867926",
     "geom:latitude":38.867926,
     "geom:longitude":-77.450759,
@@ -32,7 +33,13 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ch12UxNN7Vx0KlFnMojEg_38.867926_-77.450759@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906782,
     "wof:geomhash":"043440fd058c64df755c06a5cf2067bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739410983
+        }
+    ],
     "wof:id":739410983,
-    "wof:lastmodified":1472651496,
+    "wof:lastmodified":1492032273,
     "wof:name":"Equitas Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

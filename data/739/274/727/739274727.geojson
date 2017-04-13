@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.407321,37.145151,-80.407321,37.145151",
     "geom:latitude":37.145151,
     "geom:longitude":-80.407321,
@@ -28,7 +29,10 @@
     "sg:postcode":"24073",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xCklNJaPuMZZEalH8fQdU_37.145151_-80.407321@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904024,
     "wof:geomhash":"08a3a27d5e88a7d8ca957aa4b9e4eda0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546955,
+            "venue_id":739274727
+        }
+    ],
     "wof:id":739274727,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492029572,
     "wof:name":"A New Look",
     "wof:parent_id":420546955,
     "wof:placetype":"venue",

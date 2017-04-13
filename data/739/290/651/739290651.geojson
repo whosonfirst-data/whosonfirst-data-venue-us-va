@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.132393,38.427569,-78.132393,38.427569",
     "geom:latitude":38.427569,
     "geom:longitude":-78.132393,
@@ -32,7 +33,12 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xkkblPRLBObEcLSQEUvJW_38.427569_-78.132393@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904382,
     "wof:geomhash":"d29ce91957ec285bc81b2762c953f77d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087241,
+            "region_id":85688747,
+            "venue_id":739290651
+        }
+    ],
     "wof:id":739290651,
-    "wof:lastmodified":1472651197,
+    "wof:lastmodified":1492032790,
     "wof:name":"Rock Hill Lumber Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.171195,39.169074,-78.171195,39.169074",
     "geom:latitude":39.169074,
     "geom:longitude":-78.171195,
@@ -38,17 +39,32 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Edts8juqFMx9fjBlToIh4_39.169074_-78.171195@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905521,
-    "wof:geomhash":"6a4c0e1ff7c97fbb53d938fd3c2caefd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a670680f6c2e09aa0a4fd9d7d44cf813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739345987
+        }
+    ],
     "wof:id":739345987,
-    "wof:lastmodified":1472651315,
+    "wof:lastmodified":1492043927,
     "wof:name":"Blue Ridge Electric Serv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

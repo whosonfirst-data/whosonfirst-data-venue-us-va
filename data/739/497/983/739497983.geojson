@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.325736,37.114659,-79.325736,37.114659",
     "geom:latitude":37.114659,
     "geom:longitude":-79.325736,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.virtex-inc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MKBtsuNW4PRG3OQUEenFM_37.114659_-79.325736@1294252573"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461908392,
     "wof:geomhash":"f7d5b6b3f2e1d7d6880be36ed0f2772f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546601,
+            "venue_id":739497983
+        }
+    ],
     "wof:id":739497983,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492029685,
     "wof:name":"Virtex Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

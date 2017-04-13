@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.446709,38.27593,-77.446709,38.27593",
     "geom:latitude":38.27593,
     "geom:longitude":-77.446709,
@@ -33,17 +34,30 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56xJydABM5X8SxDPAqWUfn_38.275930_-77.446709@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900205,
-    "wof:geomhash":"1d9087de97633859bdec1bbee5887fa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e5c20c9f9b47d497d260869cb178cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723361251
+        }
+    ],
     "wof:id":723361251,
-    "wof:lastmodified":1472652049,
+    "wof:lastmodified":1492056574,
     "wof:name":"Omnicam Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

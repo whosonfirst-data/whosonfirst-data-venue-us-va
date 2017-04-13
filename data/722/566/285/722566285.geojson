@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556591,37.494026,-77.556591,37.494026",
     "geom:latitude":37.494026,
     "geom:longitude":-77.556591,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61UhF5iBGk1BIzHiBGLgSz_37.494026_-77.556591@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884337,
-    "wof:geomhash":"36e881a939d605691991420474d8fae5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58d901e3a85ee502cdbbed00ce2a325d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":722566285
+        }
+    ],
     "wof:id":722566285,
-    "wof:lastmodified":1472651130,
+    "wof:lastmodified":1492071338,
     "wof:name":"Infectious Disease Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

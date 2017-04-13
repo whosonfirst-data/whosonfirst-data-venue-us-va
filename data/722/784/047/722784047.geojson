@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.092414,39.187038,-78.092414,39.187038",
     "geom:latitude":39.187038,
     "geom:longitude":-78.092414,
@@ -33,17 +34,30 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DlYjSzelmUQth9OgV1Soi_39.187038_-78.092414@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888581,
-    "wof:geomhash":"d0a15988a0f398dba7ce5858136652f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d09165228db820c3321779efd977f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":722784047
+        }
+    ],
     "wof:id":722784047,
-    "wof:lastmodified":1472651719,
+    "wof:lastmodified":1492071971,
     "wof:name":"Armstrong Filtration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

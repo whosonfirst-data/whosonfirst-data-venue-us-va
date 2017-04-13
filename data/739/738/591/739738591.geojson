@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.659008,37.104095,-79.659008,37.104095",
     "geom:latitude":37.104095,
     "geom:longitude":-79.659008,
@@ -32,17 +33,32 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729705,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V2GSZXiQq6erxOavUzRHp_37.104095_-79.659008@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913395,
-    "wof:geomhash":"ba237d3a48bb064e32236f8553059019",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c518b378b1d66627791e9ec81246a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729705,
+            "region_id":85688747,
+            "venue_id":739738591
+        }
+    ],
     "wof:id":739738591,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492043680,
     "wof:name":"North Coast Instruments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

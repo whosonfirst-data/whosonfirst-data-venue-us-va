@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.138292,38.860039,-77.138292,38.860039",
     "geom:latitude":38.860039,
     "geom:longitude":-77.138292,
@@ -31,7 +32,13 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729789,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oWbmfDDslNsgi4FnUiDfr_38.860039_-77.138292@1303262538"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910992,
     "wof:geomhash":"5e0b23ee5fe5cb801a0533fa0068ddc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729789,
+            "region_id":85688747,
+            "venue_id":739628085
+        }
+    ],
     "wof:id":739628085,
-    "wof:lastmodified":1472651988,
+    "wof:lastmodified":1492030467,
     "wof:name":"Falls Church Reliable 24 Hour Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

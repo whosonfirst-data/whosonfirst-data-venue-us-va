@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533214,36.707076,-77.533214,36.707076",
     "geom:latitude":36.707076,
     "geom:longitude":-77.533214,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728563,
+        102083825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DJ29pVQVD2JKoVYxeQsvh_36.707076_-77.533214@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907919,
     "wof:geomhash":"942bebcf3f022196d22883069af45bb5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083825,
+            "locality_id":101728563,
+            "region_id":85688747,
+            "venue_id":739471903
+        }
+    ],
     "wof:id":739471903,
-    "wof:lastmodified":1472651643,
+    "wof:lastmodified":1492031138,
     "wof:name":"Green & Green Building Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

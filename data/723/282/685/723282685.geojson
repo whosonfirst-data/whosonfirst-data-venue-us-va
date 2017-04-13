@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.164519,39.190603,-78.164519,39.190603",
     "geom:latitude":39.190603,
     "geom:longitude":-78.164519,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66vUAeU7qMfrHbc7YUJYE6_39.190603_-78.164519@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898727,
-    "wof:geomhash":"868ed1ca2108f63e956071c6d71c4949",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0371585f4925b6ce78cb30ae7758a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723282685
+        }
+    ],
     "wof:id":723282685,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492050346,
     "wof:name":"Eastern Shore Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

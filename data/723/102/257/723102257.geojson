@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.35034,38.71678,-77.35034,38.71678",
     "geom:latitude":38.71678,
     "geom:longitude":-77.35034,
@@ -31,17 +32,30 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FymzLPJnGBs8cChoAo232_38.716780_-77.350340@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895165,
-    "wof:geomhash":"8f1fe8052f9be58d905ffc18887140ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"131b4719d953e7045a1e237b5f43447d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723102257
+        }
+    ],
     "wof:id":723102257,
-    "wof:lastmodified":1472651318,
+    "wof:lastmodified":1492058793,
     "wof:name":"Bull Run Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

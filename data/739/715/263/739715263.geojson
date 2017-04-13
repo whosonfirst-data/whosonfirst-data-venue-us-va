@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412346,37.587669,-77.412346,37.587669",
     "geom:latitude":37.587669,
     "geom:longitude":-77.412346,
@@ -23,7 +24,12 @@
     "sg:province":"VA",
     "sg:website":"http://www.claysupply.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5riuBY2unIUsEYy6KMx1Jj_37.587669_-77.412346@1303262549"
@@ -31,9 +37,17 @@
     "wof:country":"US",
     "wof:created":1461912896,
     "wof:geomhash":"05a1c221e6ab89b9c77c15141b8c2102",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739715263
+        }
+    ],
     "wof:id":739715263,
-    "wof:lastmodified":1472652207,
+    "wof:lastmodified":1492031446,
     "wof:name":"Campbell's Ceramic Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

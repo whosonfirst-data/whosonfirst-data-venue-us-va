@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.533512,37.111954,-81.533512,37.111954",
     "geom:latitude":37.111954,
     "geom:longitude":-81.533512,
@@ -32,17 +33,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LqiPzgZMmGWPwJjg4mTiP_37.111954_-81.533512@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889834,
-    "wof:geomhash":"40dc03dc05b288ca369c18ba7d934d36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad75511c60b8717d340526b64781a189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722850581
+        }
+    ],
     "wof:id":722850581,
-    "wof:lastmodified":1472651962,
+    "wof:lastmodified":1492064334,
     "wof:name":"Tazewell Equipment & Motor",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

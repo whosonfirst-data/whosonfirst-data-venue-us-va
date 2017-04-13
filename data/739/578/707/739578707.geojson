@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.525885,39.099561,-77.525885,39.099561",
     "geom:latitude":39.099561,
     "geom:longitude":-77.525885,
@@ -32,17 +33,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XoEcs40tyYNENoBBZuX1e_39.099561_-77.525885@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461909986,
-    "wof:geomhash":"34e64d31a26bada658f03f9a3fb31c5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2a30de045afe5c8ddeecc73dd76d5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739578707
+        }
+    ],
     "wof:id":739578707,
-    "wof:lastmodified":1472651938,
+    "wof:lastmodified":1492040959,
     "wof:name":"Manhattan Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

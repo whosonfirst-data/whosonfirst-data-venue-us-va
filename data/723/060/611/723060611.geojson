@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.124349,36.959883,-81.124349,36.959883",
     "geom:latitude":36.959883,
     "geom:longitude":-81.124349,
@@ -39,8 +40,8 @@
         85633793,
         101728749,
         102086723,
-        85813061,
-        420559095
+        420559095,
+        85813061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461894229,
-    "wof:geomhash":"1a22f3c816c41d9a62415333bf5d1097",
+    "wof:geomhash":"f0a687ef5be6a997e82c8961d3b6a7b5",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85813061,
-            "region_id":85688747,
-            "venue_id":723060611
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":420559095,
             "region_id":85688747,
             "venue_id":723060611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85813061,
+            "region_id":85688747,
+            "venue_id":723060611
         }
     ],
     "wof:id":723060611,
-    "wof:lastmodified":1472651243,
+    "wof:lastmodified":1492056469,
     "wof:name":"Twin Street Mobile Home Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

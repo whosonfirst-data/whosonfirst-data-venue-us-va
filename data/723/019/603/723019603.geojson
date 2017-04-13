@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.928054,37.307186,-79.928054,37.307186",
     "geom:latitude":37.307186,
     "geom:longitude":-79.928054,
@@ -31,17 +32,32 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vcQv7J9kvNKuZWHQFBdyf_37.307186_-79.928054@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893368,
-    "wof:geomhash":"e837e8798b99fe812666d2af79e7fbc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"327ea72ac1d12414881b34fadade299d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723019603
+        }
+    ],
     "wof:id":723019603,
-    "wof:lastmodified":1472651119,
+    "wof:lastmodified":1492049996,
     "wof:name":"Gator Tow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

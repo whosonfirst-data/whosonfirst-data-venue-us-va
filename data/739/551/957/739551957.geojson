@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.333985,37.298783,-77.333985,37.298783",
     "geom:latitude":37.298783,
     "geom:longitude":-77.333985,
@@ -31,17 +32,30 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TU0dacblPxU5cKMoqlVpD_37.298783_-77.333985@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909389,
-    "wof:geomhash":"cecc2252b3031e2ef9de0a5cbf1942e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b281121bd36fa689f5c09c06d6459651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739551957
+        }
+    ],
     "wof:id":739551957,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492046310,
     "wof:name":"Riverside Regional Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

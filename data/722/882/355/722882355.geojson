@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411378,37.551742,-77.411378,37.551742",
     "geom:latitude":37.551742,
     "geom:longitude":-77.411378,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sWqfWakajx6sJY5LyFfnw_37.551742_-77.411378@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890437,
-    "wof:geomhash":"ae670ac0d14b009f5dce37d02742649b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9311945457998dbe0f3eafe6c97e6754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722882355
+        }
+    ],
     "wof:id":722882355,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492067547,
     "wof:name":"Creation of Inspiration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

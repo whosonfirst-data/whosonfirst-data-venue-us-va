@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420939,38.89004,-77.420939,38.89004",
     "geom:latitude":38.89004,
     "geom:longitude":-77.420939,
@@ -36,17 +37,32 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25q7excuwnSsJqeLJGAtjL_38.890040_-77.420939@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898932,
-    "wof:geomhash":"d35f87a92dda80f4408d7d3fea481c4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d980fc9fc8bedc32a0f8fa1656e0f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723293053
+        }
+    ],
     "wof:id":723293053,
-    "wof:lastmodified":1472651720,
+    "wof:lastmodified":1492055676,
     "wof:name":"Dr Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

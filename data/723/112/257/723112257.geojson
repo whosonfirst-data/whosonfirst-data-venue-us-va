@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419254,38.463973,-77.419254,38.463973",
     "geom:latitude":38.463973,
     "geom:longitude":-77.419254,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547109
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oVhq52b12k77mvLaMinIC_38.463973_-77.419254@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895362,
-    "wof:geomhash":"3e0e81a4476022dba8b60f0f646e36d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b46d58286366c390a46744a20168aca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547109,
+            "venue_id":723112257
+        }
+    ],
     "wof:id":723112257,
-    "wof:lastmodified":1472651332,
+    "wof:lastmodified":1492053994,
     "wof:name":"Amyfilko",
     "wof:parent_id":420547109,
     "wof:placetype":"venue",

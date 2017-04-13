@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701942,37.951016,-76.701942,37.951016",
     "geom:latitude":37.951016,
     "geom:longitude":-76.701942,
@@ -31,7 +32,12 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43PI7ygUvAhs2EgSg2g8ef_37.951016_-76.701942@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907240,
     "wof:geomhash":"8813aae5ef5b353db90e417789a846cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739433821
+        }
+    ],
     "wof:id":739433821,
-    "wof:lastmodified":1472651542,
+    "wof:lastmodified":1492030396,
     "wof:name":"Northern Neck-Essex County Hm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

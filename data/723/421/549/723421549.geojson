@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.382127,39.04699,-77.382127,39.04699",
     "geom:latitude":39.04699,
     "geom:longitude":-77.382127,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xkufeg0f3JFVVKbLVrp19_39.046990_-77.382127@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901388,
-    "wof:geomhash":"1a162c54a0bfdbc87a030eb0dc2bf1c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84685c5714ff32742b377d3f48fcfd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":723421549
+        }
+    ],
     "wof:id":723421549,
-    "wof:lastmodified":1472652246,
+    "wof:lastmodified":1492056943,
     "wof:name":"Kaiser Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

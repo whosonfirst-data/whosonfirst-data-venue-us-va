@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497812,38.37122,-77.497812,38.37122",
     "geom:latitude":38.37122,
     "geom:longitude":-77.497812,
@@ -31,17 +32,26 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vwc3oQ5xho4ZlqWVI67UR_38.371220_-77.497812@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890985,
-    "wof:geomhash":"32d77d99230157694eb18e31d2364470",
-    "wof:hierarchy":[],
+    "wof:geomhash":"555bc07141359bc6cc357bd1ece308d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":722909851
+        }
+    ],
     "wof:id":722909851,
-    "wof:lastmodified":1472652132,
+    "wof:lastmodified":1492070164,
     "wof:name":"Wine Sawmill",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

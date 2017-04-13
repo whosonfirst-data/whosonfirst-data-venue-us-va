@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437087,37.764921,-77.437087,37.764921",
     "geom:latitude":37.764921,
     "geom:longitude":-77.437087,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tzzkO0PDegjmJRMbSIIv0_37.764921_-77.437087@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908228,
-    "wof:geomhash":"e57c7750355fe95951cbf5712abf5822",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d58c225678c80456e17477c3d7437e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739488423
+        }
+    ],
     "wof:id":739488423,
-    "wof:lastmodified":1472651687,
+    "wof:lastmodified":1492041045,
     "wof:name":"Providence Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.298243,36.918833,-80.298243,36.918833",
     "geom:latitude":36.918833,
     "geom:longitude":-80.298243,
@@ -31,7 +32,12 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RbvGLGEmh1yB1wZFQoysG_36.918833_-80.298243@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908540,
     "wof:geomhash":"8aa6d3f68797156119705f8d4616839b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739506283
+        }
+    ],
     "wof:id":739506283,
-    "wof:lastmodified":1472651752,
+    "wof:lastmodified":1492032880,
     "wof:name":"Garry H Kuiken MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

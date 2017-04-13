@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.927635,36.767658,-78.927635,36.767658",
     "geom:latitude":36.767658,
     "geom:longitude":-78.927635,
@@ -31,19 +32,36 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728965,
+        102084931,
+        420546741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73Xk6yne4O3dFA8yDVZJ7o_36.767658_-78.927635@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888103,
-    "wof:geomhash":"5314529f116b5f71ae82c0ac543e63ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edf0d49c8cdabd590a64346fffa8d770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728965,
+            "neighbourhood_id":420546741,
+            "region_id":85688747,
+            "venue_id":722759189
+        }
+    ],
     "wof:id":722759189,
-    "wof:lastmodified":1472651752,
+    "wof:lastmodified":1492066609,
     "wof:name":"Charles C Cosby Jr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

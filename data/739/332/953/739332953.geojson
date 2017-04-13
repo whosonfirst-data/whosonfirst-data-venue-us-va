@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.864813,38.455881,-78.864813,38.455881",
     "geom:latitude":38.455881,
     "geom:longitude":-78.864813,
@@ -37,7 +38,13 @@
         "radiator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IXvUkp47S3eT1DeZpMovY_38.455881_-78.864813@1294252573"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461905234,
     "wof:geomhash":"29a48e7a61e38911b2526a648c0340b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739332953
+        }
+    ],
     "wof:id":739332953,
-    "wof:lastmodified":1472651314,
+    "wof:lastmodified":1492030784,
     "wof:name":"Blue Sky Radiator & Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

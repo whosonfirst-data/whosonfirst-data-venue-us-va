@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.414081,38.857856,-77.414081,38.857856",
     "geom:latitude":38.857856,
     "geom:longitude":-77.414081,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00l93Pc8fae9v1nX83brW5_38.857856_-77.414081@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906222,
-    "wof:geomhash":"c2c9742050aebef90d0362ef1dafb72e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b825d7cc982da71dd78a8e603d7a7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739381387
+        }
+    ],
     "wof:id":739381387,
-    "wof:lastmodified":1472651354,
+    "wof:lastmodified":1492046436,
     "wof:name":"Pmpl Public Relation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443632,38.771336,-77.443632,38.771336",
     "geom:latitude":38.771336,
     "geom:longitude":-77.443632,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"http://www.cbsigms.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69bNfiUY9GD9vTS630AuJ7_38.771336_-77.443632@1303262495"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461910505,
     "wof:geomhash":"341630aea064ca8e1107596d7a34d184",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739604681
+        }
+    ],
     "wof:id":739604681,
-    "wof:lastmodified":1472651963,
+    "wof:lastmodified":1492032503,
     "wof:name":"Capitol Building Supply, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

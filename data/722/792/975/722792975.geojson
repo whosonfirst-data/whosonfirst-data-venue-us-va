@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.341822,37.153958,-77.341822,37.153958",
     "geom:latitude":37.153958,
     "geom:longitude":-77.341822,
@@ -32,17 +33,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lZlXk91ifnyqR61k8q4Og_37.153958_-77.341822@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888752,
-    "wof:geomhash":"4ebfd08df73e44e39fe76493279c48ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d074e9675c0621f4128f8936fa134ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":722792975
+        }
+    ],
     "wof:id":722792975,
-    "wof:lastmodified":1472651852,
+    "wof:lastmodified":1492067781,
     "wof:name":"Union Branch Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

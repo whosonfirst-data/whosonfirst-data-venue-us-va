@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503847,37.630542,-77.503847,37.630542",
     "geom:latitude":37.630542,
     "geom:longitude":-77.503847,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sUH5NAZIPLaTHx8WfcBw6_37.630542_-77.503847@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893549,
-    "wof:geomhash":"01af2c06ad8a789b9629a9db27bca4d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39ada21cb7f2959079936742eec749f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":723027435
+        }
+    ],
     "wof:id":723027435,
-    "wof:lastmodified":1472651138,
+    "wof:lastmodified":1492060022,
     "wof:name":"Mid Atlantic Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.368831,37.776434,-76.368831,37.776434",
     "geom:latitude":37.776434,
     "geom:longitude":-76.368831,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sUyoFPUmRXeYQLoMcoUgA_37.776434_-76.368831@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892135,
-    "wof:geomhash":"a1e5c3b4dc997e260620e854b4829260",
-    "wof:hierarchy":[],
+    "wof:geomhash":"674e5deca8f9ecda155da383a5f97038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":722965017
+        }
+    ],
     "wof:id":722965017,
-    "wof:lastmodified":1472652277,
+    "wof:lastmodified":1492073519,
     "wof:name":"Lighthouse Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

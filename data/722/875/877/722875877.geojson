@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369837,38.320269,-77.369837,38.320269",
     "geom:latitude":38.320269,
     "geom:longitude":-77.369837,
@@ -34,17 +35,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2viXw8homR5ZS8jKn0cZ9l_38.320269_-77.369837@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890309,
-    "wof:geomhash":"177372a2c587a9be4243cbbeeccb0e50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c98833851d88402b91e8b0376937e0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":722875877
+        }
+    ],
     "wof:id":722875877,
-    "wof:lastmodified":1472652027,
+    "wof:lastmodified":1492066969,
     "wof:name":"Patton's Garage",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

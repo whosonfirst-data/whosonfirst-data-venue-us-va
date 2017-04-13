@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.833651,39.111924,-77.833651,39.111924",
     "geom:latitude":39.111924,
     "geom:longitude":-77.833651,
@@ -31,17 +32,30 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pkcoXADYyx2qc96ZlDO14_39.111924_-77.833651@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902603,
-    "wof:geomhash":"6b592544ea32c64fc18a9ca482bce422",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c041cc8e11a3da2425a064e8ba84124c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723483501
+        }
+    ],
     "wof:id":723483501,
-    "wof:lastmodified":1472652334,
+    "wof:lastmodified":1492059422,
     "wof:name":"Photobank International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

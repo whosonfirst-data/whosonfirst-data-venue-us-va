@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.347642,36.810025,-76.347642,36.810025",
     "geom:latitude":36.810025,
     "geom:longitude":-76.347642,
@@ -37,8 +38,8 @@
         85633793,
         101728677,
         102086707,
-        85831625,
-        420558427
+        420558427,
+        85831625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461901646,
-    "wof:geomhash":"2070598a9dd57f05894f099a62de6189",
+    "wof:geomhash":"a91e07ae940b68a75caad4421c286468",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85831625,
-            "region_id":85688747,
-            "venue_id":723434379
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +57,21 @@
             "neighbourhood_id":420558427,
             "region_id":85688747,
             "venue_id":723434379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85831625,
+            "region_id":85688747,
+            "venue_id":723434379
         }
     ],
     "wof:id":723434379,
-    "wof:lastmodified":1472652233,
+    "wof:lastmodified":1492057538,
     "wof:name":"S & S Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

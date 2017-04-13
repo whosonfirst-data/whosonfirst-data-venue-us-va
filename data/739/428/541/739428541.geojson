@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.002132,36.702244,-82.002132,36.702244",
     "geom:latitude":36.702244,
     "geom:longitude":-82.002132,
@@ -31,7 +32,10 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DZjFUdEti9nHdMXvwuZTq_36.702244_-82.002132@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907133,
     "wof:geomhash":"d7b10e95e17050d02438aab251bef0f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739428541
+        }
+    ],
     "wof:id":739428541,
-    "wof:lastmodified":1472651527,
+    "wof:lastmodified":1492030990,
     "wof:name":"Spiegler & Blevins",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

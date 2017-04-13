@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.394977,37.119607,-80.394977,37.119607",
     "geom:latitude":37.119607,
     "geom:longitude":-80.394977,
@@ -32,17 +33,26 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DcEXik4jsxhgxRClroY0k_37.119607_-80.394977@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896822,
-    "wof:geomhash":"478e3b8a06c918d75f08c39253b29e92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe508dede106006d1dc49194b74bb4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":723186861
+        }
+    ],
     "wof:id":723186861,
-    "wof:lastmodified":1472651542,
+    "wof:lastmodified":1492058761,
     "wof:name":"E-Z Method Driving School",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

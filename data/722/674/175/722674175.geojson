@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.997521,36.711798,-81.997521,36.711798",
     "geom:latitude":36.711798,
     "geom:longitude":-81.997521,
@@ -31,17 +32,26 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lgLWTo4iYpffrHi0Ln0bo_36.711798_-81.997521@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886471,
-    "wof:geomhash":"e919e244b121ec50fa3e1d6b88dcc10b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03d35a474f70f96e29f3813aabf2528e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722674175
+        }
+    ],
     "wof:id":722674175,
-    "wof:lastmodified":1472651506,
+    "wof:lastmodified":1492065165,
     "wof:name":"Southwest Tobacco Warehouse",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

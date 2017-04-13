@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.189119,39.147419,-78.189119,39.147419",
     "geom:latitude":39.147419,
     "geom:longitude":-78.189119,
@@ -32,17 +33,32 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rWEw2A4M01yS3zNmL0ZD9_39.147419_-78.189119@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899361,
-    "wof:geomhash":"c1f2fabee045a026b62d027ffa0568b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"facbfdc21bbd377fafc39f7efe1aa176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723315409
+        }
+    ],
     "wof:id":723315409,
-    "wof:lastmodified":1472651791,
+    "wof:lastmodified":1492052687,
     "wof:name":"Professional Drivers Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

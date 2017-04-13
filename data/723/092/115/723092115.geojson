@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.040895,36.6791,-82.040895,36.6791",
     "geom:latitude":36.6791,
     "geom:longitude":-82.040895,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PnUYtOvV7SV4dX0gpudCV_36.679100_-82.040895@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894960,
-    "wof:geomhash":"9612519e23e59ae93479635c4b1a36bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54f03078a334b20b4235fce183d56f29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723092115
+        }
+    ],
     "wof:id":723092115,
-    "wof:lastmodified":1472651264,
+    "wof:lastmodified":1492050061,
     "wof:name":"Blue Ridge Kenworth",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

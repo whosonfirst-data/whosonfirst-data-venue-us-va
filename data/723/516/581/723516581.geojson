@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.011842,36.685347,-82.011842,36.685347",
     "geom:latitude":36.685347,
     "geom:longitude":-82.011842,
@@ -33,17 +34,26 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09bnTUXC3AVLL31RNfJ6gT_36.685347_-82.011842@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903364,
-    "wof:geomhash":"0de602bb9cedcf54c51ca757eec35d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41ef8aa27f6574429cd1779d13f0bd88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723516581
+        }
+    ],
     "wof:id":723516581,
-    "wof:lastmodified":1472652371,
+    "wof:lastmodified":1492057377,
     "wof:name":"Tile Craft LLC",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

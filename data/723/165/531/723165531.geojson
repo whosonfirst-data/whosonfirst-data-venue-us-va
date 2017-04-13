@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548554,38.243523,-77.548554,38.243523",
     "geom:latitude":38.243523,
     "geom:longitude":-77.548554,
@@ -33,17 +34,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eZ8SSxExnAgU0YlLx9Gq6_38.243523_-77.548554@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896397,
-    "wof:geomhash":"e3653ddde886b6a9c9da520505066b4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db7e5f92bdb2cf889335bb0d84a9be30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723165531
+        }
+    ],
     "wof:id":723165531,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492052731,
     "wof:name":"Olympus Gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

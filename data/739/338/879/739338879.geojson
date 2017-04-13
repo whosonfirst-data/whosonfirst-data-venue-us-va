@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.236316,39.19468,-78.236316,39.19468",
     "geom:latitude":39.19468,
     "geom:longitude":-78.236316,
@@ -35,7 +36,12 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uPMiPCi2GfzeZOZw4Lrga_39.194680_-78.236316@1294252573"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461905360,
     "wof:geomhash":"9343078796255b05ce707e738c8f8114",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739338879
+        }
+    ],
     "wof:id":739338879,
-    "wof:lastmodified":1472651301,
+    "wof:lastmodified":1492033430,
     "wof:name":"Hagers Spa and Pool Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533467,38.298143,-77.533467,38.298143",
     "geom:latitude":38.298143,
     "geom:longitude":-77.533467,
@@ -32,7 +33,12 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KUsPYbfYfC6EhRx6mAmbk_38.298143_-77.533467@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908531,
     "wof:geomhash":"fff35eb7ec3b77892f227abdb386aaee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739505713
+        }
+    ],
     "wof:id":739505713,
-    "wof:lastmodified":1472651828,
+    "wof:lastmodified":1492032225,
     "wof:name":"Richard R Weart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

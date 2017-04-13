@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.897461,38.063297,-78.897461,38.063297",
     "geom:latitude":38.063297,
     "geom:longitude":-78.897461,
@@ -33,17 +34,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YAEtXCIe3emF826ObK6xg_38.063297_-78.897461@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887145,
-    "wof:geomhash":"836ba7899006356e2f80b3ca3637dfb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb79edbd25f2f7e5eff7d07b8db30181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722709625
+        }
+    ],
     "wof:id":722709625,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492075392,
     "wof:name":"Mr Care Provider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506918,37.610588,-77.506918,37.610588",
     "geom:latitude":37.610588,
     "geom:longitude":-77.506918,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NPWrQv9q2aWq7rZpjI8tE_37.610588_-77.506918@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902054,
-    "wof:geomhash":"17555d91cc96540efd2fe3c0f304b1ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a7a99dcb3b7b446421794f4c90b326e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":723456127
+        }
+    ],
     "wof:id":723456127,
-    "wof:lastmodified":1472652280,
+    "wof:lastmodified":1492051621,
     "wof:name":"Greendale Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

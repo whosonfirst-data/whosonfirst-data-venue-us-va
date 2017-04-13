@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.983963,36.707523,-81.983963,36.707523",
     "geom:latitude":36.707523,
     "geom:longitude":-81.983963,
@@ -33,17 +34,26 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wn2eARX1Pnr5fFuie9hsx_36.707523_-81.983963@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891006,
-    "wof:geomhash":"0437ab4f09af865268b7dafbdad355bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39fde82089ca9e7bf25c912ccb7019d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722910873
+        }
+    ],
     "wof:id":722910873,
-    "wof:lastmodified":1472652134,
+    "wof:lastmodified":1492063255,
     "wof:name":"Dept Housing Cmnty Dev Contr",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.395358,37.176943,-76.395358,37.176943",
     "geom:latitude":37.176943,
     "geom:longitude":-76.395358,
@@ -34,17 +35,26 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73dqQhHSSBpdN53O78QLKE_37.176943_-76.395358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892868,
-    "wof:geomhash":"89a65cd5a7251c4dc02ddd4501109891",
-    "wof:hierarchy":[],
+    "wof:geomhash":"776cecaf9847c27b5bfbef3ed1de32aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722998309
+        }
+    ],
     "wof:id":722998309,
-    "wof:lastmodified":1472652328,
+    "wof:lastmodified":1492074968,
     "wof:name":"Specialityworks Co Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.990957,36.707748,-81.990957,36.707748",
     "geom:latitude":36.707748,
     "geom:longitude":-81.990957,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45jAwOR8VrU42YIUqJABM9_36.707748_-81.990957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902196,
-    "wof:geomhash":"a2929e6a8c40bee46b0fd81d8a68017c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e81488883a064558b36b61f0e5d4fc8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723463327
+        }
+    ],
     "wof:id":723463327,
-    "wof:lastmodified":1472652298,
+    "wof:lastmodified":1492056403,
     "wof:name":"Abingdon First Assembly Of God",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

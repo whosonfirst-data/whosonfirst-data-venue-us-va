@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.754505,37.965803,-76.754505,37.965803",
     "geom:latitude":37.965803,
     "geom:longitude":-76.754505,
@@ -32,7 +33,13 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728753,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53K4MA7kPx6385eA1pykh3_37.965803_-76.754505@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908538,
     "wof:geomhash":"e94d3a6508b0b735419e60f85b889b17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "locality_id":101728753,
+            "region_id":85688747,
+            "venue_id":739506163
+        }
+    ],
     "wof:id":739506163,
-    "wof:lastmodified":1472651738,
+    "wof:lastmodified":1492032879,
     "wof:name":"D Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

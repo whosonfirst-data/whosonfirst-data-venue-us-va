@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.35475,37.363892,-78.35475,37.363892",
     "geom:latitude":37.363892,
     "geom:longitude":-78.35475,
@@ -31,7 +32,12 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NdG1IfnkNaFkC0A26p8zy_37.363892_-78.354750@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907758,
     "wof:geomhash":"2e82e50987ab970d62c9b08e43a541ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "region_id":85688747,
+            "venue_id":739462587
+        }
+    ],
     "wof:id":739462587,
-    "wof:lastmodified":1472651631,
+    "wof:lastmodified":1492033364,
     "wof:name":"Allens Classic Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

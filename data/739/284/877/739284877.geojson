@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.785956,37.2496,-76.785956,37.2496",
     "geom:latitude":37.2496,
     "geom:longitude":-76.785956,
@@ -28,7 +29,10 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ekvG9Ag16bIkI2LuImzhk_37.249600_-76.785956@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904254,
     "wof:geomhash":"e832a75a95abd1d1e647a67b2a732c8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":739284877
+        }
+    ],
     "wof:id":739284877,
-    "wof:lastmodified":1472651182,
+    "wof:lastmodified":1492030632,
     "wof:name":"Prudential Mc Cardle Realty",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

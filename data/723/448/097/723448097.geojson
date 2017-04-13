@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.353804,38.977943,-78.353804,38.977943",
     "geom:latitude":38.977943,
     "geom:longitude":-78.353804,
@@ -31,17 +32,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43I4olSdoFrrksKBuyy9sQ_38.977943_-78.353804@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901911,
-    "wof:geomhash":"6391f6b41eeec2a53f4b074ae4dc0d3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8024bb078dfdbd0475668a44d1e58bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":723448097
+        }
+    ],
     "wof:id":723448097,
-    "wof:lastmodified":1472652236,
+    "wof:lastmodified":1492052894,
     "wof:name":"Strasburg Sewage Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

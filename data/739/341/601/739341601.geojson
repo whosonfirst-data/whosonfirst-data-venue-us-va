@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.391367,37.303655,-78.391367,37.303655",
     "geom:latitude":37.303655,
     "geom:longitude":-78.391367,
@@ -28,7 +29,13 @@
     "sg:postcode":"23901",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fbYlN8Iym76t2BPJFyYIA_37.303655_-78.391367@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905411,
     "wof:geomhash":"29998b0d73d45b9ce1ae3606ce85a6f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739341601
+        }
+    ],
     "wof:id":739341601,
-    "wof:lastmodified":1472651296,
+    "wof:lastmodified":1492032561,
     "wof:name":"Durrette Irwin and Bradshaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

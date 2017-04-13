@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.927899,36.767358,-78.927899,36.767358",
     "geom:latitude":36.767358,
     "geom:longitude":-78.927899,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728965,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cbE9Wp4k1nLQgS8DOAe8X_36.767358_-78.927899@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885186,
-    "wof:geomhash":"5265cc43bd4ff7364adb1d20382d3dc8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3445e626907b04e548e025f6f9b1301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728965,
+            "region_id":85688747,
+            "venue_id":722610649
+        }
+    ],
     "wof:id":722610649,
-    "wof:lastmodified":1472651304,
+    "wof:lastmodified":1492072486,
     "wof:name":"Halifax Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

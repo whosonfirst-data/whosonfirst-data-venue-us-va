@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.587319,38.450435,-77.587319,38.450435",
     "geom:latitude":38.450435,
     "geom:longitude":-77.587319,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547205,
+        85688747,
         85893991,
         102081931
     ],
@@ -45,8 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1461892861,
-    "wof:geomhash":"c9059484e90584db6423890bd4ade77f",
+    "wof:geomhash":"02389d90cb292852ffab645837edd072",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547205,
+            "venue_id":722998119
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -56,9 +63,9 @@
         }
     ],
     "wof:id":722998119,
-    "wof:lastmodified":1472652326,
+    "wof:lastmodified":1492074972,
     "wof:name":"Precision Fiberglass & Body",
-    "wof:parent_id":85893991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

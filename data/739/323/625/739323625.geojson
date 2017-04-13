@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.444296,38.056933,-78.444296,38.056933",
     "geom:latitude":38.056933,
     "geom:longitude":-78.444296,
@@ -32,17 +33,30 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rUNAjr76KF6xduUUrml5w_38.056933_-78.444296@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905053,
-    "wof:geomhash":"3aa640582b87dd4f4d8be43782645952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9efbe8bc2f066f59c0aca58e2e5c9451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739323625
+        }
+    ],
     "wof:id":739323625,
-    "wof:lastmodified":1472651292,
+    "wof:lastmodified":1492044461,
     "wof:name":"Beam Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

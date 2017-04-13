@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.401333,36.916455,-80.401333,36.916455",
     "geom:latitude":36.916455,
     "geom:longitude":-80.401333,
@@ -33,7 +34,12 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M8RHBsE0WJPEvznGfG7ef_36.916455_-80.401333@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461905752,
     "wof:geomhash":"25266e265b09b6f99c3dc79710852d37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739356717
+        }
+    ],
     "wof:id":739356717,
-    "wof:lastmodified":1472651346,
+    "wof:lastmodified":1492030437,
     "wof:name":"American Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

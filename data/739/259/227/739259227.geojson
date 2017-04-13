@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.469235,38.534364,-78.469235,38.534364",
     "geom:latitude":38.534364,
     "geom:longitude":-78.469235,
@@ -31,7 +32,12 @@
         "masonry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pDxSiIbTkF7yxnXiSstxo_38.534364_-78.469235@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903683,
     "wof:geomhash":"aa2c4821d4ebe82a0df7b045af6fbd34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084929,
+            "region_id":85688747,
+            "venue_id":739259227
+        }
+    ],
     "wof:id":739259227,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492032925,
     "wof:name":"Lewis F Jenkins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

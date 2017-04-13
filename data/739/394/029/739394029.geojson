@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43668,38.837775,-77.43668,38.837775",
     "geom:latitude":38.837775,
     "geom:longitude":-77.43668,
@@ -28,7 +29,13 @@
     "sg:postcode":"20121",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_596NlcD97HTifSqVJXqs0B_38.837775_-77.436680@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906468,
     "wof:geomhash":"d5066600483b4a48814bdb37e1d94140",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739394029
+        }
+    ],
     "wof:id":739394029,
-    "wof:lastmodified":1472651435,
+    "wof:lastmodified":1492032996,
     "wof:name":"Buster Brown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

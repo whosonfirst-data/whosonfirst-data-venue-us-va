@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.518742,37.123125,-81.518742,37.123125",
     "geom:latitude":37.123125,
     "geom:longitude":-81.518742,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P23XdZ19DqCASZm3EvGpR_37.123125_-81.518742@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902490,
-    "wof:geomhash":"14d9268877e517a75d17b4f328bdc7e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17f54581bf6fd8fbd25b8d6223ee65be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723477625
+        }
+    ],
     "wof:id":723477625,
-    "wof:lastmodified":1472652317,
+    "wof:lastmodified":1492057832,
     "wof:name":"Tazewell Methodist Church",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

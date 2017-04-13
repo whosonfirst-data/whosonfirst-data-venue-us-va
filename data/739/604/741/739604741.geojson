@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.472032,38.790486,-77.472032,38.790486",
     "geom:latitude":38.790486,
     "geom:longitude":-77.472032,
@@ -34,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729245,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61e7BhtEaD0NvZHe8h3UGt_38.790486_-77.472032@1303262495"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461910506,
     "wof:geomhash":"80f1c876d1ce3bce289c47ff382e0c0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729245,
+            "region_id":85688747,
+            "venue_id":739604741
+        }
+    ],
     "wof:id":739604741,
-    "wof:lastmodified":1472651965,
+    "wof:lastmodified":1492032502,
     "wof:name":"Gm Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

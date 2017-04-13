@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.629166,37.660967,-77.629166,37.660967",
     "geom:latitude":37.660967,
     "geom:longitude":-77.629166,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IhNoM1rcQobUu4M2GYKK5_37.660967_-77.629166@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886179,
-    "wof:geomhash":"0766e13c9d0589a3a511701fcea54c44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5243a4adfd8669c9341cda26a468c25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":722658659
+        }
+    ],
     "wof:id":722658659,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492067268,
     "wof:name":"Breedon Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

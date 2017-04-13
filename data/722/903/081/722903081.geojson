@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.656759,38.875926,-77.656759,38.875926",
     "geom:latitude":38.875926,
     "geom:longitude":-77.656759,
@@ -31,17 +32,30 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GEujCGPTwUGKHJvnzaret_38.875926_-77.656759@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890848,
-    "wof:geomhash":"d4f25d93aad2b363bda21c61a764956d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23ba75a9afed764195e4b9fc71fb8226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722903081
+        }
+    ],
     "wof:id":722903081,
-    "wof:lastmodified":1472652048,
+    "wof:lastmodified":1492071000,
     "wof:name":"Austin Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

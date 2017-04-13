@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.182813,38.878805,-77.182813,38.878805",
     "geom:latitude":38.878805,
     "geom:longitude":-77.182813,
@@ -32,7 +33,13 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729757,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g5w7ic1IxYc6O0GCWhbPJ_38.878805_-77.182813@1299784598"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910016,
     "wof:geomhash":"3704cd0a1db4b75304f8f8b667b3d7fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "region_id":85688747,
+            "venue_id":739580407
+        }
+    ],
     "wof:id":739580407,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492031540,
     "wof:name":"Express Entree - Alexandria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

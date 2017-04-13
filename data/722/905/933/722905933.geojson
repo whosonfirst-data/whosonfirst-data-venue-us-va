@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.944672,37.2689,-79.944672,37.2689",
     "geom:latitude":37.2689,
     "geom:longitude":-79.944672,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OPjn5elnS3FdDtutzWn20_37.268900_-79.944672@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890907,
-    "wof:geomhash":"f41a8ccbdaab02f2c111ef7a210ae2a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"264f96d10dd227b8c559f611435f09f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722905933
+        }
+    ],
     "wof:id":722905933,
-    "wof:lastmodified":1472652127,
+    "wof:lastmodified":1492068984,
     "wof:name":"Verizon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

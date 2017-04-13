@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.552625,39.112699,-77.552625,39.112699",
     "geom:latitude":39.112699,
     "geom:longitude":-77.552625,
@@ -28,7 +29,13 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fZ9Qpt4sl0tLkqtSzSZua_39.112699_-77.552625@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907646,
     "wof:geomhash":"4cf3ff403715c30d84e4a342648d8683",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739456095
+        }
+    ],
     "wof:id":739456095,
-    "wof:lastmodified":1472651562,
+    "wof:lastmodified":1492033058,
     "wof:name":"Bicycle Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

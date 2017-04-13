@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.440631,38.0376,-78.440631,38.0376",
     "geom:latitude":38.0376,
     "geom:longitude":-78.440631,
@@ -32,17 +33,32 @@
         "orchestra"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729625,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23amiBWNq8NEqlDv9bYcnR_38.037600_-78.440631@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896567,
-    "wof:geomhash":"ed5608227f3147d9165bf82fa57921e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b7ab9d23b143a92f2dee74ff17508f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729625,
+            "region_id":85688747,
+            "venue_id":723174421
+        }
+    ],
     "wof:id":723174421,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492062028,
     "wof:name":"Youth Orchestra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.018808,38.249381,-78.018808,38.249381",
     "geom:latitude":38.249381,
     "geom:longitude":-78.018808,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NXPI0A7iqoC77MwUG1LhM_38.249381_-78.018808@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886409,
-    "wof:geomhash":"49929c4015ea909b3f04c0947d1764fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d033cf730bbdc2ab03179a70f402f928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "region_id":85688747,
+            "venue_id":722670681
+        }
+    ],
     "wof:id":722670681,
-    "wof:lastmodified":1472651492,
+    "wof:lastmodified":1492074561,
     "wof:name":"Shifflett Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.962225,37.244793,-79.962225,37.244793",
     "geom:latitude":37.244793,
     "geom:longitude":-79.962225,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o7MjBMd0tZBuuPPTTuxwC_37.244793_-79.962225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889280,
-    "wof:geomhash":"149869260811f07d4caad6801c54c217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51c07db059b97dfec596d174a901bfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722820769
+        }
+    ],
     "wof:id":722820769,
-    "wof:lastmodified":1472651903,
+    "wof:lastmodified":1492073926,
     "wof:name":"Stephen's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

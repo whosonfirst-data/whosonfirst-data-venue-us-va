@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460971,37.671005,-77.460971,37.671005",
     "geom:latitude":37.671005,
     "geom:longitude":-77.460971,
@@ -33,17 +34,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729363,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GKAlSBs2UuLwkjGGXHD3n_37.671005_-77.460971@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910111,
-    "wof:geomhash":"ab4f52450969311dc678b151bf964dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2baa8c07928a92b3e3992563076ed8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729363,
+            "region_id":85688747,
+            "venue_id":739585309
+        }
+    ],
     "wof:id":739585309,
-    "wof:lastmodified":1472651923,
+    "wof:lastmodified":1492046367,
     "wof:name":"Pizzaro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

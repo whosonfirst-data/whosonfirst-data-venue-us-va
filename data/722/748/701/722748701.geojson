@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.374659,37.292449,-78.374659,37.292449",
     "geom:latitude":37.292449,
     "geom:longitude":-78.374659,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l1Zv51e42is9vGOHc2V9C_37.292449_-78.374659@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887916,
-    "wof:geomhash":"0275b11d9656d98281728a08fd2a690a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e9af969458190435f39660073b30448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":722748701
+        }
+    ],
     "wof:id":722748701,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492072418,
     "wof:name":"Dominion Virginia Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

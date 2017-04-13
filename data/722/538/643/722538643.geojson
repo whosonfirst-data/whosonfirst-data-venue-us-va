@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440606,38.310856,-77.440606,38.310856",
     "geom:latitude":38.310856,
     "geom:longitude":-77.440606,
@@ -33,19 +34,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241,
+        420547245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q00LLz0bvyH1ZbDnu40nQ_38.310856_-77.440606@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883776,
-    "wof:geomhash":"013ef05f1f6d78a665f842b61389fb46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77919d6a9e2cb6ab8181186a61cc0c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":722538643
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547245,
+            "venue_id":722538643
+        }
+    ],
     "wof:id":722538643,
-    "wof:lastmodified":1472651078,
+    "wof:lastmodified":1492062900,
     "wof:name":"Elsie Belmans Stretch Limosne",
-    "wof:parent_id":420547241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

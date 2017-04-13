@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526299,38.755171,-77.526299,38.755171",
     "geom:latitude":38.755171,
     "geom:longitude":-77.526299,
@@ -32,17 +33,30 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zfM5Fv1CzNwmoBEwu4zU5_38.755171_-77.526299@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910491,
-    "wof:geomhash":"01cf3708c57137684d2aa09265ad43dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a917abdf3ea0bdc0b6f3696d3f1fd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739603857
+        }
+    ],
     "wof:id":739603857,
-    "wof:lastmodified":1472651977,
+    "wof:lastmodified":1492044786,
     "wof:name":"Comcast Cable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

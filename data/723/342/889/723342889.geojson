@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.477838,38.126656,-77.477838,38.126656",
     "geom:latitude":38.126656,
     "geom:longitude":-77.477838,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wTvZ33PTry9fodT1E0OYO_38.126656_-77.477838@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899859,
-    "wof:geomhash":"25c55d6920984ae7fe9c0317f52c069b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"806666a34caf59fc00591231604b5f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723342889
+        }
+    ],
     "wof:id":723342889,
-    "wof:lastmodified":1472651970,
+    "wof:lastmodified":1492062005,
     "wof:name":"Parrish Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

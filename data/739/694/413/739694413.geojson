@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.700653,38.271721,-77.700653,38.271721",
     "geom:latitude":38.271721,
     "geom:longitude":-77.700653,
@@ -32,7 +33,12 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23EMW4qoY8kjyOwYEB4N7R_38.271721_-77.700653@1303262547"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912426,
     "wof:geomhash":"388d8c1b493cf458d6e92da482e9298f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694413
+        }
+    ],
     "wof:id":739694413,
-    "wof:lastmodified":1472652170,
+    "wof:lastmodified":1492030251,
     "wof:name":"Veterinarian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

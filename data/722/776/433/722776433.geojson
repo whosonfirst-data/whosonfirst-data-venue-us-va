@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.495383,37.641828,-77.495383,37.641828",
     "geom:latitude":37.641828,
     "geom:longitude":-77.495383,
@@ -32,17 +33,32 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BMvzAQDTI60qPHd1JYzx5_37.641828_-77.495383@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888433,
-    "wof:geomhash":"c8b7b1b8953b547e729ca0fdea6b0a21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a9157df88dd0fc19260a9caecc20e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":722776433
+        }
+    ],
     "wof:id":722776433,
-    "wof:lastmodified":1472651773,
+    "wof:lastmodified":1492070828,
     "wof:name":"Universal Driver Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

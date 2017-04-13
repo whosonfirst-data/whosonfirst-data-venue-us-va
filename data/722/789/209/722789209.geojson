@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.294323,38.359482,-77.294323,38.359482",
     "geom:latitude":38.359482,
     "geom:longitude":-77.294323,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FKVhkRNMwdaidBNO4517h_38.359482_-77.294323@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888677,
-    "wof:geomhash":"31f28b94dc595394bf487a4dcb604146",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9c506ad83d36f59fec229135903ad9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547129,
+            "venue_id":722789209
+        }
+    ],
     "wof:id":722789209,
-    "wof:lastmodified":1472651738,
+    "wof:lastmodified":1492064752,
     "wof:name":"Olde Towne Kitchen & Bath",
     "wof:parent_id":420547129,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.117544,38.780431,-77.117544,38.780431",
     "geom:latitude":38.780431,
     "geom:longitude":-77.117544,
@@ -39,7 +40,9 @@
         85633793,
         101729841,
         102084863,
-        85823327
+        85823327,
+        101729787,
+        420546691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461900197,
-    "wof:geomhash":"233aab9282967feaf795b8b198fc9c54",
+    "wof:geomhash":"393bd6fe3e263171138e004c7171b843",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,21 @@
             "neighbourhood_id":85823327,
             "region_id":85688747,
             "venue_id":723360913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729787,
+            "neighbourhood_id":420546691,
+            "region_id":85688747,
+            "venue_id":723360913
         }
     ],
     "wof:id":723360913,
-    "wof:lastmodified":1472652083,
+    "wof:lastmodified":1492053233,
     "wof:name":"J R Construction",
-    "wof:parent_id":85823327,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

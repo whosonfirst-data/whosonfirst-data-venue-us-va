@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.237813,38.313453,-77.237813,38.313453",
     "geom:latitude":38.313453,
     "geom:longitude":-77.237813,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.accurateforeignparts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74Oosina759Ch0ywJdihUu_38.313453_-77.237813@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907603,
     "wof:geomhash":"25a8fbfd227e9c5af9d495df9173e5fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":739453539
+        }
+    ],
     "wof:id":739453539,
-    "wof:lastmodified":1472651575,
+    "wof:lastmodified":1492030421,
     "wof:name":"Accurate Foreign Car Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

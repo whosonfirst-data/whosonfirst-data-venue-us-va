@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.536471,37.568574,-77.536471,37.568574",
     "geom:latitude":37.568574,
     "geom:longitude":-77.536471,
@@ -31,7 +32,13 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3snddKa3vhZPvQ9yF7tjus_37.568574_-77.536471@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906031,
     "wof:geomhash":"bbf825967720f301be1653edee1c1938",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739371881
+        }
+    ],
     "wof:id":739371881,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492031702,
     "wof:name":"Country Curtains",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

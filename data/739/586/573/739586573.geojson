@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758901,37.270556,-76.758901,37.270556",
     "geom:latitude":37.270556,
     "geom:longitude":-76.758901,
@@ -36,7 +37,10 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dOc1peU454uhBz1PRuwQ8_37.270556_-76.758901@1299784598"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"80917bc6bf42be49cb808f962426b17a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739586573
+        }
+    ],
     "wof:id":739586573,
-    "wof:lastmodified":1472651945,
+    "wof:lastmodified":1492031890,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

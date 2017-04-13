@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.459957,37.545763,-77.459957,37.545763",
     "geom:latitude":37.545763,
     "geom:longitude":-77.459957,
@@ -34,7 +35,8 @@
         85633793,
         101728675,
         102085959,
-        85880341
+        85880341,
+        85880291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895525,
-    "wof:geomhash":"26642a2cab27e07c2ab3c4999eee7110",
+    "wof:geomhash":"2cd5dd2c08b43638b394ca3e1b7da2e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85880341,
             "region_id":85688747,
             "venue_id":723120325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85880291,
+            "region_id":85688747,
+            "venue_id":723120325
         }
     ],
     "wof:id":723120325,
-    "wof:lastmodified":1472651350,
+    "wof:lastmodified":1492047761,
     "wof:name":"Fifth Baptist Church",
-    "wof:parent_id":85880341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

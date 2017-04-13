@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.596767,37.474492,-77.596767,37.474492",
     "geom:latitude":37.474492,
     "geom:longitude":-77.596767,
@@ -50,7 +51,12 @@
     ],
     "sg:website":"http://www.nuccios.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OlBFE2fP0DUUYDTsqGuJ9_37.474492_-77.596767@1303262551"
@@ -58,9 +64,17 @@
     "wof:country":"US",
     "wof:created":1461913091,
     "wof:geomhash":"e0bddee43f184cdffac39ea340e2a989",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724959
+        }
+    ],
     "wof:id":739724959,
-    "wof:lastmodified":1472652257,
+    "wof:lastmodified":1492030955,
     "wof:name":"Nuccio's Trattoria & Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

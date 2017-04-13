@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.30791,36.903669,-81.30791,36.903669",
     "geom:latitude":36.903669,
     "geom:longitude":-81.30791,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71kuUvCi9XpFgZfa5buvtv_36.903669_-81.307910@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891699,
-    "wof:geomhash":"c1544ba778dd85f1cc39a7fdd4bedb0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4f6a32c8098ea733d20b15dd3641f7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547325,
+            "venue_id":722943489
+        }
+    ],
     "wof:id":722943489,
-    "wof:lastmodified":1472652245,
+    "wof:lastmodified":1492070303,
     "wof:name":"Davids Auto Repair",
     "wof:parent_id":420547325,
     "wof:placetype":"venue",

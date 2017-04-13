@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.402796,39.053755,-77.402796,39.053755",
     "geom:latitude":39.053755,
     "geom:longitude":-77.402796,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729461,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uCTlEIn5qgbuWlVGVu9ok_39.053755_-77.402796@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890079,
-    "wof:geomhash":"f3b265b95d7e6ff5bc8b1bd1231234b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36d19aef17ca0b325a17678d1792e1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729461,
+            "region_id":85688747,
+            "venue_id":722863455
+        }
+    ],
     "wof:id":722863455,
-    "wof:lastmodified":1472651996,
+    "wof:lastmodified":1492071778,
     "wof:name":"MCA Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

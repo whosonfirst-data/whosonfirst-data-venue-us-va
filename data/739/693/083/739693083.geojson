@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441713,38.384232,-77.441713,38.384232",
     "geom:latitude":38.384232,
     "geom:longitude":-77.441713,
@@ -28,7 +29,10 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OGg5Cn0spxlXIXK14ixk9_38.384232_-77.441713@1303262546"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461912402,
     "wof:geomhash":"e4219d438135418a23bedb2a4bc9a624",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739693083
+        }
+    ],
     "wof:id":739693083,
-    "wof:lastmodified":1472652159,
+    "wof:lastmodified":1492031385,
     "wof:name":"Agape Preparatory Academy",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

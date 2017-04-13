@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.954503,37.6633,-78.954503,37.6633",
     "geom:latitude":37.6633,
     "geom:longitude":-78.954503,
@@ -31,17 +32,30 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i1rFq2vNGl37eYDc1d84S_37.663300_-78.954503@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898961,
-    "wof:geomhash":"c050c0f4c9e3058abb18865131b03361",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56bb70d593cd13453e16a01bfead5b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":723294741
+        }
+    ],
     "wof:id":723294741,
-    "wof:lastmodified":1472651823,
+    "wof:lastmodified":1492061414,
     "wof:name":"M T S Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

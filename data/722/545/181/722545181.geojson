@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.981292,36.708441,-81.981292,36.708441",
     "geom:latitude":36.708441,
     "geom:longitude":-81.981292,
@@ -28,19 +29,42 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307,
+        85688747,
+        102191575,
+        101728829,
+        102087301,
+        85847903
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZOvVEFNbdjAdblT2G1kog_36.708441_-81.981292@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883906,
-    "wof:geomhash":"a3e0f095aa62acb964e22e0a5dcee375",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5046c3682e97a00d3c5c975823a83c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722545181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087301,
+            "locality_id":101728829,
+            "neighbourhood_id":85847903,
+            "region_id":85688747,
+            "venue_id":722545181
+        }
+    ],
     "wof:id":722545181,
-    "wof:lastmodified":1472651075,
+    "wof:lastmodified":1492070126,
     "wof:name":"Sw Va Emergency Medical Svc",
-    "wof:parent_id":420547307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

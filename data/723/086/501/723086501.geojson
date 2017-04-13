@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.280328,36.908943,-81.280328,36.908943",
     "geom:latitude":36.908943,
     "geom:longitude":-81.280328,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qrvFH6iT0qroZMo9GLpRN_36.908943_-81.280328@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894841,
-    "wof:geomhash":"3b711e189f4124cecff16c61e6e1f629",
-    "wof:hierarchy":[],
+    "wof:geomhash":"496c7705274311dcf3ff893d06f19f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723086501
+        }
+    ],
     "wof:id":723086501,
-    "wof:lastmodified":1472651274,
+    "wof:lastmodified":1492057278,
     "wof:name":"Crossroads Medical Clinic",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

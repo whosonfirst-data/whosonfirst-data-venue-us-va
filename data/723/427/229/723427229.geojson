@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369919,38.510379,-77.369919,38.510379",
     "geom:latitude":38.510379,
     "geom:longitude":-77.369919,
@@ -33,19 +34,34 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SElm5BZ0dt6Eg8XylLccF_38.510379_-77.369919@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901521,
-    "wof:geomhash":"b9c6322eb9f007a9fdca266cf7e86784",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b3ee4b524e0bd262562ec1fbe4bf250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":723427229
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":723427229
+        }
+    ],
     "wof:id":723427229,
-    "wof:lastmodified":1472652221,
+    "wof:lastmodified":1492052639,
     "wof:name":"All American Awards",
-    "wof:parent_id":420547175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

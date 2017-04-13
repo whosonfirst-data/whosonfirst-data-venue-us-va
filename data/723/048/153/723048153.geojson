@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.245395,38.037157,-78.245395,38.037157",
     "geom:latitude":38.037157,
     "geom:longitude":-78.245395,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dcfgjq8Q1rfg6mUgfEh0r_38.037157_-78.245395@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893973,
-    "wof:geomhash":"016d0c7344bb405e2f906cc57025635f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"312462383474ec5ec8ea231361196b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":723048153
+        }
+    ],
     "wof:id":723048153,
-    "wof:lastmodified":1472651157,
+    "wof:lastmodified":1492059270,
     "wof:name":"Morningstar Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.31218,37.551645,-76.31218,37.551645",
     "geom:latitude":37.551645,
     "geom:longitude":-76.31218,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729307,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CNYvkXi2aM5Xm6BUF022M_37.551645_-76.312180@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912767,
-    "wof:geomhash":"8e137d7a3c369528489e456839f2573f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11329e0d8ce1b0f41965b63dad8626f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "locality_id":101729307,
+            "region_id":85688747,
+            "venue_id":739709085
+        }
+    ],
     "wof:id":739709085,
-    "wof:lastmodified":1472652169,
+    "wof:lastmodified":1492047053,
     "wof:name":"Places To Go Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

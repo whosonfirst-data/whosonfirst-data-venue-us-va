@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.605761,37.48289,-77.605761,37.48289",
     "geom:latitude":37.48289,
     "geom:longitude":-77.605761,
@@ -31,17 +32,30 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52JwTS49gRoZQWyvpS95eZ_37.482890_-77.605761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897988,
-    "wof:geomhash":"b42691a65e3eed824d6059f30047fe69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf56e2063c24e6ce8644edd4b37ecfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723244019
+        }
+    ],
     "wof:id":723244019,
-    "wof:lastmodified":1472651661,
+    "wof:lastmodified":1492061140,
     "wof:name":"Athletic Field Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

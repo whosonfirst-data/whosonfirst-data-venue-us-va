@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.496869,37.548665,-76.496869,37.548665",
     "geom:latitude":37.548665,
     "geom:longitude":-76.496869,
@@ -31,7 +32,12 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66lw8nUowRZv2rRisxsnOZ_37.548665_-76.496869@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907399,
     "wof:geomhash":"d71c48baa9b7bd15fe73a2b14a5e7dc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":739442741
+        }
+    ],
     "wof:id":739442741,
-    "wof:lastmodified":1472651580,
+    "wof:lastmodified":1492030173,
     "wof:name":"United Malik Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

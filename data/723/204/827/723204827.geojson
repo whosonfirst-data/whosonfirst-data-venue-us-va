@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.463398,36.77046,-76.463398,36.77046",
     "geom:latitude":36.77046,
     "geom:longitude":-76.463398,
@@ -31,19 +32,48 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265,
+        420547917,
+        101728729,
+        102087269,
+        85836265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57CHvtcNRoyORiwNEIylUB_36.770460_-76.463398@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897167,
-    "wof:geomhash":"e8391da23033a9e167d5d9188eec7b2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e845c02993a23548a3aa47b42338733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":420547917,
+            "region_id":85688747,
+            "venue_id":723204827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087269,
+            "locality_id":101728729,
+            "neighbourhood_id":85836265,
+            "region_id":85688747,
+            "venue_id":723204827
+        }
+    ],
     "wof:id":723204827,
-    "wof:lastmodified":1472651630,
+    "wof:lastmodified":1492050720,
     "wof:name":"Rudd Al Used Auto Parts Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

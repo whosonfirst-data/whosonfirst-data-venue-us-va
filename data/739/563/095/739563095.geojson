@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.478104,38.7813,-77.478104,38.7813",
     "geom:latitude":38.7813,
     "geom:longitude":-77.478104,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729245,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tlK7g0PO7KffSngM4Pgh0_38.781761_-77.478400@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909628,
-    "wof:geomhash":"0ee8b0285f6cfa45730f6d6d17291006",
-    "wof:hierarchy":[],
+    "wof:geomhash":"786a5da290ff4ed8ba629968bbd30c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729245,
+            "region_id":85688747,
+            "venue_id":739563095
+        }
+    ],
     "wof:id":739563095,
-    "wof:lastmodified":1472651868,
+    "wof:lastmodified":1492043731,
     "wof:name":"Loch Lomond Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.0438,37.26804,-80.0438,37.26804",
     "geom:latitude":37.26804,
     "geom:longitude":-80.0438,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o6TlqFIrTsFsYnqm4eAbU_37.268040_-80.043800@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901484,
-    "wof:geomhash":"50bd5961715d9dc55bca16770f56fae8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10e826b8c48a72bd0b9160693cee7004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723425313
+        }
+    ],
     "wof:id":723425313,
-    "wof:lastmodified":1472652223,
+    "wof:lastmodified":1492055638,
     "wof:name":"Central Virginia Comms & Cblng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

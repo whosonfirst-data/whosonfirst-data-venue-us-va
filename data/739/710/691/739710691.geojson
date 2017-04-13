@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.648244,37.509201,-77.648244,37.509201",
     "geom:latitude":37.509201,
     "geom:longitude":-77.648244,
@@ -37,17 +38,30 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z81OuiYqzZNiOVL7kfDL3_37.509201_-77.648244@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912797,
-    "wof:geomhash":"7bee85ed95123a1ba095c29d40c072d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8122c102d9081b4179d7e4895a885ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739710691
+        }
+    ],
     "wof:id":739710691,
-    "wof:lastmodified":1472652204,
+    "wof:lastmodified":1492045660,
     "wof:name":"Coffee Pot Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.256564,36.814643,-76.256564,36.814643",
     "geom:latitude":36.814643,
     "geom:longitude":-76.256564,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TmJGvHI7VCqc7OyCS2Z3r_36.814643_-76.256564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897826,
-    "wof:geomhash":"b83078c2219aa9331af3dafff437055f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec238dc048c49ea084e062bcb33c16c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":723235949
+        }
+    ],
     "wof:id":723235949,
-    "wof:lastmodified":1472651696,
+    "wof:lastmodified":1492061312,
     "wof:name":"Argonaut Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

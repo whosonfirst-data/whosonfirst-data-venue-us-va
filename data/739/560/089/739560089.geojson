@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.887245,36.695147,-76.887245,36.695147",
     "geom:latitude":36.695147,
     "geom:longitude":-76.887245,
@@ -27,7 +28,13 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729141,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TgU9S2w2A6jkCX7E84pe4_36.695147_-76.887245@1294252573"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461909555,
     "wof:geomhash":"2912b9b9e244a50dd8dff82c968a007f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729141,
+            "region_id":85688747,
+            "venue_id":739560089
+        }
+    ],
     "wof:id":739560089,
-    "wof:lastmodified":1472651865,
+    "wof:lastmodified":1492030130,
     "wof:name":"Cost Less Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

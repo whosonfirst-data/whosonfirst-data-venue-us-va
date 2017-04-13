@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.632714,38.807239,-77.632714,38.807239",
     "geom:latitude":38.807239,
     "geom:longitude":-77.632714,
@@ -28,7 +29,13 @@
     "sg:postcode":"20169",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IhTQ873eNOl7WI9GXwQ7z_38.807239_-77.632714@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908380,
     "wof:geomhash":"75467327090ce6a5dca1dd2bd6a8d534",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739497281
+        }
+    ],
     "wof:id":739497281,
-    "wof:lastmodified":1472651684,
+    "wof:lastmodified":1492029701,
     "wof:name":"Gainesville United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

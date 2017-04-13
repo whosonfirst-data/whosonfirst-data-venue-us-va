@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.783176,37.963652,-76.783176,37.963652",
     "geom:latitude":37.963652,
     "geom:longitude":-76.783176,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.bestwestern.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728753,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03aggEUj7HR7WykAyj5IGh_37.963652_-76.783176@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884145,
-    "wof:geomhash":"1740e9120a910ae95334bed67d44000d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc6fb08f2ad8e6bb905216dc2335a7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "locality_id":101728753,
+            "region_id":85688747,
+            "venue_id":722556797
+        }
+    ],
     "wof:id":722556797,
-    "wof:lastmodified":1472651122,
+    "wof:lastmodified":1492075116,
     "wof:name":"Best Western Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

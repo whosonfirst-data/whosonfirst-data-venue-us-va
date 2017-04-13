@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.459175,37.086594,-76.459175,37.086594",
     "geom:latitude":37.086594,
     "geom:longitude":-76.459175,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DmcX0DzeAVuH0V2hAx7MZ_37.086594_-76.459175@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898444,
-    "wof:geomhash":"42fb514c4fb917f03ab5c3330dd16874",
-    "wof:hierarchy":[],
+    "wof:geomhash":"866e249e8feea3c5b6a4d9c1d74c2137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723267083
+        }
+    ],
     "wof:id":723267083,
-    "wof:lastmodified":1472651726,
+    "wof:lastmodified":1492054733,
     "wof:name":"Motel 6",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.157939,39.194165,-78.157939,39.194165",
     "geom:latitude":39.194165,
     "geom:longitude":-78.157939,
@@ -33,17 +34,32 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JxPALm4eZ5gdqUQdVLkHJ_39.194165_-78.157939@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907867,
-    "wof:geomhash":"baf648a1486a6685219cc9444e819593",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79a170d11a77f056fa042d625e45414d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739468879
+        }
+    ],
     "wof:id":739468879,
-    "wof:lastmodified":1472651647,
+    "wof:lastmodified":1492042841,
     "wof:name":"VBS Inc Material Handling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

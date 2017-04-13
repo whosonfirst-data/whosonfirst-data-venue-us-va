@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.321455,36.910935,-80.321455,36.910935",
     "geom:latitude":36.910935,
     "geom:longitude":-80.321455,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728837,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fydJQfEwm3ngJOPhJyVNb_36.910935_-80.321455@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904823,
-    "wof:geomhash":"945f6ad464575b7116de68199aca2ab5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c70bef66007f2546107db1deb05e0875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "locality_id":101728837,
+            "region_id":85688747,
+            "venue_id":739312653
+        }
+    ],
     "wof:id":739312653,
-    "wof:lastmodified":1472651227,
+    "wof:lastmodified":1492043232,
     "wof:name":"Commonwealth Eye Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

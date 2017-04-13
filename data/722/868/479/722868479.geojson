@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.41978,37.201786,-76.41978,37.201786",
     "geom:latitude":37.201786,
     "geom:longitude":-76.41978,
@@ -28,19 +29,28 @@
     "sg:postcode":"23696",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JlFtqCndH0X9unxjEmME8_37.201786_-76.419780@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890172,
-    "wof:geomhash":"f1f83aaac451e121a98192f1c7b4f144",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65eb0ffb694b09b7608b31defd688d59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722868479
+        }
+    ],
     "wof:id":722868479,
-    "wof:lastmodified":1472652005,
+    "wof:lastmodified":1492074796,
     "wof:name":"Kopczynski Mktg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

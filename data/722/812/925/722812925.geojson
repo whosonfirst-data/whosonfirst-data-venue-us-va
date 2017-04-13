@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.745641,36.809238,-76.745641,36.809238",
     "geom:latitude":36.809238,
     "geom:longitude":-76.745641,
@@ -32,17 +33,32 @@
         "vehicle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728639,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78wdBIYoEHCXk1uBMfqj6e_36.809238_-76.745641@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889122,
-    "wof:geomhash":"048ee8bf3dce1e8d46ed4944b0414524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7b400327ec08ab6a0ad1bbd68c5b39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728639,
+            "region_id":85688747,
+            "venue_id":722812925
+        }
+    ],
     "wof:id":722812925,
-    "wof:lastmodified":1472651890,
+    "wof:lastmodified":1492065875,
     "wof:name":"Windsor Atv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

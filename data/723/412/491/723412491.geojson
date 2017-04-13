@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.544012,37.420467,-76.544012,37.420467",
     "geom:latitude":37.420467,
     "geom:longitude":-76.544012,
@@ -38,17 +39,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EF2JAOEQ6jZSVDfI1vmIv_37.420467_-76.544012@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901217,
-    "wof:geomhash":"359346012f98f8c1b7c70f99baa637fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa4aa0bcfe3f383ad460be1acb2a9780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":723412491
+        }
+    ],
     "wof:id":723412491,
-    "wof:lastmodified":1472652197,
+    "wof:lastmodified":1492055761,
     "wof:name":"Gloucester House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

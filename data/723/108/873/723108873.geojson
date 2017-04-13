@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.971258,37.234133,-79.971258,37.234133",
     "geom:latitude":37.234133,
     "geom:longitude":-79.971258,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ImaDV4GjADgUNqRC6XpDk_37.234133_-79.971258@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895292,
-    "wof:geomhash":"123a7b0e8920365e9755d574a468c9be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82fd98f29742586333407365a0db0c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723108873
+        }
+    ],
     "wof:id":723108873,
-    "wof:lastmodified":1472651365,
+    "wof:lastmodified":1492052046,
     "wof:name":"Nextel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.979556,37.260967,-79.979556,37.260967",
     "geom:latitude":37.260967,
     "geom:longitude":-79.979556,
@@ -31,19 +32,36 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927,
+        85817513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B6seNx5b9AMUqlFkDFbbt_37.260967_-79.979556@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905930,
-    "wof:geomhash":"3072d8529402215890c5b9b0b73c4d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c67d1d014c0de1f58a32f59b1542b876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "neighbourhood_id":85817513,
+            "region_id":85688747,
+            "venue_id":739366285
+        }
+    ],
     "wof:id":739366285,
-    "wof:lastmodified":1472651335,
+    "wof:lastmodified":1492040478,
     "wof:name":"Lifestream Center Practitionrs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

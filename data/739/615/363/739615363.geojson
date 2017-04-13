@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412591,38.949014,-77.412591,38.949014",
     "geom:latitude":38.949014,
     "geom:longitude":-77.412591,
@@ -41,17 +42,32 @@
     ],
     "sg:website":"https://www.bankofamerica.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729837,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HIxudsS6rfbLgfb9Y3X5U_38.949014_-77.412591@1303262497"
     },
     "wof:country":"US",
     "wof:created":1461910725,
-    "wof:geomhash":"75c749a52627e82ccfbeb843f06eb256",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fd047934952eecfa320e8f3da5581a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729837,
+            "region_id":85688747,
+            "venue_id":739615363
+        }
+    ],
     "wof:id":739615363,
-    "wof:lastmodified":1472651993,
+    "wof:lastmodified":1492038490,
     "wof:name":"Bank of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

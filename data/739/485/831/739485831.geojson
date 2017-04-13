@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.495736,38.314946,-77.495736,38.314946",
     "geom:latitude":38.314946,
     "geom:longitude":-77.495736,
@@ -32,7 +33,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728699,
+        102084973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56Cb5Yd6iCrcbFlmiQACIh_38.314946_-77.495736@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908175,
     "wof:geomhash":"586189f55aad4d9c325a42d0fdb91020",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "region_id":85688747,
+            "venue_id":739485831
+        }
+    ],
     "wof:id":739485831,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492030678,
     "wof:name":"Crestview Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

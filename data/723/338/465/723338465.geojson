@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.657661,37.805128,-75.657661,37.805128",
     "geom:latitude":37.805128,
     "geom:longitude":-75.657661,
@@ -31,17 +32,26 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Eir0w6dQAyz2Fb6nbNz5a_37.805128_-75.657661@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899781,
-    "wof:geomhash":"6258d6d055a70e329b17da2f323d2d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3bbb81060527db6556b0ed97b0a6768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546533,
+            "venue_id":723338465
+        }
+    ],
     "wof:id":723338465,
-    "wof:lastmodified":1472651943,
+    "wof:lastmodified":1492052125,
     "wof:name":"Jack Smith",
     "wof:parent_id":420546533,
     "wof:placetype":"venue",

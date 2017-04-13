@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.265442,37.244328,-77.265442,37.244328",
     "geom:latitude":37.244328,
     "geom:longitude":-77.265442,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.vasealing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0di6U7zYtee3AgUFPgydig_37.244328_-77.265442@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904199,
     "wof:geomhash":"b3ad5b0e5505244e53954c87fb58932c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739282191
+        }
+    ],
     "wof:id":739282191,
-    "wof:lastmodified":1472651150,
+    "wof:lastmodified":1492031915,
     "wof:name":"Virginia Sealing Products Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

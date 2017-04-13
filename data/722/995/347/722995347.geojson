@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.110553,38.245327,-78.110553,38.245327",
     "geom:latitude":38.245327,
     "geom:longitude":-78.110553,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729019,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KpvCr4NZVa4c6z9pkpY1F_38.245327_-78.110553@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892791,
-    "wof:geomhash":"f61bc06a6463645383691d0d6b7378f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c78eb1825306d765b9bfe4219a238a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "locality_id":101729019,
+            "region_id":85688747,
+            "venue_id":722995347
+        }
+    ],
     "wof:id":722995347,
-    "wof:lastmodified":1472652348,
+    "wof:lastmodified":1492063702,
     "wof:name":"Orange County Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41792,38.474668,-77.41792,38.474668",
     "geom:latitude":38.474668,
     "geom:longitude":-77.41792,
@@ -28,7 +29,10 @@
     "sg:postcode":"22554",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5boI14JQfwgXyutBE5fTpS_38.474668_-77.417920@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461908314,
     "wof:geomhash":"3834ec86785e4df48128507dbe0cde3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547097,
+            "venue_id":739493293
+        }
+    ],
     "wof:id":739493293,
-    "wof:lastmodified":1472651677,
+    "wof:lastmodified":1492029966,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":420547097,
     "wof:placetype":"venue",

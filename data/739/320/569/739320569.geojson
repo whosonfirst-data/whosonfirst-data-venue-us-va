@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.32378,36.815807,-76.32378,36.815807",
     "geom:latitude":36.815807,
     "geom:longitude":-76.32378,
@@ -37,8 +38,8 @@
         85633793,
         101728677,
         102086707,
-        85836925,
-        420548257
+        420548257,
+        85836925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461904988,
-    "wof:geomhash":"b3b1d627c98c0ec4dfdb5bafd8499233",
+    "wof:geomhash":"bcbf22dfb1727631aaf20d100c93cedd",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85836925,
-            "region_id":85688747,
-            "venue_id":739320569
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +57,21 @@
             "neighbourhood_id":420548257,
             "region_id":85688747,
             "venue_id":739320569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85836925,
+            "region_id":85688747,
+            "venue_id":739320569
         }
     ],
     "wof:id":739320569,
-    "wof:lastmodified":1472651251,
+    "wof:lastmodified":1492038113,
     "wof:name":"Goodwin Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.513614,38.86756,-78.513614,38.86756",
     "geom:latitude":38.86756,
     "geom:longitude":-78.513614,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ASBmT186SPMgSPxn0jIWR_38.867560_-78.513614@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890861,
-    "wof:geomhash":"a2d231b21bd968a4fcbc03922beb22c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"289c39d2a8b7c4242a8ea7789f864287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":722903713
+        }
+    ],
     "wof:id":722903713,
-    "wof:lastmodified":1472652087,
+    "wof:lastmodified":1492070995,
     "wof:name":"Valley Vista Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.292697,37.382426,-79.292697,37.382426",
     "geom:latitude":37.382426,
     "geom:longitude":-79.292697,
@@ -28,7 +29,13 @@
     "sg:postcode":"24551",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15IZHENIYAPwwR3s3nlYCT_37.382426_-79.292697@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906248,
     "wof:geomhash":"2641f1692d01ec2b87f394291b270af3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":739382839
+        }
+    ],
     "wof:id":739382839,
-    "wof:lastmodified":1472651373,
+    "wof:lastmodified":1492030653,
     "wof:name":"Precision Windsports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

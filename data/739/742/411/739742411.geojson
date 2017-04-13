@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.185257,37.37162,-79.185257,37.37162",
     "geom:latitude":37.37162,
     "geom:longitude":-79.185257,
@@ -42,17 +43,32 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dpoAYghhtejZ4Wi1ViThO_37.371620_-79.185257@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913484,
-    "wof:geomhash":"32369c5eb1eb74fb4ca2a3ca9eb9ef45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b26a3f6e701b83c0c868915d608730d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739742411
+        }
+    ],
     "wof:id":739742411,
-    "wof:lastmodified":1472652253,
+    "wof:lastmodified":1492043780,
     "wof:name":"The Vac & Sew Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

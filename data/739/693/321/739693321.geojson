@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548741,38.280887,-77.548741,38.280887",
     "geom:latitude":38.280887,
     "geom:longitude":-77.548741,
@@ -28,7 +29,12 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Nwoj1dVBL80djH3JAsguH_38.280887_-77.548741@1303262546"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912406,
     "wof:geomhash":"ed1c18bf2c7a9f6a4cc627c144ba5f33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693321
+        }
+    ],
     "wof:id":739693321,
-    "wof:lastmodified":1472652177,
+    "wof:lastmodified":1492031378,
     "wof:name":"Altas Power Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.562399,39.114854,-77.562399,39.114854",
     "geom:latitude":39.114854,
     "geom:longitude":-77.562399,
@@ -41,7 +42,13 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78yvdUeLhax1THOPqTWVbD_39.114854_-77.562399@1303262497"
@@ -49,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1461910748,
     "wof:geomhash":"c2bde0b2bb17526a76baf5cc10c46ac3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616549
+        }
+    ],
     "wof:id":739616549,
-    "wof:lastmodified":1472651993,
+    "wof:lastmodified":1492029646,
     "wof:name":"Jacob , Walter C. - Walter C. Jacob, P.C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

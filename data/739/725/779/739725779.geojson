@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.662559,37.579646,-77.662559,37.579646",
     "geom:latitude":37.579646,
     "geom:longitude":-77.662559,
@@ -33,17 +34,30 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SiqehuE0hrlvOJrxGIeq4_37.579646_-77.662559@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913109,
-    "wof:geomhash":"b65f03d2ab01612a3407e095b9e159d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31344e38e2e9d69234829b856da6a619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739725779
+        }
+    ],
     "wof:id":739725779,
-    "wof:lastmodified":1472652253,
+    "wof:lastmodified":1492039835,
     "wof:name":"Bagby Planning & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

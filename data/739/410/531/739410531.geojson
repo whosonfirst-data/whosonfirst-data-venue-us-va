@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.638599,39.252631,-77.638599,39.252631",
     "geom:latitude":39.252631,
     "geom:longitude":-77.638599,
@@ -33,7 +34,12 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sc9oA6HD6HbkaaRJZyoVp_39.252631_-77.638599@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906775,
     "wof:geomhash":"0d5ea1e0d8fa83c89f0182a24e760df5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739410531
+        }
+    ],
     "wof:id":739410531,
-    "wof:lastmodified":1472651478,
+    "wof:lastmodified":1492032284,
     "wof:name":"Training Doctors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

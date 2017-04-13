@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.655561,39.123687,-77.655561,39.123687",
     "geom:latitude":39.123687,
     "geom:longitude":-77.655561,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CRdif5WGdAfcsvWiLVIpl_39.123687_-77.655561@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461905899,
     "wof:geomhash":"b10844cd114be5355b581353db01ea8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739364927
+        }
+    ],
     "wof:id":739364927,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492031759,
     "wof:name":"Wine Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508909,38.300396,-77.508909,38.300396",
     "geom:latitude":38.300396,
     "geom:longitude":-77.508909,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728699,
+        102084973
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5en9cPx7PQL8vACZexmi8k_38.300396_-77.508909@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894911,
-    "wof:geomhash":"0eb967e0424654d88b8ad166c3cf918f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24e64c9216614752ceccbdf7cb12ed5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084973,
+            "locality_id":101728699,
+            "region_id":85688747,
+            "venue_id":723089615
+        }
+    ],
     "wof:id":723089615,
-    "wof:lastmodified":1472651312,
+    "wof:lastmodified":1492053563,
     "wof:name":"Simply Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.750857,37.304831,-76.750857,37.304831",
     "geom:latitude":37.304831,
     "geom:longitude":-76.750857,
@@ -32,7 +33,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jG8O00gs7Ha67Oi6J6P82_37.304831_-76.750857@1299784598"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"769fbf1bf03c8542e3974a2f7b780f05",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":739586605
+        }
+    ],
     "wof:id":739586605,
-    "wof:lastmodified":1472651945,
+    "wof:lastmodified":1492031881,
     "wof:name":"Supper Thyme",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

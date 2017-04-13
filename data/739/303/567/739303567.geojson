@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.282673,37.365508,-79.282673,37.365508",
     "geom:latitude":37.365508,
     "geom:longitude":-79.282673,
@@ -31,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NLxm2YVACczSfOO1enI59_37.365508_-79.282673@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904645,
     "wof:geomhash":"2379886630d685403b4c709cf1983fca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":739303567
+        }
+    ],
     "wof:id":739303567,
-    "wof:lastmodified":1472651210,
+    "wof:lastmodified":1492029768,
     "wof:name":"Forest Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

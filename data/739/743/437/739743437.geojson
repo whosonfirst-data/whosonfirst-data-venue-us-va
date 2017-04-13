@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.075302,37.23917,-82.075302,37.23917",
     "geom:latitude":37.23917,
     "geom:longitude":-82.075302,
@@ -31,17 +32,30 @@
         "dialysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2URDIxj9EuJTJoZvT6pz8C_37.239170_-82.075302@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913502,
-    "wof:geomhash":"81ebe33a65339c8f5585040356321ffc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cbe8995560bb42a34429cbc4b164e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084907,
+            "region_id":85688747,
+            "venue_id":739743437
+        }
+    ],
     "wof:id":739743437,
-    "wof:lastmodified":1472652251,
+    "wof:lastmodified":1492037963,
     "wof:name":"Bma Southwest Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

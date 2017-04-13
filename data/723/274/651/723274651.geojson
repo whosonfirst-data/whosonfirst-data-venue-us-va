@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.013056,36.679644,-82.013056,36.679644",
     "geom:latitude":36.679644,
     "geom:longitude":-82.013056,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KYaHNg2Ye6A8MutgvMX0A_36.679644_-82.013056@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898586,
-    "wof:geomhash":"990c2057846bdf44efec34b9cc880a0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d67402f282a67f60bf020f8ff836b584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723274651
+        }
+    ],
     "wof:id":723274651,
-    "wof:lastmodified":1472651808,
+    "wof:lastmodified":1492047491,
     "wof:name":"American Business Forms",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

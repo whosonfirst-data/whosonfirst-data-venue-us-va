@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.378114,39.002306,-78.378114,39.002306",
     "geom:latitude":39.002306,
     "geom:longitude":-78.378114,
@@ -31,17 +32,30 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JY3XrkLcqE6BN2RbRUbR5_39.002306_-78.378114@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907369,
-    "wof:geomhash":"5d7ffbc2245fee49c74ace76128ba3fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78e871aedd4e19476acde2ae04e106ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739440917
+        }
+    ],
     "wof:id":739440917,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492041274,
     "wof:name":"John Bowling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

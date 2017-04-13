@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.395475,38.398202,-77.395475,38.398202",
     "geom:latitude":38.398202,
     "geom:longitude":-77.395475,
@@ -31,17 +32,26 @@
         "sculptor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QoZ7TtASmRorfYPOHRQzQ_38.398202_-77.395475@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885832,
-    "wof:geomhash":"827deaf90fe73a1fba86051a355f485d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf00a7096326b7c5e578723898ced9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":722639625
+        }
+    ],
     "wof:id":722639625,
-    "wof:lastmodified":1472651422,
+    "wof:lastmodified":1492072848,
     "wof:name":"VIA Gambaro Studios Inc",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

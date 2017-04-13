@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.795218,37.594636,-77.795218,37.594636",
     "geom:latitude":37.594636,
     "geom:longitude":-77.795218,
@@ -31,7 +32,12 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ptyY4h8zKmY00s3J5CGvO_37.594636_-77.795218@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909158,
     "wof:geomhash":"b1450de485695766e7a22dba64d09027",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739540337
+        }
+    ],
     "wof:id":739540337,
-    "wof:lastmodified":1472651774,
+    "wof:lastmodified":1492032608,
     "wof:name":"Cottonglen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

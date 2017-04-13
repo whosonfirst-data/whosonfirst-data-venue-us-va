@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44425,37.432442,-77.44425,37.432442",
     "geom:latitude":37.432442,
     "geom:longitude":-77.44425,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MBWe5tvnkWR2c76jwuylH_37.432442_-77.444250@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895583,
-    "wof:geomhash":"26d5e35feb409c1d7ac0130dd5fac26b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a40732ef7c171a1081f3859f0356cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":723123817
+        }
+    ],
     "wof:id":723123817,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492049765,
     "wof:name":"Philip W Brown Taxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.555517,37.537988,-77.555517,37.537988",
     "geom:latitude":37.537988,
     "geom:longitude":-77.555517,
@@ -28,7 +29,13 @@
     "sg:postcode":"23235",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PFuIhL5ZZbHs6r4dld4m9_37.537988_-77.555517@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908378,
     "wof:geomhash":"3bde8d2d88dea4940e0e974434c7ba9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739497169
+        }
+    ],
     "wof:id":739497169,
-    "wof:lastmodified":1472651673,
+    "wof:lastmodified":1492029686,
     "wof:name":"Gerald W Wyatt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

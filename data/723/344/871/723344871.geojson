@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.872182,38.42324,-78.872182,38.42324",
     "geom:latitude":38.42324,
     "geom:longitude":-78.872182,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KJFaX0Uba70Wt9mVytp2K_38.423240_-78.872182@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899905,
-    "wof:geomhash":"436ad60c943419dfeafca9654e2357b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42d75b1204a1cb301e4f960c490fbdba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723344871
+        }
+    ],
     "wof:id":723344871,
-    "wof:lastmodified":1472651968,
+    "wof:lastmodified":1492058259,
     "wof:name":"Commons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

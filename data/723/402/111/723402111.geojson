@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.057786,38.062666,-78.057786,38.062666",
     "geom:latitude":38.062666,
     "geom:longitude":-78.057786,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iSiXNVosr6U3Tydlx1f1l_38.062666_-78.057786@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901007,
-    "wof:geomhash":"242ce3795c6902936b69ab628fb04626",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11cab3bb1871c87c88f9d9a51be4e6bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":723402111
+        }
+    ],
     "wof:id":723402111,
-    "wof:lastmodified":1472652145,
+    "wof:lastmodified":1492055553,
     "wof:name":"Wayland Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

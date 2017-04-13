@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.946487,37.266707,-79.946487,37.266707",
     "geom:latitude":37.266707,
     "geom:longitude":-79.946487,
@@ -31,7 +32,13 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_326rPNm7oaU5bg6DsHekWh_37.266707_-79.946487@1303262552"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461913323,
     "wof:geomhash":"a4b8829b23837107dab6035ba2eb0101",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735891
+        }
+    ],
     "wof:id":739735891,
-    "wof:lastmodified":1472652271,
+    "wof:lastmodified":1492032029,
     "wof:name":"A Law Firm Dedicated To Excell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

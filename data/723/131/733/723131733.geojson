@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.067159,36.713851,-77.067159,36.713851",
     "geom:latitude":36.713851,
     "geom:longitude":-77.067159,
@@ -31,17 +32,32 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728867,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XTfUqnP66RAKlXnkoqiYg_36.713851_-77.067159@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895732,
-    "wof:geomhash":"7a51bcad76af9b3e90e8f290fe5e79d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"172c96ff2761c26bac81c1db017c0402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728867,
+            "region_id":85688747,
+            "venue_id":723131733
+        }
+    ],
     "wof:id":723131733,
-    "wof:lastmodified":1472651389,
+    "wof:lastmodified":1492054272,
     "wof:name":"Southampton Circuit Court Clrk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

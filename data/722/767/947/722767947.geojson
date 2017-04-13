@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.519734,37.11606,-81.519734,37.11606",
     "geom:latitude":37.11606,
     "geom:longitude":-81.519734,
@@ -32,17 +33,26 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X5ocfHsJQoUPUCDFLPkZ3_37.116060_-81.519734@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888278,
-    "wof:geomhash":"5ac9d8bf9b4634bf3a3a8964b8fe345d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaed42e16069f0ac0652b476d120027f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722767947
+        }
+    ],
     "wof:id":722767947,
-    "wof:lastmodified":1472651814,
+    "wof:lastmodified":1492067223,
     "wof:name":"Tazewell Cleaners",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

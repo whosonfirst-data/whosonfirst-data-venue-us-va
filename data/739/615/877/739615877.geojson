@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564908,39.106763,-77.564908,39.106763",
     "geom:latitude":39.106763,
     "geom:longitude":-77.564908,
@@ -34,17 +35,32 @@
         "agencies-government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GxPhR23MLkKEvS5ZrsanX_39.106763_-77.564908@1303262497"
     },
     "wof:country":"US",
     "wof:created":1461910734,
-    "wof:geomhash":"eb1fa9fa84ee64194f92f50c86d91a4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"889cbe7b7e175280e131c9d54a388dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739615877
+        }
+    ],
     "wof:id":739615877,
-    "wof:lastmodified":1472652019,
+    "wof:lastmodified":1492038499,
     "wof:name":"Loudoun County Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

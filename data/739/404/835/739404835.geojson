@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.949723,36.996107,-76.949723,36.996107",
     "geom:latitude":36.996107,
     "geom:longitude":-76.949723,
@@ -34,17 +35,26 @@
         "programming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rF4bwRzRkO3xvWVOcb0aZ_36.996107_-76.949723@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906670,
-    "wof:geomhash":"3d0bffe5227934a11147b59314ae3dc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90dc9f8c9acf2461ba7c292c9a84f79f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739404835
+        }
+    ],
     "wof:id":739404835,
-    "wof:lastmodified":1472651480,
+    "wof:lastmodified":1492037470,
     "wof:name":"Sterling Web Services",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

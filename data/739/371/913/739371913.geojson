@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.528455,38.099606,-77.528455,38.099606",
     "geom:latitude":38.099606,
     "geom:longitude":-77.528455,
@@ -32,7 +33,12 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G2RqJEbd1TufPft3SDjDK_38.099606_-77.528455@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906032,
     "wof:geomhash":"7c9154b598bed9daa8482c09f647f2b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739371913
+        }
+    ],
     "wof:id":739371913,
-    "wof:lastmodified":1472651365,
+    "wof:lastmodified":1492031708,
     "wof:name":"Comfort Home Of Va",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

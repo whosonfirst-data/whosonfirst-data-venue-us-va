@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.391711,37.123323,-80.391711,37.123323",
     "geom:latitude":37.123323,
     "geom:longitude":-80.391711,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R0xsCA2M6s2fNttcULTQ4_37.123323_-80.391711@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906656,
-    "wof:geomhash":"e393936d382c25bd5fc52edd491406b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42da4d6ae223fdae5eca75e5c507c229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":739404059
+        }
+    ],
     "wof:id":739404059,
-    "wof:lastmodified":1472651441,
+    "wof:lastmodified":1492037466,
     "wof:name":"Shane C Parson",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

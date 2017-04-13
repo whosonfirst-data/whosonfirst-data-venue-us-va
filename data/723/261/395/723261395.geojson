@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548981,37.50116,-77.548981,37.50116",
     "geom:latitude":37.50116,
     "geom:longitude":-77.548981,
@@ -32,17 +33,32 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62jMk6JsIKzJwNprAszfk2_37.501160_-77.548981@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898328,
-    "wof:geomhash":"2cb184ebd8a5d5705ca79c4813228dab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bca8baecb2743251ed4886ab2da3014d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":723261395
+        }
+    ],
     "wof:id":723261395,
-    "wof:lastmodified":1472651761,
+    "wof:lastmodified":1492054984,
     "wof:name":"Superior Business Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.57644,39.056379,-77.57644,39.056379",
     "geom:latitude":39.056379,
     "geom:longitude":-77.57644,
@@ -28,7 +29,12 @@
     "sg:postcode":"20175",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h6vt8vmgDaPTdjJm912Dg_39.056379_-77.576440@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908970,
     "wof:geomhash":"e58f7aa15e13b542b703b7f1c535950d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739529545
+        }
+    ],
     "wof:id":739529545,
-    "wof:lastmodified":1472651803,
+    "wof:lastmodified":1492030823,
     "wof:name":"Dirienzo Limited LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

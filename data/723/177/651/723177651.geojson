@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423521,38.274879,-77.423521,38.274879",
     "geom:latitude":38.274879,
     "geom:longitude":-77.423521,
@@ -32,17 +33,26 @@
         "engineering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wjaIF2awJxOmRqsBbGywm_38.274879_-77.423521@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896640,
-    "wof:geomhash":"255fd40d52272dbbef4e64016c931a65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0748f2c20a1397cb4c7cada098561145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547267,
+            "venue_id":723177651
+        }
+    ],
     "wof:id":723177651,
-    "wof:lastmodified":1472651491,
+    "wof:lastmodified":1492053304,
     "wof:name":"Thorne Design",
     "wof:parent_id":420547267,
     "wof:placetype":"venue",

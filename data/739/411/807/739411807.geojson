@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.166724,38.75049,-77.166724,38.75049",
     "geom:latitude":38.75049,
     "geom:longitude":-77.166724,
@@ -40,8 +41,10 @@
         85688747,
         102191575,
         85633793,
-        101729739,
+        101729743,
         102084863,
+        85850737,
+        101729739,
         85824359
     ],
     "wof:breaches":[],
@@ -50,8 +53,17 @@
     },
     "wof:country":"US",
     "wof:created":1461906799,
-    "wof:geomhash":"bc73ad482af1056f9547b0ea944e69d3",
+    "wof:geomhash":"de8bba3eb6615bbb031b51d9e0d82d3d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729743,
+            "neighbourhood_id":85850737,
+            "region_id":85688747,
+            "venue_id":739411807
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,9 +75,9 @@
         }
     ],
     "wof:id":739411807,
-    "wof:lastmodified":1472651488,
+    "wof:lastmodified":1492044403,
     "wof:name":"Kingstowne Secretarial Svcs",
-    "wof:parent_id":85824359,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

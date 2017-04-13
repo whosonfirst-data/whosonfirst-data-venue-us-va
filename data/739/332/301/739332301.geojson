@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.833586,37.133077,-76.833586,37.133077",
     "geom:latitude":37.133077,
     "geom:longitude":-76.833586,
@@ -32,7 +33,10 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZvumtCTn03PfMLnGSsdsd_37.133077_-76.833586@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461905222,
     "wof:geomhash":"4c32ee48852cf71dfa68d4ddbb792a68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739332301
+        }
+    ],
     "wof:id":739332301,
-    "wof:lastmodified":1472651288,
+    "wof:lastmodified":1492030803,
     "wof:name":"Surry Volunteer Fire Dept",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

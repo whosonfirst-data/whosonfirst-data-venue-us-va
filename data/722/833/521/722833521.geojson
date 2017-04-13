@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.012083,36.72017,-82.012083,36.72017",
     "geom:latitude":36.72017,
     "geom:longitude":-82.012083,
@@ -32,17 +33,26 @@
         "mineral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BqjZyMFi3pE0op4C4pKIW_36.720170_-82.012083@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889509,
-    "wof:geomhash":"8bcc1d39153c9e32c02b8edfd251e287",
-    "wof:hierarchy":[],
+    "wof:geomhash":"939bd9d88e5de021a687ea20533fa651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722833521
+        }
+    ],
     "wof:id":722833521,
-    "wof:lastmodified":1472651952,
+    "wof:lastmodified":1492064595,
     "wof:name":"Pittston Minerals Group",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

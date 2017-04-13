@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440424,38.352281,-77.440424,38.352281",
     "geom:latitude":38.352281,
     "geom:longitude":-77.440424,
@@ -38,17 +39,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jlWg2ipTXo1I4VWI3shKa_38.352281_-77.440424@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900414,
-    "wof:geomhash":"fb9185d7cd4cca6593b0808d8084b35f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a820a5e878e82622afb8a97bd550500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":723371817
+        }
+    ],
     "wof:id":723371817,
-    "wof:lastmodified":1472652085,
+    "wof:lastmodified":1492050108,
     "wof:name":"Graphics Studio Inc",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

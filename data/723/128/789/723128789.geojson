@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.826869,37.13594,-76.826869,37.13594",
     "geom:latitude":37.13594,
     "geom:longitude":-76.826869,
@@ -31,17 +32,26 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KpCXmoICdxSVgJ3LykI7o_37.135940_-76.826869@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895674,
-    "wof:geomhash":"09ed213dfb3054a85803954493083272",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f23d9df5bb5b49c74f38abf8a2a0e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723128789
+        }
+    ],
     "wof:id":723128789,
-    "wof:lastmodified":1472651402,
+    "wof:lastmodified":1492056240,
     "wof:name":"District 19 Community Svc",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.573091,37.644313,-77.573091,37.644313",
     "geom:latitude":37.644313,
     "geom:longitude":-77.573091,
@@ -33,17 +34,32 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6M6qg01PoUbwDegKtQ9Mzo_37.644313_-77.573091@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904872,
-    "wof:geomhash":"2a543d49b97defb72c3203669350bd90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2697a461a8241382bef97e13e18eb45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":739315365
+        }
+    ],
     "wof:id":739315365,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492037863,
     "wof:name":"Armstrong Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

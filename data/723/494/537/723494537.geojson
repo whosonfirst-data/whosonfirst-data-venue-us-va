@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441915,38.310438,-77.441915,38.310438",
     "geom:latitude":38.310438,
     "geom:longitude":-77.441915,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lsQeoMiezgaV58XnwxYWQ_38.310438_-77.441915@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902830,
-    "wof:geomhash":"fa7dd39354f3e99ded4da55efd72a447",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d6e6f9ee0ebba5bb9459d1dc3b7bb71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723494537
+        }
+    ],
     "wof:id":723494537,
-    "wof:lastmodified":1472652340,
+    "wof:lastmodified":1492052255,
     "wof:name":"Acme Foam Corp",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

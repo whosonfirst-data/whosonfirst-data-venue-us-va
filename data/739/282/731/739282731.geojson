@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.321522,37.873146,-78.321522,37.873146",
     "geom:latitude":37.873146,
     "geom:longitude":-78.321522,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DtcahDcJqkwdaJBshzvuH_37.873146_-78.321522@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904213,
     "wof:geomhash":"543f80fa21220e1488f603946fb681dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "region_id":85688747,
+            "venue_id":739282731
+        }
+    ],
     "wof:id":739282731,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492031897,
     "wof:name":"Wesley Chapel United Meth Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

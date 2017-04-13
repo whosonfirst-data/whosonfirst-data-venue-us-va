@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.986643,36.703469,-81.986643,36.703469",
     "geom:latitude":36.703469,
     "geom:longitude":-81.986643,
@@ -32,17 +33,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76uJLwLW7x9VPKuem9mlQ4_36.703469_-81.986643@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891482,
-    "wof:geomhash":"51bd50bc5abf21e4dbe59805cf76d81a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab0dc197c44af8dbd07e10c65ca4f271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722933641
+        }
+    ],
     "wof:id":722933641,
-    "wof:lastmodified":1472652181,
+    "wof:lastmodified":1492066193,
     "wof:name":"Abingdon Manor Home For-Aged",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

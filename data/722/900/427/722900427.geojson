@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.280105,36.838994,-81.280105,36.838994",
     "geom:latitude":36.838994,
     "geom:longitude":-81.280105,
@@ -31,17 +32,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eN00rLre5RG6f8KCFuVun_36.838994_-81.280105@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890799,
-    "wof:geomhash":"d186d2a289b5fa2cee5a92222d1263a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b89bca8abd7e270a2af752abe2caef13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722900427
+        }
+    ],
     "wof:id":722900427,
-    "wof:lastmodified":1472652067,
+    "wof:lastmodified":1492068845,
     "wof:name":"King & Williams Dairy",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

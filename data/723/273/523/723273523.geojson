@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.393479,38.25718,-77.393479,38.25718",
     "geom:latitude":38.25718,
     "geom:longitude":-77.393479,
@@ -28,19 +29,28 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jdKO2IY5saTG8LPnoWx8h_38.257180_-77.393479@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898567,
-    "wof:geomhash":"a328cad282b16f73a72809af4edc7709",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2efe20debb4dcd2d7bf860fb1bf6c762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546943,
+            "venue_id":723273523
+        }
+    ],
     "wof:id":723273523,
-    "wof:lastmodified":1472651786,
+    "wof:lastmodified":1492053514,
     "wof:name":"White Oak Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

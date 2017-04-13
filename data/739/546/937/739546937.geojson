@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.38183,37.298981,-78.38183,37.298981",
     "geom:latitude":37.298981,
     "geom:longitude":-78.38183,
@@ -28,7 +29,13 @@
     "sg:postcode":"23901",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bVx9gPTny3VGrqIOlDGnK_37.298981_-78.381830@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461909297,
     "wof:geomhash":"07f4b4b3ea9738014b7df4b5521bbce9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739546937
+        }
+    ],
     "wof:id":739546937,
-    "wof:lastmodified":1472651868,
+    "wof:lastmodified":1492031586,
     "wof:name":"Samuel A Martin Jr OD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

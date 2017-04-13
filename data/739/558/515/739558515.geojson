@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.629251,37.532962,-77.629251,37.532962",
     "geom:latitude":37.532962,
     "geom:longitude":-77.629251,
@@ -32,7 +33,12 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1892Xaoyw9zE9tzRn0OiiV_37.533340_-77.629935@1293134755"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909526,
     "wof:geomhash":"970f01edd116511172df4bc5840d04d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739558515
+        }
+    ],
     "wof:id":739558515,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492031299,
     "wof:name":"Revest Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

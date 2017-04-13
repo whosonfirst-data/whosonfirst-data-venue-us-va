@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.817288,37.556508,-76.817288,37.556508",
     "geom:latitude":37.556508,
     "geom:longitude":-76.817288,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728795,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SAnBPCzmtaKjkAhU4GqUE_37.556508_-76.817288@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895108,
-    "wof:geomhash":"6e1a212bf2e2315def90a5c54033d117",
-    "wof:hierarchy":[],
+    "wof:geomhash":"047335a3ffcf3af8a68937561c14b3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101728795,
+            "region_id":85688747,
+            "venue_id":723099273
+        }
+    ],
     "wof:id":723099273,
-    "wof:lastmodified":1472651295,
+    "wof:lastmodified":1492062048,
     "wof:name":"Academy Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

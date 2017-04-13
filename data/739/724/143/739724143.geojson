@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.567436,37.497398,-77.567436,37.497398",
     "geom:latitude":37.497398,
     "geom:longitude":-77.567436,
@@ -51,7 +52,13 @@
     ],
     "sg:website":"http://www.budgetblinds.com/churchhill",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vg8K2glIz67bz6Udj8RJQ_37.497398_-77.567436@1303262550"
@@ -59,9 +66,18 @@
     "wof:country":"US",
     "wof:created":1461913077,
     "wof:geomhash":"eadd8e279d9af61a88d751eeb11329fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739724143
+        }
+    ],
     "wof:id":739724143,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492030947,
     "wof:name":"Budget Blinds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43398,38.309003,-77.43398,38.309003",
     "geom:latitude":38.309003,
     "geom:longitude":-77.43398,
@@ -32,17 +33,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gshyr2t0jao3kVUZs96g2_38.309003_-77.433980@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902313,
-    "wof:geomhash":"6caf526d6300344ec9886db4fa257839",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58f216b41d114e1481d4209a22b070b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723469685
+        }
+    ],
     "wof:id":723469685,
-    "wof:lastmodified":1472652296,
+    "wof:lastmodified":1492062072,
     "wof:name":"Weddings By Ginny",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

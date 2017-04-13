@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.496556,37.596426,-77.496556,37.596426",
     "geom:latitude":37.596426,
     "geom:longitude":-77.496556,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R11ZHloWFURG0g6glUpkF_37.596426_-77.496556@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904418,
     "wof:geomhash":"40fcd95a9ff5853e242816d01de627f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739292473
+        }
+    ],
     "wof:id":739292473,
-    "wof:lastmodified":1472651188,
+    "wof:lastmodified":1492033211,
     "wof:name":"Home Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

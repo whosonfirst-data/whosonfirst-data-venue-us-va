@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445391,38.769695,-77.445391,38.769695",
     "geom:latitude":38.769695,
     "geom:longitude":-77.445391,
@@ -31,17 +32,32 @@
         "logistics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02qjHx8KoitSCYvc2Z19ui_38.769695_-77.445391@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905021,
-    "wof:geomhash":"72135254155788e74c34a4720fb15136",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30635f4ddf75e1025457a8ab7e3ebaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739322311
+        }
+    ],
     "wof:id":739322311,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492043299,
     "wof:name":"Capital Logistic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

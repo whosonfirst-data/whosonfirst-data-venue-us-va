@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.558458,36.626705,-78.558458,36.626705",
     "geom:latitude":36.626705,
     "geom:longitude":-78.558458,
@@ -32,17 +33,32 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728975,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4exRLNeUOeZNSkc1NQBFyd_36.626705_-78.558458@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889333,
-    "wof:geomhash":"66f46f155a62f18a18758785f7326bc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c6e5911ff79be8b1e4b2e46191b7ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101728975,
+            "region_id":85688747,
+            "venue_id":722823835
+        }
+    ],
     "wof:id":722823835,
-    "wof:lastmodified":1472651910,
+    "wof:lastmodified":1492069260,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

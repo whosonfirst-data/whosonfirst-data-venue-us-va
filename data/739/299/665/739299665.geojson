@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.696767,37.127421,-79.696767,37.127421",
     "geom:latitude":37.127421,
     "geom:longitude":-79.696767,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.gilbertlakelaw.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729713,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GLQiyeu4BbRMc5ECRgbmf_37.127421_-79.696767@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904567,
     "wof:geomhash":"0e83793a492164413acc01a86b9a0bd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729713,
+            "region_id":85688747,
+            "venue_id":739299665
+        }
+    ],
     "wof:id":739299665,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492032468,
     "wof:name":"James I Gilbert Iv Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.943947,37.070977,-79.943947,37.070977",
     "geom:latitude":37.070977,
     "geom:longitude":-79.943947,
@@ -31,7 +32,12 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IFF1XNuRnFlH7zDfDtftd_37.070977_-79.943947@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904267,
     "wof:geomhash":"f454b41f981ae2aff7149293123ce728",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739285577
+        }
+    ],
     "wof:id":739285577,
-    "wof:lastmodified":1472651167,
+    "wof:lastmodified":1492029721,
     "wof:name":"Burgess Geralene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

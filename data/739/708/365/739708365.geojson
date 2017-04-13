@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.328933,37.826406,-78.328933,37.826406",
     "geom:latitude":37.826406,
     "geom:longitude":-78.328933,
@@ -33,7 +34,12 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34mrb2j3IJ9DCwJbgiLeyD_37.826406_-78.328933@1303262548"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912746,
     "wof:geomhash":"c9f56d001c95222d6cc37eee7d28eafa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "region_id":85688747,
+            "venue_id":739708365
+        }
+    ],
     "wof:id":739708365,
-    "wof:lastmodified":1472652192,
+    "wof:lastmodified":1492030756,
     "wof:name":"Krueger Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

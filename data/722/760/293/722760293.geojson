@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.376713,37.281963,-80.376713,37.281963",
     "geom:latitude":37.281963,
     "geom:longitude":-80.376713,
@@ -32,17 +33,26 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EeXtzxGUVpPewSHMJOt6O_37.281963_-80.376713@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888131,
-    "wof:geomhash":"20c1ed513f43a7ff2ffba8406a1c73ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b24f8251052ae42d0efa65ef24dcc763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":722760293
+        }
+    ],
     "wof:id":722760293,
-    "wof:lastmodified":1472651726,
+    "wof:lastmodified":1492066735,
     "wof:name":"Klient Software",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

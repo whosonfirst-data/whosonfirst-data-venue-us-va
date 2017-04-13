@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451736,38.775082,-77.451736,38.775082",
     "geom:latitude":38.775082,
     "geom:longitude":-77.451736,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"http://www.columbusgrill.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QOLXsffiG7Y0hsG4wCJpc_38.775082_-77.451736@1303262495"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461910507,
     "wof:geomhash":"2e62265c94432580833c6537c8aa22e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739604807
+        }
+    ],
     "wof:id":739604807,
-    "wof:lastmodified":1472651964,
+    "wof:lastmodified":1492032492,
     "wof:name":"Columbus Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

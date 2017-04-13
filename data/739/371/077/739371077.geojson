@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.60996,38.775263,-77.60996,38.775263",
     "geom:latitude":38.775263,
     "geom:longitude":-77.60996,
@@ -33,7 +34,13 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_357pexdnulgaVUO2cWADvh_38.775263_-77.609960@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461906015,
     "wof:geomhash":"25d832cc42e1e734e1235f7a158a5fce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739371077
+        }
+    ],
     "wof:id":739371077,
-    "wof:lastmodified":1472651332,
+    "wof:lastmodified":1492031704,
     "wof:name":"Patrick Dempsey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

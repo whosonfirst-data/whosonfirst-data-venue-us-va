@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.52336,39.091462,-77.52336,39.091462",
     "geom:latitude":39.091462,
     "geom:longitude":-77.52336,
@@ -47,7 +48,13 @@
     ],
     "sg:website":"http://ad.doubleclick.net/clk;223371278;47096201;d?http://www.holidayinn.com/redirect?path=hd&brandCode=hi&hotelCode=wasle&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-hi-_-wasle",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xutDuuuWDNQcC4I3hJF0F_39.091462_-77.523360@1303262497"
@@ -55,9 +62,18 @@
     "wof:country":"US",
     "wof:created":1461910749,
     "wof:geomhash":"c6ac3ac693a80a56c0292cf6fa08e4b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616613
+        }
+    ],
     "wof:id":739616613,
-    "wof:lastmodified":1472652005,
+    "wof:lastmodified":1492029646,
     "wof:name":"Holiday Inn Leesburg At Carradoc Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

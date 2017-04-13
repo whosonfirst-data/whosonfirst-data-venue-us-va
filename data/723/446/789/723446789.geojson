@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.571194,38.40158,-77.571194,38.40158",
     "geom:latitude":38.40158,
     "geom:longitude":-77.571194,
@@ -28,19 +29,28 @@
     "sg:postcode":"22406",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_028bxw0lSIqETq8G4ieqZ6_38.401580_-77.571194@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901884,
-    "wof:geomhash":"e009c8370672d40b1180250c80830601",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b48cb19467f24fd5f7490c0b6dc390c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546629,
+            "venue_id":723446789
+        }
+    ],
     "wof:id":723446789,
-    "wof:lastmodified":1472652275,
+    "wof:lastmodified":1492059733,
     "wof:name":"Hartwood Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

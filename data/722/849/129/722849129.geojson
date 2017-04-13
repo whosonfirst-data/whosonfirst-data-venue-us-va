@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.765277,37.238868,-76.765277,37.238868",
     "geom:latitude":37.238868,
     "geom:longitude":-76.765277,
@@ -33,19 +34,34 @@
     ],
     "sg:website":"www.tandemhealth.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805,
+        420546841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29xbKvyyLdiboLQDOwytvp_37.238868_-76.765277@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889805,
-    "wof:geomhash":"1e1fcdc2db7dba4699e22c2f5b3a1361",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ae5b5777c6929dc41ad454f36774757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":722849129
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546841,
+            "venue_id":722849129
+        }
+    ],
     "wof:id":722849129,
-    "wof:lastmodified":1472651938,
+    "wof:lastmodified":1492074613,
     "wof:name":"Tandem Health Care At Wmsbg",
-    "wof:parent_id":420546841,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

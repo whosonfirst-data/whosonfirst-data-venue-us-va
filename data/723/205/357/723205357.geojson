@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380585,39.002818,-77.380585,39.002818",
     "geom:latitude":39.002818,
     "geom:longitude":-77.380585,
@@ -35,9 +36,12 @@
         85688747,
         102191575,
         85633793,
-        101729747,
+        101729429,
+        102084951,
+        85868641,
+        101729847,
         102084863,
-        85868641
+        85812169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1461897175,
-    "wof:geomhash":"6129b13aa7dd0c0bccb39cb7ab6c012a",
+    "wof:geomhash":"d532d041a2396f4da991113ac6da5083",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084863,
-            "locality_id":101729747,
+            "county_id":102084951,
+            "locality_id":101729429,
             "neighbourhood_id":85868641,
+            "region_id":85688747,
+            "venue_id":723205357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729847,
+            "neighbourhood_id":85812169,
             "region_id":85688747,
             "venue_id":723205357
         }
     ],
     "wof:id":723205357,
-    "wof:lastmodified":1472651610,
+    "wof:lastmodified":1492054611,
     "wof:name":"Arthur Rosenberg",
-    "wof:parent_id":85868641,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

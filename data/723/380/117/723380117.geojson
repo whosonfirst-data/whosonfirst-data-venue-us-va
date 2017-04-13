@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.878735,36.708421,-79.878735,36.708421",
     "geom:latitude":36.708421,
     "geom:longitude":-79.878735,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KWjnhcndRUVDkELdRN2Ob_36.708421_-79.878735@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900588,
-    "wof:geomhash":"eec9a36704f2c771b8a3ae840a800ea6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"701e226d70be6957503944a3c835842f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723380117
+        }
+    ],
     "wof:id":723380117,
-    "wof:lastmodified":1472652098,
+    "wof:lastmodified":1492051644,
     "wof:name":"Henry Via",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

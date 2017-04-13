@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.591171,37.500656,-77.591171,37.500656",
     "geom:latitude":37.500656,
     "geom:longitude":-77.591171,
@@ -31,17 +32,30 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10r82rxIZsaSiFbCFTTkiz_37.500656_-77.591171@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890837,
-    "wof:geomhash":"4efe80328379048a2b24445da7bff562",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f30180b7bd627f284cac5f8328122fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722902453
+        }
+    ],
     "wof:id":722902453,
-    "wof:lastmodified":1472652080,
+    "wof:lastmodified":1492074349,
     "wof:name":"Virginia Dept Motor Vehicles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.656737,37.936676,-77.656737,37.936676",
     "geom:latitude":37.936676,
     "geom:longitude":-77.656737,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kwRxnpsNEkAloxGv7DcIU_37.936676_-77.656737@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904277,
     "wof:geomhash":"9b78ed640ca5b8e73d6dc1ec3348a76b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739286105
+        }
+    ],
     "wof:id":739286105,
-    "wof:lastmodified":1472651145,
+    "wof:lastmodified":1492030086,
     "wof:name":"Beaverdam United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

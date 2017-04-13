@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.675018,37.43087,-77.675018,37.43087",
     "geom:latitude":37.43087,
     "geom:longitude":-77.675018,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.footlocker.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ud7m0WwSMqrvTuTviB6UR_37.430870_-77.675018@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912784,
-    "wof:geomhash":"0e0ed639c34e0f5a8addc1eab033ac3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed4bf6677697a2476be51f16938ca7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739710105
+        }
+    ],
     "wof:id":739710105,
-    "wof:lastmodified":1472652166,
+    "wof:lastmodified":1492045622,
     "wof:name":"Foot Locker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

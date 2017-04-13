@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.302162,37.166559,-77.302162,37.166559",
     "geom:latitude":37.166559,
     "geom:longitude":-77.302162,
@@ -32,7 +33,12 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zNLGMsdl1SxaIo24QX77y_37.166559_-77.302162@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909576,
     "wof:geomhash":"fdcb269746055d4b3c90cf46df1f833b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739560831
+        }
+    ],
     "wof:id":739560831,
-    "wof:lastmodified":1472651895,
+    "wof:lastmodified":1492030121,
     "wof:name":"John Thweatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

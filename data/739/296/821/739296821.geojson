@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.867888,37.782409,-78.867888,37.782409",
     "geom:latitude":37.782409,
     "geom:longitude":-78.867888,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74bV7j3mvJh04KMGBzdKUo_37.782409_-78.867888@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461904497,
     "wof:geomhash":"90baf2f8c45499715e0772361ab365e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739296821
+        }
+    ],
     "wof:id":739296821,
-    "wof:lastmodified":1472651231,
+    "wof:lastmodified":1492029524,
     "wof:name":"Smith & Smith Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

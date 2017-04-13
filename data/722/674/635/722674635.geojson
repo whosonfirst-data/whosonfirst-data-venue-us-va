@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556865,39.095253,-77.556865,39.095253",
     "geom:latitude":39.095253,
     "geom:longitude":-77.556865,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38jMR95rRoSn89pFqlRbqx_39.095253_-77.556865@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886483,
-    "wof:geomhash":"2f701d5bffea512341d0fa0b3b9df9c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09a34617e0c89aa7926692ed89509ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722674635
+        }
+    ],
     "wof:id":722674635,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492065161,
     "wof:name":"Perry Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

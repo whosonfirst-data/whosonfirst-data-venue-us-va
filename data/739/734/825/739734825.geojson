@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942874,37.271196,-79.942874,37.271196",
     "geom:latitude":37.271196,
     "geom:longitude":-79.942874,
@@ -44,17 +45,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76rTiLNDssey71bfrtWUfT_37.271196_-79.942874@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913296,
-    "wof:geomhash":"ae3bd8975dc85e468b525f906e84c001",
-    "wof:hierarchy":[],
+    "wof:geomhash":"606ddab5afafee02d8ebc5cf03fa44f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739734825
+        }
+    ],
     "wof:id":739734825,
-    "wof:lastmodified":1472652256,
+    "wof:lastmodified":1492043354,
     "wof:name":"Sheila's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

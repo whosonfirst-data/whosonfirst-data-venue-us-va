@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449043,38.281178,-77.449043,38.281178",
     "geom:latitude":38.281178,
     "geom:longitude":-77.449043,
@@ -31,7 +32,12 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u3fe39n4wvK690mX2RlA6_38.281178_-77.449043@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906700,
     "wof:geomhash":"723155a5a23faf6e29fb93b7077f2b6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739406141
+        }
+    ],
     "wof:id":739406141,
-    "wof:lastmodified":1472651446,
+    "wof:lastmodified":1492033195,
     "wof:name":"Progressive Convenience Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

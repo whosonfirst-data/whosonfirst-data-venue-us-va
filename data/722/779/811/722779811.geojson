@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.415881,36.994585,-76.415881,36.994585",
     "geom:latitude":36.994585,
     "geom:longitude":-76.415881,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AX5O2JYqAAzK8P64JZoNG_36.994585_-76.415881@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888496,
-    "wof:geomhash":"98982c6838b2dbb9c650d6689803d673",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d82cba2aa208b0d12fdbe32ba144d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":722779811
+        }
+    ],
     "wof:id":722779811,
-    "wof:lastmodified":1472651807,
+    "wof:lastmodified":1492071143,
     "wof:name":"Rick's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

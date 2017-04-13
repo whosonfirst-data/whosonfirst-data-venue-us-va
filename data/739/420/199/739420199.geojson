@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.6389,37.492466,-77.6389,37.492466",
     "geom:latitude":37.492466,
     "geom:longitude":-77.6389,
@@ -28,7 +29,12 @@
     "sg:postcode":"23114",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PJ6tjSulEpJLyBvbiYzWe_37.492466_-77.638900@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906963,
     "wof:geomhash":"6330e67330eef5325d1b818261439046",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739420199
+        }
+    ],
     "wof:id":739420199,
-    "wof:lastmodified":1472651500,
+    "wof:lastmodified":1492031980,
     "wof:name":"Arkival Memories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

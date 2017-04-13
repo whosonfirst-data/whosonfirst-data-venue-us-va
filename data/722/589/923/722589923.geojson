@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365425,38.491604,-77.365425,38.491604",
     "geom:latitude":38.491604,
     "geom:longitude":-77.365425,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MufWb1O1NJqQHWtbUTfRI_38.491604_-77.365425@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884792,
-    "wof:geomhash":"2e7cfe4f9c2aa9eb44f6f54d3ce20cff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d61738ac5083f174e8383343617569a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":722589923
+        }
+    ],
     "wof:id":722589923,
-    "wof:lastmodified":1472651249,
+    "wof:lastmodified":1492071547,
     "wof:name":"J K Electric",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

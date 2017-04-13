@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.274174,36.822404,-81.274174,36.822404",
     "geom:latitude":36.822404,
     "geom:longitude":-81.274174,
@@ -33,17 +34,26 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lNYJ3r5fu3mimeN8Dytks_36.822404_-81.274174@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898970,
-    "wof:geomhash":"62a471a63331440d3ffa5bc8ca337023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fce01693adbf4b2903044d737163dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723295241
+        }
+    ],
     "wof:id":723295241,
-    "wof:lastmodified":1472651733,
+    "wof:lastmodified":1492057715,
     "wof:name":"David Lyons",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

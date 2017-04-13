@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50088,38.774008,-77.50088,38.774008",
     "geom:latitude":38.774008,
     "geom:longitude":-77.50088,
@@ -33,17 +34,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r1UHjFTEZIbQgIWbLKlVb_38.774008_-77.500880@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910425,
-    "wof:geomhash":"147a0fcf8589f624425b5594cf413f6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcf930f12b1f34beaf5e3c581135f39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739601131
+        }
+    ],
     "wof:id":739601131,
-    "wof:lastmodified":1472651931,
+    "wof:lastmodified":1492045739,
     "wof:name":"Costa Real",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

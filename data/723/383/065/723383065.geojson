@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.88852,36.995495,-79.88852,36.995495",
     "geom:latitude":36.995495,
     "geom:longitude":-79.88852,
@@ -33,17 +34,32 @@
         "dev"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y2JEwuipxWGyB0X7EVhu6_36.995495_-79.888520@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900641,
-    "wof:geomhash":"eac3b291ddb8eaae48c6c5d90b694803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ee42cbb675e897f1f030f06dd0c4dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":723383065
+        }
+    ],
     "wof:id":723383065,
-    "wof:lastmodified":1472652097,
+    "wof:lastmodified":1492054206,
     "wof:name":"Franklin County Zoning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

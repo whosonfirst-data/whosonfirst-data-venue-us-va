@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449223,38.313033,-77.449223,38.313033",
     "geom:latitude":38.313033,
     "geom:longitude":-77.449223,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jHikyElmIrNMUTyCzQQl2_38.313033_-77.449223@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894063,
-    "wof:geomhash":"0faa15e14030d81f54c2f5fa95fc734b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0ade8e7024a1ef78a9be3d04301ba04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":723052621
+        }
+    ],
     "wof:id":723052621,
-    "wof:lastmodified":1472651225,
+    "wof:lastmodified":1492054359,
     "wof:name":"Preferred Maintenance",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

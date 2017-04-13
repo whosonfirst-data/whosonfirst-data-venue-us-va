@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.211455,38.895098,-77.211455,38.895098",
     "geom:latitude":38.895098,
     "geom:longitude":-77.211455,
@@ -38,7 +39,8 @@
         85633793,
         101729755,
         102084863,
-        85842731
+        85842731,
+        85818865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461904686,
-    "wof:geomhash":"f4bc2d1defae9c6901a4c02e49d4ce07",
+    "wof:geomhash":"feb365a85eac50b53c4616a8e4170f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85842731,
             "region_id":85688747,
             "venue_id":739305283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729755,
+            "neighbourhood_id":85818865,
+            "region_id":85688747,
+            "venue_id":739305283
         }
     ],
     "wof:id":739305283,
-    "wof:lastmodified":1472651197,
+    "wof:lastmodified":1492044239,
     "wof:name":"Kornutick",
-    "wof:parent_id":85842731,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

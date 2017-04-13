@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.518684,37.120098,-81.518684,37.120098",
     "geom:latitude":37.120098,
     "geom:longitude":-81.518684,
@@ -31,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WtRRAaP2ke0uyOCKYGNxC_37.120098_-81.518684@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906103,
     "wof:geomhash":"023225970caeb95f238b045ad9f17673",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739375235
+        }
+    ],
     "wof:id":739375235,
-    "wof:lastmodified":1472651342,
+    "wof:lastmodified":1492030858,
     "wof:name":"Mitchem Enterprises Inc",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

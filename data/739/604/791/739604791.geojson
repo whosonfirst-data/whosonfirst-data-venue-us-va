@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43715,38.783112,-77.43715,38.783112",
     "geom:latitude":38.783112,
     "geom:longitude":-77.43715,
@@ -35,7 +36,13 @@
         "developmentally"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eF63er8ORDNbd9WMqOySa_38.783112_-77.437150@1303262495"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461910507,
     "wof:geomhash":"6cb1f388a8a7caee475257e92633d5a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739604791
+        }
+    ],
     "wof:id":739604791,
-    "wof:lastmodified":1472651963,
+    "wof:lastmodified":1492032495,
     "wof:name":"Community Residences Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

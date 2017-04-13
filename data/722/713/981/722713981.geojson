@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.606538,37.50828,-77.606538,37.50828",
     "geom:latitude":37.50828,
     "geom:longitude":-77.606538,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C3ZHjt9hro689yngueAJR_37.508280_-77.606538@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887235,
-    "wof:geomhash":"3e6fb53a05b288f54dab2dd0320c5ce4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"917eab6899fc7ad04a25a253f29bfc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":722713981
+        }
+    ],
     "wof:id":722713981,
-    "wof:lastmodified":1472651593,
+    "wof:lastmodified":1492063323,
     "wof:name":"PNC Financial Services Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

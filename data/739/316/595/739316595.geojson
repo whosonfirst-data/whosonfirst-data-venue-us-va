@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.416426,37.525062,-79.416426,37.525062",
     "geom:latitude":37.525062,
     "geom:longitude":-79.416426,
@@ -34,7 +35,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MLNv4JLZ8MOruBUs6DKdZ_37.525062_-79.416426@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461904894,
     "wof:geomhash":"ebdd6140040983a5f17557e2844e81ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739316595
+        }
+    ],
     "wof:id":739316595,
-    "wof:lastmodified":1472651227,
+    "wof:lastmodified":1492031820,
     "wof:name":"Hatcher Logging Corp Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

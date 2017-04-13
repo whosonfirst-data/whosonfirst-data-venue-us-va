@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.674865,37.508762,-77.674865,37.508762",
     "geom:latitude":37.508762,
     "geom:longitude":-77.674865,
@@ -27,7 +28,12 @@
     ],
     "sg:website":"www.allendisplay.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xV5tts1Gu0oDeUCFULTsQ_37.508762_-77.674865@1294252573"
@@ -35,9 +41,17 @@
     "wof:country":"US",
     "wof:created":1461909761,
     "wof:geomhash":"1288da9e346f836dab9d7834de8290ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739569003
+        }
+    ],
     "wof:id":739569003,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492030912,
     "wof:name":"Allen Display & Store Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.637948,38.812923,-77.637948,38.812923",
     "geom:latitude":38.812923,
     "geom:longitude":-77.637948,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"www.berryportraits.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SgsFitZgcrHm47Bg9XwuM_38.812923_-77.637948@1303262496"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910684,
     "wof:geomhash":"a4b499ca7ed96c2c4a1a4cc2cb07a601",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613973
+        }
+    ],
     "wof:id":739613973,
-    "wof:lastmodified":1472652015,
+    "wof:lastmodified":1492032433,
     "wof:name":"Berry Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

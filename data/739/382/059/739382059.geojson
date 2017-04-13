@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.465206,38.927332,-78.465206,38.927332",
     "geom:latitude":38.927332,
     "geom:longitude":-78.465206,
@@ -32,7 +33,13 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729499,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UW6xQE4MeKsqqVXxzhYlO_38.927332_-78.465206@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906234,
     "wof:geomhash":"ba9f8a02e4a57e1255c78c526e4c519b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101729499,
+            "region_id":85688747,
+            "venue_id":739382059
+        }
+    ],
     "wof:id":739382059,
-    "wof:lastmodified":1472651333,
+    "wof:lastmodified":1492030648,
     "wof:name":"Steven L Shipe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

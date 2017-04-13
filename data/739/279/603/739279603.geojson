@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.397704,36.993584,-76.397704,36.993584",
     "geom:latitude":36.993584,
     "geom:longitude":-76.397704,
@@ -34,17 +35,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QfIL7NvpfLCKXvYOnJLmS_36.993584_-76.397704@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904133,
-    "wof:geomhash":"1e58bc52c722e3eb47960111df281b03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da9e237e614c2ec0ceb396b1b639956a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739279603
+        }
+    ],
     "wof:id":739279603,
-    "wof:lastmodified":1472651165,
+    "wof:lastmodified":1492040801,
     "wof:name":"Smith Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764887,37.252296,-76.764887,37.252296",
     "geom:latitude":37.252296,
     "geom:longitude":-76.764887,
@@ -33,7 +34,10 @@
         "asian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gRhehOdNphWetm2uyi5VT_37.252296_-76.764887@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461910127,
     "wof:geomhash":"6039153e9c00f71fdc041eca5f2bc666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":739586281
+        }
+    ],
     "wof:id":739586281,
-    "wof:lastmodified":1472651930,
+    "wof:lastmodified":1492031884,
     "wof:name":"Soya Williamsburg",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

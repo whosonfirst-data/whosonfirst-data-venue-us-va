@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.47565,38.752152,-77.47565,38.752152",
     "geom:latitude":38.752152,
     "geom:longitude":-77.47565,
@@ -29,17 +30,30 @@
     "sg:province":"VA",
     "sg:website":"www.pwcgov.org/voterweb",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TEhCyAI9eqgVEMTiXkXzJ_38.752152_-77.475650@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904681,
-    "wof:geomhash":"2922146cbe0a1ce9e5bcd9b0d873e65b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57c170823ece48753d368f889b42c8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739305023
+        }
+    ],
     "wof:id":739305023,
-    "wof:lastmodified":1472651191,
+    "wof:lastmodified":1492044241,
     "wof:name":"Prince William Cnty Voter Rgst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

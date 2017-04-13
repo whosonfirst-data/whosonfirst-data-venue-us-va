@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.216775,38.958467,-77.216775,38.958467",
     "geom:latitude":38.958467,
     "geom:longitude":-77.216775,
@@ -31,17 +32,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cmv498b6mLneGLen0zFjb_38.958467_-77.216775@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911177,
-    "wof:geomhash":"376ab87de56b5262b5aa93c0ee584ea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d85338024dccaf2aa2f328bd48a58a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":739636203
+        }
+    ],
     "wof:id":739636203,
-    "wof:lastmodified":1472651999,
+    "wof:lastmodified":1492045797,
     "wof:name":"The Moran Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

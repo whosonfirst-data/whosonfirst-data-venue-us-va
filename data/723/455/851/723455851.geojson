@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.628758,38.826949,-77.628758,38.826949",
     "geom:latitude":38.826949,
     "geom:longitude":-77.628758,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vNJHvy6xk2be12rtMRBHH_38.826949_-77.628758@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902050,
-    "wof:geomhash":"3f07a9115ff3f33805dfda7e33346b35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"238b44edf187380a509fc9d383e81940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723455851
+        }
+    ],
     "wof:id":723455851,
-    "wof:lastmodified":1472652308,
+    "wof:lastmodified":1492051535,
     "wof:name":"Quaker Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

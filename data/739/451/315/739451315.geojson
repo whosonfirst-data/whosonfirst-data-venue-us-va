@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.538245,38.281099,-77.538245,38.281099",
     "geom:latitude":38.281099,
     "geom:longitude":-77.538245,
@@ -28,7 +29,12 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IK8NLtJyZPwokogS4h7dD_38.281099_-77.538245@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907566,
     "wof:geomhash":"e654c49619ec0f966884512ac1f1d39d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739451315
+        }
+    ],
     "wof:id":739451315,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492031155,
     "wof:name":"Arrow Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

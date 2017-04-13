@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.173057,39.166327,-78.173057,39.166327",
     "geom:latitude":39.166327,
     "geom:longitude":-78.173057,
@@ -31,7 +32,13 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fQJgxjvPMKEWEgvWTLUNJ_39.166327_-78.173057@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908481,
     "wof:geomhash":"d83376467b5ea4944c932f0d019d1282",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739502879
+        }
+    ],
     "wof:id":739502879,
-    "wof:lastmodified":1472651714,
+    "wof:lastmodified":1492029583,
     "wof:name":"A E S Corporate Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.19187,38.885709,-77.19187,38.885709",
     "geom:latitude":38.885709,
     "geom:longitude":-77.19187,
@@ -35,17 +36,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728685,
+        102081047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GRrAilFKdtddMD96qdn4H_38.885709_-77.191870@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906825,
-    "wof:geomhash":"b6c4454d922bc6807aa266509bc57068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"406b7da8f83d36d389c6f14ecd252143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081047,
+            "locality_id":101728685,
+            "region_id":85688747,
+            "venue_id":739413173
+        }
+    ],
     "wof:id":739413173,
-    "wof:lastmodified":1472651457,
+    "wof:lastmodified":1492043895,
     "wof:name":"Star Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

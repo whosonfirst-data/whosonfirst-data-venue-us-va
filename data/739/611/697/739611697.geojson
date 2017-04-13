@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.397554,39.009066,-77.397554,39.009066",
     "geom:latitude":39.009066,
     "geom:longitude":-77.397554,
@@ -38,7 +39,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ct9iZA4YnNtg3V6f9xyAd_39.009066_-77.397554@1303262496"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461910632,
     "wof:geomhash":"ef8dd79f731def4fe3191fa8eb8251a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739611697
+        }
+    ],
     "wof:id":739611697,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492029466,
     "wof:name":"Exquiste Ground Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

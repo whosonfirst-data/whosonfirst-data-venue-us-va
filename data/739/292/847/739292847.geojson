@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.011897,36.720567,-82.011897,36.720567",
     "geom:latitude":36.720567,
     "geom:longitude":-82.011897,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65ZSPEsnW51TlNjTMtxY89_36.720567_-82.011897@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904424,
     "wof:geomhash":"699b1ae0b6cb082857b529953f025e1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739292847
+        }
+    ],
     "wof:id":739292847,
-    "wof:lastmodified":1472651209,
+    "wof:lastmodified":1492033219,
     "wof:name":"Style Shop",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

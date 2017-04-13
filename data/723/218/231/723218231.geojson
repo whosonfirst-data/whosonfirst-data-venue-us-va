@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.590825,37.116599,-79.590825,37.116599",
     "geom:latitude":37.116599,
     "geom:longitude":-79.590825,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GcldxYgbOBquYiEzV4inM_37.116599_-79.590825@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897431,
-    "wof:geomhash":"ceea7c0245c77dd5ecc8f7b676d8d86b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48aa21e27fa829c52004279aa67228f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723218231
+        }
+    ],
     "wof:id":723218231,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492049650,
     "wof:name":"Prime Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

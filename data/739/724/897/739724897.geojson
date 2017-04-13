@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.625071,37.492402,-77.625071,37.492402",
     "geom:latitude":37.492402,
     "geom:longitude":-77.625071,
@@ -49,7 +50,12 @@
     ],
     "sg:website":"http://www.francisjarrelle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Yw7FnC7YWWklkYwa8yp1i_37.492402_-77.625071@1303262551"
@@ -57,9 +63,17 @@
     "wof:country":"US",
     "wof:created":1461913090,
     "wof:geomhash":"4716ba733939dc112dd093394e9165d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724897
+        }
+    ],
     "wof:id":739724897,
-    "wof:lastmodified":1472652260,
+    "wof:lastmodified":1492030943,
     "wof:name":"FMJ Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

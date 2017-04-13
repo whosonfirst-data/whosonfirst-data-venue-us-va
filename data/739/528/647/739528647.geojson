@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.554466,38.733838,-77.554466,38.733838",
     "geom:latitude":38.733838,
     "geom:longitude":-77.554466,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28Y1Lfn6HGqYScMbtuwkA3_38.733838_-77.554466@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908956,
     "wof:geomhash":"ec2a9a6be4f18f69ab0a23c88862801c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739528647
+        }
+    ],
     "wof:id":739528647,
-    "wof:lastmodified":1472651785,
+    "wof:lastmodified":1492032517,
     "wof:name":"New Freedom Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

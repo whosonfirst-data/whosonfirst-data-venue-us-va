@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.870133,37.149451,-79.870133,37.149451",
     "geom:latitude":37.149451,
     "geom:longitude":-79.870133,
@@ -31,7 +32,12 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vSYz0hdrnF0pDbbzZarv9_37.149451_-79.870133@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904263,
     "wof:geomhash":"b13c0d2191a5d883b8bf1cc719ee6fda",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739285365
+        }
+    ],
     "wof:id":739285365,
-    "wof:lastmodified":1472651159,
+    "wof:lastmodified":1492029727,
     "wof:name":"Ponderosa Camp Ground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

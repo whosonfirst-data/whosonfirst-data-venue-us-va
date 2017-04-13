@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.492308,39.101773,-77.492308,39.101773",
     "geom:latitude":39.101773,
     "geom:longitude":-77.492308,
@@ -28,7 +29,12 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q47Ts8UB0TtjVSNLJ5DVT_39.101773_-77.492308@1303262497"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910736,
     "wof:geomhash":"a5490d2e89ba51046ea81c2f5bc9cc37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616023
+        }
+    ],
     "wof:id":739616023,
-    "wof:lastmodified":1472651981,
+    "wof:lastmodified":1492029654,
     "wof:name":"Team West Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.623722,38.452115,-77.623722,38.452115",
     "geom:latitude":38.452115,
     "geom:longitude":-77.623722,
@@ -34,17 +35,26 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dfwXiU7317jM1ogej2wwt_38.452115_-77.623722@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893636,
-    "wof:geomhash":"8d9f79d43ead4093429a7a622c841b50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1ca624071d2176b0ee12e88d2bad1b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":723031651
+        }
+    ],
     "wof:id":723031651,
-    "wof:lastmodified":1472651143,
+    "wof:lastmodified":1492055508,
     "wof:name":"E-Z Hang Inc",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

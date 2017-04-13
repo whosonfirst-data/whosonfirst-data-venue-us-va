@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.616191,37.645518,-77.616191,37.645518",
     "geom:latitude":37.645518,
     "geom:longitude":-77.616191,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.wachovia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RV6Sdfz3eaTo9EwO55GfN_37.645518_-77.616191@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901395,
-    "wof:geomhash":"1ff9f41f47cc4a485ea3721a0379fc84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89d6de5632ba5bd062e01efae2a4b747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":723421955
+        }
+    ],
     "wof:id":723421955,
-    "wof:lastmodified":1472652266,
+    "wof:lastmodified":1492056947,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442037,38.38017,-77.442037,38.38017",
     "geom:latitude":38.38017,
     "geom:longitude":-77.442037,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03AfaRdOMMVUbPSLbron7f_38.380170_-77.442037@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884796,
-    "wof:geomhash":"6bdc9e9799bdd4fd519257dd54322806",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0e95909a6d54664cf93d039c875f0c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":722590223
+        }
+    ],
     "wof:id":722590223,
-    "wof:lastmodified":1472651199,
+    "wof:lastmodified":1492067320,
     "wof:name":"Nova",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

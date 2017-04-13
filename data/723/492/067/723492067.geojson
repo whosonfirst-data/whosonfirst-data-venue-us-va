@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.319858,37.537468,-77.319858,37.537468",
     "geom:latitude":37.537468,
     "geom:longitude":-77.319858,
@@ -32,17 +33,32 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QVuGwflb6o8LSseTW02Ae_37.537468_-77.319858@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902781,
-    "wof:geomhash":"ea3a95d45db115bd30fae419b244fb92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1558b7659d6d2305b26333a9b800688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":723492067
+        }
+    ],
     "wof:id":723492067,
-    "wof:lastmodified":1472652332,
+    "wof:lastmodified":1492060951,
     "wof:name":"Spring Cleaner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

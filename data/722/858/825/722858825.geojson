@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.489012,37.515202,-77.489012,37.515202",
     "geom:latitude":37.515202,
     "geom:longitude":-77.489012,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yuhDP6aQLhpLM50LL6JvA_37.515202_-77.489012@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889994,
-    "wof:geomhash":"5acea906c6cfcfd364822fa8f6084105",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99dfbfa9e664ec4aecaf40b84c896b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722858825
+        }
+    ],
     "wof:id":722858825,
-    "wof:lastmodified":1472652017,
+    "wof:lastmodified":1492069478,
     "wof:name":"Somerset Glen Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

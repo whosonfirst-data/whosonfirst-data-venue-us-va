@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.657789,37.500022,-77.657789,37.500022",
     "geom:latitude":37.500022,
     "geom:longitude":-77.657789,
@@ -31,17 +32,30 @@
         "sprinkler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mlZmthKXfPS045UO4i8sj_37.500022_-77.657789@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892500,
-    "wof:geomhash":"162e4cff79dcfab67863cc86764b2071",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b742fb3cf775caffbd093cb946803504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722982443
+        }
+    ],
     "wof:id":722982443,
-    "wof:lastmodified":1472652341,
+    "wof:lastmodified":1492074483,
     "wof:name":"Elkins' Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

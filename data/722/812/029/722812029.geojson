@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430139,37.588234,-77.430139,37.588234",
     "geom:latitude":37.588234,
     "geom:longitude":-77.430139,
@@ -32,17 +33,30 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NYzoTCtpCwlmTiPQr6fUW_37.588234_-77.430139@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889100,
-    "wof:geomhash":"8a23cb4f41fe0162905f1499a43693d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15ad5362ce034119f060854f1a881c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722812029
+        }
+    ],
     "wof:id":722812029,
-    "wof:lastmodified":1472651855,
+    "wof:lastmodified":1492065872,
     "wof:name":"Forest Lawn Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

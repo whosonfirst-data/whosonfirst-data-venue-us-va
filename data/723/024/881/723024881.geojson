@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.456622,37.032351,-76.456622,37.032351",
     "geom:latitude":37.032351,
     "geom:longitude":-76.456622,
@@ -32,9 +33,12 @@
         85688747,
         102191575,
         85633793,
+        101728661,
+        102084913,
+        85879205,
         101729041,
         102085961,
-        85879205
+        85879221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,22 +46,31 @@
     },
     "wof:country":"US",
     "wof:created":1461893495,
-    "wof:geomhash":"5aea805a5c9a429272af01a92331a209",
+    "wof:geomhash":"ffa6bd007d8e310749249b87efd50415",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85879205,
+            "region_id":85688747,
+            "venue_id":723024881
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085961,
             "locality_id":101729041,
-            "neighbourhood_id":85879205,
+            "neighbourhood_id":85879221,
             "region_id":85688747,
             "venue_id":723024881
         }
     ],
     "wof:id":723024881,
-    "wof:lastmodified":1472651160,
+    "wof:lastmodified":1492061966,
     "wof:name":"Mjg Enterprise",
-    "wof:parent_id":85879205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.409205,38.948711,-77.409205,38.948711",
     "geom:latitude":38.948711,
     "geom:longitude":-77.409205,
@@ -34,7 +35,13 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729837,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kJVJSBIseh3d7AJfwXl64_38.948711_-77.409205@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461909283,
     "wof:geomhash":"8aeeca19d0a2ec504ad19c20a5cea459",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729837,
+            "region_id":85688747,
+            "venue_id":739546071
+        }
+    ],
     "wof:id":739546071,
-    "wof:lastmodified":1472651855,
+    "wof:lastmodified":1492031595,
     "wof:name":"Fusion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

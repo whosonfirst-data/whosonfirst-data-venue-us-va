@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.004225,36.633974,-82.004225,36.633974",
     "geom:latitude":36.633974,
     "geom:longitude":-82.004225,
@@ -29,7 +30,10 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21lbHStv7uz1cGrtKWASBc_36.633974_-82.004225@1294252573"
@@ -37,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461909578,
     "wof:geomhash":"0ee38dd92af15ecfbbdb049d3bae698e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739560899
+        }
+    ],
     "wof:id":739560899,
-    "wof:lastmodified":1472651899,
+    "wof:lastmodified":1492030119,
     "wof:name":"Preston Brown",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

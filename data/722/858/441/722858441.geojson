@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.509598,38.356631,-77.509598,38.356631",
     "geom:latitude":38.356631,
     "geom:longitude":-77.509598,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YNF0SzT6wijv172hFo560_38.356631_-77.509598@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889981,
-    "wof:geomhash":"a03d6305df32dcafe124fd5af38c8bdd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42c7bab1e0489b00e6304f1590ac53f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":722858441
+        }
+    ],
     "wof:id":722858441,
-    "wof:lastmodified":1472651992,
+    "wof:lastmodified":1492069488,
     "wof:name":"Mc Kendree Manor",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

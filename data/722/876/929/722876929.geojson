@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.522527,37.126276,-81.522527,37.126276",
     "geom:latitude":37.126276,
     "geom:longitude":-81.522527,
@@ -31,19 +32,34 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66L3lum6nU8xcmRpYKWdv0_37.126276_-81.522527@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890327,
-    "wof:geomhash":"1d9fb9ff4237a2dd04a9224188dd98bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"736f20495e2d3943897088decb016ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722876929
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":722876929
+        }
+    ],
     "wof:id":722876929,
-    "wof:lastmodified":1472652030,
+    "wof:lastmodified":1492068504,
     "wof:name":"First Virginia Bnk - Southwest",
-    "wof:parent_id":420547299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

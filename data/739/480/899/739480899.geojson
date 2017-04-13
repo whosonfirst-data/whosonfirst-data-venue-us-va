@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277121,39.018235,-77.277121,39.018235",
     "geom:latitude":39.018235,
     "geom:longitude":-77.277121,
@@ -32,17 +33,32 @@
         "updating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nt40ywZ7hT5SVScs5jAXa_39.018235_-77.277121@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908087,
-    "wof:geomhash":"9421a357b3f9e6baa4af7c30f8b72165",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52e1ab3db8c2ea15a00228599dd9d1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739480899
+        }
+    ],
     "wof:id":739480899,
-    "wof:lastmodified":1472651652,
+    "wof:lastmodified":1492046148,
     "wof:name":"Geodata Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

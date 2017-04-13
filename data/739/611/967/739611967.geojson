@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.388107,39.04195,-77.388107,39.04195",
     "geom:latitude":39.04195,
     "geom:longitude":-77.388107,
@@ -33,7 +34,13 @@
         "trophies"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00oPzXHL3Yrh06hWMk5MZs_39.041950_-77.388107@1303262496"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910637,
     "wof:geomhash":"453a93239a72c20c90a8ab21dcd90c81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":739611967
+        }
+    ],
     "wof:id":739611967,
-    "wof:lastmodified":1472651976,
+    "wof:lastmodified":1492029450,
     "wof:name":"Jo's Trophies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

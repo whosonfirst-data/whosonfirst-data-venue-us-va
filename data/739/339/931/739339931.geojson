@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.636952,36.98028,-76.636952,36.98028",
     "geom:latitude":36.98028,
     "geom:longitude":-76.636952,
@@ -33,17 +34,32 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bwow9tKWtx5fEDQDxMwki_36.980280_-76.636952@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905380,
-    "wof:geomhash":"38ab0cc3555d92bf73844c555c265b74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06edf577419a35564d7091c5b5357ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739339931
+        }
+    ],
     "wof:id":739339931,
-    "wof:lastmodified":1472651311,
+    "wof:lastmodified":1492040074,
     "wof:name":"Hallwood Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

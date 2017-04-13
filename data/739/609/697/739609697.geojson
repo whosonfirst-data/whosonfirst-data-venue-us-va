@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.598198,38.786229,-77.598198,38.786229",
     "geom:latitude":38.786229,
     "geom:longitude":-77.598198,
@@ -63,7 +64,13 @@
     ],
     "sg:website":"http://www.yext.com/p/superpages/gainesville-plumbing-llc-gainesville-virginia.html",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sESGAeMB9VlD4qp6Yj0NC_38.786229_-77.598198@1303262496"
@@ -71,9 +78,18 @@
     "wof:country":"US",
     "wof:created":1461910597,
     "wof:geomhash":"690e0562e742e3355f48c58486b08e4d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739609697
+        }
+    ],
     "wof:id":739609697,
-    "wof:lastmodified":1472651965,
+    "wof:lastmodified":1492032673,
     "wof:name":"Gainesville Plumbing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.523662,37.334305,-79.523662,37.334305",
     "geom:latitude":37.334305,
     "geom:longitude":-79.523662,
@@ -31,17 +32,32 @@
         "yarn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KXWho1KD5UpMw1DHFFjUs_37.334305_-79.523662@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898183,
-    "wof:geomhash":"6703e2b02789e4294156a6fe0006b1a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"109de490520d57f08a2ccfb2a25c3387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723253129
+        }
+    ],
     "wof:id":723253129,
-    "wof:lastmodified":1472651672,
+    "wof:lastmodified":1492053742,
     "wof:name":"Yarn Theory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

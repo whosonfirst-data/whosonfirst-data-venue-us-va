@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.569046,39.11672,-77.569046,39.11672",
     "geom:latitude":39.11672,
     "geom:longitude":-77.569046,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.leesburgva.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GtUreAOaMxJSOFe0wwu6k_39.116720_-77.569046@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899485,
-    "wof:geomhash":"1d5bf188eaa2588333b4228b57bf1720",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69f6ceaa1d6c7c0ce09501fe4bd12110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723322065
+        }
+    ],
     "wof:id":723322065,
-    "wof:lastmodified":1472651854,
+    "wof:lastmodified":1492058576,
     "wof:name":"Thomas Balch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

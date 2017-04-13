@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.649408,37.44983,-77.649408,37.44983",
     "geom:latitude":37.44983,
     "geom:longitude":-77.649408,
@@ -31,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lEkhVM2nvDfuCXq1QqqBe_37.449830_-77.649408@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908174,
     "wof:geomhash":"433bfc5843b2e40e4e2f2e36f3b81cd5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739485769
+        }
+    ],
     "wof:id":739485769,
-    "wof:lastmodified":1472651657,
+    "wof:lastmodified":1492030683,
     "wof:name":"Brander Mill Shell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

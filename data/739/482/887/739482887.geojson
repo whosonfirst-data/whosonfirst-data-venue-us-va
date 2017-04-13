@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422194,38.313036,-77.422194,38.313036",
     "geom:latitude":38.313036,
     "geom:longitude":-77.422194,
@@ -31,17 +32,26 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lG7a20OjwCxoOY9H5dNfS_38.313036_-77.422194@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908123,
-    "wof:geomhash":"70852a88a0322754b8d11a77245a3138",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ecea6ef1adb85d60dde12bb4cc1012c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547187,
+            "venue_id":739482887
+        }
+    ],
     "wof:id":739482887,
-    "wof:lastmodified":1472651653,
+    "wof:lastmodified":1492044638,
     "wof:name":"Pcg Communications",
     "wof:parent_id":420547187,
     "wof:placetype":"venue",

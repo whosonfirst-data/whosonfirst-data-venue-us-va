@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556,37.495802,-77.556,37.495802",
     "geom:latitude":37.495802,
     "geom:longitude":-77.556,
@@ -32,17 +33,32 @@
         "developer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZgdVI74aOBdl121WgWlxx_37.495802_-77.556000@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899426,
-    "wof:geomhash":"3061aa895becec4df9f7c1d9af08eb5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a32771d7b33e46e959f4df42db31bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":723318603
+        }
+    ],
     "wof:id":723318603,
-    "wof:lastmodified":1472651807,
+    "wof:lastmodified":1492060175,
     "wof:name":"Elliptus Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

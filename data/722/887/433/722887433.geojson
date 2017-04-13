@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.393197,36.974021,-77.393197,36.974021",
     "geom:latitude":36.974021,
     "geom:longitude":-77.393197,
@@ -31,17 +32,30 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aupPATIApuWkYiPFtvNLg_36.974021_-77.393197@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890530,
-    "wof:geomhash":"01025efcceb698ba8385994e2a52a0eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4913abc9442e42367252b9f0e03490a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":722887433
+        }
+    ],
     "wof:id":722887433,
-    "wof:lastmodified":1472652047,
+    "wof:lastmodified":1492069736,
     "wof:name":"Hampton Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

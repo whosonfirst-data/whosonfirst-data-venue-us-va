@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.425558,37.220258,-76.425558,37.220258",
     "geom:latitude":37.220258,
     "geom:longitude":-76.425558,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41hY2FTBeTDvYe12vsUHik_37.220258_-76.425558@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892609,
-    "wof:geomhash":"cd10b0115e27f4c1386f0eb565e6b64e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"101b5229487e156f1b05b63a8941b666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086731,
+            "region_id":85688747,
+            "venue_id":722986413
+        }
+    ],
     "wof:id":722986413,
-    "wof:lastmodified":1472652348,
+    "wof:lastmodified":1492065756,
     "wof:name":"Parker Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

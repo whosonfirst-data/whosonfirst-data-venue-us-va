@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.332069,37.614147,-77.332069,37.614147",
     "geom:latitude":37.614147,
     "geom:longitude":-77.332069,
@@ -31,7 +32,13 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NMJE3p3YgZ7BWDNs2uo4C_37.614147_-77.332069@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907396,
     "wof:geomhash":"157ab0adbdbf27205baf3ca5a47a7731",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739442567
+        }
+    ],
     "wof:id":739442567,
-    "wof:lastmodified":1472651575,
+    "wof:lastmodified":1492030174,
     "wof:name":"Mas Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

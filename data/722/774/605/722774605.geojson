@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430972,38.319556,-77.430972,38.319556",
     "geom:latitude":38.319556,
     "geom:longitude":-77.430972,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65ynxC0HWXYSHJXacDToeK_38.319556_-77.430972@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888401,
-    "wof:geomhash":"1a9f50dbd8b852155bf849dc0986732a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e69ffa1824d5d9981ec5328e71c15557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":722774605
+        }
+    ],
     "wof:id":722774605,
-    "wof:lastmodified":1472651784,
+    "wof:lastmodified":1492071407,
     "wof:name":"D & B Construction Co",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

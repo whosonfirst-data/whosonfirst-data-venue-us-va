@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.005246,36.702173,-82.005246,36.702173",
     "geom:latitude":36.702173,
     "geom:longitude":-82.005246,
@@ -38,17 +39,26 @@
         "developing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Gr1xeKpgECkQBH0wFWQMo_36.702173_-82.005246@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890391,
-    "wof:geomhash":"fd8e528aa73d995630382424d9526664",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9a50545c922147986269d5489fd97f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722880163
+        }
+    ],
     "wof:id":722880163,
-    "wof:lastmodified":1472652001,
+    "wof:lastmodified":1492062748,
     "wof:name":"Seymore Snapp Shots",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.810775,37.411586,-76.810775,37.411586",
     "geom:latitude":37.411586,
     "geom:longitude":-76.810775,
@@ -32,17 +33,26 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546749
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6at2wsDaCdyLZ4WvZbdzZp_37.411586_-76.810775@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908748,
-    "wof:geomhash":"776c23cf388e9b05d036c59228cf1d61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"652a5ba7af8462cfed691e7cab52024e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546749,
+            "venue_id":739517569
+        }
+    ],
     "wof:id":739517569,
-    "wof:lastmodified":1472651787,
+    "wof:lastmodified":1492042807,
     "wof:name":"Husky Hardwood Floors",
     "wof:parent_id":420546749,
     "wof:placetype":"venue",

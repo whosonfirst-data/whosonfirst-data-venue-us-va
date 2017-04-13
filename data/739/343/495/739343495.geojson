@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.633208,37.537431,-77.633208,37.537431",
     "geom:latitude":37.537431,
     "geom:longitude":-77.633208,
@@ -31,7 +32,12 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Owak93UOIJNJOUu2ONtFk_37.537431_-77.633208@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905453,
     "wof:geomhash":"0f71d5ce3df28f9476ccfd4c6743c196",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739343495
+        }
+    ],
     "wof:id":739343495,
-    "wof:lastmodified":1472651289,
+    "wof:lastmodified":1492032165,
     "wof:name":"Anthony Proto MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

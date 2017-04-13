@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.09544,36.825435,-82.09544,36.825435",
     "geom:latitude":36.825435,
     "geom:longitude":-82.09544,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KCVsbBjzyG4B1KtLknLrw_36.825435_-82.095440@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908583,
-    "wof:geomhash":"9e28dfadc988b0387de9b48bdee5fc60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"692efba37bfaa18a8a7a3d4bf16a4ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739508425
+        }
+    ],
     "wof:id":739508425,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492039003,
     "wof:name":"Bill's Body Shop & Auto Sales",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

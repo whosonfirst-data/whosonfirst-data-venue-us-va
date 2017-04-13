@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.537096,38.286754,-77.537096,38.286754",
     "geom:latitude":38.286754,
     "geom:longitude":-77.537096,
@@ -31,7 +32,12 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hmz7jZ5oqFKbVza436prV_38.286754_-77.537096@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904748,
     "wof:geomhash":"682d3e464cf85e6f15c32f276fdae1ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739308809
+        }
+    ],
     "wof:id":739308809,
-    "wof:lastmodified":1472651239,
+    "wof:lastmodified":1492032828,
     "wof:name":"Advanced Medical Interventions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

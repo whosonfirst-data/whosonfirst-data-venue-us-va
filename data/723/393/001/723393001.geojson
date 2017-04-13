@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.821414,36.769253,-77.821414,36.769253",
     "geom:latitude":36.769253,
     "geom:longitude":-77.821414,
@@ -32,17 +33,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20BAdDJhHm2B3jUQ2NnANQ_36.769253_-77.821414@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900837,
-    "wof:geomhash":"1a37bd32366d0d4419d8519079a8b55e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f833f64a3ef5d8ebca75aa72bf8beb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":723393001
+        }
+    ],
     "wof:id":723393001,
-    "wof:lastmodified":1472652102,
+    "wof:lastmodified":1492056425,
     "wof:name":"Pinecrest Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

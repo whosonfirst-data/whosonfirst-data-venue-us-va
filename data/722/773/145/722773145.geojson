@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43705,38.281815,-77.43705,38.281815",
     "geom:latitude":38.281815,
     "geom:longitude":-77.43705,
@@ -34,17 +35,26 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BAQweZeHiGh4mSunbmDuv_38.281815_-77.437050@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888373,
-    "wof:geomhash":"46938141a65bc329161fb8684f320a0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62c118077cafb3e0dda501fc3695b683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":722773145
+        }
+    ],
     "wof:id":722773145,
-    "wof:lastmodified":1472651752,
+    "wof:lastmodified":1492062358,
     "wof:name":"Software Engineering Assoc Inc",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

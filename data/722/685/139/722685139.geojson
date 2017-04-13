@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.976821,37.266809,-79.976821,37.266809",
     "geom:latitude":37.266809,
     "geom:longitude":-79.976821,
@@ -31,17 +32,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57xQvXGqDiYQUEiQxuk8jY_37.266809_-79.976821@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886683,
-    "wof:geomhash":"64dd3e8381858dfb38908a300fd82461",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c32a21b35504ca69c894cc41fba09b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722685139
+        }
+    ],
     "wof:id":722685139,
-    "wof:lastmodified":1472651519,
+    "wof:lastmodified":1492064432,
     "wof:name":"Ferguson Appliance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

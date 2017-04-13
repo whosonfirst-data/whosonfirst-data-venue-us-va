@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.612189,37.582276,-77.612189,37.582276",
     "geom:latitude":37.582276,
     "geom:longitude":-77.612189,
@@ -31,7 +32,13 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eC0kKyT7BMT71zqbaHzGV_37.582276_-77.612189@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907909,
     "wof:geomhash":"c5ace2dc6bc19cc45f23cb4340f52a8f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739471357
+        }
+    ],
     "wof:id":739471357,
-    "wof:lastmodified":1472651605,
+    "wof:lastmodified":1492031146,
     "wof:name":"Panos M Midis Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

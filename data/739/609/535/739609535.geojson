@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.62173,38.810507,-77.62173,38.810507",
     "geom:latitude":38.810507,
     "geom:longitude":-77.62173,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V6WrvZSGSuzaaepLdh2Mb_38.810507_-77.621730@1303262496"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461910594,
     "wof:geomhash":"e8437a7d978a07d7f4d12626a1d8d68c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739609535
+        }
+    ],
     "wof:id":739609535,
-    "wof:lastmodified":1472651962,
+    "wof:lastmodified":1492032680,
     "wof:name":"Engle Homes Va Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

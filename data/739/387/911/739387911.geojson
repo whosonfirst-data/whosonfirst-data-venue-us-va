@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.165679,39.18366,-78.165679,39.18366",
     "geom:latitude":39.18366,
     "geom:longitude":-78.165679,
@@ -28,7 +29,13 @@
     "sg:postcode":"22601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B14geEcRGHWe4V1WJNlWM_39.183660_-78.165679@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906356,
     "wof:geomhash":"11bd52367a7ec0b14b65b3d1e5cca145",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739387911
+        }
+    ],
     "wof:id":739387911,
-    "wof:lastmodified":1472651387,
+    "wof:lastmodified":1492033146,
     "wof:name":"Cookie Pop Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

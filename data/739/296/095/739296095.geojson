@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.595533,38.759877,-77.595533,38.759877",
     "geom:latitude":38.759877,
     "geom:longitude":-77.595533,
@@ -31,7 +32,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11zNthIZBR6kTcpVvz0FBv_38.759877_-77.595533@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904484,
     "wof:geomhash":"d5c3ac3d802d85493ae517ac9dd7f391",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739296095
+        }
+    ],
     "wof:id":739296095,
-    "wof:lastmodified":1472651192,
+    "wof:lastmodified":1492029514,
     "wof:name":"Jenkins & Jenkins LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48226,37.47009,-77.48226,37.47009",
     "geom:latitude":37.47009,
     "geom:longitude":-77.48226,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.wingstop.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q5cFOXEOTcSCWFuF645Yp_37.470090_-77.482260@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913058,
-    "wof:geomhash":"7e243ea2dd8885d8668c452b17a0cacb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f58230240abcf63448f308458faa3caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739723205
+        }
+    ],
     "wof:id":739723205,
-    "wof:lastmodified":1472652222,
+    "wof:lastmodified":1492041570,
     "wof:name":"Wingstop Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

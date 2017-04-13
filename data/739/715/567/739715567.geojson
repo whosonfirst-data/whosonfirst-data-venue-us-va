@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.386125,37.542659,-77.386125,37.542659",
     "geom:latitude":37.542659,
     "geom:longitude":-77.386125,
@@ -46,7 +47,12 @@
     ],
     "sg:website":"http://www.ifco-us.com/america/na/en/biz_pallet/index.php",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zufwzBxLnHn9UAmcd9pT6_37.542659_-77.386125@1303262549"
@@ -54,9 +60,17 @@
     "wof:country":"US",
     "wof:created":1461912901,
     "wof:geomhash":"cbca956ead3f2bfc5785fa3b80419cb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739715567
+        }
+    ],
     "wof:id":739715567,
-    "wof:lastmodified":1472652210,
+    "wof:lastmodified":1492031460,
     "wof:name":"IFCO SYSTEMS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

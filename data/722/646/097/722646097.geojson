@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.551777,39.120524,-77.551777,39.120524",
     "geom:latitude":39.120524,
     "geom:longitude":-77.551777,
@@ -28,17 +29,32 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KNBAZtDNMrIMTtqHRzdES_39.120524_-77.551777@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885945,
-    "wof:geomhash":"57597a90be874d19778e46380285dc73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc1249a4424ef80abfa6a8a81bb7f8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722646097
+        }
+    ],
     "wof:id":722646097,
-    "wof:lastmodified":1472651441,
+    "wof:lastmodified":1492071689,
     "wof:name":"Rust Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

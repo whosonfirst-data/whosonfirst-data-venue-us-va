@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.355133,38.772103,-77.355133,38.772103",
     "geom:latitude":38.772103,
     "geom:longitude":-77.355133,
@@ -32,17 +33,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729811,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wFSTK85b3dqxxby3do2LL_38.772103_-77.355133@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898507,
-    "wof:geomhash":"8fe1d9d84e5016e7e402b189a8369cd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a855943937388d6b0082d0bb12f72ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729811,
+            "region_id":85688747,
+            "venue_id":723270115
+        }
+    ],
     "wof:id":723270115,
-    "wof:lastmodified":1472651753,
+    "wof:lastmodified":1492054481,
     "wof:name":"Turner Va Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

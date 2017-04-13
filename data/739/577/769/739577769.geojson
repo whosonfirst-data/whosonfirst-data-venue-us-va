@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458013,39.061605,-77.458013,39.061605",
     "geom:latitude":39.061605,
     "geom:longitude":-77.458013,
@@ -29,7 +30,12 @@
     "sg:postcode":"20147",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rXpOZfRjNEM0yVuJR9z2r_39.061605_-77.458013@1299784598"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461909958,
     "wof:geomhash":"925c9b2bf83a1078d4a230e4d2a47045",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739577769
+        }
+    ],
     "wof:id":739577769,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492033234,
     "wof:name":"Windy City Red Hots",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

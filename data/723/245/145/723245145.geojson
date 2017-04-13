@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506706,39.037617,-77.506706,39.037617",
     "geom:latitude":39.037617,
     "geom:longitude":-77.506706,
@@ -31,17 +32,32 @@
         "chemical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LqaS08Jb3T9Eiew6VSNqY_39.037617_-77.506706@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898027,
-    "wof:geomhash":"396264d6876b073e9dbcfef26fb465db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bbbdb25083cef59a226892a95a2ecb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723245145
+        }
+    ],
     "wof:id":723245145,
-    "wof:lastmodified":1472651666,
+    "wof:lastmodified":1492052928,
     "wof:name":"Chemical Compliance Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

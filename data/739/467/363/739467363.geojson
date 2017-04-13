@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.525753,37.334963,-79.525753,37.334963",
     "geom:latitude":37.334963,
     "geom:longitude":-79.525753,
@@ -31,7 +32,13 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_473735soEIbOgT9dWoe5oW_37.334963_-79.525753@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907842,
     "wof:geomhash":"73b8aecb6d75b87bcdd375826929a7f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739467363
+        }
+    ],
     "wof:id":739467363,
-    "wof:lastmodified":1472651611,
+    "wof:lastmodified":1492030510,
     "wof:name":"Hamilton's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

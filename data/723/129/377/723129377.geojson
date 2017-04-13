@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.178017,38.876106,-77.178017,38.876106",
     "geom:latitude":38.876106,
     "geom:longitude":-77.178017,
@@ -31,17 +32,32 @@
         "messenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729757,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17IcNSLMigvlfJPt93hDfD_38.876106_-77.178017@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895687,
-    "wof:geomhash":"f2bdb897decdca38573667a1d9fe3aa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e8e61af46df77073d18dd9dea4cd966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "region_id":85688747,
+            "venue_id":723129377
+        }
+    ],
     "wof:id":723129377,
-    "wof:lastmodified":1472651383,
+    "wof:lastmodified":1492057772,
     "wof:name":"Intrepid Messenger Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

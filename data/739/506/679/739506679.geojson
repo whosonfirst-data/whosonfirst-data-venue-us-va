@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.617783,36.983301,-79.617783,36.983301",
     "geom:latitude":36.983301,
     "geom:longitude":-79.617783,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729707,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HH0P3wx1hzmQ00XyC5Rhx_36.983301_-79.617783@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908547,
     "wof:geomhash":"200d26603f7702e3affe1c3475f4ad1a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729707,
+            "region_id":85688747,
+            "venue_id":739506679
+        }
+    ],
     "wof:id":739506679,
-    "wof:lastmodified":1472651820,
+    "wof:lastmodified":1492032878,
     "wof:name":"Willow Tree Nursery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.662205,37.42626,-77.662205,37.42626",
     "geom:latitude":37.42626,
     "geom:longitude":-77.662205,
@@ -31,7 +32,13 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fw0HvnRskgqLZPylyiMqa_37.426260_-77.662205@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908482,
     "wof:geomhash":"95bc467e50d8ab453dd75169b90d265e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739502969
+        }
+    ],
     "wof:id":739502969,
-    "wof:lastmodified":1472651715,
+    "wof:lastmodified":1492029585,
     "wof:name":"Paroicous Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

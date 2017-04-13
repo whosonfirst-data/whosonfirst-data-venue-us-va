@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.520034,36.961337,-76.520034,36.961337",
     "geom:latitude":36.961337,
     "geom:longitude":-76.520034,
@@ -34,17 +35,30 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VrgQElxsk1z2ALpK5j9PC_36.961337_-76.520034@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903807,
-    "wof:geomhash":"7a73912dc58191a7b114d9cddc97b5ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a47cd7357e7e326c2da37616afbd649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739264655
+        }
+    ],
     "wof:id":739264655,
-    "wof:lastmodified":1472651117,
+    "wof:lastmodified":1492043453,
     "wof:name":"Racetrac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

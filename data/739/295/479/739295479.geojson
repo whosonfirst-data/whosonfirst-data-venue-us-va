@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.332773,38.342068,-77.332773,38.342068",
     "geom:latitude":38.342068,
     "geom:longitude":-77.332773,
@@ -37,17 +38,26 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DN2ceEEH9EvRlHDg5Jrl5_38.342068_-77.332773@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904473,
-    "wof:geomhash":"fbb1ab5e73ad78534136d9bb20f411e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ade9328facd00b248d359af6d479348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":739295479
+        }
+    ],
     "wof:id":739295479,
-    "wof:lastmodified":1472651207,
+    "wof:lastmodified":1492042358,
     "wof:name":"Algae Corporation",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

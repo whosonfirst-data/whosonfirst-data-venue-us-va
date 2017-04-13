@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764333,37.257675,-76.764333,37.257675",
     "geom:latitude":37.257675,
     "geom:longitude":-76.764333,
@@ -31,19 +32,38 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894085,
+        102085967,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i0i5gMFTlWsnoL87o2o9i_37.257675_-76.764333@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900911,
-    "wof:geomhash":"98d009884732f401248a8d9886e4246c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff6558095c7312cc0dcebde3d0807a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085967,
+            "neighbourhood_id":85894085,
+            "region_id":85688747,
+            "venue_id":723396833
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":723396833
+        }
+    ],
     "wof:id":723396833,
-    "wof:lastmodified":1472652140,
+    "wof:lastmodified":1492057547,
     "wof:name":"Ascension Of Our Lord Byzan Ch",
-    "wof:parent_id":420546805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.505539,38.772474,-77.505539,38.772474",
     "geom:latitude":38.772474,
     "geom:longitude":-77.505539,
@@ -33,7 +34,13 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WlNPcEnjm2nPAKJmNbUZK_38.772474_-77.505539@1299784598"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909948,
     "wof:geomhash":"a37d8c03894445a45f35ad2453d9d0fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739577325
+        }
+    ],
     "wof:id":739577325,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492033242,
     "wof:name":"Mrs. Fields",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

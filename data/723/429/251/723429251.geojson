@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.345154,37.50233,-77.345154,37.50233",
     "geom:latitude":37.50233,
     "geom:longitude":-77.345154,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HClHHiaAztwOWmkgpMLSE_37.502330_-77.345154@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901555,
-    "wof:geomhash":"d75b6b1dcebce789cd45d06dc999403c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b6da46abce7fd6289b5165d41e2bdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":723429251
+        }
+    ],
     "wof:id":723429251,
-    "wof:lastmodified":1472652232,
+    "wof:lastmodified":1492060506,
     "wof:name":"Gearbox Transmissions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

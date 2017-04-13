@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.444622,38.747993,-77.444622,38.747993",
     "geom:latitude":38.747993,
     "geom:longitude":-77.444622,
@@ -32,17 +33,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u4G9LUqib0A2ZU59XKWaE_38.747993_-77.444622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901170,
-    "wof:geomhash":"0ff8c86bfd2ab2d49f8bb4ae90a3b9fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b81b9d35b95ec1bad23bd262f5dcf658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":723409955
+        }
+    ],
     "wof:id":723409955,
-    "wof:lastmodified":1472652204,
+    "wof:lastmodified":1492058895,
     "wof:name":"E Server Center LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

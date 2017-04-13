@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.345353,37.50202,-77.345353,37.50202",
     "geom:latitude":37.50202,
     "geom:longitude":-77.345353,
@@ -39,17 +40,32 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mQ7FsOTGx8U1GkpXin7NA_37.502020_-77.345353@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895609,
-    "wof:geomhash":"d0c114637df2e6e3a4aafd40238d8789",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1845f4309a9bac7f450944157c4d731b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":723125311
+        }
+    ],
     "wof:id":723125311,
-    "wof:lastmodified":1472651379,
+    "wof:lastmodified":1492060619,
     "wof:name":"Forward Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

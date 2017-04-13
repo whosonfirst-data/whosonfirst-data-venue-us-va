@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365519,39.02817,-77.365519,39.02817",
     "geom:latitude":39.02817,
     "geom:longitude":-77.365519,
@@ -34,17 +35,32 @@
         "organization"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fJzLyUuMJYffgU5jxvSpv_39.028170_-77.365519@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892842,
-    "wof:geomhash":"3139bd1bf9a97422f50ff93eb897be50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8370c4ad9283ae33b315c53e62e1ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":722997551
+        }
+    ],
     "wof:id":722997551,
-    "wof:lastmodified":1472652362,
+    "wof:lastmodified":1492071075,
     "wof:name":"Hands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

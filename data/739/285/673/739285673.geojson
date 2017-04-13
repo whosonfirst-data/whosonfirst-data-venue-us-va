@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.502012,36.917151,-80.502012,36.917151",
     "geom:latitude":36.917151,
     "geom:longitude":-80.502012,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JdJtCi8htnaumlTEzhgsG_36.917151_-80.502012@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904269,
     "wof:geomhash":"0f5ad9cc30d6b6da6f784018192189be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739285673
+        }
+    ],
     "wof:id":739285673,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492029728,
     "wof:name":"Ridgeway Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

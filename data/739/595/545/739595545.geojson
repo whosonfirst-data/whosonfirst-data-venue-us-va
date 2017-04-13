@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.504473,37.347961,-79.504473,37.347961",
     "geom:latitude":37.347961,
     "geom:longitude":-79.504473,
@@ -32,17 +33,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tarEbyPaJYOGMnSQJhjaC_37.347961_-79.504473@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910305,
-    "wof:geomhash":"aeeb65f06b5082745e7c95d8301a07cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"287c37515dde67011ac98f30619113ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739595545
+        }
+    ],
     "wof:id":739595545,
-    "wof:lastmodified":1472651950,
+    "wof:lastmodified":1492042098,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

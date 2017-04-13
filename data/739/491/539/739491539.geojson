@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.105975,36.732922,-79.105975,36.732922",
     "geom:latitude":36.732922,
     "geom:longitude":-79.105975,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60AXn9aoHkeQKDcYxtTZUS_36.732922_-79.105975@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908279,
-    "wof:geomhash":"583a59124cdbca0c427ad7719daefe4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4a86d57ecf378794a400259359d44d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739491539
+        }
+    ],
     "wof:id":739491539,
-    "wof:lastmodified":1472651691,
+    "wof:lastmodified":1492046228,
     "wof:name":"Wesley Chapel CME Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

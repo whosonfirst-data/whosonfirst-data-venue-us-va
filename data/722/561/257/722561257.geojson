@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.051092,36.690093,-82.051092,36.690093",
     "geom:latitude":36.690093,
     "geom:longitude":-82.051092,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FLutDkY9DjTFVTZmt9RuL_36.690093_-82.051092@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884234,
-    "wof:geomhash":"de944d277a985d2a851aaa4191b7bea0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb9f4426407a8bf374928512428fd40f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722561257
+        }
+    ],
     "wof:id":722561257,
-    "wof:lastmodified":1472651105,
+    "wof:lastmodified":1492073581,
     "wof:name":"JDC Construction",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

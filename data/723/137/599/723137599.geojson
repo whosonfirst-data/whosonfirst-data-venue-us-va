@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.384201,38.402801,-77.384201,38.402801",
     "geom:latitude":38.402801,
     "geom:longitude":-77.384201,
@@ -32,17 +33,26 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65yfP9xft0o3iaIFvuGDY7_38.402801_-77.384201@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895853,
-    "wof:geomhash":"0298ef3e3428334818682041d192fa46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22091ac715347295790927fd7fbd0e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":723137599
+        }
+    ],
     "wof:id":723137599,
-    "wof:lastmodified":1472651412,
+    "wof:lastmodified":1492052465,
     "wof:name":"Marine Corps United States",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.032793,37.284072,-80.032793,37.284072",
     "geom:latitude":37.284072,
     "geom:longitude":-80.032793,
@@ -31,17 +32,32 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_453i2Q3Uoc94uRe4Kp71m9_37.284072_-80.032793@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901709,
-    "wof:geomhash":"39c41bd81d546868a0fe2e7402651b4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aade62d79396d43ec1883e48f0a481d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723437907
+        }
+    ],
     "wof:id":723437907,
-    "wof:lastmodified":1472652268,
+    "wof:lastmodified":1492058982,
     "wof:name":"Medical Recovery Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

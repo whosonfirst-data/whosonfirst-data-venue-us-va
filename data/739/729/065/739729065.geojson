@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.610497,36.9744,-76.610497,36.9744",
     "geom:latitude":36.9744,
     "geom:longitude":-76.610497,
@@ -31,7 +32,13 @@
         "self"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cR5M2mkIeo56UGel25MUn_36.974400_-76.610497@1303262551"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461913172,
     "wof:geomhash":"a9fda687268c244e7fe820b79e0110e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739729065
+        }
+    ],
     "wof:id":739729065,
-    "wof:lastmodified":1472652216,
+    "wof:lastmodified":1492031645,
     "wof:name":"Smithfield Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

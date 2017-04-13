@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.515971,38.110731,-78.515971,38.110731",
     "geom:latitude":38.110731,
     "geom:longitude":-78.515971,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"http://www.germanmassagetherapy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N8l0QeM51QyapwjV4lAGB_38.110817_-78.516004@1293134755"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461909675,
     "wof:geomhash":"80f48a9cde13727a33b208ffcd1c09d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739565627
+        }
+    ],
     "wof:id":739565627,
-    "wof:lastmodified":1472651894,
+    "wof:lastmodified":1492032766,
     "wof:name":"German Massage Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

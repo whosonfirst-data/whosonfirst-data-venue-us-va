@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.345897,39.191612,-78.345897,39.191612",
     "geom:latitude":39.191612,
     "geom:longitude":-78.345897,
@@ -34,7 +35,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729111,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48EnP7oMrQovByNYM6h0ja_39.191612_-78.345897@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461908060,
     "wof:geomhash":"3b7dc547007ff42bf47e06d5917b97b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "locality_id":101729111,
+            "region_id":85688747,
+            "venue_id":739479351
+        }
+    ],
     "wof:id":739479351,
-    "wof:lastmodified":1472651628,
+    "wof:lastmodified":1492030592,
     "wof:name":"H & H Performance Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

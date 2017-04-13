@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.735262,38.968473,-77.735262,38.968473",
     "geom:latitude":38.968473,
     "geom:longitude":-77.735262,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728817,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14m3Clz0Yb3FcbWR5KZ1tc_38.968473_-77.735262@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891932,
-    "wof:geomhash":"d8fd383c652f8a9d6d0ee2dd88905022",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c149cbbff1c0b6ec82f7f129e99afd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728817,
+            "region_id":85688747,
+            "venue_id":722955365
+        }
+    ],
     "wof:id":722955365,
-    "wof:lastmodified":1472652265,
+    "wof:lastmodified":1492067715,
     "wof:name":"Middleburg Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

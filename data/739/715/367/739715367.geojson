@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.413544,37.58463,-77.413544,37.58463",
     "geom:latitude":37.58463,
     "geom:longitude":-77.413544,
@@ -42,7 +43,12 @@
     ],
     "sg:website":"http://www.dominionwaterproofing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cpXfmav9WLxSwf9SEQ5PQ_37.584630_-77.413544@1303262549"
@@ -50,9 +56,17 @@
     "wof:country":"US",
     "wof:created":1461912898,
     "wof:geomhash":"4c043e1e7bb17cfa97493f796a299ec3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739715367
+        }
+    ],
     "wof:id":739715367,
-    "wof:lastmodified":1472652209,
+    "wof:lastmodified":1492031448,
     "wof:name":"Dominion Waterproofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

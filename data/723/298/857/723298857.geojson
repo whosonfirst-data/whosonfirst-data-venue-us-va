@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.90725,38.011906,-77.90725,38.011906",
     "geom:latitude":38.011906,
     "geom:longitude":-77.90725,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728951,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uQTBQkExU9aVe05fi2ON3_38.011906_-77.907250@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899042,
-    "wof:geomhash":"e455f4386e0190da5b5d983afb1f0067",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17ff847cd8f62652d3d69c2d8b834dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "locality_id":101728951,
+            "region_id":85688747,
+            "venue_id":723298857
+        }
+    ],
     "wof:id":723298857,
-    "wof:lastmodified":1472651836,
+    "wof:lastmodified":1492060795,
     "wof:name":"Church Of The Incarnation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

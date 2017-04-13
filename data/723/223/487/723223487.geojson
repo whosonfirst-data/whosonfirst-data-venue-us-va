@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.037588,36.682257,-82.037588,36.682257",
     "geom:latitude":36.682257,
     "geom:longitude":-82.037588,
@@ -32,17 +33,26 @@
         "airline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r9VDfmJTOrARuSFa9eBOD_36.682257_-82.037588@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897566,
-    "wof:geomhash":"bbc3ace19b1a5be40bcc4db9206af3ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c775c0d3582624b18f29420254dd476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723223487
+        }
+    ],
     "wof:id":723223487,
-    "wof:lastmodified":1472651639,
+    "wof:lastmodified":1492060317,
     "wof:name":"Food City WL Aviation",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

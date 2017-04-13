@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.060783,36.894748,-76.060783,36.894748",
     "geom:latitude":36.894748,
     "geom:longitude":-76.060783,
@@ -37,7 +38,8 @@
         85633793,
         101728745,
         102081929,
-        85819889
+        85819889,
+        85831791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902546,
-    "wof:geomhash":"a9799031e34f99f084d4e2229e636c77",
+    "wof:geomhash":"437838eea2af62e63082def919377ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85819889,
             "region_id":85688747,
             "venue_id":723480279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85831791,
+            "region_id":85688747,
+            "venue_id":723480279
         }
     ],
     "wof:id":723480279,
-    "wof:lastmodified":1472652322,
+    "wof:lastmodified":1492061177,
     "wof:name":"Mid Atlantic Promotional",
-    "wof:parent_id":85819889,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

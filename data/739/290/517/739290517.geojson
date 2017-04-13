@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.337654,38.318147,-77.337654,38.318147",
     "geom:latitude":38.318147,
     "geom:longitude":-77.337654,
@@ -31,7 +32,10 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aL7z7r1UPv3xxCMYm5GxF_38.318147_-77.337654@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904379,
     "wof:geomhash":"68215f74295938d70547a3d6ee17d56b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":739290517
+        }
+    ],
     "wof:id":739290517,
-    "wof:lastmodified":1472651189,
+    "wof:lastmodified":1492032805,
     "wof:name":"Kenneth E Lamb Tree-Landscape",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.770941,38.348085,-77.770941,38.348085",
     "geom:latitude":38.348085,
     "geom:longitude":-77.770941,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729697,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g45ev9fmgfCo5v1fU0nba_38.348085_-77.770941@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905142,
-    "wof:geomhash":"29e5651b688d45cf574390b301ff01b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"240ab065f7a62167996a519f23d5aa38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "locality_id":101729697,
+            "region_id":85688747,
+            "venue_id":739328251
+        }
+    ],
     "wof:id":739328251,
-    "wof:lastmodified":1472651253,
+    "wof:lastmodified":1492040915,
     "wof:name":"Building Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.876189,36.860553,-76.876189,36.860553",
     "geom:latitude":36.860553,
     "geom:longitude":-76.876189,
@@ -28,7 +29,12 @@
     "sg:postcode":"23898",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QoBZwmR6dQna8yXuEBic6_36.860553_-76.876189@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907570,
     "wof:geomhash":"56de09356bad6dd9d19c4d848e0be967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":739451545
+        }
+    ],
     "wof:id":739451545,
-    "wof:lastmodified":1472651588,
+    "wof:lastmodified":1492031163,
     "wof:name":"Walnut Ridge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609413,38.478545,-77.609413,38.478545",
     "geom:latitude":38.478545,
     "geom:longitude":-77.609413,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KpRH4c9wL7tijhJBh3r3x_38.478545_-77.609413@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889078,
-    "wof:geomhash":"2c4fa752c79f8c59aa88eface88c60db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a804b630f51d8998437da08721530c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":722810649
+        }
+    ],
     "wof:id":722810649,
-    "wof:lastmodified":1472651874,
+    "wof:lastmodified":1492074988,
     "wof:name":"Any & Everything Plumbing",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

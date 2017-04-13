@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644979,38.751622,-77.644979,38.751622",
     "geom:latitude":38.751622,
     "geom:longitude":-77.644979,
@@ -32,17 +33,30 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zwSdi0CO0b7z4kEpsgRyD_38.751622_-77.644979@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909044,
-    "wof:geomhash":"40947590aa2f2a7ff9fb8051940a8ce1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d7acf269e993045c1c80f8a81e36d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739533961
+        }
+    ],
     "wof:id":739533961,
-    "wof:lastmodified":1472651850,
+    "wof:lastmodified":1492038552,
     "wof:name":"By Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

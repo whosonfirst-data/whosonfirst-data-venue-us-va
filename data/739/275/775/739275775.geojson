@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422259,38.764551,-77.422259,38.764551",
     "geom:latitude":38.764551,
     "geom:longitude":-77.422259,
@@ -31,7 +32,13 @@
         "technical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S4gaTULHP3q3XAP8JPClw_38.764551_-77.422259@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904055,
     "wof:geomhash":"cb9016b7b64c8ed5ae3a49e088fedd8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739275775
+        }
+    ],
     "wof:id":739275775,
-    "wof:lastmodified":1472651173,
+    "wof:lastmodified":1492031052,
     "wof:name":"Pangaea Group HCC  The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

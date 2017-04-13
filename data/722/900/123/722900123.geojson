@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.29653,36.845954,-81.29653,36.845954",
     "geom:latitude":36.845954,
     "geom:longitude":-81.29653,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SHNEW57SoO82klzJkYk4e_36.845954_-81.296530@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890792,
-    "wof:geomhash":"9c43ebad3fe52e611d2cca9b0bc90e32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b20124959aa46512fd9b46e99a8be77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722900123
+        }
+    ],
     "wof:id":722900123,
-    "wof:lastmodified":1472652057,
+    "wof:lastmodified":1492068840,
     "wof:name":"Ray Stowers Construction",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.210049,36.841507,-76.210049,36.841507",
     "geom:latitude":36.841507,
     "geom:longitude":-76.210049,
@@ -31,7 +32,13 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BON11iIqD92HbE06CC0Te_36.841507_-76.210049@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909126,
     "wof:geomhash":"11ea7423577ca89b893e132212d5733f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739538357
+        }
+    ],
     "wof:id":739538357,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492029887,
     "wof:name":"Mint Conditioning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

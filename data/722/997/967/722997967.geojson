@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.225377,36.85519,-76.225377,36.85519",
     "geom:latitude":36.85519,
     "geom:longitude":-76.225377,
@@ -38,7 +39,8 @@
         85633793,
         101728769,
         102085935,
-        85853589
+        85853589,
+        420548145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461892857,
-    "wof:geomhash":"e5c7f9fb921ed9b75b4388a7142a4e99",
+    "wof:geomhash":"f3c17f52d76c495b6eca1b8254faf89e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85853589,
             "region_id":85688747,
             "venue_id":722997967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420548145,
+            "region_id":85688747,
+            "venue_id":722997967
         }
     ],
     "wof:id":722997967,
-    "wof:lastmodified":1472652367,
+    "wof:lastmodified":1492071061,
     "wof:name":"Safety Management Inc",
-    "wof:parent_id":85853589,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

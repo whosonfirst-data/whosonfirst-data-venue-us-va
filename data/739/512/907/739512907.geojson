@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.601065,37.501168,-77.601065,37.501168",
     "geom:latitude":37.501168,
     "geom:longitude":-77.601065,
@@ -35,7 +36,12 @@
     ],
     "sg:website":"www.allpontiac.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jeonFUw1eCeLGfhVlkDR7_37.501168_-77.601065@1294252573"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461908662,
     "wof:geomhash":"d7951b61f75c16308f62725a9b7ba203",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739512907
+        }
+    ],
     "wof:id":739512907,
-    "wof:lastmodified":1472651847,
+    "wof:lastmodified":1492031353,
     "wof:name":"ALLPONTIAC.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

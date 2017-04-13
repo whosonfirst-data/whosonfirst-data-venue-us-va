@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.388773,39.048557,-77.388773,39.048557",
     "geom:latitude":39.048557,
     "geom:longitude":-77.388773,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C5cBvVT1vfIPemvUxrJzh_39.048557_-77.388773@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889660,
-    "wof:geomhash":"832737315bf22c6fd563461bda294138",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2488da2d3483e2917e97f126138ced6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":722841653
+        }
+    ],
     "wof:id":722841653,
-    "wof:lastmodified":1472651968,
+    "wof:lastmodified":1492068799,
     "wof:name":"Internext Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

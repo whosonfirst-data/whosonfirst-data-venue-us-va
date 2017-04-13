@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.667612,37.44082,-77.667612,37.44082",
     "geom:latitude":37.44082,
     "geom:longitude":-77.667612,
@@ -33,17 +34,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sZj69WdqBj2hd3zkj853y_37.440820_-77.667612@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905977,
-    "wof:geomhash":"61896367ef18a620e00f3b1f6a3e2965",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c24e1cf43f08e79308ff88c3e80c5286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739368931
+        }
+    ],
     "wof:id":739368931,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492041992,
     "wof:name":"Health Care & Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

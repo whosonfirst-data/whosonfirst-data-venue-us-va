@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.968852,37.242284,-79.968852,37.242284",
     "geom:latitude":37.242284,
     "geom:longitude":-79.968852,
@@ -28,7 +29,13 @@
     "sg:postcode":"24014",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75pzPP34DXAgJF2l3yldlQ_37.242284_-79.968852@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904020,
     "wof:geomhash":"5697261b8343db5d6377de7305441c80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739274503
+        }
+    ],
     "wof:id":739274503,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492029559,
     "wof:name":"Long Term Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

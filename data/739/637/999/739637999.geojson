@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371831,38.522635,-77.371831,38.522635",
     "geom:latitude":38.522635,
     "geom:longitude":-77.371831,
@@ -31,19 +32,28 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jw1bpMbrp0gCER0AvcGLe_38.522635_-77.371831@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911219,
-    "wof:geomhash":"94c3262804f0e519ae628b1168926e1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad46e9c5afeaa3dc2cfd5053ba3d07ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739637999
+        }
+    ],
     "wof:id":739637999,
-    "wof:lastmodified":1472652029,
+    "wof:lastmodified":1492042740,
     "wof:name":"National Cemetary Administration",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

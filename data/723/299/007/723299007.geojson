@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.201788,38.775943,-77.201788,38.775943",
     "geom:latitude":38.775943,
     "geom:longitude":-77.201788,
@@ -34,7 +35,11 @@
         85633793,
         101729791,
         102084863,
-        420546725
+        85894025,
+        85835021,
+        420546725,
+        101729795,
+        420546659
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +47,26 @@
     },
     "wof:country":"US",
     "wof:created":1461899044,
-    "wof:geomhash":"9fe377340b81cf550e2d58e565e5114c",
+    "wof:geomhash":"c9d3e2c8f418913d4a3763505b0834ba",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729791,
+            "neighbourhood_id":85894025,
+            "region_id":85688747,
+            "venue_id":723299007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729791,
+            "neighbourhood_id":85835021,
+            "region_id":85688747,
+            "venue_id":723299007
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -52,12 +75,21 @@
             "neighbourhood_id":420546725,
             "region_id":85688747,
             "venue_id":723299007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729795,
+            "neighbourhood_id":420546659,
+            "region_id":85688747,
+            "venue_id":723299007
         }
     ],
     "wof:id":723299007,
-    "wof:lastmodified":1472651718,
+    "wof:lastmodified":1492051033,
     "wof:name":"Ey Man Enterprises LLC",
-    "wof:parent_id":420546725,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

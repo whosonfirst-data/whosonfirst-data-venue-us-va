@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.289501,36.868497,-76.289501,36.868497",
     "geom:latitude":36.868497,
     "geom:longitude":-76.289501,
@@ -31,7 +32,13 @@
         "manicuring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gz4kw85XLjissqXDWIEmC_36.868497_-76.289501@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908173,
     "wof:geomhash":"6be32383a32d12646da558efb4d4a229",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739485667
+        }
+    ],
     "wof:id":739485667,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492030701,
     "wof:name":"Serenity Spa & Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

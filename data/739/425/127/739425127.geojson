@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.151161,39.190363,-78.151161,39.190363",
     "geom:latitude":39.190363,
     "geom:longitude":-78.151161,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78vUJBdGs5U8lEfpuVB837_39.190363_-78.151161@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907074,
-    "wof:geomhash":"71867533d0a021f2dc8adb16c3f90cae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31255cd2026f2e39a551325397ba893c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739425127
+        }
+    ],
     "wof:id":739425127,
-    "wof:lastmodified":1472651507,
+    "wof:lastmodified":1492040441,
     "wof:name":"Friendship Fire Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

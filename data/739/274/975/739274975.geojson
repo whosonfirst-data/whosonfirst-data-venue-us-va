@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204002,38.729195,-77.204002,38.729195",
     "geom:latitude":38.729195,
     "geom:longitude":-77.204002,
@@ -32,7 +33,13 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e7LBxKNbwKfZpvCSWOsDa_38.729195_-77.204002@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904032,
     "wof:geomhash":"5356a8880eab3e368a73c94a9e7c3539",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739274975
+        }
+    ],
     "wof:id":739274975,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492029574,
     "wof:name":"Csci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

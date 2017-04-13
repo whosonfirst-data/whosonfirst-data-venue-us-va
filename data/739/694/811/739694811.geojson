@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371843,38.507586,-77.371843,38.507586",
     "geom:latitude":38.507586,
     "geom:longitude":-77.371843,
@@ -34,7 +35,10 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BPrWC9CuQGS5upZDgDuSB_38.507586_-77.371843@1303262547"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461912435,
     "wof:geomhash":"2e81a4c8dd707a1e5d3e3cc139403201",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739694811
+        }
+    ],
     "wof:id":739694811,
-    "wof:lastmodified":1472652196,
+    "wof:lastmodified":1492030240,
     "wof:name":"Boswells Motor Co",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

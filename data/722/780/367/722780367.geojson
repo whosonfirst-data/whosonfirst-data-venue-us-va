@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.498723,38.804194,-77.498723,38.804194",
     "geom:latitude":38.804194,
     "geom:longitude":-77.498723,
@@ -31,17 +32,30 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08FKlDOgPhs2cg1eKitNJk_38.804194_-77.498723@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888506,
-    "wof:geomhash":"2e54682869a9bb2f08c3b103ed55d42c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36cf7e483da5d7ff7a2a337e98bf6cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722780367
+        }
+    ],
     "wof:id":722780367,
-    "wof:lastmodified":1472651772,
+    "wof:lastmodified":1492065504,
     "wof:name":"EMI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

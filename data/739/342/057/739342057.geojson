@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.474646,38.391578,-77.474646,38.391578",
     "geom:latitude":38.391578,
     "geom:longitude":-77.474646,
@@ -33,17 +34,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31LSCOAjwGyBBEpMBHzMdK_38.391578_-77.474646@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905425,
-    "wof:geomhash":"acb6df04db4a9a7d87668e92ab0562f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1200774db491e3ebb5a52f228427faf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":739342057
+        }
+    ],
     "wof:id":739342057,
-    "wof:lastmodified":1472651265,
+    "wof:lastmodified":1492046942,
     "wof:name":"Bryant's Garage",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

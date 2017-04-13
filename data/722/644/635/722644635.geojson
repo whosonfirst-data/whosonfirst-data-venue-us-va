@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.432237,38.309524,-78.432237,38.309524",
     "geom:latitude":38.309524,
     "geom:longitude":-78.432237,
@@ -33,17 +34,30 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33D9p1siLS5ZoXLXpF6Gin_38.309524_-78.432237@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885921,
-    "wof:geomhash":"9481912ac10eb64df760f8bb11d1b56a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd2c884cb3623280a657ae11947a934d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":722644635
+        }
+    ],
     "wof:id":722644635,
-    "wof:lastmodified":1472651460,
+    "wof:lastmodified":1492064984,
     "wof:name":"Charlottesville Security Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

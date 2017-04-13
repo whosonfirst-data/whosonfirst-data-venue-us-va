@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.913545,37.40621,-79.913545,37.40621",
     "geom:latitude":37.40621,
     "geom:longitude":-79.913545,
@@ -28,17 +29,32 @@
     "sg:postcode":"24083",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1msUY1ALlWkyNpzFL5ANrV_37.406210_-79.913545@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902006,
-    "wof:geomhash":"1348eb230b343297c2ec9c1f276632bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccb5350684f845d402dc6ffdb4bb72d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":723453799
+        }
+    ],
     "wof:id":723453799,
-    "wof:lastmodified":1472652314,
+    "wof:lastmodified":1492048587,
     "wof:name":"Usps Nissc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

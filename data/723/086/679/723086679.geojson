@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346644,38.254674,-77.346644,38.254674",
     "geom:latitude":38.254674,
     "geom:longitude":-77.346644,
@@ -31,19 +32,28 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nze9AWDPaGpijvY6kazMf_38.254674_-77.346644@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894845,
-    "wof:geomhash":"4858a3e9857aad62713cfdeeaefc1960",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7879178aad43d4ec69b3b16a8196f06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546943,
+            "venue_id":723086679
+        }
+    ],
     "wof:id":723086679,
-    "wof:lastmodified":1472651287,
+    "wof:lastmodified":1492057263,
     "wof:name":"Ampersand Investment Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

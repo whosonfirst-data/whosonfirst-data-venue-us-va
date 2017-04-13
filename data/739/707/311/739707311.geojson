@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.4496,38.033501,-78.4496,38.033501",
     "geom:latitude":38.033501,
     "geom:longitude":-78.4496,
@@ -44,17 +45,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729625,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cN2mCFmTVpHmiHVL3STDr_38.033501_-78.449600@1303262548"
     },
     "wof:country":"US",
     "wof:created":1461912721,
-    "wof:geomhash":"877eafeeb0aac27b7b59d434dda09160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f9b4e35230fb966c7a7ee0db2cde4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729625,
+            "region_id":85688747,
+            "venue_id":739707311
+        }
+    ],
     "wof:id":739707311,
-    "wof:lastmodified":1472652179,
+    "wof:lastmodified":1492039206,
     "wof:name":"Ford Rent-A-Car System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

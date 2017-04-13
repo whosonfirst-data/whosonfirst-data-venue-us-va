@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.455321,38.980247,-78.455321,38.980247",
     "geom:latitude":38.980247,
     "geom:longitude":-78.455321,
@@ -31,17 +32,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b83WQkytJfBDwf6NJwOYr_38.980247_-78.455321@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902436,
-    "wof:geomhash":"b8e6c15915445f02cc915cdab20ac7e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"941b4caf9fe16650f994ea2ae7b99106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":723475869
+        }
+    ],
     "wof:id":723475869,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492056358,
     "wof:name":"Bushman Engineering PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.597357,37.551499,-77.597357,37.551499",
     "geom:latitude":37.551499,
     "geom:longitude":-77.597357,
@@ -32,17 +33,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FGeciVcABdmRXWpNj8huo_37.551499_-77.597357@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900973,
-    "wof:geomhash":"e857fe484bb0cf47bc9a1dc13458dbeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7238f3a785d241ae3aa22db10c978874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723400205
+        }
+    ],
     "wof:id":723400205,
-    "wof:lastmodified":1472652115,
+    "wof:lastmodified":1492051232,
     "wof:name":"PCF Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

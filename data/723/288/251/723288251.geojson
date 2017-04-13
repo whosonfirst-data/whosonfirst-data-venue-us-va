@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.324779,37.314425,-79.324779,37.314425",
     "geom:latitude":37.314425,
     "geom:longitude":-79.324779,
@@ -31,17 +32,30 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ROb1HvMYqRwYk9hp6qOHd_37.314425_-79.324779@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898834,
-    "wof:geomhash":"bffe6c7965fc63d8d88169c7f21bc89b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10cc124ef8d46bf2c948264f3b532b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723288251
+        }
+    ],
     "wof:id":723288251,
-    "wof:lastmodified":1472651756,
+    "wof:lastmodified":1492052930,
     "wof:name":"Blue Ridge Test",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

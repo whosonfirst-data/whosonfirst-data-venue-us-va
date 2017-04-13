@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.074994,37.699551,-79.074994,37.699551",
     "geom:latitude":37.699551,
     "geom:longitude":-79.074994,
@@ -31,17 +32,30 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zhm5PWLDgn5bbeFVPpE2Z_37.699551_-79.074994@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901184,
-    "wof:geomhash":"a8d1c428512e7d7f34522386bbc7992c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51789495dfd465619d9c141418e4889f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087249,
+            "region_id":85688747,
+            "venue_id":723410633
+        }
+    ],
     "wof:id":723410633,
-    "wof:lastmodified":1472652194,
+    "wof:lastmodified":1492050797,
     "wof:name":"Mountain View Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

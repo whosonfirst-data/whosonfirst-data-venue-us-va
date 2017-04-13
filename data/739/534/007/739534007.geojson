@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.41255,37.529195,-77.41255,37.529195",
     "geom:latitude":37.529195,
     "geom:longitude":-77.41255,
@@ -37,7 +38,9 @@
         85633793,
         101728675,
         102085959,
-        420548297
+        420548281,
+        420548297,
+        85880333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461909045,
-    "wof:geomhash":"e68d30a4c3f27c0d676a9acb4021c65b",
+    "wof:geomhash":"94b53cff91364999a2a27b6b2c42027a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":420548281,
+            "region_id":85688747,
+            "venue_id":739534007
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,12 +67,21 @@
             "neighbourhood_id":420548297,
             "region_id":85688747,
             "venue_id":739534007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85880333,
+            "region_id":85688747,
+            "venue_id":739534007
         }
     ],
     "wof:id":739534007,
-    "wof:lastmodified":1472651730,
+    "wof:lastmodified":1492044718,
     "wof:name":"Chimborazo Elementary School",
-    "wof:parent_id":420548297,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

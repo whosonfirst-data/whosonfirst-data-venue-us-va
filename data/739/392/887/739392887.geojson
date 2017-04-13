@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.693079,36.659878,-80.693079,36.659878",
     "geom:latitude":36.659878,
     "geom:longitude":-80.693079,
@@ -36,7 +37,12 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L3SGRI43FpSg3ccBauCjO_36.659878_-80.693079@1294252573"
@@ -44,9 +50,17 @@
     "wof:country":"US",
     "wof:created":1461906447,
     "wof:geomhash":"3ba8d63ae107e8543e0e6f37ebdbbb43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":739392887
+        }
+    ],
     "wof:id":739392887,
-    "wof:lastmodified":1472651430,
+    "wof:lastmodified":1492031617,
     "wof:name":"Susan S Trading Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

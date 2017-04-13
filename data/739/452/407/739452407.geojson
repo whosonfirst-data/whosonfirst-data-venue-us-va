@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.333652,36.696855,-76.333652,36.696855",
     "geom:latitude":36.696855,
     "geom:longitude":-76.333652,
@@ -37,6 +38,7 @@
         85633793,
         101728797,
         102087265,
+        85822615,
         85876757
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907585,
-    "wof:geomhash":"b811cf35bc2d0a4bbc62aa425df222fb",
+    "wof:geomhash":"2bc07f9469100c14664e688ffe0cbc7b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":85822615,
+            "region_id":85688747,
+            "venue_id":739452407
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":739452407,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492037512,
     "wof:name":"Perry Construction Inc",
-    "wof:parent_id":85876757,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

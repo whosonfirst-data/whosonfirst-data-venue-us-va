@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.053061,38.728991,-77.053061,38.728991",
     "geom:latitude":38.728991,
     "geom:longitude":-77.053061,
@@ -29,8 +30,13 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
+        85688747,
+        102191575,
         85633793,
+        101729741,
+        102084863,
+        85849211,
+        85688501,
         85837843,
         102082191
     ],
@@ -40,8 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461891911,
-    "wof:geomhash":"44a8e5baee59d187b2de4114a236e149",
+    "wof:geomhash":"9f0c9fcec038b10a86007889e9c4e574",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729741,
+            "neighbourhood_id":85849211,
+            "region_id":85688747,
+            "venue_id":722954337
+        },
         {
             "country_id":85633793,
             "county_id":102082191,
@@ -51,9 +66,9 @@
         }
     ],
     "wof:id":722954337,
-    "wof:lastmodified":1472652253,
+    "wof:lastmodified":1492072992,
     "wof:name":"Thomas S Johnson",
-    "wof:parent_id":85837843,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

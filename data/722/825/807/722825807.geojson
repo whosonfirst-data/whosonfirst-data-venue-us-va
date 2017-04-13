@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.063743,37.298766,-80.063743,37.298766",
     "geom:latitude":37.298766,
     "geom:longitude":-80.063743,
@@ -31,17 +32,32 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eiQeyYUpxT0Dugg5fCUeB_37.298766_-80.063743@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889372,
-    "wof:geomhash":"04df65ffb5817be8e75802bdb3ea763c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc145b1ebc4b83104c5dadfcd5e560cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":722825807
+        }
+    ],
     "wof:id":722825807,
-    "wof:lastmodified":1472651915,
+    "wof:lastmodified":1492070717,
     "wof:name":"Odyssey Adventure Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

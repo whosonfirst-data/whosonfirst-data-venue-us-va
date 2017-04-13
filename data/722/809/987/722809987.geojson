@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.052065,36.681334,-82.052065,36.681334",
     "geom:latitude":36.681334,
     "geom:longitude":-82.052065,
@@ -31,17 +32,26 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BfiVG5J2kpz8FEnGX366K_36.681334_-82.052065@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889066,
-    "wof:geomhash":"c62fcc68ecabb4469bad1240af0d2197",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3efa1b037ffcc79cb88d5ca27178a5a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722809987
+        }
+    ],
     "wof:id":722809987,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492070067,
     "wof:name":"Interntnl Assoc ADM Prfsnls",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

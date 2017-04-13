@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.568486,38.759443,-77.568486,38.759443",
     "geom:latitude":38.759443,
     "geom:longitude":-77.568486,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_746Lq89ClMi34yTngFY29g_38.759443_-77.568486@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905945,
-    "wof:geomhash":"f35d813f29f7f0221d2e0a42b7566aef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"577d75a758402e40f89f397601cb9df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739366969
+        }
+    ],
     "wof:id":739366969,
-    "wof:lastmodified":1472651364,
+    "wof:lastmodified":1492040486,
     "wof:name":"Miller & Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

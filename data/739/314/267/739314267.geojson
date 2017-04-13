@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.654562,37.245867,-76.654562,37.245867",
     "geom:latitude":37.245867,
     "geom:longitude":-76.654562,
@@ -36,7 +37,8 @@
         85688747,
         85633793,
         85894071,
-        102085967
+        102085967,
+        85894055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +54,19 @@
             "neighbourhood_id":85894071,
             "region_id":85688747,
             "venue_id":739314267
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085967,
+            "neighbourhood_id":85894055,
+            "region_id":85688747,
+            "venue_id":739314267
         }
     ],
     "wof:id":739314267,
-    "wof:lastmodified":1472651214,
+    "wof:lastmodified":1492029903,
     "wof:name":"Colonial Services Board-Mental",
-    "wof:parent_id":85894071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

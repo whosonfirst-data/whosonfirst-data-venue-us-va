@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.05984,36.668552,-82.05984,36.668552",
     "geom:latitude":36.668552,
     "geom:longitude":-82.05984,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OEuFuXpVfwL0WGgTWmQsd_36.668552_-82.059840@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908185,
-    "wof:geomhash":"1b5936f0d3ae613e2f853740e2579d53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0698f84842de9ef00a8e9b816c3e799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739486199
+        }
+    ],
     "wof:id":739486199,
-    "wof:lastmodified":1472651661,
+    "wof:lastmodified":1492038165,
     "wof:name":"Earthgrains",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

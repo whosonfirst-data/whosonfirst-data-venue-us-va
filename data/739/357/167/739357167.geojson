@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.641562,37.163145,-79.641562,37.163145",
     "geom:latitude":37.163145,
     "geom:longitude":-79.641562,
@@ -32,17 +33,30 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TUW8LDMJWTWebyrGbfyeS_37.163145_-79.641562@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905761,
-    "wof:geomhash":"d2fd637a876447657bbe8557e1368182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"698865db5e9a2857dc45ffde07937230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739357167
+        }
+    ],
     "wof:id":739357167,
-    "wof:lastmodified":1472651324,
+    "wof:lastmodified":1492046805,
     "wof:name":"Smith Mountain Lake Animal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

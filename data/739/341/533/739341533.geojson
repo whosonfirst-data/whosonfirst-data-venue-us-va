@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.913162,37.404255,-79.913162,37.404255",
     "geom:latitude":37.404255,
     "geom:longitude":-79.913162,
@@ -28,7 +29,13 @@
     "sg:postcode":"24083",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729611,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nbqv4WiZ8hasgGwaS9ctr_37.404255_-79.913162@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905410,
     "wof:geomhash":"e88dcda75d918ff860b8c24ddefb5100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729611,
+            "region_id":85688747,
+            "venue_id":739341533
+        }
+    ],
     "wof:id":739341533,
-    "wof:lastmodified":1472651294,
+    "wof:lastmodified":1492032546,
     "wof:name":"Botetourt Flower Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.979211,38.080687,-78.979211,38.080687",
     "geom:latitude":38.080687,
     "geom:longitude":-78.979211,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729647,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b3kjgmwYCAY5IAUMHXeHZ_38.080687_-78.979211@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900659,
-    "wof:geomhash":"38c8799a5b70f4979b8b88e8774950c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18a5f576a1b6f950628b0a5369301769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729647,
+            "region_id":85688747,
+            "venue_id":723383789
+        }
+    ],
     "wof:id":723383789,
-    "wof:lastmodified":1472652116,
+    "wof:lastmodified":1492054202,
     "wof:name":"Caldwell Wf Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

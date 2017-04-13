@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.80136,37.964592,-76.80136,37.964592",
     "geom:latitude":37.964592,
     "geom:longitude":-76.80136,
@@ -25,7 +26,12 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_108fJsWeN68ZZLZiSD92Eh_37.964592_-76.801360@1294252573"
@@ -33,9 +39,17 @@
     "wof:country":"US",
     "wof:created":1461909521,
     "wof:geomhash":"503fe4104d9191475650a60b819d1e83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739558177
+        }
+    ],
     "wof:id":739558177,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492031294,
     "wof:name":"Revere Gas & Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

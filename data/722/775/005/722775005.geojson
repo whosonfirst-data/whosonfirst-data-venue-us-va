@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.150765,38.867198,-77.150765,38.867198",
     "geom:latitude":38.867198,
     "geom:longitude":-77.150765,
@@ -31,17 +32,32 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729789,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dKqg28k1WnuhaYDGrns8O_38.867198_-77.150765@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888409,
-    "wof:geomhash":"80cf312362565ef2f21cb9ebeecaa7fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26d8acfb56d0252d31402a2383fee18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729789,
+            "region_id":85688747,
+            "venue_id":722775005
+        }
+    ],
     "wof:id":722775005,
-    "wof:lastmodified":1472651722,
+    "wof:lastmodified":1492067151,
     "wof:name":"Mattress Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

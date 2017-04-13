@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.157566,38.292462,-77.157566,38.292462",
     "geom:latitude":38.292462,
     "geom:longitude":-77.157566,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wVzeRwOT73akGJeQ4fE0d_38.292462_-77.157566@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905587,
-    "wof:geomhash":"2fdaed221f6f277f96acf77a48cef872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eec0331fbfeab151cb27b5e8f17fefe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":739348921
+        }
+    ],
     "wof:id":739348921,
-    "wof:lastmodified":1472651315,
+    "wof:lastmodified":1492039365,
     "wof:name":"Fieldstone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

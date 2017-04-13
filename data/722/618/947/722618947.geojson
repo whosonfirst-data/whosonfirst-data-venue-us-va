@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.351997,37.378562,-79.351997,37.378562",
     "geom:latitude":37.378562,
     "geom:longitude":-79.351997,
@@ -31,17 +32,30 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JARYrX8uUH0aoXHOuHqLG_37.378562_-79.351997@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885343,
-    "wof:geomhash":"368a0762f317ab5370992cd3d78ca2de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e1ab7b91ab8665f97261645177838a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722618947
+        }
+    ],
     "wof:id":722618947,
-    "wof:lastmodified":1472651416,
+    "wof:lastmodified":1492074895,
     "wof:name":"Virginia Memorial Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369874,38.321804,-77.369874,38.321804",
     "geom:latitude":38.321804,
     "geom:longitude":-77.369874,
@@ -31,17 +32,26 @@
         "athletic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wOBXAO6dtf4HjnHo0CBhe_38.321804_-77.369874@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901544,
-    "wof:geomhash":"92e317f29aac5cc9886f9fe0081a4b04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"286fa72ddccd365da5b17467001ebc03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":723428593
+        }
+    ],
     "wof:id":723428593,
-    "wof:lastmodified":1472652244,
+    "wof:lastmodified":1492049200,
     "wof:name":"Tsunami Swimming",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.986628,37.759209,-79.986628,37.759209",
     "geom:latitude":37.759209,
     "geom:longitude":-79.986628,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728707,
+        102085937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BT8NmdprvCh6diUrgLCHF_37.759209_-79.986628@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900611,
-    "wof:geomhash":"44b61a49f00c71eff3281709a16dd71f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b633c68419eac16c1130674dc3510238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085937,
+            "locality_id":101728707,
+            "region_id":85688747,
+            "venue_id":723381433
+        }
+    ],
     "wof:id":723381433,
-    "wof:lastmodified":1472652100,
+    "wof:lastmodified":1492061361,
     "wof:name":"Dan Gillette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

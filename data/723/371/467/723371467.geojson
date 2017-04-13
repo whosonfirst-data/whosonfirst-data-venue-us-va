@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.982869,36.836124,-75.982869,36.836124",
     "geom:latitude":36.836124,
     "geom:longitude":-75.982869,
@@ -34,6 +35,7 @@
         85633793,
         101728745,
         102081929,
+        85847613,
         85846355
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900406,
-    "wof:geomhash":"123a0ca970f117e24a3570a73b7bf6f4",
+    "wof:geomhash":"432934ff36b6e977b8c9fe3eef99a8f7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85847613,
+            "region_id":85688747,
+            "venue_id":723371467
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723371467,
-    "wof:lastmodified":1472652069,
+    "wof:lastmodified":1492050086,
     "wof:name":"Killer Beach Cuts & Styles",
-    "wof:parent_id":85846355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

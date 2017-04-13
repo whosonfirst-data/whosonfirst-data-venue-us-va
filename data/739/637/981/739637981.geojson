@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.348113,38.518791,-77.348113,38.518791",
     "geom:latitude":38.518791,
     "geom:longitude":-77.348113,
@@ -48,19 +49,28 @@
     ],
     "sg:website":"http://www.gnc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74GmRDr1h9dY9hxvrByTPs_38.518791_-77.348113@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911219,
-    "wof:geomhash":"efbc81491726adc361be1ff98ca6b528",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8afd0d3353d0f1ff3ce301e9908251e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739637981
+        }
+    ],
     "wof:id":739637981,
-    "wof:lastmodified":1472652029,
+    "wof:lastmodified":1492042744,
     "wof:name":"GNC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

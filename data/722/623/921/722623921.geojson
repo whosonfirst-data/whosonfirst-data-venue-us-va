@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.097111,38.791539,-77.097111,38.791539",
     "geom:latitude":38.791539,
     "geom:longitude":-77.097111,
@@ -39,6 +40,7 @@
         85633793,
         101729787,
         102084863,
+        85809259,
         420546655
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461885466,
-    "wof:geomhash":"75309cd3cca882f72e011bb87aa9b64f",
+    "wof:geomhash":"6a721129ebed55066f333a6123aa8e24",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729787,
+            "neighbourhood_id":85809259,
+            "region_id":85688747,
+            "venue_id":722623921
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722623921,
-    "wof:lastmodified":1472651420,
+    "wof:lastmodified":1492064383,
     "wof:name":"Dept of Information Technology",
-    "wof:parent_id":420546655,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

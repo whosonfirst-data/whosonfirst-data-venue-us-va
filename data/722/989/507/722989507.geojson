@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442517,38.653563,-77.442517,38.653563",
     "geom:latitude":38.653563,
     "geom:longitude":-77.442517,
@@ -37,17 +38,32 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729219,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hhWhJ1OfndzNTJlZbhBeS_38.653563_-77.442517@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892681,
-    "wof:geomhash":"09054bd0463dcd7d4ffb8537ef7e00c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8422e884d647cd2e3a89ef120262c06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729219,
+            "region_id":85688747,
+            "venue_id":722989507
+        }
+    ],
     "wof:id":722989507,
-    "wof:lastmodified":1472652349,
+    "wof:lastmodified":1492064200,
     "wof:name":"Metro Steel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

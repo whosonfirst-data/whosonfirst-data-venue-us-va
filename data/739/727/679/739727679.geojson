@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.23124,36.56091,-76.23124,36.56091",
     "geom:latitude":36.56091,
     "geom:longitude":-76.23124,
@@ -37,17 +38,32 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vU8DF5lS0VrSYYzSM8XYH_36.560910_-76.231240@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913146,
-    "wof:geomhash":"206b12c9db3bae0ca55f9c48bbd0ea00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48b908d110901b920a64ddb19dfedd99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739727679
+        }
+    ],
     "wof:id":739727679,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492043177,
     "wof:name":"Northwest Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.848078,38.428594,-78.848078,38.428594",
     "geom:latitude":38.428594,
     "geom:longitude":-78.848078,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.minnieland.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53SRrh6LLniUPBsDzUUrQL_38.428594_-78.848078@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461907731,
     "wof:geomhash":"9d83b169b078e15c5d80f9aab256757a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739460883
+        }
+    ],
     "wof:id":739460883,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492031236,
     "wof:name":"Minnieland Child Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

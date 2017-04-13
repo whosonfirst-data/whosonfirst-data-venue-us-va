@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.529584,37.113524,-81.529584,37.113524",
     "geom:latitude":37.113524,
     "geom:longitude":-81.529584,
@@ -28,17 +29,26 @@
     "sg:postcode":"24651",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01z0DDIgsqExxGgvy0g2as_37.113524_-81.529584@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898311,
-    "wof:geomhash":"6e33ce92cf4e16d23f4f293f28508e87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b069af17ac9e51ed580ec886229f330b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723260353
+        }
+    ],
     "wof:id":723260353,
-    "wof:lastmodified":1472651724,
+    "wof:lastmodified":1492049102,
     "wof:name":"Tazewell Public Library",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

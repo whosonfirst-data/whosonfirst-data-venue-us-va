@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.582949,37.149743,-80.582949,37.149743",
     "geom:latitude":37.149743,
     "geom:longitude":-80.582949,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"www.hollywoodvideo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729175,
+        102084953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29W4EH2dRgK8hT62P4wvYj_37.149743_-80.582949@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461908314,
     "wof:geomhash":"c31bb5389961af291a6671c171f2ec1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "locality_id":101729175,
+            "region_id":85688747,
+            "venue_id":739493267
+        }
+    ],
     "wof:id":739493267,
-    "wof:lastmodified":1472651676,
+    "wof:lastmodified":1492029962,
     "wof:name":"Hollywood Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

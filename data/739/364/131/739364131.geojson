@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.493522,37.628389,-77.493522,37.628389",
     "geom:latitude":37.628389,
     "geom:longitude":-77.493522,
@@ -31,7 +32,13 @@
         "notary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K2JHXXs13QFfc4vNtyxBs_37.628389_-77.493522@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905886,
     "wof:geomhash":"6526b2bdd52b707ba8c88ba4b5340189",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":739364131
+        }
+    ],
     "wof:id":739364131,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492031769,
     "wof:name":"AAA Notary Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

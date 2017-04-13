@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.102082,37.781968,-77.102082,37.781968",
     "geom:latitude":37.781968,
     "geom:longitude":-77.102082,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.bayshoreappraisals.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dKd6n3OuH77akRbrkyxqF_37.781968_-77.102082@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907804,
     "wof:geomhash":"52c58b034666c629af4b67cb73c415c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739465159
+        }
+    ],
     "wof:id":739465159,
-    "wof:lastmodified":1472651601,
+    "wof:lastmodified":1492031927,
     "wof:name":"Bay Shore Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

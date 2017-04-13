@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.994089,37.44965,-77.994089,37.44965",
     "geom:latitude":37.44965,
     "geom:longitude":-77.994089,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bNnUsbhZeODAzIE7l6Pzs_37.449650_-77.994089@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906849,
     "wof:geomhash":"2789d06d6cc3c19b6bd1d985f2fe0ceb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087257,
+            "region_id":85688747,
+            "venue_id":739414553
+        }
+    ],
     "wof:id":739414553,
-    "wof:lastmodified":1472651484,
+    "wof:lastmodified":1492032401,
     "wof:name":"Redmore Utilities Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

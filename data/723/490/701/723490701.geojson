@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.472926,38.396336,-77.472926,38.396336",
     "geom:latitude":38.396336,
     "geom:longitude":-77.472926,
@@ -35,17 +36,26 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W2p1Ho2trw0OmUlKeaeei_38.396336_-77.472926@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902753,
-    "wof:geomhash":"ad4bb25b1d356cf2734ba9c8c96dab6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6f64a24b5be10b8634efd1f994c5285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723490701
+        }
+    ],
     "wof:id":723490701,
-    "wof:lastmodified":1472652357,
+    "wof:lastmodified":1492055791,
     "wof:name":"J D Foley Trucking LLC",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

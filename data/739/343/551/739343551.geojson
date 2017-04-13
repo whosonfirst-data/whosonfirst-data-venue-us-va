@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523409,38.292567,-77.523409,38.292567",
     "geom:latitude":38.292567,
     "geom:longitude":-77.523409,
@@ -31,7 +32,12 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Lug3bUwLkZicIVEm5aoqy_38.292567_-77.523409@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905454,
     "wof:geomhash":"8b46ade85f0923fbc0f9561b4106fa0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739343551
+        }
+    ],
     "wof:id":739343551,
-    "wof:lastmodified":1472651287,
+    "wof:lastmodified":1492032182,
     "wof:name":"Tokyo Japanese Take Out Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

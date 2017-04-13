@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.582945,36.881577,-76.582945,36.881577",
     "geom:latitude":36.881577,
     "geom:longitude":-76.582945,
@@ -28,7 +29,12 @@
     "sg:postcode":"23432",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hlti4MKXLnE0JcaWg3lwJ_36.881577_-76.582945@1303262551"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461913176,
     "wof:geomhash":"5863764d40bd0bf95367a3a21e590246",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739729319
+        }
+    ],
     "wof:id":739729319,
-    "wof:lastmodified":1472652220,
+    "wof:lastmodified":1492031643,
     "wof:name":"Sentry Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

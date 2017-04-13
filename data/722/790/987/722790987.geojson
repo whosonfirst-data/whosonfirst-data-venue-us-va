@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.383762,37.296973,-78.383762,37.296973",
     "geom:latitude":37.296973,
     "geom:longitude":-78.383762,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dGAjdbeEvxX5orj7wDO26_37.296973_-78.383762@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888710,
-    "wof:geomhash":"ec8f8d690dd0b64dd7df9c3ba97979ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99777760e91ad6dc004a01a920a8338f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":722790987
+        }
+    ],
     "wof:id":722790987,
-    "wof:lastmodified":1472651853,
+    "wof:lastmodified":1492075320,
     "wof:name":"US Army National Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.145103,36.622471,-81.145103,36.622471",
     "geom:latitude":36.622471,
     "geom:longitude":-81.145103,
@@ -37,17 +38,32 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728887,
+        102087253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MDFhIvOJnttind4t1jd8d_36.622471_-81.145103@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913467,
-    "wof:geomhash":"a1649ca9f4c25c6865d2e097e296665a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eee90ffde5f942e83447f6c64779e570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087253,
+            "locality_id":101728887,
+            "region_id":85688747,
+            "venue_id":739741633
+        }
+    ],
     "wof:id":739741633,
-    "wof:lastmodified":1472652260,
+    "wof:lastmodified":1492044526,
     "wof:name":"First Baptist Church Of Independence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

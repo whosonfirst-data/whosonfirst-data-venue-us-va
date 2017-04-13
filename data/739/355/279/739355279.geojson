@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.08342,36.869246,-78.08342,36.869246",
     "geom:latitude":36.869246,
     "geom:longitude":-78.08342,
@@ -28,7 +29,12 @@
     "sg:postcode":"23944",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62mG2HYFidkaLeltPJFxct_36.869246_-78.083420@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905723,
     "wof:geomhash":"3e7f29fb6225070834ca2f13401db21d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084945,
+            "region_id":85688747,
+            "venue_id":739355279
+        }
+    ],
     "wof:id":739355279,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492032368,
     "wof:name":"Grant Salvage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

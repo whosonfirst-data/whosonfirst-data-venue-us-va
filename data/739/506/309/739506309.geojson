@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.698897,36.757459,-80.698897,36.757459",
     "geom:latitude":36.757459,
     "geom:longitude":-80.698897,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AQXURJGg3X862af0NIjqQ_36.757459_-80.698897@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908541,
     "wof:geomhash":"e7988f526836d981d54f680bedc13094",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":739506309
+        }
+    ],
     "wof:id":739506309,
-    "wof:lastmodified":1472651757,
+    "wof:lastmodified":1492032880,
     "wof:name":"Harry McGrady",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

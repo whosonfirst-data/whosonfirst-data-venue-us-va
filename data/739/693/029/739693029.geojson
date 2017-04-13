@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346905,38.25463,-77.346905,38.25463",
     "geom:latitude":38.25463,
     "geom:longitude":-77.346905,
@@ -28,7 +29,10 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tSspgguwe7IQ46ThkWYPo_38.254630_-77.346905@1303262546"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461912401,
     "wof:geomhash":"30994aa082d0b79e57da93054dbcae86",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546943,
+            "venue_id":739693029
+        }
+    ],
     "wof:id":739693029,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492031404,
     "wof:name":"Metrostar Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

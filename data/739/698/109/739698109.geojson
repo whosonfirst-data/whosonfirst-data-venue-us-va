@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.498315,38.074596,-78.498315,38.074596",
     "geom:latitude":38.074596,
     "geom:longitude":-78.498315,
@@ -37,7 +38,12 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XwV4NbjMYvNNNVWBve2kx_38.074596_-78.498315@1303262547"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461912503,
     "wof:geomhash":"35ec854437592db5d7ba1ae8ab2c6a84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739698109
+        }
+    ],
     "wof:id":739698109,
-    "wof:lastmodified":1472652160,
+    "wof:lastmodified":1492029547,
     "wof:name":"Siedlecki Theodore Jr PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

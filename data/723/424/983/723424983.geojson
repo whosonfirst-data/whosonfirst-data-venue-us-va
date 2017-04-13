@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.841885,38.418574,-78.841885,38.418574",
     "geom:latitude":38.418574,
     "geom:longitude":-78.841885,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YNINt6yavHUTjzL5CV3bj_38.418574_-78.841885@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901477,
-    "wof:geomhash":"d2bd38240f979ed93c0c410f31bc164e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b6daedfe122a489a388039775726c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723424983
+        }
+    ],
     "wof:id":723424983,
-    "wof:lastmodified":1472652270,
+    "wof:lastmodified":1492051248,
     "wof:name":"Greens Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

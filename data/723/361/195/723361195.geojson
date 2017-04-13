@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.938803,37.266815,-79.938803,37.266815",
     "geom:latitude":37.266815,
     "geom:longitude":-79.938803,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zikuT0vu4pXdXovl5jkcy_37.266815_-79.938803@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900204,
-    "wof:geomhash":"6362dc50d1e7228be3edfbd99bd2b891",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8417826d361c539dbd51e2f06dee27ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723361195
+        }
+    ],
     "wof:id":723361195,
-    "wof:lastmodified":1472652045,
+    "wof:lastmodified":1492056595,
     "wof:name":"Pediatrix Medical Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

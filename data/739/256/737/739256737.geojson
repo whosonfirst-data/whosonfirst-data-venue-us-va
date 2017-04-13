@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.331264,37.071929,-77.331264,37.071929",
     "geom:latitude":37.071929,
     "geom:longitude":-77.331264,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e4a5WKUlm42bE3LwvXBSt_37.071929_-77.331264@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903634,
     "wof:geomhash":"3558124129dc53ecc6694d2a10ef568a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739256737
+        }
+    ],
     "wof:id":739256737,
-    "wof:lastmodified":1472651112,
+    "wof:lastmodified":1492031092,
     "wof:name":"Andrews Dry Wall Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.409083,37.037158,-76.409083,37.037158",
     "geom:latitude":37.037158,
     "geom:longitude":-76.409083,
@@ -34,6 +35,7 @@
         85633793,
         101728661,
         102084913,
+        85831787,
         420547991
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901739,
-    "wof:geomhash":"4ba2cb1dce32a839aa1ce8b6d1a4eb21",
+    "wof:geomhash":"3a7b0dec8c91caa93bc965ab489b9bba",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85831787,
+            "region_id":85688747,
+            "venue_id":723439115
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723439115,
-    "wof:lastmodified":1472652224,
+    "wof:lastmodified":1492061450,
     "wof:name":"Baird John",
-    "wof:parent_id":420547991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

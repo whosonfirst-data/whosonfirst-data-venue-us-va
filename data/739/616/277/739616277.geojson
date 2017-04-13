@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.522089,39.104987,-77.522089,39.104987",
     "geom:latitude":39.104987,
     "geom:longitude":-77.522089,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"http://www.drive-riteinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fS0kzKAXry49Ri5oTbMq7_39.104987_-77.522089@1303262497"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461910740,
     "wof:geomhash":"0b25bcde50c5cb473bc3e56fd7d38afa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616277
+        }
+    ],
     "wof:id":739616277,
-    "wof:lastmodified":1472651989,
+    "wof:lastmodified":1492029657,
     "wof:name":"Drive-Rite Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

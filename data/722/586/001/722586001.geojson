@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.077039,36.741037,-76.077039,36.741037",
     "geom:latitude":36.741037,
     "geom:longitude":-76.077039,
@@ -28,19 +29,36 @@
     "sg:postcode":"23456",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929,
+        85872035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VdMam9vpxz9tp1cmd9Z8o_36.741037_-76.077039@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884714,
-    "wof:geomhash":"ac7c5f17ca0daae5eb4355e5239f8aaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1f0eca0c2feea03da03a20803be1d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85872035,
+            "region_id":85688747,
+            "venue_id":722586001
+        }
+    ],
     "wof:id":722586001,
-    "wof:lastmodified":1472651189,
+    "wof:lastmodified":1492065239,
     "wof:name":"Beach Buddies Pet Sitting Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

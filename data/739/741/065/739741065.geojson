@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.994647,36.706268,-81.994647,36.706268",
     "geom:latitude":36.706268,
     "geom:longitude":-81.994647,
@@ -38,17 +39,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GaCs2Zoh1q7XGHcrSoUe9_36.706268_-81.994647@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913454,
-    "wof:geomhash":"3ca15cee927996f17301aac96002e6ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9e8bccbf91736c2925a7c41b6700994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739741065
+        }
+    ],
     "wof:id":739741065,
-    "wof:lastmodified":1472652229,
+    "wof:lastmodified":1492044520,
     "wof:name":"D S Buck Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.498878,39.027485,-77.498878,39.027485",
     "geom:latitude":39.027485,
     "geom:longitude":-77.498878,
@@ -32,7 +33,13 @@
         "it"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6odvcfC4zBpFQjzR2X2Y14_39.027485_-77.498878@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908472,
     "wof:geomhash":"ced14b3c10207f0b87d371a4ea74efcb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739502355
+        }
+    ],
     "wof:id":739502355,
-    "wof:lastmodified":1472651702,
+    "wof:lastmodified":1492029585,
     "wof:name":"Sass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

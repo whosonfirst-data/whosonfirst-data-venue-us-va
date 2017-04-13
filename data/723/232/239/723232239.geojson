@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.353513,37.60328,-77.353513,37.60328",
     "geom:latitude":37.60328,
     "geom:longitude":-77.353513,
@@ -31,17 +32,32 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QA1q0N1I1kQyPOEiSLsew_37.603280_-77.353513@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897752,
-    "wof:geomhash":"c26b995b94ec9ae44d6ffb89b56d1600",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb1e719cca398c0845dcdecc2513ec08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":723232239
+        }
+    ],
     "wof:id":723232239,
-    "wof:lastmodified":1472651631,
+    "wof:lastmodified":1492047394,
     "wof:name":"Household Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

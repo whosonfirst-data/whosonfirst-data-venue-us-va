@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440128,38.841488,-77.440128,38.841488",
     "geom:latitude":38.841488,
     "geom:longitude":-77.440128,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.joneslanglasalle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VQw662Ufpj6a4B2nVrhzT_38.841488_-77.440128@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887129,
-    "wof:geomhash":"8320aba3afa0101899417c361c0b4cdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"408bb1852c5239b5bf885a6cb56a63cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":722708735
+        }
+    ],
     "wof:id":722708735,
-    "wof:lastmodified":1472651581,
+    "wof:lastmodified":1492063791,
     "wof:name":"Jones Lang LA Salle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

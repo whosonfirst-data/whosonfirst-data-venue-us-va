@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393215,37.109776,-76.393215,37.109776",
     "geom:latitude":37.109776,
     "geom:longitude":-76.393215,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728893,
+        102085963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KnWurCONnF5Db81A3pSrv_37.109776_-76.393215@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893680,
-    "wof:geomhash":"fc40014623c09c5a188131da8e860baa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bc89118ca100d735a320a250cbd02f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085963,
+            "locality_id":101728893,
+            "region_id":85688747,
+            "venue_id":723033829
+        }
+    ],
     "wof:id":723033829,
-    "wof:lastmodified":1472651164,
+    "wof:lastmodified":1492061821,
     "wof:name":"Nimbus Distributor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

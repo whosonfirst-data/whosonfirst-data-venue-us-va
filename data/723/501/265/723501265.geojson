@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.61601,37.832052,-77.61601,37.832052",
     "geom:latitude":37.832052,
     "geom:longitude":-77.61601,
@@ -32,17 +33,30 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EZMcE7cxqEZI6eth7hrZb_37.832052_-77.616010@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902985,
-    "wof:geomhash":"68230048463eebc86c0c00ef006c52ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a609157a1a10e388bd33067d179a3038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":723501265
+        }
+    ],
     "wof:id":723501265,
-    "wof:lastmodified":1472652335,
+    "wof:lastmodified":1492059522,
     "wof:name":"Pace Holdings LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

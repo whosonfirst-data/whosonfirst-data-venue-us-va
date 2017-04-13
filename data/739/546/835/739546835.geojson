@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.757867,37.834452,-77.757867,37.834452",
     "geom:latitude":37.834452,
     "geom:longitude":-77.757867,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49vX9xMbIRHwCI6F7Pglyv_37.834452_-77.757867@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909295,
     "wof:geomhash":"ce0753a9c6bc83e820f01d9f063a1024",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739546835
+        }
+    ],
     "wof:id":739546835,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492031581,
     "wof:name":"Paige A Brannan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

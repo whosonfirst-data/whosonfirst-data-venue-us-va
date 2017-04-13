@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.894363,36.805641,-82.894363,36.805641",
     "geom:latitude":36.805641,
     "geom:longitude":-82.894363,
@@ -29,17 +30,30 @@
     "sg:province":"VA",
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OJOorte9kGZLr4p37L6wl_36.805641_-82.894363@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913457,
-    "wof:geomhash":"69f815322532913248082e969bc5e0e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bf0369ce9d9ce74afe27c6531a5eeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087247,
+            "region_id":85688747,
+            "venue_id":739741193
+        }
+    ],
     "wof:id":739741193,
-    "wof:lastmodified":1472652238,
+    "wof:lastmodified":1492044521,
     "wof:name":"USPS - United States Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

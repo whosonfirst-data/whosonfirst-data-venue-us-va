@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.057917,37.281369,-80.057917,37.281369",
     "geom:latitude":37.281369,
     "geom:longitude":-80.057917,
@@ -31,17 +32,32 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56u5rdl2XA1Vsh08SfcvnN_37.281369_-80.057917@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902805,
-    "wof:geomhash":"5be0a5e02957d3255eb72f5334b1ae9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b8e3acb7a00adc68901654a8feda684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723493065
+        }
+    ],
     "wof:id":723493065,
-    "wof:lastmodified":1472652324,
+    "wof:lastmodified":1492048101,
     "wof:name":"Salem Parks & Recreation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

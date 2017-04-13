@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.732634,37.078873,-79.732634,37.078873",
     "geom:latitude":37.078873,
     "geom:longitude":-79.732634,
@@ -31,17 +32,30 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D3QcmXKTZM55MvcB0DeuJ_37.078873_-79.732634@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906255,
-    "wof:geomhash":"31cf473f1ebcb33d4e97c136ed097604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"058216cca639415a49836379304beb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739383283
+        }
+    ],
     "wof:id":739383283,
-    "wof:lastmodified":1472651343,
+    "wof:lastmodified":1492039135,
     "wof:name":"Watch Dog Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.507139,37.105339,-76.507139,37.105339",
     "geom:latitude":37.105339,
     "geom:longitude":-76.507139,
@@ -39,8 +40,9 @@
         85633793,
         101729041,
         102085961,
-        85879249,
-        420558807
+        420558807,
+        85840111,
+        85879249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461886734,
-    "wof:geomhash":"2a6ef334072f2ccc3a61227823f64c2b",
+    "wof:geomhash":"cdf024a38324a2cf9cdc99b2f2aeda00",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085961,
-            "locality_id":101729041,
-            "neighbourhood_id":85879249,
-            "region_id":85688747,
-            "venue_id":722687561
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +60,30 @@
             "neighbourhood_id":420558807,
             "region_id":85688747,
             "venue_id":722687561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85840111,
+            "region_id":85688747,
+            "venue_id":722687561
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879249,
+            "region_id":85688747,
+            "venue_id":722687561
         }
     ],
     "wof:id":722687561,
-    "wof:lastmodified":1472651538,
+    "wof:lastmodified":1492068586,
     "wof:name":"Brook Assisted Living Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

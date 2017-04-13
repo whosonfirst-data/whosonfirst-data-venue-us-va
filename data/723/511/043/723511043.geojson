@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.361364,39.201465,-78.361364,39.201465",
     "geom:latitude":39.201465,
     "geom:longitude":-78.361364,
@@ -35,17 +36,32 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729111,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13wb5ko6XMQuUw7PzekG3e_39.201465_-78.361364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903219,
-    "wof:geomhash":"f0cb7bd585cc1b10ea1b1d7d98a7baef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7012beaa336ecbc11b0a1cfd58682c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "locality_id":101729111,
+            "region_id":85688747,
+            "venue_id":723511043
+        }
+    ],
     "wof:id":723511043,
-    "wof:lastmodified":1472652367,
+    "wof:lastmodified":1492053975,
     "wof:name":"Weimer Installations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

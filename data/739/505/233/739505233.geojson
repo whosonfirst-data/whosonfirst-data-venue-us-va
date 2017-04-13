@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44825,38.272739,-77.44825,38.272739",
     "geom:latitude":38.272739,
     "geom:longitude":-77.44825,
@@ -31,7 +32,12 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YviJYcWswvuNzioz51vpJ_38.272739_-77.448250@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908523,
     "wof:geomhash":"10f51dd9a696b03ecc0bcf4fb1f17abd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739505233
+        }
+    ],
     "wof:id":739505233,
-    "wof:lastmodified":1472651750,
+    "wof:lastmodified":1492032226,
     "wof:name":"American Heritage Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

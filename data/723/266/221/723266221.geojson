@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650674,37.410738,-77.650674,37.410738",
     "geom:latitude":37.410738,
     "geom:longitude":-77.650674,
@@ -32,17 +33,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KLJzrHUgtyLxBTal2ENvJ_37.410738_-77.650674@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898426,
-    "wof:geomhash":"8881b23546b18ea4d05371420ba8f73c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a98371bf2d6b894e41eeb910db6cb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":723266221
+        }
+    ],
     "wof:id":723266221,
-    "wof:lastmodified":1472651748,
+    "wof:lastmodified":1492061711,
     "wof:name":"CVS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

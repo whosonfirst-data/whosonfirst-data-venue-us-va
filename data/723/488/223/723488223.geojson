@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.601831,37.456067,-77.601831,37.456067",
     "geom:latitude":37.456067,
     "geom:longitude":-77.601831,
@@ -32,17 +33,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729311,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1v8Cy90nravkhg6ACn8SjE_37.456067_-77.601831@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902695,
-    "wof:geomhash":"f42b5b3550f76d653b4a3a8b65460eac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"342770b7f057d6c2cbe2e79c9c3939bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729311,
+            "region_id":85688747,
+            "venue_id":723488223
+        }
+    ],
     "wof:id":723488223,
-    "wof:lastmodified":1472652331,
+    "wof:lastmodified":1492056323,
     "wof:name":"David M Long",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

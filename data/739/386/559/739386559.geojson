@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.491587,37.496903,-77.491587,37.496903",
     "geom:latitude":37.496903,
     "geom:longitude":-77.491587,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31oUflV0N5LXQ7LSpTdd0J_37.496903_-77.491587@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906326,
-    "wof:geomhash":"621b2ed6a5b3319e7d5babf52b99db47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8ac62465c13a4b8305324fbeec54e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739386559
+        }
+    ],
     "wof:id":739386559,
-    "wof:lastmodified":1472651376,
+    "wof:lastmodified":1492046425,
     "wof:name":"Roundoor Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.492307,38.263407,-77.492307,38.263407",
     "geom:latitude":38.263407,
     "geom:longitude":-77.492307,
@@ -31,17 +32,30 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fjBcSLEWw44fZNCBBDJ12_38.263407_-77.492307@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898615,
-    "wof:geomhash":"78f69c61a1bbd998091786a946d397fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aac4ce83530c9ccd2361638989deefa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723276381
+        }
+    ],
     "wof:id":723276381,
-    "wof:lastmodified":1472651768,
+    "wof:lastmodified":1492054781,
     "wof:name":"Martin's Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

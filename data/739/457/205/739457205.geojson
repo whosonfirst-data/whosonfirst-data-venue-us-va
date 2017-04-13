@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.518521,37.40258,-76.518521,37.40258",
     "geom:latitude":37.40258,
     "geom:longitude":-76.518521,
@@ -34,7 +35,13 @@
         "sewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TwQF5Q6MNWSvoDnwIcAJJ_37.402580_-76.518521@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461907665,
     "wof:geomhash":"3bd0b048fd3ab3220054d58c1d5db805",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":739457205
+        }
+    ],
     "wof:id":739457205,
-    "wof:lastmodified":1472651565,
+    "wof:lastmodified":1492031854,
     "wof:name":"Mac's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

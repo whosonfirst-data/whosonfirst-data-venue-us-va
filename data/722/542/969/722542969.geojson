@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.455306,38.22539,-77.455306,38.22539",
     "geom:latitude":38.22539,
     "geom:longitude":-77.455306,
@@ -31,17 +32,30 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S9baswIQRNhcOutHLeBcu_38.225390_-77.455306@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883869,
-    "wof:geomhash":"44d778ff53affa9241f4bc443325981f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d55193bedd833f50b2b5bd177d129e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722542969
+        }
+    ],
     "wof:id":722542969,
-    "wof:lastmodified":1472651108,
+    "wof:lastmodified":1492071834,
     "wof:name":"SOS Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

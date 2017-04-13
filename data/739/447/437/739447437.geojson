@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488664,38.445355,-77.488664,38.445355",
     "geom:latitude":38.445355,
     "geom:longitude":-77.488664,
@@ -32,17 +33,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XtOke16D4aYCudufzKMM2_38.445355_-77.488664@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907494,
-    "wof:geomhash":"46d79a2da8360afc46a75f51b391a100",
-    "wof:hierarchy":[],
+    "wof:geomhash":"528202cb6bf984802b84faea88e50538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":739447437
+        }
+    ],
     "wof:id":739447437,
-    "wof:lastmodified":1472651570,
+    "wof:lastmodified":1492043092,
     "wof:name":"Data Fast Inc",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

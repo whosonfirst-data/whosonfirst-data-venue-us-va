@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430812,38.872848,-77.430812,38.872848",
     "geom:latitude":38.872848,
     "geom:longitude":-77.430812,
@@ -32,17 +33,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yNFiVYPlRflli86L1DQsH_38.872848_-77.430812@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908034,
-    "wof:geomhash":"9d5bcd301beb019b5b3a987d1bf4df5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8d83221494fd9c280808c9f3b2de248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739478121
+        }
+    ],
     "wof:id":739478121,
-    "wof:lastmodified":1472651608,
+    "wof:lastmodified":1492042150,
     "wof:name":"Virolabs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

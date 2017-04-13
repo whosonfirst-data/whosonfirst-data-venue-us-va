@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412926,37.417234,-77.412926,37.417234",
     "geom:latitude":37.417234,
     "geom:longitude":-77.412926,
@@ -32,17 +33,30 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41JhInkQfG8dwe5lVNQLWF_37.417234_-77.412926@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904172,
-    "wof:geomhash":"842732119b649577236b96fe153645e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6628cf88ec7b7521b0fb114758c7571c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739281067
+        }
+    ],
     "wof:id":739281067,
-    "wof:lastmodified":1472651135,
+    "wof:lastmodified":1492041160,
     "wof:name":"Sentinel Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

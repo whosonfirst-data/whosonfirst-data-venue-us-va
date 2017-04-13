@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510333,37.582581,-77.510333,37.582581",
     "geom:latitude":37.582581,
     "geom:longitude":-77.510333,
@@ -28,7 +29,12 @@
     "sg:postcode":"23226",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ialZ2nT7OdBIX9XAqEOaG_37.582581_-77.510333@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903637,
     "wof:geomhash":"378bfc58fb9d3ac9d41cd67ea6dae8ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739256889
+        }
+    ],
     "wof:id":739256889,
-    "wof:lastmodified":1472651118,
+    "wof:lastmodified":1492031102,
     "wof:name":"Lake Anna Development Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

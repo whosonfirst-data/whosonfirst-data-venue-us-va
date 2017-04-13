@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.199091,37.230828,-77.199091,37.230828",
     "geom:latitude":37.230828,
     "geom:longitude":-77.199091,
@@ -32,17 +33,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FYfawXnKzjl9sKR9CKVE9_37.230828_-77.199091@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887701,
-    "wof:geomhash":"5b159fcbc26708318ce5438aa00def00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45e42db49e39d4a00784f369fb292714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":722737993
+        }
+    ],
     "wof:id":722737993,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492070597,
     "wof:name":"Person Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

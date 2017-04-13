@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.670272,37.391135,-77.670272,37.391135",
     "geom:latitude":37.391135,
     "geom:longitude":-77.670272,
@@ -28,7 +29,12 @@
     "sg:postcode":"23832",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B0nko1bdTJ5iP0314uKry_37.391135_-77.670272@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909235,
     "wof:geomhash":"8eb7024bc1be079185669f2aad9da956",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739543783
+        }
+    ],
     "wof:id":739543783,
-    "wof:lastmodified":1472651843,
+    "wof:lastmodified":1492032322,
     "wof:name":"Global Trading Opportunities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

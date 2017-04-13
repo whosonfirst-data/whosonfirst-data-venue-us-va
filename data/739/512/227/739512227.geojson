@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44137,38.379897,-77.44137,38.379897",
     "geom:latitude":38.379897,
     "geom:longitude":-77.44137,
@@ -31,7 +32,10 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mHxyVheHnvvKDS2O8PcbA_38.379897_-77.441370@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908650,
     "wof:geomhash":"abe34af0b3de19741eb0aa5b80a11ba6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739512227
+        }
+    ],
     "wof:id":739512227,
-    "wof:lastmodified":1472651746,
+    "wof:lastmodified":1492031328,
     "wof:name":"Protec Collision Center",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

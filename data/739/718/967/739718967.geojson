@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460129,37.607632,-77.460129,37.607632",
     "geom:latitude":37.607632,
     "geom:longitude":-77.460129,
@@ -31,17 +32,32 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729369,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oddr1fQKPVnhrbY0ZGMAX_37.607632_-77.460129@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912971,
-    "wof:geomhash":"39136e72b349e5136f6b78a09574a170",
-    "wof:hierarchy":[],
+    "wof:geomhash":"272fb61144283631325e70eca3ce900c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729369,
+            "region_id":85688747,
+            "venue_id":739718967
+        }
+    ],
     "wof:id":739718967,
-    "wof:lastmodified":1472652215,
+    "wof:lastmodified":1492045390,
     "wof:name":"Sea Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

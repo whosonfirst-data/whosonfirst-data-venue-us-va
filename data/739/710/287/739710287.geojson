@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.676455,37.419701,-77.676455,37.419701",
     "geom:latitude":37.419701,
     "geom:longitude":-77.676455,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wrGyYOoKezQjoHlU4l649_37.419701_-77.676455@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912787,
-    "wof:geomhash":"7c21e3bef4778076afe20b4ea85e5336",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4acc25edc362049c1eee1e3ca596952e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739710287
+        }
+    ],
     "wof:id":739710287,
-    "wof:lastmodified":1472652175,
+    "wof:lastmodified":1492045682,
     "wof:name":"Homestead Adult Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

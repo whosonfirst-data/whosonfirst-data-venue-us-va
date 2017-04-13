@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.399422,38.730689,-77.399422,38.730689",
     "geom:latitude":38.730689,
     "geom:longitude":-77.399422,
@@ -28,17 +29,32 @@
     "sg:postcode":"20111",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C2lRMyY47cWC8iHoL32Mn_38.730689_-77.399422@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899656,
-    "wof:geomhash":"7fd4b4f247d43cf94f5409a7c05edb04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f96faeaf37f756653680407a79a468c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":723331577
+        }
+    ],
     "wof:id":723331577,
-    "wof:lastmodified":1472651911,
+    "wof:lastmodified":1492058431,
     "wof:name":"Commonwealth Medical Claims",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

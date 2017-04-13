@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.011488,39.11034,-78.011488,39.11034",
     "geom:latitude":39.11034,
     "geom:longitude":-78.011488,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101729005,
         102084971,
-        85803277
+        85803277,
+        85845423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,21 +48,31 @@
     },
     "wof:country":"US",
     "wof:created":1461894617,
-    "wof:geomhash":"bb710884b8be0826630e8c01ec8ba96c",
+    "wof:geomhash":"a1ef43b66776d901b7e8fea8089deb28",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084971,
             "locality_id":101729005,
             "neighbourhood_id":85803277,
             "region_id":85688747,
             "venue_id":723076727
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084971,
+            "locality_id":101729005,
+            "neighbourhood_id":85845423,
+            "region_id":85688747,
+            "venue_id":723076727
         }
     ],
     "wof:id":723076727,
-    "wof:lastmodified":1472651292,
+    "wof:lastmodified":1492056155,
     "wof:name":"Tavenner Electrical Contractor",
-    "wof:parent_id":85803277,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.125288,38.85111,-77.125288,38.85111",
     "geom:latitude":38.85111,
     "geom:longitude":-77.125288,
@@ -39,7 +40,13 @@
     ],
     "sg:website":"www.charterbusrus.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Kf8NFC8e8L7fpGqMjCgHu_38.851110_-77.125288@1303262538"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461910975,
     "wof:geomhash":"b7385a77b523b15ee18cc715e026eeab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739627107
+        }
+    ],
     "wof:id":739627107,
-    "wof:lastmodified":1472651985,
+    "wof:lastmodified":1492032091,
     "wof:name":"Charter Bus R Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.503769,38.033372,-78.503769,38.033372",
     "geom:latitude":38.033372,
     "geom:longitude":-78.503769,
@@ -31,17 +32,32 @@
         "university"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xR8VBZKRpPOMDtnWvMKsE_38.033372_-78.503769@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909204,
-    "wof:geomhash":"045ebc5c523fabd8685edfbbae7df629",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61e8036348a2f1ea5e873ccc4642fb86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":739542741
+        }
+    ],
     "wof:id":739542741,
-    "wof:lastmodified":1472651824,
+    "wof:lastmodified":1492042955,
     "wof:name":"Economics Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

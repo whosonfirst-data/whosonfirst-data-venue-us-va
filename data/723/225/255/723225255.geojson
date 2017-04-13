@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.397909,37.228819,-77.397909,37.228819",
     "geom:latitude":37.228819,
     "geom:longitude":-77.397909,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_540dK3AKSvNzBCUUGiH34O_37.228819_-77.397909@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897600,
-    "wof:geomhash":"68c9fcaa1e6d5445fd391a97488c5da4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dd035974da824f66833446a63af357c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723225255
+        }
+    ],
     "wof:id":723225255,
-    "wof:lastmodified":1472651619,
+    "wof:lastmodified":1492047392,
     "wof:name":"Newton Phillips 66",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

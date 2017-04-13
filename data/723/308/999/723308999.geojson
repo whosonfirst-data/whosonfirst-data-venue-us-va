@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.518816,37.115099,-81.518816,37.115099",
     "geom:latitude":37.115099,
     "geom:longitude":-81.518816,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e2cjoB135eJeB5bNi5pAg_37.115099_-81.518816@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899244,
-    "wof:geomhash":"539f3935bf72fcdeeadf8960bd582da3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e03f6745897f8bd92a18c20ef6284f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723308999
+        }
+    ],
     "wof:id":723308999,
-    "wof:lastmodified":1472651853,
+    "wof:lastmodified":1492051321,
     "wof:name":"Bolling Hearl & Barringer",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

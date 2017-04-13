@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.3857,39.029784,-77.3857,39.029784",
     "geom:latitude":39.029784,
     "geom:longitude":-77.3857,
@@ -33,17 +34,32 @@
         "value"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HgDV7aefwG6ynqHUrzhB0_39.029784_-77.385700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897217,
-    "wof:geomhash":"ea07943102bf679d7b42119f9b364cce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c20b6b4878cabb6f5ccff387bcb02b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723207691
+        }
+    ],
     "wof:id":723207691,
-    "wof:lastmodified":1472651631,
+    "wof:lastmodified":1492056538,
     "wof:name":"Loudoun Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

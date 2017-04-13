@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.392297,37.646972,-76.392297,37.646972",
     "geom:latitude":37.646972,
     "geom:longitude":-76.392297,
@@ -36,8 +37,10 @@
         85688747,
         102191575,
         85633793,
-        101728549,
+        101728553,
         102086725,
+        85855719,
+        101728549,
         420546945
     ],
     "wof:breaches":[],
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894272,
-    "wof:geomhash":"e6fea48c0bdd11c053d87ee9e97b70c7",
+    "wof:geomhash":"0878267137b189c8a72307b2d0f9d678",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086725,
+            "locality_id":101728553,
+            "neighbourhood_id":85855719,
+            "region_id":85688747,
+            "venue_id":723062645
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +71,9 @@
         }
     ],
     "wof:id":723062645,
-    "wof:lastmodified":1472651242,
+    "wof:lastmodified":1492059705,
     "wof:name":"Care Point Cardiac Corp",
-    "wof:parent_id":420546945,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

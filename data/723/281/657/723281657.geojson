@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.137475,38.846648,-77.137475,38.846648",
     "geom:latitude":38.846648,
     "geom:longitude":-77.137475,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EopHGrwQFEQJf2b6iDkhs_38.846648_-77.137475@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898708,
-    "wof:geomhash":"3817f1dc7b1b28aeba64aef52d0e5e1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5d87061b239bd8d489c89c59ad3200e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":723281657
+        }
+    ],
     "wof:id":723281657,
-    "wof:lastmodified":1472651793,
+    "wof:lastmodified":1492056455,
     "wof:name":"Rodriguez Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

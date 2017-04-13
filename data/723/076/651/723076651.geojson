@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763451,37.253469,-76.763451,37.253469",
     "geom:latitude":37.253469,
     "geom:longitude":-76.763451,
@@ -33,17 +34,26 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rbh6Q73s5CWUeCE9q8Q4I_37.253469_-76.763451@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894615,
-    "wof:geomhash":"be85e4ff95889ecaf03340d09a2c35a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4531bfb54e8c558ff0b8af907273706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":723076651
+        }
+    ],
     "wof:id":723076651,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492056138,
     "wof:name":"Impression Obsession",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

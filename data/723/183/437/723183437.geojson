@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.532755,38.872614,-78.532755,38.872614",
     "geom:latitude":38.872614,
     "geom:longitude":-78.532755,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RWfx1CKWfC94uU3jdenUc_38.872614_-78.532755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896756,
-    "wof:geomhash":"8fb26b68625eb4fb45d6f3e787efef5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"809b30a91551d1eed971eb6e2e6384bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":723183437
+        }
+    ],
     "wof:id":723183437,
-    "wof:lastmodified":1472651515,
+    "wof:lastmodified":1492059491,
     "wof:name":"Smokehaus II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

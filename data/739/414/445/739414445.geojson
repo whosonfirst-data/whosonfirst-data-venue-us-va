@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.823166,37.987223,-78.823166,37.987223",
     "geom:latitude":37.987223,
     "geom:longitude":-78.823166,
@@ -32,7 +33,12 @@
         "mold"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fSIbbJk3auxJFHFEykjBB_37.987223_-78.823166@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906847,
     "wof:geomhash":"77c58a79389949a98cfbcb2d53ff6445",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739414445
+        }
+    ],
     "wof:id":739414445,
-    "wof:lastmodified":1472651477,
+    "wof:lastmodified":1492032387,
     "wof:name":"Wallace Precision Tooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

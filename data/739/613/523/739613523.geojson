@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.691193,38.854729,-77.691193,38.854729",
     "geom:latitude":38.854729,
     "geom:longitude":-77.691193,
@@ -31,7 +32,12 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XMGfC7sGcqJSwHwFVgJCz_38.854729_-77.691193@1303262496"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461910676,
     "wof:geomhash":"34e87d1f8ce80f09e09571f9f55bd139",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613523
+        }
+    ],
     "wof:id":739613523,
-    "wof:lastmodified":1472651993,
+    "wof:lastmodified":1492032436,
     "wof:name":"Kenneth E Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

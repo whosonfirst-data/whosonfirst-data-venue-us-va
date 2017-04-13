@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.787197,38.714586,-78.787197,38.714586",
     "geom:latitude":38.714586,
     "geom:longitude":-78.787197,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43evGpbKAptF3icbwoVX5T_38.714586_-78.787197@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899066,
-    "wof:geomhash":"343200050936ccf0f7f6acdf3a4b778d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64747bc860866bfff7895025cb0a726f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":723300249
+        }
+    ],
     "wof:id":723300249,
-    "wof:lastmodified":1472651745,
+    "wof:lastmodified":1492056856,
     "wof:name":"Little Rock Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.456438,38.894185,-77.456438,38.894185",
     "geom:latitude":38.894185,
     "geom:longitude":-77.456438,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"www.montgomeryirrigation.biz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LJ1VtCFCRyMOn1ju0Vt14_38.894185_-77.456438@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897690,
-    "wof:geomhash":"66a818e764e4e2a5faa42aba992f2b14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6e675ceb738010e6b830197e1c747c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723229499
+        }
+    ],
     "wof:id":723229499,
-    "wof:lastmodified":1472651648,
+    "wof:lastmodified":1492052080,
     "wof:name":"Montgomery Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

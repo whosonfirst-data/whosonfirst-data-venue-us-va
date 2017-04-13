@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.388546,37.996864,-78.388546,37.996864",
     "geom:latitude":37.996864,
     "geom:longitude":-78.388546,
@@ -37,7 +38,13 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729623,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fVfZ2v99P73R3FRp8NJTL_37.996864_-78.388546@1294252573"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461906340,
     "wof:geomhash":"a8c7ecb228d777c350d4b46cbf793ac9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729623,
+            "region_id":85688747,
+            "venue_id":739387117
+        }
+    ],
     "wof:id":739387117,
-    "wof:lastmodified":1472651376,
+    "wof:lastmodified":1492033144,
     "wof:name":"Vision Solution LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

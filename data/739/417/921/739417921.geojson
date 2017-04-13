@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.974008,36.961325,-76.974008,36.961325",
     "geom:latitude":36.961325,
     "geom:longitude":-76.974008,
@@ -31,7 +32,12 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MmBdKhxvoj0bZomIAr2JX_36.961325_-76.974008@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906911,
     "wof:geomhash":"17ce9eaa2e413930a5613083bdd6077e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":739417921
+        }
+    ],
     "wof:id":739417921,
-    "wof:lastmodified":1472651528,
+    "wof:lastmodified":1492031484,
     "wof:name":"Purviance Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

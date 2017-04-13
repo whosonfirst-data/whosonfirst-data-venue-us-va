@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.575998,38.864512,-78.575998,38.864512",
     "geom:latitude":38.864512,
     "geom:longitude":-78.575998,
@@ -32,17 +33,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JnuZspyHLVKysR334OR9I_38.864512_-78.575998@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908425,
-    "wof:geomhash":"9038da005ceaccc5da9e8d7986814524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10d5a67775dc9d8c648f594c07486c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739499945
+        }
+    ],
     "wof:id":739499945,
-    "wof:lastmodified":1472651710,
+    "wof:lastmodified":1492041852,
     "wof:name":"Hamner Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.365847,37.059675,-76.365847,37.059675",
     "geom:latitude":37.059675,
     "geom:longitude":-76.365847,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IIGQlDUdu7dHDW7PKeN4w_37.059675_-76.365847@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889751,
-    "wof:geomhash":"40b3c3c11f8d0ea963263adb79747ec1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55a3fa3b406737cbc79f91a9354dfb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722846425
+        }
+    ],
     "wof:id":722846425,
-    "wof:lastmodified":1472651952,
+    "wof:lastmodified":1492062868,
     "wof:name":"Gateway Townhouse Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

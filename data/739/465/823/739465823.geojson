@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.469861,37.013632,-78.469861,37.013632",
     "geom:latitude":37.013632,
     "geom:longitude":-78.469861,
@@ -28,7 +29,12 @@
     "sg:postcode":"23947",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J9bmbuVYNYzIjMxeqjg2e_37.013632_-78.469861@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907817,
     "wof:geomhash":"216c1d87df5894551b794488675a3709",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "region_id":85688747,
+            "venue_id":739465823
+        }
+    ],
     "wof:id":739465823,
-    "wof:lastmodified":1472651638,
+    "wof:lastmodified":1492031939,
     "wof:name":"PC Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

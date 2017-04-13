@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.945978,37.26383,-79.945978,37.26383",
     "geom:latitude":37.26383,
     "geom:longitude":-79.945978,
@@ -38,17 +39,32 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tA0Ua1mNOYtYXYVtMkktx_37.263830_-79.945978@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902389,
-    "wof:geomhash":"835a6dbc415314eb11df92ab6abf280c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b79f3f7bf07c7fcae591b935eda593c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723473821
+        }
+    ],
     "wof:id":723473821,
-    "wof:lastmodified":1472652315,
+    "wof:lastmodified":1492051468,
     "wof:name":"Mountain House Clubhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

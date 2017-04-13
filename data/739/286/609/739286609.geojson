@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.083327,36.711499,-82.083327,36.711499",
     "geom:latitude":36.711499,
     "geom:longitude":-82.083327,
@@ -31,7 +32,10 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nMkEfn3OSvtmgXflixl8Q_36.711499_-82.083327@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904295,
     "wof:geomhash":"157a3e48d5c5c0fe5222cf3fbc4f007b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739286609
+        }
+    ],
     "wof:id":739286609,
-    "wof:lastmodified":1472651162,
+    "wof:lastmodified":1492030094,
     "wof:name":"New Look Services Landsca",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

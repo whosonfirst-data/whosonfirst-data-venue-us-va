@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.546787,37.547714,-77.546787,37.547714",
     "geom:latitude":37.547714,
     "geom:longitude":-77.546787,
@@ -28,19 +29,46 @@
     "sg:postcode":"23235",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85868251,
+        420548295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W0OuwyjtP7ekax7Xzc2XC_37.547714_-77.546787@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896928,
-    "wof:geomhash":"edb51f74c430f0f9e6c31937254807a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e22c389094541c0b44b0c240be155d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85868251,
+            "region_id":85688747,
+            "venue_id":723192499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":420548295,
+            "region_id":85688747,
+            "venue_id":723192499
+        }
+    ],
     "wof:id":723192499,
-    "wof:lastmodified":1472651570,
+    "wof:lastmodified":1492050223,
     "wof:name":"Chamberlayne Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

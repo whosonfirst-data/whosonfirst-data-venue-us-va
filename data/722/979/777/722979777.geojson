@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.491213,38.705441,-77.491213,38.705441",
     "geom:latitude":38.705441,
     "geom:longitude":-77.491213,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DuffB48aNVvEi4wdDoua9_38.705441_-77.491213@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892450,
-    "wof:geomhash":"c913644d57622e7cf991b1135c28b798",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afadfc079ff2c3eb6ba5cfac34f38de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":722979777
+        }
+    ],
     "wof:id":722979777,
-    "wof:lastmodified":1472652352,
+    "wof:lastmodified":1492072748,
     "wof:name":"Miller Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

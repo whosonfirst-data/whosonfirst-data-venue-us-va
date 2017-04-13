@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.134546,36.886387,-76.134546,36.886387",
     "geom:latitude":36.886387,
     "geom:longitude":-76.134546,
@@ -34,8 +35,8 @@
         85633793,
         101728745,
         102081929,
-        85819121,
-        85844211
+        85844211,
+        85819121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461898589,
-    "wof:geomhash":"67a0759730c909d78df7f3c99daabc7e",
+    "wof:geomhash":"c1fd5320af7c8510ca95c0741786b5ce",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081929,
-            "locality_id":101728745,
-            "neighbourhood_id":85819121,
-            "region_id":85688747,
-            "venue_id":723274851
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":85844211,
             "region_id":85688747,
             "venue_id":723274851
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85819121,
+            "region_id":85688747,
+            "venue_id":723274851
         }
     ],
     "wof:id":723274851,
-    "wof:lastmodified":1472651842,
+    "wof:lastmodified":1492047513,
     "wof:name":"Mowmas Yard Work",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

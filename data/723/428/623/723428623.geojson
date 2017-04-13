@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.98743,36.707192,-81.98743,36.707192",
     "geom:latitude":36.707192,
     "geom:longitude":-81.98743,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kg5AcdgkbWyPPh5WIJbPY_36.707192_-81.987430@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901545,
-    "wof:geomhash":"8d525d3d5a20832366cc2117dcf635f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dc277005605561b44495f22d72e80e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723428623
+        }
+    ],
     "wof:id":723428623,
-    "wof:lastmodified":1472652251,
+    "wof:lastmodified":1492049189,
     "wof:name":"Abingdon Plumbing Co",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

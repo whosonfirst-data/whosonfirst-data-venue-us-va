@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532381,37.415655,-76.532381,37.415655",
     "geom:latitude":37.415655,
     "geom:longitude":-76.532381,
@@ -33,17 +34,32 @@
     "sg:postcode":"23061",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fd0Hz37hZr6VCTs0C0A4k_37.415655_-76.532381@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886371,
-    "wof:geomhash":"a4ac7a21ddf340500340d275e8d4d90b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dcae6f958abb8090089ca0f2267b288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":722668573
+        }
+    ],
     "wof:id":722668573,
-    "wof:lastmodified":1472651492,
+    "wof:lastmodified":1492071659,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

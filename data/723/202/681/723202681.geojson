@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650558,36.755318,-77.650558,36.755318",
     "geom:latitude":36.755318,
     "geom:longitude":-77.650558,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08W682wAxgkMDplBoH7lD0_36.755318_-77.650558@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897125,
-    "wof:geomhash":"447664b7b76e715fd9920bb7fcc7111b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00c4fb13b13c834bb2d3183b2a546275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":723202681
+        }
+    ],
     "wof:id":723202681,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492053910,
     "wof:name":"Pearson Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

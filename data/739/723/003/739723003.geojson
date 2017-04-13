@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435043,37.460831,-77.435043,37.460831",
     "geom:latitude":37.460831,
     "geom:longitude":-77.435043,
@@ -44,17 +45,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EpOslLuh0oEvXDX7suGOC_37.460831_-77.435043@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913054,
-    "wof:geomhash":"db089c3823074123395db8afd0fa3f12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82d269c5e7aa9d347bfcc78920acb5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739723003
+        }
+    ],
     "wof:id":739723003,
-    "wof:lastmodified":1472652216,
+    "wof:lastmodified":1492041590,
     "wof:name":"Dsi Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

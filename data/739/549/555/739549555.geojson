@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.395604,38.398112,-77.395604,38.398112",
     "geom:latitude":38.398112,
     "geom:longitude":-77.395604,
@@ -28,7 +29,10 @@
     "sg:postcode":"22554",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51Ym3nT66IA75FjNqkqlIR_38.398112_-77.395604@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461909348,
     "wof:geomhash":"3507427a989d1b02587e63b58d8b0977",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":739549555
+        }
+    ],
     "wof:id":739549555,
-    "wof:lastmodified":1472651871,
+    "wof:lastmodified":1492032219,
     "wof:name":"McLeod Interiors",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

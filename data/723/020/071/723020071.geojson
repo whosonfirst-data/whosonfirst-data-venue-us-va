@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419158,38.464083,-77.419158,38.464083",
     "geom:latitude":38.464083,
     "geom:longitude":-77.419158,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547109
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zcivau2Pt5A3rSWXzDYgQ_38.464083_-77.419158@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893378,
-    "wof:geomhash":"2e98d4cbe5517684492f960117a29250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fb27abd33ef14bb7ae7fc4f0eb96239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547109,
+            "venue_id":723020071
+        }
+    ],
     "wof:id":723020071,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492048512,
     "wof:name":"Washington Homes",
     "wof:parent_id":420547109,
     "wof:placetype":"venue",

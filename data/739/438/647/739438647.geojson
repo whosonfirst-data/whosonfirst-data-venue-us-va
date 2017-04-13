@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420626,38.448822,-77.420626,38.448822",
     "geom:latitude":38.448822,
     "geom:longitude":-77.420626,
@@ -31,17 +32,26 @@
         "bookkeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eqpeF9bkvaqaA2wYx2NVC_38.448822_-77.420626@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907329,
-    "wof:geomhash":"9b06657cc9239d70fde1b1871a5c0d8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e46fc177d9282c3d783ff241085a69ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":739438647
+        }
+    ],
     "wof:id":739438647,
-    "wof:lastmodified":1472651543,
+    "wof:lastmodified":1492039184,
     "wof:name":"Professional Business Images",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

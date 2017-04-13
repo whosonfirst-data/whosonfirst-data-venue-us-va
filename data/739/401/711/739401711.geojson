@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.76461,37.619567,-75.76461,37.619567",
     "geom:latitude":37.619567,
     "geom:longitude":-75.76461,
@@ -31,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PZEYzsh2X9a6pRuGL7FaK_37.619567_-75.764610@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906612,
     "wof:geomhash":"f3c531cd8161e81688bdc01d61adb82a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546535,
+            "venue_id":739401711
+        }
+    ],
     "wof:id":739401711,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492032704,
     "wof:name":"Mapp Mapp & Klein Law Offices",
     "wof:parent_id":420546535,
     "wof:placetype":"venue",

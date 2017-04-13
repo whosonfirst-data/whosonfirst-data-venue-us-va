@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.497653,36.908211,-76.497653,36.908211",
     "geom:latitude":36.908211,
     "geom:longitude":-76.497653,
@@ -42,7 +43,9 @@
         85633793,
         101728729,
         102087269,
-        85805731
+        85834483,
+        85805731,
+        420548353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +53,17 @@
     },
     "wof:country":"US",
     "wof:created":1461907538,
-    "wof:geomhash":"d491b67abfa216638e3e10bd1da64449",
+    "wof:geomhash":"a9f3455352182c614b9f0f8ad93b1ce1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087269,
+            "locality_id":101728729,
+            "neighbourhood_id":85834483,
+            "region_id":85688747,
+            "venue_id":739450067
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,12 +72,21 @@
             "neighbourhood_id":85805731,
             "region_id":85688747,
             "venue_id":739450067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087269,
+            "locality_id":101728729,
+            "neighbourhood_id":420548353,
+            "region_id":85688747,
+            "venue_id":739450067
         }
     ],
     "wof:id":739450067,
-    "wof:lastmodified":1472651551,
+    "wof:lastmodified":1492038644,
     "wof:name":"Mobil Food Mart",
-    "wof:parent_id":85805731,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

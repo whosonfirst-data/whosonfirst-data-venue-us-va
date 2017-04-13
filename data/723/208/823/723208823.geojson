@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.244372,37.384137,-79.244372,37.384137",
     "geom:latitude":37.384137,
     "geom:longitude":-79.244372,
@@ -40,17 +41,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29gnnhiCMMIx0yLTst5wtZ_37.384137_-79.244372@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897238,
-    "wof:geomhash":"17f3b34a28b4b5569759bee1040f6422",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beb7d8400b034b72a2a295a9b4eb8137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":723208823
+        }
+    ],
     "wof:id":723208823,
-    "wof:lastmodified":1472651636,
+    "wof:lastmodified":1492051177,
     "wof:name":"Electronics Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.904738,37.391662,-76.904738,37.391662",
     "geom:latitude":37.391662,
     "geom:longitude":-76.904738,
@@ -36,7 +37,10 @@
         "portrait"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y0SSK06dyLQQlDhwv7M5J_37.391662_-76.904738@1294252573"
@@ -44,11 +48,17 @@
     "wof:country":"US",
     "wof:created":1461906114,
     "wof:geomhash":"f726d3098bc30f6ced5dae4895f7059c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546607,
+            "venue_id":739375917
+        }
+    ],
     "wof:id":739375917,
-    "wof:lastmodified":1472651367,
+    "wof:lastmodified":1492030837,
     "wof:name":"Al Cook Photography & Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.869427,38.448504,-78.869427,38.448504",
     "geom:latitude":38.448504,
     "geom:longitude":-78.869427,
@@ -33,17 +34,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EV8ybXvM4aRZhmsg5EFtv_38.448504_-78.869427@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908669,
-    "wof:geomhash":"698f4f58b3f9b73faf2bdfbc6e51e253",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4c1e4a2a7febee0c800ec5582bf4281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739513333
+        }
+    ],
     "wof:id":739513333,
-    "wof:lastmodified":1472651759,
+    "wof:lastmodified":1492042663,
     "wof:name":"Corrections Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

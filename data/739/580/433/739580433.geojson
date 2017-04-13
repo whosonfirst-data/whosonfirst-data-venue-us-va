@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.343431,39.002123,-77.343431,39.002123",
     "geom:latitude":39.002123,
     "geom:longitude":-77.343431,
@@ -32,7 +33,13 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N5gp9sRwBdhgAlqWIMmxY_39.002123_-77.343431@1299784598"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910017,
     "wof:geomhash":"445f9fe4e5d9c744cfe8be829d014b3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739580433
+        }
+    ],
     "wof:id":739580433,
-    "wof:lastmodified":1472651925,
+    "wof:lastmodified":1492031531,
     "wof:name":"Fiore Di Luna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

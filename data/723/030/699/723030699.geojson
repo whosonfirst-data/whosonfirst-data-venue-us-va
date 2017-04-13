@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.004288,36.71707,-82.004288,36.71707",
     "geom:latitude":36.71707,
     "geom:longitude":-82.004288,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p4Q5DiliKwst2KnttI83k_36.717070_-82.004288@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893613,
-    "wof:geomhash":"42f95e661b46d070d567df4dd778173f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8838b485e83bb61cae16cb1c67c86da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723030699
+        }
+    ],
     "wof:id":723030699,
-    "wof:lastmodified":1472651167,
+    "wof:lastmodified":1492057185,
     "wof:name":"R & R Contractors of Virginia",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

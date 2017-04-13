@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.531602,38.255743,-77.531602,38.255743",
     "geom:latitude":38.255743,
     "geom:longitude":-77.531602,
@@ -28,7 +29,12 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mJkrp6HGILzrxRZFL4sot_38.255743_-77.531602@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908663,
     "wof:geomhash":"713361ca7eb70cb67b7e2b4643e23cc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739512989
+        }
+    ],
     "wof:id":739512989,
-    "wof:lastmodified":1472651850,
+    "wof:lastmodified":1492031331,
     "wof:name":"Inter Con Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

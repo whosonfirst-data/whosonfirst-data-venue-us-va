@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.437537,37.305279,-79.437537,37.305279",
     "geom:latitude":37.305279,
     "geom:longitude":-79.437537,
@@ -34,7 +35,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vbk4Rnes6UTs64R5WrPYG_37.305279_-79.437537@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461905998,
     "wof:geomhash":"f790dd6247298db505dced42abb3239e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739370113
+        }
+    ],
     "wof:id":739370113,
-    "wof:lastmodified":1472651337,
+    "wof:lastmodified":1492031009,
     "wof:name":"D & R Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

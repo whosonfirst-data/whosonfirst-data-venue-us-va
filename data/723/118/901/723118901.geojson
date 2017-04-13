@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.861218,38.448334,-78.861218,38.448334",
     "geom:latitude":38.448334,
     "geom:longitude":-78.861218,
@@ -39,17 +40,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gA6a4on11PBnOtt20oyiU_38.448334_-78.861218@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895495,
-    "wof:geomhash":"00d6ab822e4c1de7ab735b1dc89dcd72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"576b1fcc531e72195ea7b8618f00b8a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723118901
+        }
+    ],
     "wof:id":723118901,
-    "wof:lastmodified":1472651363,
+    "wof:lastmodified":1492054852,
     "wof:name":"Harrisonburg Rockingham Comm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

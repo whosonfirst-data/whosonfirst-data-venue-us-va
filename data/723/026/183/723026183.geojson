@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.386283,37.279171,-78.386283,37.279171",
     "geom:latitude":37.279171,
     "geom:longitude":-78.386283,
@@ -32,17 +33,30 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u6W9dxuDOSARyK6hOgj8a_37.279171_-78.386283@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893527,
-    "wof:geomhash":"e73f779a91732841462882300c4921b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c9006efc21549404fc7e9c00fb4384a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "region_id":85688747,
+            "venue_id":723026183
+        }
+    ],
     "wof:id":723026183,
-    "wof:lastmodified":1472651141,
+    "wof:lastmodified":1492048089,
     "wof:name":"Trinity Mission Of Farmville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

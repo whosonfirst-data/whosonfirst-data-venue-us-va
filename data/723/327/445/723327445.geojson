@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.189212,38.911348,-77.189212,38.911348",
     "geom:latitude":38.911348,
     "geom:longitude":-77.189212,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729767,
+        101729783,
         102084863,
+        420546685,
+        101729767,
         85868637
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899582,
-    "wof:geomhash":"ac74014e66105f35c0af7f940da59060",
+    "wof:geomhash":"c843bb4b139285f39dce8c772ba91c86",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729783,
+            "neighbourhood_id":420546685,
+            "region_id":85688747,
+            "venue_id":723327445
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":723327445,
-    "wof:lastmodified":1472651895,
+    "wof:lastmodified":1492057121,
     "wof:name":"Clear Cut Laser Works",
-    "wof:parent_id":85868637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503937,39.024121,-77.503937,39.024121",
     "geom:latitude":39.024121,
     "geom:longitude":-77.503937,
@@ -34,7 +35,13 @@
         "it"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Yqu0opnsRYhm1RlSN1uyx_39.024121_-77.503937@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461903980,
     "wof:geomhash":"778d3ab876910b219fb67b509c69402f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":739272607
+        }
+    ],
     "wof:id":739272607,
-    "wof:lastmodified":1472651166,
+    "wof:lastmodified":1492029376,
     "wof:name":"Huffordtronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

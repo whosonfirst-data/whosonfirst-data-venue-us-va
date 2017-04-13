@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.735372,38.968946,-77.735372,38.968946",
     "geom:latitude":38.968946,
     "geom:longitude":-77.735372,
@@ -28,7 +29,13 @@
     "sg:postcode":"20117",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728817,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c3sz8sAJixieClClmeckC_38.968946_-77.735372@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907229,
     "wof:geomhash":"79b40c616b837c62c55b3a0ba0cd14ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728817,
+            "region_id":85688747,
+            "venue_id":739433247
+        }
+    ],
     "wof:id":739433247,
-    "wof:lastmodified":1472651512,
+    "wof:lastmodified":1492030390,
     "wof:name":"Nail Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

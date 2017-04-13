@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.392318,37.648858,-76.392318,37.648858",
     "geom:latitude":37.648858,
     "geom:longitude":-76.392318,
@@ -33,10 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728553,
         102086725,
-        85855719
+        85855719,
+        101728549,
+        420546945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +48,31 @@
     },
     "wof:country":"US",
     "wof:created":1461884181,
-    "wof:geomhash":"184249ab5cee061e43c73bc9333dc9fe",
+    "wof:geomhash":"cc2ec1db580696046e98cca6499e5f13",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086725,
             "locality_id":101728553,
             "neighbourhood_id":85855719,
             "region_id":85688747,
             "venue_id":722558711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086725,
+            "locality_id":101728549,
+            "neighbourhood_id":420546945,
+            "region_id":85688747,
+            "venue_id":722558711
         }
     ],
     "wof:id":722558711,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492064257,
     "wof:name":"T & TS Cleaning Service",
-    "wof:parent_id":85855719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

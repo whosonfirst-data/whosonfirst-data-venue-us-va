@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.730797,39.054517,-77.730797,39.054517",
     "geom:latitude":39.054517,
     "geom:longitude":-77.730797,
@@ -32,17 +33,30 @@
         "resource"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ayVtMAIUbV9Nb0skVAfiu_39.054517_-77.730797@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895765,
-    "wof:geomhash":"2b5ea8cd825656115435f4070abb74b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"648ebf2c5bccb69f9feb70f75af5abc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723133389
+        }
+    ],
     "wof:id":723133389,
-    "wof:lastmodified":1472651384,
+    "wof:lastmodified":1492050838,
     "wof:name":"Lessard & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

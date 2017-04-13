@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.252737,36.770485,-76.252737,36.770485",
     "geom:latitude":36.770485,
     "geom:longitude":-76.252737,
@@ -39,7 +40,8 @@
         85633793,
         101728797,
         102087265,
-        85818243
+        85818243,
+        85876759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885939,
-    "wof:geomhash":"f7aea4d8f3857c6f8b06fcf5b5a239c7",
+    "wof:geomhash":"548c68d76a9f34083fc8d61531650e50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85818243,
             "region_id":85688747,
             "venue_id":722645689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":85876759,
+            "region_id":85688747,
+            "venue_id":722645689
         }
     ],
     "wof:id":722645689,
-    "wof:lastmodified":1472651459,
+    "wof:lastmodified":1492067118,
     "wof:name":"Shell",
-    "wof:parent_id":85818243,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

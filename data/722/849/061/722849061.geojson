@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.051279,36.746641,-82.051279,36.746641",
     "geom:latitude":36.746641,
     "geom:longitude":-82.051279,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EfofQR3k1M15VISGztHAx_36.746641_-82.051279@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889804,
-    "wof:geomhash":"ce03a7e5fe4e1e4342dca89054e666e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54a974ccb488b0294ecc74deed94ee1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722849061
+        }
+    ],
     "wof:id":722849061,
-    "wof:lastmodified":1472651935,
+    "wof:lastmodified":1492074594,
     "wof:name":"Greendale Chapel",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

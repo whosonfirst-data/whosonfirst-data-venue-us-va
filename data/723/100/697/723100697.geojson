@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.274347,36.82235,-81.274347,36.82235",
     "geom:latitude":36.82235,
     "geom:longitude":-81.274347,
@@ -31,17 +32,26 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17usrgO3Qjqh2aisII49A9_36.822350_-81.274347@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895138,
-    "wof:geomhash":"668e5baef0df1369ee20b715d669a005",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9eeb2983390f9946f51baa6e9fae6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723100697
+        }
+    ],
     "wof:id":723100697,
-    "wof:lastmodified":1472651301,
+    "wof:lastmodified":1492052347,
     "wof:name":"Cornetts Farm",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

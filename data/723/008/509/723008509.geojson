@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.791857,37.401956,-76.791857,37.401956",
     "geom:latitude":37.401956,
     "geom:longitude":-76.791857,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BQKrttmvS0QrUgQ96cfsr_37.401956_-76.791857@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893109,
-    "wof:geomhash":"d71cbc25f3ce3642337ef5ac40876ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"493a11975e8d7cdd6fbe57414fc5a3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546747,
+            "venue_id":723008509
+        }
+    ],
     "wof:id":723008509,
-    "wof:lastmodified":1472651081,
+    "wof:lastmodified":1492053177,
     "wof:name":"Hardy Masonry",
     "wof:parent_id":420546747,
     "wof:placetype":"venue",

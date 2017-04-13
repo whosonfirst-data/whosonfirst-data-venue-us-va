@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556779,37.493917,-77.556779,37.493917",
     "geom:latitude":37.493917,
     "geom:longitude":-77.556779,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iBooh2Bp4riYXJlGQkBgJ_37.493917_-77.556779@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896927,
-    "wof:geomhash":"9d5a7538cb1f4c629cf80cac84ac6f84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0fcef413fe1b840a751cd2525de17a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":723192413
+        }
+    ],
     "wof:id":723192413,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492050228,
     "wof:name":"Virginia Endoscopy Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

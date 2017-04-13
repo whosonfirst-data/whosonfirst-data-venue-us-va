@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.35633,38.980537,-78.35633,38.980537",
     "geom:latitude":38.980537,
     "geom:longitude":-78.35633,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CWJu7yBsUqvPWQIzd5yEq_38.980537_-78.356330@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903415,
-    "wof:geomhash":"7ef4c1fe5f66fc1708ee8a15e5caab6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56401a3bfd21c19413cb4a4232debfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":739246969
+        }
+    ],
     "wof:id":739246969,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492038426,
     "wof:name":"Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

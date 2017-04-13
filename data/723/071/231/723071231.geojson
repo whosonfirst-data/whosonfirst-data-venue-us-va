@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.461686,38.835796,-77.461686,38.835796",
     "geom:latitude":38.835796,
     "geom:longitude":-77.461686,
@@ -31,17 +32,32 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wlfARpzJG6evdbOuedfne_38.835796_-77.461686@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894485,
-    "wof:geomhash":"6339ca2fcfeb7027df5756f39df52619",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0828b2f7e41a6004208773ec63855bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723071231
+        }
+    ],
     "wof:id":723071231,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492057473,
     "wof:name":"A-1 Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

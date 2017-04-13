@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.343898,37.595338,-77.343898,37.595338",
     "geom:latitude":37.595338,
     "geom:longitude":-77.343898,
@@ -31,17 +32,32 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p6XfV8AQASjxdZ71iTBXi_37.595338_-77.343898@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888202,
-    "wof:geomhash":"41efa8e01fafdffd3707faff995e1040",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd99dfc17002b95855f6108daa54ded1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":722764437
+        }
+    ],
     "wof:id":722764437,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492063348,
     "wof:name":"Oden Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

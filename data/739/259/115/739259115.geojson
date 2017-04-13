@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.597547,38.794755,-77.597547,38.794755",
     "geom:latitude":38.794755,
     "geom:longitude":-77.597547,
@@ -28,7 +29,12 @@
     "sg:postcode":"20155",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WY8NKxRexAdklLqXBrjoU_38.794755_-77.597547@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903681,
     "wof:geomhash":"8711a14413229e69666a60d9865a07ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739259115
+        }
+    ],
     "wof:id":739259115,
-    "wof:lastmodified":1472651084,
+    "wof:lastmodified":1492032930,
     "wof:name":"Tru Green-Chemlawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

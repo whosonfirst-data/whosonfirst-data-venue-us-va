@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.505218,38.26128,-77.505218,38.26128",
     "geom:latitude":38.26128,
     "geom:longitude":-77.505218,
@@ -33,7 +34,12 @@
         "wildlife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47mXkLU9tbrklxZVknuREX_38.261280_-77.505218@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908969,
     "wof:geomhash":"6b75a623a45518ee6e519d2e77ff3e08",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739529449
+        }
+    ],
     "wof:id":739529449,
-    "wof:lastmodified":1472651786,
+    "wof:lastmodified":1492030829,
     "wof:name":"Special Agent-Fredericksburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

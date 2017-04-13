@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.476925,37.259834,-76.476925,37.259834",
     "geom:latitude":37.259834,
     "geom:longitude":-76.476925,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IH5ZCn9Mf2oFoOneVwWQP_37.259834_-76.476925@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904486,
     "wof:geomhash":"69fb339b00acfb7e3b300a66058a0fd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739296281
+        }
+    ],
     "wof:id":739296281,
-    "wof:lastmodified":1472651200,
+    "wof:lastmodified":1492029521,
     "wof:name":"Billy W Hogge Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.500732,38.887555,-78.500732,38.887555",
     "geom:latitude":38.887555,
     "geom:longitude":-78.500732,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Sbnn0csGviK9XrxlzB96u_38.887555_-78.500732@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907284,
-    "wof:geomhash":"4b7723d733d1c66a31f1f171492f4fad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28b97dec68ce20744a6d2b9064fda6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":739436331
+        }
+    ],
     "wof:id":739436331,
-    "wof:lastmodified":1472651527,
+    "wof:lastmodified":1492044978,
     "wof:name":"Walter Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

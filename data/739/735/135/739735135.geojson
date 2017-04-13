@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.954942,37.310446,-79.954942,37.310446",
     "geom:latitude":37.310446,
     "geom:longitude":-79.954942,
@@ -37,7 +38,13 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DZWf7kOBJFZADqQ6YM7Fx_37.310446_-79.954942@1303262552"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461913301,
     "wof:geomhash":"01901a70db7228e5b0b2c56b546a42ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735135
+        }
+    ],
     "wof:id":739735135,
-    "wof:lastmodified":1472652231,
+    "wof:lastmodified":1492032034,
     "wof:name":"Active Maintenance And Rep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.108654,37.779278,-77.108654,37.779278",
     "geom:latitude":37.779278,
     "geom:longitude":-77.108654,
@@ -32,7 +33,12 @@
         "stylist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62Yxhy77fdqgbjm9qwsptk_37.779278_-77.108654@1303262549"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912765,
     "wof:geomhash":"fadef219b93584f29aeb8786dfc80d84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739708971
+        }
+    ],
     "wof:id":739708971,
-    "wof:lastmodified":1472652207,
+    "wof:lastmodified":1492030735,
     "wof:name":"Kw Hair Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

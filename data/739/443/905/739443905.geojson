@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.295323,38.830188,-77.295323,38.830188",
     "geom:latitude":38.830188,
     "geom:longitude":-77.295323,
@@ -33,17 +34,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ls5BWT7SMoPckFy2qDZGJ_38.830188_-77.295323@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907436,
-    "wof:geomhash":"01804009fce887956778a02a4a8e49cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b9999fa1c4d0859029f34356e35fec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":739443905
+        }
+    ],
     "wof:id":739443905,
-    "wof:lastmodified":1472651582,
+    "wof:lastmodified":1492038666,
     "wof:name":"Fairfax Graphics & Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

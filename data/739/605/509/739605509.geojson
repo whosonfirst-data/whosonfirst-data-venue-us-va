@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460792,38.852554,-77.460792,38.852554",
     "geom:latitude":38.852554,
     "geom:longitude":-77.460792,
@@ -38,17 +39,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M5d5dL5vPAphOyblYGIiq_38.852554_-77.460792@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910519,
-    "wof:geomhash":"63b8deea7fb9e5b4b1a9050c9e46b609",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da1eb6255a3e432001b220d40eeffbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739605509
+        }
+    ],
     "wof:id":739605509,
-    "wof:lastmodified":1472651959,
+    "wof:lastmodified":1492039614,
     "wof:name":"5senses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

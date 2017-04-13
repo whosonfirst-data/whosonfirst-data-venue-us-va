@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.623591,38.457939,-77.623591,38.457939",
     "geom:latitude":38.457939,
     "geom:longitude":-77.623591,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g7bOW6zJEfCc7FOdRMRwo_38.457939_-77.623591@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890784,
-    "wof:geomhash":"b96908191797a24b928ae4d7d3fb9679",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aadece7a6af8fe1420af0cae9c59179e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":722899651
+        }
+    ],
     "wof:id":722899651,
-    "wof:lastmodified":1472652083,
+    "wof:lastmodified":1492062427,
     "wof:name":"Earls Auto Body",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

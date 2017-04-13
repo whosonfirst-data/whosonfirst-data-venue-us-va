@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.505843,37.267867,-76.505843,37.267867",
     "geom:latitude":37.267867,
     "geom:longitude":-76.505843,
@@ -32,7 +33,13 @@
         "fishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IyBWUVRY43O2YbXBr48ku_37.267867_-76.505843@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908473,
     "wof:geomhash":"729a9c6be648bfe74b044f74fcfdd5b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739502411
+        }
+    ],
     "wof:id":739502411,
-    "wof:lastmodified":1472651706,
+    "wof:lastmodified":1492029603,
     "wof:name":"Captain Kirk's Bait & Tackle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.31757,38.374001,-77.31757,38.374001",
     "geom:latitude":38.374001,
     "geom:longitude":-77.31757,
@@ -31,17 +32,26 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PiLZzB3fjbRDt0dfTPLtd_38.374001_-77.317570@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888437,
-    "wof:geomhash":"687ef0c734af42529b83f4dcdb97bb07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bcb35b39a87780f8f7d436148807c72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547129,
+            "venue_id":722776625
+        }
+    ],
     "wof:id":722776625,
-    "wof:lastmodified":1472651801,
+    "wof:lastmodified":1492070840,
     "wof:name":"Osprey Ridge Properties LLC",
     "wof:parent_id":420547129,
     "wof:placetype":"venue",

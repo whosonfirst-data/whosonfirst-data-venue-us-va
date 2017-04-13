@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458975,38.765232,-77.458975,38.765232",
     "geom:latitude":38.765232,
     "geom:longitude":-77.458975,
@@ -40,7 +41,13 @@
         "systems-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35Be8jtkhr0y4Ypb6g4xoU_38.765232_-77.458975@1303262495"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461910500,
     "wof:geomhash":"42f0d436269d059d25c8f867b0b0a696",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":739604431
+        }
+    ],
     "wof:id":739604431,
-    "wof:lastmodified":1472651952,
+    "wof:lastmodified":1492032486,
     "wof:name":"A 2 Z Latin Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

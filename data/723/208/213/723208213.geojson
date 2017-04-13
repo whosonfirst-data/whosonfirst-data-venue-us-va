@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.343304,38.967594,-77.343304,38.967594",
     "geom:latitude":38.967594,
     "geom:longitude":-77.343304,
@@ -40,6 +41,7 @@
         85633793,
         101729785,
         102084863,
+        85851565,
         85894021
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897225,
-    "wof:geomhash":"72392f6c7666e15ef69c731bcecef25e",
+    "wof:geomhash":"53b5163100f696e4e00a2c88181d0983",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85851565,
+            "region_id":85688747,
+            "venue_id":723208213
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":723208213,
-    "wof:lastmodified":1472651605,
+    "wof:lastmodified":1492051171,
     "wof:name":"Reston Lake Anne Air Cond",
-    "wof:parent_id":85894021,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

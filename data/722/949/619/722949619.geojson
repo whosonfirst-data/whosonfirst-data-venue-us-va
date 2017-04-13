@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.093982,36.956075,-81.093982,36.956075",
     "geom:latitude":36.956075,
     "geom:longitude":-81.093982,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461891818,
-    "wof:geomhash":"9b90b15d53de93ee55517aeb5abc12cb",
+    "wof:geomhash":"d47d95832566eb57bd92556c5d61f2f0",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":722949619
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,12 +54,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":722949619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":722949619
         }
     ],
     "wof:id":722949619,
-    "wof:lastmodified":1472652258,
+    "wof:lastmodified":1492066630,
     "wof:name":"New River Adventures",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.30733,38.960869,-78.30733,38.960869",
     "geom:latitude":38.960869,
     "geom:longitude":-78.30733,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ip2hFEWztUg0TwnIQlVzg_38.960869_-78.307330@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906691,
     "wof:geomhash":"d300f7aa3b1d76342fbe3668006b8514",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085975,
+            "region_id":85688747,
+            "venue_id":739405595
+        }
+    ],
     "wof:id":739405595,
-    "wof:lastmodified":1472651461,
+    "wof:lastmodified":1492031568,
     "wof:name":"Voll Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

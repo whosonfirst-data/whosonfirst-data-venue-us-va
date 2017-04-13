@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.933476,36.55202,-79.933476,36.55202",
     "geom:latitude":36.55202,
     "geom:longitude":-79.933476,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086705
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78aEsruUFYrIfQKX2s87pI_36.552020_-79.933476@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905751,
     "wof:geomhash":"4748348cabef3bad1225471dcbffdff3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086705,
+            "region_id":85688747,
+            "venue_id":739356695
+        }
+    ],
     "wof:id":739356695,
-    "wof:lastmodified":1472651344,
+    "wof:lastmodified":1492030456,
     "wof:name":"Smith Memorial Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

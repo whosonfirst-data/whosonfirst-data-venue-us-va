@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.427617,38.3292,-77.427617,38.3292",
     "geom:latitude":38.3292,
     "geom:longitude":-77.427617,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4soZ9KWLqUVXLxxqA03Tbo_38.329200_-77.427617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896419,
-    "wof:geomhash":"9087fa5ca1af4acfdef534cda99cdde2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"936015a81ba60e433fef3476154f1fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":723166671
+        }
+    ],
     "wof:id":723166671,
-    "wof:lastmodified":1472651485,
+    "wof:lastmodified":1492047972,
     "wof:name":"Caruso Homes Inc",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

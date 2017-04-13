@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.097045,37.277494,-79.097045,37.277494",
     "geom:latitude":37.277494,
     "geom:longitude":-79.097045,
@@ -31,17 +32,32 @@
         "skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pON3Fr7f7fg9NZ3SUjel4_37.277494_-79.097045@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905303,
-    "wof:geomhash":"4abde9262e1e61d8d04d725cd1805300",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a651ab039a5122258bc3fb32bd65d077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":739336225
+        }
+    ],
     "wof:id":739336225,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492042868,
     "wof:name":"The ARC of Multnomah County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

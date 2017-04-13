@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.406881,38.843152,-77.406881,38.843152",
     "geom:latitude":38.843152,
     "geom:longitude":-77.406881,
@@ -33,17 +34,32 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QKtOhUDKKo0m27botgOmT_38.843152_-77.406881@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884123,
-    "wof:geomhash":"465561b59f65efbf292b873321c46a8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"984faf0d65ab7158214f697557db2d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":722555625
+        }
+    ],
     "wof:id":722555625,
-    "wof:lastmodified":1472651109,
+    "wof:lastmodified":1492073150,
     "wof:name":"Virginia Materials Tech Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

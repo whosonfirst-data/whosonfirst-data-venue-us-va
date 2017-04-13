@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.559256,38.700183,-77.559256,38.700183",
     "geom:latitude":38.700183,
     "geom:longitude":-77.559256,
@@ -38,17 +39,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pavG6zbkS77jupyH8wggW_38.700183_-77.559256@1303262497"
     },
     "wof:country":"US",
     "wof:created":1461910764,
-    "wof:geomhash":"d28f7e2ba4c682e83cae1cf30f656e2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99b2e6eb4a599fb65021297d9acdaf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":739617369
+        }
+    ],
     "wof:id":739617369,
-    "wof:lastmodified":1472651994,
+    "wof:lastmodified":1492040778,
     "wof:name":"Shaw International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.477117,37.598625,-77.477117,37.598625",
     "geom:latitude":37.598625,
     "geom:longitude":-77.477117,
@@ -28,7 +29,13 @@
     "sg:postcode":"23228",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729369,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31OgpDBVpQQCVeqlG8dteU_37.598625_-77.477117@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461909162,
     "wof:geomhash":"648a6c9db4d44a848cdefbcf4c76671b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729369,
+            "region_id":85688747,
+            "venue_id":739540551
+        }
+    ],
     "wof:id":739540551,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492032614,
     "wof:name":"Coles Lawn & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

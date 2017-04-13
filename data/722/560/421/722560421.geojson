@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.438557,37.171761,-76.438557,37.171761",
     "geom:latitude":37.171761,
     "geom:longitude":-76.438557,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qJCXuKO2ntgotvp5UAruM_37.171761_-76.438557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884210,
-    "wof:geomhash":"a41f965ee0a869edecd563c24933eb04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62598f6beac3d80a89c9e5906b652e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722560421
+        }
+    ],
     "wof:id":722560421,
-    "wof:lastmodified":1472651105,
+    "wof:lastmodified":1492063180,
     "wof:name":"Crossroads Repair Svc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

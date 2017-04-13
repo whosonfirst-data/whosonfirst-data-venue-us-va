@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454046,38.792115,-77.454046,38.792115",
     "geom:latitude":38.792115,
     "geom:longitude":-77.454046,
@@ -32,7 +33,13 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OCjKzfCmQEs52S19itQOG_38.792115_-77.454046@1303262495"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910505,
     "wof:geomhash":"f7fff9e4f77cc57b4f0c070564830a79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739604695
+        }
+    ],
     "wof:id":739604695,
-    "wof:lastmodified":1472651964,
+    "wof:lastmodified":1492032504,
     "wof:name":"Galloping Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

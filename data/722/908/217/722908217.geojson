@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.421455,38.296206,-77.421455,38.296206",
     "geom:latitude":38.296206,
     "geom:longitude":-77.421455,
@@ -31,17 +32,26 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wXmz5nar4Cu4aVBsICXeW_38.296206_-77.421455@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890954,
-    "wof:geomhash":"2a77f4c60adc37eb81c5a1bf2e9c14a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e31670d0a05bcfca6fc5c19c4b78f562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":722908217
+        }
+    ],
     "wof:id":722908217,
-    "wof:lastmodified":1472652101,
+    "wof:lastmodified":1492063756,
     "wof:name":"U S Computer Maintenance",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

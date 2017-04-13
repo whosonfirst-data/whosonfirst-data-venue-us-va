@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.361553,38.608623,-77.361553,38.608623",
     "geom:latitude":38.608623,
     "geom:longitude":-77.361553,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729261,
+        102084937,
+        85868221
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g01RcJL056LCRaCp3GcC9_38.608623_-77.361553@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902273,
-    "wof:geomhash":"56fa2db9574c25dd849d17193864bccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a691a75398b09b56eb73b52ca3bc3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729261,
+            "neighbourhood_id":85868221,
+            "region_id":85688747,
+            "venue_id":723467501
+        }
+    ],
     "wof:id":723467501,
-    "wof:lastmodified":1472652293,
+    "wof:lastmodified":1492048655,
     "wof:name":"Lane Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

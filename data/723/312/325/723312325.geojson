@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.386365,39.026657,-77.386365,39.026657",
     "geom:latitude":39.026657,
     "geom:longitude":-77.386365,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X0ueE00XLntu3MRvwuEuf_39.026657_-77.386365@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899307,
-    "wof:geomhash":"04bd9a1b880eb8dd264d78fd06043394",
-    "wof:hierarchy":[],
+    "wof:geomhash":"456895a8e446be97566a4d8d245af019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723312325
+        }
+    ],
     "wof:id":723312325,
-    "wof:lastmodified":1472651778,
+    "wof:lastmodified":1492058497,
     "wof:name":"New Horizons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

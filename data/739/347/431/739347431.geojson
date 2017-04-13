@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.383592,38.400037,-77.383592,38.400037",
     "geom:latitude":38.400037,
     "geom:longitude":-77.383592,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PJ6HxYv7NTHS57kUdnmPK_38.400037_-77.383592@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905556,
-    "wof:geomhash":"4bbad4c613fd81298e7044d8e7646790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3de713d772c4511d53a092a63bde0f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":739347431
+        }
+    ],
     "wof:id":739347431,
-    "wof:lastmodified":1472651282,
+    "wof:lastmodified":1492043575,
     "wof:name":"Home Maintenance & Repair Inc",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

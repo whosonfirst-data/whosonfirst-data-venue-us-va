@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.513988,37.284365,-76.513988,37.284365",
     "geom:latitude":37.284365,
     "geom:longitude":-76.513988,
@@ -33,7 +34,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V6OYFcxHy9yoXbfQ5TgW8_37.284365_-76.513988@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461903477,
     "wof:geomhash":"b072982a0695cc39952181e869385b1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739249707
+        }
+    ],
     "wof:id":739249707,
-    "wof:lastmodified":1472651103,
+    "wof:lastmodified":1492029621,
     "wof:name":"Carteret Industrial Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

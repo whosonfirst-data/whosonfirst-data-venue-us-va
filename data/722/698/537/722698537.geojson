@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.391775,38.455993,-77.391775,38.455993",
     "geom:latitude":38.455993,
     "geom:longitude":-77.391775,
@@ -39,6 +40,7 @@
         85633793,
         101729335,
         102081931,
+        420547163,
         85865415
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886942,
-    "wof:geomhash":"6ed9d23cdbaa6828405692896998a67d",
+    "wof:geomhash":"d81519e76f0b09eda8cf92c2f7dfed5b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729335,
+            "neighbourhood_id":420547163,
+            "region_id":85688747,
+            "venue_id":722698537
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":722698537,
-    "wof:lastmodified":1472651558,
+    "wof:lastmodified":1492062603,
     "wof:name":"Susan Carol & Associates",
-    "wof:parent_id":85865415,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

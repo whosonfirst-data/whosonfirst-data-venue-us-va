@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.851855,37.373168,-79.851855,37.373168",
     "geom:latitude":37.373168,
     "geom:longitude":-79.851855,
@@ -31,7 +32,13 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729613,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RGTPbFiyi2Fba8bPdWMoE_37.373168_-79.851855@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904195,
     "wof:geomhash":"d1f7c8bb6f7a638c605c55209eed281a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729613,
+            "region_id":85688747,
+            "venue_id":739282025
+        }
+    ],
     "wof:id":739282025,
-    "wof:lastmodified":1472651141,
+    "wof:lastmodified":1492031911,
     "wof:name":"Dale Beard Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

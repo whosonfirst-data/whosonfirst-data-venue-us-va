@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.614424,39.081233,-77.614424,39.081233",
     "geom:latitude":39.081233,
     "geom:longitude":-77.614424,
@@ -37,17 +38,30 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_452Kf7HUFb1p57QhBTK0bz_39.081233_-77.614424@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892089,
-    "wof:geomhash":"f34a83f25703972974a368fcb424a019",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8884d0753a5a92e36ed2ca9abfa310a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722962589
+        }
+    ],
     "wof:id":722962589,
-    "wof:lastmodified":1472652300,
+    "wof:lastmodified":1492067897,
     "wof:name":"The Stamphouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

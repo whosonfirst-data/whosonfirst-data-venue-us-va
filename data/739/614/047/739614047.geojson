@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.637842,38.828305,-77.637842,38.828305",
     "geom:latitude":38.828305,
     "geom:longitude":-77.637842,
@@ -31,7 +32,12 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ChegjitktWwzSs4LUGbsC_38.828305_-77.637842@1303262496"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461910691,
     "wof:geomhash":"e32471c0f588d188aa6892fc25b15dc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739614047
+        }
+    ],
     "wof:id":739614047,
-    "wof:lastmodified":1472651978,
+    "wof:lastmodified":1492031520,
     "wof:name":"Remarkable Difference",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.367577,38.237504,-78.367577,38.237504",
     "geom:latitude":38.237504,
     "geom:longitude":-78.367577,
@@ -31,17 +32,32 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729591,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xoDfg8bqI2A522udIQTfR_38.237504_-78.367577@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906164,
-    "wof:geomhash":"646c710b9ee1256046c9a290da6aed0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b84720ce60609514f6a1f0bd050cb7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101729591,
+            "region_id":85688747,
+            "venue_id":739378811
+        }
+    ],
     "wof:id":739378811,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492038849,
     "wof:name":"Pennington Greenhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.47869,38.454798,-77.47869,38.454798",
     "geom:latitude":38.454798,
     "geom:longitude":-77.47869,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QONdzhYfLSxSTpgEHU1Xm_38.454798_-77.478690@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902823,
-    "wof:geomhash":"37cd4dbef30ef74b5237a93fc892c434",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97aa4681e2dc3ab5e2a87c880f4aa7c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547127,
+            "venue_id":723494145
+        }
+    ],
     "wof:id":723494145,
-    "wof:lastmodified":1472652327,
+    "wof:lastmodified":1492052256,
     "wof:name":"Krueger Computer Systems",
     "wof:parent_id":420547127,
     "wof:placetype":"venue",

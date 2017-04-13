@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.170098,39.187363,-78.170098,39.187363",
     "geom:latitude":39.187363,
     "geom:longitude":-78.170098,
@@ -28,7 +29,13 @@
     "sg:postcode":"22601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fR0A1eTcqaxuU2zzy1C5y_39.187363_-78.170098@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908544,
     "wof:geomhash":"36d6852c76c898d0d32d14cb8114b501",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739506507
+        }
+    ],
     "wof:id":739506507,
-    "wof:lastmodified":1472651782,
+    "wof:lastmodified":1492032894,
     "wof:name":"Elson & Assocs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

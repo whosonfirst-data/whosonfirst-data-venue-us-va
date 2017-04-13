@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.556686,38.745543,-77.556686,38.745543",
     "geom:latitude":38.745543,
     "geom:longitude":-77.556686,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tw2HK14y2HH02iLipOLMg_38.745543_-77.556686@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906453,
-    "wof:geomhash":"b1fa86dc89f371f6c5726b1f4e672122",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73e64d18b7e304af1061d210a2f55761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739393291
+        }
+    ],
     "wof:id":739393291,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492041139,
     "wof:name":"SRS Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

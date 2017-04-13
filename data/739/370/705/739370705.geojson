@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.133028,36.718474,-78.133028,36.718474",
     "geom:latitude":36.718474,
     "geom:longitude":-78.133028,
@@ -32,7 +33,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LOC93ZxVcb0n6uKS3DgXr_36.718474_-78.133028@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906008,
     "wof:geomhash":"a8318b2fe14cc9814e4252f8f4612c34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739370705
+        }
+    ],
     "wof:id":739370705,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492030995,
     "wof:name":"Pinewood Forest Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

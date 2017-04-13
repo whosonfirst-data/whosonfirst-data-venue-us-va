@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.730499,37.350773,-76.730499,37.350773",
     "geom:latitude":37.350773,
     "geom:longitude":-76.730499,
@@ -33,19 +34,28 @@
     ],
     "sg:website":"www.williamsburgford.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02rjUI0pOV4QngkH9FSP5k_37.350773_-76.730499@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893581,
-    "wof:geomhash":"453c5783bf11bda000d3a9629cc8b31b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8efc971b7d0fd38ea38f26505759c801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":723029101
+        }
+    ],
     "wof:id":723029101,
-    "wof:lastmodified":1472651132,
+    "wof:lastmodified":1492058989,
     "wof:name":"Williamsburg Ford Lincoln Merc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

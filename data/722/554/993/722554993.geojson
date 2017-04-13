@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.462985,38.233514,-77.462985,38.233514",
     "geom:latitude":38.233514,
     "geom:longitude":-77.462985,
@@ -33,17 +34,30 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AkPaw90A1ynauUPByl2an_38.233514_-77.462985@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884111,
-    "wof:geomhash":"e40e13f66525fd0226454be584bd9bc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31725cc9fac3704dedab9ee2fa453e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722554993
+        }
+    ],
     "wof:id":722554993,
-    "wof:lastmodified":1472651122,
+    "wof:lastmodified":1492072918,
     "wof:name":"Jarrell Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

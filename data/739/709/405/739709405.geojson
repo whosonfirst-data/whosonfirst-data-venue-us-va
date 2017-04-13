@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.162471,37.599042,-77.162471,37.599042",
     "geom:latitude":37.599042,
     "geom:longitude":-77.162471,
@@ -31,17 +32,30 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lKc43iY6aBCsWwxTQTeXJ_37.599042_-77.162471@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912772,
-    "wof:geomhash":"d56a434508764519e730ba8f902d1153",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60033a05baaeec4967e0012234a24cd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739709405
+        }
+    ],
     "wof:id":739709405,
-    "wof:lastmodified":1472652189,
+    "wof:lastmodified":1492047053,
     "wof:name":"Joplin Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

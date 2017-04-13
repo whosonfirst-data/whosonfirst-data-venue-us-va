@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.974561,37.261267,-79.974561,37.261267",
     "geom:latitude":37.261267,
     "geom:longitude":-79.974561,
@@ -31,7 +32,13 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eO63TsPpC4YwwwsiyNWti_37.261267_-79.974561@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905406,
     "wof:geomhash":"57af4df4893875a3352c72d52a78fded",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739341325
+        }
+    ],
     "wof:id":739341325,
-    "wof:lastmodified":1472651276,
+    "wof:lastmodified":1492032548,
     "wof:name":"Computer Solutions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

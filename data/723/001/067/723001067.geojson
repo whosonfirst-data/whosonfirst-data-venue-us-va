@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.796104,37.530917,-76.796104,37.530917",
     "geom:latitude":37.530917,
     "geom:longitude":-76.796104,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728795,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37OJ7WKZrD4HNyYUX1WGGH_37.530917_-76.796104@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892925,
-    "wof:geomhash":"5dc1fe96154d957933e3dd8c777a9378",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11419f5beb9df3f9e9b6cf5a3bd123b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101728795,
+            "region_id":85688747,
+            "venue_id":723001067
+        }
+    ],
     "wof:id":723001067,
-    "wof:lastmodified":1472651069,
+    "wof:lastmodified":1492053454,
     "wof:name":"West Point Adult Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

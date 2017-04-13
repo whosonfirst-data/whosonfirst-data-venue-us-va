@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.895008,36.907858,-76.895008,36.907858",
     "geom:latitude":36.907858,
     "geom:longitude":-76.895008,
@@ -32,7 +33,13 @@
         "gunsmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728869,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MxtZMdsIE16u5UBdOGZGJ_36.907858_-76.895008@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907013,
     "wof:geomhash":"41293e99703323c7688d5d38323f6f04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728869,
+            "region_id":85688747,
+            "venue_id":739422259
+        }
+    ],
     "wof:id":739422259,
-    "wof:lastmodified":1472651501,
+    "wof:lastmodified":1492031208,
     "wof:name":"Firearms Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.499042,37.131657,-81.499042,37.131657",
     "geom:latitude":37.131657,
     "geom:longitude":-81.499042,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UfwgAnID6qN25gIwVVM7N_37.131657_-81.499042@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888505,
-    "wof:geomhash":"14fd36bc97c3f3e2b4ccfba7e5f5db41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ca169c17f2221c849030bdfafc97d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":722780335
+        }
+    ],
     "wof:id":722780335,
-    "wof:lastmodified":1472651766,
+    "wof:lastmodified":1492065496,
     "wof:name":"Record Shop",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

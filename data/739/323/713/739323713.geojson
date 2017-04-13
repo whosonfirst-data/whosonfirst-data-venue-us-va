@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.897914,38.401531,-78.897914,38.401531",
     "geom:latitude":38.401531,
     "geom:longitude":-78.897914,
@@ -34,17 +35,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KfT1nZe2eXpoOuMaL8n0r_38.401531_-78.897914@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905054,
-    "wof:geomhash":"b612660c3ded08d6552d3571e074e71b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c76b4971e479a820653c286d4a73ed94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739323713
+        }
+    ],
     "wof:id":739323713,
-    "wof:lastmodified":1472651288,
+    "wof:lastmodified":1492044451,
     "wof:name":"Cross Country Angus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

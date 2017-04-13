@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.199537,38.249059,-77.199537,38.249059",
     "geom:latitude":38.249059,
     "geom:longitude":-77.199537,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MEdEH9s1LZxa7CMxcfMkj_38.249059_-77.199537@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906781,
     "wof:geomhash":"1883eebfef13596f8f556253c199d7ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":739410889
+        }
+    ],
     "wof:id":739410889,
-    "wof:lastmodified":1472651495,
+    "wof:lastmodified":1492032298,
     "wof:name":"Gs Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

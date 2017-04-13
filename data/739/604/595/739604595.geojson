@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.4897,38.776501,-77.4897,38.776501",
     "geom:latitude":38.776501,
     "geom:longitude":-77.4897,
@@ -28,7 +29,13 @@
     "sg:postcode":"20110",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729245,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l7PiQRGpCRY4m24jCItWm_38.776501_-77.489700@1303262495"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910503,
     "wof:geomhash":"ec2156cfea5da3cfb7a9a3e6af510401",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729245,
+            "region_id":85688747,
+            "venue_id":739604595
+        }
+    ],
     "wof:id":739604595,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492032498,
     "wof:name":"Hawkey Andy Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

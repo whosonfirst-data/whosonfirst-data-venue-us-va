@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.909076,37.244228,-79.909076,37.244228",
     "geom:latitude":37.244228,
     "geom:longitude":-79.909076,
@@ -28,7 +29,13 @@
     "sg:postcode":"24014",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2upFKAtcbjkN6GDBqQPAvC_37.244228_-79.909076@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908896,
     "wof:geomhash":"318cad1f55457be91f2ef170ea6d4938",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739525421
+        }
+    ],
     "wof:id":739525421,
-    "wof:lastmodified":1472651785,
+    "wof:lastmodified":1492032633,
     "wof:name":"David Robertson Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

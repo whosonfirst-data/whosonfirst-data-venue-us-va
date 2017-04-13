@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449976,38.782505,-77.449976,38.782505",
     "geom:latitude":38.782505,
     "geom:longitude":-77.449976,
@@ -34,17 +35,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IbTPeDfT8Ts5mkiLAYKSA_38.782505_-77.449976@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890302,
-    "wof:geomhash":"cdba3b97667bb849d5901a2077322f52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce6c66cdfad372a92bf3d9d1430bb2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":722875461
+        }
+    ],
     "wof:id":722875461,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492066973,
     "wof:name":"Public Storage Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.170295,39.175508,-78.170295,39.175508",
     "geom:latitude":39.175508,
     "geom:longitude":-78.170295,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zNmeTpWxvu5v9nIWFuihb_39.175508_-78.170295@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907865,
-    "wof:geomhash":"8673730f2fed9699913d23e7e9cd299b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbb9fcde8228d607580d8734a1413bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739468751
+        }
+    ],
     "wof:id":739468751,
-    "wof:lastmodified":1472651641,
+    "wof:lastmodified":1492042836,
     "wof:name":"Superior Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

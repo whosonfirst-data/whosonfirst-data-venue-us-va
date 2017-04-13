@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.352764,37.523945,-77.352764,37.523945",
     "geom:latitude":37.523945,
     "geom:longitude":-77.352764,
@@ -29,7 +30,14 @@
     "sg:province":"VA",
     "sg:website":"www.bbandt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255,
+        101729373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48kXR6Mef3h5T13dBAP4oW_37.523945_-77.352764@1294252573"
@@ -37,9 +45,26 @@
     "wof:country":"US",
     "wof:created":1461906107,
     "wof:geomhash":"9546f36cc4aee2361e99cf0e6dc9ff2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739375499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729373,
+            "region_id":85688747,
+            "venue_id":739375499
+        }
+    ],
     "wof:id":739375499,
-    "wof:lastmodified":1472651354,
+    "wof:lastmodified":1492030849,
     "wof:name":"B B & T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

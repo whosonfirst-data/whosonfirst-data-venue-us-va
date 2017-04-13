@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.548827,37.480244,-77.548827,37.480244",
     "geom:latitude":37.480244,
     "geom:longitude":-77.548827,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23zoZwkrXfr5ORXdvAee47_37.480244_-77.548827@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886048,
-    "wof:geomhash":"33e71f7420ae05484f7e51bea31fcce0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21a16bdc0b9fec6f1dc8ed8838da83a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":722651775
+        }
+    ],
     "wof:id":722651775,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492065041,
     "wof:name":"Royal Taxi Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

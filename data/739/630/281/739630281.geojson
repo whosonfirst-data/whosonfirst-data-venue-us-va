@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191557,38.716249,-77.191557,38.716249",
     "geom:latitude":38.716249,
     "geom:longitude":-77.191557,
@@ -44,17 +45,32 @@
         "surface"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40rtGIca9jFNlZ2mFCy86y_38.716249_-77.191557@1303262538"
     },
     "wof:country":"US",
     "wof:created":1461911030,
-    "wof:geomhash":"d64e4e1eba1159384b2658f7374e62b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62f2d3f05751f5d488bf2aad10e898cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":739630281
+        }
+    ],
     "wof:id":739630281,
-    "wof:lastmodified":1472651987,
+    "wof:lastmodified":1492041868,
     "wof:name":"Pietra Graniti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

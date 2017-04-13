@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.516999,38.79414,-77.516999,38.79414",
     "geom:latitude":38.79414,
     "geom:longitude":-77.516999,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qyqDwHXzeQdu37xBZ3V6L_38.794575_-77.517045@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909876,
-    "wof:geomhash":"a2dfffb062ae2b27ca7346afe52fec8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4538c2de1e72ca1f7cc11d9cf968595d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739574165
+        }
+    ],
     "wof:id":739574165,
-    "wof:lastmodified":1472651879,
+    "wof:lastmodified":1492045485,
     "wof:name":"Race Track Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

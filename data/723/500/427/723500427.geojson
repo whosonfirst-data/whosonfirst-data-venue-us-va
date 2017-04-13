@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.09487,37.03587,-77.09487,37.03587",
     "geom:latitude":37.03587,
     "geom:longitude":-77.09487,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728757,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gQRxh5odGxjrSkRJSkj1j_37.035870_-77.094870@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902971,
-    "wof:geomhash":"4d8d6f1b84b2903ad8e1809e5954dadb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c24cc5b500f100dc9ab4a2f19864f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "locality_id":101728757,
+            "region_id":85688747,
+            "venue_id":723500427
+        }
+    ],
     "wof:id":723500427,
-    "wof:lastmodified":1472652339,
+    "wof:lastmodified":1492059160,
     "wof:name":"Christian Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

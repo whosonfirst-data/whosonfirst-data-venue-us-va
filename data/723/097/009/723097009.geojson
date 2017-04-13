@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.163613,39.185173,-78.163613,39.185173",
     "geom:latitude":39.185173,
     "geom:longitude":-78.163613,
@@ -33,17 +34,32 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7klyezYno1Ymy3u5jPoDto_39.185173_-78.163613@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895059,
-    "wof:geomhash":"a39786864c006952e4e008df070d4669",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a66f26f5b248ab3b986be88109238f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723097009
+        }
+    ],
     "wof:id":723097009,
-    "wof:lastmodified":1472651262,
+    "wof:lastmodified":1492060565,
     "wof:name":"Crime Solvers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

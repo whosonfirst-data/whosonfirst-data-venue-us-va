@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.344135,39.00106,-77.344135,39.00106",
     "geom:latitude":39.00106,
     "geom:longitude":-77.344135,
@@ -40,17 +41,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RkXjCSvxCLeTBWypqIZys_39.001060_-77.344135@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885054,
-    "wof:geomhash":"087fe36414cb952f5996b164b3fde4ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f69acdbae568c9d145cfdac08fab98b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":722603485
+        }
+    ],
     "wof:id":722603485,
-    "wof:lastmodified":1472651293,
+    "wof:lastmodified":1492073543,
     "wof:name":"Calico Corners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

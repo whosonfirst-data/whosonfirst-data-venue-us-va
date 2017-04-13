@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418921,38.455874,-77.418921,38.455874",
     "geom:latitude":38.455874,
     "geom:longitude":-77.418921,
@@ -29,19 +30,38 @@
     "sg:province":"VA",
     "sg:website":"www.staffordschools.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547145,
+        85688747,
+        85894039,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ackBd8BWENBp0DXYBsNcI_38.455874_-77.418921@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898262,
-    "wof:geomhash":"05e6304deef06672f9150903cf9a77d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ecc5735fc0d281a22be83b152e4d604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547145,
+            "venue_id":723257563
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "neighbourhood_id":85894039,
+            "region_id":85688747,
+            "venue_id":723257563
+        }
+    ],
     "wof:id":723257563,
-    "wof:lastmodified":1472651699,
+    "wof:lastmodified":1492057158,
     "wof:name":"Hampton Oaks Elementary School",
-    "wof:parent_id":420547145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

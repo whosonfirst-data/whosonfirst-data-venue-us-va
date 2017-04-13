@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518311,38.793913,-77.518311,38.793913",
     "geom:latitude":38.793913,
     "geom:longitude":-77.518311,
@@ -32,17 +33,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m62Aeqk3ETlEsTMJ76TSG_38.793913_-77.518311@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910479,
-    "wof:geomhash":"cf0d3ddee24c640467e242666970e356",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d80245c13e884b18ba4893e82c0dfd20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739603289
+        }
+    ],
     "wof:id":739603289,
-    "wof:lastmodified":1472651945,
+    "wof:lastmodified":1492044816,
     "wof:name":"Catoctin Mortgage Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

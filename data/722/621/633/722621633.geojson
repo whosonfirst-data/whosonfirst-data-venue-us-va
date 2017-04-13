@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.66529,37.456278,-77.66529,37.456278",
     "geom:latitude":37.456278,
     "geom:longitude":-77.66529,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rDLUfPQTXeTNE3gegAL3B_37.456278_-77.665290@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885420,
-    "wof:geomhash":"512d63d116bd6e2ca02258aa80a3dac0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7e47919ee53a8312d51007ea3cd5caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722621633
+        }
+    ],
     "wof:id":722621633,
-    "wof:lastmodified":1472651391,
+    "wof:lastmodified":1492072193,
     "wof:name":"Buddy House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

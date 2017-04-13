@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.309579,39.324163,-78.309579,39.324163",
     "geom:latitude":39.324163,
     "geom:longitude":-78.309579,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.lake-holiday.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729109,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZSg4ABal5w84zqkoQKYHf_39.324163_-78.309579@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907762,
     "wof:geomhash":"6ce394183121cd2573728ef343b42cd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "locality_id":101729109,
+            "region_id":85688747,
+            "venue_id":739462767
+        }
+    ],
     "wof:id":739462767,
-    "wof:lastmodified":1472651634,
+    "wof:lastmodified":1492033350,
     "wof:name":"Lake Holiday Country Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

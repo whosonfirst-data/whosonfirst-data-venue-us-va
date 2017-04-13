@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.71996,37.331461,-80.71996,37.331461",
     "geom:latitude":37.331461,
     "geom:longitude":-80.71996,
@@ -28,7 +29,13 @@
     "sg:postcode":"24134",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728851,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eJri5cLU2UKIzJq2qaGPi_37.331461_-80.719960@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907223,
     "wof:geomhash":"772244f54ef1c2e467f2771eed6853ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728851,
+            "region_id":85688747,
+            "venue_id":739433033
+        }
+    ],
     "wof:id":739433033,
-    "wof:lastmodified":1472651509,
+    "wof:lastmodified":1492030403,
     "wof:name":"Osteopetrosis Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

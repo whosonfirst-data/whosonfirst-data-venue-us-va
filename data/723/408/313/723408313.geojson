@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.605615,37.48272,-77.605615,37.48272",
     "geom:latitude":37.48272,
     "geom:longitude":-77.605615,
@@ -32,17 +33,30 @@
         "greeting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CPHqaKZ3YaC7kRGrLQnm5_37.482720_-77.605615@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901136,
-    "wof:geomhash":"6cfb9ecdb5832c5e7dfc63e36cef34ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a3a4284c0e3c16205f119161588cdae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723408313
+        }
+    ],
     "wof:id":723408313,
-    "wof:lastmodified":1472652147,
+    "wof:lastmodified":1492048053,
     "wof:name":"Card Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

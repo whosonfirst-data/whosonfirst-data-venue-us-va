@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.489925,38.440024,-77.489925,38.440024",
     "geom:latitude":38.440024,
     "geom:longitude":-77.489925,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04rJpOafeMxO25b5JZqCGu_38.440024_-77.489925@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907562,
     "wof:geomhash":"54db5d157c08930cf9b420530f2be100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547115,
+            "venue_id":739451147
+        }
+    ],
     "wof:id":739451147,
-    "wof:lastmodified":1472651559,
+    "wof:lastmodified":1492031164,
     "wof:name":"Craig Horton's Electric",
     "wof:parent_id":420547115,
     "wof:placetype":"venue",

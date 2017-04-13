@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.293504,38.359626,-77.293504,38.359626",
     "geom:latitude":38.359626,
     "geom:longitude":-77.293504,
@@ -32,19 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121,
+        420547129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DHXCYxrhywkPb9aJCuxyd_38.359626_-77.293504@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889115,
-    "wof:geomhash":"f6d3940662d21a2f3cffde2ef6df9ed8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d793b0c12464a0f883a236810a7d151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":722812529
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547129,
+            "venue_id":722812529
+        }
+    ],
     "wof:id":722812529,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492065849,
     "wof:name":"Dunkums Electric Inc",
-    "wof:parent_id":420547129,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

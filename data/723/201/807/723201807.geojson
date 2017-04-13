@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.773404,37.960013,-76.773404,37.960013",
     "geom:latitude":37.960013,
     "geom:longitude":-76.773404,
@@ -33,17 +34,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728753,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40JN0n5C7hMJf4oPBtO3Wn_37.960013_-76.773404@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897109,
-    "wof:geomhash":"164ef2b603db416ddcb36b0cbd6c9624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2766cbff87caff1026c2353a3616cdd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "locality_id":101728753,
+            "region_id":85688747,
+            "venue_id":723201807
+        }
+    ],
     "wof:id":723201807,
-    "wof:lastmodified":1472651592,
+    "wof:lastmodified":1492056760,
     "wof:name":"Northern Neck Regional Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

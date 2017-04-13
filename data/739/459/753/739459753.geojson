@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.616251,38.795199,-77.616251,38.795199",
     "geom:latitude":38.795199,
     "geom:longitude":-77.616251,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AFwIhMmxFGKxNMgshljGp_38.795199_-77.616251@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907712,
-    "wof:geomhash":"e2044a8c066dbfa2138d649603b8ccf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"362fd8e8ac3a18849a61da7d02a2d269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739459753
+        }
+    ],
     "wof:id":739459753,
-    "wof:lastmodified":1472651594,
+    "wof:lastmodified":1492046057,
     "wof:name":"Deckmaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

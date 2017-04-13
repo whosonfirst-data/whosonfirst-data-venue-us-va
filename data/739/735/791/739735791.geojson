@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.95413,37.255894,-79.95413,37.255894",
     "geom:latitude":37.255894,
     "geom:longitude":-79.95413,
@@ -28,7 +29,13 @@
     "sg:postcode":"24015",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39dSFgupOCeKJ1cLl7nuq6_37.255894_-79.954130@1303262552"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913316,
     "wof:geomhash":"826815095097f085e9a75a0bc9db3871",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735791
+        }
+    ],
     "wof:id":739735791,
-    "wof:lastmodified":1472652269,
+    "wof:lastmodified":1492032049,
     "wof:name":"Heironimus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

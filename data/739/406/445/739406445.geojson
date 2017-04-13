@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764147,37.354525,-76.764147,37.354525",
     "geom:latitude":37.354525,
     "geom:longitude":-76.764147,
@@ -36,7 +37,10 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VIzeklXBT7FQr4ZBRsKnu_37.354525_-76.764147@1294252573"
@@ -44,9 +48,15 @@
     "wof:country":"US",
     "wof:created":1461906705,
     "wof:geomhash":"05d863af1b09cff47ba437157b802135",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739406445
+        }
+    ],
     "wof:id":739406445,
-    "wof:lastmodified":1472651463,
+    "wof:lastmodified":1492033184,
     "wof:name":"Williamsburg House Crafts Ltd",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

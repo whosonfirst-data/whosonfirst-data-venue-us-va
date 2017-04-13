@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.877732,38.472811,-78.877732,38.472811",
     "geom:latitude":38.472811,
     "geom:longitude":-78.877732,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f2RLU5SSMIYDbkUk1dbVt_38.472811_-78.877732@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889334,
-    "wof:geomhash":"5f91d265b2461aa57fb4f491d9c1e4bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36e98ffc7854b5d20a97fdea9f4949a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722823871
+        }
+    ],
     "wof:id":722823871,
-    "wof:lastmodified":1472651910,
+    "wof:lastmodified":1492069268,
     "wof:name":"Education Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

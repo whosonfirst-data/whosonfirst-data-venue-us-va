@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.8985,38.082349,-78.8985,38.082349",
     "geom:latitude":38.082349,
     "geom:longitude":-78.8985,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dkVN2NcsB9KHDT8xuljYA_38.082349_-78.898500@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895251,
-    "wof:geomhash":"c4b120bff47627bfe9304f6dc438a201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"141ee50f2ca2e2d404107a876aae4c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723106901
+        }
+    ],
     "wof:id":723106901,
-    "wof:lastmodified":1472651319,
+    "wof:lastmodified":1492060006,
     "wof:name":"Free Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433764,37.585122,-77.433764,37.585122",
     "geom:latitude":37.585122,
     "geom:longitude":-77.433764,
@@ -32,7 +33,12 @@
         "beauty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09vScGjYWTKgCa20wJXHau_37.585122_-77.433764@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904712,
     "wof:geomhash":"11b40f0d49b66ae7ea0afeb84134bdd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739306711
+        }
+    ],
     "wof:id":739306711,
-    "wof:lastmodified":1472651218,
+    "wof:lastmodified":1492030323,
     "wof:name":"Ruby Red",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

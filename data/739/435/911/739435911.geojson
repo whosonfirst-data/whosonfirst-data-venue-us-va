@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.242575,38.930121,-77.242575,38.930121",
     "geom:latitude":38.930121,
     "geom:longitude":-77.242575,
@@ -42,7 +43,9 @@
         85633793,
         101729797,
         102084863,
-        85852975
+        85852975,
+        101729767,
+        85839227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,12 +63,21 @@
             "neighbourhood_id":85852975,
             "region_id":85688747,
             "venue_id":739435911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85839227,
+            "region_id":85688747,
+            "venue_id":739435911
         }
     ],
     "wof:id":739435911,
-    "wof:lastmodified":1472651543,
+    "wof:lastmodified":1492029398,
     "wof:name":"Peacock Buick Sterling Suzuki",
-    "wof:parent_id":85852975,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

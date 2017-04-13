@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503955,38.779977,-77.503955,38.779977",
     "geom:latitude":38.779977,
     "geom:longitude":-77.503955,
@@ -34,17 +35,32 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gmzcSYSmJ1ZZlOq1ToeFp_38.779977_-77.503955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898781,
-    "wof:geomhash":"997907d0a4ee1362aa0dccd5cda9b010",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7bb3ef43f56699782585c5e023d224e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":723285353
+        }
+    ],
     "wof:id":723285353,
-    "wof:lastmodified":1472651757,
+    "wof:lastmodified":1492047665,
     "wof:name":"Manassas Vacuum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

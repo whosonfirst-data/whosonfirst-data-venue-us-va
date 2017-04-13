@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.939013,37.270558,-79.939013,37.270558",
     "geom:latitude":37.270558,
     "geom:longitude":-79.939013,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BbUYx6ZJv2gGtHQ3sZHnK_37.270558_-79.939013@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889400,
-    "wof:geomhash":"cbc6d4c2d74723d3a3a805fe86e0226a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"654c9c9c49469ad9da9f6569921beeed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722827325
+        }
+    ],
     "wof:id":722827325,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492074277,
     "wof:name":"Interior Motives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

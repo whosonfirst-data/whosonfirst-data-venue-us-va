@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.443167,37.989421,-78.443167,37.989421",
     "geom:latitude":37.989421,
     "geom:longitude":-78.443167,
@@ -32,17 +33,30 @@
         "historical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eeM3B82RIrrP8LedcaZrG_37.989421_-78.443167@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912603,
-    "wof:geomhash":"ffe5bf463381b8c8d8badcfbc5241bcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36a8534b58a234fc3c44519f382b9881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739701125
+        }
+    ],
     "wof:id":739701125,
-    "wof:lastmodified":1472652158,
+    "wof:lastmodified":1492045325,
     "wof:name":"College of William and Mary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

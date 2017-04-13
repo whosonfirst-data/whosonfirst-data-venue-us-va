@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.139651,38.855806,-77.139651,38.855806",
     "geom:latitude":38.855806,
     "geom:longitude":-77.139651,
@@ -31,7 +32,13 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LN26PVAfJPpBMxBG4VYuv_38.855806_-77.139651@1303262538"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910982,
     "wof:geomhash":"8b35df7e6a73a6b0adce2a8d29f51181",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739627523
+        }
+    ],
     "wof:id":739627523,
-    "wof:lastmodified":1472652006,
+    "wof:lastmodified":1492032114,
     "wof:name":"Campos Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

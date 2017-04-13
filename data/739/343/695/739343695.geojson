@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.937394,37.273953,-79.937394,37.273953",
     "geom:latitude":37.273953,
     "geom:longitude":-79.937394,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.hotelroanoke.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2277M4L18AYc2npmjm6HAH_37.273953_-79.937394@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461905457,
     "wof:geomhash":"db31e365ca332b965d27bc715f4732ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739343695
+        }
+    ],
     "wof:id":739343695,
-    "wof:lastmodified":1472651301,
+    "wof:lastmodified":1492032180,
     "wof:name":"Hotel Roanoke & Conference Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

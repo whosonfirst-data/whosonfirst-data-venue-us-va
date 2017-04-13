@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.970672,37.234447,-79.970672,37.234447",
     "geom:latitude":37.234447,
     "geom:longitude":-79.970672,
@@ -34,7 +35,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DIgtUk0WjSf4h7YWGoEwm_37.234447_-79.970672@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461906019,
     "wof:geomhash":"18197aaeef06911dcc6c45fcc3092327",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739371337
+        }
+    ],
     "wof:id":739371337,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492031707,
     "wof:name":"Monro Muffler Brake & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

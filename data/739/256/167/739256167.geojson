@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.773716,37.234539,-76.773716,37.234539",
     "geom:latitude":37.234539,
     "geom:longitude":-76.773716,
@@ -28,7 +29,10 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q92qQkylp9YUBR72un5ri_37.234539_-76.773716@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461903623,
     "wof:geomhash":"58a92782751f343cc6a3b8e4ba2ec64a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546841,
+            "venue_id":739256167
+        }
+    ],
     "wof:id":739256167,
-    "wof:lastmodified":1472651090,
+    "wof:lastmodified":1492031078,
     "wof:name":"Dively Inc Robert C",
     "wof:parent_id":420546841,
     "wof:placetype":"venue",

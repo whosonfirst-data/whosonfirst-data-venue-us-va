@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.522195,37.125826,-81.522195,37.125826",
     "geom:latitude":37.125826,
     "geom:longitude":-81.522195,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jfikhHywMgzfOygC3BjOG_37.125826_-81.522195@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896204,
-    "wof:geomhash":"988b753517444211b2ddd4ac2c2ef595",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01dfe3233713e13c7cd100450da8c943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723155889
+        }
+    ],
     "wof:id":723155889,
-    "wof:lastmodified":1472651424,
+    "wof:lastmodified":1492059083,
     "wof:name":"Country Hair Nails & Tanning",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

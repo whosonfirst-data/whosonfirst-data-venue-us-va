@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.506256,37.113407,-81.506256,37.113407",
     "geom:latitude":37.113407,
     "geom:longitude":-81.506256,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F0q0UnLjhPPugoC52Mn8w_37.113407_-81.506256@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906661,
-    "wof:geomhash":"339275c9616f9b5b45efc61109c2961b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"804c9dcf175f3bad4d5886100f6926a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739404417
+        }
+    ],
     "wof:id":739404417,
-    "wof:lastmodified":1472651460,
+    "wof:lastmodified":1492037470,
     "wof:name":"Tazewell Square Apartments",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

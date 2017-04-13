@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.870395,36.681039,-79.870395,36.681039",
     "geom:latitude":36.681039,
     "geom:longitude":-79.870395,
@@ -32,17 +33,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UW8uMKaoFUleujkRvGrZE_36.681039_-79.870395@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897482,
-    "wof:geomhash":"03b748eb29fac266ce96cfed2e29f886",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca94e25feb188595e4289ab095b8a397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723219529
+        }
+    ],
     "wof:id":723219529,
-    "wof:lastmodified":1472651637,
+    "wof:lastmodified":1492055166,
     "wof:name":"Comprehensive Home Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

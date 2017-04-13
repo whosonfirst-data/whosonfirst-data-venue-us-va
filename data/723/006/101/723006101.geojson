@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488466,38.374912,-77.488466,38.374912",
     "geom:latitude":38.374912,
     "geom:longitude":-77.488466,
@@ -34,17 +35,26 @@
         "garbage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fColxyrtfJufAMVJfsaIR_38.374912_-77.488466@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893065,
-    "wof:geomhash":"a03cdb1538384ce85e4ac9924aa85cf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15a53f3151a91788aa4a2bef229e30fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":723006101
+        }
+    ],
     "wof:id":723006101,
-    "wof:lastmodified":1472651075,
+    "wof:lastmodified":1492052491,
     "wof:name":"Shiffletts Trash Svc",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

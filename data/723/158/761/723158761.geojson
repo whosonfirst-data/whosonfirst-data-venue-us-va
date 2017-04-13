@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.381705,36.805222,-76.381705,36.805222",
     "geom:latitude":36.805222,
     "geom:longitude":-76.381705,
@@ -38,6 +39,7 @@
         85633793,
         101728677,
         102086707,
+        420558427,
         85868203
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896266,
-    "wof:geomhash":"e6b5f0ac2fcd65ed3faa17e7aab7e65d",
+    "wof:geomhash":"7527cc970f03b01c9cf244d582d104e7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":420558427,
+            "region_id":85688747,
+            "venue_id":723158761
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723158761,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492056659,
     "wof:name":"BFW Inc",
-    "wof:parent_id":85868203,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

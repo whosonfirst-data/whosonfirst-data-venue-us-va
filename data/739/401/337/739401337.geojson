@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.71504,37.57077,-77.71504,37.57077",
     "geom:latitude":37.57077,
     "geom:longitude":-77.71504,
@@ -31,7 +32,12 @@
         "ornamental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fCIj1LESTTchEid2UBDKV_37.570770_-77.715040@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906604,
     "wof:geomhash":"c243714c2b3e5d0cf5b0655587238c90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739401337
+        }
+    ],
     "wof:id":739401337,
-    "wof:lastmodified":1472651457,
+    "wof:lastmodified":1492032701,
     "wof:name":"Nishikigoi of Niigata",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

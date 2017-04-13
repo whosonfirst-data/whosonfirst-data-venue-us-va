@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.17099,38.769615,-77.17099,38.769615",
     "geom:latitude":38.769615,
     "geom:longitude":-77.17099,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729791,
+        101729743,
         102084863,
+        85850737,
+        101729791,
         420546721
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894470,
-    "wof:geomhash":"1b4754558d6493a736a188d8811e4041",
+    "wof:geomhash":"f1b04a3a4c48e33005202be7e95c55a6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729743,
+            "neighbourhood_id":85850737,
+            "region_id":85688747,
+            "venue_id":723070465
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":723070465,
-    "wof:lastmodified":1472651257,
+    "wof:lastmodified":1492060210,
     "wof:name":"Borders",
-    "wof:parent_id":420546721,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.523133,37.413123,-76.523133,37.413123",
     "geom:latitude":37.413123,
     "geom:longitude":-76.523133,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GNSnJifgJsFV5ss93DvKq_37.413123_-76.523133@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888215,
-    "wof:geomhash":"0c12991a038c7366fd552700dff4713c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cc5ce2de819d0aa055279ce82cce3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":722765221
+        }
+    ],
     "wof:id":722765221,
-    "wof:lastmodified":1472651754,
+    "wof:lastmodified":1492066261,
     "wof:name":"Main Street Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

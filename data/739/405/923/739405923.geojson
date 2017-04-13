@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.468907,38.010742,-78.468907,38.010742",
     "geom:latitude":38.010742,
     "geom:longitude":-78.468907,
@@ -32,7 +33,12 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69NJ1bIz1Ckh0BaDrJb54d_38.010742_-78.468907@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906697,
     "wof:geomhash":"2b3c861aac5111ae7527665a065aecbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739405923
+        }
+    ],
     "wof:id":739405923,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492031573,
     "wof:name":"Marketing Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

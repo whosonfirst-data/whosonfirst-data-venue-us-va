@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.773597,37.234631,-76.773597,37.234631",
     "geom:latitude":37.234631,
     "geom:longitude":-76.773597,
@@ -28,7 +29,10 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H13excCvYGePavSAGle2l_37.234631_-76.773597@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906713,
     "wof:geomhash":"92625a36d4c30234ebed2bc2bee3754b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546831,
+            "venue_id":739406833
+        }
+    ],
     "wof:id":739406833,
-    "wof:lastmodified":1472651483,
+    "wof:lastmodified":1492033178,
     "wof:name":"Teton Sales Inc",
     "wof:parent_id":420546831,
     "wof:placetype":"venue",

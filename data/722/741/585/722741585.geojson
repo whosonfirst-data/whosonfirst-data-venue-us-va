@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.316801,37.533801,-77.316801,37.533801",
     "geom:latitude":37.533801,
     "geom:longitude":-77.316801,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZdRepF6RZEvM97ffGSV8x_37.533801_-77.316801@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887776,
-    "wof:geomhash":"f495a604354d3829c61edac8df2741ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7615683f8a6c49270882244e0d301cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":722741585
+        }
+    ],
     "wof:id":722741585,
-    "wof:lastmodified":1472651690,
+    "wof:lastmodified":1492073220,
     "wof:name":"Joe Fix It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443761,37.697216,-77.443761,37.697216",
     "geom:latitude":37.697216,
     "geom:longitude":-77.443761,
@@ -31,7 +32,12 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kafo6HOBKS0noaKBbvEwM_37.697216_-77.443761@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909352,
     "wof:geomhash":"8aa37144ee83251daa806652a96b0a3e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739549841
+        }
+    ],
     "wof:id":739549841,
-    "wof:lastmodified":1472651881,
+    "wof:lastmodified":1492032210,
     "wof:name":"101 Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

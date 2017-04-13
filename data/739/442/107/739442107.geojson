@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062127,37.051207,-77.062127,37.051207",
     "geom:latitude":37.051207,
     "geom:longitude":-77.062127,
@@ -33,7 +34,12 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cVNgRiTIijIUfFd5JPR0X_37.051207_-77.062127@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907388,
     "wof:geomhash":"e5899786a9e924bf37822a936273b53e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":739442107
+        }
+    ],
     "wof:id":739442107,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492030161,
     "wof:name":"Shultz Peanut & Cold Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

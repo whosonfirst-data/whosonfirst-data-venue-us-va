@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.391859,38.999071,-77.391859,38.999071",
     "geom:latitude":38.999071,
     "geom:longitude":-77.391859,
@@ -41,7 +42,13 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oML2QfHqI2J8FTbWNQxDE_38.999071_-77.391859@1303262496"
@@ -49,9 +56,18 @@
     "wof:country":"US",
     "wof:created":1461910630,
     "wof:geomhash":"b84b539d54d46e93f5d4a54c099534e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739611533
+        }
+    ],
     "wof:id":739611533,
-    "wof:lastmodified":1472651971,
+    "wof:lastmodified":1492029448,
     "wof:name":"Hess Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

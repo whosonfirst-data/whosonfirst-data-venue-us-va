@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445564,38.091016,-77.445564,38.091016",
     "geom:latitude":38.091016,
     "geom:longitude":-77.445564,
@@ -31,17 +32,30 @@
         "pipeline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vSKeN74eepj18wbM4df1V_38.091016_-77.445564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896648,
-    "wof:geomhash":"4cbd945cce5e33eb66bfc5cc6dea2e6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f899dc377017c5afb413e990e514550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723178039
+        }
+    ],
     "wof:id":723178039,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492050970,
     "wof:name":"Plantation Pipeline Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

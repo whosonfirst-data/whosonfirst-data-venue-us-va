@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.595474,38.806521,-77.595474,38.806521",
     "geom:latitude":38.806521,
     "geom:longitude":-77.595474,
@@ -31,17 +32,30 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73YTMGFwa7cMJ7d2uFSudA_38.806521_-77.595474@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888811,
-    "wof:geomhash":"55ac074e23c95939de62a80def302527",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84a347f8962bbc3b739fa496841e55bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722795849
+        }
+    ],
     "wof:id":722795849,
-    "wof:lastmodified":1472651837,
+    "wof:lastmodified":1492067409,
     "wof:name":"Oceanside Learning C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

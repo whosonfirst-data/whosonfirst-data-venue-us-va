@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.033315,37.297137,-80.033315,37.297137",
     "geom:latitude":37.297137,
     "geom:longitude":-80.033315,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13VcQ880oMYMARCfPBGjr0_37.297137_-80.033315@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897256,
-    "wof:geomhash":"8baa85e6f32f654fef3c5184b2a01784",
-    "wof:hierarchy":[],
+    "wof:geomhash":"110cd19a2817c8e95276d44929742689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723209621
+        }
+    ],
     "wof:id":723209621,
-    "wof:lastmodified":1472651628,
+    "wof:lastmodified":1492054055,
     "wof:name":"Hart Motor Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

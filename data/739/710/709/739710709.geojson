@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.614841,37.513596,-77.614841,37.513596",
     "geom:latitude":37.513596,
     "geom:longitude":-77.614841,
@@ -40,17 +41,32 @@
         "churches-christian-reformed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ya7833XnONUsNRohERrpz_37.513596_-77.614841@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912797,
-    "wof:geomhash":"2e8226c2aeeb3de01ce60c3aad0e96f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc401ee0b72c2ac5a9641320ca178b02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739710709
+        }
+    ],
     "wof:id":739710709,
-    "wof:lastmodified":1472652204,
+    "wof:lastmodified":1492045685,
     "wof:name":"Christian Messiah Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

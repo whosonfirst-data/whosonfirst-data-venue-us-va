@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.159249,39.202595,-78.159249,39.202595",
     "geom:latitude":39.202595,
     "geom:longitude":-78.159249,
@@ -32,17 +33,30 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q2r0fub9NI2SJv5rmoNN4_39.202595_-78.159249@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888123,
-    "wof:geomhash":"21f5936ae950018ce5013c285175b38a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8c1300e6970e03f33380045bb7bcda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":722759959
+        }
+    ],
     "wof:id":722759959,
-    "wof:lastmodified":1472651853,
+    "wof:lastmodified":1492066614,
     "wof:name":"Apple Manor LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

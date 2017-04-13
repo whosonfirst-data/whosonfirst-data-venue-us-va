@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.215524,38.890616,-77.215524,38.890616",
     "geom:latitude":38.890616,
     "geom:longitude":-77.215524,
@@ -39,7 +40,8 @@
         85633793,
         101729755,
         102084863,
-        85818865
+        85818865,
+        85842731
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888899,
-    "wof:geomhash":"0ce5de82eaf8b3534cc525817bbea3cd",
+    "wof:geomhash":"c974f02541dfca330c379579589c234c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85818865,
             "region_id":85688747,
             "venue_id":722800525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729755,
+            "neighbourhood_id":85842731,
+            "region_id":85688747,
+            "venue_id":722800525
         }
     ],
     "wof:id":722800525,
-    "wof:lastmodified":1472651791,
+    "wof:lastmodified":1492066152,
     "wof:name":"Image Resource Group Inc",
-    "wof:parent_id":85818865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

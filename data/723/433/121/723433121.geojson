@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.367367,38.513516,-77.367367,38.513516",
     "geom:latitude":38.513516,
     "geom:longitude":-77.367367,
@@ -32,17 +33,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1owKscPjck27QISBkGFfCu_38.513516_-77.367367@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901623,
-    "wof:geomhash":"35b8dbb099d932312d6c7e867fa44243",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e47208bfc308be6834be079efa2e73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":723433121
+        }
+    ],
     "wof:id":723433121,
-    "wof:lastmodified":1472652222,
+    "wof:lastmodified":1492048568,
     "wof:name":"Zum Rheingarten Restaurant",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

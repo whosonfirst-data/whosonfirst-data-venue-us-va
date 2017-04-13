@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450318,37.453939,-77.450318,37.453939",
     "geom:latitude":37.453939,
     "geom:longitude":-77.450318,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"www.lslee.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PcaQstJCVADWIZVOYebq6_37.453939_-77.450318@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461904859,
     "wof:geomhash":"789aa7458efd29eadb10e8563cdee322",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":739314623
+        }
+    ],
     "wof:id":739314623,
-    "wof:lastmodified":1472651236,
+    "wof:lastmodified":1492029892,
     "wof:name":"L S Lee Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.527617,38.243932,-77.527617,38.243932",
     "geom:latitude":38.243932,
     "geom:longitude":-77.527617,
@@ -33,7 +34,12 @@
         "vision"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DEz8TsXhN1YhrNvDfdZrZ_38.243932_-77.527617@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912429,
     "wof:geomhash":"66686f3f58e5ec3c7fb06619ea5feb3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694577
+        }
+    ],
     "wof:id":739694577,
-    "wof:lastmodified":1472652190,
+    "wof:lastmodified":1492030235,
     "wof:name":"Area 11 Special Olympics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

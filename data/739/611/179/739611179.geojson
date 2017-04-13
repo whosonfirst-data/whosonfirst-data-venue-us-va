@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.670127,39.147321,-77.670127,39.147321",
     "geom:latitude":39.147321,
     "geom:longitude":-77.670127,
@@ -32,7 +33,12 @@
         "hauling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58FCsAAojAwSzRvpclqwQx_39.147321_-77.670127@1303262496"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910624,
     "wof:geomhash":"b20eb3c1ab28b406b9e5dc46c52712f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739611179
+        }
+    ],
     "wof:id":739611179,
-    "wof:lastmodified":1472651954,
+    "wof:lastmodified":1492029467,
     "wof:name":"Key Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

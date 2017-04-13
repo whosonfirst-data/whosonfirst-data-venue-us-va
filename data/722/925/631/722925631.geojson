@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761693,37.320813,-76.761693,37.320813",
     "geom:latitude":37.320813,
     "geom:longitude":-76.761693,
@@ -33,17 +34,26 @@
         "anatomical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TFF5VZHpvZfIqJcdEt1w0_37.320813_-76.761693@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891317,
-    "wof:geomhash":"3c18befca22f143210db2f9b96e98997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62115b02f3115b42961ce4c55060e434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546887,
+            "venue_id":722925631
+        }
+    ],
     "wof:id":722925631,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492073838,
     "wof:name":"National Biological Labs",
     "wof:parent_id":420546887,
     "wof:placetype":"venue",

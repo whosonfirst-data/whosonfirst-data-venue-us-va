@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.988966,36.706184,-81.988966,36.706184",
     "geom:latitude":36.706184,
     "geom:longitude":-81.988966,
@@ -33,17 +34,26 @@
         "glass"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mRyZoBzwEfT9baaAIUqhc_36.706184_-81.988966@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896522,
-    "wof:geomhash":"079f0206d9a1c8de88bc1053c17e7509",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f05502bbbb8761a8d4752f3f1aa4d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723172161
+        }
+    ],
     "wof:id":723172161,
-    "wof:lastmodified":1472651447,
+    "wof:lastmodified":1492048363,
     "wof:name":"Glass Plus",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

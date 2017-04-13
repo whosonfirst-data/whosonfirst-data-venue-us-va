@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.252422,36.838533,-81.252422,36.838533",
     "geom:latitude":36.838533,
     "geom:longitude":-81.252422,
@@ -31,17 +32,26 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xx0ranA3nbAC3WgAdtbsT_36.838533_-81.252422@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909700,
-    "wof:geomhash":"25b319f4e3219a875f8f605c47c40eff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d3fb809283c19d65cccae082cf68cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739566655
+        }
+    ],
     "wof:id":739566655,
-    "wof:lastmodified":1472651905,
+    "wof:lastmodified":1492042355,
     "wof:name":"E C Ward",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

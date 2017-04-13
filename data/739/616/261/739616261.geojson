@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.47563,39.077926,-77.47563,39.077926",
     "geom:latitude":39.077926,
     "geom:longitude":-77.47563,
@@ -36,7 +37,13 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SI7mfvGEOJU4EdZZ9poqc_39.077926_-77.475630@1303262497"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461910740,
     "wof:geomhash":"2a557f190c1aa4ef5a8c81ce373048d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":739616261
+        }
+    ],
     "wof:id":739616261,
-    "wof:lastmodified":1472651988,
+    "wof:lastmodified":1492029659,
     "wof:name":"Kaiser Foundation Health Plan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

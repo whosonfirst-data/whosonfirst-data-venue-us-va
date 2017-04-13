@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.554887,36.943348,-76.554887,36.943348",
     "geom:latitude":36.943348,
     "geom:longitude":-76.554887,
@@ -32,7 +33,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rEgs6QqBGNsmILZYJIrIl_36.943348_-76.554887@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904262,
     "wof:geomhash":"ff6a527ea0f9771d2293e327cbe9128a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739285295
+        }
+    ],
     "wof:id":739285295,
-    "wof:lastmodified":1472651157,
+    "wof:lastmodified":1492029733,
     "wof:name":"Carrolton Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

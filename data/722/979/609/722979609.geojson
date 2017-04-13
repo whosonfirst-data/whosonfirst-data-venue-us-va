@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.986235,36.706789,-81.986235,36.706789",
     "geom:latitude":36.706789,
     "geom:longitude":-81.986235,
@@ -31,17 +32,26 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DsPSvJiWzkDDtvUDpC5z1_36.706789_-81.986235@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892447,
-    "wof:geomhash":"4b155426d2b6571a25b6a32fb442fde1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f12baed486d234231a0b7c248df5613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722979609
+        }
+    ],
     "wof:id":722979609,
-    "wof:lastmodified":1472652344,
+    "wof:lastmodified":1492072741,
     "wof:name":"Abingdon Taxi Svc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

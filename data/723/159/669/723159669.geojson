@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191325,38.955923,-77.191325,38.955923",
     "geom:latitude":38.955923,
     "geom:longitude":-77.191325,
@@ -34,8 +35,8 @@
         85633793,
         101729767,
         102084863,
-        85855811,
-        420559003
+        420559003,
+        85855811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461896283,
-    "wof:geomhash":"ae5494a3cae4f8b60a25eb875c0de207",
+    "wof:geomhash":"c470226dde9c55ca02874ac88be92bf6",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084863,
-            "locality_id":101729767,
-            "neighbourhood_id":85855811,
-            "region_id":85688747,
-            "venue_id":723159669
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":420559003,
             "region_id":85688747,
             "venue_id":723159669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85855811,
+            "region_id":85688747,
+            "venue_id":723159669
         }
     ],
     "wof:id":723159669,
-    "wof:lastmodified":1472651460,
+    "wof:lastmodified":1492049257,
     "wof:name":"Alan Hilburg and Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

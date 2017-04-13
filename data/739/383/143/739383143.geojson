@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.015861,36.670424,-82.015861,36.670424",
     "geom:latitude":36.670424,
     "geom:longitude":-82.015861,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56ltfZkGqhdQHEssPfOaEI_36.670424_-82.015861@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906253,
-    "wof:geomhash":"e611e5ffbdf231f05d14f0d67a659d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"626537ef966015ce0bd4729d29a53318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739383143
+        }
+    ],
     "wof:id":739383143,
-    "wof:lastmodified":1472651340,
+    "wof:lastmodified":1492039138,
     "wof:name":"Roark Septic Tank Service",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.521721,37.333996,-79.521721,37.333996",
     "geom:latitude":37.333996,
     "geom:longitude":-79.521721,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t15gJHoCE5G9sCBT5oYRO_37.333996_-79.521721@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906878,
-    "wof:geomhash":"0ed45e044a2e9341d29476a7ec52b0ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2fa2035eb09fa6b8e193ecd490e1169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739416117
+        }
+    ],
     "wof:id":739416117,
-    "wof:lastmodified":1472651458,
+    "wof:lastmodified":1492040737,
     "wof:name":"Bedford Area Chamber Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

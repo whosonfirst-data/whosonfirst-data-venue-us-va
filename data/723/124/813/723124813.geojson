@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.561418,37.120039,-80.561418,37.120039",
     "geom:latitude":37.120039,
     "geom:longitude":-80.561418,
@@ -32,17 +33,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728831,
+        102081063
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ej3YBlHeVCqUuGbn0gPZ5_37.120039_-80.561418@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895601,
-    "wof:geomhash":"4b383ac9912b2308bd15ba9e91c1a0cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b58e73a7d1bef071a305913211fc36bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "region_id":85688747,
+            "venue_id":723124813
+        }
+    ],
     "wof:id":723124813,
-    "wof:lastmodified":1472651389,
+    "wof:lastmodified":1492055123,
     "wof:name":"Radford Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

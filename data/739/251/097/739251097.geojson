@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.499432,37.582405,-77.499432,37.582405",
     "geom:latitude":37.582405,
     "geom:longitude":-77.499432,
@@ -31,7 +32,12 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rMqYAz1HO93UyQyeFV8BM_37.582405_-77.499432@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903513,
     "wof:geomhash":"fd9bc727aafc3e14e01eefccf1206e58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739251097
+        }
+    ],
     "wof:id":739251097,
-    "wof:lastmodified":1472651072,
+    "wof:lastmodified":1492029824,
     "wof:name":"Law Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

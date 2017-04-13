@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.61474,37.588922,-77.61474,37.588922",
     "geom:latitude":37.588922,
     "geom:longitude":-77.61474,
@@ -31,7 +32,13 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zsldsFNxChuso9zoH9xIR_37.588922_-77.614740@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904425,
     "wof:geomhash":"f2030b738542bf3b4fd1069d85241a87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739292945
+        }
+    ],
     "wof:id":739292945,
-    "wof:lastmodified":1472651220,
+    "wof:lastmodified":1492033222,
     "wof:name":"Queen Street Capital LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

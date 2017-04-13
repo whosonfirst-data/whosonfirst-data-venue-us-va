@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.399714,37.141776,-76.399714,37.141776",
     "geom:latitude":37.141776,
     "geom:longitude":-76.399714,
@@ -31,17 +32,26 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CiSH8rSeWTzLEwY27tRBV_37.141776_-76.399714@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905803,
-    "wof:geomhash":"eccb3e323e8ff5b45f8845ac9889d346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7731950c1b61354ead0992338a232644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739359281
+        }
+    ],
     "wof:id":739359281,
-    "wof:lastmodified":1472651328,
+    "wof:lastmodified":1492037611,
     "wof:name":"Richard Turnage",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

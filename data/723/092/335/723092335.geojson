@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.995303,36.693725,-81.995303,36.693725",
     "geom:latitude":36.693725,
     "geom:longitude":-81.995303,
@@ -32,17 +33,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ngInRgmpLxmA0ElpufMZV_36.693725_-81.995303@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894965,
-    "wof:geomhash":"a7bdc5678949a6497532ed54d8a41f94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72665f7ffe63ebaa56412d0e489ce43f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723092335
+        }
+    ],
     "wof:id":723092335,
-    "wof:lastmodified":1472651276,
+    "wof:lastmodified":1492050065,
     "wof:name":"Edmond J Beverly Builders",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.431617,38.301581,-78.431617,38.301581",
     "geom:latitude":38.301581,
     "geom:longitude":-78.431617,
@@ -31,7 +32,13 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728961,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ogh7dYz1AfBVIjp8TUBhC_38.301581_-78.431617@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908473,
     "wof:geomhash":"7a2a452c058b29d414b5960d9e585c0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101728961,
+            "region_id":85688747,
+            "venue_id":739502403
+        }
+    ],
     "wof:id":739502403,
-    "wof:lastmodified":1472651704,
+    "wof:lastmodified":1492029589,
     "wof:name":"John D Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

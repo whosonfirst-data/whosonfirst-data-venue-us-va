@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.88642,36.994723,-79.88642,36.994723",
     "geom:latitude":36.994723,
     "geom:longitude":-79.88642,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_759RYw7YV7SJMaP64jzd6L_36.994723_-79.886420@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906637,
-    "wof:geomhash":"37c9f748bf36fb0f1227af26a93c97da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcdc2192a3555e2b4db0c64f509e3d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":739403177
+        }
+    ],
     "wof:id":739403177,
-    "wof:lastmodified":1472651438,
+    "wof:lastmodified":1492038403,
     "wof:name":"Franklin Health Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

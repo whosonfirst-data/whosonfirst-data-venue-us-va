@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.469559,38.856659,-77.469559,38.856659",
     "geom:latitude":38.856659,
     "geom:longitude":-77.469559,
@@ -39,17 +40,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75xNda3sSWkiisLR8UpRJH_38.856659_-77.469559@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910516,
-    "wof:geomhash":"84168bbe7a68f577c99d6e131be8cead",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a422059ccab26147580ebe6b28470821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739605329
+        }
+    ],
     "wof:id":739605329,
-    "wof:lastmodified":1472651951,
+    "wof:lastmodified":1492039611,
     "wof:name":"Radio Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

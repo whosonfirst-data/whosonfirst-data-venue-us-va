@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.499867,37.582086,-77.499867,37.582086",
     "geom:latitude":37.582086,
     "geom:longitude":-77.499867,
@@ -32,17 +33,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bSwpS7w8jgJbp8WwDDQ6C_37.582086_-77.499867@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913011,
-    "wof:geomhash":"1e2c7ddb35f4746583545b3618db2dd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"601317cd3247b0ff6695f282b1f115cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739720855
+        }
+    ],
     "wof:id":739720855,
-    "wof:lastmodified":1472652214,
+    "wof:lastmodified":1492040013,
     "wof:name":"Prc Of Metro Richmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

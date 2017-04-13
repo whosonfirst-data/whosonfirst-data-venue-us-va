@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.504519,38.882925,-78.504519,38.882925",
     "geom:latitude":38.882925,
     "geom:longitude":-78.504519,
@@ -31,17 +32,32 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tQRGN1eobquLY2ouAm1n5_38.882925_-78.504519@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890735,
-    "wof:geomhash":"36c0536c513874fe3b0fdacb873d87f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e37fa87d64f58371c68246e704e6d868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":722897151
+        }
+    ],
     "wof:id":722897151,
-    "wof:lastmodified":1472652056,
+    "wof:lastmodified":1492067484,
     "wof:name":"Town Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.536761,37.112114,-76.536761,37.112114",
     "geom:latitude":37.112114,
     "geom:longitude":-76.536761,
@@ -32,19 +33,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        420548071
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tPZFo9Zdw1oa5xdOTx07b_37.112114_-76.536761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885759,
-    "wof:geomhash":"566b22a5ebaa5e7d794a3491bcb04d03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ad240f4bed2e261dbd76b90661c135a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548071,
+            "region_id":85688747,
+            "venue_id":722635661
+        }
+    ],
     "wof:id":722635661,
-    "wof:lastmodified":1472651422,
+    "wof:lastmodified":1492067445,
     "wof:name":"Custom Painting Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

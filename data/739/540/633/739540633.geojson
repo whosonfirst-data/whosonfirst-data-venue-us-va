@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.131733,36.722269,-78.131733,36.722269",
     "geom:latitude":36.722269,
     "geom:longitude":-78.131733,
@@ -31,7 +32,13 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ygAgGpuBgqM9novAc9hy0_36.722269_-78.131733@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909163,
     "wof:geomhash":"3c440e151183ff6b1c24f6e013d89a24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739540633
+        }
+    ],
     "wof:id":739540633,
-    "wof:lastmodified":1472651808,
+    "wof:lastmodified":1492032601,
     "wof:name":"Rev William Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

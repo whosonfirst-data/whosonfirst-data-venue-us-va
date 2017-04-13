@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.183882,38.949678,-77.183882,38.949678",
     "geom:latitude":38.949678,
     "geom:longitude":-77.183882,
@@ -34,8 +35,8 @@
         85633793,
         101729767,
         102084863,
-        85855811,
-        85868635
+        85868635,
+        85855811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461896546,
-    "wof:geomhash":"507c629454139dcf4ebf329f33bee4d0",
+    "wof:geomhash":"57efe14792a311f5895508713564a7fb",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084863,
-            "locality_id":101729767,
-            "neighbourhood_id":85855811,
-            "region_id":85688747,
-            "venue_id":723173381
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":85868635,
             "region_id":85688747,
             "venue_id":723173381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85855811,
+            "region_id":85688747,
+            "venue_id":723173381
         }
     ],
     "wof:id":723173381,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492057109,
     "wof:name":"New Vsons Scentific Info Consu",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

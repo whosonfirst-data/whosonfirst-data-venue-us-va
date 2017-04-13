@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429755,38.318752,-77.429755,38.318752",
     "geom:latitude":38.318752,
     "geom:longitude":-77.429755,
@@ -32,17 +33,26 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HoIJOYuRIY411oTnGgqoY_38.318752_-77.429755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886622,
-    "wof:geomhash":"d6f2b03670ec760efd60d048b197b634",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46144d16201d5c534c04c8d103b288c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":722682077
+        }
+    ],
     "wof:id":722682077,
-    "wof:lastmodified":1472651508,
+    "wof:lastmodified":1492063236,
     "wof:name":"Crackerjack Folder Service",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

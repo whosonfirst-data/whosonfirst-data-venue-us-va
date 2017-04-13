@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609581,38.471033,-77.609581,38.471033",
     "geom:latitude":38.471033,
     "geom:longitude":-77.609581,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547243
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YZaIemXcizFPm8DKJYXNH_38.471033_-77.609581@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889068,
-    "wof:geomhash":"2e892c79e4d8afcf8d4eafa76d0261e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a395562bb3d1129ef1a739f6bcae80e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547243,
+            "venue_id":722810119
+        }
+    ],
     "wof:id":722810119,
-    "wof:lastmodified":1472651858,
+    "wof:lastmodified":1492075001,
     "wof:name":"Andrews Building Co",
     "wof:parent_id":420547243,
     "wof:placetype":"venue",

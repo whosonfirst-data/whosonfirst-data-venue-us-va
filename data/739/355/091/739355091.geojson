@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.164789,37.245329,-77.164789,37.245329",
     "geom:latitude":37.245329,
     "geom:longitude":-77.164789,
@@ -32,7 +33,12 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56BLIk1GMmgNkpInOVaJI7_37.245329_-77.164789@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461905721,
     "wof:geomhash":"44700f1884303697e32c8875dbad8076",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739355091
+        }
+    ],
     "wof:id":739355091,
-    "wof:lastmodified":1472651325,
+    "wof:lastmodified":1492032356,
     "wof:name":"Hopewell Hardwood Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

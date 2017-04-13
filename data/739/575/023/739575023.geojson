@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.868963,36.702435,-76.868963,36.702435",
     "geom:latitude":36.702435,
     "geom:longitude":-76.868963,
@@ -28,7 +29,12 @@
         "cotton"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70bHpYTLvem7ijY0YkwcIi_36.702435_-76.868963@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909894,
     "wof:geomhash":"0794f1d120922ff3c9e4488e31cc913a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739575023
+        }
+    ],
     "wof:id":739575023,
-    "wof:lastmodified":1472651915,
+    "wof:lastmodified":1492029841,
     "wof:name":"Michael Long",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

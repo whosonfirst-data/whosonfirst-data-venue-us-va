@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.408266,38.835351,-77.408266,38.835351",
     "geom:latitude":38.835351,
     "geom:longitude":-77.408266,
@@ -31,17 +32,32 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d2gz7y6a8E8t5zUpNOYA0_38.835351_-77.408266@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908934,
-    "wof:geomhash":"a3520b4dc8b225a3cb3a4c927754d7c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4275701d4674fdc36a4ff03046f695c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739527589
+        }
+    ],
     "wof:id":739527589,
-    "wof:lastmodified":1472651822,
+    "wof:lastmodified":1492038019,
     "wof:name":"Paul M Snabel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

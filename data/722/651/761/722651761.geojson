@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.552838,37.581809,-77.552838,37.581809",
     "geom:latitude":37.581809,
     "geom:longitude":-77.552838,
@@ -36,17 +37,32 @@
         "writer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_724V2PXic3qTq1kkQx3W4C_37.581809_-77.552838@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886048,
-    "wof:geomhash":"0a52e7650db4921cefb6a444bff1e35b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db141f1c241855f339ef6b4add48a511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":722651761
+        }
+    ],
     "wof:id":722651761,
-    "wof:lastmodified":1472651476,
+    "wof:lastmodified":1492065059,
     "wof:name":"M J S Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

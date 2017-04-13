@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.323778,37.548478,-77.323778,37.548478",
     "geom:latitude":37.548478,
     "geom:longitude":-77.323778,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hDYZNHAinQf4I9hQt8UZG_37.548478_-77.323778@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908201,
-    "wof:geomhash":"de600dec5c5cc88965a80cd4be586a1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d28daa52821aeba7598d2426d92e39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":739486781
+        }
+    ],
     "wof:id":739486781,
-    "wof:lastmodified":1472651683,
+    "wof:lastmodified":1492038141,
     "wof:name":"Phoenix Siding & Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

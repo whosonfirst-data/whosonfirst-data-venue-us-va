@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.822082,37.668455,-77.822082,37.668455",
     "geom:latitude":37.668455,
     "geom:longitude":-77.822082,
@@ -32,17 +33,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hyJ4cekEMvJ693FCxsubl_37.668455_-77.822082@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896203,
-    "wof:geomhash":"9bbeadf3068390559dab341811911202",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b58c901b4a2429d3ed20d91ef3c1c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":723155767
+        }
+    ],
     "wof:id":723155767,
-    "wof:lastmodified":1472651427,
+    "wof:lastmodified":1492059063,
     "wof:name":"Park One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

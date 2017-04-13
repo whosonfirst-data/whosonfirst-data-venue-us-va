@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136771,38.762507,-77.136771,38.762507",
     "geom:latitude":38.762507,
     "geom:longitude":-77.136771,
@@ -38,7 +39,8 @@
         85633793,
         101729841,
         102084863,
-        420546703
+        420546703,
+        85823327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886292,
-    "wof:geomhash":"434197cfa3f78689ededbb98e6595fef",
+    "wof:geomhash":"88f0218566b32b031a8ab2895d168dae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":420546703,
             "region_id":85688747,
             "venue_id":722664427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729841,
+            "neighbourhood_id":85823327,
+            "region_id":85688747,
+            "venue_id":722664427
         }
     ],
     "wof:id":722664427,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492075220,
     "wof:name":"Cruiseone Alexandria",
-    "wof:parent_id":420546703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

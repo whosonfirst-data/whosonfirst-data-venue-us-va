@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.267529,38.987862,-77.267529,38.987862",
     "geom:latitude":38.987862,
     "geom:longitude":-77.267529,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sGxWzzXpm5X5gVcPPCFff_38.987862_-77.267529@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908504,
-    "wof:geomhash":"73a1dc8442d741c91b298b9fd7c50f7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c46e7581e2611ba20f82bc244e1e3a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739504187
+        }
+    ],
     "wof:id":739504187,
-    "wof:lastmodified":1472651750,
+    "wof:lastmodified":1492041734,
     "wof:name":"Carleton Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

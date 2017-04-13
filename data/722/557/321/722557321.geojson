@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.449591,37.043239,-76.449591,37.043239",
     "geom:latitude":37.043239,
     "geom:longitude":-76.449591,
@@ -31,7 +32,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913,
+        85847683
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Cwo6tRWAwJEz2WMtLBWg8_37.043239_-76.449591@1294252573"
@@ -39,11 +47,21 @@
     "wof:country":"US",
     "wof:created":1461884156,
     "wof:geomhash":"ed64f3b7c9810dfeea0a90fd2c0c2f72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85847683,
+            "region_id":85688747,
+            "venue_id":722557321
+        }
+    ],
     "wof:id":722557321,
-    "wof:lastmodified":1472651113,
+    "wof:lastmodified":1491893307,
     "wof:name":"Peninsula Primary School Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

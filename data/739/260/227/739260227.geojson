@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.794364,37.571533,-75.794364,37.571533",
     "geom:latitude":37.571533,
     "geom:longitude":-75.794364,
@@ -31,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z5I9IRcAjB4q62usxluKU_37.571533_-75.794364@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461903704,
     "wof:geomhash":"a988bd03460fd8c2f75bf54b03406477",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546535,
+            "venue_id":739260227
+        }
+    ],
     "wof:id":739260227,
-    "wof:lastmodified":1472651094,
+    "wof:lastmodified":1492030862,
     "wof:name":"Hair Loft",
     "wof:parent_id":420546535,
     "wof:placetype":"venue",

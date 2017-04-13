@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.646593,37.513421,-77.646593,37.513421",
     "geom:latitude":37.513421,
     "geom:longitude":-77.646593,
@@ -31,7 +32,12 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wI4F6d2w8Is1uRwCo3SYJ_37.513421_-77.646593@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904800,
     "wof:geomhash":"5cbfde9f9277d09e009255ee76720388",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739311349
+        }
+    ],
     "wof:id":739311349,
-    "wof:lastmodified":1472651219,
+    "wof:lastmodified":1492030292,
     "wof:name":"Hicks Chimney Sweeping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

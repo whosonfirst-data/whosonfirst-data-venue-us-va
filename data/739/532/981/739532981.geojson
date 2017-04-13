@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.307822,38.820845,-77.307822,38.820845",
     "geom:latitude":38.820845,
     "geom:longitude":-77.307822,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uUfLtgPz0bIHneA0VodSW_38.820845_-77.307822@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909027,
-    "wof:geomhash":"0067dca65e68e506f0566d55df29512e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c3f4dc6cbf7b0188459494f884ccbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739532981
+        }
+    ],
     "wof:id":739532981,
-    "wof:lastmodified":1472651838,
+    "wof:lastmodified":1492041193,
     "wof:name":"Macaide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

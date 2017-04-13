@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434652,38.755342,-77.434652,38.755342",
     "geom:latitude":38.755342,
     "geom:longitude":-77.434652,
@@ -32,17 +33,32 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5172Rs8bt6kEYP4aijccf9_38.755342_-77.434652@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888247,
-    "wof:geomhash":"c47d8d5cc4911fc0d597bd53a5426d79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d0fb231dd9287cfa944a4674883df5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":722766691
+        }
+    ],
     "wof:id":722766691,
-    "wof:lastmodified":1472651800,
+    "wof:lastmodified":1492070925,
     "wof:name":"El Comercio De Manassas Nwsppr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

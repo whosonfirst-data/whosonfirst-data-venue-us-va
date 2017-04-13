@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.553402,39.113373,-77.553402,39.113373",
     "geom:latitude":39.113373,
     "geom:longitude":-77.553402,
@@ -37,7 +38,13 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y9zUatnzYCV4tVZOjYg4k_39.113373_-77.553402@1303262497"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461910740,
     "wof:geomhash":"bb92574846825f791ec3c676e063d745",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616221
+        }
+    ],
     "wof:id":739616221,
-    "wof:lastmodified":1472651985,
+    "wof:lastmodified":1492029661,
     "wof:name":"Loudoun Baptist Temple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.258561,38.852791,-77.258561,38.852791",
     "geom:latitude":38.852791,
     "geom:longitude":-77.258561,
@@ -28,17 +29,32 @@
     "sg:postcode":"22031",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729769,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fD0R6yQ3EEh998MCCV0z7_38.852791_-77.258561@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898562,
-    "wof:geomhash":"8c684a17e1bf2025592605d0ce870fa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a1c16dc421a0cc83767d38ce0c24706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729769,
+            "region_id":85688747,
+            "venue_id":723273349
+        }
+    ],
     "wof:id":723273349,
-    "wof:lastmodified":1472651762,
+    "wof:lastmodified":1492053514,
     "wof:name":"Advanced Transit Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

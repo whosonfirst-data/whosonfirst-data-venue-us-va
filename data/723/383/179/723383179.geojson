@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.461248,36.802167,-78.461248,36.802167",
     "geom:latitude":36.802167,
     "geom:longitude":-78.461248,
@@ -31,17 +32,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729013,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gls2PBqGyohQzkX0QdPn6_36.802167_-78.461248@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900643,
-    "wof:geomhash":"66a38c0f9bbbc7a8c4c1badfc42c54e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5415a6621c00267c3a2df1b00d9c37a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729013,
+            "region_id":85688747,
+            "venue_id":723383179
+        }
+    ],
     "wof:id":723383179,
-    "wof:lastmodified":1472652100,
+    "wof:lastmodified":1492054223,
     "wof:name":"Edward Jones 07006",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

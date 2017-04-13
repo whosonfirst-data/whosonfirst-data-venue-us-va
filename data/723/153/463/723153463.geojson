@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.886,38.069427,-78.886,38.069427",
     "geom:latitude":38.069427,
     "geom:longitude":-78.886,
@@ -32,17 +33,32 @@
         "rescue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aigoY6LcsNUcMPv7WLfHo_38.069427_-78.886000@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896162,
-    "wof:geomhash":"87c824c4f17e4e5bbcacda5f0b0b0c9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c860f5058981b5bb301e121c0538ac4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723153463
+        }
+    ],
     "wof:id":723153463,
-    "wof:lastmodified":1472651415,
+    "wof:lastmodified":1492048847,
     "wof:name":"First Aid Crew Emergency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

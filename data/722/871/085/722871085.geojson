@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775276,37.271339,-76.775276,37.271339",
     "geom:latitude":37.271339,
     "geom:longitude":-76.775276,
@@ -32,17 +33,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gmNfMFkDrdTaARlH4t0ga_37.271339_-76.775276@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890217,
-    "wof:geomhash":"f46784276c570853bc780ab3617f8b0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e03c60d31fe548b61c25b54095f9c467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546899,
+            "venue_id":722871085
+        }
+    ],
     "wof:id":722871085,
-    "wof:lastmodified":1472651991,
+    "wof:lastmodified":1492067514,
     "wof:name":"International Trading Places",
     "wof:parent_id":420546899,
     "wof:placetype":"venue",

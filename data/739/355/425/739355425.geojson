@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.157955,36.63763,-81.157955,36.63763",
     "geom:latitude":36.63763,
     "geom:longitude":-81.157955,
@@ -32,7 +33,13 @@
         "fishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728887,
+        102087253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_003an0o8p9II0LVswQcu1w_36.637630_-81.157955@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905726,
     "wof:geomhash":"0143b093b661ea78f4cce6136c5822a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087253,
+            "locality_id":101728887,
+            "region_id":85688747,
+            "venue_id":739355425
+        }
+    ],
     "wof:id":739355425,
-    "wof:lastmodified":1472651343,
+    "wof:lastmodified":1492032367,
     "wof:name":"Peach Bottom Baits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

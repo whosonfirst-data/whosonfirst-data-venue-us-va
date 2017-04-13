@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.848876,38.461709,-78.848876,38.461709",
     "geom:latitude":38.461709,
     "geom:longitude":-78.848876,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kaPI2IRJFVNjsU8FJKFjY_38.461709_-78.848876@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895586,
-    "wof:geomhash":"c8ecce3044d83d276ba689f39191aa3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89a66e35ec0ad0f243e96474f142ea6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723123997
+        }
+    ],
     "wof:id":723123997,
-    "wof:lastmodified":1472651373,
+    "wof:lastmodified":1492049759,
     "wof:name":"Harris Gardens Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

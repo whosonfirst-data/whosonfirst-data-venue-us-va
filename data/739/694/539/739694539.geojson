@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.61728,38.261078,-77.61728,38.261078",
     "geom:latitude":38.261078,
     "geom:longitude":-77.61728,
@@ -37,7 +38,12 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M1el97OOOyi7atlGmvVbK_38.261078_-77.617280@1303262547"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461912428,
     "wof:geomhash":"9bb7f34c2b98eb42b5e5cd1fbe2de04e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694539
+        }
+    ],
     "wof:id":739694539,
-    "wof:lastmodified":1472652185,
+    "wof:lastmodified":1492030246,
     "wof:name":"Ptf Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

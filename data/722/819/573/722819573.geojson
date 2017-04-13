@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.231545,37.931592,-79.231545,37.931592",
     "geom:latitude":37.931592,
     "geom:longitude":-79.231545,
@@ -32,17 +33,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087287
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VbYi7eiEsPquTyunKQGOu_37.931592_-79.231545@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889249,
-    "wof:geomhash":"7ddc4175481f70651eb2b948fe8b0321",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58f48f25c2f2849e5dfc631aa5084ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087287,
+            "region_id":85688747,
+            "venue_id":722819573
+        }
+    ],
     "wof:id":722819573,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492062729,
     "wof:name":"Hamilton Equipment Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

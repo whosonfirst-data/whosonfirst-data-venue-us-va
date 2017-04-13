@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.493881,38.074253,-78.493881,38.074253",
     "geom:latitude":38.074253,
     "geom:longitude":-78.493881,
@@ -31,7 +32,12 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_687e6nzIZ7ihJF5AgHHs0i_38.074253_-78.493881@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912588,
     "wof:geomhash":"bea207e8b40fc7b3569a34f1722149d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739700629
+        }
+    ],
     "wof:id":739700629,
-    "wof:lastmodified":1472652178,
+    "wof:lastmodified":1492032573,
     "wof:name":"Parks Edge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

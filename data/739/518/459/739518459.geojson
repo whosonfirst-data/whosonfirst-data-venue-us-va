@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412645,37.507765,-77.412645,37.507765",
     "geom:latitude":37.507765,
     "geom:longitude":-77.412645,
@@ -32,17 +33,30 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WAm5v1qMZ8g6A3rqDCpTB_37.507765_-77.412645@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908762,
-    "wof:geomhash":"b18f45c3622d8bd94618d7a3b2c7ab15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df1579b8037f7fa3f3e79621bb1fe8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739518459
+        }
+    ],
     "wof:id":739518459,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492041478,
     "wof:name":"IMTT Richmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

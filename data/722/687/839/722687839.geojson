@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.201656,38.849643,-77.201656,38.849643",
     "geom:latitude":38.849643,
     "geom:longitude":-77.201656,
@@ -34,6 +35,7 @@
         85633793,
         101729723,
         102084863,
+        85842309,
         420546671
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886739,
-    "wof:geomhash":"541e344ef21860c25d422a0917a1cd55",
+    "wof:geomhash":"1cc520925c521af1eb5b8a54b577a58b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729723,
+            "neighbourhood_id":85842309,
+            "region_id":85688747,
+            "venue_id":722687839
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":722687839,
-    "wof:lastmodified":1472651545,
+    "wof:lastmodified":1492068570,
     "wof:name":"Korean Evangelical Church",
-    "wof:parent_id":420546671,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

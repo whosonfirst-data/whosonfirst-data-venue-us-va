@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.459265,37.245881,-80.459265,37.245881",
     "geom:latitude":37.245881,
     "geom:longitude":-80.459265,
@@ -33,9 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420547025,
         85688747,
         102191575,
-        85633793,
         101728705,
         102087271,
         85853185
@@ -46,8 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1461905373,
-    "wof:geomhash":"85cda679d902e47d9ae928a30f04981a",
+    "wof:geomhash":"a782a0dac072f3e177527a4fae115abc",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547025,
+            "venue_id":739339559
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +66,9 @@
         }
     ],
     "wof:id":739339559,
-    "wof:lastmodified":1472651287,
+    "wof:lastmodified":1492040096,
     "wof:name":"Old Farm Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.64914,38.764571,-78.64914,38.764571",
     "geom:latitude":38.764571,
     "geom:longitude":-78.64914,
@@ -31,7 +32,12 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kEPY2S5e2RPeIP7NbCdmx_38.764571_-78.649140@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908810,
     "wof:geomhash":"0c4cc3e59a0c2a948c6976c989e83ae2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739521043
+        }
+    ],
     "wof:id":739521043,
-    "wof:lastmodified":1472651736,
+    "wof:lastmodified":1492033280,
     "wof:name":"Maintenance Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

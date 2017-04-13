@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.483513,38.482029,-77.483513,38.482029",
     "geom:latitude":38.482029,
     "geom:longitude":-77.483513,
@@ -33,17 +34,26 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17f8GCY7EEbZ5oPVgUdGbu_38.482029_-77.483513@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912447,
-    "wof:geomhash":"c1231c5eb54480812b960a18ca5a1f01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70d5a7321a2ad62c896d994188b68578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547279,
+            "venue_id":739695137
+        }
+    ],
     "wof:id":739695137,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492045342,
     "wof:name":"Vab Designs",
     "wof:parent_id":420547279,
     "wof:placetype":"venue",

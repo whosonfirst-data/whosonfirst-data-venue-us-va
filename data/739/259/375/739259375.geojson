@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.901164,37.157509,-79.901164,37.157509",
     "geom:latitude":37.157509,
     "geom:longitude":-79.901164,
@@ -28,7 +29,12 @@
     "sg:postcode":"24065",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_765pe3AZIJjoyfOVTp65Cq_37.157509_-79.901164@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903685,
     "wof:geomhash":"fe68f6ac792137aa7896cce449acbedf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739259375
+        }
+    ],
     "wof:id":739259375,
-    "wof:lastmodified":1472651100,
+    "wof:lastmodified":1492032928,
     "wof:name":"Blue Ridge Skydiving Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

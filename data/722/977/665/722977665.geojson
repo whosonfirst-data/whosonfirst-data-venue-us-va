@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.591358,38.588974,-78.591358,38.588974",
     "geom:latitude":38.588974,
     "geom:longitude":-78.591358,
@@ -28,19 +29,34 @@
     "sg:postcode":"22835",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101728649,
+        102084929,
+        85811989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xFjKyjIaeLWxIOyFujwEG_38.588974_-78.591358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892409,
-    "wof:geomhash":"766c9549c48828b1576ac99d26b2d686",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2581105e813cbaa4c6f7412a17142564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084929,
+            "locality_id":101728649,
+            "neighbourhood_id":85811989,
+            "region_id":85688747,
+            "venue_id":722977665
+        }
+    ],
     "wof:id":722977665,
-    "wof:lastmodified":1472652317,
+    "wof:lastmodified":1492072877,
     "wof:name":"Luray Flea Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

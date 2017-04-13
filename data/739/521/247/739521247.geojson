@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.324715,36.920888,-80.324715,36.920888",
     "geom:latitude":36.920888,
     "geom:longitude":-80.324715,
@@ -28,7 +29,12 @@
     "sg:postcode":"24091",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s87ihIe042n4PCw1Ckt5f_36.920888_-80.324715@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908814,
     "wof:geomhash":"aa58c2dbf8f1381d1e3bdf9df8400845",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739521247
+        }
+    ],
     "wof:id":739521247,
-    "wof:lastmodified":1472651751,
+    "wof:lastmodified":1492033268,
     "wof:name":"Boyd's Florist & Greenhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

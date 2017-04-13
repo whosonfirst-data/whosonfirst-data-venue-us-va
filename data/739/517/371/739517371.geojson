@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.417058,38.453808,-77.417058,38.453808",
     "geom:latitude":38.453808,
     "geom:longitude":-77.417058,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rnHTABXfRR0lOyYqcNQML_38.453808_-77.417058@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908745,
-    "wof:geomhash":"37f69b9b5988ea12a0984af68d274fad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"753e233908337fbc82eff8ea09158e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547145,
+            "venue_id":739517371
+        }
+    ],
     "wof:id":739517371,
-    "wof:lastmodified":1472651766,
+    "wof:lastmodified":1492042810,
     "wof:name":"Sines Consulting",
     "wof:parent_id":420547145,
     "wof:placetype":"venue",

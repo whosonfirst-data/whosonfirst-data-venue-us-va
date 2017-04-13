@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.797548,37.250786,-76.797548,37.250786",
     "geom:latitude":37.250786,
     "geom:longitude":-76.797548,
@@ -32,17 +33,26 @@
         "panelist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SSrmRP92VPbubVDI9yckL_37.250786_-76.797548@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887420,
-    "wof:geomhash":"9021915bc32b4d27d6ccf9d0b2e716dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d706fe17e845c6e5a03281802e4e5591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546797,
+            "venue_id":722724161
+        }
+    ],
     "wof:id":722724161,
-    "wof:lastmodified":1472651612,
+    "wof:lastmodified":1492063930,
     "wof:name":"Eisele John",
     "wof:parent_id":420546797,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.575765,37.374701,-79.575765,37.374701",
     "geom:latitude":37.374701,
     "geom:longitude":-79.575765,
@@ -37,17 +38,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47a0rPZ66bjL63SIoLvBCW_37.374701_-79.575765@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895108,
-    "wof:geomhash":"c2a52cc8dc56fc6b5de56b07599f176a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c698422c5fd66f02878b1228e57b856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723099291
+        }
+    ],
     "wof:id":723099291,
-    "wof:lastmodified":1472651290,
+    "wof:lastmodified":1492062052,
     "wof:name":"Martin's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

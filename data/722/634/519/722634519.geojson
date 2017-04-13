@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.132727,38.843539,-77.132727,38.843539",
     "geom:latitude":38.843539,
     "geom:longitude":-77.132727,
@@ -31,19 +32,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729761,
+        102084863,
+        85840675
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZXtsRhOE7I3zNkvZHK049_38.843539_-77.132727@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885734,
-    "wof:geomhash":"67ac2f7122932f4b5652687aa2cba890",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4b85a4678e0bb97b07b943aa3e6d8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85840675,
+            "region_id":85688747,
+            "venue_id":722634519
+        }
+    ],
     "wof:id":722634519,
-    "wof:lastmodified":1472651426,
+    "wof:lastmodified":1492072907,
     "wof:name":"Nunez Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

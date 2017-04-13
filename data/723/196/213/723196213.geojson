@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.990964,36.578857,-77.990964,36.578857",
     "geom:latitude":36.578857,
     "geom:longitude":-77.990964,
@@ -32,17 +33,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729393,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kf1CzLBGKfLsVHzx1H8pc_36.578857_-77.990964@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896998,
-    "wof:geomhash":"56fc360f13a746ae56deec2772b2cee5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4dacc8f0cbc3b737573a3c993c7cc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "locality_id":101729393,
+            "region_id":85688747,
+            "venue_id":723196213
+        }
+    ],
     "wof:id":723196213,
-    "wof:lastmodified":1472651561,
+    "wof:lastmodified":1492048014,
     "wof:name":"R E Carroll Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

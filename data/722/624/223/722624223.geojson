@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.608587,37.206935,-76.608587,37.206935",
     "geom:latitude":37.206935,
     "geom:longitude":-76.608587,
@@ -32,19 +33,28 @@
         "line"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_483ACeVdNxhFddnJyRVAVv_37.206935_-76.608587@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885477,
-    "wof:geomhash":"a9bc24099b70a4e83a3067d7ceba41ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fdf26a05c90508c0ce91994ca571478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":722624223
+        }
+    ],
     "wof:id":722624223,
-    "wof:lastmodified":1472651390,
+    "wof:lastmodified":1492066140,
     "wof:name":"Production System Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

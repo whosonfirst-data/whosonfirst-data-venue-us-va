@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.601124,36.984015,-76.601124,36.984015",
     "geom:latitude":36.984015,
     "geom:longitude":-76.601124,
@@ -28,7 +29,13 @@
     "sg:postcode":"23430",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rVoe2HHi8JsPZitmBIqS2_36.984015_-76.601124@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906776,
     "wof:geomhash":"222b8ceb882c60faf32bd15892e5d9ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739410631
+        }
+    ],
     "wof:id":739410631,
-    "wof:lastmodified":1472651485,
+    "wof:lastmodified":1492032274,
     "wof:name":"Glenns Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

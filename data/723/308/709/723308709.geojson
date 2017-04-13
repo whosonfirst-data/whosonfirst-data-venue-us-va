@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445199,38.859962,-77.445199,38.859962",
     "geom:latitude":38.859962,
     "geom:longitude":-77.445199,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PqC2pqM8tNVfvNaZNmQc2_38.859962_-77.445199@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899238,
-    "wof:geomhash":"3483d1ec447441255e7bb7c40dff6131",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baff322ed8048982d63bc2a4e1eaaf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723308709
+        }
+    ],
     "wof:id":723308709,
-    "wof:lastmodified":1472651825,
+    "wof:lastmodified":1492051334,
     "wof:name":"Atlatl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

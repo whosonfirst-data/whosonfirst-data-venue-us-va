@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.147305,36.615705,-82.147305,36.615705",
     "geom:latitude":36.615705,
     "geom:longitude":-82.147305,
@@ -34,6 +35,7 @@
         85633793,
         101728659,
         102084925,
+        85826275,
         420547855
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461885466,
-    "wof:geomhash":"a95525554999e5200a55abf322a79025",
+    "wof:geomhash":"c0bdc5f9b0b798e6256da6f59aa7774b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":85826275,
+            "region_id":85688747,
+            "venue_id":722623903
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":722623903,
-    "wof:lastmodified":1472651415,
+    "wof:lastmodified":1492064383,
     "wof:name":"Helping Hands Chiropractic",
-    "wof:parent_id":420547855,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

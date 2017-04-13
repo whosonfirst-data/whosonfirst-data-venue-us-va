@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.746577,37.501188,-77.746577,37.501188",
     "geom:latitude":37.501188,
     "geom:longitude":-77.746577,
@@ -31,7 +32,12 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FAEHYDLd6TXolhHJHKO1V_37.501188_-77.746577@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904557,
     "wof:geomhash":"ee827204d02ccac62513bd1af526d537",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739299327
+        }
+    ],
     "wof:id":739299327,
-    "wof:lastmodified":1472651211,
+    "wof:lastmodified":1492032469,
     "wof:name":"Meyer Suki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

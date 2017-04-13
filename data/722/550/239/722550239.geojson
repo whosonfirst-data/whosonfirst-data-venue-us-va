@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517401,38.805862,-77.517401,38.805862",
     "geom:latitude":38.805862,
     "geom:longitude":-77.517401,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bZaf0vWzb3QVVzEdoVoJH_38.805862_-77.517401@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884008,
-    "wof:geomhash":"7d863435990a4320797cda372340431c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d932bebe43f69e62a7e528c618928052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722550239
+        }
+    ],
     "wof:id":722550239,
-    "wof:lastmodified":1472651083,
+    "wof:lastmodified":1492068066,
     "wof:name":"Holladay Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

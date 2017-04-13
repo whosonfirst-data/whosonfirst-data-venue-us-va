@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457509,38.830715,-77.457509,38.830715",
     "geom:latitude":38.830715,
     "geom:longitude":-77.457509,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fRRQ8iEmPrW8PCZzuz3Hn_38.830715_-77.457509@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899930,
-    "wof:geomhash":"964602f6eb7b362555c4bcac01a7532c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4194da28ed223997e287d7ba6559eac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723346293
+        }
+    ],
     "wof:id":723346293,
-    "wof:lastmodified":1472651941,
+    "wof:lastmodified":1492057807,
     "wof:name":"Ctl Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

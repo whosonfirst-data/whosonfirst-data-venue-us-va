@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.704919,37.162792,-77.704919,37.162792",
     "geom:latitude":37.162792,
     "geom:longitude":-77.704919,
@@ -31,17 +32,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wi082jserwVql0qCGeud7_37.162792_-77.704919@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892231,
-    "wof:geomhash":"17d66e6cbd981856e5617558353e2173",
-    "wof:hierarchy":[],
+    "wof:geomhash":"249494c0954326fd8235002903884acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":722969875
+        }
+    ],
     "wof:id":722969875,
-    "wof:lastmodified":1472652314,
+    "wof:lastmodified":1492065887,
     "wof:name":"Fields Transportation Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

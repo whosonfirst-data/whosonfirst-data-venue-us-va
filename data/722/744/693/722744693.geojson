@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.477895,38.421632,-77.477895,38.421632",
     "geom:latitude":38.421632,
     "geom:longitude":-77.477895,
@@ -31,17 +32,26 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5flENDMxD7hX7xfLyDYcGz_38.421632_-77.477895@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887836,
-    "wof:geomhash":"30aacd5d8d0e98a3fea392dc341b8e47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98a989f344fbffa662606840feafdf3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":722744693
+        }
+    ],
     "wof:id":722744693,
-    "wof:lastmodified":1472651698,
+    "wof:lastmodified":1492069291,
     "wof:name":"Mountain View Volunteer Rescu",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

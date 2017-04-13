@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454493,37.601761,-77.454493,37.601761",
     "geom:latitude":37.601761,
     "geom:longitude":-77.454493,
@@ -32,17 +33,32 @@
         "restoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6urNrThRxZCiaTGyOGpGlD_37.601761_-77.454493@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895550,
-    "wof:geomhash":"e5773ba5ab8e4b3cb66134f64b2a7051",
-    "wof:hierarchy":[],
+    "wof:geomhash":"993df22635eb6b5dc71f174fab829d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":723121783
+        }
+    ],
     "wof:id":723121783,
-    "wof:lastmodified":1472651365,
+    "wof:lastmodified":1492055874,
     "wof:name":"Clint Edwards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

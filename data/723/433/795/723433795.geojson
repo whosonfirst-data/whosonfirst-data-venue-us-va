@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432144,38.317273,-77.432144,38.317273",
     "geom:latitude":38.317273,
     "geom:longitude":-77.432144,
@@ -32,19 +33,28 @@
         "weight"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q8eAHLf6yjIbDQ8UNRF2i_38.317273_-77.432144@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901636,
-    "wof:geomhash":"870866f4da11846b232026db045b95d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12c3eda25f3cfed1a65197dbc976738e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723433795
+        }
+    ],
     "wof:id":723433795,
-    "wof:lastmodified":1472652257,
+    "wof:lastmodified":1492048563,
     "wof:name":"Body Work Inc",
-    "wof:parent_id":420547245,
+    "wof:parent_id":420547191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

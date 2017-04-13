@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.562699,39.1192,-77.562699,39.1192",
     "geom:latitude":39.1192,
     "geom:longitude":-77.562699,
@@ -32,17 +33,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a7ACsZu5EM2bNbS8ihLqw_39.119200_-77.562699@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888779,
-    "wof:geomhash":"44f93f33d75fc6387ec9dda2566d4aff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b3b9256de417240cb74808aedd0fbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722793911
+        }
+    ],
     "wof:id":722793911,
-    "wof:lastmodified":1472651853,
+    "wof:lastmodified":1492069451,
     "wof:name":"Image Matters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

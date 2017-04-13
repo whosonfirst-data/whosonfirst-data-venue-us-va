@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.890836,38.418519,-78.890836,38.418519",
     "geom:latitude":38.418519,
     "geom:longitude":-78.890836,
@@ -35,7 +36,13 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V4Ptukm59hTX4OIbgjxbu_38.418519_-78.890836@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461907042,
     "wof:geomhash":"57d14c4f1addd519969761abb5a6591d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739423739
+        }
+    ],
     "wof:id":739423739,
-    "wof:lastmodified":1472651534,
+    "wof:lastmodified":1492032137,
     "wof:name":"Dept Solid Waste & Recycling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

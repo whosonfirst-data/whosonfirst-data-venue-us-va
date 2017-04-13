@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.0703,38.711737,-77.0703,38.711737",
     "geom:latitude":38.711737,
     "geom:longitude":-77.0703,
@@ -32,17 +33,32 @@
         "proposal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729741,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59OdlzvOrOXRi4DJkqZezE_38.711737_-77.070300@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894954,
-    "wof:geomhash":"cffd2f6e9cee3459f6e1a66bdb5c57c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf6b4341af06824a6a2ee0372e7117da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729741,
+            "region_id":85688747,
+            "venue_id":723091859
+        }
+    ],
     "wof:id":723091859,
-    "wof:lastmodified":1472651313,
+    "wof:lastmodified":1492047883,
     "wof:name":"Robertson Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

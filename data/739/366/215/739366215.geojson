@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.180484,36.798609,-76.180484,36.798609",
     "geom:latitude":36.798609,
     "geom:longitude":-76.180484,
@@ -35,7 +36,8 @@
         85633793,
         101728745,
         102081929,
-        85836691
+        85836691,
+        85802393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461905929,
-    "wof:geomhash":"aab3bb79f606479d6df0acd5b5eca2ab",
+    "wof:geomhash":"76aa484ef2e9b7fccb23f45231743814",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,12 +55,21 @@
             "neighbourhood_id":85836691,
             "region_id":85688747,
             "venue_id":739366215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85802393,
+            "region_id":85688747,
+            "venue_id":739366215
         }
     ],
     "wof:id":739366215,
-    "wof:lastmodified":1472651333,
+    "wof:lastmodified":1492040504,
     "wof:name":"Nachman Realty",
-    "wof:parent_id":85836691,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

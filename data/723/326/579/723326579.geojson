@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.120532,37.328333,-79.120532,37.328333",
     "geom:latitude":37.328333,
     "geom:longitude":-79.120532,
@@ -38,17 +39,30 @@
         "vibration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Aw98ppL6gsOEGrcOry9Wi_37.328333_-79.120532@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899567,
-    "wof:geomhash":"9bc7ca291a686e797ac5fa253a77c2ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"727a339ed69d82fc93714b4ccec50450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":723326579
+        }
+    ],
     "wof:id":723326579,
-    "wof:lastmodified":1472651900,
+    "wof:lastmodified":1492062194,
     "wof:name":"Dynamic Testing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

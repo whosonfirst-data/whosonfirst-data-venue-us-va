@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.252883,36.586604,-82.252883,36.586604",
     "geom:latitude":36.586604,
     "geom:longitude":-82.252883,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
-        85825325,
-        102086471
+        101722903,
+        102086471,
+        85825325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,20 @@
     },
     "wof:country":"US",
     "wof:created":1461898860,
-    "wof:geomhash":"f8abe00bfc2c7b164d77148b4d5aa119",
+    "wof:geomhash":"a9f5e26ae592e2f4c10ed40efcf28fe8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086471,
+            "locality_id":101722903,
             "neighbourhood_id":85825325,
             "region_id":85688701,
             "venue_id":723289577
         }
     ],
     "wof:id":723289577,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492062163,
     "wof:name":"Outpatient Diagnostic Ctr",
     "wof:parent_id":85825325,
     "wof:placetype":"venue",

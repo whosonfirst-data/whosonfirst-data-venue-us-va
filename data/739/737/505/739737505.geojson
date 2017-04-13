@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.423793,37.277849,-80.423793,37.277849",
     "geom:latitude":37.277849,
     "geom:longitude":-80.423793,
@@ -31,17 +32,26 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_565gi1ZK4q9LEvtgPUMQnq_37.277849_-80.423793@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913376,
-    "wof:geomhash":"6e685d5d54eda0b2dc2ef782d6aa3f09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf591f3578761379f587cb30d317a35b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547035,
+            "venue_id":739737505
+        }
+    ],
     "wof:id":739737505,
-    "wof:lastmodified":1472652252,
+    "wof:lastmodified":1492041636,
     "wof:name":"Tinnell Properties",
     "wof:parent_id":420547035,
     "wof:placetype":"venue",

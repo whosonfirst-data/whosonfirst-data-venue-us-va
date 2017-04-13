@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.366638,38.299569,-77.366638,38.299569",
     "geom:latitude":38.299569,
     "geom:longitude":-77.366638,
@@ -31,17 +32,26 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ym4UXDI2maPktsDtCMB9W_38.299569_-77.366638@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895784,
-    "wof:geomhash":"caa9ba1c03259937dae92380a20c0741",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e73ad9e214ecd5e2c084f47fd30f55bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":723134507
+        }
+    ],
     "wof:id":723134507,
-    "wof:lastmodified":1472651398,
+    "wof:lastmodified":1492050141,
     "wof:name":"Wine Brothers Inc",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

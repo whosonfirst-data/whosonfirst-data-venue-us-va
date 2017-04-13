@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523466,38.785001,-77.523466,38.785001",
     "geom:latitude":38.785001,
     "geom:longitude":-77.523466,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5He8xJLfUZ3qVYTjPF2n0i_38.785001_-77.523466@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902640,
-    "wof:geomhash":"0bfe305e90acdf3d35838918a41098a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74ccf6ebb982f20b10771c1d3f97182f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":723485523
+        }
+    ],
     "wof:id":723485523,
-    "wof:lastmodified":1472652335,
+    "wof:lastmodified":1492048955,
     "wof:name":"KIRK Design Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.894468,36.865866,-78.894468,36.865866",
     "geom:latitude":36.865866,
     "geom:longitude":-78.894468,
@@ -35,17 +36,30 @@
         "income"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bntfGbDX8OyoFcIHq78FS_36.865866_-78.894468@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892325,
-    "wof:geomhash":"dcb896ad8162563fbf9c99282e17f3a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c73b9f40452e315b88eacaa39780871f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":722973819
+        }
+    ],
     "wof:id":722973819,
-    "wof:lastmodified":1472652316,
+    "wof:lastmodified":1492070342,
     "wof:name":"Halifax Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

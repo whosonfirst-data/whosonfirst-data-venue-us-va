@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.439996,38.288644,-77.439996,38.288644",
     "geom:latitude":38.288644,
     "geom:longitude":-77.439996,
@@ -32,17 +33,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eUuABOSoLKALUArG5Uixn_38.288644_-77.439996@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900821,
-    "wof:geomhash":"4a8a6e6662a9baea7c859136945a1778",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c479696034f33767475e06c32c4d43e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":723392087
+        }
+    ],
     "wof:id":723392087,
-    "wof:lastmodified":1472652104,
+    "wof:lastmodified":1492049944,
     "wof:name":"Mt Zion Full Gospel Church",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

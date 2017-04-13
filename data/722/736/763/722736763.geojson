@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.72298,37.32531,-80.72298,37.32531",
     "geom:latitude":37.32531,
     "geom:longitude":-80.72298,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728851,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dHeFP38zMbLZ8eH5jfJkD_37.325310_-80.722980@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887680,
-    "wof:geomhash":"0eb681ba11fed4be2a0255cf826ee292",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65c3370160684b97c05ac0e8c2c96a41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728851,
+            "region_id":85688747,
+            "venue_id":722736763
+        }
+    ],
     "wof:id":722736763,
-    "wof:lastmodified":1472651683,
+    "wof:lastmodified":1492065685,
     "wof:name":"First Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

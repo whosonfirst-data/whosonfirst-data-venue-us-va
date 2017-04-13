@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.877561,36.711603,-79.877561,36.711603",
     "geom:latitude":36.711603,
     "geom:longitude":-79.877561,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KXF0HKHLSjxsmKtaBBztq_36.711603_-79.877561@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901512,
-    "wof:geomhash":"78564a207acee368e92715d62f9ac933",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd72e7a3a4af7d3629cb3931c973b7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723426749
+        }
+    ],
     "wof:id":723426749,
-    "wof:lastmodified":1472652257,
+    "wof:lastmodified":1492061577,
     "wof:name":"Air Maintenance Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

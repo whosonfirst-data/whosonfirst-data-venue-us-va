@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564962,38.712089,-77.564962,38.712089",
     "geom:latitude":38.712089,
     "geom:longitude":-77.564962,
@@ -31,17 +32,32 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ldPygfMPVrn4yM6A6Uzux_38.712089_-77.564962@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888624,
-    "wof:geomhash":"12c8acb716d2f9fd057db380db518414",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8be80306cc7f4a20f1f94c2edc6d8ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":722786255
+        }
+    ],
     "wof:id":722786255,
-    "wof:lastmodified":1472651743,
+    "wof:lastmodified":1492064078,
     "wof:name":"John L Bibb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

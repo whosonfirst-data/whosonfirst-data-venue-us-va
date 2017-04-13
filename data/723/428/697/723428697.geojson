@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.875456,36.678568,-79.875456,36.678568",
     "geom:latitude":36.678568,
     "geom:longitude":-79.875456,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.arbys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lflgkQTQUlwvrcd35eLen_36.678568_-79.875456@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901546,
-    "wof:geomhash":"ec5d908936998a6ba51282f58ebd2c4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07f488f75ac3c5541cf7ae6698e0def3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723428697
+        }
+    ],
     "wof:id":723428697,
-    "wof:lastmodified":1472652253,
+    "wof:lastmodified":1492049208,
     "wof:name":"Arby's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

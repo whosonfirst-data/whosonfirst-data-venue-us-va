@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.813758,37.035968,-77.813758,37.035968",
     "geom:latitude":37.035968,
     "geom:longitude":-77.813758,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uykZTj3vlXu6SavCshSlx_37.035968_-77.813758@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892918,
-    "wof:geomhash":"dc8bb562fad779c1946993f55f840162",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3520b8433a4035a19d1a1635b5d89999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":723000687
+        }
+    ],
     "wof:id":723000687,
-    "wof:lastmodified":1472651079,
+    "wof:lastmodified":1492056920,
     "wof:name":"SBA Towers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.520474,38.789302,-77.520474,38.789302",
     "geom:latitude":38.789302,
     "geom:longitude":-77.520474,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.vdh.virginia.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FmReoFhJ8QxPIOsqRShjH_38.789302_-77.520474@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909082,
-    "wof:geomhash":"360a11960d54480fbaf55f3affe96218",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c23d8c4c094ec148c4a1e3f540c4cdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739535731
+        }
+    ],
     "wof:id":739535731,
-    "wof:lastmodified":1472651815,
+    "wof:lastmodified":1492046894,
     "wof:name":"Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.879378,36.671723,-79.879378,36.671723",
     "geom:latitude":36.671723,
     "geom:longitude":-79.879378,
@@ -31,17 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZqT0t38Ln8IdwzYOhG9sy_36.671723_-79.879378@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901219,
-    "wof:geomhash":"bfa25d55abd10f8c3576b060c11d77b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3a26ec474ff87fd52491812dcad727a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723412599
+        }
+    ],
     "wof:id":723412599,
-    "wof:lastmodified":1472652200,
+    "wof:lastmodified":1492055742,
     "wof:name":"250 Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

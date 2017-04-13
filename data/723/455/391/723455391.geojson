@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.987285,36.708853,-81.987285,36.708853",
     "geom:latitude":36.708853,
     "geom:longitude":-81.987285,
@@ -33,17 +34,26 @@
         "adm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33J6msw2J0GQUk6GXJD7Tb_36.708853_-81.987285@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902041,
-    "wof:geomhash":"96a1cb31628fd4b49e27e2ff554312ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57a15a78694879ecf86b3d7ba1c5f1f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723455391
+        }
+    ],
     "wof:id":723455391,
-    "wof:lastmodified":1472652283,
+    "wof:lastmodified":1492051529,
     "wof:name":"Washington County Economic Dev",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

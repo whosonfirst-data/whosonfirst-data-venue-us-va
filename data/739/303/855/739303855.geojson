@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.734534,37.284959,-76.734534,37.284959",
     "geom:latitude":37.284959,
     "geom:longitude":-76.734534,
@@ -33,7 +34,12 @@
         "tub"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50YYEQf03u20QZvNCvQd43_37.284959_-76.734534@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904650,
     "wof:geomhash":"389da7618ab59b6e6c7646f14b54e34e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739303855
+        }
+    ],
     "wof:id":739303855,
-    "wof:lastmodified":1472651225,
+    "wof:lastmodified":1492029761,
     "wof:name":"Aqua Pools & Spas-Williamsburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

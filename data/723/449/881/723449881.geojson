@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.508519,37.342315,-79.508519,37.342315",
     "geom:latitude":37.342315,
     "geom:longitude":-79.508519,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fx3KCxS3kPXRpuwfwW5yH_37.342315_-79.508519@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901941,
-    "wof:geomhash":"5ea9cab627b018989169f74b9e29e622",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd013bc98550f0354fb26f1f7301a30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723449881
+        }
+    ],
     "wof:id":723449881,
-    "wof:lastmodified":1472652306,
+    "wof:lastmodified":1492060115,
     "wof:name":"Eve's Tropical Paradise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

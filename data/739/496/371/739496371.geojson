@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442345,37.711882,-77.442345,37.711882",
     "geom:latitude":37.711882,
     "geom:longitude":-77.442345,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"www.bettertype.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KXapVbM6ittv4kwiNa3Et_37.711882_-77.442345@1294252573"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461908366,
     "wof:geomhash":"eae1beb5ad79817aa1879de2e1a12629",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739496371
+        }
+    ],
     "wof:id":739496371,
-    "wof:lastmodified":1472651688,
+    "wof:lastmodified":1492033022,
     "wof:name":"Bettertype Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

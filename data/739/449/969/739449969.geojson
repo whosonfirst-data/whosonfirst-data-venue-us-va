@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.407445,37.299439,-80.407445,37.299439",
     "geom:latitude":37.299439,
     "geom:longitude":-80.407445,
@@ -31,17 +32,26 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77d0hqBv63crHCTQzql96W_37.299439_-80.407445@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907536,
-    "wof:geomhash":"378efdacfa067bb7eba43d7ae87412e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b2621755f0080f52e1a0dbb6961eebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547035,
+            "venue_id":739449969
+        }
+    ],
     "wof:id":739449969,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492045082,
     "wof:name":"Petersen Technology",
     "wof:parent_id":420547035,
     "wof:placetype":"venue",

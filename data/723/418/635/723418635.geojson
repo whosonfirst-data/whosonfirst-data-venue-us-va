@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500144,37.499522,-77.500144,37.499522",
     "geom:latitude":37.499522,
     "geom:longitude":-77.500144,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xBOyDGi3Nc9vxTAWjEJLQ_37.499522_-77.500144@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901334,
-    "wof:geomhash":"47c5be8a4973e640788e089e9c07c96c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50f3cd0ceb1b8b8fd8277fad78c677e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":723418635
+        }
+    ],
     "wof:id":723418635,
-    "wof:lastmodified":1472652220,
+    "wof:lastmodified":1492061064,
     "wof:name":"Midstate Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

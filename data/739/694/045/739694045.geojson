@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.632457,38.064211,-76.632457,38.064211",
     "geom:latitude":38.064211,
     "geom:longitude":-76.632457,
@@ -38,7 +39,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qsZlUY20qPnUfiSO0t3qD_38.064211_-76.632457@1303262547"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461912420,
     "wof:geomhash":"b1c49890349fb4003e5b00a4308331e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739694045
+        }
+    ],
     "wof:id":739694045,
-    "wof:lastmodified":1472652158,
+    "wof:lastmodified":1492030235,
     "wof:name":"Gawen, Robert H & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

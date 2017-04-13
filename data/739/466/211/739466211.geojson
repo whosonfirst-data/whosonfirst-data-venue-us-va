@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.164553,39.165287,-78.164553,39.165287",
     "geom:latitude":39.165287,
     "geom:longitude":-78.164553,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CtxJI0xOu7SS5lHG2Hlya_39.165287_-78.164553@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907823,
-    "wof:geomhash":"0ce5ebc8a971ac2d598f622359c18c2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0a86a33cd4afddd569d31f46c2213db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739466211
+        }
+    ],
     "wof:id":739466211,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492040828,
     "wof:name":"Bank Of Clarke County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

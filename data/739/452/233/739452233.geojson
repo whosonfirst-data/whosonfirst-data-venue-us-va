@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.242579,36.992864,-78.242579,36.992864",
     "geom:latitude":36.992864,
     "geom:longitude":-78.242579,
@@ -32,17 +33,30 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U1kH8CRpwN5Tdflh8lNBX_36.992864_-78.242579@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907582,
-    "wof:geomhash":"08c1a10f74673c6957bdda4319565353",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63d1ddfa14631d28157ca85522d901d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084945,
+            "region_id":85688747,
+            "venue_id":739452233
+        }
+    ],
     "wof:id":739452233,
-    "wof:lastmodified":1472651559,
+    "wof:lastmodified":1492037500,
     "wof:name":"Oncology Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

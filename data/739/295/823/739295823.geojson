@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.489203,39.018482,-77.489203,39.018482",
     "geom:latitude":39.018482,
     "geom:longitude":-77.489203,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w2ZdKFZ0wueFu0PI7f7gY_39.018482_-77.489203@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904479,
-    "wof:geomhash":"a97b81758592ef622ff2234b21a49452",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c59669ac8a360fac54b5c7e96c6b5fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739295823
+        }
+    ],
     "wof:id":739295823,
-    "wof:lastmodified":1472651225,
+    "wof:lastmodified":1492042371,
     "wof:name":"Precision Grapics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

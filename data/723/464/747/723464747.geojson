@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.389342,36.66746,-78.389342,36.66746",
     "geom:latitude":36.66746,
     "geom:longitude":-78.389342,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729011,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XrljuiYHQhO35ZHlmWl32_36.667460_-78.389342@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902224,
-    "wof:geomhash":"9b3ba44d3d5390c297d105872ad28e0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4397c3375323388510130aa5bf81667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729011,
+            "region_id":85688747,
+            "venue_id":723464747
+        }
+    ],
     "wof:id":723464747,
-    "wof:lastmodified":1472652315,
+    "wof:lastmodified":1492058126,
     "wof:name":"Boydton Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

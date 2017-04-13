@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.551071,38.269783,-77.551071,38.269783",
     "geom:latitude":38.269783,
     "geom:longitude":-77.551071,
@@ -32,17 +33,30 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5chUXvqx0mG2Z5XhdIdSMR_38.269783_-77.551071@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901928,
-    "wof:geomhash":"dda12df6bee83452287a74e146c41bbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebba5b7464513fbd6f6031fef697e6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723449083
+        }
+    ],
     "wof:id":723449083,
-    "wof:lastmodified":1472652276,
+    "wof:lastmodified":1492060109,
     "wof:name":"Fox Run Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

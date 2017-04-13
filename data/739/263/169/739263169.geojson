@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.014264,36.606437,-76.014264,36.606437",
     "geom:latitude":36.606437,
     "geom:longitude":-76.014264,
@@ -32,19 +33,36 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929,
+        420548411
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VmTIl7XCa32x6jw14tkZj_36.606437_-76.014264@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903769,
-    "wof:geomhash":"d6b4087d16c791330e2929ca8b2344db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0099e7f877f5ce853b1305f5bc0b2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420548411,
+            "region_id":85688747,
+            "venue_id":739263169
+        }
+    ],
     "wof:id":739263169,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492040264,
     "wof:name":"Hayes Bernard F Jr Farms Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

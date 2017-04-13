@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.73239,37.355185,-76.73239,37.355185",
     "geom:latitude":37.355185,
     "geom:longitude":-76.73239,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AAxZraMSHGNjAR2Fa0iV9_37.355185_-76.732390@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889639,
-    "wof:geomhash":"6b886617d4eeb16c0fa61c96aa40daf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94047bbec9f9f3e7e2f40e70b9f3e2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":722840549
+        }
+    ],
     "wof:id":722840549,
-    "wof:lastmodified":1472651956,
+    "wof:lastmodified":1492071109,
     "wof:name":"Reach Centre",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

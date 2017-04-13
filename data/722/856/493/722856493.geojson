@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48089,37.478269,-77.48089,37.478269",
     "geom:latitude":37.478269,
     "geom:longitude":-77.48089,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qOP8PnwPPhY6O9BRRX4q2_37.478269_-77.480890@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889946,
-    "wof:geomhash":"25ec8d88def69a0d69bd1644ef25f401",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f3bde262a6776230b9ed13963452c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722856493
+        }
+    ],
     "wof:id":722856493,
-    "wof:lastmodified":1472651982,
+    "wof:lastmodified":1492071370,
     "wof:name":"Rock Creek Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

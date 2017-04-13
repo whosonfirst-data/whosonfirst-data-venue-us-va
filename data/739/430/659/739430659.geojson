@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.269879,36.642618,-80.269879,36.642618",
     "geom:latitude":36.642618,
     "geom:longitude":-80.269879,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728847,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BqGrReJykk924ybn1jAeH_36.642618_-80.269879@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907170,
-    "wof:geomhash":"ad6acea62dc0da56c0bd8292391f554c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f19acca58db13bf47e767079328edc96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "locality_id":101728847,
+            "region_id":85688747,
+            "venue_id":739430659
+        }
+    ],
     "wof:id":739430659,
-    "wof:lastmodified":1472651531,
+    "wof:lastmodified":1492041521,
     "wof:name":"TWA Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

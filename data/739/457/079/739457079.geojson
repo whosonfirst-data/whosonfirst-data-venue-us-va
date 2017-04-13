@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.677233,37.241587,-80.677233,37.241587",
     "geom:latitude":37.241587,
     "geom:longitude":-80.677233,
@@ -28,7 +29,12 @@
     "sg:postcode":"24134",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g81IfaGE49hXTdsOPAZqk_37.241587_-80.677233@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907662,
     "wof:geomhash":"2b8bc3c08ed22fc4430283f4015a1559",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "region_id":85688747,
+            "venue_id":739457079
+        }
+    ],
     "wof:id":739457079,
-    "wof:lastmodified":1472651563,
+    "wof:lastmodified":1492031846,
     "wof:name":"New Village Pentecostal H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

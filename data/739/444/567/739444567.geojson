@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.546837,36.89239,-78.546837,36.89239",
     "geom:latitude":36.89239,
     "geom:longitude":-78.546837,
@@ -28,7 +29,12 @@
     "sg:postcode":"23937",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eTwlyBVdPaRZBPZyJUygP_36.892390_-78.546837@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907447,
     "wof:geomhash":"044aa377e470ec6556a6d1abc27fac6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "region_id":85688747,
+            "venue_id":739444567
+        }
+    ],
     "wof:id":739444567,
-    "wof:lastmodified":1472651581,
+    "wof:lastmodified":1492032020,
     "wof:name":"Gayles Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

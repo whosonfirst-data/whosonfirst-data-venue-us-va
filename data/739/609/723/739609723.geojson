@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.605313,38.781446,-77.605313,38.781446",
     "geom:latitude":38.781446,
     "geom:longitude":-77.605313,
@@ -33,7 +34,13 @@
         "stripping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hZWVzKhg17dZZ5uxd2p28_38.781446_-77.605313@1303262496"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461910597,
     "wof:geomhash":"96702acc746930fa5547095e179b1160",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739609723
+        }
+    ],
     "wof:id":739609723,
-    "wof:lastmodified":1472651970,
+    "wof:lastmodified":1492032667,
     "wof:name":"Sol y Mar Multiservices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

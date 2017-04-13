@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.803123,37.387032,-79.803123,37.387032",
     "geom:latitude":37.387032,
     "geom:longitude":-79.803123,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729607,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NXfyWf9xDWWqcJFySyqrA_37.387032_-79.803123@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887258,
-    "wof:geomhash":"c1be923234445040104e980ddea5ec0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db6616c5df10d639824be1eb36e17f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729607,
+            "region_id":85688747,
+            "venue_id":722715305
+        }
+    ],
     "wof:id":722715305,
-    "wof:lastmodified":1472651570,
+    "wof:lastmodified":1492064493,
     "wof:name":"Fairway Tax Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

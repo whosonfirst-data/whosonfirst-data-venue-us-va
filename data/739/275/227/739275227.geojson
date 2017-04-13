@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458742,38.889801,-77.458742,38.889801",
     "geom:latitude":38.889801,
     "geom:longitude":-77.458742,
@@ -32,7 +33,13 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f9jul5APBRjCBLeXhrbCI_38.889801_-77.458742@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904039,
     "wof:geomhash":"f50b7049fa9803fccd8746c8aa138fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739275227
+        }
+    ],
     "wof:id":739275227,
-    "wof:lastmodified":1472651148,
+    "wof:lastmodified":1492031043,
     "wof:name":"Pluribus International Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

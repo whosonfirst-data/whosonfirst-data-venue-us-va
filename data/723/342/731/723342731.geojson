@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.496509,38.371671,-77.496509,38.371671",
     "geom:latitude":38.371671,
     "geom:longitude":-77.496509,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sHZRKv37GcwNwJov57Abe_38.371671_-77.496509@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899857,
-    "wof:geomhash":"66908de63a91b73875d19f558944e8b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d767937df554235a89c39ac6323af044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":723342731
+        }
+    ],
     "wof:id":723342731,
-    "wof:lastmodified":1472651964,
+    "wof:lastmodified":1492061982,
     "wof:name":"Jack Rowley Inc",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

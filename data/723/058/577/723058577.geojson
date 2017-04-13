@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.906573,37.422854,-76.906573,37.422854",
     "geom:latitude":37.422854,
     "geom:longitude":-76.906573,
@@ -33,19 +34,28 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V3vDBNDqeQBqLIrePyPrC_37.422854_-76.906573@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894187,
-    "wof:geomhash":"421c3ba264c1a38fbd5e82fb41f35679",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76fc76b506161af6ba0b03d913de5395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723058577
+        }
+    ],
     "wof:id":723058577,
-    "wof:lastmodified":1472651241,
+    "wof:lastmodified":1492058608,
     "wof:name":"Curved Needle",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

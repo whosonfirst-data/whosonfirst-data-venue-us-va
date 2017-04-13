@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.461367,38.9333,-78.461367,38.9333",
     "geom:latitude":38.9333,
     "geom:longitude":-78.461367,
@@ -33,7 +34,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729499,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JeFDrd9DsZIUyik7P0pfd_38.933518_-78.461770@1293134755"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909669,
     "wof:geomhash":"cd1e8a971ec024410815b6d6d9f4af0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101729499,
+            "region_id":85688747,
+            "venue_id":739565259
+        }
+    ],
     "wof:id":739565259,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492032768,
     "wof:name":"Katie Mae's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

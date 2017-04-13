@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.068745,38.758744,-77.068745,38.758744",
     "geom:latitude":38.758744,
     "geom:longitude":-77.068745,
@@ -38,6 +39,7 @@
         85633793,
         101729741,
         102084863,
+        420546719,
         420546711
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899438,
-    "wof:geomhash":"828543b72bd4bdef2065cb3558205c75",
+    "wof:geomhash":"0a75f4a17cadf2505985d18d88725c38",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729741,
+            "neighbourhood_id":420546719,
+            "region_id":85688747,
+            "venue_id":723319381
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723319381,
-    "wof:lastmodified":1472651773,
+    "wof:lastmodified":1492049712,
     "wof:name":"Surinder Chase",
-    "wof:parent_id":420546711,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

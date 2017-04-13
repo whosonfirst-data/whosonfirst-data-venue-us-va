@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.080713,37.28414,-80.080713,37.28414",
     "geom:latitude":37.28414,
     "geom:longitude":-80.080713,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4orrdEImbgIJYefVSZD1br_37.284140_-80.080713@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887118,
-    "wof:geomhash":"99c2bb1ebe36222fdb3ff5aa122bf9fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5b67c959d699dfcd3711871d062057c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":722708153
+        }
+    ],
     "wof:id":722708153,
-    "wof:lastmodified":1472651559,
+    "wof:lastmodified":1492063788,
     "wof:name":"ADI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.625546,37.607553,-77.625546,37.607553",
     "geom:latitude":37.607553,
     "geom:longitude":-77.625546,
@@ -35,17 +36,32 @@
         "writing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_769MTvZ332XjF8QFGtLlpK_37.607553_-77.625546@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908641,
-    "wof:geomhash":"64e56b0a0d0190fc6edce74b6e46c06e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4cae81d3dda5e81e620579481fa3f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739511799
+        }
+    ],
     "wof:id":739511799,
-    "wof:lastmodified":1472651823,
+    "wof:lastmodified":1492038867,
     "wof:name":"Griffin Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

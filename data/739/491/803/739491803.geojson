@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514955,36.739746,-77.514955,36.739746",
     "geom:latitude":36.739746,
     "geom:longitude":-77.514955,
@@ -32,17 +33,30 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c8jHt97o9kZLqAM1Iilqh_36.739746_-77.514955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908283,
-    "wof:geomhash":"b16c9a2016742765c6dc9da8d5b26481",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f69484ee1c773c29e276fd297ed103e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":739491803
+        }
+    ],
     "wof:id":739491803,
-    "wof:lastmodified":1472651706,
+    "wof:lastmodified":1492046238,
     "wof:name":"South Side Regional Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

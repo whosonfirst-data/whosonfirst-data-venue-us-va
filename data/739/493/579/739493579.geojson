@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.599995,37.506549,-77.599995,37.506549",
     "geom:latitude":37.506549,
     "geom:longitude":-77.599995,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.lazboy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X1VXqGPiHQKN7MUnrOQ7x_37.506549_-77.599995@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461908320,
     "wof:geomhash":"7a85c318e34d6ec95b7540151199db84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739493579
+        }
+    ],
     "wof:id":739493579,
-    "wof:lastmodified":1472651689,
+    "wof:lastmodified":1492029962,
     "wof:name":"LA-Z-Boy Furntiure Galleries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

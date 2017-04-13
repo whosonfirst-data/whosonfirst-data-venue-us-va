@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.359805,37.888248,-76.359805,37.888248",
     "geom:latitude":37.888248,
     "geom:longitude":-76.359805,
@@ -33,7 +34,12 @@
     "sg:postcode":"22473",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16mqRAFEAZwkoKIeIO5lHZ_37.888248_-76.359805@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912421,
     "wof:geomhash":"f65ed8fa780f92a740b12e0049b1cf89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694095
+        }
+    ],
     "wof:id":739694095,
-    "wof:lastmodified":1472652159,
+    "wof:lastmodified":1492030239,
     "wof:name":"Don's Beauty Salon & Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

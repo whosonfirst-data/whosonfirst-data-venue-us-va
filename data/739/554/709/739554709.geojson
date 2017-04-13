@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497176,38.787039,-77.497176,38.787039",
     "geom:latitude":38.787039,
     "geom:longitude":-77.497176,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q4Yv8JAn0Jv5xLg9fg2hN_38.787039_-77.497176@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909457,
-    "wof:geomhash":"161ccee1e30ad6dd2fc8a08da2726138",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2979ff63a18a7c7be028bd48b998add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739554709
+        }
+    ],
     "wof:id":739554709,
-    "wof:lastmodified":1472651884,
+    "wof:lastmodified":1492044133,
     "wof:name":"Lanman Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.612173,38.786029,-77.612173,38.786029",
     "geom:latitude":38.786029,
     "geom:longitude":-77.612173,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rIj14pt4LI3oFZNDDjGcW_38.786029_-77.612173@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907839,
     "wof:geomhash":"8c5238f9584e08f5a8f9471b36280fbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739467165
+        }
+    ],
     "wof:id":739467165,
-    "wof:lastmodified":1472651600,
+    "wof:lastmodified":1492030511,
     "wof:name":"Efh Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

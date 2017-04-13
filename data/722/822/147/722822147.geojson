@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.10882,36.813845,-82.10882,36.813845",
     "geom:latitude":36.813845,
     "geom:longitude":-82.10882,
@@ -32,17 +33,26 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lVsIlGOARQra0GIP7W5FU_36.813845_-82.108820@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889305,
-    "wof:geomhash":"06da9b3805b1dcaa17d348fff59fcc42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"842d2ff6048b98939a30fe3eb3ba157d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722822147
+        }
+    ],
     "wof:id":722822147,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492062790,
     "wof:name":"Amoco",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.2856,37.362175,-79.2856,37.362175",
     "geom:latitude":37.362175,
     "geom:longitude":-79.2856,
@@ -37,17 +38,32 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PC3ePC9lN4blTb77Iol3d_37.362175_-79.285600@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893881,
-    "wof:geomhash":"dd38886663bc026c50342220921f11c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5e430a7b3ae07fcb72cda257448cd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":723043137
+        }
+    ],
     "wof:id":723043137,
-    "wof:lastmodified":1472651148,
+    "wof:lastmodified":1492062105,
     "wof:name":"Forest Recreation Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

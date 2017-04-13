@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.575225,37.628632,-77.575225,37.628632",
     "geom:latitude":37.628632,
     "geom:longitude":-77.575225,
@@ -39,7 +40,12 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10168130%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JAyYKHEqAH2Oo0aL4DALf_37.628484_-77.574934@1293134755"
@@ -47,9 +53,17 @@
     "wof:country":"US",
     "wof:created":1461909668,
     "wof:geomhash":"b60d805ef6f8b43bf8fdef16b5baa22c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739565243
+        }
+    ],
     "wof:id":739565243,
-    "wof:lastmodified":1472651875,
+    "wof:lastmodified":1492032769,
     "wof:name":"Guirkin Plumbing, Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

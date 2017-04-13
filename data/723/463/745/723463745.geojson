@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.727518,37.336228,-80.727518,37.336228",
     "geom:latitude":37.336228,
     "geom:longitude":-80.727518,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728851,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72x7tyabnEmHazNZCQ1bZJ_37.336228_-80.727518@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902203,
-    "wof:geomhash":"9fa0802a7316e530a8849d3f9ac4e851",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff7b47c21e19bfe026d012333841f77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728851,
+            "region_id":85688747,
+            "venue_id":723463745
+        }
+    ],
     "wof:id":723463745,
-    "wof:lastmodified":1472652315,
+    "wof:lastmodified":1492056407,
     "wof:name":"Gary's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453429,38.461406,-77.453429,38.461406",
     "geom:latitude":38.461406,
     "geom:longitude":-77.453429,
@@ -31,17 +32,26 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547107
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AQ6mdiyFSt1mPQXf7XG08_38.461406_-77.453429@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893357,
-    "wof:geomhash":"8506bc76620a932feea2e02b56e49d3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5aeb2a573906436065058601bac0d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547107,
+            "venue_id":723019183
+        }
+    ],
     "wof:id":723019183,
-    "wof:lastmodified":1472651094,
+    "wof:lastmodified":1492049995,
     "wof:name":"Historic Challenges",
     "wof:parent_id":420547107,
     "wof:placetype":"venue",

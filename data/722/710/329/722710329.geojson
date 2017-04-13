@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.657936,37.436692,-77.657936,37.436692",
     "geom:latitude":37.436692,
     "geom:longitude":-77.657936,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RmlCYJV01ZY0WsR8bY4xX_37.436692_-77.657936@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887158,
-    "wof:geomhash":"4ea5f9ad287404edb4975632035bfd0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67fdd65a8fdf545b19217de7d9e08f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722710329
+        }
+    ],
     "wof:id":722710329,
-    "wof:lastmodified":1472651560,
+    "wof:lastmodified":1492074391,
     "wof:name":"Time Extension",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

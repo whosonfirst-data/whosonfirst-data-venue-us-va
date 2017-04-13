@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.385284,38.780996,-77.385284,38.780996",
     "geom:latitude":38.780996,
     "geom:longitude":-77.385284,
@@ -36,17 +37,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729039,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z4CcRx5iyO4wYk0zTsuMk_38.780996_-77.385284@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884285,
-    "wof:geomhash":"1414605f781218e4b70ee3d941c1766e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d35e34080a9db92e5f9576304f692b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729039,
+            "region_id":85688747,
+            "venue_id":722563593
+        }
+    ],
     "wof:id":722563593,
-    "wof:lastmodified":1472651120,
+    "wof:lastmodified":1492072357,
     "wof:name":"Carmel Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.032,38.149321,-77.032,38.149321",
     "geom:latitude":38.149321,
     "geom:longitude":-77.032,
@@ -32,17 +33,30 @@
         "gutter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DLTrBR38sPCqSlrvtHAb6_38.149321_-77.032000@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894893,
-    "wof:geomhash":"c379891c1b97551b256434272fef8d67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fa7ab70087fc35e87f266bf74be016e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723088573
+        }
+    ],
     "wof:id":723088573,
-    "wof:lastmodified":1472651274,
+    "wof:lastmodified":1492054554,
     "wof:name":"East Coast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

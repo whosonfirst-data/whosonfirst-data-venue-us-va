@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.802799,37.252299,-76.802799,37.252299",
     "geom:latitude":37.252299,
     "geom:longitude":-76.802799,
@@ -32,7 +33,9 @@
         85688747,
         85633793,
         85819343,
-        102085967
+        102085967,
+        420546797,
+        420546865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901327,
-    "wof:geomhash":"0a93e413a062884a1b86c604cccd9be5",
+    "wof:geomhash":"ef76e4dcc6bfb6252262cd564813b439",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,22 @@
             "neighbourhood_id":85819343,
             "region_id":85688747,
             "venue_id":723418215
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546797,
+            "venue_id":723418215
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546865,
+            "venue_id":723418215
         }
     ],
     "wof:id":723418215,
-    "wof:lastmodified":1472652215,
+    "wof:lastmodified":1492061076,
     "wof:name":"Mc Cardle Realty Inc",
-    "wof:parent_id":85819343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

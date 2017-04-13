@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.46519,38.786444,-77.46519,38.786444",
     "geom:latitude":38.786444,
     "geom:longitude":-77.46519,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q8iNIJbfT8oyUnXzpk2zD_38.786444_-77.465190@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898054,
-    "wof:geomhash":"1e19309b9cc33e170df3fe78276a4132",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe16187e06d3d041908ed679a5159d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":723246605
+        }
+    ],
     "wof:id":723246605,
-    "wof:lastmodified":1472651681,
+    "wof:lastmodified":1492053426,
     "wof:name":"Flight Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

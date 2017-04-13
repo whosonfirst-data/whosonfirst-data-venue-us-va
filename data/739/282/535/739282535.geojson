@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.498977,38.247441,-77.498977,38.247441",
     "geom:latitude":38.247441,
     "geom:longitude":-77.498977,
@@ -28,7 +29,12 @@
     "sg:postcode":"22408",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hf1m16ah3v7uHXgfaSkFF_38.247441_-77.498977@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904207,
     "wof:geomhash":"9a3e24fc493b56eef1d7a0bae9af9145",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739282535
+        }
+    ],
     "wof:id":739282535,
-    "wof:lastmodified":1472651171,
+    "wof:lastmodified":1492031922,
     "wof:name":"Heritage Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

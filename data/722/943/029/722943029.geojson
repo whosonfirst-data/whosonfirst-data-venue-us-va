@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.742851,38.058946,-77.742851,38.058946",
     "geom:latitude":38.058946,
     "geom:longitude":-77.742851,
@@ -33,17 +34,30 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Fn2T2diP2h0ma8wQi8vP8_38.058946_-77.742851@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891691,
-    "wof:geomhash":"2c23a9565f5634fdff1bac4352c14274",
-    "wof:hierarchy":[],
+    "wof:geomhash":"081d8b9cf1c238971c64623395498f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722943029
+        }
+    ],
     "wof:id":722943029,
-    "wof:lastmodified":1472652220,
+    "wof:lastmodified":1492070309,
     "wof:name":"Sunrise Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

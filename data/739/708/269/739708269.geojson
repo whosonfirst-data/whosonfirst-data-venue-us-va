@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.871491,37.755565,-78.871491,37.755565",
     "geom:latitude":37.755565,
     "geom:longitude":-78.871491,
@@ -32,7 +33,13 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729161,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UIwkEVZOUTmuHaqfKUJir_37.755565_-78.871491@1303262548"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461912744,
     "wof:geomhash":"a59f2b265650953443d0003239de1756",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "locality_id":101729161,
+            "region_id":85688747,
+            "venue_id":739708269
+        }
+    ],
     "wof:id":739708269,
-    "wof:lastmodified":1472652185,
+    "wof:lastmodified":1492030754,
     "wof:name":"Beechwood Security",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

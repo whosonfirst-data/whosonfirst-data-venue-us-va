@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.056356,38.339401,-77.056356,38.339401",
     "geom:latitude":38.339401,
     "geom:longitude":-77.056356,
@@ -32,17 +33,32 @@
         "govt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729075,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y5aB3BVyP9SD841HlRxWV_38.339401_-77.056356@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899067,
-    "wof:geomhash":"36251072adbb305c01b2f2670c388e1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3c2d5d44a2c216d23350d50b2c11b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729075,
+            "region_id":85688747,
+            "venue_id":723300301
+        }
+    ],
     "wof:id":723300301,
-    "wof:lastmodified":1472651733,
+    "wof:lastmodified":1492056879,
     "wof:name":"Dahlgren Wastewater Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

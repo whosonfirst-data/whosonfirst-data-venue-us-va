@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.564534,37.603794,-77.564534,37.603794",
     "geom:latitude":37.603794,
     "geom:longitude":-77.564534,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GcofPL0P9XDYkuU0DCbEs_37.603794_-77.564534@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902775,
-    "wof:geomhash":"8a974d442a9d81ea683db906eb465498",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd1121bfe8b83c496daba5232788929f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723491697
+        }
+    ],
     "wof:id":723491697,
-    "wof:lastmodified":1472652350,
+    "wof:lastmodified":1492061213,
     "wof:name":"Alltel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

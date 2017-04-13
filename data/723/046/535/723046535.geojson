@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.248539,36.794374,-76.248539,36.794374",
     "geom:latitude":36.794374,
     "geom:longitude":-76.248539,
@@ -37,7 +38,8 @@
         85633793,
         101728797,
         102087265,
-        420547901
+        420547901,
+        85876755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893941,
-    "wof:geomhash":"09d3b577c9a7241e7706a07b516dd5f2",
+    "wof:geomhash":"aba4f11f2d7f6772b0c9fd5a45ed60be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":420547901,
             "region_id":85688747,
             "venue_id":723046535
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":85876755,
+            "region_id":85688747,
+            "venue_id":723046535
         }
     ],
     "wof:id":723046535,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492049854,
     "wof:name":"M & D Contractors",
-    "wof:parent_id":420547901,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

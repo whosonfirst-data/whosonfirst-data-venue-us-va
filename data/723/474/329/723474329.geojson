@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.494616,37.124565,-81.494616,37.124565",
     "geom:latitude":37.124565,
     "geom:longitude":-81.494616,
@@ -31,17 +32,26 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wwXehwT0ZjOhX7vTEu4Py_37.124565_-81.494616@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902399,
-    "wof:geomhash":"a1479b9d61315f488d3b9e858ed1e6eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50b4f031d39f12933ffdfdd819b594a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":723474329
+        }
+    ],
     "wof:id":723474329,
-    "wof:lastmodified":1472652302,
+    "wof:lastmodified":1492059797,
     "wof:name":"Ronald W Householder DDS",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

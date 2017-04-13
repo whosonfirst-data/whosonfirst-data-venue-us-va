@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.978805,36.943485,-77.978805,36.943485",
     "geom:latitude":36.943485,
     "geom:longitude":-77.978805,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66wo4jGuRAioTFavz5oyrb_36.943485_-77.978805@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891898,
-    "wof:geomhash":"1454b66845095d09f57669c649db84cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"662a1a0ac572d6a8e998d89f8bba9c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":722953615
+        }
+    ],
     "wof:id":722953615,
-    "wof:lastmodified":1472652271,
+    "wof:lastmodified":1492066428,
     "wof:name":"SBA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

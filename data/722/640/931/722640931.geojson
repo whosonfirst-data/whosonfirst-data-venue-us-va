@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.015189,36.687466,-82.015189,36.687466",
     "geom:latitude":36.687466,
     "geom:longitude":-82.015189,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ssmPlixI0pn1KqDtmJoLl_36.687466_-82.015189@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885860,
-    "wof:geomhash":"52e68e53691caa2919848c3591e81f46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96080bf3d766672b4fc927e36e5c8c83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722640931
+        }
+    ],
     "wof:id":722640931,
-    "wof:lastmodified":1472651434,
+    "wof:lastmodified":1492066215,
     "wof:name":"McCray Enterprise LLC",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

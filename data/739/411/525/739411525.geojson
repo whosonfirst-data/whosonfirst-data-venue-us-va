@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.516272,38.861348,-78.516272,38.861348",
     "geom:latitude":38.861348,
     "geom:longitude":-78.516272,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DpOy5NXhA9fdrXe0gpPSr_38.861348_-78.516272@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906791,
-    "wof:geomhash":"45c80d29c8062535f714517d2f9badb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41df570b0794573fcadec8053ac238a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739411525
+        }
+    ],
     "wof:id":739411525,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492044395,
     "wof:name":"Mason & Dixon Terminal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

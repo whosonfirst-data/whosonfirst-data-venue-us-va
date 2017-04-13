@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430569,38.337565,-77.430569,38.337565",
     "geom:latitude":38.337565,
     "geom:longitude":-77.430569,
@@ -34,7 +35,10 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZkUY4RjR6XxyhdNFynEmx_38.337565_-77.430569@1303262546"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461912403,
     "wof:geomhash":"cba48bbe848acdd48e1487f8ef577918",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":739693141
+        }
+    ],
     "wof:id":739693141,
-    "wof:lastmodified":1472652170,
+    "wof:lastmodified":1492031400,
     "wof:name":"Body Mind Soul Improvement",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

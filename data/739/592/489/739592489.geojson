@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.563455,36.621038,-78.563455,36.621038",
     "geom:latitude":36.621038,
     "geom:longitude":-78.563455,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728975,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BWM8u9iH4Ty7E4TBUjIQ9_36.621038_-78.563455@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910248,
-    "wof:geomhash":"db3cafea119e5ad0879c1cd1ff87cbdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df1b946f72e0411b28a189ad3b57446f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101728975,
+            "region_id":85688747,
+            "venue_id":739592489
+        }
+    ],
     "wof:id":739592489,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492041027,
     "wof:name":"Hardee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

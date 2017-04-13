@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.747844,39.223551,-77.747844,39.223551",
     "geom:latitude":39.223551,
     "geom:longitude":-77.747844,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ETDR9UIm3lsTSfRL4gAG2_39.223551_-77.747844@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901108,
-    "wof:geomhash":"6ab068a028fdaea30866937c7ca7dcb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"956c0331dda5a33260c37b68b6e68534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723406865
+        }
+    ],
     "wof:id":723406865,
-    "wof:lastmodified":1472652150,
+    "wof:lastmodified":1492051845,
     "wof:name":"Loudoun Valley Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.732881,37.320822,-76.732881,37.320822",
     "geom:latitude":37.320822,
     "geom:longitude":-76.732881,
@@ -32,19 +33,28 @@
         "musical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sPWIxS8HbaLbN4fvqlp9G_37.320822_-76.732881@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904908,
-    "wof:geomhash":"b678ee19b6c98d80354cd06fba35c120",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec4881f07b873c92c8e1f179bdcc43d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739317245
+        }
+    ],
     "wof:id":739317245,
-    "wof:lastmodified":1472651207,
+    "wof:lastmodified":1492042556,
     "wof:name":"Merrill Brothers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

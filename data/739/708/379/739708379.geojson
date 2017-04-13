@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.40236,38.198996,-78.40236,38.198996",
     "geom:latitude":38.198996,
     "geom:longitude":-78.40236,
@@ -31,7 +32,12 @@
         "writer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d9ksQ4sHjuwQprGSpZGHi_38.198996_-78.402360@1303262548"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912747,
     "wof:geomhash":"0ed54ac2468b555317fe8ecfea609e96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739708379
+        }
+    ],
     "wof:id":739708379,
-    "wof:lastmodified":1472652191,
+    "wof:lastmodified":1492030767,
     "wof:name":"Occoquan Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

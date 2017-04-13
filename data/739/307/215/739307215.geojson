@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.279288,38.869715,-77.279288,38.869715",
     "geom:latitude":38.869715,
     "geom:longitude":-77.279288,
@@ -32,7 +33,13 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37d0vQrW5Doop4ohWhiHkH_38.869715_-77.279288@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904721,
     "wof:geomhash":"875c78c634c8854a3c1633bcafea8514",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":739307215
+        }
+    ],
     "wof:id":739307215,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492030005,
     "wof:name":"Philip Du",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

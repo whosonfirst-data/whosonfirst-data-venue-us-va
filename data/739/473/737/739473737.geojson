@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.698319,37.951049,-76.698319,37.951049",
     "geom:latitude":37.951049,
     "geom:longitude":-76.698319,
@@ -28,7 +29,12 @@
     "sg:postcode":"22572",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56GPhHOqsy887RZ9E7QAYz_37.951049_-76.698319@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907957,
     "wof:geomhash":"c97d6cc0d6c7e83958d87f0c8693aad8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739473737
+        }
+    ],
     "wof:id":739473737,
-    "wof:lastmodified":1472651635,
+    "wof:lastmodified":1492032914,
     "wof:name":"Fogg Brothers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

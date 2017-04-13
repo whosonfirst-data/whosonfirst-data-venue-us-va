@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412653,38.877295,-77.412653,38.877295",
     "geom:latitude":38.877295,
     "geom:longitude":-77.412653,
@@ -32,17 +33,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bLirEd1RU5fwRdbuUvkHU_38.877295_-77.412653@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886770,
-    "wof:geomhash":"f003b97bd5103cbb9cc18e542a21741b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bc1acd712f1ab915540fab1aac07893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722689301
+        }
+    ],
     "wof:id":722689301,
-    "wof:lastmodified":1472651531,
+    "wof:lastmodified":1492065150,
     "wof:name":"Intelligent Digits Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

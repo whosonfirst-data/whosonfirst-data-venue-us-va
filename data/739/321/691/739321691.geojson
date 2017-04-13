@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.40462,37.301013,-80.40462,37.301013",
     "geom:latitude":37.301013,
     "geom:longitude":-80.40462,
@@ -31,7 +32,10 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kx1TXFku1L55Fcf8aOATM_37.301013_-80.404620@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461905011,
     "wof:geomhash":"0c627f7a3af165735e4522824e24910b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547035,
+            "venue_id":739321691
+        }
+    ],
     "wof:id":739321691,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492030724,
     "wof:name":"Janis Geyer",
     "wof:parent_id":420547035,
     "wof:placetype":"venue",

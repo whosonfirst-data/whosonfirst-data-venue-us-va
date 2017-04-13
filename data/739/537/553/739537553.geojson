@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.438311,37.783638,-79.438311,37.783638",
     "geom:latitude":37.783638,
     "geom:longitude":-79.438311,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728589,
+        102085969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6poJlSbUK2u5Xmv5AfHQ5A_37.783638_-79.438311@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909113,
-    "wof:geomhash":"ca23621f2419ec958f082cc80ec18e1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f50a0d5f010779efc4c0b25db2ad67c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085969,
+            "locality_id":101728589,
+            "region_id":85688747,
+            "venue_id":739537553
+        }
+    ],
     "wof:id":739537553,
-    "wof:lastmodified":1472651803,
+    "wof:lastmodified":1492046207,
     "wof:name":"Lexington Police Hdqrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.273387,36.895014,-81.273387,36.895014",
     "geom:latitude":36.895014,
     "geom:longitude":-81.273387,
@@ -38,17 +39,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GzxkgSyGhTXKuuDBTImVO_36.895014_-81.273387@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889027,
-    "wof:geomhash":"6584793af328142dd6be73ecef81d05c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fff9c20d9e037d320279293b716ed32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722807801
+        }
+    ],
     "wof:id":722807801,
-    "wof:lastmodified":1472651872,
+    "wof:lastmodified":1492068913,
     "wof:name":"Rural Retreat Community Center",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

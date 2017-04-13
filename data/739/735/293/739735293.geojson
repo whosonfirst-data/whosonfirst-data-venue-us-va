@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.953206,37.253383,-79.953206,37.253383",
     "geom:latitude":37.253383,
     "geom:longitude":-79.953206,
@@ -38,7 +39,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74o7wc4RuerJjLHMMsyJ1e_37.253383_-79.953206@1303262552"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461913307,
     "wof:geomhash":"23ce33a3edd6b6ec840c9b5d73ef5e41",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735293
+        }
+    ],
     "wof:id":739735293,
-    "wof:lastmodified":1472652248,
+    "wof:lastmodified":1492032047,
     "wof:name":"Professional Ophthalmic Laboratories Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.187792,36.860968,-76.187792,36.860968",
     "geom:latitude":36.860968,
     "geom:longitude":-76.187792,
@@ -35,12 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101728769,
-        102085935,
-        420548171,
         101728745,
         102081929,
-        420548401
+        420548401,
+        420548381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461897376,
-    "wof:geomhash":"4c393e030428d54443ef07013f741132",
+    "wof:geomhash":"dd3b33008ac4c075182c76369c49021f",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085935,
-            "locality_id":101728769,
-            "neighbourhood_id":420548171,
-            "region_id":85688747,
-            "venue_id":723215591
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +57,21 @@
             "neighbourhood_id":420548401,
             "region_id":85688747,
             "venue_id":723215591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420548381,
+            "region_id":85688747,
+            "venue_id":723215591
         }
     ],
     "wof:id":723215591,
-    "wof:lastmodified":1472651629,
+    "wof:lastmodified":1492059456,
     "wof:name":"Heart Haven Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

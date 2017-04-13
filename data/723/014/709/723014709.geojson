@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.109795,39.180302,-78.109795,39.180302",
     "geom:latitude":39.180302,
     "geom:longitude":-78.109795,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wo2j0r2lECGYFMuzSER9B_39.180302_-78.109795@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893238,
-    "wof:geomhash":"c17ab0bce679d9960a59c009b9a5f7f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d747b3f9c26ae64ecc92e95eadb4baad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":723014709
+        }
+    ],
     "wof:id":723014709,
-    "wof:lastmodified":1472651125,
+    "wof:lastmodified":1492050550,
     "wof:name":"Concert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

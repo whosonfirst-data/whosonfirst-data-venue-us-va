@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.492882,37.60318,-77.492882,37.60318",
     "geom:latitude":37.60318,
     "geom:longitude":-77.492882,
@@ -37,17 +38,32 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n9v1O9vOLr3bZAxdrnzpn_37.603180_-77.492882@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912979,
-    "wof:geomhash":"b66b616b0039091510df1e642fcf9e5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f70f33bf3aebfabcb78aa26f4e5c78ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":739719339
+        }
+    ],
     "wof:id":739719339,
-    "wof:lastmodified":1472652209,
+    "wof:lastmodified":1492044678,
     "wof:name":"Hamlet Condominium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

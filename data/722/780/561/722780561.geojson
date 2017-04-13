@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.692559,38.077833,-76.692559,38.077833",
     "geom:latitude":38.077833,
     "geom:longitude":-76.692559,
@@ -31,17 +32,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pRjIz3yc6Bb4Tc57hDMld_38.077833_-76.692559@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888509,
-    "wof:geomhash":"be7454ef839df819a129f99647a9410c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9796246feca4f9db502d46f47b5b7fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":722780561
+        }
+    ],
     "wof:id":722780561,
-    "wof:lastmodified":1472651795,
+    "wof:lastmodified":1492065511,
     "wof:name":"Virginia Dept Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

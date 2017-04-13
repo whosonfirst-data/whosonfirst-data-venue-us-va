@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378891,38.498611,-77.378891,38.498611",
     "geom:latitude":38.498611,
     "geom:longitude":-77.378891,
@@ -31,7 +32,10 @@
         "government-state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rcpzSJKC0g3vkcN1LHhtw_38.498611_-77.378891@1303262547"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912437,
     "wof:geomhash":"c5a0eeda017ba6a4e6919bbddf16b8ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739694949
+        }
+    ],
     "wof:id":739694949,
-    "wof:lastmodified":1472652201,
+    "wof:lastmodified":1492030236,
     "wof:name":"Trans Department Of Fredricksb",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

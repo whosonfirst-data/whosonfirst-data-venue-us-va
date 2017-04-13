@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.991154,38.202795,-76.991154,38.202795",
     "geom:latitude":38.202795,
     "geom:longitude":-76.991154,
@@ -32,17 +33,30 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W73re9hq9uWklAwN7R1Lb_38.202795_-76.991154@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908424,
-    "wof:geomhash":"5be13c6a7183d4e2bdcaabfc2ba6a059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85370a2d7c5b111ec43fd81795d98521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739499893
+        }
+    ],
     "wof:id":739499893,
-    "wof:lastmodified":1472651709,
+    "wof:lastmodified":1492041837,
     "wof:name":"Gereaus Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

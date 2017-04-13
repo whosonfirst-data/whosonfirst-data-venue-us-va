@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.199513,36.760722,-76.199513,36.760722",
     "geom:latitude":36.760722,
     "geom:longitude":-76.199513,
@@ -32,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_134tjDa5GsqDwCH2rdTHkB_36.760722_-76.199513@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907912,
     "wof:geomhash":"2678b43f0b6837a4223a3e6b91efe1c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739471481
+        }
+    ],
     "wof:id":739471481,
-    "wof:lastmodified":1472651617,
+    "wof:lastmodified":1492031130,
     "wof:name":"Boutique of Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

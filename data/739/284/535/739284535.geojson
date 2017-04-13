@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506901,37.484793,-77.506901,37.484793",
     "geom:latitude":37.484793,
     "geom:longitude":-77.506901,
@@ -28,7 +29,13 @@
     "sg:postcode":"23225",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KCQfQEbiJdLgrXH0xHElb_37.484793_-77.506901@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904248,
     "wof:geomhash":"11a46fef714dfc8e3d4009a323ffa9d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739284535
+        }
+    ],
     "wof:id":739284535,
-    "wof:lastmodified":1472651174,
+    "wof:lastmodified":1492030644,
     "wof:name":"First Union Tots & Teens Learn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

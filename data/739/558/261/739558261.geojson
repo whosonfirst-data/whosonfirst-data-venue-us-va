@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42347,38.4482,-77.42347,38.4482",
     "geom:latitude":38.4482,
     "geom:longitude":-77.42347,
@@ -29,7 +30,10 @@
     "sg:province":"VA",
     "sg:website":"http://www.solution4you.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_120ZLYIHRutyvv3GLBQXJh_38.447749_-77.423864@1293134755"
@@ -37,9 +41,15 @@
     "wof:country":"US",
     "wof:created":1461909522,
     "wof:geomhash":"2555b0509bba54a011cd9ffb5530bf5a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":739558261
+        }
+    ],
     "wof:id":739558261,
-    "wof:lastmodified":1472651868,
+    "wof:lastmodified":1492031297,
     "wof:name":"Hartquist Meisel & Noblet Ltd",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

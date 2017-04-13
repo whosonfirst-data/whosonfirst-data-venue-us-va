@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.563509,37.6509,-77.563509,37.6509",
     "geom:latitude":37.6509,
     "geom:longitude":-77.563509,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ayOMQL3aDwHQXk5jCEsQk_37.650900_-77.563509@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888590,
-    "wof:geomhash":"2aae496d89777efd44f06a3377050d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f3abc4539bfe854102d3a9552e0a58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":722784597
+        }
+    ],
     "wof:id":722784597,
-    "wof:lastmodified":1472651794,
+    "wof:lastmodified":1492071961,
     "wof:name":"Kreisheimer Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

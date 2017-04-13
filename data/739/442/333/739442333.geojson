@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.328756,36.638304,-80.328756,36.638304",
     "geom:latitude":36.638304,
     "geom:longitude":-80.328756,
@@ -31,7 +32,12 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Hjjdr1UaA5oi5avhXQat4_36.638304_-80.328756@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907392,
     "wof:geomhash":"3e6be799eaba4020ea6ebbc049690d12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":739442333
+        }
+    ],
     "wof:id":739442333,
-    "wof:lastmodified":1472651563,
+    "wof:lastmodified":1492030169,
     "wof:name":"Lawson Brothers Logging LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

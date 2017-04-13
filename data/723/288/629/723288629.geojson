@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.419076,37.188815,-76.419076,37.188815",
     "geom:latitude":37.188815,
     "geom:longitude":-76.419076,
@@ -34,17 +35,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PZn3PqTTTuJum7FmpYlcz_37.188815_-76.419076@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898840,
-    "wof:geomhash":"e3bea7fb8ab9beec315d6f32d20b34f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02dc2b8c111314113f1ff85d0c630e47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723288629
+        }
+    ],
     "wof:id":723288629,
-    "wof:lastmodified":1472651808,
+    "wof:lastmodified":1492052939,
     "wof:name":"C Fiskus Trucking",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

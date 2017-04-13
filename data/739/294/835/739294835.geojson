@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.630118,37.644178,-77.630118,37.644178",
     "geom:latitude":37.644178,
     "geom:longitude":-77.630118,
@@ -35,17 +36,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cCr8eHmXLndr6bMGWax5D_37.644178_-77.630118@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904461,
-    "wof:geomhash":"d21770bcdad28cd706eb863a4413479a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a52d718d014974ec4cf96f10a20faaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":739294835
+        }
+    ],
     "wof:id":739294835,
-    "wof:lastmodified":1472651215,
+    "wof:lastmodified":1492046460,
     "wof:name":"Living Water Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

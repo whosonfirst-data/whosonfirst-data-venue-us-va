@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929761,38.066501,-78.929761,38.066501",
     "geom:latitude":38.066501,
     "geom:longitude":-78.929761,
@@ -32,17 +33,32 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00AMEg2Zm4HtcCJBCylxdw_38.066501_-78.929761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895699,
-    "wof:geomhash":"b23315e3e84c3aeba8493b165e6b06ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0691eff29a806619b7996b391f2fea9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723130103
+        }
+    ],
     "wof:id":723130103,
-    "wof:lastmodified":1472651378,
+    "wof:lastmodified":1492049348,
     "wof:name":"Applied Industrial Tech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

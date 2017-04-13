@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.051139,36.689949,-82.051139,36.689949",
     "geom:latitude":36.689949,
     "geom:longitude":-82.051139,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LfdaXqltExN1MlcF9tZUh_36.689949_-82.051139@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905769,
-    "wof:geomhash":"77ba942c484d6f9358e9d54f97726325",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2eb234db5999eff071b084d37df79694",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739357607
+        }
+    ],
     "wof:id":739357607,
-    "wof:lastmodified":1472651344,
+    "wof:lastmodified":1492046829,
     "wof:name":"Yates Electric",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

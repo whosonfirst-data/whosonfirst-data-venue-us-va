@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.940494,37.271233,-79.940494,37.271233",
     "geom:latitude":37.271233,
     "geom:longitude":-79.940494,
@@ -35,17 +36,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27RdWG2cnWQIb38umeVOjZ_37.271233_-79.940494@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893179,
-    "wof:geomhash":"14fed0931b180973f3d926fdc4e680f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b19c8164070a0c1259c010e439fbb25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723011991
+        }
+    ],
     "wof:id":723011991,
-    "wof:lastmodified":1472651127,
+    "wof:lastmodified":1492055021,
     "wof:name":"National Bank of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

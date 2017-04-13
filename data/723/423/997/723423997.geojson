@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.186073,38.867764,-77.186073,38.867764",
     "geom:latitude":38.867764,
     "geom:longitude":-77.186073,
@@ -37,6 +38,7 @@
         85633793,
         101729757,
         102084863,
+        85858861,
         420546701
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901445,
-    "wof:geomhash":"f0924ae19321a6d27dbefe6db09ee157",
+    "wof:geomhash":"a65fc552ba84aeac364f2e06d2069dc9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "neighbourhood_id":85858861,
+            "region_id":85688747,
+            "venue_id":723423997
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723423997,
-    "wof:lastmodified":1472652259,
+    "wof:lastmodified":1492050658,
     "wof:name":"New World Movers Svc",
-    "wof:parent_id":420546701,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

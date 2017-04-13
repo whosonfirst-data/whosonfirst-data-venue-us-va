@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.57961,37.645822,-77.57961,37.645822",
     "geom:latitude":37.645822,
     "geom:longitude":-77.57961,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09FhIi5H4k0hJhtIIdD4xr_37.645822_-77.579610@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910113,
-    "wof:geomhash":"0d7812ea43bbe9a16d0db5cc08296767",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d7a80cef763203edd311c7ec993c042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":739585405
+        }
+    ],
     "wof:id":739585405,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492046356,
     "wof:name":"Chipotle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

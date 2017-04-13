@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.851897,36.97469,-79.851897,36.97469",
     "geom:latitude":36.97469,
     "geom:longitude":-79.851897,
@@ -31,17 +32,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mwNTh591LiOeshbWDJOc7_36.974690_-79.851897@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897232,
-    "wof:geomhash":"bf49704055640eb2d9a14ea7cca747c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb407d6447a1925ec6c1601b094e852f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":723208457
+        }
+    ],
     "wof:id":723208457,
-    "wof:lastmodified":1472651615,
+    "wof:lastmodified":1492051169,
     "wof:name":"Mr Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

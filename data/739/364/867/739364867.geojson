@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.324988,37.339941,-77.324988,37.339941",
     "geom:latitude":37.339941,
     "geom:longitude":-77.324988,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.enonbaptistchurch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729321,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bOZ5eIr34eCoRdvDjQWZK_37.339941_-77.324988@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461905898,
     "wof:geomhash":"ade94633f2618ba59628aa636bde86ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729321,
+            "region_id":85688747,
+            "venue_id":739364867
+        }
+    ],
     "wof:id":739364867,
-    "wof:lastmodified":1472651367,
+    "wof:lastmodified":1492031773,
     "wof:name":"Enon Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

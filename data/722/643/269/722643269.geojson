@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644378,37.484409,-77.644378,37.484409",
     "geom:latitude":37.484409,
     "geom:longitude":-77.644378,
@@ -32,17 +33,30 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i9mvsn9idn2JIW8ZUsUhQ_37.484409_-77.644378@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885899,
-    "wof:geomhash":"4a692b6ee5716bcd6bf81d2707786ae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8246091c2db5344a7857d958bd53d4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722643269
+        }
+    ],
     "wof:id":722643269,
-    "wof:lastmodified":1472651436,
+    "wof:lastmodified":1492068246,
     "wof:name":"Abec Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

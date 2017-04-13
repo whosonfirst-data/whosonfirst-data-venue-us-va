@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.590546,38.044701,-76.590546,38.044701",
     "geom:latitude":38.044701,
     "geom:longitude":-76.590546,
@@ -37,17 +38,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LFndCLyBkTnsCBi0H8JGS_38.044701_-76.590546@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902436,
-    "wof:geomhash":"840636717cbff9abe093557d6886bfc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41dcd111b222848546c80d6d74c97d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723475867
+        }
+    ],
     "wof:id":723475867,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492056375,
     "wof:name":"Self's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

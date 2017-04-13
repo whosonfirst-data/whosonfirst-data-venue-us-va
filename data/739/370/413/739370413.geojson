@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457306,37.610262,-77.457306,37.610262",
     "geom:latitude":37.610262,
     "geom:longitude":-77.457306,
@@ -34,7 +35,13 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729369,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25KKxTq7mQeTsLSb74xYkG_37.610262_-77.457306@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461906004,
     "wof:geomhash":"e085cce3c25ee334a6092e11e838284f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729369,
+            "region_id":85688747,
+            "venue_id":739370413
+        }
+    ],
     "wof:id":739370413,
-    "wof:lastmodified":1472651348,
+    "wof:lastmodified":1492031015,
     "wof:name":"American Family Fitness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

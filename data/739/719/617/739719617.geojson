@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.495745,37.608672,-77.495745,37.608672",
     "geom:latitude":37.608672,
     "geom:longitude":-77.495745,
@@ -23,17 +24,32 @@
     "sg:province":"VA",
     "sg:website":"http://www.fire-x.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Of4RB8sS67adDvsjH0nKF_37.608672_-77.495745@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912986,
-    "wof:geomhash":"b28e14e9748985e59fa6cd957a7e0904",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65ee876f8bac32c5b29d4adda1a9b116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":739719617
+        }
+    ],
     "wof:id":739719617,
-    "wof:lastmodified":1472652210,
+    "wof:lastmodified":1492044680,
     "wof:name":"Fire-X",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

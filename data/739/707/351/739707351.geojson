@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.448955,38.034316,-78.448955,38.034316",
     "geom:latitude":38.034316,
     "geom:longitude":-78.448955,
@@ -31,17 +32,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729625,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LNGQCrcMe8McMcE6PPaQu_38.034316_-78.448955@1303262548"
     },
     "wof:country":"US",
     "wof:created":1461912724,
-    "wof:geomhash":"2f7465f3cebc8e263d31869964278fcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9752b8f6fa96257b9aaaf9446cf15db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729625,
+            "region_id":85688747,
+            "venue_id":739707351
+        }
+    ],
     "wof:id":739707351,
-    "wof:lastmodified":1472652181,
+    "wof:lastmodified":1492039224,
     "wof:name":"Guadalajara",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

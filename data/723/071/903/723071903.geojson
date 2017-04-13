@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.379792,39.027283,-77.379792,39.027283",
     "geom:latitude":39.027283,
     "geom:longitude":-77.379792,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s3wr70MYjyzqIcAS8SddK_39.027283_-77.379792@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894498,
-    "wof:geomhash":"0f2506deb7d2ec351b493e2ce2384e89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29c53b30cc6e20da47d8e42c52c34139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723071903
+        }
+    ],
     "wof:id":723071903,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492057467,
     "wof:name":"Accenture Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

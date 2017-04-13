@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.96443,37.239798,-79.96443,37.239798",
     "geom:latitude":37.239798,
     "geom:longitude":-79.96443,
@@ -33,17 +34,32 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JIt9ZSwjKceG16ImRm38G_37.239798_-79.964430@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897542,
-    "wof:geomhash":"1a5058274fed00495d6863e9564e215b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"513095d24b2c2d378f6bf2e36b5673a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723222095
+        }
+    ],
     "wof:id":723222095,
-    "wof:lastmodified":1472651605,
+    "wof:lastmodified":1492057907,
     "wof:name":"David Bromm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

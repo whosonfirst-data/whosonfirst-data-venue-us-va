@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.888374,38.433981,-78.888374,38.433981",
     "geom:latitude":38.433981,
     "geom:longitude":-78.888374,
@@ -32,17 +33,32 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uf7iAJCCUr5JqalSXuMXV_38.433981_-78.888374@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884790,
-    "wof:geomhash":"e17c70c0605c97ee975ac3281509ba8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cf235625bd1b3957f140fd09fcab044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722589823
+        }
+    ],
     "wof:id":722589823,
-    "wof:lastmodified":1472651248,
+    "wof:lastmodified":1492071539,
     "wof:name":"P & W Title Examination Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

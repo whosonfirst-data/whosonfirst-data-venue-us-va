@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.581311,38.326519,-77.581311,38.326519",
     "geom:latitude":38.326519,
     "geom:longitude":-77.581311,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48JlZ9kY1Ui7tiuKbRiZ6X_38.326519_-77.581311@1294252573"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461904725,
     "wof:geomhash":"6ff3b4b8b04e230e2e4af3dc185b6e8b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739307479
+        }
+    ],
     "wof:id":739307479,
-    "wof:lastmodified":1472651216,
+    "wof:lastmodified":1492029984,
     "wof:name":"Capman & Wood Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

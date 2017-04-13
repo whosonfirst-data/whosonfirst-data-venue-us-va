@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.470209,38.705771,-77.470209,38.705771",
     "geom:latitude":38.705771,
     "geom:longitude":-77.470209,
@@ -33,17 +34,32 @@
         "acquisition"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LuvrtHj1G9GANUz2GxlJs_38.705771_-77.470209@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901564,
-    "wof:geomhash":"e7001bc0e65d339bd928d21690610d7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"063ee06e3f90a48653ec1033ffc024fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":723429779
+        }
+    ],
     "wof:id":723429779,
-    "wof:lastmodified":1472652266,
+    "wof:lastmodified":1492060523,
     "wof:name":"Management Action Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

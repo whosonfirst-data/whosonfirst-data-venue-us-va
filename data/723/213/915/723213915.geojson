@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.620119,37.597723,-77.620119,37.597723",
     "geom:latitude":37.597723,
     "geom:longitude":-77.620119,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.billpolice.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jtXmM18USnjMKgr7xh7AS_37.597723_-77.620119@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897343,
-    "wof:geomhash":"67422fefa60e8ca57c59bfe7e0e5290b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e859336b338e15f7c5cf64390d5ab3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723213915
+        }
+    ],
     "wof:id":723213915,
-    "wof:lastmodified":1472651641,
+    "wof:lastmodified":1492051676,
     "wof:name":"Bill Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

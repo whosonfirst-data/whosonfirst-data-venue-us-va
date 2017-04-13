@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.2144,37.967833,-78.2144,37.967833",
     "geom:latitude":37.967833,
     "geom:longitude":-78.2144,
@@ -32,17 +33,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51aLDBSUXSplE7Ve3hhmms_37.967833_-78.214400@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884427,
-    "wof:geomhash":"bca72e89c6157b17442174b2f5cd5ff8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0450e4cf5f8444a067d557c42708d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":722570951
+        }
+    ],
     "wof:id":722570951,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492065083,
     "wof:name":"Chips Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.194019,38.71487,-77.194019,38.71487",
     "geom:latitude":38.71487,
     "geom:longitude":-77.194019,
@@ -31,17 +32,32 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bmWMRV3HBVpkGrJbvHsE4_38.714870_-77.194019@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900824,
-    "wof:geomhash":"df919edc24790b7df5ba8f9615d4c0b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"642774ca4ec7db9852c25a69b2758217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":723392277
+        }
+    ],
     "wof:id":723392277,
-    "wof:lastmodified":1472652117,
+    "wof:lastmodified":1492049954,
     "wof:name":"American Office Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.512112,38.289068,-77.512112,38.289068",
     "geom:latitude":38.289068,
     "geom:longitude":-77.512112,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"http://www.sunglasshut.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32ju1wg5XSujO5Fdx87SUV_38.289068_-77.512112@1303262547"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912409,
     "wof:geomhash":"2ba4c03a7dc9b4b673b08db23a8b6d97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693511
+        }
+    ],
     "wof:id":739693511,
-    "wof:lastmodified":1472652182,
+    "wof:lastmodified":1492031389,
     "wof:name":"Sunglass Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

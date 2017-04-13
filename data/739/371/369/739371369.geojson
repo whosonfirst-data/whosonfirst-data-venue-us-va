@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436494,38.28572,-77.436494,38.28572",
     "geom:latitude":38.28572,
     "geom:longitude":-77.436494,
@@ -31,7 +32,10 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7drJMg9Xu6TuvSa28oZgwo_38.285720_-77.436494@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906020,
     "wof:geomhash":"0f67db2f3b21fe2d01432a79937974cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":739371369
+        }
+    ],
     "wof:id":739371369,
-    "wof:lastmodified":1472651340,
+    "wof:lastmodified":1492031712,
     "wof:name":"Friedman's",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

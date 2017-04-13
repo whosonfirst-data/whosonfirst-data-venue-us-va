@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.0746,37.371748,-80.0746,37.371748",
     "geom:latitude":37.371748,
     "geom:longitude":-80.0746,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RQ5qyxjOaKgVnswkCOWF7_37.371748_-80.074600@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904565,
     "wof:geomhash":"3e943b9975b15f23ac3e3c3e0ec7bc9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084967,
+            "region_id":85688747,
+            "venue_id":739299583
+        }
+    ],
     "wof:id":739299583,
-    "wof:lastmodified":1472651220,
+    "wof:lastmodified":1492032452,
     "wof:name":"A-1 & 2 Septic Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

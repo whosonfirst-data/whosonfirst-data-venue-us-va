@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358295,39.035712,-77.358295,39.035712",
     "geom:latitude":39.035712,
     "geom:longitude":-77.358295,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lofirXoUuJrHg1Bysh3Qc_39.035712_-77.358295@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890145,
-    "wof:geomhash":"d4ea39dfe37fd6ece9f2bf1686dcfd12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9bb70df748555a34f147bae23e415fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":722867043
+        }
+    ],
     "wof:id":722867043,
-    "wof:lastmodified":1472651981,
+    "wof:lastmodified":1492070883,
     "wof:name":"MCI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

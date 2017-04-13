@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.647252,37.64467,-76.647252,37.64467",
     "geom:latitude":37.64467,
     "geom:longitude":-76.647252,
@@ -33,7 +34,12 @@
         "beverages-distributors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10f2W9h984ObxZPMpnucbk_37.644949_-76.647021@1293134755"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461909521,
     "wof:geomhash":"bb7a6bc2c718710a795c517817ec36e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":739558189
+        }
+    ],
     "wof:id":739558189,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492031299,
     "wof:name":"H & H Distributing Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

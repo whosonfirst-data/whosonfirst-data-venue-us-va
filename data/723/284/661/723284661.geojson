@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441426,38.431854,-77.441426,38.431854",
     "geom:latitude":38.431854,
     "geom:longitude":-77.441426,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547139
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2roPOTszRstqy4lm03KzJl_38.431854_-77.441426@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898765,
-    "wof:geomhash":"40e1c9524c51c0dedba40cd262f62d9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf84b218032b31e969406a164eebdfb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547139,
+            "venue_id":723284661
+        }
+    ],
     "wof:id":723284661,
-    "wof:lastmodified":1472651822,
+    "wof:lastmodified":1492048884,
     "wof:name":"Jmc Contracting Inc",
     "wof:parent_id":420547139,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411247,37.569639,-77.411247,37.569639",
     "geom:latitude":37.569639,
     "geom:longitude":-77.411247,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BWac2tluvhYo2OdPVFnGk_37.569639_-77.411247@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909270,
-    "wof:geomhash":"6c4cca31c6236b3729a3140893fda0bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f066a55242ed13d42013f52d71a1fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739545281
+        }
+    ],
     "wof:id":739545281,
-    "wof:lastmodified":1472651859,
+    "wof:lastmodified":1492041257,
     "wof:name":"Special Delivery Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.388515,38.20854,-78.388515,38.20854",
     "geom:latitude":38.20854,
     "geom:longitude":-78.388515,
@@ -32,7 +33,12 @@
         "surety"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZRcGnEg8r7lc69SjpcjaI_38.208540_-78.388515@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904257,
     "wof:geomhash":"8c98f17d9a9386d5a3139584d1d71b18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739285005
+        }
+    ],
     "wof:id":739285005,
-    "wof:lastmodified":1472651135,
+    "wof:lastmodified":1492029722,
     "wof:name":"Larry Dudding Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

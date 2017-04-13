@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.424954,38.885703,-77.424954,38.885703",
     "geom:latitude":38.885703,
     "geom:longitude":-77.424954,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uQFmsvX7JIlQpOPE1kPwH_38.885703_-77.424954@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899944,
-    "wof:geomhash":"dcc6f21f954d86abe698198ecf0b6b47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aefd76eefc7e0ea687406e8bac82ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723347069
+        }
+    ],
     "wof:id":723347069,
-    "wof:lastmodified":1472651974,
+    "wof:lastmodified":1492058820,
     "wof:name":"Dynamic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.310205,37.292012,-79.310205,37.292012",
     "geom:latitude":37.292012,
     "geom:longitude":-79.310205,
@@ -33,17 +34,30 @@
         "tract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qKqa5fCVsjIC3DzWWoFny_37.292012_-79.310205@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885819,
-    "wof:geomhash":"4895938d5a97d9c0cc073f006834c96c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8ee10d7fd46fb276a5c7dd5ed0cb369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722638835
+        }
+    ],
     "wof:id":722638835,
-    "wof:lastmodified":1472651428,
+    "wof:lastmodified":1492070399,
     "wof:name":"Frank Gough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

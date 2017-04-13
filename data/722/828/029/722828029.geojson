@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519594,38.360672,-77.519594,38.360672",
     "geom:latitude":38.360672,
     "geom:longitude":-77.519594,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hMTwlm24zdZi54KEoHgIk_38.360672_-77.519594@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889413,
-    "wof:geomhash":"2db4ae673f441ca88447729ec6744e02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e488e8ea39e8e622e12f500c815bec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":722828029
+        }
+    ],
     "wof:id":722828029,
-    "wof:lastmodified":1472651878,
+    "wof:lastmodified":1492066046,
     "wof:name":"Michael's Auto Svc Inc",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

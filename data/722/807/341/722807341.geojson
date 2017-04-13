@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.834453,37.138189,-76.834453,37.138189",
     "geom:latitude":37.138189,
     "geom:longitude":-76.834453,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ge7m3QO5HRT28XlgXD1uM_37.138189_-76.834453@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889019,
-    "wof:geomhash":"b1769439f793a986138854ae48ed7324",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15b7a06a152a908bf65d80390b5d4964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722807341
+        }
+    ],
     "wof:id":722807341,
-    "wof:lastmodified":1472651858,
+    "wof:lastmodified":1492068902,
     "wof:name":"Virginia Home & Land Co",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

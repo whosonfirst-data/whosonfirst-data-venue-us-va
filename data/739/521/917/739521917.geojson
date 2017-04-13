@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204521,37.936434,-77.204521,37.936434",
     "geom:latitude":37.936434,
     "geom:longitude":-77.204521,
@@ -28,7 +29,12 @@
     "sg:postcode":"22514",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04kVNYYfRgCg3SkecQFmd9_37.936434_-77.204521@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908832,
     "wof:geomhash":"3435422a477178df57eaf0d28dd2259f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739521917
+        }
+    ],
     "wof:id":739521917,
-    "wof:lastmodified":1472651825,
+    "wof:lastmodified":1492033263,
     "wof:name":"Ora Group LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

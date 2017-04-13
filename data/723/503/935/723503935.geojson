@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.532088,39.106447,-77.532088,39.106447",
     "geom:latitude":39.106447,
     "geom:longitude":-77.532088,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JTVDMNOT7MNeb9bMWqwP5_39.106447_-77.532088@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903045,
-    "wof:geomhash":"433ad922508f42eeb8d8c02539750c78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c92eb7cbcc219cff496835ca6e4f3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723503935
+        }
+    ],
     "wof:id":723503935,
-    "wof:lastmodified":1472652365,
+    "wof:lastmodified":1492050869,
     "wof:name":"Evans Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

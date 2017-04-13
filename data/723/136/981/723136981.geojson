@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.2037,36.769742,-76.2037,36.769742",
     "geom:latitude":36.769742,
     "geom:longitude":-76.2037,
@@ -29,19 +30,36 @@
     "sg:province":"VA",
     "sg:website":"www.pgbcva.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929,
+        85876753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s5eETDyV3yfC2u7Pl6UsA_36.769742_-76.203700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895832,
-    "wof:geomhash":"17e559c9e85995bc9c4d87eaf13e9db6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a625d4b2dd07bb8de8ffa24abde478c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85876753,
+            "region_id":85688747,
+            "venue_id":723136981
+        }
+    ],
     "wof:id":723136981,
-    "wof:lastmodified":1472651415,
+    "wof:lastmodified":1492053804,
     "wof:name":"Pleasant Grove Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85876753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

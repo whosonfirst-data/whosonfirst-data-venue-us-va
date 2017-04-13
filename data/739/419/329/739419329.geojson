@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.812744,37.340769,-80.812744,37.340769",
     "geom:latitude":37.340769,
     "geom:longitude":-80.812744,
@@ -31,7 +32,12 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bd04jdOum9xea56IeAFL3_37.340769_-80.812744@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906946,
     "wof:geomhash":"e45f0a15a33d9063c3eb4a97ef0825ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "region_id":85688747,
+            "venue_id":739419329
+        }
+    ],
     "wof:id":739419329,
-    "wof:lastmodified":1472651507,
+    "wof:lastmodified":1492029791,
     "wof:name":"Narrows Livestock Market Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

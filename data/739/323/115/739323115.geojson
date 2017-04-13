@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.466696,38.894061,-77.466696,38.894061",
     "geom:latitude":38.894061,
     "geom:longitude":-77.466696,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"www.intersections.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PKTUJ1plaxRom6RKqaenj_38.894061_-77.466696@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905039,
-    "wof:geomhash":"530dc9dec48acbf15d2572241f454638",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e525064e5c4a4c30d523b0b45bd3a49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739323115
+        }
+    ],
     "wof:id":739323115,
-    "wof:lastmodified":1472651253,
+    "wof:lastmodified":1492044454,
     "wof:name":"Intersections Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

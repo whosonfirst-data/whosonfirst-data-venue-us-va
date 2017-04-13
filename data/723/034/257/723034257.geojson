@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130901,36.724527,-78.130901,36.724527",
     "geom:latitude":36.724527,
     "geom:longitude":-78.130901,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CbXXqNGftJGjyF04P1Xoe_36.724527_-78.130901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893688,
-    "wof:geomhash":"f94a3cc157ae84e80701c0e19be2b50b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56e34fd7a80196d11635276524be8586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":723034257
+        }
+    ],
     "wof:id":723034257,
-    "wof:lastmodified":1472651147,
+    "wof:lastmodified":1492055009,
     "wof:name":"Pediatric Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

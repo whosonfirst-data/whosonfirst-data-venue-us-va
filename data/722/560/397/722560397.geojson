@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.345679,38.445518,-77.345679,38.445518",
     "geom:latitude":38.445518,
     "geom:longitude":-77.345679,
@@ -31,17 +32,26 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547103
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bWAWnq0LR0csTq3Uotel4_38.445518_-77.345679@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884209,
-    "wof:geomhash":"7b2bc652c3d9a0185e974ae4713e4f2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72ff373461085d8d274534e18cb0c0a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547103,
+            "venue_id":722560397
+        }
+    ],
     "wof:id":722560397,
-    "wof:lastmodified":1472651106,
+    "wof:lastmodified":1492063181,
     "wof:name":"East Coast Cab Svc",
     "wof:parent_id":420547103,
     "wof:placetype":"venue",

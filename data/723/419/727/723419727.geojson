@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523748,38.369076,-77.523748,38.369076",
     "geom:latitude":38.369076,
     "geom:longitude":-77.523748,
@@ -41,19 +42,34 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_170sK29RP4GIkkXNSZdad2_38.369076_-77.523748@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901353,
-    "wof:geomhash":"3e294515fcd8ddb9f1ec2ddb3e65da89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58db3b072c5b3c3eb720000580202a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":723419727
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":723419727
+        }
+    ],
     "wof:id":723419727,
-    "wof:lastmodified":1472652214,
+    "wof:lastmodified":1492047818,
     "wof:name":"Truck N America",
-    "wof:parent_id":420547249,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380155,37.599608,-77.380155,37.599608",
     "geom:latitude":37.599608,
     "geom:longitude":-77.380155,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X28JLgSk1Sr9hmJr6eZEK_37.599608_-77.380155@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895504,
-    "wof:geomhash":"0500a7433f64b4d8ffdfeb81edd7e219",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f19572a827eee8ab99d04c22f6e13ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":723119413
+        }
+    ],
     "wof:id":723119413,
-    "wof:lastmodified":1472651358,
+    "wof:lastmodified":1492055444,
     "wof:name":"Interstate Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

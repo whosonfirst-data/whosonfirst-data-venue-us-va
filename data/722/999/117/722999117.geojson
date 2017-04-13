@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.78142,37.591251,-75.78142,37.591251",
     "geom:latitude":37.591251,
     "geom:longitude":-75.78142,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q7GdeqCi9PCfY0btD4hCY_37.591251_-75.781420@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892888,
-    "wof:geomhash":"e997e1d3bce25c4e44e50c17bf27a749",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aefe133eebf222a534468c478784280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546535,
+            "venue_id":722999117
+        }
+    ],
     "wof:id":722999117,
-    "wof:lastmodified":1472652331,
+    "wof:lastmodified":1492069983,
     "wof:name":"Doughty Garage",
     "wof:parent_id":420546535,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.214653,37.969131,-78.214653,37.969131",
     "geom:latitude":37.969131,
     "geom:longitude":-78.214653,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AwEZ6mDpC09p3mrP5Bi2R_37.969131_-78.214653@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889465,
-    "wof:geomhash":"e436070d8178db9729f3c3c64b662334",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f8db21138445f6011c0b1735431543e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":722831027
+        }
+    ],
     "wof:id":722831027,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492063532,
     "wof:name":"Washington Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

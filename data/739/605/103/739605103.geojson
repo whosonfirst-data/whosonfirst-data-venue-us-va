@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.734084,38.969535,-77.734084,38.969535",
     "geom:latitude":38.969535,
     "geom:longitude":-77.734084,
@@ -37,17 +38,32 @@
         "brew"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728817,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cOkxjgbR5YuvKkRRvVI65_38.969535_-77.734084@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910512,
-    "wof:geomhash":"ae5600ceef58975f930eb0d6d71035e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c791585665e58e9a063a78b94462e435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728817,
+            "region_id":85688747,
+            "venue_id":739605103
+        }
+    ],
     "wof:id":739605103,
-    "wof:lastmodified":1472651933,
+    "wof:lastmodified":1492039597,
     "wof:name":"Red Horse Tavern LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

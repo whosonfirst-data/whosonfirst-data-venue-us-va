@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.376387,37.137863,-80.376387,37.137863",
     "geom:latitude":37.137863,
     "geom:longitude":-80.376387,
@@ -32,17 +33,26 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BdMIFvsQWPKL32duLLTUU_37.137863_-80.376387@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888573,
-    "wof:geomhash":"2f20e4ecd49ec27b7fa5ab557aa1e4c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b979225642d99d49242943d4ed67cfa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546957,
+            "venue_id":722783571
+        }
+    ],
     "wof:id":722783571,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492072531,
     "wof:name":"Lifeline Ambulance Service",
     "wof:parent_id":420546957,
     "wof:placetype":"venue",

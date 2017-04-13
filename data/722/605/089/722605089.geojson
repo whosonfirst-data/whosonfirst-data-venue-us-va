@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.291169,37.303736,-77.291169,37.303736",
     "geom:latitude":37.303736,
     "geom:longitude":-77.291169,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728945,
+        102087267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FSjGhDLPvGYl7NSy7bh46_37.303736_-77.291169@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885080,
-    "wof:geomhash":"24e05e24cd37fce41a1cae65c1521402",
-    "wof:hierarchy":[],
+    "wof:geomhash":"811a7c522fd35976e32389820943fe0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087267,
+            "locality_id":101728945,
+            "region_id":85688747,
+            "venue_id":722605089
+        }
+    ],
     "wof:id":722605089,
-    "wof:lastmodified":1472651270,
+    "wof:lastmodified":1492068761,
     "wof:name":"Children & Adolescence Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

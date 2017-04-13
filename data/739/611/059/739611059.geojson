@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.624459,38.811599,-77.624459,38.811599",
     "geom:latitude":38.811599,
     "geom:longitude":-77.624459,
@@ -32,7 +33,12 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ieNBqdtJXqVW2NoKRWviY_38.811599_-77.624459@1303262496"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910621,
     "wof:geomhash":"f50a1e5dc1e185e5cdb68a2613cddd5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739611059
+        }
+    ],
     "wof:id":739611059,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492029431,
     "wof:name":"Hoyle Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

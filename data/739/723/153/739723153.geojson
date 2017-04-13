@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.468549,37.475357,-77.468549,37.475357",
     "geom:latitude":37.475357,
     "geom:longitude":-77.468549,
@@ -45,17 +46,32 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AS8JgySSqdTmc2Uk4eMNE_37.475357_-77.468549@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913057,
-    "wof:geomhash":"4903c64fc5ba92825ac5742f82911f0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc8b6d70abc1ed533996b025aa3449ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739723153
+        }
+    ],
     "wof:id":739723153,
-    "wof:lastmodified":1472652219,
+    "wof:lastmodified":1492041552,
     "wof:name":"The Appraisal Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

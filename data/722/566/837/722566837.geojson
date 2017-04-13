@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.310084,36.841329,-76.310084,36.841329",
     "geom:latitude":36.841329,
     "geom:longitude":-76.310084,
@@ -37,6 +38,7 @@
         85633793,
         101728677,
         102086707,
+        85840715,
         420548237
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884354,
-    "wof:geomhash":"aa5c701a34b601c7f4130028f2f4ea95",
+    "wof:geomhash":"e4657d0f3455426b38317ab8ea6299c0",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85840715,
+            "region_id":85688747,
+            "venue_id":722566837
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722566837,
-    "wof:lastmodified":1472651169,
+    "wof:lastmodified":1492071351,
     "wof:name":"Soot Sayer Inc",
-    "wof:parent_id":420548237,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

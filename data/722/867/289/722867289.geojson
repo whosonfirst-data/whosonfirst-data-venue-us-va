@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.240245,38.865424,-77.240245,38.865424",
     "geom:latitude":38.865424,
     "geom:longitude":-77.240245,
@@ -39,7 +40,9 @@
         85633793,
         101729771,
         102084863,
-        85841869
+        85841869,
+        101729035,
+        85853775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890149,
-    "wof:geomhash":"43da0b7e076024d0e94af64df9c88401",
+    "wof:geomhash":"be96ae9030e968b7d27664ff786c34a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,21 @@
             "neighbourhood_id":85841869,
             "region_id":85688747,
             "venue_id":722867289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729035,
+            "neighbourhood_id":85853775,
+            "region_id":85688747,
+            "venue_id":722867289
         }
     ],
     "wof:id":722867289,
-    "wof:lastmodified":1472651989,
+    "wof:lastmodified":1492070884,
     "wof:name":"Muasher Center-Fertility Ivf",
-    "wof:parent_id":85841869,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

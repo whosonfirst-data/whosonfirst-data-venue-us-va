@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.370705,38.301918,-77.370705,38.301918",
     "geom:latitude":38.301918,
     "geom:longitude":-77.370705,
@@ -33,17 +34,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X97c7uDIPdxBGHRudxarK_38.301918_-77.370705@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898677,
-    "wof:geomhash":"a9d861a7dc43aa713275527b3fe380be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc249ea9cc8b09905dbd11718ad436b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":723279927
+        }
+    ],
     "wof:id":723279927,
-    "wof:lastmodified":1472651837,
+    "wof:lastmodified":1492055964,
     "wof:name":"Ductwork Inc",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

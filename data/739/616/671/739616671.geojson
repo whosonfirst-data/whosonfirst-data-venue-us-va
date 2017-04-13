@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.601159,39.141814,-77.601159,39.141814",
     "geom:latitude":39.141814,
     "geom:longitude":-77.601159,
@@ -44,7 +45,12 @@
         "take"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cBSvJ5c9wmyRWcyE0xLhw_39.141814_-77.601159@1303262497"
@@ -52,9 +58,17 @@
     "wof:country":"US",
     "wof:created":1461910750,
     "wof:geomhash":"a48ae966ea31dd214311115ec7dc1d53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616671
+        }
+    ],
     "wof:id":739616671,
-    "wof:lastmodified":1472652008,
+    "wof:lastmodified":1492029636,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

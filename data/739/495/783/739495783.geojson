@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.366634,37.764364,-77.366634,37.764364",
     "geom:latitude":37.764364,
     "geom:longitude":-77.366634,
@@ -28,17 +29,32 @@
     "sg:postcode":"23069",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729281,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C04e75sFsTROXCh83855k_37.764364_-77.366634@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908357,
-    "wof:geomhash":"2e9dc16f081da93a4c44d4745e1c34e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46902ad23462845982ced1aa14e031b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729281,
+            "region_id":85688747,
+            "venue_id":739495783
+        }
+    ],
     "wof:id":739495783,
-    "wof:lastmodified":1472651706,
+    "wof:lastmodified":1492038329,
     "wof:name":"Hanover Cnty Voter Reg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

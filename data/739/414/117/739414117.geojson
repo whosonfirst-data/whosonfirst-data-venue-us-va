@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.526102,37.603429,-76.526102,37.603429",
     "geom:latitude":37.603429,
     "geom:longitude":-76.526102,
@@ -35,7 +36,12 @@
         "piling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NmNEQmCUzGsEu4YvZVq0E_37.603429_-76.526102@1294252573"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461906841,
     "wof:geomhash":"ad889a8ea5103e85dc3939cad2497087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":739414117
+        }
+    ],
     "wof:id":739414117,
-    "wof:lastmodified":1472651450,
+    "wof:lastmodified":1492032395,
     "wof:name":"Accent Decks and Docks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

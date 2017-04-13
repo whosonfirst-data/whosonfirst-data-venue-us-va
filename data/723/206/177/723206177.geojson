@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.239653,36.592296,-82.239653,36.592296",
     "geom:latitude":36.592296,
     "geom:longitude":-82.239653,
@@ -33,17 +34,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XqJj9XbF9RVzBtuTWI9vn_36.592296_-82.239653@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897190,
-    "wof:geomhash":"a0b77bbdab0501d5885bc009450dfb5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a83f29abaf088d89740b61608ab56ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":723206177
+        }
+    ],
     "wof:id":723206177,
-    "wof:lastmodified":1472651600,
+    "wof:lastmodified":1492051146,
     "wof:name":"Bristol Plastic Surgery Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

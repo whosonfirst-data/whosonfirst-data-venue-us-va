@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644632,38.846078,-77.644632,38.846078",
     "geom:latitude":38.846078,
     "geom:longitude":-77.644632,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DqCvouIy1aNDdsFoMxJpX_38.846078_-77.644632@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901396,
-    "wof:geomhash":"ce77a5fd9cba16b8d0c9efbfb9c6c596",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8574bc36f7b9576cb3494d4a72261d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723422019
+        }
+    ],
     "wof:id":723422019,
-    "wof:lastmodified":1472652221,
+    "wof:lastmodified":1492049592,
     "wof:name":"Toll Brothers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

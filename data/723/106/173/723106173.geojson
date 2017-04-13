@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.320622,38.8173,-77.320622,38.8173",
     "geom:latitude":38.8173,
     "geom:longitude":-77.320622,
@@ -32,17 +33,30 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0z7RB3H1KSojZu9RDWaTrV_38.817300_-77.320622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895238,
-    "wof:geomhash":"d7cc7197a05406fb2d49e0190622a916",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a36c444205ae337d15b8c387f89ed30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":723106173
+        }
+    ],
     "wof:id":723106173,
-    "wof:lastmodified":1472651316,
+    "wof:lastmodified":1492060012,
     "wof:name":"Exxon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

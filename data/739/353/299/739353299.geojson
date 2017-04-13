@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448361,38.310118,-77.448361,38.310118",
     "geom:latitude":38.310118,
     "geom:longitude":-77.448361,
@@ -32,7 +33,10 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IyUecHf2Au4vJV2hRrH3v_38.310118_-77.448361@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461905684,
     "wof:geomhash":"21f20e6119949fc3ed96c0e54e30d98f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739353299
+        }
+    ],
     "wof:id":739353299,
-    "wof:lastmodified":1472651338,
+    "wof:lastmodified":1492030550,
     "wof:name":"National Carpet & Rug",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

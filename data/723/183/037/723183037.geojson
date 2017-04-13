@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.856867,38.429,-78.856867,38.429",
     "geom:latitude":38.429,
     "geom:longitude":-78.856867,
@@ -31,17 +32,32 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ulqGxL2pz9dC1vcrqcBk0_38.429000_-78.856867@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896747,
-    "wof:geomhash":"eb94273395f9a212444d2ba5fa9b0b8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f28617710143dcb89463e223e15d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723183037
+        }
+    ],
     "wof:id":723183037,
-    "wof:lastmodified":1472651502,
+    "wof:lastmodified":1492059497,
     "wof:name":"Sheetz 218",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

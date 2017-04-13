@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.27181,37.251484,-81.27181,37.251484",
     "geom:latitude":37.251484,
     "geom:longitude":-81.27181,
@@ -28,7 +29,13 @@
     "sg:postcode":"24605",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728573,
+        102081049
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45cl5tOcshA8d1lLJsAZzS_37.251484_-81.271810@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908519,
     "wof:geomhash":"0b234fb95a4ff5e12f9604d03bdf7c7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081049,
+            "locality_id":101728573,
+            "region_id":85688747,
+            "venue_id":739505017
+        }
+    ],
     "wof:id":739505017,
-    "wof:lastmodified":1472651718,
+    "wof:lastmodified":1492032230,
     "wof:name":"Cecil Dvid Attrney At Law Pllc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.107327,36.570715,-76.107327,36.570715",
     "geom:latitude":36.570715,
     "geom:longitude":-76.107327,
@@ -33,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RxOHYK6ldHz3bPhWTiqMh_36.570715_-76.107327@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461907727,
     "wof:geomhash":"e1197d0de45fbd0cbcb29574eff91bc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "region_id":85688747,
+            "venue_id":739460701
+        }
+    ],
     "wof:id":739460701,
-    "wof:lastmodified":1472651594,
+    "wof:lastmodified":1492031253,
     "wof:name":"K D Jones Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

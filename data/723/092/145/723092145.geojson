@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.190068,38.534709,-78.190068,38.534709",
     "geom:latitude":38.534709,
     "geom:longitude":-78.190068,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FjTZaZ6wiBEIhUZ8FACeM_38.534709_-78.190068@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894961,
-    "wof:geomhash":"29678c0532f48b587f2496c86b93015c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14752f87bef8b91e485fecd37cfe120d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087263,
+            "region_id":85688747,
+            "venue_id":723092145
+        }
+    ],
     "wof:id":723092145,
-    "wof:lastmodified":1472651267,
+    "wof:lastmodified":1492050083,
     "wof:name":"Thomas Wolfe Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

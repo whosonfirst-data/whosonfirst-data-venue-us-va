@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.777361,37.244113,-76.777361,37.244113",
     "geom:latitude":37.244113,
     "geom:longitude":-76.777361,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ycngZ629EWsSuMJ38y5Iz_37.244113_-76.777361@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904906,
-    "wof:geomhash":"b687df7d9f8bbe15b5621dd26b51534d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bef5e26c7e10346f4b242f9a189fec87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":739317165
+        }
+    ],
     "wof:id":739317165,
-    "wof:lastmodified":1472651210,
+    "wof:lastmodified":1492042555,
     "wof:name":"Marshall Toney",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

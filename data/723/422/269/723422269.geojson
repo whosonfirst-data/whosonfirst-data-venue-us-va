@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.421785,38.852919,-77.421785,38.852919",
     "geom:latitude":38.852919,
     "geom:longitude":-77.421785,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UZpdMatxm3s6QM62g02oS_38.852919_-77.421785@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901401,
-    "wof:geomhash":"7b373d258519cc558a9dd7864833d4f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb0426e6650cb9234695c17be6141acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723422269
+        }
+    ],
     "wof:id":723422269,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492049600,
     "wof:name":"Rogers Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

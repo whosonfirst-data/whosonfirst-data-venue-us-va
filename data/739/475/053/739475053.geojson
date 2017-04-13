@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.580636,36.729057,-76.580636,36.729057",
     "geom:latitude":36.729057,
     "geom:longitude":-76.580636,
@@ -34,7 +35,8 @@
         85633793,
         101728729,
         102087269,
-        420548339
+        420548339,
+        420548349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907979,
-    "wof:geomhash":"b59b28f776646ee67a315645a2455235",
+    "wof:geomhash":"83ce0cd9361472445d445bafe6501b10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":420548339,
             "region_id":85688747,
             "venue_id":739475053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087269,
+            "locality_id":101728729,
+            "neighbourhood_id":420548349,
+            "region_id":85688747,
+            "venue_id":739475053
         }
     ],
     "wof:id":739475053,
-    "wof:lastmodified":1472651601,
+    "wof:lastmodified":1492041095,
     "wof:name":"Vision Of The Future Ministry",
-    "wof:parent_id":420548339,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

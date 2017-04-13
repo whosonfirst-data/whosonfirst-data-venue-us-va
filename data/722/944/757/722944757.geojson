@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.889669,38.067878,-78.889669,38.067878",
     "geom:latitude":38.067878,
     "geom:longitude":-78.889669,
@@ -31,17 +32,32 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bh1cbw0wbCje8k37dXlXy_38.067878_-78.889669@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891724,
-    "wof:geomhash":"3693ae8112a6268f4157db7433a342f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4af1c5ff70f8bae7dd095091cfd6333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722944757
+        }
+    ],
     "wof:id":722944757,
-    "wof:lastmodified":1472652252,
+    "wof:lastmodified":1492073185,
     "wof:name":"US Labor Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

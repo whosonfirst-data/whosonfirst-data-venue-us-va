@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764988,37.354173,-76.764988,37.354173",
     "geom:latitude":37.354173,
     "geom:longitude":-76.764988,
@@ -32,7 +33,10 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tj7QEreFPqDBqWSWEw5Br_37.354173_-76.764988@1299784598"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"839cfc7132bdc90d0595743d94ba2609",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739586595
+        }
+    ],
     "wof:id":739586595,
-    "wof:lastmodified":1472651945,
+    "wof:lastmodified":1492031887,
     "wof:name":"Tequila Rose",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

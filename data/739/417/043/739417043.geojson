@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.253821,36.589329,-82.253821,36.589329",
     "geom:latitude":36.589329,
     "geom:longitude":-82.253821,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
-        85825325,
-        102086471
+        101722903,
+        102086471,
+        85825325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,17 @@
     "wof:geomhash":"1d9fa3da021dcc9087dfda2abcc620ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086471,
+            "locality_id":101722903,
             "neighbourhood_id":85825325,
             "region_id":85688701,
             "venue_id":739417043
         }
     ],
     "wof:id":739417043,
-    "wof:lastmodified":1472651498,
+    "wof:lastmodified":1492031494,
     "wof:name":"Bristol Neurosurgical Assoc",
     "wof:parent_id":85825325,
     "wof:placetype":"venue",

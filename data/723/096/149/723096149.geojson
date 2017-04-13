@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.271853,38.868199,-77.271853,38.868199",
     "geom:latitude":38.868199,
     "geom:longitude":-77.271853,
@@ -31,19 +32,36 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729035,
+        102084863,
+        85853775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69aYtl2XBOTusrle43wkxo_38.868199_-77.271853@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895039,
-    "wof:geomhash":"df8534513c176a40478f95e6b947433b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f15b03b65ade71e36bd988d885e47e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729035,
+            "neighbourhood_id":85853775,
+            "region_id":85688747,
+            "venue_id":723096149
+        }
+    ],
     "wof:id":723096149,
-    "wof:lastmodified":1472651269,
+    "wof:lastmodified":1492060777,
     "wof:name":"Dental Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

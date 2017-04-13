@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.759911,38.117765,-77.759911,38.117765",
     "geom:latitude":38.117765,
     "geom:longitude":-77.759911,
@@ -28,7 +29,12 @@
     "sg:postcode":"22551",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RFpQtUcS0uvdIrz5qNQE4_38.117765_-77.759911@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912426,
     "wof:geomhash":"bea97881907030f32272d505cada20b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694419
+        }
+    ],
     "wof:id":739694419,
-    "wof:lastmodified":1472652176,
+    "wof:lastmodified":1492030226,
     "wof:name":"Lake Anna Motorsports, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.701555,37.950378,-76.701555,37.950378",
     "geom:latitude":37.950378,
     "geom:longitude":-76.701555,
@@ -31,7 +32,12 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dqsbxla0o2yVqCIWFstmy_37.950378_-76.701555@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907682,
     "wof:geomhash":"22302ccf494ceb9b9fc0d6e8dd8ff8fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739457933
+        }
+    ],
     "wof:id":739457933,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492031849,
     "wof:name":"Stay Clean Powerwash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

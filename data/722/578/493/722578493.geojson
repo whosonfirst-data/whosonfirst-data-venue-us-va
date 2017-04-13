@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.428084,37.173909,-76.428084,37.173909",
     "geom:latitude":37.173909,
     "geom:longitude":-76.428084,
@@ -32,17 +33,26 @@
         "nurse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aj4Nn537W595wWxonCQ0M_37.173909_-76.428084@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884574,
-    "wof:geomhash":"5c7c0fbe50a08752c2c3fb1cba8f6780",
-    "wof:hierarchy":[],
+    "wof:geomhash":"028ff176ac87094caea508afe4d5e2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722578493
+        }
+    ],
     "wof:id":722578493,
-    "wof:lastmodified":1472651194,
+    "wof:lastmodified":1492069914,
     "wof:name":"Jane Lingad",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

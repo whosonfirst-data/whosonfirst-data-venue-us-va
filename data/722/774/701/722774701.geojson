@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.015382,36.696348,-82.015382,36.696348",
     "geom:latitude":36.696348,
     "geom:longitude":-82.015382,
@@ -31,17 +32,26 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RwXhC0gnCheVxtCyplbNN_36.696348_-82.015382@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888403,
-    "wof:geomhash":"d5360df45f1347536efc51f69f46a01c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec0ea83cc70a50c0467757508a2c544c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722774701
+        }
+    ],
     "wof:id":722774701,
-    "wof:lastmodified":1472651797,
+    "wof:lastmodified":1492071417,
     "wof:name":"Farm Credit Svc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

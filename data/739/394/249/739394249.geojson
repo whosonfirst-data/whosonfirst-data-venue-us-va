@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.229563,36.600982,-82.229563,36.600982",
     "geom:latitude":36.600982,
     "geom:longitude":-82.229563,
@@ -28,7 +29,13 @@
     "sg:postcode":"24201",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728659,
+        102084925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mK02CLhQm7AODqn7t2xuo_36.600982_-82.229563@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906471,
     "wof:geomhash":"7d2429ba8a528869055e9acda6703edb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "region_id":85688747,
+            "venue_id":739394249
+        }
+    ],
     "wof:id":739394249,
-    "wof:lastmodified":1472651447,
+    "wof:lastmodified":1492032975,
     "wof:name":"Beech Grove Untd Mthdst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

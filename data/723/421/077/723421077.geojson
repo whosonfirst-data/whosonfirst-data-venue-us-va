@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.210602,37.399108,-79.210602,37.399108",
     "geom:latitude":37.399108,
     "geom:longitude":-79.210602,
@@ -42,7 +43,8 @@
         85633793,
         101729021,
         102083815,
-        85819863
+        85819863,
+        85806523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901376,
-    "wof:geomhash":"c354d5af37ffafbb0a6b5bf767c7dd8d",
+    "wof:geomhash":"3fd650987371ae82877bdd4ec301a69d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,21 @@
             "neighbourhood_id":85819863,
             "region_id":85688747,
             "venue_id":723421077
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "neighbourhood_id":85806523,
+            "region_id":85688747,
+            "venue_id":723421077
         }
     ],
     "wof:id":723421077,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492056955,
     "wof:name":"Quik-E Food Stores",
-    "wof:parent_id":85819863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

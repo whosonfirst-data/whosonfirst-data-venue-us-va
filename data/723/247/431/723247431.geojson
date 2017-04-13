@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.138915,36.841012,-76.138915,36.841012",
     "geom:latitude":36.841012,
     "geom:longitude":-76.138915,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85872037,
         85872039
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461898069,
-    "wof:geomhash":"b9437547a13332693cb2fcc173a36547",
+    "wof:geomhash":"e96c1eb570e11b4ea0a0a169e7707258",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85872037,
+            "region_id":85688747,
+            "venue_id":723247431
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723247431,
-    "wof:lastmodified":1472651686,
+    "wof:lastmodified":1492053532,
     "wof:name":"Leslie Gore DDS",
-    "wof:parent_id":85872039,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.45907,37.54813,-77.45907,37.54813",
     "geom:latitude":37.54813,
     "geom:longitude":-77.45907,
@@ -34,7 +35,9 @@
         85633793,
         101728675,
         102085959,
-        85880341
+        85880289,
+        85880341,
+        85880291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901559,
-    "wof:geomhash":"2906a40d2d7b8d58cc8006aeef0fce77",
+    "wof:geomhash":"2ae9b4b69613871b1b5867a85296b18a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85880289,
+            "region_id":85688747,
+            "venue_id":723429515
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -52,12 +64,21 @@
             "neighbourhood_id":85880341,
             "region_id":85688747,
             "venue_id":723429515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85880291,
+            "region_id":85688747,
+            "venue_id":723429515
         }
     ],
     "wof:id":723429515,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492060521,
     "wof:name":"Warsaw Condominiums Assn",
-    "wof:parent_id":85880341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

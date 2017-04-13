@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.280837,38.839836,-77.280837,38.839836",
     "geom:latitude":38.839836,
     "geom:longitude":-77.280837,
@@ -65,17 +66,32 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729829,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rKD8igpwxuE09zMTbkzhi_38.839836_-77.280837@1303262538"
     },
     "wof:country":"US",
     "wof:created":1461910957,
-    "wof:geomhash":"de9fd80fdea4c7a01eb7df3c7e565e66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58e95c584a9bd5831f7e74193db49117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729829,
+            "region_id":85688747,
+            "venue_id":739626059
+        }
+    ],
     "wof:id":739626059,
-    "wof:lastmodified":1472651985,
+    "wof:lastmodified":1492044165,
     "wof:name":"The Home Fixer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.92316,38.058727,-78.92316,38.058727",
     "geom:latitude":38.058727,
     "geom:longitude":-78.92316,
@@ -28,7 +29,13 @@
     "sg:postcode":"22980",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_249eSKWaAACKYGdTj7VYkC_38.058727_-78.923160@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907632,
     "wof:geomhash":"d6c1f3ea328eb9a805aa020f5e142006",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739455239
+        }
+    ],
     "wof:id":739455239,
-    "wof:lastmodified":1472651560,
+    "wof:lastmodified":1492032952,
     "wof:name":"Community Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

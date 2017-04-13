@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.34773,38.051781,-77.34773,38.051781",
     "geom:latitude":38.051781,
     "geom:longitude":-77.34773,
@@ -32,17 +33,32 @@
         "referral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728811,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U09aBHxLOAMLxHtzOguRQ_38.051781_-77.347730@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898362,
-    "wof:geomhash":"03407a3dc941a65f9ae9a52be0070099",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ee4836eb43e8b303e63a92fa41f8fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101728811,
+            "region_id":85688747,
+            "venue_id":723263095
+        }
+    ],
     "wof:id":723263095,
-    "wof:lastmodified":1472651722,
+    "wof:lastmodified":1492055460,
     "wof:name":"Fidelity Information Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

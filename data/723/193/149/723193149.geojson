@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.512898,38.497057,-77.512898,38.497057",
     "geom:latitude":38.497057,
     "geom:longitude":-77.512898,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ASQszdWVOuYgjqC428bFS_38.497057_-77.512898@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896940,
-    "wof:geomhash":"8c704edd937390905cd0ba57821291d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"371b3c031b5bb6f6b4c2ac126c04ffa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547117,
+            "venue_id":723193149
+        }
+    ],
     "wof:id":723193149,
-    "wof:lastmodified":1472651554,
+    "wof:lastmodified":1492051825,
     "wof:name":"Caring Inc",
     "wof:parent_id":420547117,
     "wof:placetype":"venue",

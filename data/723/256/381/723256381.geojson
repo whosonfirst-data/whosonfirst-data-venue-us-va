@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.02095,36.678757,-82.02095,36.678757",
     "geom:latitude":36.678757,
     "geom:longitude":-82.02095,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VvHAzhrelCBRyfuUMRhqJ_36.678757_-82.020950@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898242,
-    "wof:geomhash":"f51354660a27d01ce09b975bd21336e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c89b1868ef963e2079b5bb99abda2897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723256381
+        }
+    ],
     "wof:id":723256381,
-    "wof:lastmodified":1472651688,
+    "wof:lastmodified":1492049447,
     "wof:name":"PMACDC Coordinator",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

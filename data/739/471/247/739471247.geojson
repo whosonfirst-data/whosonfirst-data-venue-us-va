@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374625,38.505663,-77.374625,38.505663",
     "geom:latitude":38.505663,
     "geom:longitude":-77.374625,
@@ -33,7 +34,10 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sU1lTmexUVIjlIkODXzjh_38.505663_-77.374625@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461907908,
     "wof:geomhash":"0951c2db8b080840a7e32ec0f9fe94a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739471247
+        }
+    ],
     "wof:id":739471247,
-    "wof:lastmodified":1472651608,
+    "wof:lastmodified":1492031131,
     "wof:name":"Crystal Lake Mobile Home Park",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

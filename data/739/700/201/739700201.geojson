@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.469902,38.0471,-78.469902,38.0471",
     "geom:latitude":38.0471,
     "geom:longitude":-78.469902,
@@ -33,7 +34,12 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29BJIJxBg7HyGraElxMOpH_38.047100_-78.469902@1303262547"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461912576,
     "wof:geomhash":"109790806304b6f64c97f02af0dbc71e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739700201
+        }
+    ],
     "wof:id":739700201,
-    "wof:lastmodified":1472652156,
+    "wof:lastmodified":1492032579,
     "wof:name":"Charlottesville Public School Perform Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

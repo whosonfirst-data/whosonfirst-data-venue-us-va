@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.348729,38.989643,-78.348729,38.989643",
     "geom:latitude":38.989643,
     "geom:longitude":-78.348729,
@@ -33,7 +34,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ghp2V1Ayzve0t3Mmz4zTq_38.989643_-78.348729@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461904886,
     "wof:geomhash":"e0df497a5045d79471e507563141ef2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":739316145
+        }
+    ],
     "wof:id":739316145,
-    "wof:lastmodified":1472651202,
+    "wof:lastmodified":1492031830,
     "wof:name":"RMC Fabrications LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

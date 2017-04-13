@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.99926,36.703372,-81.99926,36.703372",
     "geom:latitude":36.703372,
     "geom:longitude":-81.99926,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HBno9a2WprNsbC1CGFCBZ_36.703372_-81.999260@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888459,
-    "wof:geomhash":"c25ed51f18c157bf1d2c23081c2291aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abef040fd24340ae22ffce25e680d338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722777961
+        }
+    ],
     "wof:id":722777961,
-    "wof:lastmodified":1472651825,
+    "wof:lastmodified":1492069382,
     "wof:name":"D R Allen Assoc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

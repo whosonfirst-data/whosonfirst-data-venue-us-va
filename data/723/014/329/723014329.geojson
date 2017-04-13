@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.349364,37.507994,-77.349364,37.507994",
     "geom:latitude":37.507994,
     "geom:longitude":-77.349364,
@@ -32,17 +33,32 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rIwoPiGVygHwpJDNFaXiT_37.507994_-77.349364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893230,
-    "wof:geomhash":"965d568ef3a1d1fec436b8c129e86879",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c83ee37b25e300ca78bbaf4edc5e993b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":723014329
+        }
+    ],
     "wof:id":723014329,
-    "wof:lastmodified":1472651114,
+    "wof:lastmodified":1492050545,
     "wof:name":"Stericycle Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

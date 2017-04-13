@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.566047,39.117857,-77.566047,39.117857",
     "geom:latitude":39.117857,
     "geom:longitude":-77.566047,
@@ -32,7 +33,13 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15de7CcbvlBcV8C5PrzAdW_39.117857_-77.566047@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904214,
     "wof:geomhash":"739240a5e2d7f3eb9cbc1ffd439e8cfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739282749
+        }
+    ],
     "wof:id":739282749,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492031894,
     "wof:name":"Hector's Auto Detailing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

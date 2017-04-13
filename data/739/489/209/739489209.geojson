@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517941,38.788788,-77.517941,38.788788",
     "geom:latitude":38.788788,
     "geom:longitude":-77.517941,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0utDsPtWRfFPpzzEsWUSwO_38.788788_-77.517941@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908241,
-    "wof:geomhash":"859ffde6433a724fe52c8ca10c897787",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5a0b161fae81e69dcfa41d1f9bf9f99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":739489209
+        }
+    ],
     "wof:id":739489209,
-    "wof:lastmodified":1472651679,
+    "wof:lastmodified":1492040141,
     "wof:name":"Black & Kletz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440505,38.432425,-77.440505,38.432425",
     "geom:latitude":38.432425,
     "geom:longitude":-77.440505,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DBylK9JTbbpk9hX0eJ4Lu_38.432425_-77.440505@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888065,
-    "wof:geomhash":"dd383508f85f02f288e71915a26202ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9faf32f93e8fe590f73aa3bc11af0e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":722756921
+        }
+    ],
     "wof:id":722756921,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492071601,
     "wof:name":"Gray's Heating & Air Cond",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

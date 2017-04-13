@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.530103,37.110723,-76.530103,37.110723",
     "geom:latitude":37.110723,
     "geom:longitude":-76.530103,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lg0yhuhtWHzvXtPp45K5t_37.110723_-76.530103@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901271,
-    "wof:geomhash":"6b3c0060de409a5696cdc55ed9c60830",
-    "wof:hierarchy":[],
+    "wof:geomhash":"741e459c1fa9781f59ceca18785e4af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723415191
+        }
+    ],
     "wof:id":723415191,
-    "wof:lastmodified":1472652186,
+    "wof:lastmodified":1492056900,
     "wof:name":"Creative Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

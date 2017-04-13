@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.008373,36.687535,-82.008373,36.687535",
     "geom:latitude":36.687535,
     "geom:longitude":-82.008373,
@@ -31,17 +32,26 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hku5xQC75CoyR52JD3wf9_36.687535_-82.008373@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887063,
-    "wof:geomhash":"50d1ab993bb697c8cbd70cdfd5b8f9d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f241f6eb94d3a825e92852c4b7864e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722705127
+        }
+    ],
     "wof:id":722705127,
-    "wof:lastmodified":1472651551,
+    "wof:lastmodified":1492063433,
     "wof:name":"F David Small MD",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.792371,37.231559,-76.792371,37.231559",
     "geom:latitude":37.231559,
     "geom:longitude":-76.792371,
@@ -31,17 +32,26 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546785
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L5RxIIDF9ns5HFe3qNUSH_37.231559_-76.792371@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897280,
-    "wof:geomhash":"7f250e8f1c808b47a9ffcbd04807c5e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82f2c17bae6fcf3fcd2590a6680d0462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546785,
+            "venue_id":723210431
+        }
+    ],
     "wof:id":723210431,
-    "wof:lastmodified":1472651618,
+    "wof:lastmodified":1492050885,
     "wof:name":"Jamestown Construction",
     "wof:parent_id":420546785,
     "wof:placetype":"venue",

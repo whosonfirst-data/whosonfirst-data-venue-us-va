@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.493917,36.673429,-78.493917,36.673429",
     "geom:latitude":36.673429,
     "geom:longitude":-78.493917,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZyIIFyeFZi9iUiHNyEogI_36.673429_-78.493917@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904051,
     "wof:geomhash":"2b6abf49ba6eec9b635d12c5a3203a03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739275555
+        }
+    ],
     "wof:id":739275555,
-    "wof:lastmodified":1472651162,
+    "wof:lastmodified":1492031070,
     "wof:name":"Claiborne Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

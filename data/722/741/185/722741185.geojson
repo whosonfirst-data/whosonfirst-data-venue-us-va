@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.407107,38.891672,-77.407107,38.891672",
     "geom:latitude":38.891672,
     "geom:longitude":-77.407107,
@@ -31,19 +32,36 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729785,
+        102084863,
+        85834769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ob7l3YBQdsqWs3eVwgW15_38.891672_-77.407107@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887767,
-    "wof:geomhash":"5320707092fdbcb93047267ed57ccf6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ebec354b9275bac3e6fbde9767b1813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85834769,
+            "region_id":85688747,
+            "venue_id":722741185
+        }
+    ],
     "wof:id":722741185,
-    "wof:lastmodified":1472651670,
+    "wof:lastmodified":1492073204,
     "wof:name":"Charles Ezigbo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85834769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.226973,37.13424,-77.226973,37.13424",
     "geom:latitude":37.13424,
     "geom:longitude":-77.226973,
@@ -31,7 +32,12 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A03eIX2RSWkVNdUaNEvb0_37.134240_-77.226973@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907278,
     "wof:geomhash":"929e75e932a5b0c3a0acf6b24f1e6746",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739435925
+        }
+    ],
     "wof:id":739435925,
-    "wof:lastmodified":1472651543,
+    "wof:lastmodified":1492029404,
     "wof:name":"David A Harrison Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.677572,38.310762,-77.677572,38.310762",
     "geom:latitude":38.310762,
     "geom:longitude":-77.677572,
@@ -28,7 +29,12 @@
     "sg:postcode":"22553",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L3eOfdnR3cQZaBY36pTqh_38.310762_-77.677572@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906013,
     "wof:geomhash":"e1dbe0bfadb05fd0a8b6fc9f90b56ab9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739370977
+        }
+    ],
     "wof:id":739370977,
-    "wof:lastmodified":1472651370,
+    "wof:lastmodified":1492031016,
     "wof:name":"All In One Landscape Maint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

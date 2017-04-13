@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.175919,39.16884,-78.175919,39.16884",
     "geom:latitude":39.16884,
     "geom:longitude":-78.175919,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D1lzrxEHhuNfPWwMqbnUi_39.168840_-78.175919@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896247,
-    "wof:geomhash":"eee5ece15e301a1378d3fb0ee91fe714",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59efa0fe10afd19cf640147147f327a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723157835
+        }
+    ],
     "wof:id":723157835,
-    "wof:lastmodified":1472651431,
+    "wof:lastmodified":1492055999,
     "wof:name":"Averitt Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

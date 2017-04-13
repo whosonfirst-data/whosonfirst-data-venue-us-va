@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.425838,38.422041,-77.425838,38.422041",
     "geom:latitude":38.422041,
     "geom:longitude":-77.425838,
@@ -32,17 +33,26 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CerYlYQ9QbNOXbcDHqRlu_38.422041_-77.425838@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902904,
-    "wof:geomhash":"afeb68015edc5b926d001c0f4390b6b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d3dc733b59a57e25a31e7dcc64caa4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":723497379
+        }
+    ],
     "wof:id":723497379,
-    "wof:lastmodified":1472652339,
+    "wof:lastmodified":1492047657,
     "wof:name":"Courthouse Pit Stop",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

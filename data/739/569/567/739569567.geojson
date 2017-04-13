@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.603274,37.505949,-77.603274,37.505949",
     "geom:latitude":37.505949,
     "geom:longitude":-77.603274,
@@ -32,7 +33,13 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58KgLph1VKhAoUCwK7YleX_37.506202_-77.603350@1293134755"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909771,
     "wof:geomhash":"1404b533008c302976a67320d943cec9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739569567
+        }
+    ],
     "wof:id":739569567,
-    "wof:lastmodified":1472651902,
+    "wof:lastmodified":1492030911,
     "wof:name":"Puritan Cleaners & Launderers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

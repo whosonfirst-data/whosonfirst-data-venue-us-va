@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.774562,37.313033,-76.774562,37.313033",
     "geom:latitude":37.313033,
     "geom:longitude":-76.774562,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VOiM7qijz6gcRO295jGWm_37.313033_-76.774562@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893636,
-    "wof:geomhash":"c0db0309fc31fb3df43eac36692fceb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e054702215df70f27b297a1cfbb44fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546769,
+            "venue_id":723031665
+        }
+    ],
     "wof:id":723031665,
-    "wof:lastmodified":1472651138,
+    "wof:lastmodified":1492055519,
     "wof:name":"Auto Clinic Of Long Hill",
     "wof:parent_id":420546769,
     "wof:placetype":"venue",

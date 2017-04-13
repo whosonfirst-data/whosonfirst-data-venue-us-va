@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.563024,36.667767,-77.563024,36.667767",
     "geom:latitude":36.667767,
     "geom:longitude":-77.563024,
@@ -33,17 +34,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xW9vpb2A4lLLXsfDhtMIB_36.667767_-77.563024@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886314,
-    "wof:geomhash":"91e52f8586c1ccb086600f704f67c2e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60c7dd3f45c20954bd4651660c966d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":722665653
+        }
+    ],
     "wof:id":722665653,
-    "wof:lastmodified":1472651484,
+    "wof:lastmodified":1492070752,
     "wof:name":"Salem Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

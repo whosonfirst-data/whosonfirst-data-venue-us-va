@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.249881,36.624838,-76.249881,36.624838",
     "geom:latitude":36.624838,
     "geom:longitude":-76.249881,
@@ -38,6 +39,7 @@
         85633793,
         101728797,
         102087265,
+        85822671,
         420558631
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894162,
-    "wof:geomhash":"4045e5b58387ef893fe988cfa806f0aa",
+    "wof:geomhash":"e06c3567d94e984a09fb04759302d7cb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":85822671,
+            "region_id":85688747,
+            "venue_id":723057051
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723057051,
-    "wof:lastmodified":1472651196,
+    "wof:lastmodified":1492061546,
     "wof:name":"Hewitt's Quality Home Repair",
-    "wof:parent_id":420558631,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

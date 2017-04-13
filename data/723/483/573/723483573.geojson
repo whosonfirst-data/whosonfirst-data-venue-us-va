@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454704,38.848002,-77.454704,38.848002",
     "geom:latitude":38.848002,
     "geom:longitude":-77.454704,
@@ -32,17 +33,32 @@
         "background"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T9ArPyvQrMfDRoE6bk1gU_38.848002_-77.454704@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902605,
-    "wof:geomhash":"15391c70085acff30b2c83539a37b3be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb2e62f9f52cb4fcf88184a9ab9e3775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723483573
+        }
+    ],
     "wof:id":723483573,
-    "wof:lastmodified":1472652336,
+    "wof:lastmodified":1492059420,
     "wof:name":"Robert J Golden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.36886,39.056944,-78.36886,39.056944",
     "geom:latitude":39.056944,
     "geom:longitude":-78.36886,
@@ -31,17 +32,30 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07zjIQpkWrBNHOgRga3JJa_39.056944_-78.368860@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884121,
-    "wof:geomhash":"761710cf7ef5b2e7f47f2639d389f730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6643e60f096169ac01659d1ff40f0433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":722555507
+        }
+    ],
     "wof:id":722555507,
-    "wof:lastmodified":1472651104,
+    "wof:lastmodified":1492073162,
     "wof:name":"Mr Appliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

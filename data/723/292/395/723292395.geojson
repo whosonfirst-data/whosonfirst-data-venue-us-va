@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.108972,39.160175,-78.108972,39.160175",
     "geom:latitude":39.160175,
     "geom:longitude":-78.108972,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0thYLRyOZwuwSFdv658gTF_39.160175_-78.108972@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898919,
-    "wof:geomhash":"d74b654385385032b66b9d4adf64d6e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7469b446cdf4febde7ef9f432de93695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":723292395
+        }
+    ],
     "wof:id":723292395,
-    "wof:lastmodified":1472651789,
+    "wof:lastmodified":1492051885,
     "wof:name":"Siemens VDO Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

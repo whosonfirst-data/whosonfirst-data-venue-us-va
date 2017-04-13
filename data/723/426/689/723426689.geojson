@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.626403,37.207236,-79.626403,37.207236",
     "geom:latitude":37.207236,
     "geom:longitude":-79.626403,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u8Y9fL0ItPmGqAfisRLcE_37.207236_-79.626403@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901511,
-    "wof:geomhash":"00350ad9723442cff74f016282989c93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e7a206a2223b60ab00e7f4909e59947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723426689
+        }
+    ],
     "wof:id":723426689,
-    "wof:lastmodified":1472652254,
+    "wof:lastmodified":1492061583,
     "wof:name":"Glen Proehl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

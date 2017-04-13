@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.41795,37.525073,-76.41795,37.525073",
     "geom:latitude":37.525073,
     "geom:longitude":-76.41795,
@@ -32,17 +33,30 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uC4NT0MOo4w4TJ4XN4ARE_37.525073_-76.417950@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886613,
-    "wof:geomhash":"c4f769bc8b059d6b44e87aecdc31e49b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91be082064bed812d1ae21516bf51a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":722681627
+        }
+    ],
     "wof:id":722681627,
-    "wof:lastmodified":1472651533,
+    "wof:lastmodified":1492073489,
     "wof:name":"Hollister Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

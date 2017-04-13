@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.741939,37.68685,-77.741939,37.68685",
     "geom:latitude":37.68685,
     "geom:longitude":-77.741939,
@@ -34,7 +35,12 @@
     ],
     "sg:website":"www.wedgewoodproperties.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n1fm0SR9xULQbvlw9WmV0_37.686850_-77.741939@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461903971,
     "wof:geomhash":"45abbacc7ea1f697be3ae3a0d7f632d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739272353
+        }
+    ],
     "wof:id":739272353,
-    "wof:lastmodified":1472651153,
+    "wof:lastmodified":1492029343,
     "wof:name":"Wedgewood Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

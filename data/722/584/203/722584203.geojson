@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.197076,38.7855,-77.197076,38.7855",
     "geom:latitude":38.7855,
     "geom:longitude":-77.197076,
@@ -34,6 +35,7 @@
         85633793,
         101729791,
         102084863,
+        85835021,
         85894025
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884680,
-    "wof:geomhash":"e7b74b28e96f168b895a26f186080a3d",
+    "wof:geomhash":"f60e38342bfd40fabdf8bb1e5b68f1c1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729791,
+            "neighbourhood_id":85835021,
+            "region_id":85688747,
+            "venue_id":722584203
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":722584203,
-    "wof:lastmodified":1472651195,
+    "wof:lastmodified":1492069609,
     "wof:name":"Janet M Rubus",
-    "wof:parent_id":85894025,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.836404,36.712246,-77.836404,36.712246",
     "geom:latitude":36.712246,
     "geom:longitude":-77.836404,
@@ -28,7 +29,12 @@
     "sg:postcode":"23868",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NSKVMM27tPzKa9hRkGpNN_36.712246_-77.836404@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903680,
     "wof:geomhash":"3e418ad419c6d16454758443857eb4ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739259087
+        }
+    ],
     "wof:id":739259087,
-    "wof:lastmodified":1472651088,
+    "wof:lastmodified":1492032925,
     "wof:name":"Pastors House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

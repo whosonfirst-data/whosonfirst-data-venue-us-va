@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.8536,36.664008,-79.8536,36.664008",
     "geom:latitude":36.664008,
     "geom:longitude":-79.8536,
@@ -28,7 +29,13 @@
     "sg:postcode":"24112",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OFd3n2TfyJ3VD51EfyYvG_36.664008_-79.853600@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903475,
     "wof:geomhash":"1ad5f09de02252d327c95a6e85712ab3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":739249549
+        }
+    ],
     "wof:id":739249549,
-    "wof:lastmodified":1472651097,
+    "wof:lastmodified":1492029614,
     "wof:name":"First Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

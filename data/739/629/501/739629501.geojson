@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.139099,38.865799,-77.139099,38.865799",
     "geom:latitude":38.865799,
     "geom:longitude":-77.139099,
@@ -28,7 +29,13 @@
     "sg:postcode":"22044",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729789,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xSuMtfuHkuqrP2FfEZLs3_38.865799_-77.139099@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461911016,
     "wof:geomhash":"f2d1a1d2c3197c070d486c9ecd333919",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729789,
+            "region_id":85688747,
+            "venue_id":739629501
+        }
+    ],
     "wof:id":739629501,
-    "wof:lastmodified":1472652004,
+    "wof:lastmodified":1492033303,
     "wof:name":"Abousy Khalid MD Facc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

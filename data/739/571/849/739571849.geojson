@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.914177,38.076611,-78.914177,38.076611",
     "geom:latitude":38.076611,
     "geom:longitude":-78.914177,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=2154&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vu6SnxKlhy3iaKu2KODa6_38.076629_-78.914001@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909831,
-    "wof:geomhash":"178520a7c21a4dc5b557fb77a888f8a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6ff18a428c7508bdffee6b7a0905804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739571849
+        }
+    ],
     "wof:id":739571849,
-    "wof:lastmodified":1472651914,
+    "wof:lastmodified":1492043955,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

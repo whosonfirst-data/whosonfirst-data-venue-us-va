@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.291569,37.342393,-79.291569,37.342393",
     "geom:latitude":37.342393,
     "geom:longitude":-79.291569,
@@ -31,7 +32,12 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79V8isZOOyoTkyh8XUV7PH_37.342393_-79.291569@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908057,
     "wof:geomhash":"14e0488f2070e46d94cee85ba405b39d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739479145
+        }
+    ],
     "wof:id":739479145,
-    "wof:lastmodified":1472651610,
+    "wof:lastmodified":1492030600,
     "wof:name":"Archadeck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.505786,36.87533,-80.505786,36.87533",
     "geom:latitude":36.87533,
     "geom:longitude":-80.505786,
@@ -32,17 +33,30 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NBP97drc0scHElR5GIEf1_36.875330_-80.505786@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898620,
-    "wof:geomhash":"6ecf94412db25d54d6966c744f65ce85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbcdba670595e2696f4dbc44d7123523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":723276671
+        }
+    ],
     "wof:id":723276671,
-    "wof:lastmodified":1472651822,
+    "wof:lastmodified":1492054753,
     "wof:name":"Castle Computer Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.28396,36.870339,-76.28396,36.870339",
     "geom:latitude":36.870339,
     "geom:longitude":-76.28396,
@@ -36,17 +37,32 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BjlMPESPuu1qB6NGNcjag_36.870339_-76.283960@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895429,
-    "wof:geomhash":"102c0bea72443fbbccbfa1aca275132a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d04b534bed6e7f2cee139d86148d95dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":723115659
+        }
+    ],
     "wof:id":723115659,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492050293,
     "wof:name":"Champion Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

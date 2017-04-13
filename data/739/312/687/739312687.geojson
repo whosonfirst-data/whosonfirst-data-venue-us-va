@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.01167,36.672274,-82.01167,36.672274",
     "geom:latitude":36.672274,
     "geom:longitude":-82.01167,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h9AlcEQCbC53Y7xpwinvA_36.672274_-82.011670@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904824,
-    "wof:geomhash":"517b92958354b10579379ec1cf24d101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bff9cf36b04b52703dae4c9a79db48b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739312687
+        }
+    ],
     "wof:id":739312687,
-    "wof:lastmodified":1472651228,
+    "wof:lastmodified":1492043229,
     "wof:name":"Valley View Freewill Baptist C",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

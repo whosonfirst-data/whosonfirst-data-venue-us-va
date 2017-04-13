@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.033177,36.756443,-83.033177,36.756443",
     "geom:latitude":36.756443,
     "geom:longitude":-83.033177,
@@ -28,7 +29,13 @@
     "sg:postcode":"24277",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728541,
+        102087247
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y1WH2C4DrSTiGK94Ms3Wi_36.756443_-83.033177@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906025,
     "wof:geomhash":"c117d3bc357557f3c834eced14899de8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087247,
+            "locality_id":101728541,
+            "region_id":85688747,
+            "venue_id":739371641
+        }
+    ],
     "wof:id":739371641,
-    "wof:lastmodified":1472651348,
+    "wof:lastmodified":1492031702,
     "wof:name":"Virginia Organizing Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

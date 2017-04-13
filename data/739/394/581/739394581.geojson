@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273067,38.769991,-77.273067,38.769991",
     "geom:latitude":38.769991,
     "geom:longitude":-77.273067,
@@ -31,7 +32,13 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729731,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lq377DH38XS3bYGuVNLjw_38.769991_-77.273067@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906477,
     "wof:geomhash":"f34cf69b68c0abed0a846cc14bfc0ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729731,
+            "region_id":85688747,
+            "venue_id":739394581
+        }
+    ],
     "wof:id":739394581,
-    "wof:lastmodified":1472651466,
+    "wof:lastmodified":1492032982,
     "wof:name":"Expert Systems Programs & Cnsl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

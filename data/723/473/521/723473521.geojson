@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.024813,36.855309,-76.024813,36.855309",
     "geom:latitude":36.855309,
     "geom:longitude":-76.024813,
@@ -38,6 +39,7 @@
         85633793,
         101728745,
         102081929,
+        85830775,
         85829939
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902383,
-    "wof:geomhash":"825aada8ac1877daf718f6bfddca5ca2",
+    "wof:geomhash":"ee5732f7c013384386938a12ae754725",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85830775,
+            "region_id":85688747,
+            "venue_id":723473521
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723473521,
-    "wof:lastmodified":1472652307,
+    "wof:lastmodified":1492051453,
     "wof:name":"Glasson Sports Medicine PC",
-    "wof:parent_id":85829939,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

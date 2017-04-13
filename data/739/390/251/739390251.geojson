@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048731,38.726047,-77.048731,38.726047",
     "geom:latitude":38.726047,
     "geom:longitude":-77.048731,
@@ -29,15 +30,15 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
-        85633793,
-        85837843,
-        102082191,
         85688747,
         102191575,
+        85633793,
         101729741,
         102084863,
-        420558305
+        420558305,
+        85688501,
+        85837843,
+        102082191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,8 @@
     },
     "wof:country":"US",
     "wof:created":1461906394,
-    "wof:geomhash":"41687e028116315b8cb3f7b2028518ea",
+    "wof:geomhash":"05426109264f2c139d64b48fa547705c",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":739390251
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +56,19 @@
             "neighbourhood_id":420558305,
             "region_id":85688747,
             "venue_id":739390251
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":739390251
         }
     ],
     "wof:id":739390251,
-    "wof:lastmodified":1472651409,
+    "wof:lastmodified":1492039672,
     "wof:name":"Waynewood Citizens Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

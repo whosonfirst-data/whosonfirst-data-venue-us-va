@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.749047,37.253571,-76.749047,37.253571",
     "geom:latitude":37.253571,
     "geom:longitude":-76.749047,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3apuLyKzM17qu2y45TN7jp_37.253571_-76.749047@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461909298,
     "wof:geomhash":"f40ca740c6f3c7a34cd065e3d86796cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546907,
+            "venue_id":739547011
+        }
+    ],
     "wof:id":739547011,
-    "wof:lastmodified":1472651856,
+    "wof:lastmodified":1492029487,
     "wof:name":"Dynamic Painting",
     "wof:parent_id":420546907,
     "wof:placetype":"venue",

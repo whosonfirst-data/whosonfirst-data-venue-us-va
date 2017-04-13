@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.597842,37.603094,-76.597842,37.603094",
     "geom:latitude":37.603094,
     "geom:longitude":-76.597842,
@@ -32,17 +33,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729309,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rzb9tZGeoe2Mg1XI4rloP_37.603094_-76.597842@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908412,
-    "wof:geomhash":"e5cf3e3f9c88850f1f2d6c133d848d87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"560cc0ae4a454a273e046b582c4cf630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "locality_id":101729309,
+            "region_id":85688747,
+            "venue_id":739499207
+        }
+    ],
     "wof:id":739499207,
-    "wof:lastmodified":1472651687,
+    "wof:lastmodified":1492041847,
     "wof:name":"Autry & Assoc Food Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.926255,38.127016,-78.926255,38.127016",
     "geom:latitude":38.127016,
     "geom:longitude":-78.926255,
@@ -31,17 +32,30 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TwgVSMf3KY5LNnguIv7fu_38.127016_-78.926255@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902701,
-    "wof:geomhash":"e1297daaf31d86a164e5d12defeae927",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b5bdac5a46c7955b9f6a4bd977f32e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "region_id":85688747,
+            "venue_id":723488521
+        }
+    ],
     "wof:id":723488521,
-    "wof:lastmodified":1472652339,
+    "wof:lastmodified":1492056308,
     "wof:name":"Birchfields Water Pump Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

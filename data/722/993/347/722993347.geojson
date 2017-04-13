@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517005,38.356037,-77.517005,38.356037",
     "geom:latitude":38.356037,
     "geom:longitude":-77.517005,
@@ -31,17 +32,26 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45MmzzXRKOlk5BYH1O8AIG_38.356037_-77.517005@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892757,
-    "wof:geomhash":"4b3165d10fa8e6b43ef38b5239e3e204",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2047d0a5f9d810d1722444a3bd4598f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":722993347
+        }
+    ],
     "wof:id":722993347,
-    "wof:lastmodified":1472652346,
+    "wof:lastmodified":1492063828,
     "wof:name":"Dominion Diesel Svc",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

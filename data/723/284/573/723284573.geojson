@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.395366,37.119363,-80.395366,37.119363",
     "geom:latitude":37.119363,
     "geom:longitude":-80.395366,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AY9VH16woCabfST4sM2Ap_37.119363_-80.395366@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898764,
-    "wof:geomhash":"097e4180590b575d6e5edfa18cd0560b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4593bfce2a2a0051067ee55718d829b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":723284573
+        }
+    ],
     "wof:id":723284573,
-    "wof:lastmodified":1472651812,
+    "wof:lastmodified":1492048904,
     "wof:name":"Larry Rudisill Farm",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

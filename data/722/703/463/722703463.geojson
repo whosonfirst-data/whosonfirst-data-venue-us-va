@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432585,37.252848,-77.432585,37.252848",
     "geom:latitude":37.252848,
     "geom:longitude":-77.432585,
@@ -41,17 +42,32 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729303,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IyBvSvvtvYENC6z46aYSs_37.252848_-77.432585@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887033,
-    "wof:geomhash":"410e027cbc5f5e3e2f50e3d14fa39d19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61bcbb18cb3c2a8ea23e6788d9fc9801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729303,
+            "region_id":85688747,
+            "venue_id":722703463
+        }
+    ],
     "wof:id":722703463,
-    "wof:lastmodified":1472651574,
+    "wof:lastmodified":1492066552,
     "wof:name":"Suburban Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

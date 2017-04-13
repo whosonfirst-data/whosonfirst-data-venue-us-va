@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.614429,37.51227,-77.614429,37.51227",
     "geom:latitude":37.51227,
     "geom:longitude":-77.614429,
@@ -31,7 +32,13 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y7Msnewd2xPTKKMpJ00Sf_37.512270_-77.614429@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908968,
     "wof:geomhash":"9a5df0006472220f55481f6fce56cb6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739529419
+        }
+    ],
     "wof:id":739529419,
-    "wof:lastmodified":1472651781,
+    "wof:lastmodified":1492030807,
     "wof:name":"Venture Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

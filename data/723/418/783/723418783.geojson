@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43589,37.440599,-77.43589,37.440599",
     "geom:latitude":37.440599,
     "geom:longitude":-77.43589,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1thHVpcHgiZSTCLE6YRG3k_37.440599_-77.435890@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901337,
-    "wof:geomhash":"065b8837de3c15622d154708bc7277c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c4601fc17b1f87b5745c371bdad029d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":723418783
+        }
+    ],
     "wof:id":723418783,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492061075,
     "wof:name":"Label Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

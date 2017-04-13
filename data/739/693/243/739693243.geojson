@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.503805,38.232981,-77.503805,38.232981",
     "geom:latitude":38.232981,
     "geom:longitude":-77.503805,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000277022585",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bJrpXKVB2ASkbYNMwtO0H_38.232981_-77.503805@1303262546"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912405,
     "wof:geomhash":"b5a2a5103c6af88307c591c33a18dc2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693243
+        }
+    ],
     "wof:id":739693243,
-    "wof:lastmodified":1472652177,
+    "wof:lastmodified":1492031386,
     "wof:name":"Allstate Insurance Company - William Wyant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

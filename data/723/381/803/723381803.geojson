@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.890386,36.994471,-79.890386,36.994471",
     "geom:latitude":36.994471,
     "geom:longitude":-79.890386,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gJOC3CLHfZ23fOw1DjlNj_36.994471_-79.890386@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900618,
-    "wof:geomhash":"a22402275946a99fe0025d591cb198ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce060e4924afe5413f5891e478024ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":723381803
+        }
+    ],
     "wof:id":723381803,
-    "wof:lastmodified":1472652116,
+    "wof:lastmodified":1492061386,
     "wof:name":"Rocky Mount Presbyterian Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

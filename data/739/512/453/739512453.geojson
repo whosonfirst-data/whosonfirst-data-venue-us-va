@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.991184,37.093816,-77.991184,37.093816",
     "geom:latitude":37.093816,
     "geom:longitude":-77.991184,
@@ -34,7 +35,13 @@
         "tractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728533,
+        102087251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SvszCNj0yx2M6TI6y5kVu_37.093816_-77.991184@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461908654,
     "wof:geomhash":"e63b23e7b3312c7e76651445c8c3402f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087251,
+            "locality_id":101728533,
+            "region_id":85688747,
+            "venue_id":739512453
+        }
+    ],
     "wof:id":739512453,
-    "wof:lastmodified":1472651775,
+    "wof:lastmodified":1492031329,
     "wof:name":"Golden Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

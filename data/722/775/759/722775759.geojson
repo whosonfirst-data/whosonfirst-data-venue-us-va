@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.473617,38.8977,-77.473617,38.8977",
     "geom:latitude":38.8977,
     "geom:longitude":-77.473617,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F25gPeOOmFMb3TKmwOMLc_38.897700_-77.473617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888422,
-    "wof:geomhash":"6758d95a0bba737245ce33735c266991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2555989d018f82bdc85ec9954bdf8669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722775759
+        }
+    ],
     "wof:id":722775759,
-    "wof:lastmodified":1472651843,
+    "wof:lastmodified":1492067151,
     "wof:name":"Scott Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

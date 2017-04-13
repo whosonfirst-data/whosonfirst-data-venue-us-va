@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.518504,37.334699,-79.518504,37.334699",
     "geom:latitude":37.334699,
     "geom:longitude":-79.518504,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U4K9Qp1xIhQuTlUTBCIwQ_37.334699_-79.518504@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461903527,
     "wof:geomhash":"fdd58c41e5e377fb1cd7144c47bda691",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":739251827
+        }
+    ],
     "wof:id":739251827,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492029825,
     "wof:name":"Quality Lawn & Landscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

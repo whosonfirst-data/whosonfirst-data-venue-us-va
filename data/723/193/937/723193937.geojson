@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.249554,38.328287,-77.249554,38.328287",
     "geom:latitude":38.328287,
     "geom:longitude":-77.249554,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729077,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kevYQgcSE6AXj9ke9MfhM_38.328287_-77.249554@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896953,
-    "wof:geomhash":"4a90b259f331c2e604d15129dee7ce67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b2d9a891c410e59e8983af36eb08fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729077,
+            "region_id":85688747,
+            "venue_id":723193937
+        }
+    ],
     "wof:id":723193937,
-    "wof:lastmodified":1472651585,
+    "wof:lastmodified":1492051809,
     "wof:name":"Fisher & Hall Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

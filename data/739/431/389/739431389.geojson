@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.179029,39.206095,-78.179029,39.206095",
     "geom:latitude":39.206095,
     "geom:longitude":-78.179029,
@@ -28,7 +29,12 @@
     "sg:postcode":"22603",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OLVJv3PfBcvFHh08iYegb_39.206095_-78.179029@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907190,
     "wof:geomhash":"e7880c5b69b7586acb7faff2c8f88bf3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739431389
+        }
+    ],
     "wof:id":739431389,
-    "wof:lastmodified":1472651525,
+    "wof:lastmodified":1492033120,
     "wof:name":"Carper Investments Lc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

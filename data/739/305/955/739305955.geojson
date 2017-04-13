@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.240808,38.175687,-77.240808,38.175687",
     "geom:latitude":38.175687,
     "geom:longitude":-77.240808,
@@ -32,17 +33,30 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fpEu08vLJNo2bSAmCxYkf_38.175687_-77.240808@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904697,
-    "wof:geomhash":"de273024acde1129dc97fc06b826efa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f57f3f71c0affb57cf73a17c098c4686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739305955
+        }
+    ],
     "wof:id":739305955,
-    "wof:lastmodified":1472651228,
+    "wof:lastmodified":1492044240,
     "wof:name":"Store-Tel Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

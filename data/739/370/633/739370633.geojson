@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.118101,38.848315,-77.118101,38.848315",
     "geom:latitude":38.848315,
     "geom:longitude":-77.118101,
@@ -28,7 +29,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NDGA4PFTBSHvUovg4P9e1_38.848315_-77.118101@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906007,
     "wof:geomhash":"582ed0f09af416a1a647fe9248c767b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739370633
+        }
+    ],
     "wof:id":739370633,
-    "wof:lastmodified":1472651360,
+    "wof:lastmodified":1492031007,
     "wof:name":"Zany Brainy Store 210",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

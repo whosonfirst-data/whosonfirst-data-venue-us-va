@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.965166,38.251488,-76.965166,38.251488",
     "geom:latitude":38.251488,
     "geom:longitude":-76.965166,
@@ -38,17 +39,32 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729001,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VjL601NmM3TWiaHMdmGmU_38.251488_-76.965166@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896911,
-    "wof:geomhash":"7fd45a1e179ed02e662343116de09cc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"574b9aa775bcde78eeaf85f585dc745e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "locality_id":101729001,
+            "region_id":85688747,
+            "venue_id":723191425
+        }
+    ],
     "wof:id":723191425,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492058209,
     "wof:name":"Johnson's Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

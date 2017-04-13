@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.468622,36.814499,-77.468622,36.814499",
     "geom:latitude":36.814499,
     "geom:longitude":-77.468622,
@@ -32,7 +33,13 @@
         "maker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728725,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77rcD8smJmPazRszB2JXJn_36.814499_-77.468622@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907443,
     "wof:geomhash":"4996983ae4b74225ea42d9bbedf3df95",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "locality_id":101728725,
+            "region_id":85688747,
+            "venue_id":739444279
+        }
+    ],
     "wof:id":739444279,
-    "wof:lastmodified":1472651570,
+    "wof:lastmodified":1492032012,
     "wof:name":"History In The Making",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.364631,38.319136,-77.364631,38.319136",
     "geom:latitude":38.319136,
     "geom:longitude":-77.364631,
@@ -32,17 +33,26 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T0q2Dm01fE7Wot8RlgwqR_38.319136_-77.364631@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899917,
-    "wof:geomhash":"689a8494811cad30d573d3574095626d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f83b6d6d47e8de464a40e82004a6c321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":723345483
+        }
+    ],
     "wof:id":723345483,
-    "wof:lastmodified":1472651955,
+    "wof:lastmodified":1492059117,
     "wof:name":"Troy Howell Studio",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

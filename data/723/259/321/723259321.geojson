@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.041072,36.740533,-82.041072,36.740533",
     "geom:latitude":36.740533,
     "geom:longitude":-82.041072,
@@ -31,17 +32,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HBIR1IAE18FxPqjWT4lZG_36.740533_-82.041072@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898294,
-    "wof:geomhash":"6fc9e809ebb3ed8f66abdccef22e7133",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ff4401f3ec42e70c6821be304234108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723259321
+        }
+    ],
     "wof:id":723259321,
-    "wof:lastmodified":1472651687,
+    "wof:lastmodified":1492051478,
     "wof:name":"Abingdon Radiator Sales",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

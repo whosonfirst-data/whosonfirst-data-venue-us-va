@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.408943,38.433861,-77.408943,38.433861",
     "geom:latitude":38.433861,
     "geom:longitude":-77.408943,
@@ -32,7 +33,10 @@
         "companies-bottled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BqFbULsmUaCV8Xf0l9yzk_38.433861_-77.408943@1303262547"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912435,
     "wof:geomhash":"39d2e6ae92b81a165e632532b3fabbf3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547289,
+            "venue_id":739694797
+        }
+    ],
     "wof:id":739694797,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492030244,
     "wof:name":"Living Water Ministries, Incorporated",
     "wof:parent_id":420547289,
     "wof:placetype":"venue",

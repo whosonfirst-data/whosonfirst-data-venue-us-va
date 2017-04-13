@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.98683,36.703212,-81.98683,36.703212",
     "geom:latitude":36.703212,
     "geom:longitude":-81.98683,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57rGaBsZaxNseySkjCWcME_36.703212_-81.986830@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906400,
-    "wof:geomhash":"9cb7e85d0beabed4dea128226980aee5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dee82e62cdb1deff28c6c182a0156726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739390643
+        }
+    ],
     "wof:id":739390643,
-    "wof:lastmodified":1472651422,
+    "wof:lastmodified":1492039683,
     "wof:name":"Renaissance House",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

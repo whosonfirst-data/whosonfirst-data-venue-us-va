@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371136,38.508656,-77.371136,38.508656",
     "geom:latitude":38.508656,
     "geom:longitude":-77.371136,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_565I7rkk4uKanj7PgVyfLP_38.508656_-77.371136@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885999,
-    "wof:geomhash":"42731bf20e7baff36f02d54684daeb73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2116f8fb35debf41b16dfed3e5472b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":722648807
+        }
+    ],
     "wof:id":722648807,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492066672,
     "wof:name":"Hooper's Quality Cars",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

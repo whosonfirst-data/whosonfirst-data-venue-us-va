@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.578277,38.832888,-78.578277,38.832888",
     "geom:latitude":38.832888,
     "geom:longitude":-78.578277,
@@ -32,17 +33,30 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LCuNR5LvoCiwnZ1SkiYIv_38.832888_-78.578277@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901934,
-    "wof:geomhash":"5d2dd6d9a07b173721085e7aab772116",
-    "wof:hierarchy":[],
+    "wof:geomhash":"914e2f47046321cb858bf1a1a93ed5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":723449453
+        }
+    ],
     "wof:id":723449453,
-    "wof:lastmodified":1472652286,
+    "wof:lastmodified":1492060103,
     "wof:name":"WOTC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

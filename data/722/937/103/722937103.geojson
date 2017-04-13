@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.139862,38.856139,-77.139862,38.856139",
     "geom:latitude":38.856139,
     "geom:longitude":-77.139862,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VPfss5r22CkRJSQj50n5t_38.856139_-77.139862@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891572,
-    "wof:geomhash":"c7096c8adb13f95d59c086db16054be1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab1a66e0a1d7c76150c7fdbfe2b3de18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":722937103
+        }
+    ],
     "wof:id":722937103,
-    "wof:lastmodified":1472652171,
+    "wof:lastmodified":1492067096,
     "wof:name":"Valdemar Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

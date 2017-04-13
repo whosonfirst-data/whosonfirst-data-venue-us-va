@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764078,37.354179,-76.764078,37.354179",
     "geom:latitude":37.354179,
     "geom:longitude":-76.764078,
@@ -31,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59CsP1m5W7rxRtz3nj7I0W_37.354179_-76.764078@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461905684,
     "wof:geomhash":"a1e95b91909406ecb9fcb5453529e230",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739353281
+        }
+    ],
     "wof:id":739353281,
-    "wof:lastmodified":1472651337,
+    "wof:lastmodified":1492030560,
     "wof:name":"Marias Steak & Pasta",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

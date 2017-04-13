@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.482705,37.489143,-77.482705,37.489143",
     "geom:latitude":37.489143,
     "geom:longitude":-77.482705,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dki0RzgUwSxmbZ19t244o_37.489143_-77.482705@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892486,
-    "wof:geomhash":"a057bacb548e513fda79856c5360501c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d1bb30474cd3539843fe26b40050ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":722981749
+        }
+    ],
     "wof:id":722981749,
-    "wof:lastmodified":1472652360,
+    "wof:lastmodified":1492074110,
     "wof:name":"Palms Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

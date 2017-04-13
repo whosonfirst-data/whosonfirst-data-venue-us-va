@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.56133,38.871946,-78.56133,38.871946",
     "geom:latitude":38.871946,
     "geom:longitude":-78.56133,
@@ -31,7 +32,12 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RbNNMFsy328jc8NCP5PM0_38.871946_-78.561330@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904732,
     "wof:geomhash":"18af79825ca330ba56603dbc3d02c04c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739307855
+        }
+    ],
     "wof:id":739307855,
-    "wof:lastmodified":1472651236,
+    "wof:lastmodified":1492029999,
     "wof:name":"Hair Pin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

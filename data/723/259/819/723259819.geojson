@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.527162,38.370779,-77.527162,38.370779",
     "geom:latitude":38.370779,
     "geom:longitude":-77.527162,
@@ -36,17 +37,26 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xBg0NhSFyo7e46tuxX7l9_38.370779_-77.527162@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898302,
-    "wof:geomhash":"a1400ad98bdd92bc3f87bad9ef07375e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20752ae43bc2155a18ba71acb264ea1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":723259819
+        }
+    ],
     "wof:id":723259819,
-    "wof:lastmodified":1472651712,
+    "wof:lastmodified":1492051476,
     "wof:name":"Nature's Best Farm Market",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

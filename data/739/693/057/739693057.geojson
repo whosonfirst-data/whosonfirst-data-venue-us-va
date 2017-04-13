@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448747,38.311251,-77.448747,38.311251",
     "geom:latitude":38.311251,
     "geom:longitude":-77.448747,
@@ -32,7 +33,10 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lJwf1miMbG0ts5yTjDd6M_38.311251_-77.448747@1303262546"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912402,
     "wof:geomhash":"8567b8675fcae31be1d1667444925c91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739693057
+        }
+    ],
     "wof:id":739693057,
-    "wof:lastmodified":1472652162,
+    "wof:lastmodified":1492031409,
     "wof:name":"Legacy Services",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

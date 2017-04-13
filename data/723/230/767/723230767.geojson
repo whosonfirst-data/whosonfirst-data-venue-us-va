@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.549239,39.10717,-77.549239,39.10717",
     "geom:latitude":39.10717,
     "geom:longitude":-77.549239,
@@ -32,17 +33,32 @@
         "banking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LFGIp49uM8jKo2GI4Qc6x_39.107170_-77.549239@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897721,
-    "wof:geomhash":"7d0ce63fc62915fa4f611bf579b3f6fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"794fbe98862f6d1be55c69e208a65d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723230767
+        }
+    ],
     "wof:id":723230767,
-    "wof:lastmodified":1472651650,
+    "wof:lastmodified":1492053117,
     "wof:name":"Leesburg Checks Cashed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.245356,38.958405,-77.245356,38.958405",
     "geom:latitude":38.958405,
     "geom:longitude":-77.245356,
@@ -37,17 +38,32 @@
         "covering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HOlNNxIWL521OdIflOYjg_38.958405_-77.245356@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903826,
-    "wof:geomhash":"b68ebf1b3b026652cdb944089c74951f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a71f89e77c2da776502909ae61cba295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":739265527
+        }
+    ],
     "wof:id":739265527,
-    "wof:lastmodified":1472651132,
+    "wof:lastmodified":1492042020,
     "wof:name":"Snyder's Shades & Shutters Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

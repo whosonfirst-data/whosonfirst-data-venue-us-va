@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.499299,39.038307,-77.499299,39.038307",
     "geom:latitude":39.038307,
     "geom:longitude":-77.499299,
@@ -31,17 +32,32 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11dU5YeVf6XjYyABCANRRI_39.038307_-77.499299@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895906,
-    "wof:geomhash":"003d7ece5693c725f812fc1e4fd276ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1df156bd225866d37560852c4711b024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723140275
+        }
+    ],
     "wof:id":723140275,
-    "wof:lastmodified":1472651390,
+    "wof:lastmodified":1492058048,
     "wof:name":"Science Tech Telecommuncation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

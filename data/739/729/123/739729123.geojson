@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.641567,36.976779,-76.641567,36.976779",
     "geom:latitude":36.976779,
     "geom:longitude":-76.641567,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.exxon.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tKS8ex8EjorP7twOGqALw_36.976779_-76.641567@1303262551"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461913173,
     "wof:geomhash":"5220e91c501925f9ffab4606c4c5d8ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739729123
+        }
+    ],
     "wof:id":739729123,
-    "wof:lastmodified":1472652216,
+    "wof:lastmodified":1492031643,
     "wof:name":"Tom & Jerry's Exxon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

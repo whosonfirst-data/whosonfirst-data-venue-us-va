@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.566948,38.759515,-77.566948,38.759515",
     "geom:latitude":38.759515,
     "geom:longitude":-77.566948,
@@ -38,17 +39,32 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bB4R4j0T8th6dC0WOMHE6_38.759515_-77.566948@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883958,
-    "wof:geomhash":"27c436b729e0548afbea1b12560344cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ad973b238db3124403d0bfdf21662f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":722547925
+        }
+    ],
     "wof:id":722547925,
-    "wof:lastmodified":1472651110,
+    "wof:lastmodified":1492062536,
     "wof:name":"Victory Lakes Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

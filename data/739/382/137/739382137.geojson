@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.784616,37.585245,-75.784616,37.585245",
     "geom:latitude":37.585245,
     "geom:longitude":-75.784616,
@@ -31,7 +32,10 @@
         "woodworker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ia7rSKkfa9hdAOn6krOvk_37.585245_-75.784616@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906235,
     "wof:geomhash":"976269894fd18a6329acd09c4de7936e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546535,
+            "venue_id":739382137
+        }
+    ],
     "wof:id":739382137,
-    "wof:lastmodified":1472651344,
+    "wof:lastmodified":1492030656,
     "wof:name":"Baines Custom Cabinets",
     "wof:parent_id":420546535,
     "wof:placetype":"venue",

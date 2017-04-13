@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75848,37.250374,-76.75848,37.250374",
     "geom:latitude":37.250374,
     "geom:longitude":-76.75848,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jNhqyGdsMTj3w6mVixrkJ_37.250374_-76.758480@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898934,
-    "wof:geomhash":"dbf1c156f91b59f7ec164db8b14e4254",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2939f8ce42f9d89bd27880a439e9c3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546913,
+            "venue_id":723293223
+        }
+    ],
     "wof:id":723293223,
-    "wof:lastmodified":1472651758,
+    "wof:lastmodified":1492055675,
     "wof:name":"General Electric",
     "wof:parent_id":420546913,
     "wof:placetype":"venue",

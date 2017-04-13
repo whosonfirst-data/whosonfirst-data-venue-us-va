@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.225189,36.749145,-76.225189,36.749145",
     "geom:latitude":36.749145,
     "geom:longitude":-76.225189,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qttPEndYMMqzVsaUnXxCz_36.749145_-76.225189@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898461,
-    "wof:geomhash":"11e3e454cd0a51f4dc320a7f11e8c9aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c25bdba9b070894ac0ef3949bc6fc8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":723268059
+        }
+    ],
     "wof:id":723268059,
-    "wof:lastmodified":1472651716,
+    "wof:lastmodified":1492055394,
     "wof:name":"AAOM Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

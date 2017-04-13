@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.929522,36.680574,-76.929522,36.680574",
     "geom:latitude":36.680574,
     "geom:longitude":-76.929522,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728635,
+        102084891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iJMtby2UuPgqZn41u8uwZ_36.680574_-76.929522@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901161,
-    "wof:geomhash":"3e2609a655522f767ef0bf94afed1f8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae6995d2ce7330fc1136ad8575243167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084891,
+            "locality_id":101728635,
+            "region_id":85688747,
+            "venue_id":723409451
+        }
+    ],
     "wof:id":723409451,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492058884,
     "wof:name":"Franklin Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

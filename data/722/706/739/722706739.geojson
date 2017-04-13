@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.501933,38.773468,-77.501933,38.773468",
     "geom:latitude":38.773468,
     "geom:longitude":-77.501933,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kvcCK6DgZRLfaGsWj4Fb7_38.773468_-77.501933@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887090,
-    "wof:geomhash":"a7a155f86cdaf693a0e242cebc3d5a1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74aa548da3450814b6e54e2513f7c6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":722706739
+        }
+    ],
     "wof:id":722706739,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492074331,
     "wof:name":"Classic Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

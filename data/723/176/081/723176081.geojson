@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.465982,37.603989,-77.465982,37.603989",
     "geom:latitude":37.603989,
     "geom:longitude":-77.465982,
@@ -28,17 +29,32 @@
     "sg:postcode":"23228",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729369,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AtJEGloMGglB7vogKgu8O_37.603989_-77.465982@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896607,
-    "wof:geomhash":"b66dd0b614f46ae26016e8ece492ef79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0356643dbb42a05aef5e8b0cf600bb81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729369,
+            "region_id":85688747,
+            "venue_id":723176081
+        }
+    ],
     "wof:id":723176081,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492048697,
     "wof:name":"Plisp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

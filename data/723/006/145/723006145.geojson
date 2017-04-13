@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410926,38.462129,-77.410926,38.462129",
     "geom:latitude":38.462129,
     "geom:longitude":-77.410926,
@@ -33,17 +34,26 @@
         "marine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j3xmQ6PZX2mH85GTjrltC_38.462129_-77.410926@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893066,
-    "wof:geomhash":"bf85e1c33df4b76cdc37b82d4b2b70de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11e2cf359e91d87966e324446f626ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":723006145
+        }
+    ],
     "wof:id":723006145,
-    "wof:lastmodified":1472651075,
+    "wof:lastmodified":1492052514,
     "wof:name":"William R Hayes",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635033,38.81398,-77.635033,38.81398",
     "geom:latitude":38.81398,
     "geom:longitude":-77.635033,
@@ -51,7 +52,13 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MiLWzHZPtq5xkh718NJW2_38.813980_-77.635033@1303262496"
@@ -59,9 +66,18 @@
     "wof:country":"US",
     "wof:created":1461910682,
     "wof:geomhash":"164998a9740e468951114d1ca588abd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613855
+        }
+    ],
     "wof:id":739613855,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492032432,
     "wof:name":"Allstate Insurance Company - Linda Marlow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

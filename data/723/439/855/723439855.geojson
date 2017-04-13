@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.478306,38.444494,-77.478306,38.444494",
     "geom:latitude":38.444494,
     "geom:longitude":-77.478306,
@@ -32,17 +33,26 @@
         "background"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZwKjdapHki0MiWzsyJafm_38.444494_-77.478306@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901759,
-    "wof:geomhash":"5b2e60594b0768168ac1d705254b7f7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70377f8d745cc84afbcc11faa69612cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":723439855
+        }
+    ],
     "wof:id":723439855,
-    "wof:lastmodified":1472652262,
+    "wof:lastmodified":1492061460,
     "wof:name":"William T Guyton",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

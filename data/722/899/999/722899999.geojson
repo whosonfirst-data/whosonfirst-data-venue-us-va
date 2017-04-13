@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.521387,38.7791,-77.521387,38.7791",
     "geom:latitude":38.7791,
     "geom:longitude":-77.521387,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bMldZOQDZX1L89nHkthDX_38.779100_-77.521387@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890789,
-    "wof:geomhash":"da11d46e5741e2346ce44f5c466dc5f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c36360e67b882046d1b7dd7da88744bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":722899999
+        }
+    ],
     "wof:id":722899999,
-    "wof:lastmodified":1472652088,
+    "wof:lastmodified":1492062440,
     "wof:name":"Web Site Gear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

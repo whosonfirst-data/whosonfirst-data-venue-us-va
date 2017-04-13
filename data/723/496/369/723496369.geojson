@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.966694,37.327664,-79.966694,37.327664",
     "geom:latitude":37.327664,
     "geom:longitude":-79.966694,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XglKPqpYjHBEA2MuV6eyZ_37.327664_-79.966694@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902872,
-    "wof:geomhash":"cf96245ff3fb6f8d197a6c47bdbc0a30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64756a55d45f00d1c3fedb1dc5639811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723496369
+        }
+    ],
     "wof:id":723496369,
-    "wof:lastmodified":1472652338,
+    "wof:lastmodified":1492051596,
     "wof:name":"Blue Ridge Memorial Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

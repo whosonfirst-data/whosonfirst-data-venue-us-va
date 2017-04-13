@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.363816,38.231373,-78.363816,38.231373",
     "geom:latitude":38.231373,
     "geom:longitude":-78.363816,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729591,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0USdf5G14qY2OekN9NS17k_38.231373_-78.363816@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890286,
-    "wof:geomhash":"81051f9d00fc781c24ce9995648cfc3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b941b61f0afed3e5d27558b02cd0bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101729591,
+            "region_id":85688747,
+            "venue_id":722874547
+        }
+    ],
     "wof:id":722874547,
-    "wof:lastmodified":1472652014,
+    "wof:lastmodified":1492070022,
     "wof:name":"Millers Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

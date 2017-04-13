@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.655782,37.448937,-76.655782,37.448937",
     "geom:latitude":37.448937,
     "geom:longitude":-76.655782,
@@ -28,7 +29,12 @@
     "sg:postcode":"23061",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hIyNYO0ocgx9AdV53EAHP_37.448937_-76.655782@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904240,
     "wof:geomhash":"c814866a273f4e264a942e84c122c9dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":739284139
+        }
+    ],
     "wof:id":739284139,
-    "wof:lastmodified":1472651153,
+    "wof:lastmodified":1492030619,
     "wof:name":"Boothes Son Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

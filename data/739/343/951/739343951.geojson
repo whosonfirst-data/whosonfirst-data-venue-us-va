@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.328531,37.694783,-77.328531,37.694783",
     "geom:latitude":37.694783,
     "geom:longitude":-77.328531,
@@ -28,7 +29,12 @@
     "sg:postcode":"23116",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KTpYa1hDIGb4UntbHOcLG_37.694783_-77.328531@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905463,
     "wof:geomhash":"330f568d0b00419f0d2a177d039a7275",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739343951
+        }
+    ],
     "wof:id":739343951,
-    "wof:lastmodified":1472651309,
+    "wof:lastmodified":1492032174,
     "wof:name":"C M Coiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.287989,38.875568,-77.287989,38.875568",
     "geom:latitude":38.875568,
     "geom:longitude":-77.287989,
@@ -38,17 +39,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729779,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q4veoZdzo85EM8KzWDtoz_38.875568_-77.287989@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902759,
-    "wof:geomhash":"455f55fa46d9e18040700e208de45eea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"582d15c659a4ebd71ea3dc1ead06d9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729779,
+            "region_id":85688747,
+            "venue_id":723490997
+        }
+    ],
     "wof:id":723490997,
-    "wof:lastmodified":1472652360,
+    "wof:lastmodified":1492055784,
     "wof:name":"Oak Creek Townhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

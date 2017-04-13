@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.868317,38.426443,-78.868317,38.426443",
     "geom:latitude":38.426443,
     "geom:longitude":-78.868317,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eZBE6s6MqOCKUdMEGFvi4_38.426443_-78.868317@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893133,
-    "wof:geomhash":"97c484f78c9b3664d061453f2263b398",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57afefc3fa75e5a1669d7efc86fe1355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723009503
+        }
+    ],
     "wof:id":723009503,
-    "wof:lastmodified":1472651086,
+    "wof:lastmodified":1492052099,
     "wof:name":"Biltwell Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

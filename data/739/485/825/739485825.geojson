@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.442715,38.944698,-78.442715,38.944698",
     "geom:latitude":38.944698,
     "geom:longitude":-78.442715,
@@ -28,7 +29,13 @@
     "sg:postcode":"22660",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728885,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rYD42zpk6f7pBjEHIfZzy_38.944698_-78.442715@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908175,
     "wof:geomhash":"0c6b43476a503e2afe75097d4e81a043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728885,
+            "region_id":85688747,
+            "venue_id":739485825
+        }
+    ],
     "wof:id":739485825,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492030693,
     "wof:name":"Handy Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.444496,38.88276,-77.444496,38.88276",
     "geom:latitude":38.88276,
     "geom:longitude":-77.444496,
@@ -28,7 +29,13 @@
     "sg:postcode":"20151",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n5OuhqVbsBZR4IhhpLt7y_38.882760_-77.444496@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905452,
     "wof:geomhash":"5ae793f5846c5fb689ad6c2330de3f93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739343433
+        }
+    ],
     "wof:id":739343433,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492032158,
     "wof:name":"Mera Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

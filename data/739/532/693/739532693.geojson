@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449036,38.772592,-77.449036,38.772592",
     "geom:latitude":38.772592,
     "geom:longitude":-77.449036,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N33j6Y5FvVR20eVDY07Gi_38.772592_-77.449036@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909022,
-    "wof:geomhash":"c3ead025f6b1b0338f44dadb15579b8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7c0f7f58fd86f970dffe48b1bf77b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739532693
+        }
+    ],
     "wof:id":739532693,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492041173,
     "wof:name":"Glen At White Pines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

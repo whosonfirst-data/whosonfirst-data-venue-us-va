@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.383459,39.026001,-77.383459,39.026001",
     "geom:latitude":39.026001,
     "geom:longitude":-77.383459,
@@ -28,7 +29,13 @@
     "sg:postcode":"20164",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06WONd5XjQvbLGYmMtbA0Q_39.026001_-77.383459@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907956,
     "wof:geomhash":"f997416973c1da7d9655885f425d1afa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739473703
+        }
+    ],
     "wof:id":739473703,
-    "wof:lastmodified":1472651634,
+    "wof:lastmodified":1492032905,
     "wof:name":"Robert Cartee Furn Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

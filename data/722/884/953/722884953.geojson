@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.910161,38.403605,-78.910161,38.403605",
     "geom:latitude":38.403605,
     "geom:longitude":-78.910161,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.super8.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TvEBoAiPP1EcQObkuzJ52_38.403605_-78.910161@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890483,
-    "wof:geomhash":"871ce36ecd241cfa939d8cf04642c878",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25046535c419caa6b6cd909cba84ea30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722884953
+        }
+    ],
     "wof:id":722884953,
-    "wof:lastmodified":1472652080,
+    "wof:lastmodified":1492069714,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.621869,37.431187,-77.621869,37.431187",
     "geom:latitude":37.431187,
     "geom:longitude":-77.621869,
@@ -34,17 +35,30 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rDBR5SQxpza5A0caYJuQa_37.431187_-77.621869@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910121,
-    "wof:geomhash":"e653033744bd365af6ff09ddc5d06ca3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29c3e20795c89353941a32523e92332b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739585875
+        }
+    ],
     "wof:id":739585875,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492046364,
     "wof:name":"Penn Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

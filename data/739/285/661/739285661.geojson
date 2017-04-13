@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764642,37.225343,-76.764642,37.225343",
     "geom:latitude":37.225343,
     "geom:longitude":-76.764642,
@@ -32,7 +33,10 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66aWwo5J7E6GqJDhOmztwR_37.225343_-76.764642@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904268,
     "wof:geomhash":"19e6b74ccfcd13969073b4b07bab3d6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546877,
+            "venue_id":739285661
+        }
+    ],
     "wof:id":739285661,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492029714,
     "wof:name":"J D B Inc",
     "wof:parent_id":420546877,
     "wof:placetype":"venue",

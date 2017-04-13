@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.135412,38.8509,-77.135412,38.8509",
     "geom:latitude":38.8509,
     "geom:longitude":-77.135412,
@@ -38,7 +39,13 @@
     ],
     "sg:website":"www.americaglasscenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43v4NE8YFgM1p2s6Hg9E5v_38.850900_-77.135412@1303262538"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1461910994,
     "wof:geomhash":"ed356e76f03c963dd114d69c76914d2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739628175
+        }
+    ],
     "wof:id":739628175,
-    "wof:lastmodified":1472651995,
+    "wof:lastmodified":1492030484,
     "wof:name":"America Glass Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

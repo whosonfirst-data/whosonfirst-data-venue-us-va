@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.074874,37.964267,-78.074874,37.964267",
     "geom:latitude":37.964267,
     "geom:longitude":-78.074874,
@@ -28,7 +29,12 @@
     "sg:postcode":"23093",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G0z9bZXB99XW4HAUrZCE1_37.964267_-78.074874@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908478,
     "wof:geomhash":"136819b5fe8ac1f68195a9fa88069c22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739502745
+        }
+    ],
     "wof:id":739502745,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492029602,
     "wof:name":"Kents Store Corner Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

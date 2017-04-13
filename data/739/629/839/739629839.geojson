@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.23514,38.668294,-77.23514,38.668294",
     "geom:latitude":38.668294,
     "geom:longitude":-77.23514,
@@ -28,7 +29,13 @@
     "sg:postcode":"22079",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729833,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GhNMiS9IOMGzyEcFRY6PK_38.668294_-77.235140@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461911024,
     "wof:geomhash":"427231978adf56f56a2fe8e16683161c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729833,
+            "region_id":85688747,
+            "venue_id":739629839
+        }
+    ],
     "wof:id":739629839,
-    "wof:lastmodified":1472652017,
+    "wof:lastmodified":1492033286,
     "wof:name":"Captain John S Beach Marina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

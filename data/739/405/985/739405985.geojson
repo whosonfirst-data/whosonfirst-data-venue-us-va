@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.831832,37.403829,-76.831832,37.403829",
     "geom:latitude":37.403829,
     "geom:longitude":-76.831832,
@@ -31,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546757
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g1CAncWEMIl76xAC1WT37_37.403829_-76.831832@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906698,
     "wof:geomhash":"bc8392ca0eade87f9be834c7ea2ee9c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546757,
+            "venue_id":739405985
+        }
+    ],
     "wof:id":739405985,
-    "wof:lastmodified":1472651478,
+    "wof:lastmodified":1492031560,
     "wof:name":"Stonehouse Community Church",
     "wof:parent_id":420546757,
     "wof:placetype":"venue",

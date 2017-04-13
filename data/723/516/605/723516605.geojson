@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.3933,37.229841,-77.3933,37.229841",
     "geom:latitude":37.229841,
     "geom:longitude":-77.3933,
@@ -33,17 +34,32 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YXq87XGB3abFplR29jRt7_37.229841_-77.393300@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903365,
-    "wof:geomhash":"897e231251010700bf4d20834d6f913f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91142f45fb974f3d3ca3664215b4980c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723516605
+        }
+    ],
     "wof:id":723516605,
-    "wof:lastmodified":1472652371,
+    "wof:lastmodified":1492057383,
     "wof:name":"Windshields Installed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

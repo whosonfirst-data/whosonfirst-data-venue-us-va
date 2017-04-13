@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.56377,38.818758,-78.56377,38.818758",
     "geom:latitude":38.818758,
     "geom:longitude":-78.56377,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728873,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HCgx0J9Uf4PUyM5wXne45_38.818758_-78.563770@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885433,
-    "wof:geomhash":"8540583d3047bb8bfca2613d456c9439",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77840f9b123b73c99cb9edee858e58db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728873,
+            "region_id":85688747,
+            "venue_id":722622331
+        }
+    ],
     "wof:id":722622331,
-    "wof:lastmodified":1472651397,
+    "wof:lastmodified":1492069783,
     "wof:name":"Wesley Chapel Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

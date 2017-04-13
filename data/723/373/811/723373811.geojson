@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.906029,37.412873,-76.906029,37.412873",
     "geom:latitude":37.412873,
     "geom:longitude":-76.906029,
@@ -32,19 +33,28 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BRU1phj7qxias1nPwPqbg_37.412873_-76.906029@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900453,
-    "wof:geomhash":"9ef52f76c60ccbedbba14d8e2537255b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64ae924b06dc652bddce907c29a0838a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723373811
+        }
+    ],
     "wof:id":723373811,
-    "wof:lastmodified":1472652109,
+    "wof:lastmodified":1492061762,
     "wof:name":"Hale Lumber & Wood Products Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

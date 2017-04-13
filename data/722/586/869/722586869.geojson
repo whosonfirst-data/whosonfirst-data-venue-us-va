@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.188038,38.948046,-77.188038,38.948046",
     "geom:latitude":38.948046,
     "geom:longitude":-77.188038,
@@ -40,8 +41,8 @@
         85633793,
         101729767,
         102084863,
-        85855811,
-        85868635
+        85868635,
+        85855811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461884735,
-    "wof:geomhash":"a755c702281002d02ac275ad005f9e37",
+    "wof:geomhash":"99acddaf83c582585ba3b05d4403e436",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084863,
-            "locality_id":101729767,
-            "neighbourhood_id":85855811,
-            "region_id":85688747,
-            "venue_id":722586869
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,12 +60,21 @@
             "neighbourhood_id":85868635,
             "region_id":85688747,
             "venue_id":722586869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85855811,
+            "region_id":85688747,
+            "venue_id":722586869
         }
     ],
     "wof:id":722586869,
-    "wof:lastmodified":1472651228,
+    "wof:lastmodified":1492065232,
     "wof:name":"Potomac Trail Council",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

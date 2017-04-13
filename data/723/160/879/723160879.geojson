@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.405092,38.988301,-77.405092,38.988301",
     "geom:latitude":38.988301,
     "geom:longitude":-77.405092,
@@ -31,17 +32,32 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D921ehBhMXCBVkNCyySHj_38.988301_-77.405092@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896304,
-    "wof:geomhash":"6f136f84579faca74b1d15ba389d47d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c11244faf59d7728c3270d60367152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":723160879
+        }
+    ],
     "wof:id":723160879,
-    "wof:lastmodified":1472651489,
+    "wof:lastmodified":1492061725,
     "wof:name":"Money Mailer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

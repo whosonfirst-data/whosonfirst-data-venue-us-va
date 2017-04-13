@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942349,37.270612,-79.942349,37.270612",
     "geom:latitude":37.270612,
     "geom:longitude":-79.942349,
@@ -28,17 +29,32 @@
     "sg:postcode":"24011",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WHQU38SWzEG8nnQ4ofZA0_37.270612_-79.942349@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894429,
-    "wof:geomhash":"e8cf6a8e88b5c65be278ca08998d9d80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac20f10e18ab9828637337ee224dd690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723068835
+        }
+    ],
     "wof:id":723068835,
-    "wof:lastmodified":1472651247,
+    "wof:lastmodified":1492057200,
     "wof:name":"New Pipe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

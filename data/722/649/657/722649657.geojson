@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.387912,36.667779,-78.387912,36.667779",
     "geom:latitude":36.667779,
     "geom:longitude":-78.387912,
@@ -31,17 +32,32 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729011,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RotJmHoCbIuz9EF6qCbj8_36.667779_-78.387912@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886013,
-    "wof:geomhash":"f411539143989f7561175cd872fea65c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b51818fb57dca8077df1b4bfba8a5e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729011,
+            "region_id":85688747,
+            "venue_id":722649657
+        }
+    ],
     "wof:id":722649657,
-    "wof:lastmodified":1472651471,
+    "wof:lastmodified":1492064139,
     "wof:name":"Southside Health District Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

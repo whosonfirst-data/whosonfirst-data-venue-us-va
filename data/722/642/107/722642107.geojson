@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.405093,38.994883,-77.405093,38.994883",
     "geom:latitude":38.994883,
     "geom:longitude":-77.405093,
@@ -32,19 +33,36 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951,
+        420546947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1St4Oh8FxoqUYiOoNbRc38_38.994883_-77.405093@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885880,
-    "wof:geomhash":"14ae1a01cf32d07ce2d90a8ddeafe13f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02254f32dc1b2a703bf953d2862a6eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "neighbourhood_id":420546947,
+            "region_id":85688747,
+            "venue_id":722642107
+        }
+    ],
     "wof:id":722642107,
-    "wof:lastmodified":1472651434,
+    "wof:lastmodified":1492073872,
     "wof:name":"R P Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.135392,38.273839,-77.135392,38.273839",
     "geom:latitude":38.273839,
     "geom:longitude":-77.135392,
@@ -34,7 +35,12 @@
         "wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fq5vlHFD1BcORWlKAoiRD_38.273839_-77.135392@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461905016,
     "wof:geomhash":"590f1771d22755d5c0c67926598c1b14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":739321993
+        }
+    ],
     "wof:id":739321993,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492030707,
     "wof:name":"King Georges True Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

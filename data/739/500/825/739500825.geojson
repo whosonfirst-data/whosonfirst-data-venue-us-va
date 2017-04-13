@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.575726,38.337803,-77.575726,38.337803",
     "geom:latitude":38.337803,
     "geom:longitude":-77.575726,
@@ -28,19 +29,28 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hxQDGWYiuVTixzlbp4eSQ_38.337803_-77.575726@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908447,
-    "wof:geomhash":"93a72d27bf57ccb8915ac00ba032e912",
-    "wof:hierarchy":[],
+    "wof:geomhash":"694ef8aff8d1d12eb187a345ae8a3167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739500825
+        }
+    ],
     "wof:id":739500825,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492044150,
     "wof:name":"A Touch of Glass Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

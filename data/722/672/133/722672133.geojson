@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.078013,38.925373,-78.078013,38.925373",
     "geom:latitude":38.925373,
     "geom:longitude":-78.078013,
@@ -34,17 +35,32 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729325,
+        102085975
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bkC8gQsnRoWJDMJ5yfr8r_38.925373_-78.078013@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886435,
-    "wof:geomhash":"197a21f8b3a3d4b346b2866366eb697f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e87bce8afe22032caa9f0934cce9cb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085975,
+            "locality_id":101729325,
+            "region_id":85688747,
+            "venue_id":722672133
+        }
+    ],
     "wof:id":722672133,
-    "wof:lastmodified":1472651499,
+    "wof:lastmodified":1492072020,
     "wof:name":"David Russell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

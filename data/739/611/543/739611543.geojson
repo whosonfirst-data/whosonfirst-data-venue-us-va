@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412099,39.007126,-77.412099,39.007126",
     "geom:latitude":39.007126,
     "geom:longitude":-77.412099,
@@ -50,7 +51,13 @@
         "oils-petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GZvd0NHIaA3i1sPWLeXF9_39.007126_-77.412099@1303262496"
@@ -58,9 +65,18 @@
     "wof:country":"US",
     "wof:created":1461910630,
     "wof:geomhash":"da9a478a0f7f17f24009b01da6431d61",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739611543
+        }
+    ],
     "wof:id":739611543,
-    "wof:lastmodified":1472651971,
+    "wof:lastmodified":1492029439,
     "wof:name":"U. S. Petroleum, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

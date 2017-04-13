@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.407172,37.230244,-77.407172,37.230244",
     "geom:latitude":37.230244,
     "geom:longitude":-77.407172,
@@ -28,7 +29,13 @@
     "sg:postcode":"23803",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Vvh7uywK1UBQSj2bCEXmY_37.230244_-77.407172@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908529,
     "wof:geomhash":"5761f02d71f4e29ee5f2e181b9588a89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":739505603
+        }
+    ],
     "wof:id":739505603,
-    "wof:lastmodified":1472651800,
+    "wof:lastmodified":1492032247,
     "wof:name":"Bumper To Bumper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

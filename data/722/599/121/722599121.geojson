@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.178725,39.193722,-78.178725,39.193722",
     "geom:latitude":39.193722,
     "geom:longitude":-78.178725,
@@ -33,17 +34,32 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wg15KRSy3AIHFu4pNpSZi_39.193722_-78.178725@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884954,
-    "wof:geomhash":"acc9bc2f5705ced70fffe7ca4cd02bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c71cda93d547f715ae30ac45b077ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722599121
+        }
+    ],
     "wof:id":722599121,
-    "wof:lastmodified":1472651258,
+    "wof:lastmodified":1492064280,
     "wof:name":"Decision Dynamics Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

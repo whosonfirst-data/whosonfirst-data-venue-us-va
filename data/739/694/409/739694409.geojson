@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.732721,38.304978,-77.732721,38.304978",
     "geom:latitude":38.304978,
     "geom:longitude":-77.732721,
@@ -32,7 +33,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729173,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KYvYF9FwoAwr1sTlzXnx2_38.304978_-77.732721@1303262547"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461912426,
     "wof:geomhash":"029792387b3feed025a72ed8b407315d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "locality_id":101729173,
+            "region_id":85688747,
+            "venue_id":739694409
+        }
+    ],
     "wof:id":739694409,
-    "wof:lastmodified":1472652174,
+    "wof:lastmodified":1492030251,
     "wof:name":"Sharon A Watkin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

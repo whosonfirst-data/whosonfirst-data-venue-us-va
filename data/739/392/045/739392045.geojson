@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.539171,37.23507,-79.539171,37.23507",
     "geom:latitude":37.23507,
     "geom:longitude":-79.539171,
@@ -31,7 +32,12 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZyhvISMaTeXUtLIF1NNzd_37.235070_-79.539171@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906432,
     "wof:geomhash":"9d316c217b9a325848becb1cadea8ab4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739392045
+        }
+    ],
     "wof:id":739392045,
-    "wof:lastmodified":1472651392,
+    "wof:lastmodified":1492031612,
     "wof:name":"Hero Band",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

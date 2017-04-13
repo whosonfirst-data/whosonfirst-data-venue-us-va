@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.18792,37.372771,-79.18792,37.372771",
     "geom:latitude":37.372771,
     "geom:longitude":-79.18792,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VtJXHLFJNvaE1FUeUalRL_37.372771_-79.187920@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901040,
-    "wof:geomhash":"c7fd88caae2312f8ba0532b3b2c496ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d20c9f2501dd7a9ac4c2051a610fac92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":723403405
+        }
+    ],
     "wof:id":723403405,
-    "wof:lastmodified":1472652147,
+    "wof:lastmodified":1492053331,
     "wof:name":"Jackson Designer Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

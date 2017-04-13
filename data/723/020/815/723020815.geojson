@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.458876,37.087427,-76.458876,37.087427",
     "geom:latitude":37.087427,
     "geom:longitude":-76.458876,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qMbeB83vm0o3TDIWRYEiS_37.087427_-76.458876@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893390,
-    "wof:geomhash":"d0c4f19aee28db022f93381b86d0c922",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d59dae8a25711174ae071370a64cd064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723020815
+        }
+    ],
     "wof:id":723020815,
-    "wof:lastmodified":1472651125,
+    "wof:lastmodified":1492048507,
     "wof:name":"Riverside Business Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.149558,39.223123,-78.149558,39.223123",
     "geom:latitude":39.223123,
     "geom:longitude":-78.149558,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.batterymat.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ndnvm81BBe54TDolJ4tBC_39.223123_-78.149558@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904036,
     "wof:geomhash":"fe7912060a5944a5a6f64e5f7a6f3087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739275141
+        }
+    ],
     "wof:id":739275141,
-    "wof:lastmodified":1472651139,
+    "wof:lastmodified":1492031063,
     "wof:name":"Battery Mat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

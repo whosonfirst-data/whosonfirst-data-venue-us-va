@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.730496,36.758159,-80.730496,36.758159",
     "geom:latitude":36.758159,
     "geom:longitude":-80.730496,
@@ -32,17 +33,32 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XGtzAz7g4mjKUZA6jETvf_36.758159_-80.730496@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909016,
-    "wof:geomhash":"a8f2766d8f313b8c6a35a2a575b4aacc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed139b2a2a5d57c7e20a63b0f8f507f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":739532311
+        }
+    ],
     "wof:id":739532311,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492041171,
     "wof:name":"Transportation Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

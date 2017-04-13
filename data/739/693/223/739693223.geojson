@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506701,38.373961,-77.506701,38.373961",
     "geom:latitude":38.373961,
     "geom:longitude":-77.506701,
@@ -34,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O0SmiN109xlWXOCumGaM8_38.373961_-77.506701@1303262546"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461912404,
     "wof:geomhash":"6b9545dc389b6589c220b283764fc4ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":739693223
+        }
+    ],
     "wof:id":739693223,
-    "wof:lastmodified":1472652172,
+    "wof:lastmodified":1492031406,
     "wof:name":"Ortiz Roofing",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

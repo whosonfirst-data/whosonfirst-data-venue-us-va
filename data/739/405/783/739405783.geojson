@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500762,38.231781,-77.500762,38.231781",
     "geom:latitude":38.231781,
     "geom:longitude":-77.500762,
@@ -31,7 +32,12 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a1nw7jTwKXiO6jF0OYd8F_38.231781_-77.500762@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906694,
     "wof:geomhash":"1ebaea269bccb4f20c08c63160138b66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739405783
+        }
+    ],
     "wof:id":739405783,
-    "wof:lastmodified":1472651478,
+    "wof:lastmodified":1492031571,
     "wof:name":"Bruce K Billman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

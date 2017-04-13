@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.447885,38.791838,-77.447885,38.791838",
     "geom:latitude":38.791838,
     "geom:longitude":-77.447885,
@@ -33,17 +34,32 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18OtLGIBxK8x0oDwmmp6VE_38.791838_-77.447885@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889305,
-    "wof:geomhash":"7a572c3c5e787fe70edf6b99f5acd34f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"015f1042183c1b3901122079ffe84823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":722822143
+        }
+    ],
     "wof:id":722822143,
-    "wof:lastmodified":1472651882,
+    "wof:lastmodified":1492062783,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

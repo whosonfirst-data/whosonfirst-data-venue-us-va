@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519112,38.282112,-77.519112,38.282112",
     "geom:latitude":38.282112,
     "geom:longitude":-77.519112,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ibG5bseS5coSsVvZJE0MN_38.282112_-77.519112@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905692,
     "wof:geomhash":"75cb6d5f8c9608b6d64d82484d024b37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739353779
+        }
+    ],
     "wof:id":739353779,
-    "wof:lastmodified":1472651355,
+    "wof:lastmodified":1492030561,
     "wof:name":"R Jones Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

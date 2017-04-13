@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524286,37.604823,-77.524286,37.604823",
     "geom:latitude":37.604823,
     "geom:longitude":-77.524286,
@@ -33,17 +34,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55V5TdhJRk8INluujH6iWU_37.604823_-77.524286@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884335,
-    "wof:geomhash":"e80c9a7b8af3c021e55999f8efff1bf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1070488294398ad23e1cf7f78df6123a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722566157
+        }
+    ],
     "wof:id":722566157,
-    "wof:lastmodified":1472651130,
+    "wof:lastmodified":1492071355,
     "wof:name":"Columbia HCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

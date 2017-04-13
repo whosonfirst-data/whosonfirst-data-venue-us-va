@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.762733,37.314444,-76.762733,37.314444",
     "geom:latitude":37.314444,
     "geom:longitude":-76.762733,
@@ -32,19 +33,34 @@
     ],
     "sg:website":"www.wjcc.k12.va.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546847,
+        420546887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_085OtK0kKbWF27KLP2LtqC_37.314444_-76.762733@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884916,
-    "wof:geomhash":"3b0c122d66c437b083f7e8d27671a8f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c990e4dc3c9d299867b2ae1886654a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546847,
+            "venue_id":722596885
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546887,
+            "venue_id":722596885
+        }
+    ],
     "wof:id":722596885,
-    "wof:lastmodified":1472651244,
+    "wof:lastmodified":1492070630,
     "wof:name":"Lafayette High School",
-    "wof:parent_id":420546847,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

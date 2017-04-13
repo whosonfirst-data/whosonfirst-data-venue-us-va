@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.367895,37.563344,-77.367895,37.563344",
     "geom:latitude":37.563344,
     "geom:longitude":-77.367895,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tf0AFfE9FHUV94LmUiuEz_37.563344_-77.367895@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893525,
-    "wof:geomhash":"6ffc20c4c995919192c0a988b3749ff3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29e9857c6d579170bd020c0d46508f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "region_id":85688747,
+            "venue_id":723026047
+        }
+    ],
     "wof:id":723026047,
-    "wof:lastmodified":1472651136,
+    "wof:lastmodified":1492048079,
     "wof:name":"Holland Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

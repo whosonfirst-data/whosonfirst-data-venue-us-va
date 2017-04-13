@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.396248,37.087597,-76.396248,37.087597",
     "geom:latitude":37.087597,
     "geom:longitude":-76.396248,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MdyadMeoye6TenpXGiK2Y_37.087597_-76.396248@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896230,
-    "wof:geomhash":"cd7f8082b09cef49e8ac7955950722f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7c10458d5a54cc5f0ea3d5c03851d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":723156805
+        }
+    ],
     "wof:id":723156805,
-    "wof:lastmodified":1472651432,
+    "wof:lastmodified":1492054458,
     "wof:name":"Derby Run",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

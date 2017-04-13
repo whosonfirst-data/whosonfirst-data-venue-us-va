@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.09754,36.944888,-81.09754,36.944888",
     "geom:latitude":36.944888,
     "geom:longitude":-81.09754,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461887836,
-    "wof:geomhash":"458bc6ec5646102dc6c933844ddbeb90",
+    "wof:geomhash":"298f9dafc83218116cafa5f74617fb8e",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":722744725
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +58,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":722744725
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":722744725
         }
     ],
     "wof:id":722744725,
-    "wof:lastmodified":1472651698,
+    "wof:lastmodified":1492069301,
     "wof:name":"Pendleton Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

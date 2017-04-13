@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.011907,38.467642,-79.011907,38.467642",
     "geom:latitude":38.467642,
     "geom:longitude":-79.011907,
@@ -32,17 +33,30 @@
         "hauling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tjRGSI76CeeMxxXcHGn7h_38.467642_-79.011907@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885238,
-    "wof:geomhash":"350c1688b29ea9bab3bdd3ddc0cf1974",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4da3c18082dfa2d180d621de56038204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085949,
+            "region_id":85688747,
+            "venue_id":722613541
+        }
+    ],
     "wof:id":722613541,
-    "wof:lastmodified":1472651368,
+    "wof:lastmodified":1492065785,
     "wof:name":"Spring Creek Waters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

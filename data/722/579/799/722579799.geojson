@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.25643,36.81087,-76.25643,36.81087",
     "geom:latitude":36.81087,
     "geom:longitude":-76.25643,
@@ -31,19 +32,36 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265,
+        420547901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qlK3aVvEPMLEuzFDwA8ut_36.810870_-76.256430@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884599,
-    "wof:geomhash":"2168b607650969c10fcde8bbde4ecd7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad91063d24f61b6c11f15ca014f5ffe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":420547901,
+            "region_id":85688747,
+            "venue_id":722579799
+        }
+    ],
     "wof:id":722579799,
-    "wof:lastmodified":1472651239,
+    "wof:lastmodified":1492068723,
     "wof:name":"Perfection Hair & Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

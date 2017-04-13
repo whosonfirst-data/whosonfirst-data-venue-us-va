@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.10732,38.729399,-77.10732,38.729399",
     "geom:latitude":38.729399,
     "geom:longitude":-77.10732,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729739,
+        101729773,
         102084863,
+        420560171,
+        101729739,
         85835753
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461889153,
-    "wof:geomhash":"bea97440762fc8fca57e87cf43c9859b",
+    "wof:geomhash":"f6827f3198cf75972b8b53bf1dcb12ff",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729773,
+            "neighbourhood_id":420560171,
+            "region_id":85688747,
+            "venue_id":722814571
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":722814571,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492074261,
     "wof:name":"Assessment & Therapy Ctr Of Va",
-    "wof:parent_id":85835753,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

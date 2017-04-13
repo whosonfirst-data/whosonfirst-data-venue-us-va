@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.301305,38.825741,-77.301305,38.825741",
     "geom:latitude":38.825741,
     "geom:longitude":-77.301305,
@@ -31,7 +32,14 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863,
+        101729825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MSUDNjoLs7wIOfma1BBEJ_38.825741_-77.301305@1294252573"
@@ -39,9 +47,26 @@
     "wof:country":"US",
     "wof:created":1461908890,
     "wof:geomhash":"6ded21ecd0bda0be70ae8297a1158339",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739525081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":739525081
+        }
+    ],
     "wof:id":739525081,
-    "wof:lastmodified":1472651723,
+    "wof:lastmodified":1492032621,
     "wof:name":"Handyman Matters Of Alexandria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

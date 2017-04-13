@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.890997,38.436845,-78.890997,38.436845",
     "geom:latitude":38.436845,
     "geom:longitude":-78.890997,
@@ -34,17 +35,32 @@
         "network"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cgzB8bsIoghzrND4Rpq3v_38.436845_-78.890997@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896813,
-    "wof:geomhash":"d3c5fac174257895bdcc644b9c9c6b01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03c65da62445dc5ee606c488d874580b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723186421
+        }
+    ],
     "wof:id":723186421,
-    "wof:lastmodified":1472651524,
+    "wof:lastmodified":1492058762,
     "wof:name":"Custom Wiring Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.523834,37.127545,-81.523834,37.127545",
     "geom:latitude":37.127545,
     "geom:longitude":-81.523834,
@@ -28,19 +29,34 @@
     "sg:postcode":"24630",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WElsyRvxLofXVmToyi5mQ_37.127545_-81.523834@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887634,
-    "wof:geomhash":"cbfde7983d197fd514f0118afac6981b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da94fe8b4dee51896c7090bc9d3b0be2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722734293
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":722734293
+        }
+    ],
     "wof:id":722734293,
-    "wof:lastmodified":1472651663,
+    "wof:lastmodified":1492072168,
     "wof:name":"Your'e Style'n",
-    "wof:parent_id":420547299,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

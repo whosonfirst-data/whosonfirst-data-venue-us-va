@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.125501,38.843598,-77.125501,38.843598",
     "geom:latitude":38.843598,
     "geom:longitude":-77.125501,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WNQoDpt4nooVs7cuQm6Gc_38.843598_-77.125501@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886035,
-    "wof:geomhash":"753eef2622ef28fbbfccb268f0ed260c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e36844b6c051294bf99bd9a43cbfa17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":722651001
+        }
+    ],
     "wof:id":722651001,
-    "wof:lastmodified":1472651435,
+    "wof:lastmodified":1492065043,
     "wof:name":"Oscar Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

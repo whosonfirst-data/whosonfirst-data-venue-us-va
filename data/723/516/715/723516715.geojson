@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.059494,36.668705,-82.059494,36.668705",
     "geom:latitude":36.668705,
     "geom:longitude":-82.059494,
@@ -38,17 +39,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TKfUMl1BqjlqltDjvOnbf_36.668705_-82.059494@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903370,
-    "wof:geomhash":"8377668ec13670c72782e2813f258bc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29f6aae6c510b7099d6919dcc5b6499d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723516715
+        }
+    ],
     "wof:id":723516715,
-    "wof:lastmodified":1472652372,
+    "wof:lastmodified":1492057372,
     "wof:name":"Discount Food Company Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

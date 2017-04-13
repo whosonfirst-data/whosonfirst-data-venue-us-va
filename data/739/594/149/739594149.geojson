@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.996088,36.706022,-81.996088,36.706022",
     "geom:latitude":36.706022,
     "geom:longitude":-81.996088,
@@ -33,17 +34,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AlHhWaHNkLpvCRdQ208Mn_36.706022_-81.996088@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910280,
-    "wof:geomhash":"2168a50b406d429da8074ec42c4487e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"949e74d11fad6166b6c7251a818e51d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739594149
+        }
+    ],
     "wof:id":739594149,
-    "wof:lastmodified":1472651930,
+    "wof:lastmodified":1492044035,
     "wof:name":"Pizza Inn",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

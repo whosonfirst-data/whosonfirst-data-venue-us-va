@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.185729,39.158724,-78.185729,39.158724",
     "geom:latitude":39.158724,
     "geom:longitude":-78.185729,
@@ -33,17 +34,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I6AtmW1pMWmRygfsZWHSh_39.158724_-78.185729@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905964,
-    "wof:geomhash":"29b1cf2cf9a7d2dbc036b04540aad278",
-    "wof:hierarchy":[],
+    "wof:geomhash":"179728b14638eaa5e506aa1239553d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739368163
+        }
+    ],
     "wof:id":739368163,
-    "wof:lastmodified":1472651340,
+    "wof:lastmodified":1492041995,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411033,38.462984,-77.411033,38.462984",
     "geom:latitude":38.462984,
     "geom:longitude":-77.411033,
@@ -32,17 +33,26 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JTfGfxP7HfHekopeKrZry_38.462984_-77.411033@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896613,
-    "wof:geomhash":"3f971d5aaf4892347f5ccc7a5ebf5686",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eb8d6f6c77061e44482d45a61eb9d5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":723176423
+        }
+    ],
     "wof:id":723176423,
-    "wof:lastmodified":1472651482,
+    "wof:lastmodified":1492048698,
     "wof:name":"A Safe Driver",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

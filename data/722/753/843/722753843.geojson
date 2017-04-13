@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.712448,37.335102,-76.712448,37.335102",
     "geom:latitude":37.335102,
     "geom:longitude":-76.712448,
@@ -32,19 +33,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931,
+        85688747,
+        85894079,
+        102086731
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bf3tVe4NjfDBlBWqWneJr_37.335102_-76.712448@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888011,
-    "wof:geomhash":"7fcaeddc18fef1bf62cf43513fa548b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aaa0e43594e94644a47f217a35aa5bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":722753843
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086731,
+            "neighbourhood_id":85894079,
+            "region_id":85688747,
+            "venue_id":722753843
+        }
+    ],
     "wof:id":722753843,
-    "wof:lastmodified":1472651711,
+    "wof:lastmodified":1492067236,
     "wof:name":"Durham Electric Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

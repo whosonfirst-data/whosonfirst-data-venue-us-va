@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.856856,37.247187,-76.856856,37.247187",
     "geom:latitude":37.247187,
     "geom:longitude":-76.856856,
@@ -28,7 +29,10 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ciShMgPI3AaEc12eYPsec_37.247187_-76.856856@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461908471,
     "wof:geomhash":"74ea2db1a6434fdafb04b0ed4551b4fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546809,
+            "venue_id":739502311
+        }
+    ],
     "wof:id":739502311,
-    "wof:lastmodified":1472651701,
+    "wof:lastmodified":1492029581,
     "wof:name":"Heartland Realty",
     "wof:parent_id":420546809,
     "wof:placetype":"venue",

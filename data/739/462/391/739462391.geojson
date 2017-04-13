@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.587778,37.639997,-77.587778,37.639997",
     "geom:latitude":37.639997,
     "geom:longitude":-77.587778,
@@ -31,7 +32,12 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qjb47UZn9AWGflD7KLtsI_37.639997_-77.587778@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907755,
     "wof:geomhash":"2cdab98b8cebec1e8c92ee2176b8cff2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739462391
+        }
+    ],
     "wof:id":739462391,
-    "wof:lastmodified":1472651611,
+    "wof:lastmodified":1492033360,
     "wof:name":"Apple Door Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

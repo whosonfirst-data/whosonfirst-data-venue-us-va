@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.468033,37.460914,-77.468033,37.460914",
     "geom:latitude":37.460914,
     "geom:longitude":-77.468033,
@@ -32,17 +33,32 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57LC3YHoKBiFhQ0K5lNVtl_37.460914_-77.468033@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895160,
-    "wof:geomhash":"f6a9f43ba1bc9847b20330240b6796af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2def855af55d68f0de8a6f3c2a1a0861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":723102001
+        }
+    ],
     "wof:id":723102001,
-    "wof:lastmodified":1472651317,
+    "wof:lastmodified":1492058782,
     "wof:name":"Logical Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

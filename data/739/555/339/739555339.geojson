@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.504243,38.883105,-78.504243,38.883105",
     "geom:latitude":38.883105,
     "geom:longitude":-78.504243,
@@ -32,17 +33,32 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728891,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hsq0Nk499lkR5Be9xiGZl_38.883105_-78.504243@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909467,
-    "wof:geomhash":"435fa6007869398c77878c3197895afd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88776d7be2bbaf49d7e051869f567470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728891,
+            "region_id":85688747,
+            "venue_id":739555339
+        }
+    ],
     "wof:id":739555339,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492044435,
     "wof:name":"WAMM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

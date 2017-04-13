@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.398967,37.299354,-78.398967,37.299354",
     "geom:latitude":37.299354,
     "geom:longitude":-78.398967,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HxTNfG3qE4rlTRO0CwYTw_37.299354_-78.398967@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901543,
-    "wof:geomhash":"18163898aa660f34d9a0040815edcaa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1493dfde38cde22ed43d89c3ed4cd673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723428519
+        }
+    ],
     "wof:id":723428519,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492049208,
     "wof:name":"Baptist Student Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

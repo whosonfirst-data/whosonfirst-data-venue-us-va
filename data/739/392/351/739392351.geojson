@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.574122,39.073794,-77.574122,39.073794",
     "geom:latitude":39.073794,
     "geom:longitude":-77.574122,
@@ -32,7 +33,12 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AlSXp6KR7Dd8RbM6xI3K8_39.073794_-77.574122@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906438,
     "wof:geomhash":"fb770bf6e7501399fb1cf4b3b49cf9ec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739392351
+        }
+    ],
     "wof:id":739392351,
-    "wof:lastmodified":1472651410,
+    "wof:lastmodified":1492031620,
     "wof:name":"Edgemoore Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

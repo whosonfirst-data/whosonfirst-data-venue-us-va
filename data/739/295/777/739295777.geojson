@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.485613,37.67631,-77.485613,37.67631",
     "geom:latitude":37.67631,
     "geom:longitude":-77.485613,
@@ -33,17 +34,32 @@
         "reconstruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729363,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_119iFXqbldj4jR2T0MQX6M_37.676310_-77.485613@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904478,
-    "wof:geomhash":"3b58c4a7b06a1a5b80eebbd56e11543c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9cb8f7fd8d7f78c03c6ddf1b0aa9e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729363,
+            "region_id":85688747,
+            "venue_id":739295777
+        }
+    ],
     "wof:id":739295777,
-    "wof:lastmodified":1472651223,
+    "wof:lastmodified":1492042372,
     "wof:name":"Traffic Crash Investigator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

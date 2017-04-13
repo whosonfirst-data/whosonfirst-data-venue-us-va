@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.409464,37.045669,-80.409464,37.045669",
     "geom:latitude":37.045669,
     "geom:longitude":-80.409464,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bpzu6WcFWYL2Klewoz8CH_37.045669_-80.409464@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906763,
-    "wof:geomhash":"6164a08648a0ad11ff63df1fe33e9a05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d73486b23f38e4e5b281f1d25efe3f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":739409791
+        }
+    ],
     "wof:id":739409791,
-    "wof:lastmodified":1472651491,
+    "wof:lastmodified":1492043643,
     "wof:name":"Vic's Heating & Cooling",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

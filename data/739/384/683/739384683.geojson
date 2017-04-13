@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.063847,36.665727,-82.063847,36.665727",
     "geom:latitude":36.665727,
     "geom:longitude":-82.063847,
@@ -42,17 +43,26 @@
         "ware"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cAz2h8Pw936uK7HhWsuSo_36.665727_-82.063847@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906278,
-    "wof:geomhash":"bdb1efa788f2559cd640259442d4b3d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6608b3bf5088ce7410291b180b598852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739384683
+        }
+    ],
     "wof:id":739384683,
-    "wof:lastmodified":1472651356,
+    "wof:lastmodified":1492043598,
     "wof:name":"Phelps Pottery Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

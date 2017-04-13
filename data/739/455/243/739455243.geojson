@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.006176,36.700325,-82.006176,36.700325",
     "geom:latitude":36.700325,
     "geom:longitude":-82.006176,
@@ -32,7 +33,10 @@
         "hydraulic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yyOs9aBtYM1cdvZQIbE9W_36.700325_-82.006176@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907632,
     "wof:geomhash":"a97c2a1584ac9c7c88f2ea7642ad93c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739455243
+        }
+    ],
     "wof:id":739455243,
-    "wof:lastmodified":1472651560,
+    "wof:lastmodified":1492032957,
     "wof:name":"Unity Hydraulics",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

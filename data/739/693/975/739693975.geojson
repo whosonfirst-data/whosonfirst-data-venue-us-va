@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557345,37.967977,-76.557345,37.967977",
     "geom:latitude":37.967977,
     "geom:longitude":-76.557345,
@@ -38,7 +39,12 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x3MiEtXr7L21FdIy7yLKZ_37.967977_-76.557345@1303262547"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461912416,
     "wof:geomhash":"37c70d9b4d97bdbf4b720866ee0a64cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739693975
+        }
+    ],
     "wof:id":739693975,
-    "wof:lastmodified":1472652194,
+    "wof:lastmodified":1492031405,
     "wof:name":"Shore Realty Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

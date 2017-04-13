@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.387205,37.303368,-78.387205,37.303368",
     "geom:latitude":37.303368,
     "geom:longitude":-78.387205,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WtVTadPwtZdr8vBU7H1Ck_37.303368_-78.387205@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897193,
-    "wof:geomhash":"9bb732996c3c57ae1b2c7edf265d5c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bad8f3cce83132a7a1151555c61f6c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723206329
+        }
+    ],
     "wof:id":723206329,
-    "wof:lastmodified":1472651613,
+    "wof:lastmodified":1492051159,
     "wof:name":"Puckett Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

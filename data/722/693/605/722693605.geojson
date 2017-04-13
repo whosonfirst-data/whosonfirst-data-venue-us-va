@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.025955,36.706563,-82.025955,36.706563",
     "geom:latitude":36.706563,
     "geom:longitude":-82.025955,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46sUUrDQ7yrCPD3SVtE3kv_36.706563_-82.025955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886845,
-    "wof:geomhash":"ccfbf0c1a4d101817a876325626a602d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e46785616cde593bd281449dbcf1c709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722693605
+        }
+    ],
     "wof:id":722693605,
-    "wof:lastmodified":1472651551,
+    "wof:lastmodified":1492064413,
     "wof:name":"Genes Electric",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

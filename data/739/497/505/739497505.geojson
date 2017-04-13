@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.32584,36.787831,-76.32584,36.787831",
     "geom:latitude":36.787831,
     "geom:longitude":-76.32584,
@@ -33,7 +34,13 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m6GFUxoVz8doerlzr3F5r_36.787831_-76.325840@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461908384,
     "wof:geomhash":"ca6970c52cd05502e30508a5a568a898",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739497505
+        }
+    ],
     "wof:id":739497505,
-    "wof:lastmodified":1472651692,
+    "wof:lastmodified":1492029689,
     "wof:name":"A-1 Masterkleen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

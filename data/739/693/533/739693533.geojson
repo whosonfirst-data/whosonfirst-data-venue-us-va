@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514258,38.293975,-77.514258,38.293975",
     "geom:latitude":38.293975,
     "geom:longitude":-77.514258,
@@ -38,7 +39,12 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kBx6phpcevew8LAIen4O3_38.293975_-77.514258@1303262547"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461912410,
     "wof:geomhash":"b0fa6f0690a809bfdd031aa793b2caa5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693533
+        }
+    ],
     "wof:id":739693533,
-    "wof:lastmodified":1472652182,
+    "wof:lastmodified":1492031389,
     "wof:name":"Portables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

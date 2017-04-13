@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.622239,38.353603,-77.622239,38.353603",
     "geom:latitude":38.353603,
     "geom:longitude":-77.622239,
@@ -28,7 +29,10 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yAd5ckYBYd40xBPSAUwi0_38.353603_-77.622239@1303262547"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461912410,
     "wof:geomhash":"13ce767779811d5697ccc5fea9df5865",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739693525
+        }
+    ],
     "wof:id":739693525,
-    "wof:lastmodified":1472652182,
+    "wof:lastmodified":1492031384,
     "wof:name":"Mary's Shelter, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

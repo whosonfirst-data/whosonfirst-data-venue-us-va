@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.101636,36.946079,-81.101636,36.946079",
     "geom:latitude":36.946079,
     "geom:longitude":-81.101636,
@@ -33,12 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461893117,
-    "wof:geomhash":"042f75ebd70a703116786a51ffa620d7",
+    "wof:geomhash":"fa8e39735bda7f78b84b6e30b558195c",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":723008929
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,12 +57,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":723008929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":723008929
         }
     ],
     "wof:id":723008929,
-    "wof:lastmodified":1472651102,
+    "wof:lastmodified":1492053167,
     "wof:name":"Perry Dunford Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

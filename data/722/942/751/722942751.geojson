@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.787974,37.31542,-76.787974,37.31542",
     "geom:latitude":37.31542,
     "geom:longitude":-76.787974,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546849
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eVSj0c1D3Eqg5u1HscFK5_37.315420_-76.787974@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891686,
-    "wof:geomhash":"6736d42fbcf384537b775259143034a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8abc55dd6aade7c4b5c8c41e8a5c97eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546849,
+            "venue_id":722942751
+        }
+    ],
     "wof:id":722942751,
-    "wof:lastmodified":1472652252,
+    "wof:lastmodified":1492063078,
     "wof:name":"Burton Woods Apartments I",
     "wof:parent_id":420546849,
     "wof:placetype":"venue",

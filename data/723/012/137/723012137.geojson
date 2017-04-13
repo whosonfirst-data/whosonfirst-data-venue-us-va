@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.274094,37.351726,-79.274094,37.351726",
     "geom:latitude":37.351726,
     "geom:longitude":-79.274094,
@@ -31,17 +32,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i9mRYBldx4m7hVeVe06h1_37.351726_-79.274094@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893182,
-    "wof:geomhash":"1cd115116cfb68b0a20b33de96cee5f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"518168b9e19ac5a000a497250e924001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":723012137
+        }
+    ],
     "wof:id":723012137,
-    "wof:lastmodified":1472651081,
+    "wof:lastmodified":1492053476,
     "wof:name":"Poplar Forest Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

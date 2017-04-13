@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.340548,38.401567,-77.340548,38.401567",
     "geom:latitude":38.401567,
     "geom:longitude":-77.340548,
@@ -36,17 +37,26 @@
         "scooter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PSRo9dgTsAafzYVHrxXnO_38.401567_-77.340548@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898656,
-    "wof:geomhash":"51881fd544f75cd78aab33a841144e48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d3ba07baf9bc7cd2a2748250a30e7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":723278653
+        }
+    ],
     "wof:id":723278653,
-    "wof:lastmodified":1472651799,
+    "wof:lastmodified":1492055609,
     "wof:name":"Heavy Duty Racing Inc",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

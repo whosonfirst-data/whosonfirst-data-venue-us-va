@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.629021,37.638101,-77.629021,37.638101",
     "geom:latitude":37.638101,
     "geom:longitude":-77.629021,
@@ -32,7 +33,13 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_649JfpC1qAmCc6E0eoYUlL_37.638101_-77.629021@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907268,
     "wof:geomhash":"82c9e8605bd121235a93b2f48c8b23e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":739435295
+        }
+    ],
     "wof:id":739435295,
-    "wof:lastmodified":1472651521,
+    "wof:lastmodified":1492029398,
     "wof:name":"Caskey Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

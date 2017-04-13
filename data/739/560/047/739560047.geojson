@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517601,38.237331,-77.517601,38.237331",
     "geom:latitude":38.237331,
     "geom:longitude":-77.517601,
@@ -32,7 +33,12 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T6TY2Oc0DF1BO1e0fMfOi_38.237297_-77.517592@1293134755"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909554,
     "wof:geomhash":"2285fd8b0076bd1bfe68b5f8bfd081b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739560047
+        }
+    ],
     "wof:id":739560047,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492030134,
     "wof:name":"Opm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

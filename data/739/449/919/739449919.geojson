@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.476811,37.039401,-76.476811,37.039401",
     "geom:latitude":37.039401,
     "geom:longitude":-76.476811,
@@ -39,7 +40,8 @@
         85633793,
         101729041,
         102085961,
-        85879217
+        85879217,
+        85881979
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907535,
-    "wof:geomhash":"5afd0227ff73fdd19185c51af88533ec",
+    "wof:geomhash":"678d1c70cee06ab78c94c32e4e9ccc90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85879217,
             "region_id":85688747,
             "venue_id":739449919
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85881979,
+            "region_id":85688747,
+            "venue_id":739449919
         }
     ],
     "wof:id":739449919,
-    "wof:lastmodified":1472651598,
+    "wof:lastmodified":1492045080,
     "wof:name":"Jns Marine Services Inc",
-    "wof:parent_id":85879217,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

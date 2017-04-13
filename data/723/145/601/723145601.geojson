@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412071,39.050286,-77.412071,39.050286",
     "geom:latitude":39.050286,
     "geom:longitude":-77.412071,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729461,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ULc7qT0ACPzNlk3xAKQUg_39.050286_-77.412071@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896005,
-    "wof:geomhash":"0700998a1ec377378448f8aaae26e33a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04a47f6ab07a7c183ee9c3517414d974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729461,
+            "region_id":85688747,
+            "venue_id":723145601
+        }
+    ],
     "wof:id":723145601,
-    "wof:lastmodified":1472651411,
+    "wof:lastmodified":1492061661,
     "wof:name":"Pragmatix Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

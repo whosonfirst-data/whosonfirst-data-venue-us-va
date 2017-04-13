@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48395,38.416467,-77.48395,38.416467",
     "geom:latitude":38.416467,
     "geom:longitude":-77.48395,
@@ -31,17 +32,26 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70YWTX5gDokPop3ZYi1sT3_38.416467_-77.483950@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896324,
-    "wof:geomhash":"0ccc6fcfd51a3ad2d12a0caddcc912c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b6380877cd3038d9f3458e60e86d481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":723162115
+        }
+    ],
     "wof:id":723162115,
-    "wof:lastmodified":1472651445,
+    "wof:lastmodified":1492061277,
     "wof:name":"Scooter Vans Inc",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

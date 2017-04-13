@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.532683,37.415757,-76.532683,37.415757",
     "geom:latitude":37.415757,
     "geom:longitude":-76.532683,
@@ -28,7 +29,13 @@
     "sg:postcode":"23061",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RSW4OMSyYyktk4SUthNNu_37.415757_-76.532683@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903970,
     "wof:geomhash":"caa1b3a12b5043cfecf31cfc7867153f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":739272311
+        }
+    ],
     "wof:id":739272311,
-    "wof:lastmodified":1472651148,
+    "wof:lastmodified":1492029342,
     "wof:name":"Gloucester Realty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

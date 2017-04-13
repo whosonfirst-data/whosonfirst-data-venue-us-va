@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358421,37.508063,-77.358421,37.508063",
     "geom:latitude":37.508063,
     "geom:longitude":-77.358421,
@@ -31,17 +32,30 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XGeE2ZISep4dgIlvAL295_37.508063_-77.358421@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884142,
-    "wof:geomhash":"342cd3f95737d4455e5a469ec51403c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8104dd1b68476e227d46409e9af07af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722556721
+        }
+    ],
     "wof:id":722556721,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492075112,
     "wof:name":"Media Tech Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

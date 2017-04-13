@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.180334,38.921735,-77.180334,38.921735",
     "geom:latitude":38.921735,
     "geom:longitude":-77.180334,
@@ -38,7 +39,8 @@
         85633793,
         101729767,
         102084863,
-        85833305
+        85833305,
+        420546665
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908043,
-    "wof:geomhash":"53bace013e1f53d7e08a136486acf069",
+    "wof:geomhash":"9073c70ddbc2306ea2f6ab49e92d9849",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":85833305,
             "region_id":85688747,
             "venue_id":739478653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":420546665,
+            "region_id":85688747,
+            "venue_id":739478653
         }
     ],
     "wof:id":739478653,
-    "wof:lastmodified":1472651632,
+    "wof:lastmodified":1492042150,
     "wof:name":"New Business Concepts",
-    "wof:parent_id":85833305,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

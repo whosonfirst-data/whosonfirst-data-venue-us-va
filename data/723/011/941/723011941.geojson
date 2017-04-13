@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400136,37.695093,-77.400136,37.695093",
     "geom:latitude":37.695093,
     "geom:longitude":-77.400136,
@@ -32,17 +33,30 @@
         "mason"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DyjGQyYawOhSoboyGfTsA_37.695093_-77.400136@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893178,
-    "wof:geomhash":"5dde9d201d15459047cfd54bcea1e610",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5d01c32e1d5ce14c6722556b8321300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":723011941
+        }
+    ],
     "wof:id":723011941,
-    "wof:lastmodified":1472651128,
+    "wof:lastmodified":1492055039,
     "wof:name":"Stone Works Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

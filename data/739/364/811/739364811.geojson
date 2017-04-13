@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.524122,37.115071,-81.524122,37.115071",
     "geom:latitude":37.115071,
     "geom:longitude":-81.524122,
@@ -31,7 +32,10 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3haOHch59tbIBaPfOV1PRh_37.115071_-81.524122@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461905897,
     "wof:geomhash":"1e083711f8a1693a55a48ffb1a533e15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739364811
+        }
+    ],
     "wof:id":739364811,
-    "wof:lastmodified":1472651363,
+    "wof:lastmodified":1492031768,
     "wof:name":"CNX Gas Co",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

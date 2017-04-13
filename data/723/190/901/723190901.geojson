@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.460813,37.63625,-77.460813,37.63625",
     "geom:latitude":37.63625,
     "geom:longitude":-77.460813,
@@ -31,17 +32,30 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qR9wCMl5UcMq32oBsqf8J_37.636250_-77.460813@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896902,
-    "wof:geomhash":"eb4ccb1b9447fecb0bacb1d9d03198fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5ea700c4597387bb053d69e3e039d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723190901
+        }
+    ],
     "wof:id":723190901,
-    "wof:lastmodified":1472651545,
+    "wof:lastmodified":1492055277,
     "wof:name":"Smoke Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

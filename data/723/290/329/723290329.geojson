@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.384621,37.077527,-76.384621,37.077527",
     "geom:latitude":37.077527,
     "geom:longitude":-76.384621,
@@ -33,17 +34,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AZ4UT0iaCiD0oCvMUkJ93_37.077527_-76.384621@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898881,
-    "wof:geomhash":"bf6bd222ca8bf01e49936f15ec2e4821",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3beaaa684fb4ba88a2729e1dc0087cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":723290329
+        }
+    ],
     "wof:id":723290329,
-    "wof:lastmodified":1472651767,
+    "wof:lastmodified":1492051297,
     "wof:name":"Reynolds Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

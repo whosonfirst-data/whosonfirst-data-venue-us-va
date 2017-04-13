@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.89924,38.102781,-78.89924,38.102781",
     "geom:latitude":38.102781,
     "geom:longitude":-78.89924,
@@ -28,7 +29,12 @@
     "sg:postcode":"22980",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29xRzwAKiwgB7sic2WcQ5P_38.102781_-78.899240@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908966,
     "wof:geomhash":"0c7c0eb48b432439984f22d3727f2d31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "region_id":85688747,
+            "venue_id":739529285
+        }
+    ],
     "wof:id":739529285,
-    "wof:lastmodified":1472651776,
+    "wof:lastmodified":1492030806,
     "wof:name":"Independent Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

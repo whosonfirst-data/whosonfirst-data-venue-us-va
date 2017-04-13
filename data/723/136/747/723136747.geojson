@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755955,37.219724,-76.755955,37.219724",
     "geom:latitude":37.219724,
     "geom:longitude":-76.755955,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ac2qjEMdoF50izYVCSCKw_37.219724_-76.755955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895825,
-    "wof:geomhash":"ed38ca7bd2959e679874384678187b0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b913f89ac222b25656fe8fbf2017a010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546867,
+            "venue_id":723136747
+        }
+    ],
     "wof:id":723136747,
-    "wof:lastmodified":1472651407,
+    "wof:lastmodified":1492053786,
     "wof:name":"Everitt Brothers Homes Inc",
     "wof:parent_id":420546867,
     "wof:placetype":"venue",

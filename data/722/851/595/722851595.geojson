@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.276691,36.884552,-76.276691,36.884552",
     "geom:latitude":36.884552,
     "geom:longitude":-76.276691,
@@ -34,7 +35,8 @@
         85633793,
         101728769,
         102085935,
-        85845157
+        85845157,
+        85811935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889851,
-    "wof:geomhash":"e2d59abfe9d7ffb1bcaace6a8866e592",
+    "wof:geomhash":"600e66f8316df2f17e7f2cb1ac38a3fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85845157,
             "region_id":85688747,
             "venue_id":722851595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85811935,
+            "region_id":85688747,
+            "venue_id":722851595
         }
     ],
     "wof:id":722851595,
-    "wof:lastmodified":1472651957,
+    "wof:lastmodified":1492074868,
     "wof:name":"General Ideas",
-    "wof:parent_id":85845157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440769,38.379403,-77.440769,38.379403",
     "geom:latitude":38.379403,
     "geom:longitude":-77.440769,
@@ -39,17 +40,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75xsNhCMkJF9MzYdpxZ8t3_38.379403_-77.440769@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886693,
-    "wof:geomhash":"b64b571859e0fdfdd34006c6fc214c5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74713c4f6e0592d4c185cc83fc749471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":722685725
+        }
+    ],
     "wof:id":722685725,
-    "wof:lastmodified":1472651541,
+    "wof:lastmodified":1492064447,
     "wof:name":"United Sprinkler Company Inc",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

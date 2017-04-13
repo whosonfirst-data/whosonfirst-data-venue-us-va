@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.554752,38.768312,-77.554752,38.768312",
     "geom:latitude":38.768312,
     "geom:longitude":-77.554752,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cPAY4rahvE4UQKeycAUKD_38.768312_-77.554752@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890226,
-    "wof:geomhash":"da7a388cf992e616e66092bb97b6eb1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6f13d75b649dc7cd839cb160b602191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":722871647
+        }
+    ],
     "wof:id":722871647,
-    "wof:lastmodified":1472652016,
+    "wof:lastmodified":1492067523,
     "wof:name":"Benfield Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

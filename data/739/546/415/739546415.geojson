@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.717892,37.326184,-80.717892,37.326184",
     "geom:latitude":37.326184,
     "geom:longitude":-80.717892,
@@ -28,7 +29,13 @@
     "sg:postcode":"24134",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728851,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yE6EwN0k3e9MwOunRLbfW_37.326184_-80.717892@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461909289,
     "wof:geomhash":"2a1b5f196c515ab05854bd2fbcbf20e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "locality_id":101728851,
+            "region_id":85688747,
+            "venue_id":739546415
+        }
+    ],
     "wof:id":739546415,
-    "wof:lastmodified":1472651861,
+    "wof:lastmodified":1492031594,
     "wof:name":"Pearisburg 7th Day Advnt Chrch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

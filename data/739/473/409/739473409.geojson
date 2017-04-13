@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440659,38.277783,-77.440659,38.277783",
     "geom:latitude":38.277783,
     "geom:longitude":-77.440659,
@@ -33,7 +34,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J17qpvOSxamhg0M2JgQSj_38.277783_-77.440659@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907952,
     "wof:geomhash":"a5d7959fc181cb6c742e23a7a1e090b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739473409
+        }
+    ],
     "wof:id":739473409,
-    "wof:lastmodified":1472651619,
+    "wof:lastmodified":1492032918,
     "wof:name":"Pohick Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

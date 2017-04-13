@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.242005,37.49872,-78.242005,37.49872",
     "geom:latitude":37.49872,
     "geom:longitude":-78.242005,
@@ -41,17 +42,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729589,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M8qGpIrvTAXtpO33tqM9X_37.498720_-78.242005@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912766,
-    "wof:geomhash":"3174b3ab8937bc44a9529e6dd8b80038",
-    "wof:hierarchy":[],
+    "wof:geomhash":"701118cf61a791ac0fee19d972b92928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "locality_id":101729589,
+            "region_id":85688747,
+            "venue_id":739709047
+        }
+    ],
     "wof:id":739709047,
-    "wof:lastmodified":1472652166,
+    "wof:lastmodified":1492047067,
     "wof:name":"Stop In Food Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

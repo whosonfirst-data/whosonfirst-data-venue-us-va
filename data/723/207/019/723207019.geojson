@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.691434,36.763682,-77.691434,36.763682",
     "geom:latitude":36.763682,
     "geom:longitude":-77.691434,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gxA69VjaqVbL9SC9Hbv8a_36.763682_-77.691434@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897204,
-    "wof:geomhash":"cc96e6bb398b255cbef8305437ae5de7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a07322c3ed979141b05ea5bd87bf36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":723207019
+        }
+    ],
     "wof:id":723207019,
-    "wof:lastmodified":1472651599,
+    "wof:lastmodified":1492056527,
     "wof:name":"Willie Trusty Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

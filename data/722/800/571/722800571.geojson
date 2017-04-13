@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.60956,37.207152,-76.60956,37.207152",
     "geom:latitude":37.207152,
     "geom:longitude":-76.60956,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kB5o058jxj1p9I4ehSO4u_37.207152_-76.609560@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888900,
-    "wof:geomhash":"1bac6ed35e9e5c0444f0bacda23c39c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d38258693fd368649a3aa2a386be1a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":722800571
+        }
+    ],
     "wof:id":722800571,
-    "wof:lastmodified":1472651809,
+    "wof:lastmodified":1492066170,
     "wof:name":"Firstfleet",
     "wof:parent_id":420546871,
     "wof:placetype":"venue",

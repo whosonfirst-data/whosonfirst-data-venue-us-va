@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.465878,36.820437,-78.465878,36.820437",
     "geom:latitude":36.820437,
     "geom:longitude":-78.465878,
@@ -33,17 +34,32 @@
         "warehousing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729701,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4odF1fxsbfre5VsYttal1J_36.820437_-78.465878@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892445,
-    "wof:geomhash":"67fab599bc82c3dc5df1c0799933ff45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b3221ab19fba87af0f5c08a6d8051b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729701,
+            "region_id":85688747,
+            "venue_id":722979515
+        }
+    ],
     "wof:id":722979515,
-    "wof:lastmodified":1472652342,
+    "wof:lastmodified":1492072749,
     "wof:name":"Exchange Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

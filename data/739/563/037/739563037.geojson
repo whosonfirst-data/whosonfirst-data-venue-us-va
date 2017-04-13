@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.039743,37.094817,-77.039743,37.094817",
     "geom:latitude":37.094817,
     "geom:longitude":-77.039743,
@@ -26,17 +27,26 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2suo1cerf4viC7m1vbmnyB_37.094817_-77.039743@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909627,
-    "wof:geomhash":"e180f37b8562ad5c3b8903f4ee2399b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"243ffd01d674a9c4841ea7b34a723a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739563037
+        }
+    ],
     "wof:id":739563037,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492043746,
     "wof:name":"Barry Collier",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

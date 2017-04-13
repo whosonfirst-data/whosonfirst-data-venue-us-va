@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.420285,38.283525,-78.420285,38.283525",
     "geom:latitude":38.283525,
     "geom:longitude":-78.420285,
@@ -34,7 +35,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07O7D31VFtA5MFHBYlgIf5_38.283525_-78.420285@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461904851,
     "wof:geomhash":"6ac2578e994c011eb4f70d6a632e1e1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739314191
+        }
+    ],
     "wof:id":739314191,
-    "wof:lastmodified":1472651208,
+    "wof:lastmodified":1492029911,
     "wof:name":"All American Storage II LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.179947,36.900603,-76.179947,36.900603",
     "geom:latitude":36.900603,
     "geom:longitude":-76.179947,
@@ -38,7 +39,10 @@
         85633793,
         101728745,
         102081929,
-        85829215
+        85829215,
+        101728769,
+        102085935,
+        85808951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891478,
-    "wof:geomhash":"6400c1595a0ac91e4b806922890afd22",
+    "wof:geomhash":"17602cec1d1937f1f75734d9dac1fa3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +60,21 @@
             "neighbourhood_id":85829215,
             "region_id":85688747,
             "venue_id":722933431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85808951,
+            "region_id":85688747,
+            "venue_id":722933431
         }
     ],
     "wof:id":722933431,
-    "wof:lastmodified":1472652174,
+    "wof:lastmodified":1492066186,
     "wof:name":"Driftwood Apartments",
-    "wof:parent_id":85829215,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

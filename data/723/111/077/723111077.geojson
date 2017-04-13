@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.298775,36.892334,-81.298775,36.892334",
     "geom:latitude":36.892334,
     "geom:longitude":-81.298775,
@@ -31,17 +32,26 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32gV3vhtHcAxFsXfwGvrkL_36.892334_-81.298775@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895342,
-    "wof:geomhash":"1db8d71d89a30dae0e99b640a576d4cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18aa6cda3ab12ba5ea1db76a1df416bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723111077
+        }
+    ],
     "wof:id":723111077,
-    "wof:lastmodified":1472651326,
+    "wof:lastmodified":1492060744,
     "wof:name":"Jims Car Wash",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

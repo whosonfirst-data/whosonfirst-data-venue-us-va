@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.264648,37.235613,-77.264648,37.235613",
     "geom:latitude":37.235613,
     "geom:longitude":-77.264648,
@@ -31,17 +32,32 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729473,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WycQLl2TxZbEzKlvuJF1y_37.235613_-77.264648@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886185,
-    "wof:geomhash":"5de906c94ce0442de6a79b832ebb5f09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"559702e850d4454ae76d57fddafdfd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "locality_id":101729473,
+            "region_id":85688747,
+            "venue_id":722658917
+        }
+    ],
     "wof:id":722658917,
-    "wof:lastmodified":1472651489,
+    "wof:lastmodified":1492067267,
     "wof:name":"Harold's Used Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

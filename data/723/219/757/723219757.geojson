@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.096475,36.579733,-76.096475,36.579733",
     "geom:latitude":36.579733,
     "geom:longitude":-76.096475,
@@ -33,17 +34,32 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jBsDsJNyXknq6ddkLv62h_36.579733_-76.096475@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897493,
-    "wof:geomhash":"50d3b5860f29628777ba87141bfa6124",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b871aa629ae8895e69fa7312e5b8600e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "region_id":85688747,
+            "venue_id":723219757
+        }
+    ],
     "wof:id":723219757,
-    "wof:lastmodified":1472651649,
+    "wof:lastmodified":1492055183,
     "wof:name":"Ward Racing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

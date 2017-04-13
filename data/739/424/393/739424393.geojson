@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.452845,38.691885,-77.452845,38.691885",
     "geom:latitude":38.691885,
     "geom:longitude":-77.452845,
@@ -28,7 +29,12 @@
     "sg:postcode":"20112",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jpLgKFmyXQ6h4xt0Ej0Ny_38.691885_-77.452845@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907061,
     "wof:geomhash":"7217fad428f9518922e929ee90ec1367",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739424393
+        }
+    ],
     "wof:id":739424393,
-    "wof:lastmodified":1472651513,
+    "wof:lastmodified":1492032751,
     "wof:name":"Kathy's Floral Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

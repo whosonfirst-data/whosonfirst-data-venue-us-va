@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.516315,37.120615,-81.516315,37.120615",
     "geom:latitude":37.120615,
     "geom:longitude":-81.516315,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4snTPwGer75UVHlUhZ4eaf_37.120615_-81.516315@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884117,
-    "wof:geomhash":"5c119d8585992dc23a7b000496ea3f69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ccbcda5a248e83fd00020cbdb3147c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722555275
+        }
+    ],
     "wof:id":722555275,
-    "wof:lastmodified":1472651091,
+    "wof:lastmodified":1492073142,
     "wof:name":"Angles Construction",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

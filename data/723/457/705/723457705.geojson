@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.458784,36.805023,-78.458784,36.805023",
     "geom:latitude":36.805023,
     "geom:longitude":-78.458784,
@@ -32,17 +33,32 @@
         "gift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729013,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bQob6bDidOyWDk9FrhBWj_36.805023_-78.458784@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902084,
-    "wof:geomhash":"f74504ef9cb64791861a15061e78b0b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d313995a594b248ad34a19f50c1c56e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729013,
+            "region_id":85688747,
+            "venue_id":723457705
+        }
+    ],
     "wof:id":723457705,
-    "wof:lastmodified":1472652307,
+    "wof:lastmodified":1492050316,
     "wof:name":"Bob Martins Too",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

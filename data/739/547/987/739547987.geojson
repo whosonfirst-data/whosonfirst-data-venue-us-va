@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.472247,37.490594,-77.472247,37.490594",
     "geom:latitude":37.490594,
     "geom:longitude":-77.472247,
@@ -32,7 +33,13 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LXKNFoNPObtjPB8KDcK5T_37.490594_-77.472247@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909320,
     "wof:geomhash":"fc1c3cd6d12f79986c4bd5558dc03769",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739547987
+        }
+    ],
     "wof:id":739547987,
-    "wof:lastmodified":1472651894,
+    "wof:lastmodified":1492029497,
     "wof:name":"Poly Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

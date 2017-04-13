@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.13633,37.230782,-77.13633,37.230782",
     "geom:latitude":37.230782,
     "geom:longitude":-77.13633,
@@ -37,17 +38,30 @@
         "hoist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JDTto2v8HHYOJdXKjzS8N_37.230782_-77.136330@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913278,
-    "wof:geomhash":"caabe0ea0afd43af42300b02e3df8fb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c253285ed40ea905af9115c39eea017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739733989
+        }
+    ],
     "wof:id":739733989,
-    "wof:lastmodified":1472652264,
+    "wof:lastmodified":1492039239,
     "wof:name":"Load Test Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

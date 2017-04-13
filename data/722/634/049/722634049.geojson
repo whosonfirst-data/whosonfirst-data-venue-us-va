@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.246522,36.75323,-77.246522,36.75323",
     "geom:latitude":36.75323,
     "geom:longitude":-77.246522,
@@ -33,17 +34,30 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7boQVnbsdcPF8za4B8GfxN_36.753230_-77.246522@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885721,
-    "wof:geomhash":"29b002f503f7db0a1adb2cea111b4299",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ae830afffdccb498ff60d9d3431620c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":722634049
+        }
+    ],
     "wof:id":722634049,
-    "wof:lastmodified":1472651397,
+    "wof:lastmodified":1492072899,
     "wof:name":"Southampton County Jail Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

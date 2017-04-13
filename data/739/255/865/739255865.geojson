@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.753252,38.35309,-77.753252,38.35309",
     "geom:latitude":38.35309,
     "geom:longitude":-77.753252,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729697,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S6f8v3kBLiZ1PY5aR7LaT_38.353090_-77.753252@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903618,
-    "wof:geomhash":"2037dea792e7ad157c29289c592b79c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abb25c0334870c7a5864b83e064b54d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "locality_id":101729697,
+            "region_id":85688747,
+            "venue_id":739255865
+        }
+    ],
     "wof:id":739255865,
-    "wof:lastmodified":1472651115,
+    "wof:lastmodified":1492047188,
     "wof:name":"TWS Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

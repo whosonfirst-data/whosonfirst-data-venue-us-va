@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.119951,36.762707,-76.119951,36.762707",
     "geom:latitude":36.762707,
     "geom:longitude":-76.119951,
@@ -39,6 +40,7 @@
         85633793,
         101728745,
         102081929,
+        85829719,
         85846757
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894424,
-    "wof:geomhash":"a217ee10224613cb7226f13279ea032a",
+    "wof:geomhash":"6517027c86ed24b1b951faf815609b6d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85829719,
+            "region_id":85688747,
+            "venue_id":723068593
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":723068593,
-    "wof:lastmodified":1472651239,
+    "wof:lastmodified":1492057208,
     "wof:name":"Sea Side Electric Company",
-    "wof:parent_id":85846757,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

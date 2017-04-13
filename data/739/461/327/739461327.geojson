@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.172143,39.158329,-78.172143,39.158329",
     "geom:latitude":39.158329,
     "geom:longitude":-78.172143,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IjOKYZsu3wDGSKD7c4ufH_39.158329_-78.172143@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907738,
-    "wof:geomhash":"d8927851c1d74f227ffc75546405a32b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22859a5c6e6746c3d56c859dd83c8d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739461327
+        }
+    ],
     "wof:id":739461327,
-    "wof:lastmodified":1472651602,
+    "wof:lastmodified":1492042313,
     "wof:name":"SunTrust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

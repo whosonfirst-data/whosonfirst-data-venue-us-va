@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529648,38.781303,-77.529648,38.781303",
     "geom:latitude":38.781303,
     "geom:longitude":-77.529648,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dwAyKoVYoxNkquSP8KHAq_38.781303_-77.529648@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889142,
-    "wof:geomhash":"8b7bef98beb6924155578d807e09cdb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5aa1e6fce64fae91c538b7b21f28bc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":722814077
+        }
+    ],
     "wof:id":722814077,
-    "wof:lastmodified":1472651863,
+    "wof:lastmodified":1492074257,
     "wof:name":"National Corporate Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

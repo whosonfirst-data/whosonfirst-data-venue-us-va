@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401236,37.569134,-77.401236,37.569134",
     "geom:latitude":37.569134,
     "geom:longitude":-77.401236,
@@ -34,7 +35,13 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hROXIThzAyFoEkfXVTGM8_37.569134_-77.401236@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461903687,
     "wof:geomhash":"5867545d97ddba079e00ef98e8012a11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "region_id":85688747,
+            "venue_id":739259489
+        }
+    ],
     "wof:id":739259489,
-    "wof:lastmodified":1472651106,
+    "wof:lastmodified":1492032938,
     "wof:name":"Citi Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

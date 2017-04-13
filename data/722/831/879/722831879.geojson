@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.477533,36.787221,-78.477533,36.787221",
     "geom:latitude":36.787221,
     "geom:longitude":-78.477533,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HLJG0QUXr7kP07NafUkkm_36.787221_-78.477533@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889478,
-    "wof:geomhash":"8a7ef545c7a354b43a57f362494b6833",
-    "wof:hierarchy":[],
+    "wof:geomhash":"804d76075b4c8ffae6ad825160df9b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":722831879
+        }
+    ],
     "wof:id":722831879,
-    "wof:lastmodified":1472651910,
+    "wof:lastmodified":1492063513,
     "wof:name":"Ray's Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.345852,37.546362,-77.345852,37.546362",
     "geom:latitude":37.546362,
     "geom:longitude":-77.345852,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3azOtLM7MLDne9rUo9dnH5_37.546362_-77.345852@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902110,
-    "wof:geomhash":"dd3363008551fb2e3425e5553cd3907b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"804c34e9df1571b86552b9a92a570ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":723459259
+        }
+    ],
     "wof:id":723459259,
-    "wof:lastmodified":1472652279,
+    "wof:lastmodified":1492061030,
     "wof:name":"Cox Brothers Electrical Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471304,39.040781,-77.471304,39.040781",
     "geom:latitude":39.040781,
     "geom:longitude":-77.471304,
@@ -32,17 +33,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Oya2qrQmOfUP1z4VfPpkw_39.040781_-77.471304@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894217,
-    "wof:geomhash":"64e7086fc2d1df9269987f89bd75db1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00498a07698ec42d6d6d591197993d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723059925
+        }
+    ],
     "wof:id":723059925,
-    "wof:lastmodified":1472651240,
+    "wof:lastmodified":1492048403,
     "wof:name":"Information Age Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

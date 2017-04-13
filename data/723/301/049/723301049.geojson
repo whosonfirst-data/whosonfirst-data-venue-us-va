@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369505,38.267298,-77.369505,38.267298",
     "geom:latitude":38.267298,
     "geom:longitude":-77.369505,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R2O2breFFGly1hnG00ESe_38.267298_-77.369505@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899080,
-    "wof:geomhash":"e976921e49b36df7a2898976ea45ceba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48bd98ea6beab8b182d73570497998e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547259,
+            "venue_id":723301049
+        }
+    ],
     "wof:id":723301049,
-    "wof:lastmodified":1472651721,
+    "wof:lastmodified":1492061010,
     "wof:name":"Young & Fisher Excavating Inc",
     "wof:parent_id":420547259,
     "wof:placetype":"venue",

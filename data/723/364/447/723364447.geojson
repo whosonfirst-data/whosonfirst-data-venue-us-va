@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519234,38.734784,-77.519234,38.734784",
     "geom:latitude":38.734784,
     "geom:longitude":-77.519234,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gIB0VxH7ZVeaNuosSgQIN_38.734784_-77.519234@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900272,
-    "wof:geomhash":"c11a542c8dd7a076e92ee404ed61e10b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5463bf6206ea3626f12e23c3028270f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":723364447
+        }
+    ],
     "wof:id":723364447,
-    "wof:lastmodified":1472652073,
+    "wof:lastmodified":1492050195,
     "wof:name":"CACI Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

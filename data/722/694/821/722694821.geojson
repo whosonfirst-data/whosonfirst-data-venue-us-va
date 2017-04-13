@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449252,38.311628,-77.449252,38.311628",
     "geom:latitude":38.311628,
     "geom:longitude":-77.449252,
@@ -33,17 +34,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40s4xvNM5xrEmmr4ls4mZc_38.311628_-77.449252@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886869,
-    "wof:geomhash":"c61872a06a289e58f7cf1919ce95d2de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa6a108e18eb6d125e34eda979f85e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":722694821
+        }
+    ],
     "wof:id":722694821,
-    "wof:lastmodified":1472651584,
+    "wof:lastmodified":1492063289,
     "wof:name":"King Motors",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

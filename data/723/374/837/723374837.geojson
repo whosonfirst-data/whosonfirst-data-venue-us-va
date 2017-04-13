@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.287747,38.904142,-77.287747,38.904142",
     "geom:latitude":38.904142,
     "geom:longitude":-77.287747,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729779,
+        101729035,
         102084863,
+        85839307,
+        101729779,
         85818477
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900469,
-    "wof:geomhash":"6d2056910facff4342890b244482b16d",
+    "wof:geomhash":"702b1cbf07999b87d93dcda33e9ffac9",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729035,
+            "neighbourhood_id":85839307,
+            "region_id":85688747,
+            "venue_id":723374837
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":723374837,
-    "wof:lastmodified":1472652113,
+    "wof:lastmodified":1492056672,
     "wof:name":"Hissong Associates Inc",
-    "wof:parent_id":85818477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

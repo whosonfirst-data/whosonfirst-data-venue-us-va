@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.979148,39.149871,-77.979148,39.149871",
     "geom:latitude":39.149871,
     "geom:longitude":-77.979148,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101729005,
         102084971,
+        85845423,
         85803277
     ],
     "wof:breaches":[],
@@ -45,9 +48,19 @@
     },
     "wof:country":"US",
     "wof:created":1461896452,
-    "wof:geomhash":"6fd58a7741c10a1eecca49c280414fd7",
+    "wof:geomhash":"ff1eb679d883a377121f7708359a08f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084971,
+            "locality_id":101729005,
+            "neighbourhood_id":85845423,
+            "region_id":85688747,
+            "venue_id":723168551
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084971,
             "locality_id":101729005,
@@ -57,9 +70,9 @@
         }
     ],
     "wof:id":723168551,
-    "wof:lastmodified":1472651472,
+    "wof:lastmodified":1492059695,
     "wof:name":"Moore & Dorsey Inc",
-    "wof:parent_id":85803277,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

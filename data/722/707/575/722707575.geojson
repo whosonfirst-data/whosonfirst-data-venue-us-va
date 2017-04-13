@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.732658,37.320822,-76.732658,37.320822",
     "geom:latitude":37.320822,
     "geom:longitude":-76.732658,
@@ -31,19 +32,28 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZORZOm3ymwE08TFsEM2IO_37.320822_-76.732658@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887109,
-    "wof:geomhash":"72bc61542a1d6b8ce32a8135363c297d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"339ded004d6f14a6ec99274927b42ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":722707575
+        }
+    ],
     "wof:id":722707575,
-    "wof:lastmodified":1472651581,
+    "wof:lastmodified":1492068515,
     "wof:name":"Harrys Mobile Repair Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

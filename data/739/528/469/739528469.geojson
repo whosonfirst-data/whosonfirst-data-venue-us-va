@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.849607,36.736112,-77.849607,36.736112",
     "geom:latitude":36.736112,
     "geom:longitude":-77.849607,
@@ -32,7 +33,12 @@
         "m"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QVMsea4LSa9Mdt6UBwMVf_36.736112_-77.849607@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908953,
     "wof:geomhash":"123e931e5c5c34afd421670e771d6ae7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739528469
+        }
+    ],
     "wof:id":739528469,
-    "wof:lastmodified":1472651765,
+    "wof:lastmodified":1492032532,
     "wof:name":"Shirley Temple Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

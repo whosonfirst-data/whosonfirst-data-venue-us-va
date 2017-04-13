@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.390224,36.997042,-76.390224,36.997042",
     "geom:latitude":36.997042,
     "geom:longitude":-76.390224,
@@ -31,19 +32,36 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913,
+        85859265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SSDAUHIAtlbzkjbJVDuCQ_36.997042_-76.390224@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896112,
-    "wof:geomhash":"e31c13681ba8f47e71fb3722119ca2eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc7f247f01631591ba376115d65ef26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85859265,
+            "region_id":85688747,
+            "venue_id":723150887
+        }
+    ],
     "wof:id":723150887,
-    "wof:lastmodified":1472651428,
+    "wof:lastmodified":1492058937,
     "wof:name":"Mr Gees Auto Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

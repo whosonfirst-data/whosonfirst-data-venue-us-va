@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.877584,38.065212,-78.877584,38.065212",
     "geom:latitude":38.065212,
     "geom:longitude":-78.877584,
@@ -33,17 +34,32 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rQN2i07IOvMubVMiz9Zbe_38.065212_-78.877584@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895295,
-    "wof:geomhash":"d60668c9b758bbb1906409da4e3990df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95301361461b07e168899ea707b6a98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723109025
+        }
+    ],
     "wof:id":723109025,
-    "wof:lastmodified":1472651328,
+    "wof:lastmodified":1492059224,
     "wof:name":"Performance Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

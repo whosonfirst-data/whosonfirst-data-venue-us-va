@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.640818,38.843774,-77.640818,38.843774",
     "geom:latitude":38.843774,
     "geom:longitude":-77.640818,
@@ -28,7 +29,12 @@
     "sg:postcode":"20169",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76POROyQCGIEED6ssdjWbQ_38.843774_-77.640818@1303262496"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910681,
     "wof:geomhash":"256e31664bad77739b291eb2d69839ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613787
+        }
+    ],
     "wof:id":739613787,
-    "wof:lastmodified":1472652007,
+    "wof:lastmodified":1492032411,
     "wof:name":"Dominion Valley Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

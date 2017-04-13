@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.031401,37.736347,-80.031401,37.736347",
     "geom:latitude":37.736347,
     "geom:longitude":-80.031401,
@@ -32,17 +33,30 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u05Xn7z7lDIU1n5ecfCfb_37.736347_-80.031401@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885639,
-    "wof:geomhash":"063272a326a730b39e3893c5197f0d33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db3e690a712d56cc2489ec9470720355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083817,
+            "region_id":85688747,
+            "venue_id":722630795
+        }
+    ],
     "wof:id":722630795,
-    "wof:lastmodified":1472651424,
+    "wof:lastmodified":1492070946,
     "wof:name":"Alice Persinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

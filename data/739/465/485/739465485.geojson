@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.614456,37.520934,-77.614456,37.520934",
     "geom:latitude":37.520934,
     "geom:longitude":-77.614456,
@@ -32,7 +33,13 @@
         "janitorial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IrgTHO5V090hWtgM3qpeF_37.520934_-77.614456@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907810,
     "wof:geomhash":"138229fe632493d35e4a2ea87936e8a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739465485
+        }
+    ],
     "wof:id":739465485,
-    "wof:lastmodified":1472651618,
+    "wof:lastmodified":1492031926,
     "wof:name":"A Bright Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.113257,36.975791,-81.113257,36.975791",
     "geom:latitude":36.975791,
     "geom:longitude":-81.113257,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461906379,
-    "wof:geomhash":"b0d094c39235829e4b5b49795d5fef95",
+    "wof:geomhash":"647056686759612d8096e9c6eb0f9f17",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":739389333
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +58,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":739389333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":739389333
         }
     ],
     "wof:id":739389333,
-    "wof:lastmodified":1472651375,
+    "wof:lastmodified":1492041948,
     "wof:name":"Magnetic Technologies Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

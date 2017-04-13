@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.203065,36.599905,-82.203065,36.599905",
     "geom:latitude":36.599905,
     "geom:longitude":-82.203065,
@@ -33,31 +34,43 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728659,
-        102084925
+        102084925,
+        85805449,
+        420547853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v7e5O96GF5DJaPQk5rLSK_36.599905_-82.203065@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"77bbf95d1192ed99a48717ea71561a69",
+    "wof:geomhash":"95d5f89ab0b3b1362e08b6824848896e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084925,
             "locality_id":101728659,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85805449,
+            "region_id":85688747,
+            "venue_id":403942929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":420547853,
             "region_id":85688747,
             "venue_id":403942929
         }
     ],
     "wof:id":403942929,
-    "wof:lastmodified":1472651067,
+    "wof:lastmodified":1492047260,
     "wof:name":"Styles For You",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

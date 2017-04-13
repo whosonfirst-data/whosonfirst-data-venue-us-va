@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435646,38.355022,-77.435646,38.355022",
     "geom:latitude":38.355022,
     "geom:longitude":-77.435646,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28gkWqwWt34LX6nP438x3X_38.355022_-77.435646@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895262,
-    "wof:geomhash":"1333c6947e126f9647b7613a1d3f4647",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9394ef3de7f786dbbccd3b17c8d2624b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":723107247
+        }
+    ],
     "wof:id":723107247,
-    "wof:lastmodified":1472651335,
+    "wof:lastmodified":1492053369,
     "wof:name":"Christopher Mayden Const",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.835533,37.948664,-78.835533,37.948664",
     "geom:latitude":37.948664,
     "geom:longitude":-78.835533,
@@ -28,7 +29,12 @@
     "sg:postcode":"22920",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q3utHgOFpSQNUg9WGHF7X_37.948664_-78.835533@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909343,
     "wof:geomhash":"98d6ffe0f99ba2e8dd33cdaca72276ee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739549237
+        }
+    ],
     "wof:id":739549237,
-    "wof:lastmodified":1472651859,
+    "wof:lastmodified":1492032221,
     "wof:name":"Martha Jfferson Med Svcs Afton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

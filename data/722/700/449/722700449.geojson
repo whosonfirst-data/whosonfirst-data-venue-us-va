@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.444467,37.085609,-76.444467,37.085609",
     "geom:latitude":37.085609,
     "geom:longitude":-76.444467,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AeJpPDN7usRrHa47rvbr4_37.085609_-76.444467@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886975,
-    "wof:geomhash":"43bb4d198c11d720edee669d315f6d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8af902b1ead73ffb53aa07494b052d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":722700449
+        }
+    ],
     "wof:id":722700449,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492065966,
     "wof:name":"A&B A/C Heating Ref",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

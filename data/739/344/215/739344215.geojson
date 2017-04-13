@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50038,37.580665,-77.50038,37.580665",
     "geom:latitude":37.580665,
     "geom:longitude":-77.50038,
@@ -32,17 +33,30 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P7T27Gi9ZhBbAFl4Vvisc_37.580665_-77.500380@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905471,
-    "wof:geomhash":"0c7ec6e6720f05d11c41febc21281974",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fde6391bf297404ee68976d0858fa87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739344215
+        }
+    ],
     "wof:id":739344215,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492042924,
     "wof:name":"Martin Branding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

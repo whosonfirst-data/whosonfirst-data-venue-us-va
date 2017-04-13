@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.461444,38.282658,-78.461444,38.282658",
     "geom:latitude":38.282658,
     "geom:longitude":-78.461444,
@@ -38,17 +39,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60qB19uETyKhRpBpYdPrBM_38.282658_-78.461444@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886582,
-    "wof:geomhash":"35cc1e410ce2acea895073ca7fa6e593",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35ad7eb0a08d9f0931aee81537f02f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":722680075
+        }
+    ],
     "wof:id":722680075,
-    "wof:lastmodified":1472651499,
+    "wof:lastmodified":1492071205,
     "wof:name":"Sheckler's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

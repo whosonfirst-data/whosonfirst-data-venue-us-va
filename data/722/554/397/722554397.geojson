@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.400151,37.570731,-77.400151,37.570731",
     "geom:latitude":37.570731,
     "geom:longitude":-77.400151,
@@ -32,17 +33,32 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38Hy4Say2NVZVzu09U4bw2_37.570731_-77.400151@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884101,
-    "wof:geomhash":"9aa0d3d3def75b97d4d9264018720c2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52d8f918c28660e4addee0a892a9f019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "region_id":85688747,
+            "venue_id":722554397
+        }
+    ],
     "wof:id":722554397,
-    "wof:lastmodified":1472651104,
+    "wof:lastmodified":1492072935,
     "wof:name":"Farmers Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

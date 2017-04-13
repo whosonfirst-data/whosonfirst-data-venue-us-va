@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510398,38.783589,-77.510398,38.783589",
     "geom:latitude":38.783589,
     "geom:longitude":-77.510398,
@@ -34,17 +35,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xNw6iz7twcUOxzE5LpLyj_38.783721_-77.509853@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461910319,
-    "wof:geomhash":"bccc51b2e750ee99a480d9935d670ee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b967e53251b6af7bd47e0e53fbeb2716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739596223
+        }
+    ],
     "wof:id":739596223,
-    "wof:lastmodified":1472651931,
+    "wof:lastmodified":1492041682,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.543429,39.108647,-77.543429,39.108647",
     "geom:latitude":39.108647,
     "geom:longitude":-77.543429,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"http://www.leesburg.hamptoninn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27vbsJnuRCbk9zJHWZ5Ixu_39.108647_-77.543429@1303262497"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910753,
     "wof:geomhash":"e771879e84e3598500673e60b45565e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739616763
+        }
+    ],
     "wof:id":739616763,
-    "wof:lastmodified":1472652014,
+    "wof:lastmodified":1492029664,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

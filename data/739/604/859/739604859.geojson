@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411989,38.727273,-77.411989,38.727273",
     "geom:latitude":38.727273,
     "geom:longitude":-77.411989,
@@ -28,7 +29,13 @@
     "sg:postcode":"20111",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XK2TASPzEpYBH5EjH00db_38.727273_-77.411989@1303262495"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910508,
     "wof:geomhash":"45c22718b2cc20487ce88e4dd8614e64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":739604859
+        }
+    ],
     "wof:id":739604859,
-    "wof:lastmodified":1472651969,
+    "wof:lastmodified":1492032505,
     "wof:name":"Passenger Vessel Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

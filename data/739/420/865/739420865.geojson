@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921434,38.098529,-78.921434,38.098529",
     "geom:latitude":38.098529,
     "geom:longitude":-78.921434,
@@ -28,7 +29,12 @@
     "sg:postcode":"22980",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kXIDA3YizxybgGwqPFnss_38.098529_-78.921434@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906976,
     "wof:geomhash":"7895b6f456525387689b8460ea4e0138",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "region_id":85688747,
+            "venue_id":739420865
+        }
+    ],
     "wof:id":739420865,
-    "wof:lastmodified":1472651525,
+    "wof:lastmodified":1492031966,
     "wof:name":"Gregory Tolar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

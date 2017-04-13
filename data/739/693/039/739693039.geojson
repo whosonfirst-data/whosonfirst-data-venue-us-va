@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42165,38.329707,-77.42165,38.329707",
     "geom:latitude":38.329707,
     "geom:longitude":-77.42165,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"http://www.mountainviewhs.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AW19gpvpG3z2XSzXw5Dnm_38.329707_-77.421650@1303262546"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912401,
     "wof:geomhash":"e6e034a8cc30b4f1b309c421594804c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":739693039
+        }
+    ],
     "wof:id":739693039,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492031410,
     "wof:name":"Dixon-Smith Middle School",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

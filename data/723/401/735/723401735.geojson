@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.567951,39.115021,-77.567951,39.115021",
     "geom:latitude":39.115021,
     "geom:longitude":-77.567951,
@@ -36,17 +37,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eWVudQeZp0Cu2hD8lVGxT_39.115021_-77.567951@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901000,
-    "wof:geomhash":"f3ec29e0cf7e79854b4195c3fd36e4a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d5425a8a7e2d44d77293d9ac2e5324b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723401735
+        }
+    ],
     "wof:id":723401735,
-    "wof:lastmodified":1472652128,
+    "wof:lastmodified":1492051197,
     "wof:name":"Princeton Builders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

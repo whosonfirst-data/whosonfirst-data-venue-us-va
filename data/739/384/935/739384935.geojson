@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.489395,37.824381,-78.489395,37.824381",
     "geom:latitude":37.824381,
     "geom:longitude":-78.489395,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MmPFLkgrRb3W7uyTU1dvz_37.824381_-78.489395@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906283,
-    "wof:geomhash":"dfbf17d49f51660f66c99419f6267564",
-    "wof:hierarchy":[],
+    "wof:geomhash":"392a3a6ffa4ed31562e74c827dfc6042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739384935
+        }
+    ],
     "wof:id":739384935,
-    "wof:lastmodified":1472651363,
+    "wof:lastmodified":1492043616,
     "wof:name":"Johnson Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.413241,37.018219,-76.413241,37.018219",
     "geom:latitude":37.018219,
     "geom:longitude":-76.413241,
@@ -31,7 +32,13 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yXlypJKk439q56xPm7Y0O_37.018219_-76.413241@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905453,
     "wof:geomhash":"bce070fc93f628e226d702ece5e14a57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739343499
+        }
+    ],
     "wof:id":739343499,
-    "wof:lastmodified":1472651290,
+    "wof:lastmodified":1492032173,
     "wof:name":"W Randolph Rylander",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

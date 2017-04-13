@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.946568,37.27044,-79.946568,37.27044",
     "geom:latitude":37.27044,
     "geom:longitude":-79.946568,
@@ -28,7 +29,13 @@
     "sg:postcode":"24016",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uk41y2WWmE3xaKhG6a4B6_37.270440_-79.946568@1303262552"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913325,
     "wof:geomhash":"1079af4b232f4f8f9d91fb0f21777679",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735973
+        }
+    ],
     "wof:id":739735973,
-    "wof:lastmodified":1472652272,
+    "wof:lastmodified":1492032051,
     "wof:name":"Prison Health Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

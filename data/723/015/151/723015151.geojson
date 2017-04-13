@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.997566,36.712153,-81.997566,36.712153",
     "geom:latitude":36.712153,
     "geom:longitude":-81.997566,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SpLksYhyPSsUdGy4FACzf_36.712153_-81.997566@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893246,
-    "wof:geomhash":"d69843296fd0077697f4aba84a1bc1d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f17ec527302831b142c4848fa88607db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723015151
+        }
+    ],
     "wof:id":723015151,
-    "wof:lastmodified":1472651090,
+    "wof:lastmodified":1492047434,
     "wof:name":"Empire Ford Used Car & Truck C",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

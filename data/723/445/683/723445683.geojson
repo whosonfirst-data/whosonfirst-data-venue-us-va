@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443218,38.305948,-77.443218,38.305948",
     "geom:latitude":38.305948,
     "geom:longitude":-77.443218,
@@ -31,19 +32,28 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BUb9fBUEmCTg2dOt8CsbP_38.305948_-77.443218@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901864,
-    "wof:geomhash":"b5dc9b9d0d6dedd98d02a2ab23f47a77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04e8e3c42b4b900ed5ae92adbba6493f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":723445683
+        }
+    ],
     "wof:id":723445683,
-    "wof:lastmodified":1472652269,
+    "wof:lastmodified":1492052817,
     "wof:name":"Karla's Great Cheesecake",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

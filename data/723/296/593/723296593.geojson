@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.778682,37.384707,-76.778682,37.384707",
     "geom:latitude":37.384707,
     "geom:longitude":-76.778682,
@@ -31,19 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751,
+        420546923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IfHkeDsBDmeQUzkSLdFbe_37.384707_-76.778682@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898996,
-    "wof:geomhash":"5000e90f289bbb1b4c9ef4f258b935ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50267cf4750f3fdf94773a2b00cb6e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":723296593
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546923,
+            "venue_id":723296593
+        }
+    ],
     "wof:id":723296593,
-    "wof:lastmodified":1472651796,
+    "wof:lastmodified":1492047471,
     "wof:name":"Apex Solutions",
-    "wof:parent_id":420546751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.736622,36.765446,-80.736622,36.765446",
     "geom:latitude":36.765446,
     "geom:longitude":-80.736622,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yuX7MJCjAaUYbdZwRuwax_36.765446_-80.736622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886295,
-    "wof:geomhash":"a8f504faf7b1350e2cd3e220b7e582fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac958df09426d6038d0b99bf8bac9622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":722664609
+        }
+    ],
     "wof:id":722664609,
-    "wof:lastmodified":1472651481,
+    "wof:lastmodified":1492075217,
     "wof:name":"Bus Station Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

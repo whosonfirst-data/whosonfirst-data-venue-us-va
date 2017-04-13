@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.77895,37.876333,-77.77895,37.876333",
     "geom:latitude":37.876333,
     "geom:longitude":-77.77895,
@@ -31,7 +32,12 @@
         "mill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TDX95URJCBTWwGuffAWBa_37.876333_-77.778950@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906958,
     "wof:geomhash":"fd2d5cf50dc6d63f2fa5adce469dbabf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739419909
+        }
+    ],
     "wof:id":739419909,
-    "wof:lastmodified":1472651528,
+    "wof:lastmodified":1492029785,
     "wof:name":"D J Stanley Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

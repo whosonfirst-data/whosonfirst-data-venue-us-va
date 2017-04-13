@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.671293,38.862284,-77.671293,38.862284",
     "geom:latitude":38.862284,
     "geom:longitude":-77.671293,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q5GnQiuqDVg3l1CN8uL1l_38.862284_-77.671293@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903633,
     "wof:geomhash":"3b7cc38b11f88e7fcd6a65ed628c5f4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739256719
+        }
+    ],
     "wof:id":739256719,
-    "wof:lastmodified":1472651112,
+    "wof:lastmodified":1492031099,
     "wof:name":"St Stephens Catholic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

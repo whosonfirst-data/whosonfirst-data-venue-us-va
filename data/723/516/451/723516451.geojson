@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.266669,39.009634,-77.266669,39.009634",
     "geom:latitude":39.009634,
     "geom:longitude":-77.266669,
@@ -34,17 +35,32 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U9PpCOqDcYQti9O6mPe8O_39.009634_-77.266669@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903359,
-    "wof:geomhash":"8998ac09ec44a4cad32e77e54bc867dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b637745cd803e9dd31b9eb2828e2cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":723516451
+        }
+    ],
     "wof:id":723516451,
-    "wof:lastmodified":1472652371,
+    "wof:lastmodified":1492057372,
     "wof:name":"GML Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

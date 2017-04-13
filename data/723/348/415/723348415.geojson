@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422626,38.292145,-77.422626,38.292145",
     "geom:latitude":38.292145,
     "geom:longitude":-77.422626,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a4FmblC1Jvbrh55dmvzos_38.292145_-77.422626@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899967,
-    "wof:geomhash":"a0a6adb25df63b10367ef29a980b713c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2632e15cc1a53055cb17010e58fc0a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":723348415
+        }
+    ],
     "wof:id":723348415,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492054385,
     "wof:name":"B & C Heating and AC",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

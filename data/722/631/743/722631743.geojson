@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.050436,38.358244,-77.050436,38.358244",
     "geom:latitude":38.358244,
     "geom:longitude":-77.050436,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729075,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77lLsguHInqNSXRUG8aBUF_38.358244_-77.050436@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885659,
-    "wof:geomhash":"303d75488aa99ffeb12ebd421bae44dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f5697ce9c638401d6bcf6877214ca8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729075,
+            "region_id":85688747,
+            "venue_id":722631743
+        }
+    ],
     "wof:id":722631743,
-    "wof:lastmodified":1472651422,
+    "wof:lastmodified":1492063661,
     "wof:name":"Monmouth Woods Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.569397,37.493839,-77.569397,37.493839",
     "geom:latitude":37.493839,
     "geom:longitude":-77.569397,
@@ -32,7 +33,12 @@
         "tower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZLQZ3ksS1GMDheJzznPwb_37.493839_-77.569397@1303262551"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461913087,
     "wof:geomhash":"5ec7e5f03b6ab46a511a2410a4f62b79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724705
+        }
+    ],
     "wof:id":739724705,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492030930,
     "wof:name":"Crown Castle International Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764994,37.341888,-76.764994,37.341888",
     "geom:latitude":37.341888,
     "geom:longitude":-76.764994,
@@ -31,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LKpWh6RYcdOCqViHi6o9X_37.341888_-76.764994@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904491,
     "wof:geomhash":"3d425fabda341ec6c026cc8a080587d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739296523
+        }
+    ],
     "wof:id":739296523,
-    "wof:lastmodified":1472651219,
+    "wof:lastmodified":1492029524,
     "wof:name":"Leeco LLC",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

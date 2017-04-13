@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.423771,38.8975,-77.423771,38.8975",
     "geom:latitude":38.8975,
     "geom:longitude":-77.423771,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6adprQCguxMKKhFSQJ0L68_38.897500_-77.423771@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885572,
-    "wof:geomhash":"bdcd9a64bb8c5604c105f11665ae50e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95e5a40eb5436eb43529895267f32bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722628517
+        }
+    ],
     "wof:id":722628517,
-    "wof:lastmodified":1472651401,
+    "wof:lastmodified":1492063505,
     "wof:name":"Us Home Ctr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

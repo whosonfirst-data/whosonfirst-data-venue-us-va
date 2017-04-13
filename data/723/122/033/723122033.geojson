@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.382711,38.401889,-77.382711,38.401889",
     "geom:latitude":38.401889,
     "geom:longitude":-77.382711,
@@ -31,17 +32,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71aLGq9vmSM4gkg5M4EuRw_38.401889_-77.382711@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895553,
-    "wof:geomhash":"91abf780af17c68113622749b6ca7d02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b48d17e3abaf776e9d63d556f29a2264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":723122033
+        }
+    ],
     "wof:id":723122033,
-    "wof:lastmodified":1472651334,
+    "wof:lastmodified":1492055162,
     "wof:name":"Brent Bordeaux Inc",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.3176,38.032333,-77.3176,38.032333",
     "geom:latitude":38.032333,
     "geom:longitude":-77.3176,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ccIr9HndxMg6X7Y5O9TXq_38.032333_-77.317600@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907135,
     "wof:geomhash":"8ff14c6501ec514553d16a15fd200dc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739428653
+        }
+    ],
     "wof:id":739428653,
-    "wof:lastmodified":1472651531,
+    "wof:lastmodified":1492030981,
     "wof:name":"Cornerstone Log Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

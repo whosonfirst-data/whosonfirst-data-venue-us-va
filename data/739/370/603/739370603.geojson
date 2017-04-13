@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.272568,37.320698,-80.272568,37.320698",
     "geom:latitude":37.320698,
     "geom:longitude":-80.272568,
@@ -31,7 +32,10 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JQJE7WoO0D1AvaU6zbmeA_37.320698_-80.272568@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906007,
     "wof:geomhash":"1c6134b5b0a72fea50870d2ba852e1d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":739370603
+        }
+    ],
     "wof:id":739370603,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492031017,
     "wof:name":"Peter Ozolins Architects",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

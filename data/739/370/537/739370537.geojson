@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.680249,37.417867,-77.680249,37.417867",
     "geom:latitude":37.417867,
     "geom:longitude":-77.680249,
@@ -31,7 +32,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QIzTeEo3Wd735t1TXVGxh_37.417867_-77.680249@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906005,
     "wof:geomhash":"31a2caae19f6d02802ba3f14e63c1638",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739370537
+        }
+    ],
     "wof:id":739370537,
-    "wof:lastmodified":1472651351,
+    "wof:lastmodified":1492031020,
     "wof:name":"Construction Plus  LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

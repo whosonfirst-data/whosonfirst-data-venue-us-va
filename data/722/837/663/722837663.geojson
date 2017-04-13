@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.133086,36.71881,-78.133086,36.71881",
     "geom:latitude":36.71881,
     "geom:longitude":-78.133086,
@@ -32,17 +33,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RtSSZhRCTswk8IpX4aH1E_36.718810_-78.133086@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889584,
-    "wof:geomhash":"031e96f873936f23da581343467c688b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"605f32a3ebe6bd1e5340352b4e5410be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":722837663
+        }
+    ],
     "wof:id":722837663,
-    "wof:lastmodified":1472651954,
+    "wof:lastmodified":1492068416,
     "wof:name":"Personal Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

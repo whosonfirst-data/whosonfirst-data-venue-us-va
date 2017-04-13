@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.583099,38.33976,-77.583099,38.33976",
     "geom:latitude":38.33976,
     "geom:longitude":-77.583099,
@@ -43,7 +44,10 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_037PvBgvCGCJHKsVh9JpJn_38.339760_-77.583099@1303262546"
@@ -51,11 +55,17 @@
     "wof:country":"US",
     "wof:created":1461912407,
     "wof:geomhash":"e1919c752f46ddc5920b055a3eb26bc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739693367
+        }
+    ],
     "wof:id":739693367,
-    "wof:lastmodified":1472652179,
+    "wof:lastmodified":1492031397,
     "wof:name":"Grant Mullen Realty & Appraisals",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

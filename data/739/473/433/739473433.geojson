@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.637399,38.790778,-78.637399,38.790778",
     "geom:latitude":38.790778,
     "geom:longitude":-78.637399,
@@ -31,7 +32,12 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nvccVsB3orqWMtdTLodJP_38.790778_-78.637399@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907952,
     "wof:geomhash":"01cef71ec23d8604dadc70ec5d5bcb00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739473433
+        }
+    ],
     "wof:id":739473433,
-    "wof:lastmodified":1472651619,
+    "wof:lastmodified":1492032899,
     "wof:name":"Ratchliffe Transm & Auto Repr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

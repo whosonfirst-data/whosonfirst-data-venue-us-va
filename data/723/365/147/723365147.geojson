@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.924644,36.661604,-80.924644,36.661604",
     "geom:latitude":36.661604,
     "geom:longitude":-80.924644,
@@ -31,19 +32,36 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728983,
+        102087321,
+        85811367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_430Fk1speT6mvmCk1haxzt_36.661604_-80.924644@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900289,
-    "wof:geomhash":"59d284416168ac161a18b8606a061ed6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d07e632debf111635c1cd4d6ccc93b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087321,
+            "locality_id":101728983,
+            "neighbourhood_id":85811367,
+            "region_id":85688747,
+            "venue_id":723365147
+        }
+    ],
     "wof:id":723365147,
-    "wof:lastmodified":1472652042,
+    "wof:lastmodified":1492054914,
     "wof:name":"Shapes Hair Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

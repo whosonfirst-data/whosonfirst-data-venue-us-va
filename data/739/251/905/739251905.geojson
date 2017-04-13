@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191131,38.171733,-77.191131,38.171733",
     "geom:latitude":38.171733,
     "geom:longitude":-77.191131,
@@ -31,7 +32,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728807,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q6ZWiuGUSfLqlU0vJlCEJ_38.171733_-77.191131@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461903529,
     "wof:geomhash":"4cb6592bcafcffc68ea96a71c5ffd63c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101728807,
+            "region_id":85688747,
+            "venue_id":739251905
+        }
+    ],
     "wof:id":739251905,
-    "wof:lastmodified":1472651098,
+    "wof:lastmodified":1492029811,
     "wof:name":"Port Royal Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

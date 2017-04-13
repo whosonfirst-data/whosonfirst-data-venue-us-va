@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.495228,37.294213,-80.495228,37.294213",
     "geom:latitude":37.294213,
     "geom:longitude":-80.495228,
@@ -33,7 +34,12 @@
         "land"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ixDATwJaH3cNlYY9EMwxS_37.294213_-80.495228@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461903957,
     "wof:geomhash":"257f70adfad70fc6988053c122ba0ffc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "region_id":85688747,
+            "venue_id":739272029
+        }
+    ],
     "wof:id":739272029,
-    "wof:lastmodified":1472651137,
+    "wof:lastmodified":1492029370,
     "wof:name":"Appalachian Trail Conference",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

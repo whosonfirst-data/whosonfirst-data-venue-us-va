@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.528623,38.284859,-77.528623,38.284859",
     "geom:latitude":38.284859,
     "geom:longitude":-77.528623,
@@ -32,7 +33,12 @@
         "preparation-business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RlmfZ0T8EYWJPcwr2FUbl_38.284859_-77.528623@1303262546"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912406,
     "wof:geomhash":"3acb863453afcfe61a0f85145c2dd759",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693309
+        }
+    ],
     "wof:id":739693309,
-    "wof:lastmodified":1472652178,
+    "wof:lastmodified":1492031388,
     "wof:name":"Djd Taxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

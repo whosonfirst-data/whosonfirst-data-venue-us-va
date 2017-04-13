@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.731845,37.320311,-76.731845,37.320311",
     "geom:latitude":37.320311,
     "geom:longitude":-76.731845,
@@ -31,19 +32,28 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FSQPh6aYnJw0kp0MlpMCO_37.320311_-76.731845@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908360,
-    "wof:geomhash":"022de105b271ccfb9ad8a2f9551fee18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4318984c57feed9fd78b1855f855fa8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739495981
+        }
+    ],
     "wof:id":739495981,
-    "wof:lastmodified":1472651708,
+    "wof:lastmodified":1492038332,
     "wof:name":"Stuttgart Service of Williams",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

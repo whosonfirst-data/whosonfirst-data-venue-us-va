@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449819,38.827137,-77.449819,38.827137",
     "geom:latitude":38.827137,
     "geom:longitude":-77.449819,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IZhQsHV7u1ux2AMTr8iSo_38.827137_-77.449819@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900492,
-    "wof:geomhash":"fb20108743824606357f05ae725f159a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2233786a75580b5a9adbdf4bb4b58159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723376055
+        }
+    ],
     "wof:id":723376055,
-    "wof:lastmodified":1472652094,
+    "wof:lastmodified":1492060251,
     "wof:name":"CTS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

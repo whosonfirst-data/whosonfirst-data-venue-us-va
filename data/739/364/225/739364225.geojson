@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.169848,39.185095,-78.169848,39.185095",
     "geom:latitude":39.185095,
     "geom:longitude":-78.169848,
@@ -33,7 +34,13 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xt7o3LHCW1333B6cgUgZi_39.185095_-78.169848@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461905888,
     "wof:geomhash":"06bfda69d1fb7b39dc942d98eb98a6a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739364225
+        }
+    ],
     "wof:id":739364225,
-    "wof:lastmodified":1472651335,
+    "wof:lastmodified":1492031759,
     "wof:name":"Richard Oram Designer Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

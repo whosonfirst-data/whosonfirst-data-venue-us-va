@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.448246,37.014458,-76.448246,37.014458",
     "geom:latitude":37.014458,
     "geom:longitude":-76.448246,
@@ -32,9 +33,12 @@
         85688747,
         102191575,
         85633793,
+        101728661,
+        102084913,
+        85879223,
         101729041,
         102085961,
-        85879223
+        85881973
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,22 +46,31 @@
     },
     "wof:country":"US",
     "wof:created":1461905354,
-    "wof:geomhash":"20ff395add1b4a9f607aa0c8f863ef44",
+    "wof:geomhash":"6539a3832211de1c50f636143fc84571",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85879223,
+            "region_id":85688747,
+            "venue_id":739338501
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085961,
             "locality_id":101729041,
-            "neighbourhood_id":85879223,
+            "neighbourhood_id":85881973,
             "region_id":85688747,
             "venue_id":739338501
         }
     ],
     "wof:id":739338501,
-    "wof:lastmodified":1472651285,
+    "wof:lastmodified":1492037419,
     "wof:name":"High Point Furniture Direct",
-    "wof:parent_id":85879223,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

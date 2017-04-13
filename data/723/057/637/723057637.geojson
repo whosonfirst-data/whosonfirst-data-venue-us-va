@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.027561,36.711583,-82.027561,36.711583",
     "geom:latitude":36.711583,
     "geom:longitude":-82.027561,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pt5G5FJuu5DZtYU04Altu_36.711583_-82.027561@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894171,
-    "wof:geomhash":"07831a3e5297422eb683f4f72269a796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d38456c4e949c4f3324c23fe5219c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723057637
+        }
+    ],
     "wof:id":723057637,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492061542,
     "wof:name":"Mvk Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

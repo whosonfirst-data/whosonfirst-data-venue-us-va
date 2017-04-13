@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.666175,38.911049,-77.666175,38.911049",
     "geom:latitude":38.911049,
     "geom:longitude":-77.666175,
@@ -31,7 +32,13 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729263,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ke0AucKgt4uiKxYySgza7_38.911049_-77.666175@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909283,
     "wof:geomhash":"caac780c6197d90b2f41c78af2c7cc44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729263,
+            "region_id":85688747,
+            "venue_id":739546067
+        }
+    ],
     "wof:id":739546067,
-    "wof:lastmodified":1472651855,
+    "wof:lastmodified":1492031589,
     "wof:name":"Pro Auto Performance Centers I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

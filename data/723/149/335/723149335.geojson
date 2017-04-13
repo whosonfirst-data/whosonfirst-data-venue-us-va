@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.177306,38.890665,-77.177306,38.890665",
     "geom:latitude":38.890665,
     "geom:longitude":-77.177306,
@@ -32,17 +33,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728685,
+        102081047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68Dw3Xb1j8KSyhAf0CoWSq_38.890665_-77.177306@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896084,
-    "wof:geomhash":"03f1ce84de7e4600178a8ed7340baea4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e095d8a1c1a73c9bda5850051b0ac96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081047,
+            "locality_id":101728685,
+            "region_id":85688747,
+            "venue_id":723149335
+        }
+    ],
     "wof:id":723149335,
-    "wof:lastmodified":1472651400,
+    "wof:lastmodified":1492060918,
     "wof:name":"John A Macevoy Esq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

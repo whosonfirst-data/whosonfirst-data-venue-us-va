@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.28957,37.108757,-79.28957,37.108757",
     "geom:latitude":37.108757,
     "geom:longitude":-79.28957,
@@ -31,7 +32,13 @@
         "photography"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728697,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jvcuYnNgCaYcWIDDZlPmN_37.108757_-79.289570@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904894,
     "wof:geomhash":"601b145378c637cb9c846f9a1b6cc1a5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101728697,
+            "region_id":85688747,
+            "venue_id":739316631
+        }
+    ],
     "wof:id":739316631,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492031802,
     "wof:name":"Portrait Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.638427,37.613239,-77.638427,37.613239",
     "geom:latitude":37.613239,
     "geom:longitude":-77.638427,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xy1zp1p6D74VjasjKs53U_37.613239_-77.638427@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901387,
-    "wof:geomhash":"fbdf19e1f7e4603d98d213fde09aebb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0362908f541fb4c0b746c12aafbe18e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723421453
+        }
+    ],
     "wof:id":723421453,
-    "wof:lastmodified":1472652238,
+    "wof:lastmodified":1492056939,
     "wof:name":"Sherwin-Williams Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

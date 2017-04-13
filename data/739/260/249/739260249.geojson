@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.164831,39.16543,-78.164831,39.16543",
     "geom:latitude":39.16543,
     "geom:longitude":-78.164831,
@@ -28,7 +29,13 @@
     "sg:postcode":"22601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z4r2OL2hLNb8t30fK3DrJ_39.165430_-78.164831@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903705,
     "wof:geomhash":"011a5b4b1ace96065ad1fb0d51704c92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739260249
+        }
+    ],
     "wof:id":739260249,
-    "wof:lastmodified":1472651101,
+    "wof:lastmodified":1492030861,
     "wof:name":"Urgent Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

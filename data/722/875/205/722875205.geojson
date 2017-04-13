@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.310682,38.37196,-77.310682,38.37196",
     "geom:latitude":38.37196,
     "geom:longitude":-77.310682,
@@ -32,17 +33,26 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W1FoiiaLYVn5lyjLC7P14_38.371960_-77.310682@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890298,
-    "wof:geomhash":"5cbbdc825ddb26a92be4557121c9811c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5c87dd135fc15c26e5c0c1caadcf2a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":722875205
+        }
+    ],
     "wof:id":722875205,
-    "wof:lastmodified":1472652003,
+    "wof:lastmodified":1492066967,
     "wof:name":"Clubhouse",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

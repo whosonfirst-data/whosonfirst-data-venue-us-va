@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764443,37.107092,-76.764443,37.107092",
     "geom:latitude":37.107092,
     "geom:longitude":-76.764443,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mqzw3iPINMwhjjdoYvDJp_37.107092_-76.764443@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900349,
-    "wof:geomhash":"0c64ebae6f0acefa432a72838d4d5359",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e8c3ff4013f7991442587b79d4f7ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723368683
+        }
+    ],
     "wof:id":723368683,
-    "wof:lastmodified":1472652076,
+    "wof:lastmodified":1492057315,
     "wof:name":"T Pierce & Sons Hauling",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.493657,37.47641,-77.493657,37.47641",
     "geom:latitude":37.47641,
     "geom:longitude":-77.493657,
@@ -28,7 +29,13 @@
     "sg:postcode":"23224",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RjA3vooR6zYrawsDNcE1f_37.476410_-77.493657@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905226,
     "wof:geomhash":"0e0d9ab1680d8da0a1c8e5d7234644e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739332535
+        }
+    ],
     "wof:id":739332535,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492030805,
     "wof:name":"William Delaney Repair Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.615535,37.516324,-77.615535,37.516324",
     "geom:latitude":37.516324,
     "geom:longitude":-77.615535,
@@ -33,17 +34,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SpQTMHSn8RQRRVNdlKPK8_37.516324_-77.615535@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902020,
-    "wof:geomhash":"3720a6148c554eef9475a5365f897a98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27fd8addf76ba47fbbba2b78ce8a6908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":723454463
+        }
+    ],
     "wof:id":723454463,
-    "wof:lastmodified":1472652292,
+    "wof:lastmodified":1492057862,
     "wof:name":"James River Pediatrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

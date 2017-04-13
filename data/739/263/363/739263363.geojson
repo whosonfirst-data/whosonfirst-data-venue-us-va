@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.153532,36.808794,-76.153532,36.808794",
     "geom:latitude":36.808794,
     "geom:longitude":-76.153532,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85829827,
         85805429
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903772,
-    "wof:geomhash":"9b5267454e0a9a90c65a1e9a5a45f7e1",
+    "wof:geomhash":"7d876cb1b67bfa59765e8d259e79fade",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85829827,
+            "region_id":85688747,
+            "venue_id":739263363
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":739263363,
-    "wof:lastmodified":1472651107,
+    "wof:lastmodified":1492040270,
     "wof:name":"Charlies Custom Creations",
-    "wof:parent_id":85805429,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

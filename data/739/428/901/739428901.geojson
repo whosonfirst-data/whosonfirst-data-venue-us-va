@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.15893,39.197548,-78.15893,39.197548",
     "geom:latitude":39.197548,
     "geom:longitude":-78.15893,
@@ -31,7 +32,13 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27vjGhNe16q8G09SSTrV05_39.197548_-78.158930@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907139,
     "wof:geomhash":"c916f4d808e48aff3025140c8ea5a6b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739428901
+        }
+    ],
     "wof:id":739428901,
-    "wof:lastmodified":1472651539,
+    "wof:lastmodified":1492030976,
     "wof:name":"Edwards Mobil Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

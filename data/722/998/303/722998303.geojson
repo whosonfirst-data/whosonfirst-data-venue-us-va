@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.45527,37.43672,-77.45527,37.43672",
     "geom:latitude":37.43672,
     "geom:longitude":-77.45527,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45lTeYXLWJCmKR611gfaXD_37.436720_-77.455270@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892868,
-    "wof:geomhash":"2ad6de8f18b0bd3306d356651df9927c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5b64feea43259cbf2cadd7498077ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":722998303
+        }
+    ],
     "wof:id":722998303,
-    "wof:lastmodified":1472652333,
+    "wof:lastmodified":1492074961,
     "wof:name":"Checker Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.769348,37.33705,-76.769348,37.33705",
     "geom:latitude":37.33705,
     "geom:longitude":-76.769348,
@@ -34,17 +35,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I6hlZ3t6rruanerGqkhyD_37.337050_-76.769348@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893928,
-    "wof:geomhash":"5563585850f024452b2e547bed6ea43d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a88b2e6cca3421c7d9e509a9bb81b81f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546769,
+            "venue_id":723045831
+        }
+    ],
     "wof:id":723045831,
-    "wof:lastmodified":1472651176,
+    "wof:lastmodified":1492051773,
     "wof:name":"Scotty's Auto Collision",
     "wof:parent_id":420546769,
     "wof:placetype":"venue",

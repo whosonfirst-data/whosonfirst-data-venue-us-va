@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.765571,37.252057,-76.765571,37.252057",
     "geom:latitude":37.252057,
     "geom:longitude":-76.765571,
@@ -32,19 +33,38 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894085,
+        102085967,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kw7zxXd2mj2VYl9tP51aF_37.252057_-76.765571@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903573,
-    "wof:geomhash":"bd69eb7ed6ccee4f543fd6de9e2f6605",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06dc2e978f0bd48f5cc6c534397dc2c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085967,
+            "neighbourhood_id":85894085,
+            "region_id":85688747,
+            "venue_id":739253891
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":739253891
+        }
+    ],
     "wof:id":739253891,
-    "wof:lastmodified":1472651122,
+    "wof:lastmodified":1492038740,
     "wof:name":"Monica Sigmon Photography",
-    "wof:parent_id":420546805,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

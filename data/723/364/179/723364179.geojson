@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.349882,38.987071,-78.349882,38.987071",
     "geom:latitude":38.987071,
     "geom:longitude":-78.349882,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728883,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MLJBa9dGGQS5GsVJ8puQ8_38.987071_-78.349882@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900267,
-    "wof:geomhash":"f440fa61748dc08577c0c459c707e778",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cb01c906ed44874fe46cd3efe56e2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728883,
+            "region_id":85688747,
+            "venue_id":723364179
+        }
+    ],
     "wof:id":723364179,
-    "wof:lastmodified":1472652051,
+    "wof:lastmodified":1492050197,
     "wof:name":"Art Galleries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

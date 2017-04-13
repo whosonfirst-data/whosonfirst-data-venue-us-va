@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.364726,39.039852,-77.364726,39.039852",
     "geom:latitude":39.039852,
     "geom:longitude":-77.364726,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ndGzP7zzn4mCfS4WYBUzk_39.039852_-77.364726@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907997,
-    "wof:geomhash":"a0793d2f32a0cdb323d55acf95631e44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cabea86409e53506a03f6751ff4ca00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739476089
+        }
+    ],
     "wof:id":739476089,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492046589,
     "wof:name":"Leesburg Fellowship Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

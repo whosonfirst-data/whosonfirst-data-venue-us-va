@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.498901,38.0336,-78.498901,38.0336",
     "geom:latitude":38.0336,
     "geom:longitude":-78.498901,
@@ -31,7 +32,13 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QaiGNxTVa3U8tIKUQkKpX_38.033600_-78.498901@1303262548"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461912690,
     "wof:geomhash":"beb5336cfb18a530c9e0fe63f7efc8ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":739705813
+        }
+    ],
     "wof:id":739705813,
-    "wof:lastmodified":1472652198,
+    "wof:lastmodified":1492030343,
     "wof:name":"Sylvia's Pizza & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

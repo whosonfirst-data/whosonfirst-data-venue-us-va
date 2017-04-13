@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.581702,38.383474,-77.581702,38.383474",
     "geom:latitude":38.383474,
     "geom:longitude":-77.581702,
@@ -33,19 +34,28 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IC7X7KL3iUBJ6NCkGeX9v_38.383474_-77.581702@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898849,
-    "wof:geomhash":"23fd0f7f7b7cfb5071603391ae7125dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5722809e0e01885e2e497768050a45db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546629,
+            "venue_id":723289171
+        }
+    ],
     "wof:id":723289171,
-    "wof:lastmodified":1472651732,
+    "wof:lastmodified":1492062166,
     "wof:name":"Global Service & Trade Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

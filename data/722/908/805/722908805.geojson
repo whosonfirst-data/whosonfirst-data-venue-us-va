@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.326657,36.729246,-76.326657,36.729246",
     "geom:latitude":36.729246,
     "geom:longitude":-76.326657,
@@ -37,6 +38,7 @@
         85633793,
         101728797,
         102087265,
+        420547907,
         85822615
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890964,
-    "wof:geomhash":"4af0d928acd031e67be200a09e394f01",
+    "wof:geomhash":"21d8149536e7d26b314e06d41590261d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":420547907,
+            "region_id":85688747,
+            "venue_id":722908805
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722908805,
-    "wof:lastmodified":1472652134,
+    "wof:lastmodified":1492063742,
     "wof:name":"Trinity Faith Ctr",
-    "wof:parent_id":85822615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

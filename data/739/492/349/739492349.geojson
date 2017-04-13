@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.923159,37.401766,-76.923159,37.401766",
     "geom:latitude":37.401766,
     "geom:longitude":-76.923159,
@@ -32,19 +33,28 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7amm1LBiyIYbxigqCXPbee_37.401766_-76.923159@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908291,
-    "wof:geomhash":"00f273bef43b2ba7ed0d05db0293ee61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ccce2cd52c2ce65c69625c0140f5892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":739492349
+        }
+    ],
     "wof:id":739492349,
-    "wof:lastmodified":1472651679,
+    "wof:lastmodified":1492045977,
     "wof:name":"Oscar R Houchens",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

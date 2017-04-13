@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394816,38.328983,-77.394816,38.328983",
     "geom:latitude":38.328983,
     "geom:longitude":-77.394816,
@@ -33,17 +34,26 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3USHE2rhGWVpSNyHv98CLl_38.328983_-77.394816@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887298,
-    "wof:geomhash":"b8686f56cdec11efd126924ee5d70ab5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cdbccb73d7d47797103882418064aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":722717519
+        }
+    ],
     "wof:id":722717519,
-    "wof:lastmodified":1472651585,
+    "wof:lastmodified":1492064549,
     "wof:name":"Drafting & Design Associates",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

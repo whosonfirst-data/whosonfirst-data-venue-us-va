@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.452853,38.039972,-78.452853,38.039972",
     "geom:latitude":38.039972,
     "geom:longitude":-78.452853,
@@ -31,17 +32,32 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729625,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_677MmkoTOdNp5Sr8TYbXIq_38.039972_-78.452853@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885624,
-    "wof:geomhash":"21b1d9da25576eb6f9480a3f9528d6e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff809303259826989004baea27cca41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729625,
+            "region_id":85688747,
+            "venue_id":722630163
+        }
+    ],
     "wof:id":722630163,
-    "wof:lastmodified":1472651399,
+    "wof:lastmodified":1492070945,
     "wof:name":"Darden Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

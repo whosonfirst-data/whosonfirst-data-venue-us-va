@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.44641,38.247398,-78.44641,38.247398",
     "geom:latitude":38.247398,
     "geom:longitude":-78.44641,
@@ -32,7 +33,13 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729593,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BwZtvH6FAI1vJjH1ApsjW_38.247398_-78.446410@1303262548"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461912748,
     "wof:geomhash":"b990086926fd13d33710eb7ecdfd747f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101729593,
+            "region_id":85688747,
+            "venue_id":739708401
+        }
+    ],
     "wof:id":739708401,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492030746,
     "wof:name":"Intracepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

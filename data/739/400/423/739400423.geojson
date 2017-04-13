@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.484852,37.425332,-76.484852,37.425332",
     "geom:latitude":37.425332,
     "geom:longitude":-76.484852,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZkVYtite90ajykbOXqLBN_37.425332_-76.484852@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906589,
     "wof:geomhash":"82e34eec60129e65c0599e6c073ce7fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":739400423
+        }
+    ],
     "wof:id":739400423,
-    "wof:lastmodified":1472651454,
+    "wof:lastmodified":1492032714,
     "wof:name":"Ware Neck Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

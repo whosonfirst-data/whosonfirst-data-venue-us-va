@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.8464,37.373669,-76.8464,37.373669",
     "geom:latitude":37.373669,
     "geom:longitude":-76.8464,
@@ -28,19 +29,32 @@
     "sg:postcode":"23168",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85894045,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XCl7X46gyDwC52Gp62tlH_37.373669_-76.846400@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900145,
-    "wof:geomhash":"46853a933c83b50f5e5a570c6738121a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4216a068ee826c7c03d516011771dc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085967,
+            "neighbourhood_id":85894045,
+            "region_id":85688747,
+            "venue_id":723358173
+        }
+    ],
     "wof:id":723358173,
-    "wof:lastmodified":1472652032,
+    "wof:lastmodified":1492055352,
     "wof:name":"Cedar Valley Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":85894045,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

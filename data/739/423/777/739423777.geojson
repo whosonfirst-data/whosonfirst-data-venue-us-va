@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.214568,38.957684,-77.214568,38.957684",
     "geom:latitude":38.957684,
     "geom:longitude":-77.214568,
@@ -32,7 +33,13 @@
         "covering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZtYxDLtBmUg2yy9TjFHmQ_38.957684_-77.214568@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907043,
     "wof:geomhash":"808e1cb284d400b8d892ffca1e3600ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":739423777
+        }
+    ],
     "wof:id":739423777,
-    "wof:lastmodified":1472651537,
+    "wof:lastmodified":1492032143,
     "wof:name":"Linda Shortal Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

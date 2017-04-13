@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440568,38.891649,-77.440568,38.891649",
     "geom:latitude":38.891649,
     "geom:longitude":-77.440568,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M0zpZzxp4RTHfxlZa4oAH_38.891649_-77.440568@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890636,
-    "wof:geomhash":"4c039840f3f5cd01cb05ad540641f612",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faadf88a64239c32a0d8eb0e246d2d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722892671
+        }
+    ],
     "wof:id":722892671,
-    "wof:lastmodified":1472652069,
+    "wof:lastmodified":1492066879,
     "wof:name":"Washington Golf Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

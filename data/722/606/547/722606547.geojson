@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.737443,36.760321,-80.737443,36.760321",
     "geom:latitude":36.760321,
     "geom:longitude":-80.737443,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WSHejq87pssoobZOJxe1T_36.760321_-80.737443@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885109,
-    "wof:geomhash":"e5558514817a7f8cba4195bb1cb9d6bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6503e848ce835c95495fc33e7e7878fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":722606547
+        }
+    ],
     "wof:id":722606547,
-    "wof:lastmodified":1472651305,
+    "wof:lastmodified":1492068319,
     "wof:name":"St Mary's Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

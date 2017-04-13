@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.922154,37.549683,-77.922154,37.549683",
     "geom:latitude":37.549683,
     "geom:longitude":-77.922154,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.pgcaa.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42eRi1XpWWx2ytLmDMXKlU_37.549683_-77.922154@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906900,
     "wof:geomhash":"aea53bdb05880c7a8d02f77a6865ff00",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739417285
+        }
+    ],
     "wof:id":739417285,
-    "wof:lastmodified":1472651503,
+    "wof:lastmodified":1492031467,
     "wof:name":"Powhatan-Goochland Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

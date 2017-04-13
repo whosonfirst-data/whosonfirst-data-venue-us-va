@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.466279,38.463132,-77.466279,38.463132",
     "geom:latitude":38.463132,
     "geom:longitude":-77.466279,
@@ -31,19 +32,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547157,
+        420547127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iWCEFrKAOAtVcgtFd3CB1_38.463132_-77.466279@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895627,
-    "wof:geomhash":"13a0e52d108de212af878a4729c05994",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b146c379effaf0cfc856af376a711bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547157,
+            "venue_id":723126413
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547127,
+            "venue_id":723126413
+        }
+    ],
     "wof:id":723126413,
-    "wof:lastmodified":1472651385,
+    "wof:lastmodified":1492058115,
     "wof:name":"Stafford Memorial Park",
-    "wof:parent_id":420547157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

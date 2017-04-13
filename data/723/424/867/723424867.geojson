@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.18667,39.1559,-78.18667,39.1559",
     "geom:latitude":39.1559,
     "geom:longitude":-78.18667,
@@ -31,17 +32,32 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KZ9m3uv5YEdIWPqVmOjVz_39.155900_-78.186670@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901473,
-    "wof:geomhash":"f8c7d056b5c416630c6d99426012fa60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f197d5bd3fed5bd95b8023ec151c2212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723424867
+        }
+    ],
     "wof:id":723424867,
-    "wof:lastmodified":1472652267,
+    "wof:lastmodified":1492051267,
     "wof:name":"Loan Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

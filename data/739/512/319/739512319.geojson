@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.276718,37.644951,-77.276718,37.644951",
     "geom:latitude":37.644951,
     "geom:longitude":-77.276718,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ONjl8og3JIg8ZIzRYc2Mm_37.644951_-77.276718@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908652,
     "wof:geomhash":"7ad8c3ae22391043653d503c7c668523",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739512319
+        }
+    ],
     "wof:id":739512319,
-    "wof:lastmodified":1472651759,
+    "wof:lastmodified":1492031331,
     "wof:name":"Johnny Timberlake Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

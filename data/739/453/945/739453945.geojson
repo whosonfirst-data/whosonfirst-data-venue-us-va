@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.28357,37.476413,-78.28357,37.476413",
     "geom:latitude":37.476413,
     "geom:longitude":-78.28357,
@@ -32,7 +33,12 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WF0gZJiSQvS7wcflLYbjD_37.476413_-78.283570@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907611,
     "wof:geomhash":"99182d0396dcfedc2aaed49cceac7846",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "region_id":85688747,
+            "venue_id":739453945
+        }
+    ],
     "wof:id":739453945,
-    "wof:lastmodified":1472651592,
+    "wof:lastmodified":1492030428,
     "wof:name":"Larry's Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

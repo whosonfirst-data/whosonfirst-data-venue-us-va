@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.584339,37.793113,-77.584339,37.793113",
     "geom:latitude":37.793113,
     "geom:longitude":-77.584339,
@@ -38,17 +39,30 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yil7g7UXrooeKbL1Xl34T_37.793113_-77.584339@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900708,
-    "wof:geomhash":"3135effb6dfc1eed77bbcf0367c10d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22d9db99e5131249e6f4e2c6af01fa5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":723386661
+        }
+    ],
     "wof:id":723386661,
-    "wof:lastmodified":1472652127,
+    "wof:lastmodified":1492061333,
     "wof:name":"Virginia Growers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

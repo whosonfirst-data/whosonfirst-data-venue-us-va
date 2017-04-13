@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.99443,36.619115,-81.99443,36.619115",
     "geom:latitude":36.619115,
     "geom:longitude":-81.99443,
@@ -32,17 +33,26 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B3FSubz4GDij5QSVSwk7K_36.619115_-81.994430@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895018,
-    "wof:geomhash":"6e063ce1cbfe04184a79e84895a0e61b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c594725329cc8c0b3ef97a52140642d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723095113
+        }
+    ],
     "wof:id":723095113,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492053402,
     "wof:name":"Ruby Aven",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

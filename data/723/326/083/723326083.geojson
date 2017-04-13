@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.505635,37.104012,-76.505635,37.104012",
     "geom:latitude":37.104012,
     "geom:longitude":-76.505635,
@@ -39,8 +40,9 @@
         85633793,
         101729041,
         102085961,
-        85879249,
-        420558807
+        420558807,
+        85840111,
+        85879249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +50,8 @@
     },
     "wof:country":"US",
     "wof:created":1461899559,
-    "wof:geomhash":"a15c4c92a3db32ae52883032ba0ca6e5",
+    "wof:geomhash":"1fd0a68f0a4cb0c665b27b2203d6890d",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085961,
-            "locality_id":101729041,
-            "neighbourhood_id":85879249,
-            "region_id":85688747,
-            "venue_id":723326083
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +60,30 @@
             "neighbourhood_id":420558807,
             "region_id":85688747,
             "venue_id":723326083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85840111,
+            "region_id":85688747,
+            "venue_id":723326083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879249,
+            "region_id":85688747,
+            "venue_id":723326083
         }
     ],
     "wof:id":723326083,
-    "wof:lastmodified":1472651879,
+    "wof:lastmodified":1492062188,
     "wof:name":"Bachman Auto Glass LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.329808,38.3932,-77.329808,38.3932",
     "geom:latitude":38.3932,
     "geom:longitude":-77.329808,
@@ -33,17 +34,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vGJsplMrR1LGblCTzg7ev_38.393200_-77.329808@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893959,
-    "wof:geomhash":"c3828b1fa440df647ec3354167168883",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6db24d45cad2d00a25f304e41ed3e272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":723047405
+        }
+    ],
     "wof:id":723047405,
-    "wof:lastmodified":1472651163,
+    "wof:lastmodified":1492054431,
     "wof:name":"Millisen Enterprises Inc",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

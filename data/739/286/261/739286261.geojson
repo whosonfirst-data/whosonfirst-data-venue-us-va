@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.083916,37.03116,-79.083916,37.03116",
     "geom:latitude":37.03116,
     "geom:longitude":-79.083916,
@@ -28,7 +29,12 @@
     "sg:postcode":"24569",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69lRm4QCrJqeR0stonD97Z_37.031160_-79.083916@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904280,
     "wof:geomhash":"50e2de7d81412e73bd3faa3e12f00e57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739286261
+        }
+    ],
     "wof:id":739286261,
-    "wof:lastmodified":1472651152,
+    "wof:lastmodified":1492030100,
     "wof:name":"First Buffalo Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

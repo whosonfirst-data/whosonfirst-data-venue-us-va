@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.559207,37.643603,-77.559207,37.643603",
     "geom:latitude":37.643603,
     "geom:longitude":-77.559207,
@@ -32,17 +33,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zFGZDWj9FAKsxjlcfglA1_37.643603_-77.559207@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886451,
-    "wof:geomhash":"88a342c89bdac8d1976202b109a6c335",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50d37d44d5a0418baec4d6b29b148c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":722673057
+        }
+    ],
     "wof:id":722673057,
-    "wof:lastmodified":1472651506,
+    "wof:lastmodified":1492069200,
     "wof:name":"Center For Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

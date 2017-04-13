@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.840703,36.792729,-76.840703,36.792729",
     "geom:latitude":36.792729,
     "geom:longitude":-76.840703,
@@ -36,17 +37,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2luOVns1zIAr2LHkbJISJy_36.792729_-76.840703@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893750,
-    "wof:geomhash":"bd5484adba16213ce5b4e27871e2e44b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbf309acf555f2964e3015571dc09dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":723037201
+        }
+    ],
     "wof:id":723037201,
-    "wof:lastmodified":1472651140,
+    "wof:lastmodified":1492061124,
     "wof:name":"Fillmores Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

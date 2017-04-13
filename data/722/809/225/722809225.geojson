@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50764,39.024057,-77.50764,39.024057",
     "geom:latitude":39.024057,
     "geom:longitude":-77.50764,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aimFK9NXodCG6V0PpzU3O_39.024057_-77.507640@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889052,
-    "wof:geomhash":"ab74bccd6aed0b9c2ca549e568c09c64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6c3d9db12edc0b581c21b6b461dc2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":722809225
+        }
+    ],
     "wof:id":722809225,
-    "wof:lastmodified":1472651857,
+    "wof:lastmodified":1492070048,
     "wof:name":"Bozzuto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.642341,38.820898,-77.642341,38.820898",
     "geom:latitude":38.820898,
     "geom:longitude":-77.642341,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.pwhs.org/heathcote_health_ce...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_197X03vhj3D7DRs0beXNFg_38.820898_-77.642341@1303262496"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910680,
     "wof:geomhash":"5007ecc5b0850a14b5f22520cced6d8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613773
+        }
+    ],
     "wof:id":739613773,
-    "wof:lastmodified":1472652006,
+    "wof:lastmodified":1492032404,
     "wof:name":"Heathcote Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

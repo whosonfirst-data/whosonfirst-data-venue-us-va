@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419304,38.312766,-77.419304,38.312766",
     "geom:latitude":38.312766,
     "geom:longitude":-77.419304,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05vxtmXSLKhvZjotXELTWL_38.312766_-77.419304@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898063,
-    "wof:geomhash":"d42d999e61133226857c19a07d8b7142",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f61203e56326045a43a9fcca481e2d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723247115
+        }
+    ],
     "wof:id":723247115,
-    "wof:lastmodified":1472651670,
+    "wof:lastmodified":1492053530,
     "wof:name":"Capitol Drywall Painting",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

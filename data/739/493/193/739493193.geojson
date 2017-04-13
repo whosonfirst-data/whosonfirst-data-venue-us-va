@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.266935,37.4512,-79.266935,37.4512",
     "geom:latitude":37.4512,
     "geom:longitude":-79.266935,
@@ -31,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G4wIXzvpwotiVDWqPdx7w_37.451200_-79.266935@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908312,
     "wof:geomhash":"22de66d233fed0ff8da66861b0ad02fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739493193
+        }
+    ],
     "wof:id":739493193,
-    "wof:lastmodified":1472651673,
+    "wof:lastmodified":1492029955,
     "wof:name":"Stephen's European Rprdctns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

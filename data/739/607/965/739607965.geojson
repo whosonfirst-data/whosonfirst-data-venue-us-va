@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.416156,38.875875,-77.416156,38.875875",
     "geom:latitude":38.875875,
     "geom:longitude":-77.416156,
@@ -32,17 +33,32 @@
         "copy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a69gwhn5DOkwfTZs8Lz3V_38.875875_-77.416156@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910566,
-    "wof:geomhash":"473ada564934f305eca70a9f5cb27a1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c08482123bae4c4081938ffc3db7c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739607965
+        }
+    ],
     "wof:id":739607965,
-    "wof:lastmodified":1472651974,
+    "wof:lastmodified":1492046641,
     "wof:name":"Api Fairfax Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

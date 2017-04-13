@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.102952,38.743143,-77.102952,38.743143",
     "geom:latitude":38.743143,
     "geom:longitude":-77.102952,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729773,
+        101729749,
         102084863,
+        85853453,
+        101729773,
         420560171
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896630,
-    "wof:geomhash":"659788ad3dd3b88b7ae0db0f5ec3b502",
+    "wof:geomhash":"7b5a38b30f755ab9872a9adccb18fd8b",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729749,
+            "neighbourhood_id":85853453,
+            "region_id":85688747,
+            "venue_id":723177349
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":723177349,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492053318,
     "wof:name":"Secure One Recovery",
-    "wof:parent_id":420560171,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

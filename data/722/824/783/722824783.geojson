@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519725,38.736333,-77.519725,38.736333",
     "geom:latitude":38.736333,
     "geom:longitude":-77.519725,
@@ -34,17 +35,32 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728987,
+        102081053
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49rAfsXVtn2ieBWsLChMrA_38.736333_-77.519725@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889349,
-    "wof:geomhash":"b092634f6b17faf5faa6c7c176d33582",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8710143bf372def9186b6951c8dda74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081053,
+            "locality_id":101728987,
+            "region_id":85688747,
+            "venue_id":722824783
+        }
+    ],
     "wof:id":722824783,
-    "wof:lastmodified":1472651913,
+    "wof:lastmodified":1492070193,
     "wof:name":"Aurora Flight Sciences Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

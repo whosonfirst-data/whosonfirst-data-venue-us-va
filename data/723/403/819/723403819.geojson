@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.162956,39.168279,-78.162956,39.168279",
     "geom:latitude":39.168279,
     "geom:longitude":-78.162956,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KBH8JSstJGd5R15rm4Qhs_39.168279_-78.162956@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901048,
-    "wof:geomhash":"54edddcf6c39d15d5aeb1ecb3a5ab3c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6049a7155d8547387e38cccfb0af75c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723403819
+        }
+    ],
     "wof:id":723403819,
-    "wof:lastmodified":1472652152,
+    "wof:lastmodified":1492053328,
     "wof:name":"Jim's Service Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.17241,38.954651,-77.17241,38.954651",
     "geom:latitude":38.954651,
     "geom:longitude":-77.17241,
@@ -28,7 +29,13 @@
     "sg:postcode":"22101",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62LMb6V53Y8ScABVsbTOTx_38.954651_-77.172410@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907918,
     "wof:geomhash":"ae714eb099ffad01a4fdfdcf14d75f8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":739471873
+        }
+    ],
     "wof:id":739471873,
-    "wof:lastmodified":1472651643,
+    "wof:lastmodified":1492031130,
     "wof:name":"Foundation For Mythologic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

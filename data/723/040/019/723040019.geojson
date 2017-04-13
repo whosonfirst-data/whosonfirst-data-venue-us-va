@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.943843,37.269257,-79.943843,37.269257",
     "geom:latitude":37.269257,
     "geom:longitude":-79.943843,
@@ -31,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Auyt91479OKywLaU7WT5x_37.269257_-79.943843@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893811,
-    "wof:geomhash":"2beb4c5ff9ac0ef41509b200c6f37e0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cca6727d3f3d0c11e60dffeedba0220e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723040019
+        }
+    ],
     "wof:id":723040019,
-    "wof:lastmodified":1472651140,
+    "wof:lastmodified":1492049279,
     "wof:name":"Mocha Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

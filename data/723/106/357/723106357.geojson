@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.373607,39.020068,-77.373607,39.020068",
     "geom:latitude":39.020068,
     "geom:longitude":-77.373607,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y3d5lMUWcHkRC2agBaWdN_39.020068_-77.373607@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895241,
-    "wof:geomhash":"c767daeb0daa96cf273ccc4af3003da4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dc46b50fa966e6280963b3620a8ed85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":723106357
+        }
+    ],
     "wof:id":723106357,
-    "wof:lastmodified":1472651317,
+    "wof:lastmodified":1492060021,
     "wof:name":"Irving Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

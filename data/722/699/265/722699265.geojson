@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.735648,36.775097,-80.735648,36.775097",
     "geom:latitude":36.775097,
     "geom:longitude":-80.735648,
@@ -42,17 +43,32 @@
         "designed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aZbXcMjZKO9FOUEukDfAs_36.775097_-80.735648@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886954,
-    "wof:geomhash":"9bc2a97297fba54616883d423f94de9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b72fa27f77fcd530b49b5019fa0c6499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":722699265
+        }
+    ],
     "wof:id":722699265,
-    "wof:lastmodified":1472651554,
+    "wof:lastmodified":1492069697,
     "wof:name":"Light Fantastic Stained Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635144,38.813783,-77.635144,38.813783",
     "geom:latitude":38.813783,
     "geom:longitude":-77.635144,
@@ -32,7 +33,13 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xvj81qzR263E5ngLLV3Nm_38.813783_-77.635144@1303262496"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910683,
     "wof:geomhash":"3c54a83683a410a9ae533baa05264024",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613939
+        }
+    ],
     "wof:id":739613939,
-    "wof:lastmodified":1472652013,
+    "wof:lastmodified":1492032404,
     "wof:name":"Lincoln Mortgage Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.416609,38.727888,-77.416609,38.727888",
     "geom:latitude":38.727888,
     "geom:longitude":-77.416609,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HZ39YuVPNnrbNedk1Huwo_38.727888_-77.416609@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904078,
-    "wof:geomhash":"c31882a6ba475a589e15e2016483ce77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"979726e8bf7355a432c5162ed847b2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":739276901
+        }
+    ],
     "wof:id":739276901,
-    "wof:lastmodified":1472651181,
+    "wof:lastmodified":1492039745,
     "wof:name":"General Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

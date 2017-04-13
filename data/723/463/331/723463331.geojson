@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.061628,38.33847,-77.061628,38.33847",
     "geom:latitude":38.33847,
     "geom:longitude":-77.061628,
@@ -31,17 +32,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uNlzKR9mokP3Pa9bBKxJG_38.338470_-77.061628@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902196,
-    "wof:geomhash":"3aaef22f412a13d42b88371899a2379f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a12eea6e2cd8d65410a0551629041de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "region_id":85688747,
+            "venue_id":723463331
+        }
+    ],
     "wof:id":723463331,
-    "wof:lastmodified":1472652296,
+    "wof:lastmodified":1492056405,
     "wof:name":"Pine Forest Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

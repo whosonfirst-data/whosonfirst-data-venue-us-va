@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.283761,36.8971,-81.283761,36.8971",
     "geom:latitude":36.8971,
     "geom:longitude":-81.283761,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qcT6L9R7filPZNhYChXNC_36.897100_-81.283761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887087,
-    "wof:geomhash":"a1ee68b2c466e76040d29cf6cfaea7e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da4c137ba82ef5f85515f05393244f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722706575
+        }
+    ],
     "wof:id":722706575,
-    "wof:lastmodified":1472651578,
+    "wof:lastmodified":1492074323,
     "wof:name":"Meredith's Garage",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

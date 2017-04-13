@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.380976,37.981681,-78.380976,37.981681",
     "geom:latitude":37.981681,
     "geom:longitude":-78.380976,
@@ -34,17 +35,32 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729623,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H92gYQlPMrzXxUS5ICYPb_37.981681_-78.380976@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883798,
-    "wof:geomhash":"0bfdf405d34565d79b9eb9eb70204fba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"660c113a26d1eaed5c49ae44d1f8d176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729623,
+            "region_id":85688747,
+            "venue_id":722539775
+        }
+    ],
     "wof:id":722539775,
-    "wof:lastmodified":1472651091,
+    "wof:lastmodified":1492070573,
     "wof:name":"Acorn Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

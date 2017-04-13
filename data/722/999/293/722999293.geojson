@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.899115,37.379549,-79.899115,37.379549",
     "geom:latitude":37.379549,
     "geom:longitude":-79.899115,
@@ -38,17 +39,30 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vcYzGgqGh4ciyvOyCaRFv_37.379549_-79.899115@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892891,
-    "wof:geomhash":"16d728a0db488a65362bcce177af96dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f2ce1886174f236cf925fb6703edae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722999293
+        }
+    ],
     "wof:id":722999293,
-    "wof:lastmodified":1472652335,
+    "wof:lastmodified":1492069981,
     "wof:name":"Atlantic Coast Toyota Lift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

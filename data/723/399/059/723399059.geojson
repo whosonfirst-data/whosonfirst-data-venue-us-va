@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434595,38.658522,-77.434595,38.658522",
     "geom:latitude":38.658522,
     "geom:longitude":-77.434595,
@@ -32,17 +33,32 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729219,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40ej2dH231F0FpZru7Vy6v_38.658522_-77.434595@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900951,
-    "wof:geomhash":"23e64663b44dd12db6e7badb46f1882b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9236b1b267c3d5345b45e432cef3502b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729219,
+            "region_id":85688747,
+            "venue_id":723399059
+        }
+    ],
     "wof:id":723399059,
-    "wof:lastmodified":1472652112,
+    "wof:lastmodified":1492055558,
     "wof:name":"Db Holdings Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

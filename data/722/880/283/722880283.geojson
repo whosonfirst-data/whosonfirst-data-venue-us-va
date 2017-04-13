@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.268684,38.870843,-77.268684,38.870843",
     "geom:latitude":38.870843,
     "geom:longitude":-77.268684,
@@ -32,19 +33,36 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729035,
+        102084863,
+        85853775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6umm1k3T0KfxwSmZq839SL_38.870843_-77.268684@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890393,
-    "wof:geomhash":"ad5ccb9aed12c339e217836786bfda74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d583883ea9282af772dd52db5ad6a8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729035,
+            "neighbourhood_id":85853775,
+            "region_id":85688747,
+            "venue_id":722880283
+        }
+    ],
     "wof:id":722880283,
-    "wof:lastmodified":1472652008,
+    "wof:lastmodified":1492062749,
     "wof:name":"Icf Cnslting Group Hldings LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

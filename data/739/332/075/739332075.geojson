@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.787079,37.403216,-76.787079,37.403216",
     "geom:latitude":37.403216,
     "geom:longitude":-76.787079,
@@ -31,7 +32,10 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NxnSzIFhpAWIbQ3r9Se2O_37.403216_-76.787079@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461905217,
     "wof:geomhash":"d5a2f16c612e50f4117bd3c3e1cacb79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546747,
+            "venue_id":739332075
+        }
+    ],
     "wof:id":739332075,
-    "wof:lastmodified":1472651261,
+    "wof:lastmodified":1492030795,
     "wof:name":"D& D Stump Grinding",
     "wof:parent_id":420546747,
     "wof:placetype":"venue",

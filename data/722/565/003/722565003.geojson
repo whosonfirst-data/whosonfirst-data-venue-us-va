@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.893648,36.645752,-80.893648,36.645752",
     "geom:latitude":36.645752,
     "geom:longitude":-80.893648,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68FrmQ5tYr6fUtVQEJxtFB_36.645752_-80.893648@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884314,
-    "wof:geomhash":"c0a41f150397fcd3abf0df3b794facb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"226f5a9afdaef495dc39cea1749ca1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":722565003
+        }
+    ],
     "wof:id":722565003,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492066078,
     "wof:name":"Trimble Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

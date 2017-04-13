@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.22649,38.768533,-77.22649,38.768533",
     "geom:latitude":38.768533,
     "geom:longitude":-77.22649,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85804507,
-        102084863
+        101729795,
+        102084863,
+        85809469,
+        85804507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461893317,
-    "wof:geomhash":"dbccd75c6dddb5d3e4f9b1b826c5e84c",
+    "wof:geomhash":"9825f37166298fae1bc9633d3988c3ee",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729795,
+            "neighbourhood_id":85809469,
+            "region_id":85688747,
+            "venue_id":723017849
+        },
         {
             "country_id":85633793,
             "county_id":102084863,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":723017849,
-    "wof:lastmodified":1472651129,
+    "wof:lastmodified":1492050750,
     "wof:name":"Alnoor Rafi",
-    "wof:parent_id":85804507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

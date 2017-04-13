@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.754824,37.964866,-76.754824,37.964866",
     "geom:latitude":37.964866,
     "geom:longitude":-76.754824,
@@ -32,17 +33,32 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728753,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FGoK2vcWOR9QzatL4WxOC_37.964866_-76.754824@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895473,
-    "wof:geomhash":"ae191c2ce2578c4560275f160a2f0983",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e7973a70b46171f2d876ec7e9598c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "locality_id":101728753,
+            "region_id":85688747,
+            "venue_id":723117887
+        }
+    ],
     "wof:id":723117887,
-    "wof:lastmodified":1472651372,
+    "wof:lastmodified":1492056617,
     "wof:name":"Transportation Dept-Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

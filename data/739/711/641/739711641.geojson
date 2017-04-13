@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.344015,37.510074,-77.344015,37.510074",
     "geom:latitude":37.510074,
     "geom:longitude":-77.344015,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.richmondcold.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yCsu2ZBR4qsPHvhQfCiEH_37.510074_-77.344015@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912812,
-    "wof:geomhash":"1d1f569dfb0e4cd3d859f40d8fac4004",
-    "wof:hierarchy":[],
+    "wof:geomhash":"824923ee5e4785959eda909941cc2a64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739711641
+        }
+    ],
     "wof:id":739711641,
-    "wof:lastmodified":1472652197,
+    "wof:lastmodified":1492045005,
     "wof:name":"RCS Airport Division",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

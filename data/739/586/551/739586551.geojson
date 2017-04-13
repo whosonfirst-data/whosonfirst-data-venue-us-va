@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.736517,37.334838,-76.736517,37.334838",
     "geom:latitude":37.334838,
     "geom:longitude":-76.736517,
@@ -34,7 +35,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gbD5DMA6cRl4YeRUqhAqG_37.334838_-76.736517@1299784598"
@@ -42,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"879eab7609da5e10d9acbc1282b011ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739586551
+        }
+    ],
     "wof:id":739586551,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492031892,
     "wof:name":"Tropical Smoothie",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

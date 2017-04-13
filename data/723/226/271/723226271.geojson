@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.006205,36.717111,-82.006205,36.717111",
     "geom:latitude":36.717111,
     "geom:longitude":-82.006205,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UHNFnY3nhqPq7rtPwNBM3_36.717111_-82.006205@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897622,
-    "wof:geomhash":"c19571b2eda4638afa100366720313ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b198630d255d75d944e9a345f5f61763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723226271
+        }
+    ],
     "wof:id":723226271,
-    "wof:lastmodified":1472651623,
+    "wof:lastmodified":1492060294,
     "wof:name":"Greentree Garden Center Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

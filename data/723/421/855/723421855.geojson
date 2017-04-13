@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.78885,37.414447,-77.78885,37.414447",
     "geom:latitude":37.414447,
     "geom:longitude":-77.78885,
@@ -31,17 +32,30 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yLtgw1eHYWU4qC6x3FBeE_37.414447_-77.788850@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901393,
-    "wof:geomhash":"3d32c91e85c5741f0c68508aa5553c3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76da4a6fe64da93f270a510fe985315d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723421855
+        }
+    ],
     "wof:id":723421855,
-    "wof:lastmodified":1472652263,
+    "wof:lastmodified":1492056954,
     "wof:name":"Bower Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

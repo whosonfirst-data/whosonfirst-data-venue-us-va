@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.90615,37.422903,-76.90615,37.422903",
     "geom:latitude":37.422903,
     "geom:longitude":-76.90615,
@@ -31,7 +32,10 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dhG4gemC69f3Fwzqz2r5p_37.422903_-76.906150@1294252573"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461907017,
     "wof:geomhash":"084542cc4c27f1b1b325cb1b5397f8bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":739422491
+        }
+    ],
     "wof:id":739422491,
-    "wof:lastmodified":1472651511,
+    "wof:lastmodified":1492031226,
     "wof:name":"HIS Land Surveying Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.246107,38.802873,-77.246107,38.802873",
     "geom:latitude":38.802873,
     "geom:longitude":-77.246107,
@@ -40,7 +41,9 @@
         85633793,
         101729731,
         102084863,
-        85826119
+        85826119,
+        101729831,
+        85844033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893545,
-    "wof:geomhash":"7f3240adbeb6e8d209426157a970a164",
+    "wof:geomhash":"73fccc3c06a1c5969005a9d5f78b60af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,21 @@
             "neighbourhood_id":85826119,
             "region_id":85688747,
             "venue_id":723027237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729831,
+            "neighbourhood_id":85844033,
+            "region_id":85688747,
+            "venue_id":723027237
         }
     ],
     "wof:id":723027237,
-    "wof:lastmodified":1472651134,
+    "wof:lastmodified":1492060051,
     "wof:name":"John C Wolf",
-    "wof:parent_id":85826119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.420531,37.040866,-76.420531,37.040866",
     "geom:latitude":37.040866,
     "geom:longitude":-76.420531,
@@ -34,7 +35,8 @@
         85633793,
         101728661,
         102084913,
-        420547991
+        420547991,
+        85838201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887961,
-    "wof:geomhash":"4ec0b45df12dfe42b75413c94507d5c6",
+    "wof:geomhash":"9c9271df49cecf511f559cf6c53c89ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":420547991,
             "region_id":85688747,
             "venue_id":722751419
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85838201,
+            "region_id":85688747,
+            "venue_id":722751419
         }
     ],
     "wof:id":722751419,
-    "wof:lastmodified":1472651689,
+    "wof:lastmodified":1492062917,
     "wof:name":"Berachah Church",
-    "wof:parent_id":420547991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.355772,38.70564,-77.355772,38.70564",
     "geom:latitude":38.70564,
     "geom:longitude":-77.355772,
@@ -32,17 +33,30 @@
         "parcel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ywVXHgJSG4hHNTGV8VGJj_38.705640_-77.355772@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895279,
-    "wof:geomhash":"78f27dbe99cdfbb6b392083192401d2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf6c52c6a778cbc7dbe91a32b0b3408e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723108091
+        }
+    ],
     "wof:id":723108091,
-    "wof:lastmodified":1472651329,
+    "wof:lastmodified":1492052036,
     "wof:name":"Look Around Ireland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

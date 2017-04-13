@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.384921,38.288153,-77.384921,38.288153",
     "geom:latitude":38.288153,
     "geom:longitude":-77.384921,
@@ -31,17 +32,26 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25a3hDPxdjZzaorqrSVa4N_38.288153_-77.384921@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889778,
-    "wof:geomhash":"9ec3165fe53073f7c985798e0ca582ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8b2ef6911e50705979b67107a03e9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":722847847
+        }
+    ],
     "wof:id":722847847,
-    "wof:lastmodified":1472651974,
+    "wof:lastmodified":1492071633,
     "wof:name":"Affordable Connection",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

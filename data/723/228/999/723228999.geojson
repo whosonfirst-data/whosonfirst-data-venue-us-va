@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.897183,36.567125,-77.897183,36.567125",
     "geom:latitude":36.567125,
     "geom:longitude":-77.897183,
@@ -31,17 +32,32 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729391,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OG3Nqkvrwp06qoepVXs4S_36.567125_-77.897183@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897681,
-    "wof:geomhash":"cd47cf0f91dbf75e9a4bacd46d130e16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89ee316f250514a8b7068198a3d3a7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "locality_id":101729391,
+            "region_id":85688747,
+            "venue_id":723228999
+        }
+    ],
     "wof:id":723228999,
-    "wof:lastmodified":1472651654,
+    "wof:lastmodified":1492058323,
     "wof:name":"Citizens Community Bank Loan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

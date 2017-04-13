@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.520135,37.115983,-81.520135,37.115983",
     "geom:latitude":37.115983,
     "geom:longitude":-81.520135,
@@ -33,17 +34,26 @@
         "therapy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e2ZqyS03BScb9e6P8HWjg_37.115983_-81.520135@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907321,
-    "wof:geomhash":"101198ca535a7bbca7faf444ebb7eb52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cd4073f83d23f168aac1791954da81c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739438205
+        }
+    ],
     "wof:id":739438205,
-    "wof:lastmodified":1472651527,
+    "wof:lastmodified":1492039186,
     "wof:name":"Counseling & Consultation Svc",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

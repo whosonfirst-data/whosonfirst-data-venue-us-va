@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.795066,37.528931,-76.795066,37.528931",
     "geom:latitude":37.528931,
     "geom:longitude":-76.795066,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728795,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57BAGaSIfjDJW1xvfpm9US_37.528931_-76.795066@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900824,
-    "wof:geomhash":"6a5b0cffd28f8f44cdd3ca85b0256de6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed99d8a248337a84b6d9a248b187076a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101728795,
+            "region_id":85688747,
+            "venue_id":723392273
+        }
+    ],
     "wof:id":723392273,
-    "wof:lastmodified":1472652117,
+    "wof:lastmodified":1492049951,
     "wof:name":"Riverside Health System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

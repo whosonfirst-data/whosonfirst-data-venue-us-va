@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.587292,38.988817,-77.587292,38.988817",
     "geom:latitude":38.988817,
     "geom:longitude":-77.587292,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.americanlawnbrothers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nEPlF1vo4FzIfUZYHRE8u_38.988817_-77.587292@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907649,
     "wof:geomhash":"674ef8527e70fbcd50de43fd11fc6026",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739456243
+        }
+    ],
     "wof:id":739456243,
-    "wof:lastmodified":1472651571,
+    "wof:lastmodified":1492033056,
     "wof:name":"American Lawn Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

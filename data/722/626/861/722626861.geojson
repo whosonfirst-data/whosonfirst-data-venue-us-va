@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.230123,36.896111,-81.230123,36.896111",
     "geom:latitude":36.896111,
     "geom:longitude":-81.230123,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R9Ptnl90lwjor70K0tiAF_36.896111_-81.230123@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885531,
-    "wof:geomhash":"bbd202838c01caf9bd9af649e96bdd6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc2a8d416ce9e14c53733ea5321d5a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722626861
+        }
+    ],
     "wof:id":722626861,
-    "wof:lastmodified":1472651417,
+    "wof:lastmodified":1492073016,
     "wof:name":"Blue Ridge Contractors",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

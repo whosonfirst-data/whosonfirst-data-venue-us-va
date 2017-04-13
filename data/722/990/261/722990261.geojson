@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.39947,38.426366,-77.39947,38.426366",
     "geom:latitude":38.426366,
     "geom:longitude":-77.39947,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t2fKdKajLCNA657jVnLX1_38.426366_-77.399470@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892696,
-    "wof:geomhash":"67ea63be5532d10f241eaec521301d11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ce16e7561cf10fb40a72f3bb2a097e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547161,
+            "venue_id":722990261
+        }
+    ],
     "wof:id":722990261,
-    "wof:lastmodified":1472652328,
+    "wof:lastmodified":1492063014,
     "wof:name":"Dunrite Drywall",
     "wof:parent_id":420547161,
     "wof:placetype":"venue",

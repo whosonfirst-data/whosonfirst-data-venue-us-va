@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.535802,37.494605,-77.535802,37.494605",
     "geom:latitude":37.494605,
     "geom:longitude":-77.535802,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"http://www.saara.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HoczDbjLMjfEvsEzpwtuP_37.494605_-77.535802@1303262550"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461912931,
     "wof:geomhash":"5eef5a0835ddd3ad100fcd4111a0a5ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739717183
+        }
+    ],
     "wof:id":739717183,
-    "wof:lastmodified":1472652207,
+    "wof:lastmodified":1492031508,
     "wof:name":"Saara Of Virgiinia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

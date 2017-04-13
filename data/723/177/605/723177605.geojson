@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.454255,37.305041,-76.454255,37.305041",
     "geom:latitude":37.305041,
     "geom:longitude":-76.454255,
@@ -31,17 +32,30 @@
         "turbine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iIPOqtIzHbI4zbqthGYX2_37.305041_-76.454255@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896634,
-    "wof:geomhash":"dd48efdd4d4b3728ca2d748997aa684b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ba0dc87e2afc86211bc3fe60d6662a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":723177605
+        }
+    ],
     "wof:id":723177605,
-    "wof:lastmodified":1472651489,
+    "wof:lastmodified":1492053312,
     "wof:name":"Hydropower Turbine Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

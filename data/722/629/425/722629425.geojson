@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207554,38.708492,-77.207554,38.708492",
     "geom:latitude":38.708492,
     "geom:longitude":-77.207554,
@@ -32,17 +33,32 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Eh8ATKiGL9I5chcdEnHn1_38.708492_-77.207554@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885606,
-    "wof:geomhash":"0d2df5568fea26163202f1ef5e0f07b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e6fbed793d00901e5e2e6a9a8aeca74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":722629425
+        }
+    ],
     "wof:id":722629425,
-    "wof:lastmodified":1472651402,
+    "wof:lastmodified":1492066491,
     "wof:name":"Martinez Rozella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.389384,37.543879,-77.389384,37.543879",
     "geom:latitude":37.543879,
     "geom:longitude":-77.389384,
@@ -31,17 +32,30 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60sjNNY8qfFCF9youzwtUB_37.543879_-77.389384@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897949,
-    "wof:geomhash":"8504de31560d2064555455f4c7b12461",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54d259ee3467a7d949f73bce7c0d1898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723242099
+        }
+    ],
     "wof:id":723242099,
-    "wof:lastmodified":1472651660,
+    "wof:lastmodified":1492049154,
     "wof:name":"Virginia Truck Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

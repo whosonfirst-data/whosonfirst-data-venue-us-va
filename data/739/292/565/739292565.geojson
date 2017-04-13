@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.133397,36.718093,-78.133397,36.718093",
     "geom:latitude":36.718093,
     "geom:longitude":-78.133397,
@@ -31,7 +32,13 @@
         "scooter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GThphbYGe2COVLBsxWE6y_36.718093_-78.133397@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904419,
     "wof:geomhash":"8785ad205cbd04a1c7052a9a8e2c6b31",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739292565
+        }
+    ],
     "wof:id":739292565,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492033210,
     "wof:name":"Rider's Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

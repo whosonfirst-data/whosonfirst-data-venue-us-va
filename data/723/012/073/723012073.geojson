@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.091194,37.109478,-81.091194,37.109478",
     "geom:latitude":37.109478,
     "geom:longitude":-81.091194,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087285
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ocFBpMTjDuzAEa81hX5DH_37.109478_-81.091194@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893181,
-    "wof:geomhash":"e845c141729192ef7e18909d8e658341",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3877e059efad9898677fb617f79955ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087285,
+            "region_id":85688747,
+            "venue_id":723012073
+        }
+    ],
     "wof:id":723012073,
-    "wof:lastmodified":1472651078,
+    "wof:lastmodified":1492053491,
     "wof:name":"Lambert Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

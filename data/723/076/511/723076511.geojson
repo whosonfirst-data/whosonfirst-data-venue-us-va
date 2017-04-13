@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.357519,37.865372,-76.357519,37.865372",
     "geom:latitude":37.865372,
     "geom:longitude":-76.357519,
@@ -31,17 +32,30 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bAalrPX1sELiDq3PO67iX_37.865372_-76.357519@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894613,
-    "wof:geomhash":"60df4ca523f2bad3e2ae56e2128c7201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27e4b51db4497e589495892f44eefa27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":723076511
+        }
+    ],
     "wof:id":723076511,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492056145,
     "wof:name":"Land Data PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

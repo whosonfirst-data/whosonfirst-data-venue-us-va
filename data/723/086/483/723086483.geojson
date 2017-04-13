@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.005317,37.314283,-80.005317,37.314283",
     "geom:latitude":37.314283,
     "geom:longitude":-80.005317,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E6QYwV30szYiwtfO9VLqD_37.314283_-80.005317@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894841,
-    "wof:geomhash":"50bb503e7adf747e7a8d4472e1972506",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69f04173909c2dc07ac0d30c3507223a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723086483
+        }
+    ],
     "wof:id":723086483,
-    "wof:lastmodified":1472651271,
+    "wof:lastmodified":1492057278,
     "wof:name":"Wachovia Bank National Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

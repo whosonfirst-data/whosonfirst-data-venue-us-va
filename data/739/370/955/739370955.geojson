@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.356341,37.34897,-77.356341,37.34897",
     "geom:latitude":37.34897,
     "geom:longitude":-77.356341,
@@ -31,7 +32,12 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RBXaiF3c4DnUINFW3G3Jf_37.348970_-77.356341@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906013,
     "wof:geomhash":"5e9b341aa28c922a760c18af9671c067",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739370955
+        }
+    ],
     "wof:id":739370955,
-    "wof:lastmodified":1472651371,
+    "wof:lastmodified":1492031004,
     "wof:name":"Riversbend Grill & Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

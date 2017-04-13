@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.352603,37.602478,-77.352603,37.602478",
     "geom:latitude":37.602478,
     "geom:longitude":-77.352603,
@@ -37,7 +38,13 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hRdXwtpx8FotsTuCpYEUn_37.602478_-77.352603@1294252573"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461907760,
     "wof:geomhash":"8d286c310844262f4b40db6b061119e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739462681
+        }
+    ],
     "wof:id":739462681,
-    "wof:lastmodified":1472651635,
+    "wof:lastmodified":1492033364,
     "wof:name":"Bj's Wholesale Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

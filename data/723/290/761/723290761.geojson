@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.473378,37.370973,-79.473378,37.370973",
     "geom:latitude":37.370973,
     "geom:longitude":-79.473378,
@@ -32,17 +33,30 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VllGkiWzafmGMC1jDTnhP_37.370973_-79.473378@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898889,
-    "wof:geomhash":"7a166685d3c54fbd299b3c0c0166394a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"153568e7825f41231ae619d93d0ec455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723290761
+        }
+    ],
     "wof:id":723290761,
-    "wof:lastmodified":1472651829,
+    "wof:lastmodified":1492051301,
     "wof:name":"Central Virginia Pallet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

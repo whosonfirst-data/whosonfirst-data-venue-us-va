@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.275601,38.841593,-77.275601,38.841593",
     "geom:latitude":38.841593,
     "geom:longitude":-77.275601,
@@ -28,7 +29,13 @@
     "sg:postcode":"22031",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728653,
+        102080645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sM90LRpx8MiAAwpX3QorW_38.841593_-77.275601@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903717,
     "wof:geomhash":"d717a565c3ecd45d7200c54f7c450dae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080645,
+            "locality_id":101728653,
+            "region_id":85688747,
+            "venue_id":739260663
+        }
+    ],
     "wof:id":739260663,
-    "wof:lastmodified":1472651124,
+    "wof:lastmodified":1492030874,
     "wof:name":"Woodson Ed Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.293669,39.016791,-77.293669,39.016791",
     "geom:latitude":39.016791,
     "geom:longitude":-77.293669,
@@ -32,19 +33,36 @@
         "investment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729785,
+        102084863,
+        85851565
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DYcZ9oStXcRdehBk5Ef4a_39.016791_-77.293669@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901349,
-    "wof:geomhash":"d4655aa7c2e2124c1161135842065a48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71af14fa07c782d843fbf402464bdeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85851565,
+            "region_id":85688747,
+            "venue_id":723419525
+        }
+    ],
     "wof:id":723419525,
-    "wof:lastmodified":1472652213,
+    "wof:lastmodified":1492047807,
     "wof:name":"Optimation Investment MGT",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

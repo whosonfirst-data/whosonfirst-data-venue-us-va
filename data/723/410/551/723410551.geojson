@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.615803,37.220756,-76.615803,37.220756",
     "geom:latitude":37.220756,
     "geom:longitude":-76.615803,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZqlvWxplNREdrGlAp1wIp_37.220756_-76.615803@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901181,
-    "wof:geomhash":"02c2326a844b3e51e1089a27bf3316a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"543d2fabf84c14015762c405b9f81f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":723410551
+        }
+    ],
     "wof:id":723410551,
-    "wof:lastmodified":1472652194,
+    "wof:lastmodified":1492050816,
     "wof:name":"JB Custom Masonry",
     "wof:parent_id":420546871,
     "wof:placetype":"venue",

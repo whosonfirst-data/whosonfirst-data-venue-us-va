@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.514583,37.119082,-81.514583,37.119082",
     "geom:latitude":37.119082,
     "geom:longitude":-81.514583,
@@ -32,17 +33,26 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24QlicHFC9yw875uJvMdF2_37.119082_-81.514583@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893081,
-    "wof:geomhash":"feb8ff0008954139f294cfc8e9bedabf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"000803368d53dee8dd15d3e8c2b4a93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723006977
+        }
+    ],
     "wof:id":723006977,
-    "wof:lastmodified":1472651108,
+    "wof:lastmodified":1492052510,
     "wof:name":"Tazewell Chamber Of Commerce",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

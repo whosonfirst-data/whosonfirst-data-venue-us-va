@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.676324,37.375368,-77.676324,37.375368",
     "geom:latitude":37.375368,
     "geom:longitude":-77.676324,
@@ -34,7 +35,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J0bGDpNrOJLUNvL0bGULa_37.375368_-77.676324@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461907265,
     "wof:geomhash":"787085f1367db3a43a6c19d25bb9c3d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739435151
+        }
+    ],
     "wof:id":739435151,
-    "wof:lastmodified":1472651516,
+    "wof:lastmodified":1492029383,
     "wof:name":"Hixson Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

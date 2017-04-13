@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.363211,37.330687,-77.363211,37.330687",
     "geom:latitude":37.330687,
     "geom:longitude":-77.363211,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SKl1HBPpvgo4Akp7BjKlP_37.330687_-77.363211@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909297,
     "wof:geomhash":"dfa6047ba6ef25652a0250edbbb5283c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739546949
+        }
+    ],
     "wof:id":739546949,
-    "wof:lastmodified":1472651868,
+    "wof:lastmodified":1492031585,
     "wof:name":"Michael Fee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

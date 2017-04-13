@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.492179,37.761206,-77.492179,37.761206",
     "geom:latitude":37.761206,
     "geom:longitude":-77.492179,
@@ -31,19 +32,32 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85823377,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oYU72jnH6uwgPVimsDl3Y_37.761206_-77.492179@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900174,
-    "wof:geomhash":"6589b201eadca889d981659e124d05f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49fcde6e37d9988864788bb475f95567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087245,
+            "neighbourhood_id":85823377,
+            "region_id":85688747,
+            "venue_id":723359713
+        }
+    ],
     "wof:id":723359713,
-    "wof:lastmodified":1472652061,
+    "wof:lastmodified":1492052355,
     "wof:name":"Princess Cleaners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

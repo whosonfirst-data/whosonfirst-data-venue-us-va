@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.512138,39.095764,-77.512138,39.095764",
     "geom:latitude":39.095764,
     "geom:longitude":-77.512138,
@@ -28,7 +29,12 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Bq20ny4eW4bd2zaXoDe8m_39.095764_-77.512138@1303262497"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910756,
     "wof:geomhash":"0aabbd2b9a0d8ad1cf51f21393109b79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616867
+        }
+    ],
     "wof:id":739616867,
-    "wof:lastmodified":1472652017,
+    "wof:lastmodified":1492029666,
     "wof:name":"Loudon Taxi & Sedan Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

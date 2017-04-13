@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.549364,38.217521,-78.549364,38.217521",
     "geom:latitude":38.217521,
     "geom:longitude":-78.549364,
@@ -31,19 +32,34 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101729617,
+        102084933,
+        85867269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sg6lhFLKZs1cWkpj5KwTx_38.217521_-78.549364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889494,
-    "wof:geomhash":"92500c4089170b8567999820f01303fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41fdff0cc6b099c0768e714019d6e843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729617,
+            "neighbourhood_id":85867269,
+            "region_id":85688747,
+            "venue_id":722832629
+        }
+    ],
     "wof:id":722832629,
-    "wof:lastmodified":1472651945,
+    "wof:lastmodified":1492073118,
     "wof:name":"Native Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867269,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

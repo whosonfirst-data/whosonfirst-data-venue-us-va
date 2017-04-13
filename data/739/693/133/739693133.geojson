@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442141,38.385787,-77.442141,38.385787",
     "geom:latitude":38.385787,
     "geom:longitude":-77.442141,
@@ -38,7 +39,10 @@
     ],
     "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Fredericksburg-VA-22405/016507",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20AJ4RBX86UPwPCJNa96ys_38.385787_-77.442141@1303262546"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461912403,
     "wof:geomhash":"fdcc9fe893f4954acdfff765a3c87122",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739693133
+        }
+    ],
     "wof:id":739693133,
-    "wof:lastmodified":1472652169,
+    "wof:lastmodified":1492031383,
     "wof:name":"U-Haul Neighborhood Dealer - Stafford Liberty",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

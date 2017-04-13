@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.302458,37.281434,-80.302458,37.281434",
     "geom:latitude":37.281434,
     "geom:longitude":-80.302458,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77UYmWgHLylBzqIj1YDgYr_37.281434_-80.302458@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904263,
     "wof:geomhash":"b42c712b80144d4e6f6ac32292faad76",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":739285357
+        }
+    ],
     "wof:id":739285357,
-    "wof:lastmodified":1472651159,
+    "wof:lastmodified":1492029741,
     "wof:name":"Hrc Incorpated",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

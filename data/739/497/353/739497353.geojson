@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.9583,37.283999,-79.9583,37.283999",
     "geom:latitude":37.283999,
     "geom:longitude":-79.9583,
@@ -28,7 +29,13 @@
     "sg:postcode":"24017",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ocoWAGKAi0uPWl9KZDD1Y_37.283999_-79.958300@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908381,
     "wof:geomhash":"6c18ec410d017b1506279e4fd75e6ea2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739497353
+        }
+    ],
     "wof:id":739497353,
-    "wof:lastmodified":1472651686,
+    "wof:lastmodified":1492029686,
     "wof:name":"Scott & Scott Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

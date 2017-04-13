@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451106,38.706885,-77.451106,38.706885",
     "geom:latitude":38.706885,
     "geom:longitude":-77.451106,
@@ -32,17 +33,32 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iCIN48y7tDB2HWGz9f8QH_38.706885_-77.451106@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897362,
-    "wof:geomhash":"3176b855298af7060c419cd4eee64f13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0caaa219461b3fd9bef3671e0800573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":723214967
+        }
+    ],
     "wof:id":723214967,
-    "wof:lastmodified":1472651638,
+    "wof:lastmodified":1492048868,
     "wof:name":"Lake Jackson Volunteer Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

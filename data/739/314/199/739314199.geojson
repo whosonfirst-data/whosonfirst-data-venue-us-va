@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.964764,37.269478,-79.964764,37.269478",
     "geom:latitude":37.269478,
     "geom:longitude":-79.964764,
@@ -28,7 +29,13 @@
     "sg:postcode":"24016",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pgWCAhj2bbrWdOff1U697_37.269478_-79.964764@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904851,
     "wof:geomhash":"5183759ad3f766ed5eca4fcabe2229f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739314199
+        }
+    ],
     "wof:id":739314199,
-    "wof:lastmodified":1472651209,
+    "wof:lastmodified":1492029917,
     "wof:name":"Stop N Shop Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

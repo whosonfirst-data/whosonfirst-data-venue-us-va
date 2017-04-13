@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.845856,37.335254,-79.845856,37.335254",
     "geom:latitude":37.335254,
     "geom:longitude":-79.845856,
@@ -31,7 +32,12 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54UF43XWfgluWO89lv7b3H_37.335254_-79.845856@1303262552"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461913304,
     "wof:geomhash":"e6878d6a234d9e8f607d45b939171958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739735207
+        }
+    ],
     "wof:id":739735207,
-    "wof:lastmodified":1472652239,
+    "wof:lastmodified":1492032051,
     "wof:name":"Blue Ridge Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

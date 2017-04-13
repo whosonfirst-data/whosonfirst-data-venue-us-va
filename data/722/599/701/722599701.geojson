@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.279967,36.899428,-81.279967,36.899428",
     "geom:latitude":36.899428,
     "geom:longitude":-81.279967,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Tk7zQGF7bXP9JPv3rCYNN_36.899428_-81.279967@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884964,
-    "wof:geomhash":"805b239f6a8e45c39c8fde3cd2a0c49c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"928c14c35a56b48fa2c607d6387f6cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722599701
+        }
+    ],
     "wof:id":722599701,
-    "wof:lastmodified":1472651289,
+    "wof:lastmodified":1492064288,
     "wof:name":"American Post",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

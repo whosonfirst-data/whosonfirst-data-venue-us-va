@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.344286,36.767469,-76.344286,36.767469",
     "geom:latitude":36.767469,
     "geom:longitude":-76.344286,
@@ -37,7 +38,8 @@
         85633793,
         101728797,
         102087265,
-        85807227
+        85807227,
+        420547925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461891152,
-    "wof:geomhash":"b97e202d8183437130f4c1128b72acf2",
+    "wof:geomhash":"a19d509d3ec07783bde1519eb96fa941",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85807227,
             "region_id":85688747,
             "venue_id":722918533
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":420547925,
+            "region_id":85688747,
+            "venue_id":722918533
         }
     ],
     "wof:id":722918533,
-    "wof:lastmodified":1472652128,
+    "wof:lastmodified":1492068272,
     "wof:name":"I and O Medical Center",
-    "wof:parent_id":85807227,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

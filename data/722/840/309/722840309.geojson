@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.734326,38.969359,-77.734326,38.969359",
     "geom:latitude":38.969359,
     "geom:longitude":-77.734326,
@@ -34,17 +35,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728817,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bAXSocu9PA20axdfrne7p_38.969359_-77.734326@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889635,
-    "wof:geomhash":"f3cc09c1a050e86416c8d1202948af0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"925140913f72d8bf0e94d19fa2f7fde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728817,
+            "region_id":85688747,
+            "venue_id":722840309
+        }
+    ],
     "wof:id":722840309,
-    "wof:lastmodified":1472651942,
+    "wof:lastmodified":1492071113,
     "wof:name":"Three Crowns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

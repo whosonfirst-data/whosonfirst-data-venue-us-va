@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418557,38.903164,-77.418557,38.903164",
     "geom:latitude":38.903164,
     "geom:longitude":-77.418557,
@@ -32,7 +33,14 @@
         "estimator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729785,
+        102084863,
+        85834769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56lF2Flz5soM54skag1VKF_38.903164_-77.418557@1294252573"
@@ -40,11 +48,21 @@
     "wof:country":"US",
     "wof:created":1461905235,
     "wof:geomhash":"421673553c906bc1034785c88df942a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85834769,
+            "region_id":85688747,
+            "venue_id":739332975
+        }
+    ],
     "wof:id":739332975,
-    "wof:lastmodified":1472651310,
+    "wof:lastmodified":1492030800,
     "wof:name":"Lewicki Estimating Svcs Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85834769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

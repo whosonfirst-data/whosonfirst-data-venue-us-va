@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.84675,38.43433,-78.84675,38.43433",
     "geom:latitude":38.43433,
     "geom:longitude":-78.84675,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xKLtKpzCy0GQ6cCtHdPeU_38.434330_-78.846750@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889750,
-    "wof:geomhash":"5759d7ab6ed294949cbba2f225fd19de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8e298d00d283f717db219f8eb61d9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722846373
+        }
+    ],
     "wof:id":722846373,
-    "wof:lastmodified":1472651951,
+    "wof:lastmodified":1492062882,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

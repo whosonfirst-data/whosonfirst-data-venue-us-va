@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346386,38.845915,-77.346386,38.845915",
     "geom:latitude":38.845915,
     "geom:longitude":-77.346386,
@@ -32,7 +33,12 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PB2QQggRfrKATGaNUqkU4_38.845915_-77.346386@1303262537"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910908,
     "wof:geomhash":"01d309c23f4439dd6698ddbbe94ce39d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739623639
+        }
+    ],
     "wof:id":739623639,
-    "wof:lastmodified":1472651998,
+    "wof:lastmodified":1492031370,
     "wof:name":"Thomas Koerner Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

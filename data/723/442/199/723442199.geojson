@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.795293,37.531284,-76.795293,37.531284",
     "geom:latitude":37.531284,
     "geom:longitude":-76.795293,
@@ -31,17 +32,32 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728795,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38Z2lCP6Clr2sqa5VESvvP_37.531284_-76.795293@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901805,
-    "wof:geomhash":"e9e1fc19b199318cbf0babf9989c003c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"422c0773e83798a14ec042efbb3235aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101728795,
+            "region_id":85688747,
+            "venue_id":723442199
+        }
+    ],
     "wof:id":723442199,
-    "wof:lastmodified":1472652245,
+    "wof:lastmodified":1492048348,
     "wof:name":"West Point Parks & Recreation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

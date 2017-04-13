@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.87413,38.441438,-78.87413,38.441438",
     "geom:latitude":38.441438,
     "geom:longitude":-78.87413,
@@ -31,17 +32,32 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kMfZgnPRF52c9gc6h4fZB_38.441438_-78.874130@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889151,
-    "wof:geomhash":"2b92a65943aa2af6c1ff0a8e7be5fa59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e67927112c36e52024c0801dd5518168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722814443
+        }
+    ],
     "wof:id":722814443,
-    "wof:lastmodified":1472651881,
+    "wof:lastmodified":1492074250,
     "wof:name":"Rmh Regional Cancer Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

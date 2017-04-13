@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.836908,38.148855,-78.836908,38.148855",
     "geom:latitude":38.148855,
     "geom:longitude":-78.836908,
@@ -28,7 +29,13 @@
     "sg:postcode":"24431",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729641,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04ghYSjYIc4AYfriFZuDqa_38.148855_-78.836908@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907389,
     "wof:geomhash":"b820346495b7ecdf18f178cb5ca593a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729641,
+            "region_id":85688747,
+            "venue_id":739442155
+        }
+    ],
     "wof:id":739442155,
-    "wof:lastmodified":1472651556,
+    "wof:lastmodified":1492030171,
     "wof:name":"Home Interior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.726004,37.387985,-76.726004,37.387985",
     "geom:latitude":37.387985,
     "geom:longitude":-76.726004,
@@ -31,17 +32,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b0SBFSH7jq3wR6ntRJxbi_37.387985_-76.726004@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902293,
-    "wof:geomhash":"17d62f35bd2adf3903d40cd27b23aae1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fbb6b2add20399449a8bff30cbe56cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546925,
+            "venue_id":723468457
+        }
+    ],
     "wof:id":723468457,
-    "wof:lastmodified":1472652296,
+    "wof:lastmodified":1492058171,
     "wof:name":"York River State Park",
     "wof:parent_id":420546925,
     "wof:placetype":"venue",

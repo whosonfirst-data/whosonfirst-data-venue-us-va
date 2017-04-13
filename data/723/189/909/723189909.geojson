@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.765044,37.226606,-76.765044,37.226606",
     "geom:latitude":37.226606,
     "geom:longitude":-76.765044,
@@ -37,17 +38,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546877
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HUvqX0bKpdEDkS23Ftdns_37.226606_-76.765044@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896878,
-    "wof:geomhash":"b0799d87aa90909954d28967a9e95bfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14e7948ede55f7a455e0e522bfcea25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546877,
+            "venue_id":723189909
+        }
+    ],
     "wof:id":723189909,
-    "wof:lastmodified":1472651541,
+    "wof:lastmodified":1492056280,
     "wof:name":"Datafast Technologies Inc",
     "wof:parent_id":420546877,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.621121,38.794585,-77.621121,38.794585",
     "geom:latitude":38.794585,
     "geom:longitude":-77.621121,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.farmers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64P72tqGVRM2mCKaKdJGWZ_38.794585_-77.621121@1303262496"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461910623,
     "wof:geomhash":"6dd9770f8a21336c0d3925d563ead8dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739611161
+        }
+    ],
     "wof:id":739611161,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492029450,
     "wof:name":"Farmers Insurance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

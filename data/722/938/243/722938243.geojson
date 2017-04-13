@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.26438,37.026636,-80.26438,37.026636",
     "geom:latitude":37.026636,
     "geom:longitude":-80.26438,
@@ -31,17 +32,30 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SrxOA8M1sEj2XCHuo8nkQ_37.026636_-80.264380@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891595,
-    "wof:geomhash":"fa42ea0fce600d3efb434e5685531ad8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e0d164cf866b607264729e600e7279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":722938243
+        }
+    ],
     "wof:id":722938243,
-    "wof:lastmodified":1472652176,
+    "wof:lastmodified":1492062952,
     "wof:name":"Buffalo Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

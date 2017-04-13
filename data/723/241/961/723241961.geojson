@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.520284,37.650122,-77.520284,37.650122",
     "geom:latitude":37.650122,
     "geom:longitude":-77.520284,
@@ -31,17 +32,30 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dhPTLzhsPAuFMumkNzewd_37.650122_-77.520284@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897947,
-    "wof:geomhash":"32cdd02c420ab67e510dbd7d87268507",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09bbb66ade206a4394545c15ed40aad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723241961
+        }
+    ],
     "wof:id":723241961,
-    "wof:lastmodified":1472651693,
+    "wof:lastmodified":1492050616,
     "wof:name":"A Hamilton Tree Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

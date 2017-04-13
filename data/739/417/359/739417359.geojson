@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.188483,39.150126,-78.188483,39.150126",
     "geom:latitude":39.150126,
     "geom:longitude":-78.188483,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"www.petersons1.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LKEDUxIs4u460K4fhA1cs_39.150126_-78.188483@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461906902,
     "wof:geomhash":"ba0750bbabe461179585cfaa5e54a5ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739417359
+        }
+    ],
     "wof:id":739417359,
-    "wof:lastmodified":1472651510,
+    "wof:lastmodified":1492031476,
     "wof:name":"Petersons Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

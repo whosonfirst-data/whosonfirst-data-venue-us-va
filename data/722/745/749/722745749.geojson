@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419746,37.566013,-77.419746,37.566013",
     "geom:latitude":37.566013,
     "geom:longitude":-77.419746,
@@ -28,19 +29,36 @@
     "sg:postcode":"23222",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729361,
+        102087255,
+        85868513
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4La6fqsdcL4VhZInVr6Fa9_37.566013_-77.419746@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887854,
-    "wof:geomhash":"c3139cf82e5ed3eb47ec0eb4f1cb6c58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b18af259cc31fd6061e36fd3b73e4acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729361,
+            "neighbourhood_id":85868513,
+            "region_id":85688747,
+            "venue_id":722745749
+        }
+    ],
     "wof:id":722745749,
-    "wof:lastmodified":1472651696,
+    "wof:lastmodified":1492072784,
     "wof:name":"Third Millinium Management LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

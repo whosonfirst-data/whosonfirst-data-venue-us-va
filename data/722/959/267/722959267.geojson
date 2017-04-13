@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.985103,36.70708,-81.985103,36.70708",
     "geom:latitude":36.70708,
     "geom:longitude":-81.985103,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uOG7ruQqNpZX0cfXvk7bk_36.707080_-81.985103@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892014,
-    "wof:geomhash":"959e52a97eaf41a1fdc16ef5e6b9746e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b561a1ae17ac9458981a598318bf7357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722959267
+        }
+    ],
     "wof:id":722959267,
-    "wof:lastmodified":1472652287,
+    "wof:lastmodified":1492071324,
     "wof:name":"William P Sheffield",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

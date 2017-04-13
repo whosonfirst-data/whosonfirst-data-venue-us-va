@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.174822,37.751992,-77.174822,37.751992",
     "geom:latitude":37.751992,
     "geom:longitude":-77.174822,
@@ -31,7 +32,12 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sy88fmb2Vfp9REeZINeuR_37.751992_-77.174822@1303262549"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912765,
     "wof:geomhash":"957d04aa7f264862940ab01fb76cc009",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739708973
+        }
+    ],
     "wof:id":739708973,
-    "wof:lastmodified":1472652208,
+    "wof:lastmodified":1492030761,
     "wof:name":"Bullz Eye Glass Windshield Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

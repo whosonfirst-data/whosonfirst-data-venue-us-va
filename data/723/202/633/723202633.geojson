@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.399284,39.045978,-77.399284,39.045978",
     "geom:latitude":39.045978,
     "geom:longitude":-77.399284,
@@ -31,17 +32,32 @@
         "network"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729427,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bEKjimZkaL5TGR1E2Bq6J_39.045978_-77.399284@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897124,
-    "wof:geomhash":"b1a15d5f728f1a57ae80a047e4458653",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33a0a353a6a8aa73b55663d290e24144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729427,
+            "region_id":85688747,
+            "venue_id":723202633
+        }
+    ],
     "wof:id":723202633,
-    "wof:lastmodified":1472651582,
+    "wof:lastmodified":1492053900,
     "wof:name":"McSi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

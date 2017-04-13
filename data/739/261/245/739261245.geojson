@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.117832,36.90842,-76.117832,36.90842",
     "geom:latitude":36.90842,
     "geom:longitude":-76.117832,
@@ -34,6 +35,7 @@
         85633793,
         101728745,
         102081929,
+        85810697,
         85804919
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461903734,
-    "wof:geomhash":"5aa02ac008fe6c04677a8c0d4b80684a",
+    "wof:geomhash":"104679275d8d890b0f3455a4fed26372",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85810697,
+            "region_id":85688747,
+            "venue_id":739261245
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":739261245,
-    "wof:lastmodified":1472651095,
+    "wof:lastmodified":1492039953,
     "wof:name":"Selective Search Inc",
-    "wof:parent_id":85804919,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

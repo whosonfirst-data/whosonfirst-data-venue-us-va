@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.119629,36.854225,-76.119629,36.854225",
     "geom:latitude":36.854225,
     "geom:longitude":-76.119629,
@@ -37,7 +38,8 @@
         85633793,
         101728745,
         102081929,
-        420559045
+        420559045,
+        85851991
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461898341,
-    "wof:geomhash":"51ef10cb1352b49cab6750f130a754e5",
+    "wof:geomhash":"477b0f4128f104f2fb0230b86a21be8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":420559045,
             "region_id":85688747,
             "venue_id":723262103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85851991,
+            "region_id":85688747,
+            "venue_id":723262103
         }
     ],
     "wof:id":723262103,
-    "wof:lastmodified":1472651725,
+    "wof:lastmodified":1492060893,
     "wof:name":"Accounting Associates",
-    "wof:parent_id":420559045,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.545932,37.713986,-77.545932,37.713986",
     "geom:latitude":37.713986,
     "geom:longitude":-77.545932,
@@ -33,7 +34,12 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_084qSobkcH6eN5RVGX3tvW_37.713986_-77.545932@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906971,
     "wof:geomhash":"009443e0147141695054bdc44e85a14e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739420661
+        }
+    ],
     "wof:id":739420661,
-    "wof:lastmodified":1472651517,
+    "wof:lastmodified":1492031956,
     "wof:name":"Rebel Sheet Metal Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

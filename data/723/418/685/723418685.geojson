@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.167815,39.178163,-78.167815,39.178163",
     "geom:latitude":39.178163,
     "geom:longitude":-78.167815,
@@ -41,17 +42,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54kZwOIYlohK7cVS83AfTR_39.178163_-78.167815@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901335,
-    "wof:geomhash":"e89b62858e23ed4028eef29aecdb9d87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec9e9251c65d09756b773b35828adf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723418685
+        }
+    ],
     "wof:id":723418685,
-    "wof:lastmodified":1472652220,
+    "wof:lastmodified":1492061057,
     "wof:name":"Shenandoah Taijiquan Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

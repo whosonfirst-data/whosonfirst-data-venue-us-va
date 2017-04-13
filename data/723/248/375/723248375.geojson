@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.299476,36.872051,-76.299476,36.872051",
     "geom:latitude":36.872051,
     "geom:longitude":-76.299476,
@@ -32,17 +33,32 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17FFMw6fGJ5drsB3Z8j9Cd_36.872051_-76.299476@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898085,
-    "wof:geomhash":"4c40d3e979b39e8258e9fc4f00979f76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"183df4c981b378d38604d9d6a07e6fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":723248375
+        }
+    ],
     "wof:id":723248375,
-    "wof:lastmodified":1472651678,
+    "wof:lastmodified":1492056693,
     "wof:name":"Ghent Physical Therapy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533552,39.215777,-77.533552,39.215777",
     "geom:latitude":39.215777,
     "geom:longitude":-77.533552,
@@ -32,17 +33,30 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42EBwzdTsoSKMcUE8ZmZVf_39.215777_-77.533552@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884177,
-    "wof:geomhash":"483316f94a5ab465f2c3dd6304678b2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdd09092239b190c9bd0675a954b535a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722558471
+        }
+    ],
     "wof:id":722558471,
-    "wof:lastmodified":1472651113,
+    "wof:lastmodified":1492064235,
     "wof:name":"Cellular One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

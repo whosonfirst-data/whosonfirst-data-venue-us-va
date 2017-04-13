@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.464921,37.459871,-79.464921,37.459871",
     "geom:latitude":37.459871,
     "geom:longitude":-79.464921,
@@ -32,7 +33,12 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IOcwydqInHvNm8Y3V31EO_37.459871_-79.464921@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908371,
     "wof:geomhash":"c33c9b250477a3583f31e7c9a2cbfa24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739496659
+        }
+    ],
     "wof:id":739496659,
-    "wof:lastmodified":1472651707,
+    "wof:lastmodified":1492033023,
     "wof:name":"Filor Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

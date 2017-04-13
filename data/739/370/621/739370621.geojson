@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.507035,38.67136,-77.507035,38.67136",
     "geom:latitude":38.67136,
     "geom:longitude":-77.507035,
@@ -31,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BTaZZrBof4J325ygsMmll_38.671360_-77.507035@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906007,
     "wof:geomhash":"8ca109a21feae018bafc2276c6c53c9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739370621
+        }
+    ],
     "wof:id":739370621,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492031014,
     "wof:name":"Digital Link",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

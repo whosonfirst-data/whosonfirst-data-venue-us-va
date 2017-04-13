@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.912458,37.358155,-79.912458,37.358155",
     "geom:latitude":37.358155,
     "geom:longitude":-79.912458,
@@ -32,17 +33,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mOrQZmlhd6XLA59WA7Cix_37.358155_-79.912458@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898701,
-    "wof:geomhash":"2bf5d7a9b8a08ffdc4b6a136cca938f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"899cc1aad4ba26f0dd0fdec1da9fc40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":723281249
+        }
+    ],
     "wof:id":723281249,
-    "wof:lastmodified":1472651759,
+    "wof:lastmodified":1492056443,
     "wof:name":"Winter's Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

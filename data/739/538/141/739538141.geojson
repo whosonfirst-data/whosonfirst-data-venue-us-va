@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.178182,38.295286,-77.178182,38.295286",
     "geom:latitude":38.295286,
     "geom:longitude":-77.178182,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u8KOA9zzivBbDnr6ERZBF_38.295286_-77.178182@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909123,
     "wof:geomhash":"9023daac73078e1a846ee9e95380fb8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":739538141
+        }
+    ],
     "wof:id":739538141,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492029880,
     "wof:name":"Evenflow Surface Treatments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

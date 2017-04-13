@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.315622,37.37666,-79.315622,37.37666",
     "geom:latitude":37.37666,
     "geom:longitude":-79.315622,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FXyOa8CkzYjxNPqOG1IgZ_37.376660_-79.315622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899814,
-    "wof:geomhash":"5fe4d122eea4701d6d1a78d9662e32df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6a09f923f45d40a22abd27c25561cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":723340291
+        }
+    ],
     "wof:id":723340291,
-    "wof:lastmodified":1472651933,
+    "wof:lastmodified":1492054655,
     "wof:name":"Central Virginia Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

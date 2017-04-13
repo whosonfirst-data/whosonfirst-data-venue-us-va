@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.578225,37.438441,-76.578225,37.438441",
     "geom:latitude":37.438441,
     "geom:longitude":-76.578225,
@@ -33,17 +34,30 @@
         "liquid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E7sSHtGmOV2rgA2wdAViv_37.438441_-76.578225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903614,
-    "wof:geomhash":"7811a076515ca642ef145bc4b4779bed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7257e7816f7a0e921505283e435dd32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":739255651
+        }
+    ],
     "wof:id":739255651,
-    "wof:lastmodified":1472651108,
+    "wof:lastmodified":1492047181,
     "wof:name":"Texaco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

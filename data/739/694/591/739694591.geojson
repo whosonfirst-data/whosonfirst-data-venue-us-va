@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.622292,38.210178,-77.622292,38.210178",
     "geom:latitude":38.210178,
     "geom:longitude":-77.622292,
@@ -31,7 +32,12 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tedyY3UQ3Sm7QIvqJlCQv_38.210178_-77.622292@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912429,
     "wof:geomhash":"5c848f0a5b1d142121bf42440ebba79f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739694591
+        }
+    ],
     "wof:id":739694591,
-    "wof:lastmodified":1472652191,
+    "wof:lastmodified":1492030250,
     "wof:name":"Cook Carpentry Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

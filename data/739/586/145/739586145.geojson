@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763075,37.239403,-76.763075,37.239403",
     "geom:latitude":37.239403,
     "geom:longitude":-76.763075,
@@ -33,7 +34,10 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04XQsOrT6MHhcucORyZQZo_37.239403_-76.763075@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461910125,
     "wof:geomhash":"678a30fc0f831ac49ddbc75cde019f27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546841,
+            "venue_id":739586145
+        }
+    ],
     "wof:id":739586145,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492031893,
     "wof:name":"Jamestown Pie Company",
     "wof:parent_id":420546841,
     "wof:placetype":"venue",

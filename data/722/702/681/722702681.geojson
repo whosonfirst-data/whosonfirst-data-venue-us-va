@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.209657,37.477191,-77.209657,37.477191",
     "geom:latitude":37.477191,
     "geom:longitude":-77.209657,
@@ -31,17 +32,30 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VGszKZ2zl2gmuTclQlnWR_37.477191_-77.209657@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887021,
-    "wof:geomhash":"1eaec6ba7bba4a93425d5cd978b9a4c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b467019207315ae7d925d0066f069ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722702681
+        }
+    ],
     "wof:id":722702681,
-    "wof:lastmodified":1472651563,
+    "wof:lastmodified":1492067925,
     "wof:name":"Martin Industrial Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

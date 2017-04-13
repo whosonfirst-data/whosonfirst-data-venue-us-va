@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.255876,38.837711,-77.255876,38.837711",
     "geom:latitude":38.837711,
     "geom:longitude":-77.255876,
@@ -32,17 +33,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729829,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tFBW05nQco7fK9ZviO18q_38.837711_-77.255876@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904596,
-    "wof:geomhash":"0fbaec6d707daaa245d87862ae10185d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f91446f57c15d8b3153f3f99fc145cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729829,
+            "region_id":85688747,
+            "venue_id":739300879
+        }
+    ],
     "wof:id":739300879,
-    "wof:lastmodified":1472651244,
+    "wof:lastmodified":1492041753,
     "wof:name":"360 Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

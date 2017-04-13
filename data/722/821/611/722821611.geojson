@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.782149,37.251628,-76.782149,37.251628",
     "geom:latitude":37.251628,
     "geom:longitude":-76.782149,
@@ -34,17 +35,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aLuZqq4IbncsAxmksVmQi_37.251628_-76.782149@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889296,
-    "wof:geomhash":"646a0f46bd1ba863e51687947623b0bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"891cfe764541fce7cd99568182de8561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":722821611
+        }
+    ],
     "wof:id":722821611,
-    "wof:lastmodified":1472651901,
+    "wof:lastmodified":1492071799,
     "wof:name":"Williamsburg 7th Day Adventist",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

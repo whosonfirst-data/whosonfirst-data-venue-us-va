@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.39777,38.437819,-77.39777,38.437819",
     "geom:latitude":38.437819,
     "geom:longitude":-77.39777,
@@ -33,17 +34,26 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547161
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mN1XJ3YZGHFyNDVjS9fJt_38.437819_-77.397770@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894337,
-    "wof:geomhash":"3a2907d68a59ae5362e2c44ebc9f21b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af410e67d22a7f3df3a785c641c22a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547161,
+            "venue_id":723065651
+        }
+    ],
     "wof:id":723065651,
-    "wof:lastmodified":1472651239,
+    "wof:lastmodified":1492051365,
     "wof:name":"Frostbite Heating & Air Cond",
     "wof:parent_id":420547161,
     "wof:placetype":"venue",

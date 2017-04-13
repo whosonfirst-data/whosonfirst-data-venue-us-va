@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.54474,38.256383,-78.54474,38.256383",
     "geom:latitude":38.256383,
     "geom:longitude":-78.54474,
@@ -33,7 +34,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YyZ7cH0JkX2kXIN7aRgj6_38.256383_-78.544740@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904729,
     "wof:geomhash":"4c0d897a42b0d7319c90ada254c58232",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739307713
+        }
+    ],
     "wof:id":739307713,
-    "wof:lastmodified":1472651230,
+    "wof:lastmodified":1492029984,
     "wof:name":"Absolute Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

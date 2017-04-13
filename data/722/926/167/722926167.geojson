@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.51098,38.051897,-78.51098,38.051897",
     "geom:latitude":38.051897,
     "geom:longitude":-78.51098,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.law.virginia.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bfDAnDYJ3vybnlQ19dZrU_38.051897_-78.510980@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891327,
-    "wof:geomhash":"88a865101d1d01ac23c2db6eef56dd99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82062abdb4eff9d698163fb031794baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":722926167
+        }
+    ],
     "wof:id":722926167,
-    "wof:lastmodified":1472652158,
+    "wof:lastmodified":1492072235,
     "wof:name":"Law Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

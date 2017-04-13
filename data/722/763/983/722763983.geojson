@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.505091,38.035603,-78.505091,38.035603",
     "geom:latitude":38.035603,
     "geom:longitude":-78.505091,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.lib.virginia.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y1ZbjTD7FgwUZmmrAzNuY_38.035603_-78.505091@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888194,
-    "wof:geomhash":"466ca97f755ac02e9d2688c797f5910e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2b55a29ad45bdbd3b41ca59a8472fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":722763983
+        }
+    ],
     "wof:id":722763983,
-    "wof:lastmodified":1472651851,
+    "wof:lastmodified":1492070368,
     "wof:name":"Alderman Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

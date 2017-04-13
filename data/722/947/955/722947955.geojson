@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.142387,39.185301,-78.142387,39.185301",
     "geom:latitude":39.185301,
     "geom:longitude":-78.142387,
@@ -33,17 +34,32 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v2ZkKON6NFly1x7x72Dk8_39.185301_-78.142387@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891786,
-    "wof:geomhash":"305cc417e3801b23186b4c9165ab0f4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b0cf3aedaf9d7be5e94ed874be42e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722947955
+        }
+    ],
     "wof:id":722947955,
-    "wof:lastmodified":1472652268,
+    "wof:lastmodified":1492071030,
     "wof:name":"Farm Bureau Federation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

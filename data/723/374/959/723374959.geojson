@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443119,38.380737,-77.443119,38.380737",
     "geom:latitude":38.380737,
     "geom:longitude":-77.443119,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nx0vAFOlWokMfrH5G0I7h_38.380737_-77.443119@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900472,
-    "wof:geomhash":"837f531ac36afa033a73fe8fa1eca13d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c964d8fa3fcb623d2dd09a54578bef6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723374959
+        }
+    ],
     "wof:id":723374959,
-    "wof:lastmodified":1472652119,
+    "wof:lastmodified":1492056681,
     "wof:name":"Curb Appeal",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.945696,38.089005,-78.945696,38.089005",
     "geom:latitude":38.089005,
     "geom:longitude":-78.945696,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729647,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YwOMPWYa5nRcbJMjqdcph_38.089005_-78.945696@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886509,
-    "wof:geomhash":"0538b4d089e59cfe5b2dcaf2d820026f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a97db4ac6fbda195af93abc024b7bc6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729647,
+            "region_id":85688747,
+            "venue_id":722676043
+        }
+    ],
     "wof:id":722676043,
-    "wof:lastmodified":1472651500,
+    "wof:lastmodified":1492073333,
     "wof:name":"Utility Line Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.450617,37.011309,-76.450617,37.011309",
     "geom:latitude":37.011309,
     "geom:longitude":-76.450617,
@@ -35,6 +36,9 @@
         85688747,
         102191575,
         85633793,
+        101728661,
+        102084913,
+        85879223,
         101729041,
         102085961,
         85881983
@@ -45,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461899226,
-    "wof:geomhash":"27cc1ba2fd257fac7f845bfd75c35124",
+    "wof:geomhash":"e0a02abdfac427d441c5c3dbb2119fa7",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85879223,
+            "region_id":85688747,
+            "venue_id":723307993
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":723307993,
-    "wof:lastmodified":1472651846,
+    "wof:lastmodified":1492048155,
     "wof:name":"Lee Ward Municipal Marina",
-    "wof:parent_id":85881983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

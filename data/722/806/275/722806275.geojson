@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.589217,37.501293,-76.589217,37.501293",
     "geom:latitude":37.501293,
     "geom:longitude":-76.589217,
@@ -32,17 +33,30 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l0VVvCVR2pQq5DlXVd112_37.501293_-76.589217@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888997,
-    "wof:geomhash":"d96616340020168ef1542858790d556d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ccef07f0927936c395aa12098a08c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":722806275
+        }
+    ],
     "wof:id":722806275,
-    "wof:lastmodified":1472651768,
+    "wof:lastmodified":1492064918,
     "wof:name":"Harris Automotive Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

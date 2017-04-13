@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.644396,37.404095,-77.644396,37.404095",
     "geom:latitude":37.404095,
     "geom:longitude":-77.644396,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wB6KKlgQIX9Uk1Hd3K9uI_37.404095_-77.644396@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888967,
-    "wof:geomhash":"a66418f1534413eb11ee0a58a2a67b2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aad899fe6ed20172f302b02c85911c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722804569
+        }
+    ],
     "wof:id":722804569,
-    "wof:lastmodified":1472651806,
+    "wof:lastmodified":1492074571,
     "wof:name":"R D Wingo Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

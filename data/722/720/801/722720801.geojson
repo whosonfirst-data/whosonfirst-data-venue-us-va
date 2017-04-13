@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.011708,36.720443,-82.011708,36.720443",
     "geom:latitude":36.720443,
     "geom:longitude":-82.011708,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40uC4yUjEYRXjFpGLqsHSS_36.720443_-82.011708@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887359,
-    "wof:geomhash":"c0da63755fedc85e037952c727ac2639",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbda3fcac0e981730f6c064529f64feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722720801
+        }
+    ],
     "wof:id":722720801,
-    "wof:lastmodified":1472651646,
+    "wof:lastmodified":1492069080,
     "wof:name":"CME Sales Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

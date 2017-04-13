@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.439386,38.299205,-77.439386,38.299205",
     "geom:latitude":38.299205,
     "geom:longitude":-77.439386,
@@ -33,17 +34,26 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wx3zDxqE0zWPdQrjnFdvM_38.299205_-77.439386@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892879,
-    "wof:geomhash":"61eb1c7668d37853ebb071fb48b02a75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"308ffa91bc449e0f4814b0c8febdf225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":722998641
+        }
+    ],
     "wof:id":722998641,
-    "wof:lastmodified":1472652346,
+    "wof:lastmodified":1492074972,
     "wof:name":"Shaklee Distributor",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

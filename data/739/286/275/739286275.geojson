@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.052145,36.74807,-82.052145,36.74807",
     "geom:latitude":36.74807,
     "geom:longitude":-82.052145,
@@ -32,7 +33,10 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S2ASsR7SpZahbyaKb2LhK_36.748070_-82.052145@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904280,
     "wof:geomhash":"a4e4edf85bf0699d6a2d2dad5a3f442b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739286275
+        }
+    ],
     "wof:id":739286275,
-    "wof:lastmodified":1472651154,
+    "wof:lastmodified":1492030091,
     "wof:name":"David Blankenship",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

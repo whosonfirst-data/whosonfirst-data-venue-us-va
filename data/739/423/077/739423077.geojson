@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.663577,37.24551,-76.663577,37.24551",
     "geom:latitude":37.24551,
     "geom:longitude":-76.663577,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.mbpce.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qJvlcudVj1Z59lO4GOzeR_37.245510_-76.663577@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907028,
     "wof:geomhash":"5f85aeabf9b2510b9b2d56cb3f452996",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739423077
+        }
+    ],
     "wof:id":739423077,
-    "wof:lastmodified":1472651504,
+    "wof:lastmodified":1492032146,
     "wof:name":"Mcdonough Bolyard Pack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

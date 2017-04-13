@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.944896,37.267299,-79.944896,37.267299",
     "geom:latitude":37.267299,
     "geom:longitude":-79.944896,
@@ -32,17 +33,32 @@
         "prescription"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O7M2qzHzJYugqdsHG0mUD_37.267299_-79.944896@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899923,
-    "wof:geomhash":"d416fc6ebbf34dc04adaad211ef5875b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f005fa0dea3faac87b8c4cbb7b13fc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723345875
+        }
+    ],
     "wof:id":723345875,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492059100,
     "wof:name":"Universal Rx LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

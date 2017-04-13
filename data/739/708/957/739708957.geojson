@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.447519,37.710639,-77.447519,37.710639",
     "geom:latitude":37.710639,
     "geom:longitude":-77.447519,
@@ -50,7 +51,12 @@
         "lumber-used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d6woG1MvvBcf991CE4swj_37.710639_-77.447519@1303262549"
@@ -58,9 +64,17 @@
     "wof:country":"US",
     "wof:created":1461912765,
     "wof:geomhash":"e1f2cb24710ac0fbb17b4a6d3e2114ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739708957
+        }
+    ],
     "wof:id":739708957,
-    "wof:lastmodified":1472652207,
+    "wof:lastmodified":1492030755,
     "wof:name":"B C Wood Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

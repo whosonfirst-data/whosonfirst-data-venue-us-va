@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.531844,38.780834,-77.531844,38.780834",
     "geom:latitude":38.780834,
     "geom:longitude":-77.531844,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_738sDlYlcD8jzPDGwIpZYB_38.780834_-77.531844@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885655,
-    "wof:geomhash":"0fa052a2fed739075b8c0227caf2ac70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"661509680d32fead806fbabd787b50ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":722631479
+        }
+    ],
     "wof:id":722631479,
-    "wof:lastmodified":1472651413,
+    "wof:lastmodified":1492063653,
     "wof:name":"Bozzuto Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

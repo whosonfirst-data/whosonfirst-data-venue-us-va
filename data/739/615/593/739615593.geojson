@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.535329,39.083089,-77.535329,39.083089",
     "geom:latitude":39.083089,
     "geom:longitude":-77.535329,
@@ -37,17 +38,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VOipKNiJPPERdRMhfKLyq_39.083089_-77.535329@1303262497"
     },
     "wof:country":"US",
     "wof:created":1461910729,
-    "wof:geomhash":"c59b7b8aa72104c1c631f9f228cd9dab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cfb2dc6f32dba70d3485a9739ae41d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":739615593
+        }
+    ],
     "wof:id":739615593,
-    "wof:lastmodified":1472651999,
+    "wof:lastmodified":1492038497,
     "wof:name":"Nova Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

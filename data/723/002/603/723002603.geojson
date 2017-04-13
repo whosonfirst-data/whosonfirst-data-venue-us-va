@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.45701,37.081126,-76.45701,37.081126",
     "geom:latitude":37.081126,
     "geom:longitude":-76.45701,
@@ -31,19 +32,36 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        420548075
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r54OOgEENnZ1d2JkOX1If_37.081126_-76.457010@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892978,
-    "wof:geomhash":"856df6f90d824e18dc600bedd39deb1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fba64850cf705c2379c0ed1bfca74f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548075,
+            "region_id":85688747,
+            "venue_id":723002603
+        }
+    ],
     "wof:id":723002603,
-    "wof:lastmodified":1472651079,
+    "wof:lastmodified":1492051946,
     "wof:name":"K & M Vending",
-    "wof:parent_id":-1,
+    "wof:parent_id":420548075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.044981,36.766652,-78.044981,36.766652",
     "geom:latitude":36.766652,
     "geom:longitude":-78.044981,
@@ -33,17 +34,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rc3YpWn6KG45YbgIfKf9n_36.766652_-78.044981@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894054,
-    "wof:geomhash":"587d60d05f5e1f41b34c517a12b92a1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da114ba7f0459885645347467469d776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":723052111
+        }
+    ],
     "wof:id":723052111,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492054363,
     "wof:name":"Frank's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

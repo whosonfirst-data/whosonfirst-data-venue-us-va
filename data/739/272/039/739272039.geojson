@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.727878,36.806056,-76.727878,36.806056",
     "geom:latitude":36.806056,
     "geom:longitude":-76.727878,
@@ -28,7 +29,13 @@
     "sg:postcode":"23487",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728639,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OVXIFVbqMqwxTTQbd6KsK_36.806056_-76.727878@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903957,
     "wof:geomhash":"7a3507a3328bcdfd7307c6adfee45f74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728639,
+            "region_id":85688747,
+            "venue_id":739272039
+        }
+    ],
     "wof:id":739272039,
-    "wof:lastmodified":1472651136,
+    "wof:lastmodified":1492029377,
     "wof:name":"Basil L Ballard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

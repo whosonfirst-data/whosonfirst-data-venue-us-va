@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.651227,38.814771,-78.651227,38.814771",
     "geom:latitude":38.814771,
     "geom:longitude":-78.651227,
@@ -28,7 +29,12 @@
     "sg:postcode":"22824",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yaDPthELmGfLnnEjxRSQj_38.814771_-78.651227@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904641,
     "wof:geomhash":"c8e176ca8ed7478d3e8da7c1659a6001",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739303333
+        }
+    ],
     "wof:id":739303333,
-    "wof:lastmodified":1472651195,
+    "wof:lastmodified":1492029764,
     "wof:name":"Lindamoods Dairy & Farm Sups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.473562,38.443627,-77.473562,38.443627",
     "geom:latitude":38.443627,
     "geom:longitude":-77.473562,
@@ -32,7 +33,10 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_311z9RihqToD9yDv5vRDUg_38.443627_-77.473562@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461905738,
     "wof:geomhash":"c1769b41b5bc0e1d7396026d21b7f6dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":739356121
+        }
+    ],
     "wof:id":739356121,
-    "wof:lastmodified":1472651325,
+    "wof:lastmodified":1492030449,
     "wof:name":"Custom Procurement Systms Inc",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.975496,37.34423,-78.975496,37.34423",
     "geom:latitude":37.34423,
     "geom:longitude":-78.975496,
@@ -32,7 +33,13 @@
         "extinguisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729199,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28lLeOt91FjghwArboe6ue_37.344230_-78.975496@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905746,
     "wof:geomhash":"6b84d50e5d46f74d43fb471406d19481",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729199,
+            "region_id":85688747,
+            "venue_id":739356431
+        }
+    ],
     "wof:id":739356431,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492030441,
     "wof:name":"Fire & Safety Equipment Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

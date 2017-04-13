@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.302758,37.281294,-80.302758,37.281294",
     "geom:latitude":37.281294,
     "geom:longitude":-80.302758,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QBlf2Uj18KWHoxEMWizYz_37.281294_-80.302758@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908391,
     "wof:geomhash":"3d045bb8d0e6359a163e54bbea55406e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":739497907
+        }
+    ],
     "wof:id":739497907,
-    "wof:lastmodified":1472651711,
+    "wof:lastmodified":1492029709,
     "wof:name":"Terry Henderson Exteriors",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

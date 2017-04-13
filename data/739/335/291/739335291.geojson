@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.884311,36.981117,-79.884311,36.981117",
     "geom:latitude":36.981117,
     "geom:longitude":-79.884311,
@@ -32,17 +33,32 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729715,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GqaZ3jk8BmWPdyWQyRfhG_36.981117_-79.884311@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905278,
-    "wof:geomhash":"98e0fbb1688d32a6c61ef4cd659c80ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e279c01827c74d14535e4e5f18532290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729715,
+            "region_id":85688747,
+            "venue_id":739335291
+        }
+    ],
     "wof:id":739335291,
-    "wof:lastmodified":1472651269,
+    "wof:lastmodified":1492037665,
     "wof:name":"USDA Grain Inspection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.88762,37.457157,-79.88762,37.457157",
     "geom:latitude":37.457157,
     "geom:longitude":-79.88762,
@@ -32,7 +33,12 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5roL5JXFDSTFm2lNlXk9GH_37.457157_-79.887620@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906766,
     "wof:geomhash":"19f2cca7c9c9f52028935a3d63d36dce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739410007
+        }
+    ],
     "wof:id":739410007,
-    "wof:lastmodified":1472651446,
+    "wof:lastmodified":1492032274,
     "wof:name":"Botetourt Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

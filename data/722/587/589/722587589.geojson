@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.579562,38.32402,-77.579562,38.32402",
     "geom:latitude":38.32402,
     "geom:longitude":-77.579562,
@@ -31,19 +32,28 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n5rQge8CHuF16Ni4ay6ya_38.324020_-77.579562@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884749,
-    "wof:geomhash":"d5246601448f589f23a286c8c244b2e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de36ee7cb694a47bccd1f964934cacc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":722587589
+        }
+    ],
     "wof:id":722587589,
-    "wof:lastmodified":1472651232,
+    "wof:lastmodified":1492073658,
     "wof:name":"Guizars General Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

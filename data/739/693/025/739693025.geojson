@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.428211,38.30736,-77.428211,38.30736",
     "geom:latitude":38.30736,
     "geom:longitude":-77.428211,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"http://www.whiteoakbailbonds.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wlTxEx7ZVDWRGWJwV2VqV_38.307360_-77.428211@1303262546"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461912401,
     "wof:geomhash":"a76feb94764505f6760ae44f3409d89f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547187,
+            "venue_id":739693025
+        }
+    ],
     "wof:id":739693025,
-    "wof:lastmodified":1472652161,
+    "wof:lastmodified":1492031395,
     "wof:name":"White Oak Bail Bonds LLC",
     "wof:parent_id":420547187,
     "wof:placetype":"venue",

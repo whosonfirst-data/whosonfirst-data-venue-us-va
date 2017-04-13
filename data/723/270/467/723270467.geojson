@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.350517,38.391306,-77.350517,38.391306",
     "geom:latitude":38.391306,
     "geom:longitude":-77.350517,
@@ -31,17 +32,26 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VvlFRvep5XQdUzkZR43Sf_38.391306_-77.350517@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898513,
-    "wof:geomhash":"0c31a08ab8059f93a4637951cce8984e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2964f458e8de0c46823585320729ec2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":723270467
+        }
+    ],
     "wof:id":723270467,
-    "wof:lastmodified":1472651790,
+    "wof:lastmodified":1492054479,
     "wof:name":"Young Technologies Corp",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

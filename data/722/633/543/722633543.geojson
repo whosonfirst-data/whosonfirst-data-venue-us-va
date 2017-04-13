@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43659,38.285574,-77.43659,38.285574",
     "geom:latitude":38.285574,
     "geom:longitude":-77.43659,
@@ -32,17 +33,26 @@
         "diet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B1rg4Stx9owsLj9FzhwAy_38.285574_-77.436590@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885712,
-    "wof:geomhash":"34ecd96a60ce528a1d3d8fe2b189f3dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7f8cfd116754d02f3a1753b99bd8859",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":722633543
+        }
+    ],
     "wof:id":722633543,
-    "wof:lastmodified":1472651414,
+    "wof:lastmodified":1492068647,
     "wof:name":"GNC",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

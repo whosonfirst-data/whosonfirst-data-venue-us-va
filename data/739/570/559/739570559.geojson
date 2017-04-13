@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.603832,37.506103,-77.603832,37.506103",
     "geom:latitude":37.506103,
     "geom:longitude":-77.603832,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"http://www.brucessuperbody.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JLvH0MLvcoKYwYHtKiGiR_37.506146_-77.603975@1293134755"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461909789,
     "wof:geomhash":"77ecc0618a269e53f2eacfe3fdc6ffb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739570559
+        }
+    ],
     "wof:id":739570559,
-    "wof:lastmodified":1472651909,
+    "wof:lastmodified":1492031739,
     "wof:name":"Bruce's Super Body Shops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

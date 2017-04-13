@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443454,37.705186,-77.443454,37.705186",
     "geom:latitude":37.705186,
     "geom:longitude":-77.443454,
@@ -32,17 +33,30 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39PNHD4iwt25QEBnGMSEb9_37.705186_-77.443454@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891750,
-    "wof:geomhash":"6d633fd36d4a20a4e3814f0d56b47f56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76a147a06652dbb70c7ea6a832b9d8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":722945971
+        }
+    ],
     "wof:id":722945971,
-    "wof:lastmodified":1472652266,
+    "wof:lastmodified":1492073281,
     "wof:name":"Fedex Ground Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.068919,37.270171,-80.068919,37.270171",
     "geom:latitude":37.270171,
     "geom:longitude":-80.068919,
@@ -31,7 +32,13 @@
         "ceiling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yH3RA7awLPieR5IjUuVbf_37.270171_-80.068919@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907440,
     "wof:geomhash":"8c7fdaafa4d93a4e35d40347bed6149a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739444101
+        }
+    ],
     "wof:id":739444101,
-    "wof:lastmodified":1472651556,
+    "wof:lastmodified":1492031999,
     "wof:name":"Pulire America Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

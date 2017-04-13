@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.270028,36.63917,-80.270028,36.63917",
     "geom:latitude":36.63917,
     "geom:longitude":-80.270028,
@@ -33,17 +34,32 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728847,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55dHRnTpoO5yhx4ymGGsKq_36.639170_-80.270028@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910270,
-    "wof:geomhash":"2929ee038edda3a4e151576ea5cc48ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57be57214da72d9cd87a15fb493ed0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "locality_id":101728847,
+            "region_id":85688747,
+            "venue_id":739593913
+        }
+    ],
     "wof:id":739593913,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492039937,
     "wof:name":"Little Caesar's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

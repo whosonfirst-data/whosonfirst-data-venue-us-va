@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.481147,39.050764,-77.481147,39.050764",
     "geom:latitude":39.050764,
     "geom:longitude":-77.481147,
@@ -34,17 +35,32 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07DQdR5Zj8Gqk8h50lkc8H_39.050764_-77.481147@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901000,
-    "wof:geomhash":"59bab355a713d41d415575009204cb89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"525a3ebb6d404615fa61232964eb1523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723401725
+        }
+    ],
     "wof:id":723401725,
-    "wof:lastmodified":1472652128,
+    "wof:lastmodified":1492051204,
     "wof:name":"Aquatic Power",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

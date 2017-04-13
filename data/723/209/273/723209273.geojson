@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.649169,38.764593,-78.649169,38.764593",
     "geom:latitude":38.764593,
     "geom:longitude":-78.649169,
@@ -33,17 +34,30 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AGQGESNZHWGECLg9frnd2_38.764593_-78.649169@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897247,
-    "wof:geomhash":"0386c64509839127f3c22b4643ab7e59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03d99751f3cd39a4202b374bee597584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":723209273
+        }
+    ],
     "wof:id":723209273,
-    "wof:lastmodified":1472651617,
+    "wof:lastmodified":1492054044,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

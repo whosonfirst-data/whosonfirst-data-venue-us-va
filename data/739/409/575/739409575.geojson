@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.268253,38.846799,-77.268253,38.846799",
     "geom:latitude":38.846799,
     "geom:longitude":-77.268253,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729769,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ikCCAlhgPqVAoz06D2fzJ_38.846799_-77.268253@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906759,
-    "wof:geomhash":"cca222e5c54735f9c1b391ffe5e59db4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e1b16c66736a48838ff89cb34cd22c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729769,
+            "region_id":85688747,
+            "venue_id":739409575
+        }
+    ],
     "wof:id":739409575,
-    "wof:lastmodified":1472651479,
+    "wof:lastmodified":1492043626,
     "wof:name":"Boyd Consulting Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

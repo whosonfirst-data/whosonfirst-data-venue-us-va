@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.491497,37.507449,-77.491497,37.507449",
     "geom:latitude":37.507449,
     "geom:longitude":-77.491497,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"www.uwrenchit.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CpgR64QXbSAfpc3o8qzUB_37.507449_-77.491497@1294252573"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461904374,
     "wof:geomhash":"77e9d7429315e6de6d875095f8dd30c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739290229
+        }
+    ],
     "wof:id":739290229,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492032793,
     "wof:name":"NKF Kidney Car Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

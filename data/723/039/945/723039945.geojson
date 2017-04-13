@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942379,37.26932,-79.942379,37.26932",
     "geom:latitude":37.26932,
     "geom:longitude":-79.942379,
@@ -32,17 +33,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_756WlqZGvEZYTpW3qnJVVm_37.269320_-79.942379@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893809,
-    "wof:geomhash":"9a1b991316ab1e3c94640dd907dc3ae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd85297bae6484ce06c21bff669cda23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723039945
+        }
+    ],
     "wof:id":723039945,
-    "wof:lastmodified":1472651174,
+    "wof:lastmodified":1492061944,
     "wof:name":"Paul's Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

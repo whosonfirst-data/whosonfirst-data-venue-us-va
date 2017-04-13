@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.104596,37.671587,-77.104596,37.671587",
     "geom:latitude":37.671587,
     "geom:longitude":-77.104596,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z47ISJ2XzxvHZiJ4zcBGZ_37.671587_-77.104596@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884453,
-    "wof:geomhash":"9372296c56713780dfde4e7251a54a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"718a5fc01a132f4432d19796d74ffd05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":722572513
+        }
+    ],
     "wof:id":722572513,
-    "wof:lastmodified":1472651172,
+    "wof:lastmodified":1492069109,
     "wof:name":"Baptist Liberty Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

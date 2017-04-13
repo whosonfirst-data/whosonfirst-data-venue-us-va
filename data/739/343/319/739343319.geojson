@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.361939,37.074109,-76.361939,37.074109",
     "geom:latitude":37.074109,
     "geom:longitude":-76.361939,
@@ -31,7 +32,13 @@
         "commissary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XyP8sIQ8dinjwxlrZEasd_37.074109_-76.361939@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905450,
     "wof:geomhash":"49e2647243f55204d592076add475258",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739343319
+        }
+    ],
     "wof:id":739343319,
-    "wof:lastmodified":1472651280,
+    "wof:lastmodified":1492032160,
     "wof:name":"Ft Langley Afb Commissary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

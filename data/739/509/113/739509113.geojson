@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.286551,38.997422,-77.286551,38.997422",
     "geom:latitude":38.997422,
     "geom:longitude":-77.286551,
@@ -33,17 +34,32 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JQbyYtrIFbTbj3NyhmRgd_38.997422_-77.286551@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908595,
-    "wof:geomhash":"736c24487a321fe48a53a83db7c061e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd89b098ad6e7a4f161905270925d4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":739509113
+        }
+    ],
     "wof:id":739509113,
-    "wof:lastmodified":1472651719,
+    "wof:lastmodified":1492045887,
     "wof:name":"Legacy Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

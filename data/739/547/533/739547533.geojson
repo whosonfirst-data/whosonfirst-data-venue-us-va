@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.757334,37.320395,-76.757334,37.320395",
     "geom:latitude":37.320395,
     "geom:longitude":-76.757334,
@@ -31,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iYkU3Il02FEbupRIxjema_37.320395_-76.757334@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461909312,
     "wof:geomhash":"4e2a32c0d06fa998aa80374035bb5b59",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546887,
+            "venue_id":739547533
+        }
+    ],
     "wof:id":739547533,
-    "wof:lastmodified":1472651872,
+    "wof:lastmodified":1492029485,
     "wof:name":"House Cleaning & More",
     "wof:parent_id":420546887,
     "wof:placetype":"venue",

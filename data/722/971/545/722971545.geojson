@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.515853,38.370378,-77.515853,38.370378",
     "geom:latitude":38.370378,
     "geom:longitude":-77.515853,
@@ -32,17 +33,26 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qrFDqQpG3zNEZP186rP3m_38.370378_-77.515853@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892281,
-    "wof:geomhash":"9e29cf429579b47a22c5e128d3089ac2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea55752db899d719f0487e2cf1c88bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":722971545
+        }
+    ],
     "wof:id":722971545,
-    "wof:lastmodified":1472652312,
+    "wof:lastmodified":1492062684,
     "wof:name":"Virginia Lightning Skippe",
     "wof:parent_id":420547237,
     "wof:placetype":"venue",

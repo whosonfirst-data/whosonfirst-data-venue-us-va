@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.437932,38.293177,-78.437932,38.293177",
     "geom:latitude":38.293177,
     "geom:longitude":-78.437932,
@@ -32,17 +33,30 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BR2SQJx20jy6V44lVQNsj_38.293177_-78.437932@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889845,
-    "wof:geomhash":"5fee7bc4025b8f16ccd4a72eb4f097e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03131e33f3c223f72a2bfd13814cfc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":722851233
+        }
+    ],
     "wof:id":722851233,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492074855,
     "wof:name":"Evergreene Nursing Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

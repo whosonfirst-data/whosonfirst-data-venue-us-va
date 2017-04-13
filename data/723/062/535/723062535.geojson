@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.671564,38.820596,-77.671564,38.820596",
     "geom:latitude":38.820596,
     "geom:longitude":-77.671564,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TzXC6ypvMHxVkqJCzzuHr_38.820596_-77.671564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894270,
-    "wof:geomhash":"f09a6dfab7e9cc97d10e66076376a810",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d0cb843e902f79bcadfc37ad938b0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":723062535
+        }
+    ],
     "wof:id":723062535,
-    "wof:lastmodified":1472651235,
+    "wof:lastmodified":1492059726,
     "wof:name":"Wilson Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

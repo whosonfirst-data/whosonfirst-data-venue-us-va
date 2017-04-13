@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.011181,37.315818,-80.011181,37.315818",
     "geom:latitude":37.315818,
     "geom:longitude":-80.011181,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aH9aDi1AEy0VAGDqzTXvc_37.315818_-80.011181@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887592,
-    "wof:geomhash":"a4aa7c38ab605e8c1167c0a176219898",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d150487557e9ca557a1d21d5d8d56f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722732343
+        }
+    ],
     "wof:id":722732343,
-    "wof:lastmodified":1472651676,
+    "wof:lastmodified":1492073754,
     "wof:name":"North Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

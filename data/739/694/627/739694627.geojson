@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419689,38.447207,-77.419689,38.447207",
     "geom:latitude":38.447207,
     "geom:longitude":-77.419689,
@@ -31,7 +32,10 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54pW4OwbynghLBojYQeOrN_38.447207_-77.419689@1303262547"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912430,
     "wof:geomhash":"086a68621d25c46595add14751336165",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":739694627
+        }
+    ],
     "wof:id":739694627,
-    "wof:lastmodified":1472652191,
+    "wof:lastmodified":1492030232,
     "wof:name":"Ltc Solutions",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.640217,38.840011,-77.640217,38.840011",
     "geom:latitude":38.840011,
     "geom:longitude":-77.640217,
@@ -28,7 +29,12 @@
     "sg:postcode":"20169",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fGDnLEasBUkAg4wrKC5bV_38.840011_-77.640217@1303262496"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910680,
     "wof:geomhash":"b1717ff048bd7fc5f4faa74a63f82ffc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613735
+        }
+    ],
     "wof:id":739613735,
-    "wof:lastmodified":1472652005,
+    "wof:lastmodified":1492032416,
     "wof:name":"Dominion Valley Country Club-Club House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

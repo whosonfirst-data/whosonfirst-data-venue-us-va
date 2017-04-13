@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.884174,37.003989,-79.884174,37.003989",
     "geom:latitude":37.003989,
     "geom:longitude":-79.884174,
@@ -31,17 +32,32 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qvEPMa5Mu8q37O5PeN0Kq_37.003989_-79.884174@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899893,
-    "wof:geomhash":"93c5c2b9229df8aabb5acbaf5dbc16d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb423b528d317c2d81c7475cb26cc1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":723344615
+        }
+    ],
     "wof:id":723344615,
-    "wof:lastmodified":1472651962,
+    "wof:lastmodified":1492058259,
     "wof:name":"Workforce Development Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

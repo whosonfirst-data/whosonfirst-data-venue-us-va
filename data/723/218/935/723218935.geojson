@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.576174,38.695912,-77.576174,38.695912",
     "geom:latitude":38.695912,
     "geom:longitude":-77.576174,
@@ -36,17 +37,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UDGU8jJ2bUyJQh8je5mLX_38.695912_-77.576174@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897455,
-    "wof:geomhash":"943e6321328828a68822a608f764a4b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30d828378e19968382472596b209bd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":723218935
+        }
+    ],
     "wof:id":723218935,
-    "wof:lastmodified":1472651645,
+    "wof:lastmodified":1492049646,
     "wof:name":"Nokesville Design PLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

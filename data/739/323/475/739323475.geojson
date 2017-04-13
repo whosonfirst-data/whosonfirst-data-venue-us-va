@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.90791,37.369402,-79.90791,37.369402",
     "geom:latitude":37.369402,
     "geom:longitude":-79.90791,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EtFBxDOF0ZyhO0cKM0Wkb_37.369402_-79.907910@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905050,
-    "wof:geomhash":"3328788dc51561ced6bbd1e844c3d582",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfcd31260011793d3df922ed42b01d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":739323475
+        }
+    ],
     "wof:id":739323475,
-    "wof:lastmodified":1472651281,
+    "wof:lastmodified":1492044466,
     "wof:name":"Pendleton Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

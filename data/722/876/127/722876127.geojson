@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411838,38.457998,-77.411838,38.457998",
     "geom:latitude":38.457998,
     "geom:longitude":-77.411838,
@@ -31,17 +32,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ir57ZV2GoMeIk9iPQIBEZ_38.457998_-77.411838@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890313,
-    "wof:geomhash":"f6885c63059fe68242594e46e68985a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab0222a1e91dc8adae9944cd3a3bbe63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":722876127
+        }
+    ],
     "wof:id":722876127,
-    "wof:lastmodified":1472652003,
+    "wof:lastmodified":1492068506,
     "wof:name":"A Taste of Creole",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

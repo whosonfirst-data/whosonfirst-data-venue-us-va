@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.933816,37.045688,-76.933816,37.045688",
     "geom:latitude":37.045688,
     "geom:longitude":-76.933816,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zabbXoKmtwRO48t2HkB2B_37.045688_-76.933816@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893156,
-    "wof:geomhash":"8935f86b09cea8902d75d0dd7f3b4ffc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9f486cd7ef23a5f20a54929c00dcf89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723010775
+        }
+    ],
     "wof:id":723010775,
-    "wof:lastmodified":1472651119,
+    "wof:lastmodified":1492050153,
     "wof:name":"Treasure Box",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.769955,37.360262,-76.769955,37.360262",
     "geom:latitude":37.360262,
     "geom:longitude":-76.769955,
@@ -32,17 +33,26 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26arAPBgtJemOZAvvRE6rU_37.360262_-76.769955@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889952,
-    "wof:geomhash":"7ce376b5c4afacac516263c3444b7443",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3a3c18245aac6512d115f29c1f9d24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":722856815
+        }
+    ],
     "wof:id":722856815,
-    "wof:lastmodified":1472651986,
+    "wof:lastmodified":1492071384,
     "wof:name":"Raleigh Graphics",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

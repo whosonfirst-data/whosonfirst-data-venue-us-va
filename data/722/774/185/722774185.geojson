@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.669566,37.442158,-77.669566,37.442158",
     "geom:latitude":37.442158,
     "geom:longitude":-77.669566,
@@ -32,17 +33,32 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lMGj3hcCF0ukO9yJXkL1u_37.442158_-77.669566@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888394,
-    "wof:geomhash":"dd16c727c8c219f67701788ab3e16400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fccec8e916e3db18c5744c0e048bf32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722774185
+        }
+    ],
     "wof:id":722774185,
-    "wof:lastmodified":1472651724,
+    "wof:lastmodified":1492071405,
     "wof:name":"Elmar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

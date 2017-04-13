@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.39743,37.288786,-78.39743,37.288786",
     "geom:latitude":37.288786,
     "geom:longitude":-78.39743,
@@ -31,17 +32,32 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QQKxE9eh0ixDWqg9JVGR6_37.288786_-78.397430@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899968,
-    "wof:geomhash":"daa6b89e663b8a4e84603920e1860745",
-    "wof:hierarchy":[],
+    "wof:geomhash":"123c5f057695cdcf5da84a30eb405f04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723348483
+        }
+    ],
     "wof:id":723348483,
-    "wof:lastmodified":1472652014,
+    "wof:lastmodified":1492054390,
     "wof:name":"Beauty & Fashion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

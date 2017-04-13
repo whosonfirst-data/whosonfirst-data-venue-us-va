@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.756049,37.265969,-79.756049,37.265969",
     "geom:latitude":37.265969,
     "geom:longitude":-79.756049,
@@ -31,17 +32,30 @@
         "conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EEzY6y8VtzcWqBhaJWZ7s_37.265969_-79.756049@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896779,
-    "wof:geomhash":"7bf884984512bfa8a82bfb0590784057",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55dc82c09fe26ef17d15d93cb8beb37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723184581
+        }
+    ],
     "wof:id":723184581,
-    "wof:lastmodified":1472651525,
+    "wof:lastmodified":1492056111,
     "wof:name":"Moneta Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

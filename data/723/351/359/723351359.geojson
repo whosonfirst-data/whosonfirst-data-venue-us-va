@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.422116,38.312893,-77.422116,38.312893",
     "geom:latitude":38.312893,
     "geom:longitude":-77.422116,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lDuGC2F27VakMtJcNBEYA_38.312893_-77.422116@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900019,
-    "wof:geomhash":"c387157d71b9f829259dc0a97006f859",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e79142b65b0c25713d6d7a0c66760b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547187,
+            "venue_id":723351359
+        }
+    ],
     "wof:id":723351359,
-    "wof:lastmodified":1472652016,
+    "wof:lastmodified":1492057603,
     "wof:name":"G Long Electric",
     "wof:parent_id":420547187,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476517,38.842484,-77.476517,38.842484",
     "geom:latitude":38.842484,
     "geom:longitude":-77.476517,
@@ -31,17 +32,30 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_730mI76QYyFTeWqj7NPmDd_38.842484_-77.476517@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890333,
-    "wof:geomhash":"6bad9c4e9721240f36924995c23489be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08ce793b2d940d9aaf4ac066a4d03a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":722877251
+        }
+    ],
     "wof:id":722877251,
-    "wof:lastmodified":1472652008,
+    "wof:lastmodified":1492069629,
     "wof:name":"Federal Computer Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

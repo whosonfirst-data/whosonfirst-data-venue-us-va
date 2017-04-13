@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.627335,38.807058,-77.627335,38.807058",
     "geom:latitude":38.807058,
     "geom:longitude":-77.627335,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.davita.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1apAwrP8Y5m29eaV6xpXWG_38.807058_-77.627335@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910618,
-    "wof:geomhash":"4a122f08d629fab2ec08e322e53f0450",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2da00ce1ee1aa7852f08992345c5d0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739610987
+        }
+    ],
     "wof:id":739610987,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492043837,
     "wof:name":"DaVita Dialysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

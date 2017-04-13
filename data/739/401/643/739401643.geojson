@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43494,38.830855,-77.43494,38.830855",
     "geom:latitude":38.830855,
     "geom:longitude":-77.43494,
@@ -28,7 +29,13 @@
     "sg:postcode":"20121",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HcQEyA0h0qMFycnJ9s8vk_38.830855_-77.434940@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906611,
     "wof:geomhash":"ff379f866cc2649c0ac211c50dcbb52d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739401643
+        }
+    ],
     "wof:id":739401643,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492032693,
     "wof:name":"Wendy J Grooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

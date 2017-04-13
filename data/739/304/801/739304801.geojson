@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.520901,37.125827,-81.520901,37.125827",
     "geom:latitude":37.125827,
     "geom:longitude":-81.520901,
@@ -33,17 +34,26 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EoyxgtJSSTEfPfLlFjJUb_37.125827_-81.520901@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904677,
-    "wof:geomhash":"abb690af3ba867acf89c1e58b9a5cfeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"597c93ddb5f269c215398091a8838c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739304801
+        }
+    ],
     "wof:id":739304801,
-    "wof:lastmodified":1472651227,
+    "wof:lastmodified":1492040995,
     "wof:name":"Pet Styles",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

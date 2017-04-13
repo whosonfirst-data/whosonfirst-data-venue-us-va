@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.551272,37.508695,-77.551272,37.508695",
     "geom:latitude":37.508695,
     "geom:longitude":-77.551272,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eEp4zFvRctMZXIqHD4a2C_37.508695_-77.551272@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892703,
-    "wof:geomhash":"1155f52f578acabac27ba16ba405e1d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e40712b73499b0fd497f371260364834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":722990643
+        }
+    ],
     "wof:id":722990643,
-    "wof:lastmodified":1472652346,
+    "wof:lastmodified":1492063012,
     "wof:name":"Rockwood Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

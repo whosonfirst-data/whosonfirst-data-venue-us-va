@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.073353,37.290492,-80.073353,37.290492",
     "geom:latitude":37.290492,
     "geom:longitude":-80.073353,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fvhPJXVvO5Z5uvHkW9SwX_37.290492_-80.073353@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897549,
-    "wof:geomhash":"13bd8c229163a7d411d9bb9313adfea0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3781f713a29e8ab90f29f084b01b2153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723222551
+        }
+    ],
     "wof:id":723222551,
-    "wof:lastmodified":1472651619,
+    "wof:lastmodified":1492057925,
     "wof:name":"Cingular Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

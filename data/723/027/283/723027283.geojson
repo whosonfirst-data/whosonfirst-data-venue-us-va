@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475149,37.450799,-77.475149,37.450799",
     "geom:latitude":37.450799,
     "geom:longitude":-77.475149,
@@ -28,17 +29,32 @@
     "sg:postcode":"23234",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EtooGakjGWy7tI68HmfF9_37.450799_-77.475149@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893546,
-    "wof:geomhash":"cf7f76d5ebed496f876c7ddf26e54b21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c229ea15d2e3871ed828015b746c9892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":723027283
+        }
+    ],
     "wof:id":723027283,
-    "wof:lastmodified":1472651134,
+    "wof:lastmodified":1492060031,
     "wof:name":"EMI of Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

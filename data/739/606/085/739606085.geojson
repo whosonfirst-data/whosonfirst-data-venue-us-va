@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.716605,39.138948,-77.716605,39.138948",
     "geom:latitude":39.138948,
     "geom:longitude":-77.716605,
@@ -60,17 +61,32 @@
     ],
     "sg:website":"http://www.southernstates.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jyqtM9p2yNWAipS4Jv8HN_39.138948_-77.716605@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910528,
-    "wof:geomhash":"3a96dfd33f0a6ce86fed2a55fb7734ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d21b18bd6dfd2c68d599e20a2a1772d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":739606085
+        }
+    ],
     "wof:id":739606085,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492039025,
     "wof:name":"Southern States Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

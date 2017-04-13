@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506436,38.278231,-77.506436,38.278231",
     "geom:latitude":38.278231,
     "geom:longitude":-77.506436,
@@ -28,7 +29,12 @@
     "sg:postcode":"22408",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UyIPLXrTUYJFHLZYEo5ux_38.278231_-77.506436@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907184,
     "wof:geomhash":"1b8650524a2a963f8a971de0a31e553a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739431187
+        }
+    ],
     "wof:id":739431187,
-    "wof:lastmodified":1472651516,
+    "wof:lastmodified":1492033119,
     "wof:name":"Damoore Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.574776,37.636542,-76.574776,37.636542",
     "geom:latitude":37.636542,
     "geom:longitude":-76.574776,
@@ -37,7 +38,13 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728727,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kvyQxdRL6y050H3OFTfgp_37.636542_-76.574776@1294252573"
@@ -45,9 +52,18 @@
     "wof:country":"US",
     "wof:created":1461909161,
     "wof:geomhash":"d07eb5da26af9f7ec7f91c7a06ce51c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "locality_id":101728727,
+            "region_id":85688747,
+            "venue_id":739540533
+        }
+    ],
     "wof:id":739540533,
-    "wof:lastmodified":1472651797,
+    "wof:lastmodified":1492032600,
     "wof:name":"Fashion Exchange Your Resale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

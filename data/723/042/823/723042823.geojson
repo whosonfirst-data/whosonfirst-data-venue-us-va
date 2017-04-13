@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48327,38.272033,-77.48327,38.272033",
     "geom:latitude":38.272033,
     "geom:longitude":-77.48327,
@@ -31,17 +32,30 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hFU593jHoerG5iA4wvO37_38.272033_-77.483270@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893870,
-    "wof:geomhash":"fe020fc11a97f4ec115f928c19644117",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68de9a6ca05c976d906a8d021117549a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723042823
+        }
+    ],
     "wof:id":723042823,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492050274,
     "wof:name":"Spotsylvania County Magistrate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

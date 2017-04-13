@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.262513,38.958987,-77.262513,38.958987",
     "geom:latitude":38.958987,
     "geom:longitude":-77.262513,
@@ -32,17 +33,32 @@
         "direct"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HM2UbWRAspZ7M26MwNmgV_38.958987_-77.262513@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899680,
-    "wof:geomhash":"7e9d6bce63903f553be7369c50a81eb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2feeb287af03a52b24faa62e0f75dedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":723332933
+        }
+    ],
     "wof:id":723332933,
-    "wof:lastmodified":1472651912,
+    "wof:lastmodified":1492049022,
     "wof:name":"Ben Hart Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

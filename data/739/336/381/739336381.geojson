@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.921542,36.768885,-78.921542,36.768885",
     "geom:latitude":36.768885,
     "geom:longitude":-78.921542,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728965,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s5dLBKywKrESjcWqQCafX_36.768885_-78.921542@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905308,
-    "wof:geomhash":"1c6b4b332c70b43b2ec182ec09d3efe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"001d7b4b5647777f4d724c36ee8f3d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728965,
+            "region_id":85688747,
+            "venue_id":739336381
+        }
+    ],
     "wof:id":739336381,
-    "wof:lastmodified":1472651273,
+    "wof:lastmodified":1492042897,
     "wof:name":"Aids Anonymous Testing Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

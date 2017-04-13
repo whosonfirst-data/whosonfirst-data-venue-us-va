@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48552,38.263086,-77.48552,38.263086",
     "geom:latitude":38.263086,
     "geom:longitude":-77.48552,
@@ -35,7 +36,12 @@
     ],
     "sg:website":"http://www.crescentpainting.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2egHGZhS4aTxy5pRFHi2Es_38.263086_-77.485520@1303262547"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461912411,
     "wof:geomhash":"013f6e170191e8dd373464a4f8f7a32f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693583
+        }
+    ],
     "wof:id":739693583,
-    "wof:lastmodified":1472652183,
+    "wof:lastmodified":1492031377,
     "wof:name":"Crescent Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

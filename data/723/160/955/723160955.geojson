@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.994323,36.903541,-75.994323,36.903541",
     "geom:latitude":36.903541,
     "geom:longitude":-75.994323,
@@ -34,7 +35,8 @@
         85633793,
         101728745,
         102081929,
-        85838147
+        85838147,
+        85804805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461896305,
-    "wof:geomhash":"b9fe4ec883cc39cebad2f971261f6609",
+    "wof:geomhash":"424f47358cba9ea28f65eb87a308c123",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85838147,
             "region_id":85688747,
             "venue_id":723160955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85804805,
+            "region_id":85688747,
+            "venue_id":723160955
         }
     ],
     "wof:id":723160955,
-    "wof:lastmodified":1472651489,
+    "wof:lastmodified":1492061731,
     "wof:name":"BJ Leiderman Music",
-    "wof:parent_id":85838147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

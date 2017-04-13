@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.611023,37.504011,-77.611023,37.504011",
     "geom:latitude":37.504011,
     "geom:longitude":-77.611023,
@@ -33,7 +34,12 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zp6YULIZOFHadW6r0qUR4_37.504011_-77.611023@1303262551"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461913091,
     "wof:geomhash":"484de34d1b71456968eaf5cb54e02abb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724945
+        }
+    ],
     "wof:id":739724945,
-    "wof:lastmodified":1472652262,
+    "wof:lastmodified":1492030961,
     "wof:name":"Clifford & Duke Pc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

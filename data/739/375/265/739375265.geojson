@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.174483,38.873872,-77.174483,38.873872",
     "geom:latitude":38.873872,
     "geom:longitude":-77.174483,
@@ -31,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729757,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gv8zc4dISDfD7G6vAMC56_38.873872_-77.174483@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906103,
     "wof:geomhash":"f8d99ff2743d83ef3b6ec9c73586d5c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729757,
+            "region_id":85688747,
+            "venue_id":739375265
+        }
+    ],
     "wof:id":739375265,
-    "wof:lastmodified":1472651339,
+    "wof:lastmodified":1492030850,
     "wof:name":"Mns Painting Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

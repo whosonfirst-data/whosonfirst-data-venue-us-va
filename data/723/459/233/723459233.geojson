@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.882557,36.976679,-79.882557,36.976679",
     "geom:latitude":36.976679,
     "geom:longitude":-79.882557,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729715,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wpXxNkMTNU1esTE2q9HpE_36.976679_-79.882557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902110,
-    "wof:geomhash":"2294b3e7ecc7856683971102f592c52c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7fab88bd2c429e0acac2cf50ae99155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729715,
+            "region_id":85688747,
+            "venue_id":723459233
+        }
+    ],
     "wof:id":723459233,
-    "wof:lastmodified":1472652278,
+    "wof:lastmodified":1492061025,
     "wof:name":"R Halsey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

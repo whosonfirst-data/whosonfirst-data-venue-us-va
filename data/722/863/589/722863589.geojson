@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526489,38.283729,-77.526489,38.283729",
     "geom:latitude":38.283729,
     "geom:longitude":-77.526489,
@@ -33,17 +34,30 @@
         "ground"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IXXPTGO23pYI6UcwxtrI9_38.283729_-77.526489@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890081,
-    "wof:geomhash":"7445db242b50d5021753857eae360caf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"167fdab9061fc10a83748e768867ca67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722863589
+        }
+    ],
     "wof:id":722863589,
-    "wof:lastmodified":1472652003,
+    "wof:lastmodified":1492071791,
     "wof:name":"Burton Electrical Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

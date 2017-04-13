@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.34057,38.476861,-77.34057,38.476861",
     "geom:latitude":38.476861,
     "geom:longitude":-77.34057,
@@ -37,17 +38,26 @@
         "churches-episcopal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rwjnshmJiyo60ntAlSUH7_38.476861_-77.340570@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912439,
-    "wof:geomhash":"9f0ed334925307cc9699e73a4982a781",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25f07735a96aea35a1afa2f0fba255f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739695003
+        }
+    ],
     "wof:id":739695003,
-    "wof:lastmodified":1472652154,
+    "wof:lastmodified":1492045367,
     "wof:name":"Clifton Chapel",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457823,38.849089,-77.457823,38.849089",
     "geom:latitude":38.849089,
     "geom:longitude":-77.457823,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38i33YsW7nnFgJmc5TdFqn_38.849089_-77.457823@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887945,
-    "wof:geomhash":"378db7489361db4accc7e8ef4806f52d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14ea738bfce041e44b05540f2fbff347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":722750437
+        }
+    ],
     "wof:id":722750437,
-    "wof:lastmodified":1472651696,
+    "wof:lastmodified":1492064225,
     "wof:name":"R T Information",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

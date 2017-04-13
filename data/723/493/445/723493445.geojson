@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.870256,38.450057,-78.870256,38.450057",
     "geom:latitude":38.450057,
     "geom:longitude":-78.870256,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.courtsquaretheater.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65YEPuMD3rR6CfmLhInBRT_38.450057_-78.870256@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902811,
-    "wof:geomhash":"14241f80b55b51121bbb202d5f4e34a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4c5d088a17ab6a9b8a8ac0c240da87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723493445
+        }
+    ],
     "wof:id":723493445,
-    "wof:lastmodified":1472652344,
+    "wof:lastmodified":1492048103,
     "wof:name":"Court Square Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

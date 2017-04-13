@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.878286,36.673593,-79.878286,36.673593",
     "geom:latitude":36.673593,
     "geom:longitude":-79.878286,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cVQ4ENJdstXe71P6EFLvs_36.673593_-79.878286@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897157,
-    "wof:geomhash":"0a2d92994f88572d35191c6057aaff3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d1799c3717615f6cd1de826aad365c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":723204257
+        }
+    ],
     "wof:id":723204257,
-    "wof:lastmodified":1472651603,
+    "wof:lastmodified":1492050714,
     "wof:name":"Broadview Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

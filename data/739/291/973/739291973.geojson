@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.094926,36.80241,-82.094926,36.80241",
     "geom:latitude":36.80241,
     "geom:longitude":-82.094926,
@@ -31,17 +32,26 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i22Azel8DwiUb14bK5D0U_36.802410_-82.094926@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904405,
-    "wof:geomhash":"edeefeb9b2044b12eb1f498821b9874a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e650a6530c59eca1e8425d19239db074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739291973
+        }
+    ],
     "wof:id":739291973,
-    "wof:lastmodified":1472651204,
+    "wof:lastmodified":1492039904,
     "wof:name":"Scottys Gold",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

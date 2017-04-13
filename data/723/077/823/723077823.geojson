@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.091959,37.287981,-80.091959,37.287981",
     "geom:latitude":37.287981,
     "geom:longitude":-80.091959,
@@ -32,17 +33,32 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D1kS5MWSJhRfiRYXKd2Yv_37.287981_-80.091959@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894640,
-    "wof:geomhash":"3e649aa86b895cf224b9529600d95354",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a350f46f38deac7ab9f05bd29ad836d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723077823
+        }
+    ],
     "wof:id":723077823,
-    "wof:lastmodified":1472651291,
+    "wof:lastmodified":1492057035,
     "wof:name":"General Mobile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

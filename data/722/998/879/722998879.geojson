@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.835984,38.006605,-78.835984,38.006605",
     "geom:latitude":38.006605,
     "geom:longitude":-78.835984,
@@ -32,17 +33,30 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rRQlfDP96klicG5le0Vso_38.006605_-78.835984@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892883,
-    "wof:geomhash":"18dce05feb55a8e49a036251b3011158",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1695dece37d5bd249476b2258b2f8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":722998879
+        }
+    ],
     "wof:id":722998879,
-    "wof:lastmodified":1472652352,
+    "wof:lastmodified":1492074963,
     "wof:name":"Nelson Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

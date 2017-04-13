@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.649472,37.432629,-77.649472,37.432629",
     "geom:latitude":37.432629,
     "geom:longitude":-77.649472,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BDcklcFgTfeJrMvJUqwO7_37.432629_-77.649472@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895349,
-    "wof:geomhash":"e70d42aa3b3fcd9626b3fc5582967858",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f196c62ab5b0c6692e46b525cbdb01b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":723111485
+        }
+    ],
     "wof:id":723111485,
-    "wof:lastmodified":1472651356,
+    "wof:lastmodified":1492060729,
     "wof:name":"Fedex Trade Networks Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

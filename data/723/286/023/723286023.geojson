@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.435276,37.54284,-76.435276,37.54284",
     "geom:latitude":37.54284,
     "geom:longitude":-76.435276,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2loc5sCBUwQ84paEriB2BU_37.542840_-76.435276@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898793,
-    "wof:geomhash":"5cd0edc2b2f041cadb8962d7280e04ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d687d4a88b55c047175a433107a70b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":723286023
+        }
+    ],
     "wof:id":723286023,
-    "wof:lastmodified":1472651718,
+    "wof:lastmodified":1492048219,
     "wof:name":"City Of Refuge Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

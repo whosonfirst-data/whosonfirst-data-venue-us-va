@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.883942,38.424433,-78.883942,38.424433",
     "geom:latitude":38.424433,
     "geom:longitude":-78.883942,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nXNZmZRliXDkOs4hO3E0m_38.424433_-78.883942@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897984,
-    "wof:geomhash":"16d3147daac06388495267f6b1d2f889",
-    "wof:hierarchy":[],
+    "wof:geomhash":"837e780d8221b81ce9341a616eb0e3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723243889
+        }
+    ],
     "wof:id":723243889,
-    "wof:lastmodified":1472651703,
+    "wof:lastmodified":1492052432,
     "wof:name":"Pheasant Run Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

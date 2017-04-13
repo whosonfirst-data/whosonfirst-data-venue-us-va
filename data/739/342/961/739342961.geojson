@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.340019,38.340025,-77.340019,38.340025",
     "geom:latitude":38.340025,
     "geom:longitude":-77.340019,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44D4Y15QpOE30nNcxPtooS_38.340025_-77.340019@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905443,
-    "wof:geomhash":"2c11a18074d3f5daf199039a72a2ab54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63066bb8271ebaeef5e4c8d6e4001568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":739342961
+        }
+    ],
     "wof:id":739342961,
-    "wof:lastmodified":1472651312,
+    "wof:lastmodified":1492046925,
     "wof:name":"Marvin Newton",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

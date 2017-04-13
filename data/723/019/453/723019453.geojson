@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.354725,39.046198,-77.354725,39.046198",
     "geom:latitude":39.046198,
     "geom:longitude":-77.354725,
@@ -31,17 +32,32 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rRhflA6TC1OOhoPB1872E_39.046198_-77.354725@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893365,
-    "wof:geomhash":"45c5aaef9304366d6aa340665022820e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be3ff28e52f7ac419d0a849786d2673f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":723019453
+        }
+    ],
     "wof:id":723019453,
-    "wof:lastmodified":1472651113,
+    "wof:lastmodified":1492049974,
     "wof:name":"Drc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

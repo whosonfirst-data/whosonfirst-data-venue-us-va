@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.284576,36.550892,-82.284576,36.550892",
     "geom:latitude":36.550892,
     "geom:longitude":-82.284576,
@@ -33,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101722903,
         102086471,
-        85858265
+        85858265,
+        85825325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +47,31 @@
     },
     "wof:country":"US",
     "wof:created":1461899424,
-    "wof:geomhash":"257f81d938b9ba9d0216174d6c0f9412",
+    "wof:geomhash":"3a3649b520e5688d0a33796dd39dea6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086471,
             "locality_id":101722903,
             "neighbourhood_id":85858265,
             "region_id":85688701,
             "venue_id":723318501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":723318501
         }
     ],
     "wof:id":723318501,
-    "wof:lastmodified":1472651794,
+    "wof:lastmodified":1492060174,
     "wof:name":"Bethel View Baptist Church",
-    "wof:parent_id":85858265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

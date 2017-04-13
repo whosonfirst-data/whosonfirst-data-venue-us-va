@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.254468,37.140246,-77.254468,37.140246",
     "geom:latitude":37.140246,
     "geom:longitude":-77.254468,
@@ -32,17 +33,30 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z4bIB254NOYABlnFbIasg_37.140246_-77.254468@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893288,
-    "wof:geomhash":"35342535761bd7ba277d5dd4a9effdb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"719954bc68d024f50e777d367d5a5c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":723016505
+        }
+    ],
     "wof:id":723016505,
-    "wof:lastmodified":1472651106,
+    "wof:lastmodified":1492050462,
     "wof:name":"Prince George Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

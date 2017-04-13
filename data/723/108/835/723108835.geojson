@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.803709,37.379561,-76.803709,37.379561",
     "geom:latitude":37.379561,
     "geom:longitude":-76.803709,
@@ -31,17 +32,26 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13NIgprU85zOO79k5r368p_37.379561_-76.803709@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895291,
-    "wof:geomhash":"5b12f871c8eba1cfafa5d4d2f613292b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"febedbd74f8281b33bba28aa2c56bd49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":723108835
+        }
+    ],
     "wof:id":723108835,
-    "wof:lastmodified":1472651364,
+    "wof:lastmodified":1492052040,
     "wof:name":"Mc Leans Grocery",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

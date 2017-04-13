@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.525047,37.108896,-76.525047,37.108896",
     "geom:latitude":37.108896,
     "geom:longitude":-76.525047,
@@ -28,19 +29,36 @@
     "sg:postcode":"23602",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        85879189
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5skToyQHlnslOfYbtrALQg_37.108896_-76.525047@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905093,
-    "wof:geomhash":"671da2b2ee968a6ac45b49e864912c37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a3898fba8043058344a7dd62642d428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879189,
+            "region_id":85688747,
+            "venue_id":739325679
+        }
+    ],
     "wof:id":739325679,
-    "wof:lastmodified":1472651281,
+    "wof:lastmodified":1492039628,
     "wof:name":"Just Like Mommas Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

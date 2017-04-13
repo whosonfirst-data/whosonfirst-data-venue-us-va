@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.514369,38.063612,-78.514369,38.063612",
     "geom:latitude":38.063612,
     "geom:longitude":-78.514369,
@@ -32,17 +33,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dWoNpANBFyFXTpMiHdOEj_38.063612_-78.514369@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902560,
-    "wof:geomhash":"1141f49eeecf4d762ee3c2068de32fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f66cfd0b323221b734a9154a28010f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":723481145
+        }
+    ],
     "wof:id":723481145,
-    "wof:lastmodified":1472652326,
+    "wof:lastmodified":1492052719,
     "wof:name":"Aimco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.352632,37.520047,-77.352632,37.520047",
     "geom:latitude":37.520047,
     "geom:longitude":-77.352632,
@@ -32,7 +33,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729373,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hTs53V0tw2qdnCmL9Lbke_37.520047_-77.352632@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904378,
     "wof:geomhash":"c4541ad450e43a8b77465a1c7da4da7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729373,
+            "region_id":85688747,
+            "venue_id":739290415
+        }
+    ],
     "wof:id":739290415,
-    "wof:lastmodified":1472651186,
+    "wof:lastmodified":1492032802,
     "wof:name":"Sally Beauty Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

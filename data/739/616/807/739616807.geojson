@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.536729,39.148091,-77.536729,39.148091",
     "geom:latitude":39.148091,
     "geom:longitude":-77.536729,
@@ -32,7 +33,12 @@
         "plastics-foam"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29jjKfOYK3MmdtMqEbaNsb_39.148091_-77.536729@1303262497"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910755,
     "wof:geomhash":"50f36c867dd3a52cdca6e04438f3ade3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739616807
+        }
+    ],
     "wof:id":739616807,
-    "wof:lastmodified":1472652015,
+    "wof:lastmodified":1492029658,
     "wof:name":"Lifoam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

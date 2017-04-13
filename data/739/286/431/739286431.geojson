@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.764318,37.831164,-77.764318,37.831164",
     "geom:latitude":37.831164,
     "geom:longitude":-77.764318,
@@ -31,7 +32,12 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C0b0QyqfUmxHadShQdQYo_37.831164_-77.764318@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904285,
     "wof:geomhash":"222f05a2c1fc101c7d188649cdb4859e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739286431
+        }
+    ],
     "wof:id":739286431,
-    "wof:lastmodified":1472651161,
+    "wof:lastmodified":1492030095,
     "wof:name":"First Moments Drafting Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

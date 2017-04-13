@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.505708,38.801671,-77.505708,38.801671",
     "geom:latitude":38.801671,
     "geom:longitude":-77.505708,
@@ -32,7 +33,12 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PAs3ot3dxL3W4Ov5HEKqe_38.801671_-77.505708@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909235,
     "wof:geomhash":"9292962508630318922ef4af4cc8fae0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739543757
+        }
+    ],
     "wof:id":739543757,
-    "wof:lastmodified":1472651830,
+    "wof:lastmodified":1492032321,
     "wof:name":"Choice Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

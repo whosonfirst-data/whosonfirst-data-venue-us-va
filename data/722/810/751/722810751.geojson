@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.096306,36.95913,-81.096306,36.95913",
     "geom:latitude":36.95913,
     "geom:longitude":-81.096306,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461889080,
-    "wof:geomhash":"2149130cfa7393e733b917b88c82e583",
+    "wof:geomhash":"aa26dd155fe7a1481aa9cf8ebf6553d8",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":722810751
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,12 +54,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":722810751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":722810751
         }
     ],
     "wof:id":722810751,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492074986,
     "wof:name":"Builders Super Market Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

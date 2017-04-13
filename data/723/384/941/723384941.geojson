@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.287216,37.302004,-77.287216,37.302004",
     "geom:latitude":37.302004,
     "geom:longitude":-77.287216,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728945,
+        102087267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jWGZxhoFyP39xOsvu7Axs_37.302004_-77.287216@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900678,
-    "wof:geomhash":"2414a2d0cc8f53207face2b00b8accf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f68b878c3f104021c7d8427c7214673b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087267,
+            "locality_id":101728945,
+            "region_id":85688747,
+            "venue_id":723384941
+        }
+    ],
     "wof:id":723384941,
-    "wof:lastmodified":1472652126,
+    "wof:lastmodified":1492058866,
     "wof:name":"Colonial Orthopaedics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

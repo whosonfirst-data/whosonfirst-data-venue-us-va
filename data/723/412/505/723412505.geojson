@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.810424,37.243074,-76.810424,37.243074",
     "geom:latitude":37.243074,
     "geom:longitude":-76.810424,
@@ -29,8 +30,9 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420546817,
+        85688747,
         85819343,
         102085967
     ],
@@ -40,8 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1461901217,
-    "wof:geomhash":"e646cf8d229696b68df6e6a636468a8a",
+    "wof:geomhash":"f234b384d36183a2762ac7320271c9a1",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546817,
+            "venue_id":723412505
+        },
         {
             "country_id":85633793,
             "county_id":102085967,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":723412505,
-    "wof:lastmodified":1472652197,
+    "wof:lastmodified":1492055745,
     "wof:name":"Williamsburg Weaves",
-    "wof:parent_id":85819343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

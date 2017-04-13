@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.260087,38.831376,-77.260087,38.831376",
     "geom:latitude":38.831376,
     "geom:longitude":-77.260087,
@@ -32,17 +33,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729829,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bE7m8CsGRCzUMA5JvHHFJ_38.831376_-77.260087@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886615,
-    "wof:geomhash":"dfb3d707ae6d98e14350bb07e39a0613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53e73e30889768a0a21862367b3903f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729829,
+            "region_id":85688747,
+            "venue_id":722681741
+        }
+    ],
     "wof:id":722681741,
-    "wof:lastmodified":1472651536,
+    "wof:lastmodified":1492073507,
     "wof:name":"Breaux Trust 12 05 97",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

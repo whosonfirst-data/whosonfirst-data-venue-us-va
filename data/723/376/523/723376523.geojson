@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.355497,37.081784,-77.355497,37.081784",
     "geom:latitude":37.081784,
     "geom:longitude":-77.355497,
@@ -34,17 +35,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729477,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HdqqfsYV2lhoZn8hGgaxs_37.081784_-77.355497@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900507,
-    "wof:geomhash":"d61d51830978cdbef239acef43a94788",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88b63ad3e1847cfec47e9caa3ff30e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "locality_id":101729477,
+            "region_id":85688747,
+            "venue_id":723376523
+        }
+    ],
     "wof:id":723376523,
-    "wof:lastmodified":1472652103,
+    "wof:lastmodified":1492060250,
     "wof:name":"Crockett Gulf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

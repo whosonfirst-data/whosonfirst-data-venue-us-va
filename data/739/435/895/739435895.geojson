@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130752,36.724499,-78.130752,36.724499",
     "geom:latitude":36.724499,
     "geom:longitude":-78.130752,
@@ -28,7 +29,13 @@
     "sg:postcode":"23970",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QaSZDGH03tI0AwrNfA9Vi_36.724499_-78.130752@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907277,
     "wof:geomhash":"1d3bba1cbe01515819d63c8287eae4eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739435895
+        }
+    ],
     "wof:id":739435895,
-    "wof:lastmodified":1472651544,
+    "wof:lastmodified":1492029380,
     "wof:name":"Watkins Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

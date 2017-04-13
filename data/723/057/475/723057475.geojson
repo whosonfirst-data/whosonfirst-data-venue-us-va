@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.01921,36.69343,-82.01921,36.69343",
     "geom:latitude":36.69343,
     "geom:longitude":-82.01921,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EiK75RilFjfhd2Qni4V4K_36.693430_-82.019210@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894168,
-    "wof:geomhash":"4810a908e33d9bfb7279103c4f29a015",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5183fc191bf131710aa8947436fb1384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723057475
+        }
+    ],
     "wof:id":723057475,
-    "wof:lastmodified":1472651210,
+    "wof:lastmodified":1492061538,
     "wof:name":"Ben's Backhoe",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

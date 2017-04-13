@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.798421,38.006518,-77.798421,38.006518",
     "geom:latitude":38.006518,
     "geom:longitude":-77.798421,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42Y9dAqqDa0FaOavj1IHYq_38.006518_-77.798421@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906476,
     "wof:geomhash":"ca20da373a0262d3e70491bbb0386f07",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739394537
+        }
+    ],
     "wof:id":739394537,
-    "wof:lastmodified":1472651458,
+    "wof:lastmodified":1492033000,
     "wof:name":"Dickies Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

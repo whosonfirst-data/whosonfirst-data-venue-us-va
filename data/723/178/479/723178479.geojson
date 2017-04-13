@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.365564,38.494239,-77.365564,38.494239",
     "geom:latitude":38.494239,
     "geom:longitude":-77.365564,
@@ -32,17 +33,26 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GxO1KQNsk0rHjRMn2eeKb_38.494239_-77.365564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896655,
-    "wof:geomhash":"6c0c95af6d89ccadfd581f06f1de9aac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"657730b7b61536b75a40770178abc19e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":723178479
+        }
+    ],
     "wof:id":723178479,
-    "wof:lastmodified":1472651488,
+    "wof:lastmodified":1492050941,
     "wof:name":"Appalachia Studio",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

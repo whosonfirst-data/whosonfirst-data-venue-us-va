@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510945,38.377106,-77.510945,38.377106",
     "geom:latitude":38.377106,
     "geom:longitude":-77.510945,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e772eccO4oaAvIGKk6E8v_38.377106_-77.510945@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893726,
-    "wof:geomhash":"f7a55808d3bec72dae1eaaaf21978333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"283e087da41e60cb7bd858362f39debf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":723036137
+        }
+    ],
     "wof:id":723036137,
-    "wof:lastmodified":1472651146,
+    "wof:lastmodified":1492059952,
     "wof:name":"Gd Worthington LTD",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

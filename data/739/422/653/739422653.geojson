@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75997,37.238776,-76.75997,37.238776",
     "geom:latitude":37.238776,
     "geom:longitude":-76.75997,
@@ -28,7 +29,11 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801,
+        420546821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XN25NuDWyLdXyfII3hG4O_37.238776_-76.759970@1294252573"
@@ -36,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461907020,
     "wof:geomhash":"06cb37ce6d2e05bb2f701a5e510e3182",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":739422653
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546821,
+            "venue_id":739422653
+        }
+    ],
     "wof:id":739422653,
-    "wof:lastmodified":1472651519,
+    "wof:lastmodified":1492031217,
     "wof:name":"McKibben Marketing Company",
-    "wof:parent_id":420546801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

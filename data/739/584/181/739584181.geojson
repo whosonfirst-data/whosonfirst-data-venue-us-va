@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.840902,38.427586,-78.840902,38.427586",
     "geom:latitude":38.427586,
     "geom:longitude":-78.840902,
@@ -33,17 +34,32 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l8wTyJJSEGZDCNypqxpBe_38.427586_-78.840902@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910092,
-    "wof:geomhash":"981e27a8e5ea375247e783e0cd22b7c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1fe8ee7a121928adea6ac81d382d82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739584181
+        }
+    ],
     "wof:id":739584181,
-    "wof:lastmodified":1472651923,
+    "wof:lastmodified":1492040565,
     "wof:name":"Golden Corral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

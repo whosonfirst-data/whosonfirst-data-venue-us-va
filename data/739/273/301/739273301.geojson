@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.504641,37.261754,-76.504641,37.261754",
     "geom:latitude":37.261754,
     "geom:longitude":-76.504641,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DPjeOaqA2MofYgl1zRiy2_37.261754_-76.504641@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903998,
-    "wof:geomhash":"d723af3d12b66db0dd393675e965549b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"784d9cf300802e6ff48c78cc3a02dff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739273301
+        }
+    ],
     "wof:id":739273301,
-    "wof:lastmodified":1472651138,
+    "wof:lastmodified":1492038471,
     "wof:name":"Smart Tag",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

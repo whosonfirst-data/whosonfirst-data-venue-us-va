@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.741423,37.278435,-76.741423,37.278435",
     "geom:latitude":37.278435,
     "geom:longitude":-76.741423,
@@ -32,7 +33,12 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_327aW0GgGL9N5ey5GhZsb2_37.278435_-76.741423@1299784598"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"2ca7092ba61d3a7a239d5d2837373ef0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739586555
+        }
+    ],
     "wof:id":739586555,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492031891,
     "wof:name":"Maggie's Ice Cream and Treatery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

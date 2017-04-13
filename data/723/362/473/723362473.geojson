@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442165,37.456487,-77.442165,37.456487",
     "geom:latitude":37.456487,
     "geom:longitude":-77.442165,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YtGkTQSME22Q0F3GWT0yO_37.456487_-77.442165@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900227,
-    "wof:geomhash":"0965d7e176875b70b5f6724197be7a7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc4e8d52f3d9fa019bd244876cad0fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":723362473
+        }
+    ],
     "wof:id":723362473,
-    "wof:lastmodified":1472652062,
+    "wof:lastmodified":1492062133,
     "wof:name":"Drive Time Car Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.116407,36.908798,-76.116407,36.908798",
     "geom:latitude":36.908798,
     "geom:longitude":-76.116407,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85810697,
         85804889
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461890598,
-    "wof:geomhash":"76a1b540438eba16e7c392ddc8dfea9b",
+    "wof:geomhash":"3b33a8ba2ab310a8fb09ec4a5f70bf26",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85810697,
+            "region_id":85688747,
+            "venue_id":722890925
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722890925,
-    "wof:lastmodified":1472652080,
+    "wof:lastmodified":1492067841,
     "wof:name":"Marion-Beasley Inc",
-    "wof:parent_id":85804889,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

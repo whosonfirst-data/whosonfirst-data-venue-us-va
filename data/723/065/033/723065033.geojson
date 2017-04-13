@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.586106,37.546696,-77.586106,37.546696",
     "geom:latitude":37.546696,
     "geom:longitude":-77.586106,
@@ -31,19 +32,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955,
+        420546625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jzAz9mh9nCxyCybEYNhod_37.546696_-77.586106@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894324,
-    "wof:geomhash":"7cc38b38a4ee51799c0464c5a427552f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b57febf1379d5861f0d5813df4f4e3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "neighbourhood_id":420546625,
+            "region_id":85688747,
+            "venue_id":723065033
+        }
+    ],
     "wof:id":723065033,
-    "wof:lastmodified":1472651198,
+    "wof:lastmodified":1492051389,
     "wof:name":"Artis Custom Drap Installation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

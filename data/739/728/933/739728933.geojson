@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.637901,36.983002,-76.637901,36.983002",
     "geom:latitude":36.983002,
     "geom:longitude":-76.637901,
@@ -42,17 +43,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XolG3wTwPpsQMUeLX3AH3_36.983002_-76.637901@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913170,
-    "wof:geomhash":"557ad948334c7e415d8d66079501cb56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b1e5293797f68b9b840b2a645981021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739728933
+        }
+    ],
     "wof:id":739728933,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492038684,
     "wof:name":"The Children's Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

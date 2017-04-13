@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526438,38.7319,-77.526438,38.7319",
     "geom:latitude":38.7319,
     "geom:longitude":-77.526438,
@@ -49,7 +50,12 @@
     ],
     "sg:website":"http://www.earlsautobody.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NjC1OUHlrXhXm4k5fN300_38.731900_-77.526438@1303262495"
@@ -57,9 +63,17 @@
     "wof:country":"US",
     "wof:created":1461910504,
     "wof:geomhash":"96a32e8fc2cb6a1a1aeb1756fac58e2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739604635
+        }
+    ],
     "wof:id":739604635,
-    "wof:lastmodified":1472651962,
+    "wof:lastmodified":1492032489,
     "wof:name":"Earls Autobody Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

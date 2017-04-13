@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.535264,37.348152,-79.535264,37.348152",
     "geom:latitude":37.348152,
     "geom:longitude":-79.535264,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f8AEvKdLYrMbV4IMq620O_37.348152_-79.535264@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900255,
-    "wof:geomhash":"ab8b45cae085643a0550dd8f9fad63e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b80c6cf3cf5c83253316d2112cda7d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":723363537
+        }
+    ],
     "wof:id":723363537,
-    "wof:lastmodified":1472652044,
+    "wof:lastmodified":1492052403,
     "wof:name":"Elks National Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42246,37.401352,-77.42246,37.401352",
     "geom:latitude":37.401352,
     "geom:longitude":-77.42246,
@@ -31,17 +32,32 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SLkLS2DGiJM0y65edSgFo_37.401352_-77.422460@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900305,
-    "wof:geomhash":"10b3e630ebc1233bee422c8531ad1af8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"600e38c5b49f4c19f2dfd950a6414d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":723366085
+        }
+    ],
     "wof:id":723366085,
-    "wof:lastmodified":1472652057,
+    "wof:lastmodified":1492055685,
     "wof:name":"Preferred Sources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

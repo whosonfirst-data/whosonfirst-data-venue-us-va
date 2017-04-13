@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458305,37.444788,-77.458305,37.444788",
     "geom:latitude":37.444788,
     "geom:longitude":-77.458305,
@@ -32,17 +33,32 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729317,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cvJL5kvomSGtZifjIS6HE_37.444788_-77.458305@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907167,
-    "wof:geomhash":"ac0d2cd83b3ca5c0b0af7dd2e33d6e8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"851ade15d7d0ad3e56aad617fe6f1dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729317,
+            "region_id":85688747,
+            "venue_id":739430449
+        }
+    ],
     "wof:id":739430449,
-    "wof:lastmodified":1472651521,
+    "wof:lastmodified":1492041543,
     "wof:name":"First Choice Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

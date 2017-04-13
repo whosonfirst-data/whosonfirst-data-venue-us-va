@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.602899,38.803467,-77.602899,38.803467",
     "geom:latitude":38.803467,
     "geom:longitude":-77.602899,
@@ -28,7 +29,12 @@
     "sg:postcode":"20155",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aiZ4RcxZUwS2NCjhLBN2m_38.803467_-77.602899@1303262496"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461910621,
     "wof:geomhash":"cb2ab4f252d739b597d49b035f2eaf1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739611073
+        }
+    ],
     "wof:id":739611073,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492029469,
     "wof:name":"Gainesville Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

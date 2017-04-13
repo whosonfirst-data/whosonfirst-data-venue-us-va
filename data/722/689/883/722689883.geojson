@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529523,37.6307,-77.529523,37.6307",
     "geom:latitude":37.6307,
     "geom:longitude":-77.529523,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.henricopolice.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cljAY61vpHhtJGpBfziCu_37.630700_-77.529523@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886780,
-    "wof:geomhash":"6a72d65a5af31a83039f4060b24ecf79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c5a893305b0c8361ad67bbabb1e808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":722689883
+        }
+    ],
     "wof:id":722689883,
-    "wof:lastmodified":1472651547,
+    "wof:lastmodified":1492065129,
     "wof:name":"Henrico County Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

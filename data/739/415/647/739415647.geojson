@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.440619,38.037699,-78.440619,38.037699",
     "geom:latitude":38.037699,
     "geom:longitude":-78.440619,
@@ -32,17 +33,32 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729625,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r3zAfQDZjvgZLvu2Ny048_38.037699_-78.440619@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906867,
-    "wof:geomhash":"2c9c91b2f986e3fb70b5f7fa480ad188",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e6abe6ee0d588d93e17d28eff5259f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729625,
+            "region_id":85688747,
+            "venue_id":739415647
+        }
+    ],
     "wof:id":739415647,
-    "wof:lastmodified":1472651495,
+    "wof:lastmodified":1492041787,
     "wof:name":"Air Weather Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

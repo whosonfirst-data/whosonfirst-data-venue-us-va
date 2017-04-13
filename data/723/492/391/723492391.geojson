@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.529716,38.399616,-77.529716,38.399616",
     "geom:latitude":38.399616,
     "geom:longitude":-77.529716,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TOfiw20upcxDvdt4FmqiS_38.399616_-77.529716@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902793,
-    "wof:geomhash":"5a7a466a02b8ea08578e8767da67c55d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"269a04f5924c69f730800298c24d2a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":723492391
+        }
+    ],
     "wof:id":723492391,
-    "wof:lastmodified":1472652343,
+    "wof:lastmodified":1492060961,
     "wof:name":"Mt & T Co",
     "wof:parent_id":420547277,
     "wof:placetype":"venue",

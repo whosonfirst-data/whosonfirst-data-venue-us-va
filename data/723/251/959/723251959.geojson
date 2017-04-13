@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.537172,38.367855,-77.537172,38.367855",
     "geom:latitude":38.367855,
     "geom:longitude":-77.537172,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547237,
+        85688747,
         85894007,
         102081931
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1461898158,
-    "wof:geomhash":"4a7c81e51e0de0d4aa526515a028f299",
+    "wof:geomhash":"fa499e2f9fa23b86c29c6c9da50f87d8",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547237,
+            "venue_id":723251959
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":723251959,
-    "wof:lastmodified":1472651707,
+    "wof:lastmodified":1492047904,
     "wof:name":"Military Base Network",
-    "wof:parent_id":85894007,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

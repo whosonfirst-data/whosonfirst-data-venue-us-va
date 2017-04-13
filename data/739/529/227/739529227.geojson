@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.016824,36.723034,-82.016824,36.723034",
     "geom:latitude":36.723034,
     "geom:longitude":-82.016824,
@@ -31,7 +32,10 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_629voDlbflpmc3pGs1RpOn_36.723034_-82.016824@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908965,
     "wof:geomhash":"9533f06eeed9fbae5d7969d3a43d9436",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739529227
+        }
+    ],
     "wof:id":739529227,
-    "wof:lastmodified":1472651756,
+    "wof:lastmodified":1492030807,
     "wof:name":"North Gate Chevron Food Mart",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

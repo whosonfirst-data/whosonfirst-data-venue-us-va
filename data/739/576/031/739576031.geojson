@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.577057,38.336937,-77.577057,38.336937",
     "geom:latitude":38.336937,
     "geom:longitude":-77.577057,
@@ -31,19 +32,28 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7glIv9yHAcuU2PrDPRYF68_38.337526_-77.577682@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909913,
-    "wof:geomhash":"0118bf6947ce11d115e9e19e90151532",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8083b9aac4adc9c2d7c9058364e53d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739576031
+        }
+    ],
     "wof:id":739576031,
-    "wof:lastmodified":1472651918,
+    "wof:lastmodified":1492043019,
     "wof:name":"Samuel D Pierson Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

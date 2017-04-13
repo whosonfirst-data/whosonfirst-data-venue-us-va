@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.042082,36.613485,-82.042082,36.613485",
     "geom:latitude":36.613485,
     "geom:longitude":-82.042082,
@@ -31,17 +32,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47pwehVhj1vAngOiMWk4MH_36.613485_-82.042082@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902588,
-    "wof:geomhash":"7a00014021f7c5a4f7bc1f91f1492a6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebe5a9c378277075680e44bb5bcd2c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723482611
+        }
+    ],
     "wof:id":723482611,
-    "wof:lastmodified":1472652340,
+    "wof:lastmodified":1492059858,
     "wof:name":"B8s Logging Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.402875,38.286432,-77.402875,38.286432",
     "geom:latitude":38.286432,
     "geom:longitude":-77.402875,
@@ -28,19 +29,34 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kNOFFJEXxMFVOGHOy15e7_38.286432_-77.402875@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887446,
-    "wof:geomhash":"feb521e55777942c2012b6c9a53f9100",
-    "wof:hierarchy":[],
+    "wof:geomhash":"228c28602ca9823e6d2fcbaac2290ed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":722725653
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":722725653
+        }
+    ],
     "wof:id":722725653,
-    "wof:lastmodified":1472651634,
+    "wof:lastmodified":1492068938,
     "wof:name":"T L Thompson Corp",
-    "wof:parent_id":420547177,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

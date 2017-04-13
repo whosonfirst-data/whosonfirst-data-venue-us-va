@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48266,37.618332,-77.48266,37.618332",
     "geom:latitude":37.618332,
     "geom:longitude":-77.48266,
@@ -28,7 +29,13 @@
     "sg:postcode":"23228",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729369,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ud2WhYTUI0eXNTogl6l7I_37.618332_-77.482660@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904642,
     "wof:geomhash":"8b8f71d35f1157f63dc1bc6f18db1f37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729369,
+            "region_id":85688747,
+            "venue_id":739303437
+        }
+    ],
     "wof:id":739303437,
-    "wof:lastmodified":1472651202,
+    "wof:lastmodified":1492029765,
     "wof:name":"Robert L Carlton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

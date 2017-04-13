@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.141316,38.855349,-77.141316,38.855349",
     "geom:latitude":38.855349,
     "geom:longitude":-77.141316,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZIOKMoCcJPs3AvStOo3r9_38.855349_-77.141316@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904456,
-    "wof:geomhash":"43a0a8508721fb51d66d8e3eca540f01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e1446a2a90ec46c76e06c1532cb33e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739294541
+        }
+    ],
     "wof:id":739294541,
-    "wof:lastmodified":1472651198,
+    "wof:lastmodified":1492046480,
     "wof:name":"Olde Salem Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

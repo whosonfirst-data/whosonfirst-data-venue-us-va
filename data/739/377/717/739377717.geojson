@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.265355,36.814301,-76.265355,36.814301",
     "geom:latitude":36.814301,
     "geom:longitude":-76.265355,
@@ -35,7 +36,13 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U2hhVPMxpYw6PVAv1syfG_36.814301_-76.265355@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461906146,
     "wof:geomhash":"466a5f1756f7bac0725d82fa9f24cff7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739377717
+        }
+    ],
     "wof:id":739377717,
-    "wof:lastmodified":1472651360,
+    "wof:lastmodified":1492031179,
     "wof:name":"A-Portsmouth City Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

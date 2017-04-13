@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443119,38.380737,-77.443119,38.380737",
     "geom:latitude":38.380737,
     "geom:longitude":-77.443119,
@@ -31,17 +32,26 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l0bj1brz4vJNA106xiY8D_38.380737_-77.443119@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892353,
-    "wof:geomhash":"837f531ac36afa033a73fe8fa1eca13d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c964d8fa3fcb623d2dd09a54578bef6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":722974951
+        }
+    ],
     "wof:id":722974951,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492063727,
     "wof:name":"Sweet & Savory Bakery",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

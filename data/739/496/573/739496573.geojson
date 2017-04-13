@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.929683,37.270714,-79.929683,37.270714",
     "geom:latitude":37.270714,
     "geom:longitude":-79.929683,
@@ -31,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71TzCgoI3HETDpI6s6XJHK_37.270714_-79.929683@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908369,
     "wof:geomhash":"03920930e1a07bc50d32876f0ed03983",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739496573
+        }
+    ],
     "wof:id":739496573,
-    "wof:lastmodified":1472651703,
+    "wof:lastmodified":1492033041,
     "wof:name":"Cross Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

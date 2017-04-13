@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.498742,39.111901,-77.498742,39.111901",
     "geom:latitude":39.111901,
     "geom:longitude":-77.498742,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HymNKZjvuKIzUGWH7tl4s_39.111901_-77.498742@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904009,
-    "wof:geomhash":"d92629afd031bb405bfee8d7f6b44271",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f0a477825b6f93005ae324124f3c649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739273915
+        }
+    ],
     "wof:id":739273915,
-    "wof:lastmodified":1472651165,
+    "wof:lastmodified":1492038467,
     "wof:name":"Mitchell & Best Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

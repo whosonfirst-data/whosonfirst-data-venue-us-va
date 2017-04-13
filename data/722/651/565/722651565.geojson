@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.502854,38.190578,-77.502854,38.190578",
     "geom:latitude":38.190578,
     "geom:longitude":-77.502854,
@@ -33,17 +34,30 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PPZwsuknGDJKGGUIjN32F_38.190578_-77.502854@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886045,
-    "wof:geomhash":"c5c70af5aa0127bb11f6aac4a1997026",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c15c8d715310e6ed42a2ec09ca572154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722651565
+        }
+    ],
     "wof:id":722651565,
-    "wof:lastmodified":1472651469,
+    "wof:lastmodified":1492065039,
     "wof:name":"Mar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

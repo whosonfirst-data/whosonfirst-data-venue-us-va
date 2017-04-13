@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.008156,37.724677,-78.008156,37.724677",
     "geom:latitude":37.724677,
     "geom:longitude":-78.008156,
@@ -31,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TCxrtSm4kf2mnd0AZ2mep_37.724677_-78.008156@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906692,
     "wof:geomhash":"f2c69dadbf5ecf65803f65e73bc5a6c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739405649
+        }
+    ],
     "wof:id":739405649,
-    "wof:lastmodified":1472651465,
+    "wof:lastmodified":1492031554,
     "wof:name":"Antioch Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.567549,37.605839,-77.567549,37.605839",
     "geom:latitude":37.605839,
     "geom:longitude":-77.567549,
@@ -32,17 +33,32 @@
         "consumer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01uy0WlaA7FLhg5YqOgSQF_37.605839_-77.567549@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913006,
-    "wof:geomhash":"324188570b46c849948ab7cc848ca5b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3fd7ff03b46aca88b29cbd4c16cde19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739720553
+        }
+    ],
     "wof:id":739720553,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492040026,
     "wof:name":"Danrave Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

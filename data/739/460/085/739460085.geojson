@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.574874,38.696322,-77.574874,38.696322",
     "geom:latitude":38.696322,
     "geom:longitude":-77.574874,
@@ -28,7 +29,13 @@
     "sg:postcode":"20181",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dUKOU1eqTjzaSCPlWu7wy_38.696322_-77.574874@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907717,
     "wof:geomhash":"c14dc71d77d354552e45a50957b673cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":739460085
+        }
+    ],
     "wof:id":739460085,
-    "wof:lastmodified":1472651570,
+    "wof:lastmodified":1492031233,
     "wof:name":"Nokesville Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

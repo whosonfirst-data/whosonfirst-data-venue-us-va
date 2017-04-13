@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.913251,36.967512,-76.913251,36.967512",
     "geom:latitude":36.967512,
     "geom:longitude":-76.913251,
@@ -27,17 +28,26 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61RrGuaekfEXMF239O9Ylv_36.967512_-76.913251@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909844,
-    "wof:geomhash":"c65cca2c8b1240832bb701dc04d7b9ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9025f127a74251c337a5fd45c3d74b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739572395
+        }
+    ],
     "wof:id":739572395,
-    "wof:lastmodified":1472651893,
+    "wof:lastmodified":1492040122,
     "wof:name":"J Epps",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.472875,36.72425,-78.472875,36.72425",
     "geom:latitude":36.72425,
     "geom:longitude":-78.472875,
@@ -28,7 +29,12 @@
     "sg:postcode":"23968",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LWQ6JDLbwuO1yKxpCY4SJ_36.724250_-78.472875@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903979,
     "wof:geomhash":"4e3ffcdf5311275ac543b230985ac520",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739272587
+        }
+    ],
     "wof:id":739272587,
-    "wof:lastmodified":1472651165,
+    "wof:lastmodified":1492029373,
     "wof:name":"Rocky Mount Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

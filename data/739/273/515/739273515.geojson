@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.540159,37.498799,-77.540159,37.498799",
     "geom:latitude":37.498799,
     "geom:longitude":-77.540159,
@@ -28,17 +29,32 @@
     "sg:postcode":"23235",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2barTls5H6psHGDEcUyJ69_37.498799_-77.540159@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904002,
-    "wof:geomhash":"db7dea44ab246c524e230f70ba07d63c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83ae64f2bb4ad39acb1d53599bf533fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739273515
+        }
+    ],
     "wof:id":739273515,
-    "wof:lastmodified":1472651148,
+    "wof:lastmodified":1492038461,
     "wof:name":"First Market Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

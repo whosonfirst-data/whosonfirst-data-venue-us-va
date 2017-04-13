@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.212883,36.927979,-76.212883,36.927979",
     "geom:latitude":36.927979,
     "geom:longitude":-76.212883,
@@ -28,7 +29,13 @@
     "sg:postcode":"23518",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_597wYcPxZxIz938vNaCmhw_36.927979_-76.212883@1303262551"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913217,
     "wof:geomhash":"11dd00286dc77d278274c2364c5d78ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739731271
+        }
+    ],
     "wof:id":739731271,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492031029,
     "wof:name":"Grocery Cutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

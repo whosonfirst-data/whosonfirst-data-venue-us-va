@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.476965,38.230329,-77.476965,38.230329",
     "geom:latitude":38.230329,
     "geom:longitude":-77.476965,
@@ -33,17 +34,30 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hsLOZeWx6shuI3Ywtumod_38.230329_-77.476965@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889685,
-    "wof:geomhash":"ec7ce0b2be6891afc02ab1750983dd27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc334c9379f79e2aee6c0abb1d06ab94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722843139
+        }
+    ],
     "wof:id":722843139,
-    "wof:lastmodified":1472651935,
+    "wof:lastmodified":1492063441,
     "wof:name":"Cameron Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

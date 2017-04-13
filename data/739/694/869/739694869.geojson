@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374571,38.501655,-77.374571,38.501655",
     "geom:latitude":38.501655,
     "geom:longitude":-77.374571,
@@ -28,7 +29,10 @@
     "sg:postcode":"22554",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hJB2e9QF9Ly9QqIcNXjc7_38.501655_-77.374571@1303262547"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461912436,
     "wof:geomhash":"52c0c3f182d195b7dd487e6ba4cc3495",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":739694869
+        }
+    ],
     "wof:id":739694869,
-    "wof:lastmodified":1472652199,
+    "wof:lastmodified":1492030227,
     "wof:name":"Lcj, Inc.",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

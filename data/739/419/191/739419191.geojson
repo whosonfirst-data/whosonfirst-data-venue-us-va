@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380704,37.626009,-77.380704,37.626009",
     "geom:latitude":37.626009,
     "geom:longitude":-77.380704,
@@ -31,7 +32,13 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YkDx3CKgcQsI3QA5N0Sfs_37.626009_-77.380704@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906944,
     "wof:geomhash":"ddf9805301986ace6e256cd51f9c6120",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739419191
+        }
+    ],
     "wof:id":739419191,
-    "wof:lastmodified":1472651501,
+    "wof:lastmodified":1492029787,
     "wof:name":"Getinge Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

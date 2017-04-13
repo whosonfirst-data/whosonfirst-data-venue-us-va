@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42986,38.324854,-77.42986,38.324854",
     "geom:latitude":38.324854,
     "geom:longitude":-77.42986,
@@ -32,17 +33,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547191
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GhqXjXH6bv2YEPMMYo042_38.324854_-77.429860@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893211,
-    "wof:geomhash":"64b473da46397f73ee8c9b9b53c0e0fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af6570a054c4e9b126d18e07d9294289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547191,
+            "venue_id":723013493
+        }
+    ],
     "wof:id":723013493,
-    "wof:lastmodified":1472651103,
+    "wof:lastmodified":1492054063,
     "wof:name":"Polaris Equipment",
     "wof:parent_id":420547191,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.882172,38.393969,-78.882172,38.393969",
     "geom:latitude":38.393969,
     "geom:longitude":-78.882172,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85868187,
-        102085949
+        101728609,
+        102081423,
+        85868187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,20 @@
     },
     "wof:country":"US",
     "wof:created":1461889517,
-    "wof:geomhash":"2b995e8a9268510011ab86154d66abc1",
+    "wof:geomhash":"4aa60b928b837d4a9dccd98b76df8758",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102085949,
+            "county_id":102081423,
+            "locality_id":101728609,
             "neighbourhood_id":85868187,
             "region_id":85688747,
             "venue_id":722834003
         }
     ],
     "wof:id":722834003,
-    "wof:lastmodified":1472651919,
+    "wof:lastmodified":1492070535,
     "wof:name":"County Landfill",
     "wof:parent_id":85868187,
     "wof:placetype":"venue",

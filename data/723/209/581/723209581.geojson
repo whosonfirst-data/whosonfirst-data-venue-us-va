@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.469524,39.034565,-77.469524,39.034565",
     "geom:latitude":39.034565,
     "geom:longitude":-77.469524,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IrQq76fCh3CWXPvBGuUnH_39.034565_-77.469524@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897255,
-    "wof:geomhash":"612915c9beb6dd990e9d0bc608f52e87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e9c7d089eb69f1049979313aa96254a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723209581
+        }
+    ],
     "wof:id":723209581,
-    "wof:lastmodified":1472651628,
+    "wof:lastmodified":1492054040,
     "wof:name":"Radiant Ideas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.499162,37.118765,-81.499162,37.118765",
     "geom:latitude":37.118765,
     "geom:longitude":-81.499162,
@@ -32,17 +33,26 @@
         "rescue"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0acnuz4ibJuUZGklvaTlAb_37.118765_-81.499162@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903311,
-    "wof:geomhash":"d8a1fdfa9168568fce9c957e8638ce94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"432b8b292a01aa0d7ec2ec20377ee1fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":723514243
+        }
+    ],
     "wof:id":723514243,
-    "wof:lastmodified":1472652370,
+    "wof:lastmodified":1492058722,
     "wof:name":"Jeffersonville Rescue Squad",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504695,37.990114,-77.504695,37.990114",
     "geom:latitude":37.990114,
     "geom:longitude":-77.504695,
@@ -31,17 +32,32 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729417,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iy2RsK5xAPROcMDKkTghb_37.990114_-77.504695@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894848,
-    "wof:geomhash":"cd84f33cdb705e06fe8383994453ef3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f2a9090d309a03f1a0cb13b730fbf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101729417,
+            "region_id":85688747,
+            "venue_id":723086787
+        }
+    ],
     "wof:id":723086787,
-    "wof:lastmodified":1472651295,
+    "wof:lastmodified":1492057259,
     "wof:name":"Virginia Department Trnsp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

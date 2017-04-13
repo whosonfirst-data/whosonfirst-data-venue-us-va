@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.413256,38.980193,-77.413256,38.980193",
     "geom:latitude":38.980193,
     "geom:longitude":-77.413256,
@@ -28,7 +29,13 @@
     "sg:postcode":"20166",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729441,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KPNLC7ySUxJF2Dp11Xi1G_38.980193_-77.413256@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904385,
     "wof:geomhash":"9a844e3345a90ee9328469adbc199e71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729441,
+            "region_id":85688747,
+            "venue_id":739290817
+        }
+    ],
     "wof:id":739290817,
-    "wof:lastmodified":1472651218,
+    "wof:lastmodified":1492032808,
     "wof:name":"Luc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

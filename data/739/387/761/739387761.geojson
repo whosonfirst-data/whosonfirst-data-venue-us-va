@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.636791,37.061558,-77.636791,37.061558",
     "geom:latitude":37.061558,
     "geom:longitude":-77.636791,
@@ -32,7 +33,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CiAzgSKgQFAsaElmje5ce_37.061558_-77.636791@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906353,
     "wof:geomhash":"9d0c1f01cacb8551a61c977b716210b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":739387761
+        }
+    ],
     "wof:id":739387761,
-    "wof:lastmodified":1472651383,
+    "wof:lastmodified":1492033152,
     "wof:name":"Richardson & Lambert Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

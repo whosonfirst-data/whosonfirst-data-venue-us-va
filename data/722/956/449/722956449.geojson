@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.207444,38.717865,-77.207444,38.717865",
     "geom:latitude":38.717865,
     "geom:longitude":-77.207444,
@@ -32,17 +33,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gfyMA7zg2ElHy8vLAHiDk_38.717865_-77.207444@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891952,
-    "wof:geomhash":"46d04f30932009130dd146c257349798",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0907cd8e610287fb2e3b0e84cc3d5267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":722956449
+        }
+    ],
     "wof:id":722956449,
-    "wof:lastmodified":1472652263,
+    "wof:lastmodified":1492066945,
     "wof:name":"Public Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

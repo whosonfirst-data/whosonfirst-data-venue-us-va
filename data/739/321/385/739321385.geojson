@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.351216,36.837093,-80.351216,36.837093",
     "geom:latitude":36.837093,
     "geom:longitude":-80.351216,
@@ -35,7 +36,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39SJLhpO5MvG6iumhu9Sba_36.837093_-80.351216@1294252573"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461905005,
     "wof:geomhash":"97f49ba9521c9847781e2019cd0eb255",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086729,
+            "region_id":85688747,
+            "venue_id":739321385
+        }
+    ],
     "wof:id":739321385,
-    "wof:lastmodified":1472651254,
+    "wof:lastmodified":1492030720,
     "wof:name":"Linley Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

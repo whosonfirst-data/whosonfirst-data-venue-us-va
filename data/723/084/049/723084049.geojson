@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.78839,37.397238,-76.78839,37.397238",
     "geom:latitude":37.397238,
     "geom:longitude":-76.78839,
@@ -31,19 +32,28 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u4RhLVGvzyy54brfZFQ8c_37.397238_-76.788390@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894795,
-    "wof:geomhash":"1f81d8b6c07667f6ca70bb8056e6d73a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41f7dcae3be94c86bd9366b21891d2f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546923,
+            "venue_id":723084049
+        }
+    ],
     "wof:id":723084049,
-    "wof:lastmodified":1472651257,
+    "wof:lastmodified":1492049058,
     "wof:name":"Master Performance Racing",
-    "wof:parent_id":420546751,
+    "wof:parent_id":420546923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

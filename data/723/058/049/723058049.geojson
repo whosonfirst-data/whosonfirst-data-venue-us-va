@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.602018,36.961101,-76.602018,36.961101",
     "geom:latitude":36.961101,
     "geom:longitude":-76.602018,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00yVzthUsR0p6gVSCGTa9M_36.961101_-76.602018@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894178,
-    "wof:geomhash":"ab7cb266158ae70d5cb64e5b38e8dcca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"729ec158024a1af6e301731b7c0dfd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":723058049
+        }
+    ],
     "wof:id":723058049,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492058615,
     "wof:name":"Bradford Mews Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

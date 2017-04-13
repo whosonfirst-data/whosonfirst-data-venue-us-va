@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.494588,39.05047,-77.494588,39.05047",
     "geom:latitude":39.05047,
     "geom:longitude":-77.494588,
@@ -35,17 +36,32 @@
     ],
     "sg:website":"http://www.aisn.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hOFXqJ3GxVF5lfCgOcuPI_39.050470_-77.494588@1308186499"
     },
     "wof:country":"US",
     "wof:created":1461913528,
-    "wof:geomhash":"dd4192f70c6982d89bb3a7b3d523dec2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a5fad0348d01e322aa57b9a07e9e5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739744867
+        }
+    ],
     "wof:id":739744867,
-    "wof:lastmodified":1472652274,
+    "wof:lastmodified":1492040391,
     "wof:name":"AIS Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

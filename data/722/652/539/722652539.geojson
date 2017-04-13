@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514104,39.104964,-77.514104,39.104964",
     "geom:latitude":39.104964,
     "geom:longitude":-77.514104,
@@ -34,17 +35,30 @@
         "settlement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73qBabYrbyXcU0qpz6uWz9_39.104964_-77.514104@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886060,
-    "wof:geomhash":"f527970e4ace181a8fcc66afd8db33d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62f744f918f35edcd68a4b5affe55241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":722652539
+        }
+    ],
     "wof:id":722652539,
-    "wof:lastmodified":1472651476,
+    "wof:lastmodified":1492068165,
     "wof:name":"Precision Settlement Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

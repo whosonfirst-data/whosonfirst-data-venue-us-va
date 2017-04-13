@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436143,37.692609,-77.436143,37.692609",
     "geom:latitude":37.692609,
     "geom:longitude":-77.436143,
@@ -31,17 +32,30 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YJJYi1kWaCMslwSJBuwAj_37.692609_-77.436143@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892735,
-    "wof:geomhash":"7c40d235977e3d1636e5f107315bd264",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b75192fa0c40c10199479b2788896cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":722992457
+        }
+    ],
     "wof:id":722992457,
-    "wof:lastmodified":1472652333,
+    "wof:lastmodified":1492074771,
     "wof:name":"Richmond Camera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.233678,36.987364,-78.233678,36.987364",
     "geom:latitude":36.987364,
     "geom:longitude":-78.233678,
@@ -28,7 +29,13 @@
     "sg:postcode":"23974",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728613,
+        102084945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Bs6OwLgiYbVydpyuVO0v6_36.987364_-78.233678@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908492,
     "wof:geomhash":"bcb366949fee9b956fd0cdbc6c1818f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084945,
+            "locality_id":101728613,
+            "region_id":85688747,
+            "venue_id":739503587
+        }
+    ],
     "wof:id":739503587,
-    "wof:lastmodified":1472651795,
+    "wof:lastmodified":1492032351,
     "wof:name":"New Life Church Of God",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

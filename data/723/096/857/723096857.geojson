@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.79235,39.074558,-77.79235,39.074558",
     "geom:latitude":39.074558,
     "geom:longitude":-77.79235,
@@ -32,17 +33,30 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Hi8s80lytAc3cpeEnv0w6_39.074558_-77.792350@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895056,
-    "wof:geomhash":"9b4db15148c8313956b8db3d0d854da8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6523d21104da916ae377a5e5eb867959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723096857
+        }
+    ],
     "wof:id":723096857,
-    "wof:lastmodified":1472651315,
+    "wof:lastmodified":1492060768,
     "wof:name":"Software Incentives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

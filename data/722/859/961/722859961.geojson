@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.416631,38.288292,-77.416631,38.288292",
     "geom:latitude":38.288292,
     "geom:longitude":-77.416631,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s3XpgrEnY5Xl062yoK1Nu_38.288292_-77.416631@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890013,
-    "wof:geomhash":"a2099f444784951bb5248b01ec8cf7ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"033e09541f808f80ec8cd2dea793bf8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":722859961
+        }
+    ],
     "wof:id":722859961,
-    "wof:lastmodified":1472652016,
+    "wof:lastmodified":1492074912,
     "wof:name":"Main's Heating & AC INC",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

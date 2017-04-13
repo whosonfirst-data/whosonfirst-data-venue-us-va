@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440557,38.448948,-77.440557,38.448948",
     "geom:latitude":38.448948,
     "geom:longitude":-77.440557,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gXioryvPMzzW8q0ANfYYm_38.448948_-77.440557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894610,
-    "wof:geomhash":"88f69d003bf8044c7af79b70b1d0990e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21ac5fb25b54ca1f5d7c458a6a4fc43d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":723076359
+        }
+    ],
     "wof:id":723076359,
-    "wof:lastmodified":1472651263,
+    "wof:lastmodified":1492056142,
     "wof:name":"Crown of Life Ministry",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

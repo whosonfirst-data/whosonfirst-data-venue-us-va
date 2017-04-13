@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.514997,38.04456,-78.514997,38.04456",
     "geom:latitude":38.04456,
     "geom:longitude":-78.514997,
@@ -31,17 +32,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0boakMoRE7V15gx6vYz9l7_38.044560_-78.514997@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894320,
-    "wof:geomhash":"e8db64d2cc237b9f42d6f1cb3c992ad8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e361a7daf949405a15e03d7f352673f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":723064893
+        }
+    ],
     "wof:id":723064893,
-    "wof:lastmodified":1472651249,
+    "wof:lastmodified":1492048127,
     "wof:name":"IDG Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.958433,37.273523,-79.958433,37.273523",
     "geom:latitude":37.273523,
     "geom:longitude":-79.958433,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bIBGNE2RUcq8pZIf6F3wR_37.273523_-79.958433@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898067,
-    "wof:geomhash":"26c51b3344e37dd83463045dd1071cda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d848d767a843ef6d04ccad4a2e0b03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723247357
+        }
+    ],
     "wof:id":723247357,
-    "wof:lastmodified":1472651680,
+    "wof:lastmodified":1492053552,
     "wof:name":"Roanoke Electric Zupply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

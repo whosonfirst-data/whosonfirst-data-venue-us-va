@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146952,38.854363,-77.146952,38.854363",
     "geom:latitude":38.854363,
     "geom:longitude":-77.146952,
@@ -31,17 +32,32 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729759,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JePtuce7dDRrzRJK4lerk_38.854363_-77.146952@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897187,
-    "wof:geomhash":"95c0575638f5e64b797ac9b68c414c52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9076f534127be1948dd26a7cec01b7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729759,
+            "region_id":85688747,
+            "venue_id":723205967
+        }
+    ],
     "wof:id":723205967,
-    "wof:lastmodified":1472651647,
+    "wof:lastmodified":1492054596,
     "wof:name":"Han Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.61676,38.781365,-77.61676,38.781365",
     "geom:latitude":38.781365,
     "geom:longitude":-77.61676,
@@ -33,17 +34,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XNA82ZeXjwa0BQdHtZzvQ_38.781365_-77.616760@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898519,
-    "wof:geomhash":"5258aef8d4362abc1a69751106c5090b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dae180faa1f3d733b829c4b39bb4f05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":723270785
+        }
+    ],
     "wof:id":723270785,
-    "wof:lastmodified":1472651841,
+    "wof:lastmodified":1492054497,
     "wof:name":"C R Bard Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

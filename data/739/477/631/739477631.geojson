@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.395358,37.176819,-76.395358,37.176819",
     "geom:latitude":37.176819,
     "geom:longitude":-76.395358,
@@ -32,17 +33,26 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oCu7hZf5D0bIts2BvUK8B_37.176819_-76.395358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908025,
-    "wof:geomhash":"d1e45667c949053e845ca73bc5c4926d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dab15086c1c19175d891ac6893d50c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739477631
+        }
+    ],
     "wof:id":739477631,
-    "wof:lastmodified":1472651617,
+    "wof:lastmodified":1492042475,
     "wof:name":"Bruce Livingston Custom Bldr",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

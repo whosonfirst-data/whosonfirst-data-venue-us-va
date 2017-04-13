@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.964723,37.307513,-79.964723,37.307513",
     "geom:latitude":37.307513,
     "geom:longitude":-79.964723,
@@ -32,17 +33,32 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fBZLXzwnCm1fpxqJJF0be_37.307513_-79.964723@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910250,
-    "wof:geomhash":"7c1c62e501a44871bd6ad50b4ef25446",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a595abd06ad9c171f70166b87946cfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739592591
+        }
+    ],
     "wof:id":739592591,
-    "wof:lastmodified":1472651945,
+    "wof:lastmodified":1492041033,
     "wof:name":"Olive Garden Italian Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

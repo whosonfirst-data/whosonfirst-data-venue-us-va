@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.28928,36.885503,-81.28928,36.885503",
     "geom:latitude":36.885503,
     "geom:longitude":-81.28928,
@@ -32,17 +33,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YBbMcXdK3EgGLfRzHbbWJ_36.885503_-81.289280@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908508,
-    "wof:geomhash":"3ca7ce6a9e853152eda38160f8923ccd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72aae286ff5f64b4f3fa1d4d726e6fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739504383
+        }
+    ],
     "wof:id":739504383,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492041727,
     "wof:name":"Jones Home Improvement",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

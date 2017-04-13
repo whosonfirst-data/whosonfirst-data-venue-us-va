@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.613749,36.841411,-80.613749,36.841411",
     "geom:latitude":36.841411,
     "geom:longitude":-80.613749,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62LMd858U6qlpJKfsQy2ug_36.841411_-80.613749@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885697,
-    "wof:geomhash":"14f75b3700eb2259904571453ffc4b4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af4d804db40d9f4b4b37f536f006916b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":722632591
+        }
+    ],
     "wof:id":722632591,
-    "wof:lastmodified":1472651431,
+    "wof:lastmodified":1492070097,
     "wof:name":"Moore Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

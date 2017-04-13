@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.505796,37.610647,-77.505796,37.610647",
     "geom:latitude":37.610647,
     "geom:longitude":-77.505796,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"http://www.hairinthecity.me",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729359,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tcmku9bU4wSzzW34VzLzC_37.610647_-77.505796@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912980,
-    "wof:geomhash":"d24cff589e5e948768dd89d6bab12196",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1366d967d0faa2eec6701d1fcf9f97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729359,
+            "region_id":85688747,
+            "venue_id":739719433
+        }
+    ],
     "wof:id":739719433,
-    "wof:lastmodified":1472652208,
+    "wof:lastmodified":1492044658,
     "wof:name":"Hair in the City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.580462,38.325114,-77.580462,38.325114",
     "geom:latitude":38.325114,
     "geom:longitude":-77.580462,
@@ -28,7 +29,10 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eJvlmk2RET2cpUPJiWJaf_38.325114_-77.580462@1294252573"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1461904649,
     "wof:geomhash":"c1d1a552fb09d2a588486b751a25c0a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739303765
+        }
+    ],
     "wof:id":739303765,
-    "wof:lastmodified":1472651219,
+    "wof:lastmodified":1492029752,
     "wof:name":"Hnc Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

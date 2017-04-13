@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.98013,36.708067,-81.98013,36.708067",
     "geom:latitude":36.708067,
     "geom:longitude":-81.98013,
@@ -33,17 +34,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56wDUqJpiEuU9Lr2o3kSlE_36.708067_-81.980130@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887676,
-    "wof:geomhash":"49ed69a6ca52b180cb151204da223df7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d802a82f9a64e11aa9094248e56e88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722736543
+        }
+    ],
     "wof:id":722736543,
-    "wof:lastmodified":1472651670,
+    "wof:lastmodified":1492065673,
     "wof:name":"Arts Depot",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.600094,38.341452,-77.600094,38.341452",
     "geom:latitude":38.341452,
     "geom:longitude":-77.600094,
@@ -38,7 +39,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MkJ9QHO9QQpFFLOg3RZg1_38.341452_-77.600094@1294252573"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461907023,
     "wof:geomhash":"6c7a1329f86f031e2be2a4082a5b7054",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739422797
+        }
+    ],
     "wof:id":739422797,
-    "wof:lastmodified":1472651529,
+    "wof:lastmodified":1492031217,
     "wof:name":"River Ridge Refrigeration Svc",
     "wof:parent_id":420547271,
     "wof:placetype":"venue",

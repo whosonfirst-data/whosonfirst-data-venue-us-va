@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.126491,38.762668,-77.126491,38.762668",
     "geom:latitude":38.762668,
     "geom:longitude":-77.126491,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729841,
+        101729739,
         102084863,
+        85824359,
+        101729841,
         85823327
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888889,
-    "wof:geomhash":"2c6e20ea41c9224af38666ea0048cf73",
+    "wof:geomhash":"f9a2117afab6737a2c417b9cee45e74a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729739,
+            "neighbourhood_id":85824359,
+            "region_id":85688747,
+            "venue_id":722800043
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":722800043,
-    "wof:lastmodified":1472651723,
+    "wof:lastmodified":1492066176,
     "wof:name":"Gerald Stokes",
-    "wof:parent_id":85823327,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

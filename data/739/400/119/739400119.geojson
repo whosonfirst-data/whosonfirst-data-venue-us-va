@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130535,39.182927,-78.130535,39.182927",
     "geom:latitude":39.182927,
     "geom:longitude":-78.130535,
@@ -31,7 +32,12 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79Bp8HTe6hzMfkMtXkn184_39.182927_-78.130535@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906584,
     "wof:geomhash":"ed85da169619e1e2a45996ce7c1db772",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739400119
+        }
+    ],
     "wof:id":739400119,
-    "wof:lastmodified":1472651442,
+    "wof:lastmodified":1492032722,
     "wof:name":"Design Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

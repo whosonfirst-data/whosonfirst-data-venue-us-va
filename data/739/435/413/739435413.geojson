@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.574711,37.290059,-80.574711,37.290059",
     "geom:latitude":37.290059,
     "geom:longitude":-80.574711,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rxsvetBGlv3NOv0bmN3UL_37.290059_-80.574711@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907270,
     "wof:geomhash":"0a6cd37b6b8f6dc0f6f8ea97e0d41c9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "region_id":85688747,
+            "venue_id":739435413
+        }
+    ],
     "wof:id":739435413,
-    "wof:lastmodified":1472651525,
+    "wof:lastmodified":1492029401,
     "wof:name":"Leon Meredith & Son LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

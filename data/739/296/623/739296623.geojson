@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.646119,37.502407,-77.646119,37.502407",
     "geom:latitude":37.502407,
     "geom:longitude":-77.646119,
@@ -34,7 +35,12 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60w2xgpByzpOomEB2frMTf_37.502407_-77.646119@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461904493,
     "wof:geomhash":"b6766fd098012561d92e64e0fa22c3c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739296623
+        }
+    ],
     "wof:id":739296623,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492029508,
     "wof:name":"Wallpaper Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

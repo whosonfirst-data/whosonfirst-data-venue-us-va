@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.439542,37.505193,-77.439542,37.505193",
     "geom:latitude":37.505193,
     "geom:longitude":-77.439542,
@@ -28,7 +29,13 @@
     "sg:postcode":"23224",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7koxO1Nw3qKFSlK9Nivgw1_37.505193_-77.439542@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904704,
     "wof:geomhash":"0445ab25739edc0efde84a3fbfaaff6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739306335
+        }
+    ],
     "wof:id":739306335,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492030308,
     "wof:name":"LNM Family Cutts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

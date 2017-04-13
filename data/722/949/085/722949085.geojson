@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.570908,38.34397,-77.570908,38.34397",
     "geom:latitude":38.34397,
     "geom:longitude":-77.570908,
@@ -28,19 +29,28 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U4vkYbW32amUS3zkGqeHm_38.343970_-77.570908@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891808,
-    "wof:geomhash":"891da2e9e2188cd1cbff8eae0d6bf089",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bbd6177ad2149cf01ed861ebb856a55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":722949085
+        }
+    ],
     "wof:id":722949085,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492066628,
     "wof:name":"New Generation Evangelical Epi",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

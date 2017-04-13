@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.389543,38.680591,-77.389543,38.680591",
     "geom:latitude":38.680591,
     "geom:longitude":-77.389543,
@@ -32,7 +33,12 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JBYEKL9sR79PERdDCCm8S_38.680591_-77.389543@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904033,
     "wof:geomhash":"f56b9b97dc66e09ce37788312cdf6e16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739275037
+        }
+    ],
     "wof:id":739275037,
-    "wof:lastmodified":1472651135,
+    "wof:lastmodified":1492031074,
     "wof:name":"Engineering Sftwr Netwrk Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

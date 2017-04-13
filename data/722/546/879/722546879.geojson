@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.464002,38.769805,-77.464002,38.769805",
     "geom:latitude":38.769805,
     "geom:longitude":-77.464002,
@@ -28,19 +29,36 @@
     "sg:postcode":"20110",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981,
+        85868215
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BCEpkAfqzei8RMiOgfwSD_38.769805_-77.464002@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883937,
-    "wof:geomhash":"cacbe0829b1081e91ead5902b7dd144b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e60aae9970caaa3309b51d548bbe00af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "neighbourhood_id":85868215,
+            "region_id":85688747,
+            "venue_id":722546879
+        }
+    ],
     "wof:id":722546879,
-    "wof:lastmodified":1472651111,
+    "wof:lastmodified":1492064807,
     "wof:name":"Inwood Property Management LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

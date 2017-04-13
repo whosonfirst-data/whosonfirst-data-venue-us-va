@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.618215,38.43307,-77.618215,38.43307",
     "geom:latitude":38.43307,
     "geom:longitude":-77.618215,
@@ -32,19 +33,28 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OWgLmbh0wZPYZaNL94LQh_38.433070_-77.618215@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908146,
-    "wof:geomhash":"8ff81854fb8c593708d6bae611bd0c95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c363a4769b007f2b524b1ec9eab85244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546729,
+            "venue_id":739484059
+        }
+    ],
     "wof:id":739484059,
-    "wof:lastmodified":1472651656,
+    "wof:lastmodified":1492037428,
     "wof:name":"Passion 911",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

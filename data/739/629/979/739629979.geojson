@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.193692,38.717126,-77.193692,38.717126",
     "geom:latitude":38.717126,
     "geom:longitude":-77.193692,
@@ -45,7 +46,13 @@
     ],
     "sg:website":"http://www.ecfp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WZEi09xLHo1Kmq2GVZwqZ_38.717126_-77.193692@1303262538"
@@ -53,9 +60,18 @@
     "wof:country":"US",
     "wof:created":1461911026,
     "wof:geomhash":"a1bba4a2888a537b2c6c759acf2c1f83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":739629979
+        }
+    ],
     "wof:id":739629979,
-    "wof:lastmodified":1472652024,
+    "wof:lastmodified":1492033301,
     "wof:name":"Fire & Life Safety America, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

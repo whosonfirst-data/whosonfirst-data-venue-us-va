@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.403437,37.218263,-77.403437,37.218263",
     "geom:latitude":37.218263,
     "geom:longitude":-77.403437,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LVIee2me8pbFnHAuxrcnG_37.218263_-77.403437@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896263,
-    "wof:geomhash":"e2d133d9ac41c22d3952ac82fc2aaf02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b7f49d8df228d0e46dd62c64556d047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723158615
+        }
+    ],
     "wof:id":723158615,
-    "wof:lastmodified":1472651430,
+    "wof:lastmodified":1492056642,
     "wof:name":"G & W Adult Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

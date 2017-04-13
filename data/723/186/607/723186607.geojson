@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429529,38.329091,-77.429529,38.329091",
     "geom:latitude":38.329091,
     "geom:longitude":-77.429529,
@@ -31,17 +32,26 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mQvMfGGwfX1LYqiz91qfB_38.329091_-77.429529@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896817,
-    "wof:geomhash":"b1877703510ed493f3a34e51eb74dfc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2689b65e473264818f1ced87464d33a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":723186607
+        }
+    ],
     "wof:id":723186607,
-    "wof:lastmodified":1472651533,
+    "wof:lastmodified":1492058772,
     "wof:name":"Euro Painting",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

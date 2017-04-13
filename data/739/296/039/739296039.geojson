@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.222888,38.082577,-78.222888,38.082577",
     "geom:latitude":38.082577,
     "geom:longitude":-78.222888,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eceOMr4Ie4H3FWe1jvyGE_38.082577_-78.222888@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904483,
     "wof:geomhash":"d9c2d98cc85564156e38fe31c6363cf6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":739296039
+        }
+    ],
     "wof:id":739296039,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492029530,
     "wof:name":"Henderson Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

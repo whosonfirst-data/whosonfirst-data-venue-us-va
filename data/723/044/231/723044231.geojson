@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.570046,36.598975,-82.570046,36.598975",
     "geom:latitude":36.598975,
     "geom:longitude":-82.570046,
@@ -35,17 +36,26 @@
         "long"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aN8jfJQ2ilguqKjfbbYD7_36.598975_-82.570046@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893901,
-    "wof:geomhash":"ac1660f474e119c59029043202f69f93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c010b052abee3b12c48830ba28e0291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547079,
+            "venue_id":723044231
+        }
+    ],
     "wof:id":723044231,
-    "wof:lastmodified":1472651159,
+    "wof:lastmodified":1492056207,
     "wof:name":"Big Break Food Store",
     "wof:parent_id":420547079,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.372573,36.804587,-76.372573,36.804587",
     "geom:latitude":36.804587,
     "geom:longitude":-76.372573,
@@ -39,6 +40,7 @@
         85633793,
         101728677,
         102086707,
+        420558427,
         85868203
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461894501,
-    "wof:geomhash":"e03a4dbd778b5ce346662a8ad9008a6d",
+    "wof:geomhash":"18c5f1e1ca767f2afeac402a22e6d0e6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":420558427,
+            "region_id":85688747,
+            "venue_id":723071967
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":723071967,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492057459,
     "wof:name":"American Cemetery Supplies",
-    "wof:parent_id":85868203,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

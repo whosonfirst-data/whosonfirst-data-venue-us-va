@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.403229,37.292307,-80.403229,37.292307",
     "geom:latitude":37.292307,
     "geom:longitude":-80.403229,
@@ -34,19 +35,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989,
+        420547035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0p3LeFn0eedjgzB62Y0hzx_37.292307_-80.403229@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887246,
-    "wof:geomhash":"5b7af6712b452b74aae3d4baf0f95b71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea60d72ef92533008e0d003eb77c37d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":722714691
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547035,
+            "venue_id":722714691
+        }
+    ],
     "wof:id":722714691,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492073825,
     "wof:name":"Transformer Test Systems",
-    "wof:parent_id":420547035,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

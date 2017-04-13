@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.622495,37.223602,-76.622495,37.223602",
     "geom:latitude":37.223602,
     "geom:longitude":-76.622495,
@@ -31,17 +32,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546871
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IkQ6rfA8fQwqiAwl80Tcd_37.223602_-76.622495@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906389,
-    "wof:geomhash":"d0ff302b32365ec3d50c5dfb54a88eb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04a88878dd9438d0fdec52c678e8f176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546871,
+            "venue_id":739389931
+        }
+    ],
     "wof:id":739389931,
-    "wof:lastmodified":1472651382,
+    "wof:lastmodified":1492041935,
     "wof:name":"S G S Disposal",
     "wof:parent_id":420546871,
     "wof:placetype":"venue",

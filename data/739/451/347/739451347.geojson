@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.277807,37.261644,-77.277807,37.261644",
     "geom:latitude":37.261644,
     "geom:longitude":-77.277807,
@@ -31,7 +32,12 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ozEo1Cs1Dt4oxtYNNqEaU_37.261644_-77.277807@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907566,
     "wof:geomhash":"3ee48f24a1ddb5eb19651a708153e182",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739451347
+        }
+    ],
     "wof:id":739451347,
-    "wof:lastmodified":1472651573,
+    "wof:lastmodified":1492031166,
     "wof:name":"Network Data Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

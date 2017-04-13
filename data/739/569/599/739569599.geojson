@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.988541,38.050246,-78.988541,38.050246",
     "geom:latitude":38.050246,
     "geom:longitude":-78.988541,
@@ -27,7 +28,13 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729659,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59Ai6s2ktgg1q0hYE1v9Ug_38.050246_-78.988541@1294252573"
@@ -35,9 +42,18 @@
     "wof:country":"US",
     "wof:created":1461909772,
     "wof:geomhash":"069f8f0c907f03d236285de0bbd08007",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729659,
+            "region_id":85688747,
+            "venue_id":739569599
+        }
+    ],
     "wof:id":739569599,
-    "wof:lastmodified":1472651902,
+    "wof:lastmodified":1492030892,
     "wof:name":"Norman Coyner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

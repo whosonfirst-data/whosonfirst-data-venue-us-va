@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.797362,37.656043,-77.797362,37.656043",
     "geom:latitude":37.656043,
     "geom:longitude":-77.797362,
@@ -28,7 +29,12 @@
     "sg:postcode":"23039",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dVnU055FnR7EPnSEfb4cJ_37.656043_-77.797362@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905457,
     "wof:geomhash":"2955e7b4b62a38a704a993f0b86b7e54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739343719
+        }
+    ],
     "wof:id":739343719,
-    "wof:lastmodified":1472651296,
+    "wof:lastmodified":1492032179,
     "wof:name":"First Union Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

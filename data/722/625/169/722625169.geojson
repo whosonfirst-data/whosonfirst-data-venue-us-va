@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.273241,39.022361,-77.273241,39.022361",
     "geom:latitude":39.022361,
     "geom:longitude":-77.273241,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AlGHte1qPvlKP2HOy7sZD_39.022361_-77.273241@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885499,
-    "wof:geomhash":"94ca96c93bc337dc0e99efcee91c4a4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8484a536b97048cf60af4d272e7af9be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729747,
+            "region_id":85688747,
+            "venue_id":722625169
+        }
+    ],
     "wof:id":722625169,
-    "wof:lastmodified":1472651396,
+    "wof:lastmodified":1492068376,
     "wof:name":"Great Falls Meeting Places",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

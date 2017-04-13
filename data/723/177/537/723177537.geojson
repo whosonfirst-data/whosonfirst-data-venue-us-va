@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524059,38.781948,-77.524059,38.781948",
     "geom:latitude":38.781948,
     "geom:longitude":-77.524059,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00f0vtFUhYgu2PpRAq7IhT_38.781948_-77.524059@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896633,
-    "wof:geomhash":"fd46c0596842965f8269a688628a8eb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"163147c9ffe87171d6848af9121e6d69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":723177537
+        }
+    ],
     "wof:id":723177537,
-    "wof:lastmodified":1472651485,
+    "wof:lastmodified":1492053325,
     "wof:name":"Pennington Network Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

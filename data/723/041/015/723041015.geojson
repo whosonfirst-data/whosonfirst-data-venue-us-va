@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.999539,37.076585,-77.999539,37.076585",
     "geom:latitude":37.076585,
     "geom:longitude":-77.999539,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728533,
+        102087251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30kJ72wiqclKo9YuhLcPpk_37.076585_-77.999539@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893830,
-    "wof:geomhash":"68ec3118f89e809e88ecedcf31a12065",
-    "wof:hierarchy":[],
+    "wof:geomhash":"749ab30396cfd942807d002a0e91771c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087251,
+            "locality_id":101728533,
+            "region_id":85688747,
+            "venue_id":723041015
+        }
+    ],
     "wof:id":723041015,
-    "wof:lastmodified":1472651137,
+    "wof:lastmodified":1492061780,
     "wof:name":"Castle Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

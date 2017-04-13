@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435564,38.351163,-77.435564,38.351163",
     "geom:latitude":38.351163,
     "geom:longitude":-77.435564,
@@ -31,17 +32,26 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z8g3aBrN2xIXQy0Lw98Kg_38.351163_-77.435564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884910,
-    "wof:geomhash":"749213363894fdb03038fb54434c960d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67c332de7e8c78860216b7e80c56e94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":722596567
+        }
+    ],
     "wof:id":722596567,
-    "wof:lastmodified":1472651231,
+    "wof:lastmodified":1492070649,
     "wof:name":"Alex Printing Inc",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

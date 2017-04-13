@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42602,38.765589,-77.42602,38.765589",
     "geom:latitude":38.765589,
     "geom:longitude":-77.42602,
@@ -35,17 +36,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r6NDnzseTuZeW6M5wfatg_38.765589_-77.426020@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905565,
-    "wof:geomhash":"6c1015e43634a0f51af9f0cfff8541dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17e0d31ad48875f00eb353dd27602ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739347839
+        }
+    ],
     "wof:id":739347839,
-    "wof:lastmodified":1472651305,
+    "wof:lastmodified":1492043573,
     "wof:name":"American Mortgage & Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

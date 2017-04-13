@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.426131,38.277023,-77.426131,38.277023",
     "geom:latitude":38.277023,
     "geom:longitude":-77.426131,
@@ -31,17 +32,26 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A1l8oqOgNaehBZGo3yLc8_38.277023_-77.426131@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897278,
-    "wof:geomhash":"4e0312931a90d8ab0136b546402047b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"520e7d8cc6df2d7f903b62baa288bc9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":723210301
+        }
+    ],
     "wof:id":723210301,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492050905,
     "wof:name":"Green Fam Cemetery Perpet",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

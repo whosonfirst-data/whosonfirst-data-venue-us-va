@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374992,37.60336,-77.374992,37.60336",
     "geom:latitude":37.60336,
     "geom:longitude":-77.374992,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29N0NXP2GACukTBA2lHmtm_37.603360_-77.374992@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890428,
-    "wof:geomhash":"915868ca2c5329be3be73235e8a6293f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2ae6e22dfec7e04ffa020e4a8b22d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":722881825
+        }
+    ],
     "wof:id":722881825,
-    "wof:lastmodified":1472652030,
+    "wof:lastmodified":1492069361,
     "wof:name":"Cold Harbor Family Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

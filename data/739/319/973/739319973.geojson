@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.629612,37.479054,-77.629612,37.479054",
     "geom:latitude":37.479054,
     "geom:longitude":-77.629612,
@@ -33,7 +34,12 @@
         "raising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6G6BsBygICZUKIdT5fHROJ_37.479054_-77.629612@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904972,
     "wof:geomhash":"0050d2518da61846132915c56a03b95f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739319973
+        }
+    ],
     "wof:id":739319973,
-    "wof:lastmodified":1472651290,
+    "wof:lastmodified":1492031271,
     "wof:name":"Perfect Touch Promotions LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

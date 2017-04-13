@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.195584,38.728079,-77.195584,38.728079",
     "geom:latitude":38.728079,
     "geom:longitude":-77.195584,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xMC2dXTRxSou0tkGzSjiP_38.727782_-77.195855@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909516,
-    "wof:geomhash":"d949fc7a948750e61e2e41b5a6eaaee8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55651147559a23660720fcd0c5bef9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739557969
+        }
+    ],
     "wof:id":739557969,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492043198,
     "wof:name":"Master Envelope Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

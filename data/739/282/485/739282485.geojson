@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.605568,38.78199,-77.605568,38.78199",
     "geom:latitude":38.78199,
     "geom:longitude":-77.605568,
@@ -28,7 +29,13 @@
     "sg:postcode":"20155",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bvmcopatvl6wa86SBK2us_38.781990_-77.605568@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904205,
     "wof:geomhash":"1136ca7a7565493381b7454dce7f218b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739282485
+        }
+    ],
     "wof:id":739282485,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492031896,
     "wof:name":"Kris Krafts Stain Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

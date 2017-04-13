@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371353,38.508215,-77.371353,38.508215",
     "geom:latitude":38.508215,
     "geom:longitude":-77.371353,
@@ -28,19 +29,34 @@
     "sg:postcode":"22554",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_342BcgEXFZ26xtP9SJxL2z_38.508215_-77.371353@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900479,
-    "wof:geomhash":"d350d58ade19e54b3e9f6ef167a5912c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"861d386a4ad46f32c5433929ae2bb7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":723375381
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":723375381
+        }
+    ],
     "wof:id":723375381,
-    "wof:lastmodified":1472652114,
+    "wof:lastmodified":1492049098,
     "wof:name":"Simply Elegant Flowers & Gifts",
-    "wof:parent_id":420547175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

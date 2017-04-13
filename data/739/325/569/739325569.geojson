@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.026865,36.71562,-82.026865,36.71562",
     "geom:latitude":36.71562,
     "geom:longitude":-82.026865,
@@ -31,17 +32,26 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DFyxG6VL7NNp9weIrtom5_36.715620_-82.026865@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905091,
-    "wof:geomhash":"b9f9da7c3a4c30f1b600875f58789e6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d012151875d3f21b8c37ea13b138b01c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739325569
+        }
+    ],
     "wof:id":739325569,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492039622,
     "wof:name":"National Assoc of Insuran",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

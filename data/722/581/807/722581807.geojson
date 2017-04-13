@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.533225,37.11218,-81.533225,37.11218",
     "geom:latitude":37.11218,
     "geom:longitude":-81.533225,
@@ -31,17 +32,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aGrzsTBCUlT1QbmrpzUIh_37.112180_-81.533225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884638,
-    "wof:geomhash":"2ef97fef850d34b0faeaf4ff728e0bb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cda9a5ed35c56d7dff009cadd8ccedc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722581807
+        }
+    ],
     "wof:id":722581807,
-    "wof:lastmodified":1472651238,
+    "wof:lastmodified":1492066521,
     "wof:name":"De Courcy Law Firm",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

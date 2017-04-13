@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.704092,36.699998,-80.704092,36.699998",
     "geom:latitude":36.699998,
     "geom:longitude":-80.704092,
@@ -26,7 +27,12 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YXmua3EBO2SIyA0Dtu8Zf_36.699998_-80.704092@1294252573"
@@ -34,9 +40,17 @@
     "wof:country":"US",
     "wof:created":1461909575,
     "wof:geomhash":"41b7a2aa6fff0809e9a111562fb296fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "region_id":85688747,
+            "venue_id":739560751
+        }
+    ],
     "wof:id":739560751,
-    "wof:lastmodified":1472651886,
+    "wof:lastmodified":1492030120,
     "wof:name":"Jopa Vending Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

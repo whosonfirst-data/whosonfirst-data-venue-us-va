@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.796041,38.012299,-78.796041,38.012299",
     "geom:latitude":38.012299,
     "geom:longitude":-78.796041,
@@ -33,7 +34,12 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00C0U23CzSn7yNcN5SmVhx_38.012299_-78.796041@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904259,
     "wof:geomhash":"111d7b20d9db1bc1271f1b5838ef899f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739285131
+        }
+    ],
     "wof:id":739285131,
-    "wof:lastmodified":1472651140,
+    "wof:lastmodified":1492029726,
     "wof:name":"Gardenstone Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

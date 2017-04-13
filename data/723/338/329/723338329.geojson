@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.480892,36.762053,-77.480892,36.762053",
     "geom:latitude":36.762053,
     "geom:longitude":-77.480892,
@@ -28,17 +29,38 @@
     "sg:postcode":"23847",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059,
+        102086701
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30jRT1GpV7hqPq48qOjZdE_36.762053_-77.480892@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899779,
-    "wof:geomhash":"d6939b0c50ced419f6e046011b3f6563",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bee57fb1096b2d93bddc02891d10b5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":723338329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086701,
+            "region_id":85688747,
+            "venue_id":723338329
+        }
+    ],
     "wof:id":723338329,
-    "wof:lastmodified":1472651929,
+    "wof:lastmodified":1492052141,
     "wof:name":"St John COGIC Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

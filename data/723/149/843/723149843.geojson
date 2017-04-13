@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.257286,38.833543,-77.257286,38.833543",
     "geom:latitude":38.833543,
     "geom:longitude":-77.257286,
@@ -33,17 +34,32 @@
         "resource"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729829,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w0PZxPikhtfhA4P0Z6AwF_38.833543_-77.257286@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896094,
-    "wof:geomhash":"7b7ea5be2fbbf496b99756b132ca933f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7555eb2f6c981a8c79ec5943bf316483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729829,
+            "region_id":85688747,
+            "venue_id":723149843
+        }
+    ],
     "wof:id":723149843,
-    "wof:lastmodified":1472651429,
+    "wof:lastmodified":1492060910,
     "wof:name":"Water Resource Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

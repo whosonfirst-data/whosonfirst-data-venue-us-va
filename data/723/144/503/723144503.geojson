@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.864502,37.411261,-76.864502,37.411261",
     "geom:latitude":37.411261,
     "geom:longitude":-76.864502,
@@ -33,17 +34,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ye2paqnN4bLjAj4zGP930_37.411261_-76.864502@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895986,
-    "wof:geomhash":"f616253ce599ea134b804c9fd8bc1bb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f24260fa6ff2243eacd7f255d3bce963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546761,
+            "venue_id":723144503
+        }
+    ],
     "wof:id":723144503,
-    "wof:lastmodified":1472651412,
+    "wof:lastmodified":1492059891,
     "wof:name":"Jimmy's Engine Svc",
     "wof:parent_id":420546761,
     "wof:placetype":"venue",

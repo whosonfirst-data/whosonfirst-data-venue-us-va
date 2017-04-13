@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.781261,37.246472,-76.781261,37.246472",
     "geom:latitude":37.246472,
     "geom:longitude":-76.781261,
@@ -32,7 +33,10 @@
         "extinguisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B2AuQroGgg3RTOErNGUIi_37.246472_-76.781261@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904806,
     "wof:geomhash":"956201fa740d4b8c8f6ffe00b887413a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":739311625
+        }
+    ],
     "wof:id":739311625,
-    "wof:lastmodified":1472651237,
+    "wof:lastmodified":1492030284,
     "wof:name":"ABC Fire Extinguisher",
     "wof:parent_id":420546783,
     "wof:placetype":"venue",

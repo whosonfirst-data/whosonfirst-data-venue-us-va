@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.034485,36.621888,-82.034485,36.621888",
     "geom:latitude":36.621888,
     "geom:longitude":-82.034485,
@@ -33,17 +34,26 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41DREe3ib5sPCOviPSXSvz_36.621888_-82.034485@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899849,
-    "wof:geomhash":"f52a483a997ab67f08c3281c401dfe6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98f73164309682f3dfcdaae3872fd22a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723342295
+        }
+    ],
     "wof:id":723342295,
-    "wof:lastmodified":1472651946,
+    "wof:lastmodified":1492061997,
     "wof:name":"Rent Smart",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

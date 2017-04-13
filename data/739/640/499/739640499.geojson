@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.211066,38.721291,-77.211066,38.721291",
     "geom:latitude":38.721291,
     "geom:longitude":-77.211066,
@@ -36,7 +37,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07CbE2itFEIzn0dnfl12LR_38.721291_-77.211066@1303262539"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461911267,
     "wof:geomhash":"479a83c8c00b844ca8ece60148dacead",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":739640499
+        }
+    ],
     "wof:id":739640499,
-    "wof:lastmodified":1472652041,
+    "wof:lastmodified":1492033012,
     "wof:name":"Metropolitan Property Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

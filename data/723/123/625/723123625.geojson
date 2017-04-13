@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.000633,37.307148,-80.000633,37.307148",
     "geom:latitude":37.307148,
     "geom:longitude":-80.000633,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sX1pOjmFSPRBaKcv2yKt0_37.307148_-80.000633@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895580,
-    "wof:geomhash":"29d0dd4205e339820ddbc35483b22822",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41c9033d709b8ac26858dc8780f6e693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723123625
+        }
+    ],
     "wof:id":723123625,
-    "wof:lastmodified":1472651363,
+    "wof:lastmodified":1492049752,
     "wof:name":"Lyonel Lapierre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

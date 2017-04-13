@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.34889,38.845,-77.34889,38.845",
     "geom:latitude":38.845,
     "geom:longitude":-77.34889,
@@ -31,7 +32,12 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ohku28UhDy4KKg6Ddq1LE_38.845000_-77.348890@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907657,
     "wof:geomhash":"58fc0bc2eca04df4b7ee7df8bf9be1d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739456753
+        }
+    ],
     "wof:id":739456753,
-    "wof:lastmodified":1472651594,
+    "wof:lastmodified":1492033057,
     "wof:name":"Decorative Finishes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

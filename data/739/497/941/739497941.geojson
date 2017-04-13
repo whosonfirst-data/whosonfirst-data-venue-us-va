@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.749934,37.308588,-76.749934,37.308588",
     "geom:latitude":37.308588,
     "geom:longitude":-76.749934,
@@ -28,7 +29,10 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pzWgLQQjUOzfa7RN8t4z1_37.308588_-76.749934@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461908391,
     "wof:geomhash":"395fd751c4042d2f3f92616e1a5f22eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":739497941
+        }
+    ],
     "wof:id":739497941,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492029704,
     "wof:name":"LA Petite Academy",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

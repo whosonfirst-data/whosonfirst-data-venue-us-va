@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.653317,38.922213,-77.653317,38.922213",
     "geom:latitude":38.922213,
     "geom:longitude":-77.653317,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729263,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Jl95hybgqcVE0AtAZ7I3w_38.922213_-77.653317@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904887,
     "wof:geomhash":"b76b912f49766ce7bfc122ed91c671a7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729263,
+            "region_id":85688747,
+            "venue_id":739316209
+        }
+    ],
     "wof:id":739316209,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492031812,
     "wof:name":"King Exterior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

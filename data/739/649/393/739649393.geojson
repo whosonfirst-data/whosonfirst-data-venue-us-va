@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.391908,38.665847,-77.391908,38.665847",
     "geom:latitude":38.665847,
     "geom:longitude":-77.391908,
@@ -34,7 +35,13 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729235,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11PzgffsfJaB9kKP0nNj4I_38.665847_-77.391908@1303262541"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461911482,
     "wof:geomhash":"9f0f17b8bcd559c9036df4e79cce783d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729235,
+            "region_id":85688747,
+            "venue_id":739649393
+        }
+    ],
     "wof:id":739649393,
-    "wof:lastmodified":1472652052,
+    "wof:lastmodified":1492031115,
     "wof:name":"Structured Wiring Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

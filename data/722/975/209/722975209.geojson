@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.994259,36.64015,-81.994259,36.64015",
     "geom:latitude":36.64015,
     "geom:longitude":-81.994259,
@@ -31,17 +32,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QROIVTOHiuIs0hp8thepO_36.640150_-81.994259@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892359,
-    "wof:geomhash":"cce76f3c588bb14e9dba8e2a0cd808a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3221509e7b48f25342d585dcbc8e73e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722975209
+        }
+    ],
     "wof:id":722975209,
-    "wof:lastmodified":1472652301,
+    "wof:lastmodified":1492072822,
     "wof:name":"Green Springs Rest Home",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.583351,38.297429,-77.583351,38.297429",
     "geom:latitude":38.297429,
     "geom:longitude":-77.583351,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52anbHZonGCw8kb0IZWllJ_38.297429_-77.583351@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900600,
-    "wof:geomhash":"2fa0c31be1df9d43c4f773a45f407be2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"189cd5f7377c0c079ca5f512d3e210cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723380839
+        }
+    ],
     "wof:id":723380839,
-    "wof:lastmodified":1472652121,
+    "wof:lastmodified":1492051633,
     "wof:name":"Mecon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.054517,38.719699,-77.054517,38.719699",
     "geom:latitude":38.719699,
     "geom:longitude":-77.054517,
@@ -34,15 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
-        85633793,
-        85837843,
-        102082191,
         85688747,
         102191575,
+        85633793,
         101729741,
         102084863,
-        420558305
+        420558305,
+        85688501,
+        85837843,
+        102082191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +51,8 @@
     },
     "wof:country":"US",
     "wof:created":1461894077,
-    "wof:geomhash":"5903ea7b511e2b5a9ad917b75cacd3aa",
+    "wof:geomhash":"5f9f5a679b1d445d560d4221e8d57834",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":723053225
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +61,19 @@
             "neighbourhood_id":420558305,
             "region_id":85688747,
             "venue_id":723053225
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":723053225
         }
     ],
     "wof:id":723053225,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492061081,
     "wof:name":"Wine Tasting Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

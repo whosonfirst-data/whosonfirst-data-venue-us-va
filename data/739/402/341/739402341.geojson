@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420994,38.877527,-77.420994,38.877527",
     "geom:latitude":38.877527,
     "geom:longitude":-77.420994,
@@ -33,17 +34,32 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46P6g5bJOk5XDtwMDEA9sj_38.877527_-77.420994@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906623,
-    "wof:geomhash":"b32a0695cf5ff865ea4606102ab73de9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abbeaddc85deae98dcb922602afce74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739402341
+        }
+    ],
     "wof:id":739402341,
-    "wof:lastmodified":1472651462,
+    "wof:lastmodified":1492040297,
     "wof:name":"Glass Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

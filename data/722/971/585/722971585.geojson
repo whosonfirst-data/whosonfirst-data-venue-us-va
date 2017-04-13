@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.911105,37.263108,-79.911105,37.263108",
     "geom:latitude":37.263108,
     "geom:longitude":-79.911105,
@@ -36,17 +37,32 @@
         "railroad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EyDF9hjWc9gkjo6JL5zKb_37.263108_-79.911105@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892282,
-    "wof:geomhash":"f3c253bba6bb6b2d1e8d3570bd0b0a2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51f181be4cae2ccf47390c478521fc88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722971585
+        }
+    ],
     "wof:id":722971585,
-    "wof:lastmodified":1472652313,
+    "wof:lastmodified":1492062696,
     "wof:name":"Stultz Machine Tools & Equip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.421099,37.199329,-76.421099,37.199329",
     "geom:latitude":37.199329,
     "geom:longitude":-76.421099,
@@ -32,17 +33,26 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s6B699pEYhbA4PrBEB3yE_37.199329_-76.421099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892359,
-    "wof:geomhash":"14210449c32d4858aec08769b3ceff24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86eac5ae8edd16e26d41825c200e14d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":722975203
+        }
+    ],
     "wof:id":722975203,
-    "wof:lastmodified":1472652301,
+    "wof:lastmodified":1492072816,
     "wof:name":"Thirty Nine Design Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

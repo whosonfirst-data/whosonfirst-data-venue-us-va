@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.35475,39.03531,-77.35475,39.03531",
     "geom:latitude":39.03531,
     "geom:longitude":-77.35475,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dZa83hu4lHuLBmY9XDFsP_39.035310_-77.354750@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893215,
-    "wof:geomhash":"3d33010f4d3e13e15ac55ff5c54992df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44e4ee9a9475e99b756b9b485f6a5a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":723013737
+        }
+    ],
     "wof:id":723013737,
-    "wof:lastmodified":1472651119,
+    "wof:lastmodified":1492054080,
     "wof:name":"Beyer Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

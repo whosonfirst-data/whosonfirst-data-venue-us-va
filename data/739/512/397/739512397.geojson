@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.586722,36.975919,-76.586722,36.975919",
     "geom:latitude":36.975919,
     "geom:longitude":-76.586722,
@@ -32,7 +33,12 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SYUQUdJdrJQovenYyDdgq_36.975919_-76.586722@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908653,
     "wof:geomhash":"47f25a23ec6328503d61f3212966ac4f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739512397
+        }
+    ],
     "wof:id":739512397,
-    "wof:lastmodified":1472651785,
+    "wof:lastmodified":1492031348,
     "wof:name":"Glenn Ormsby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

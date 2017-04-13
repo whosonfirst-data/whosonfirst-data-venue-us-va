@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.528715,38.99795,-77.528715,38.99795",
     "geom:latitude":38.99795,
     "geom:longitude":-77.528715,
@@ -28,7 +29,13 @@
     "sg:postcode":"20148",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729447,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LhIt97OnFPcwKuz65WpWU_38.997950_-77.528715@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906011,
     "wof:geomhash":"3bcc5dadc8cc0aaaa1ca8b991d3d90a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729447,
+            "region_id":85688747,
+            "venue_id":739370849
+        }
+    ],
     "wof:id":739370849,
-    "wof:lastmodified":1472651370,
+    "wof:lastmodified":1492031019,
     "wof:name":"National Recreation & Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

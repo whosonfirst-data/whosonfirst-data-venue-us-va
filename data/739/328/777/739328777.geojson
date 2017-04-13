@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.254945,36.72262,-77.254945,36.72262",
     "geom:latitude":36.72262,
     "geom:longitude":-77.254945,
@@ -34,17 +35,30 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s9JYE33VbcfqasWnhF7VQ_36.722620_-77.254945@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905151,
-    "wof:geomhash":"7d8926bda31af5693659bfc6ecf89c4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40719893602b10eb1fe6c34a38317990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":739328777
+        }
+    ],
     "wof:id":739328777,
-    "wof:lastmodified":1472651279,
+    "wof:lastmodified":1492040928,
     "wof:name":"Southampton Correctional Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

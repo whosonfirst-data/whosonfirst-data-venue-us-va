@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.427645,38.074753,-77.427645,38.074753",
     "geom:latitude":38.074753,
     "geom:longitude":-77.427645,
@@ -31,7 +32,12 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rBpbZDhrQ4RcPDTXKKVhF_38.074753_-77.427645@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906208,
     "wof:geomhash":"3d93b4303786fafaeff5e9de7fbf81b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739380583
+        }
+    ],
     "wof:id":739380583,
-    "wof:lastmodified":1472651349,
+    "wof:lastmodified":1492033076,
     "wof:name":"John Cephas Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

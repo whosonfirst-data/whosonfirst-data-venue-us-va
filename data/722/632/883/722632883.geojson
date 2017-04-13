@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.342432,37.029222,-76.342432,37.029222",
     "geom:latitude":37.029222,
     "geom:longitude":-76.342432,
@@ -37,6 +38,7 @@
         85633793,
         101728661,
         102084913,
+        85816385,
         85810639
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461885702,
-    "wof:geomhash":"fbd77505ff867cfa5ecb1722bf1daf20",
+    "wof:geomhash":"c62d039f68a63e13e0ef7475e9ffa87e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85816385,
+            "region_id":85688747,
+            "venue_id":722632883
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722632883,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492070083,
     "wof:name":"Deborah Shipman MD",
-    "wof:parent_id":85810639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

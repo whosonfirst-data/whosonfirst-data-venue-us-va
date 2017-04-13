@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.299933,38.817746,-77.299933,38.817746",
     "geom:latitude":38.817746,
     "geom:longitude":-77.299933,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729823,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MxXxMO14VSCgdPy92jpZ8_38.817746_-77.299933@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905819,
-    "wof:geomhash":"a864d5c1bef9fcf683e002f488128ca6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56c963de37697ce9cec1ffd775e5285b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729823,
+            "region_id":85688747,
+            "venue_id":739360241
+        }
+    ],
     "wof:id":739360241,
-    "wof:lastmodified":1472651336,
+    "wof:lastmodified":1492038287,
     "wof:name":"Price Water House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441779,37.542839,-77.441779,37.542839",
     "geom:latitude":37.542839,
     "geom:longitude":-77.441779,
@@ -37,7 +38,8 @@
         85633793,
         101728675,
         102085959,
-        85880297
+        85880297,
+        420548309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461901126,
-    "wof:geomhash":"3746c594075569bc9978df75d542bd6c",
+    "wof:geomhash":"83c711f080971d0544872f586a1831bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85880297,
             "region_id":85688747,
             "venue_id":723407873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":420548309,
+            "region_id":85688747,
+            "venue_id":723407873
         }
     ],
     "wof:id":723407873,
-    "wof:lastmodified":1472652181,
+    "wof:lastmodified":1492055083,
     "wof:name":"Linden Row Inn",
-    "wof:parent_id":85880297,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

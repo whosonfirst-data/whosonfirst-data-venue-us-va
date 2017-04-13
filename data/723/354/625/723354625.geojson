@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.840517,37.746574,-77.840517,37.746574",
     "geom:latitude":37.746574,
     "geom:longitude":-77.840517,
@@ -32,17 +33,30 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FgYKi6APpglnUNdQvHTF9_37.746574_-77.840517@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900081,
-    "wof:geomhash":"1f988049988aff0d368084460f30b1fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd49423bfc3f33172472ea8a35a81664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":723354625
+        }
+    ],
     "wof:id":723354625,
-    "wof:lastmodified":1472652054,
+    "wof:lastmodified":1492060542,
     "wof:name":"AIG Royal Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

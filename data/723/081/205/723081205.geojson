@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.554698,37.12659,-81.554698,37.12659",
     "geom:latitude":37.12659,
     "geom:longitude":-81.554698,
@@ -32,17 +33,26 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15mDGHlZgmV0GYIa3umNII_37.126590_-81.554698@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894734,
-    "wof:geomhash":"7ff16a8a1a90fc3c86fa71c926239dea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10f4af3d4c34f6a3781ed2fcb5b5d6f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723081205
+        }
+    ],
     "wof:id":723081205,
-    "wof:lastmodified":1472651267,
+    "wof:lastmodified":1492050499,
     "wof:name":"Tazewell Childrens Clinic",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

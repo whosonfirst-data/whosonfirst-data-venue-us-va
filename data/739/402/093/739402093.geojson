@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.73522,37.321769,-76.73522,37.321769",
     "geom:latitude":37.321769,
     "geom:longitude":-76.73522,
@@ -31,19 +32,28 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A98mLtZUPEHzpoTcmrSoE_37.321769_-76.735220@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906619,
-    "wof:geomhash":"c564a967608d1469028db926b0cbc942",
-    "wof:hierarchy":[],
+    "wof:geomhash":"008aceb1b8aa66531fcdf9de3fdfd870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739402093
+        }
+    ],
     "wof:id":739402093,
-    "wof:lastmodified":1472651447,
+    "wof:lastmodified":1492040316,
     "wof:name":"Fish & Game Department",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

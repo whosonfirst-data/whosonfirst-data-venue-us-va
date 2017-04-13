@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.119589,39.179304,-78.119589,39.179304",
     "geom:latitude":39.179304,
     "geom:longitude":-78.119589,
@@ -28,7 +29,12 @@
     "sg:postcode":"22602",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084901
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WnZ48QrTlDcEJuhz59izN_39.179304_-78.119589@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908385,
     "wof:geomhash":"43512adddc27180aed39f454750da04c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084901,
+            "region_id":85688747,
+            "venue_id":739497565
+        }
+    ],
     "wof:id":739497565,
-    "wof:lastmodified":1472651690,
+    "wof:lastmodified":1492029690,
     "wof:name":"Sunrise Glass Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

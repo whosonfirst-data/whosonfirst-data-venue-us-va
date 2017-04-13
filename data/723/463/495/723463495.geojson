@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.502113,37.087844,-76.502113,37.087844",
     "geom:latitude":37.087844,
     "geom:longitude":-76.502113,
@@ -41,7 +42,8 @@
         85633793,
         101729041,
         102085961,
-        420548047
+        420548047,
+        85833763
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461902199,
-    "wof:geomhash":"5c407bbf432566ba5a2db868fac32bc5",
+    "wof:geomhash":"66bf1ef338c43d8350a51d8de9adec1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,21 @@
             "neighbourhood_id":420548047,
             "region_id":85688747,
             "venue_id":723463495
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85833763,
+            "region_id":85688747,
+            "venue_id":723463495
         }
     ],
     "wof:id":723463495,
-    "wof:lastmodified":1472652307,
+    "wof:lastmodified":1492056394,
     "wof:name":"Warwick Custom Kitchens",
-    "wof:parent_id":420548047,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

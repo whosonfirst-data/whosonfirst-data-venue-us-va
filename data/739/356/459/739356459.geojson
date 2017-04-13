@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.527926,38.990721,-77.527926,38.990721",
     "geom:latitude":38.990721,
     "geom:longitude":-77.527926,
@@ -39,7 +40,13 @@
         "cable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729447,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NTKsNKPkZbFkgviyoTgTK_38.990721_-77.527926@1294252573"
@@ -47,9 +54,18 @@
     "wof:country":"US",
     "wof:created":1461905747,
     "wof:geomhash":"a8d337314c9e735ca7cfcd7d5a88168c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729447,
+            "region_id":85688747,
+            "venue_id":739356459
+        }
+    ],
     "wof:id":739356459,
-    "wof:lastmodified":1472651340,
+    "wof:lastmodified":1492030458,
     "wof:name":"Gatehouse Networks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

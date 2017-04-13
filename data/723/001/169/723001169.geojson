@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380541,38.288772,-77.380541,38.288772",
     "geom:latitude":38.288772,
     "geom:longitude":-77.380541,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U9qVbFEcooShcz14mbCts_38.288772_-77.380541@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892928,
-    "wof:geomhash":"218ff9f72cdf863a8019f32801290d87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee345ce4b020c3b44458f924f1bb144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":723001169
+        }
+    ],
     "wof:id":723001169,
-    "wof:lastmodified":1472651071,
+    "wof:lastmodified":1492053444,
     "wof:name":"Gills Electric Service",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

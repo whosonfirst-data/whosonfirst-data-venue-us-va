@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.818755,37.521544,-77.818755,37.521544",
     "geom:latitude":37.521544,
     "geom:longitude":-77.818755,
@@ -39,17 +40,30 @@
         "hand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54EqMAAlb9FkZ731mIeM30_37.521544_-77.818755@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912808,
-    "wof:geomhash":"248393c515380949044fa48e659d3ed7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"085e152d952ee1fe5aaf348e2403363c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739711411
+        }
+    ],
     "wof:id":739711411,
-    "wof:lastmodified":1472652184,
+    "wof:lastmodified":1492045015,
     "wof:name":"Encore Consignments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

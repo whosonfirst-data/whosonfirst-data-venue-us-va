@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.840252,37.356034,-79.840252,37.356034",
     "geom:latitude":37.356034,
     "geom:longitude":-79.840252,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729613,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zE5ElM46UhSgomifCs7tM_37.356034_-79.840252@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892089,
-    "wof:geomhash":"0b9ea2fe1523fac98812cb8bcde1e872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee45b71daf0a1ea11213de644fa30aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729613,
+            "region_id":85688747,
+            "venue_id":722962619
+        }
+    ],
     "wof:id":722962619,
-    "wof:lastmodified":1472652300,
+    "wof:lastmodified":1492067881,
     "wof:name":"Adams Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

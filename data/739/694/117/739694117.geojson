@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.403826,37.944261,-76.403826,37.944261",
     "geom:latitude":37.944261,
     "geom:longitude":-76.403826,
@@ -28,7 +29,12 @@
     "sg:postcode":"22473",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SYWNwBK9TyYSjBHsZ2rTw_37.944261_-76.403826@1303262547"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912421,
     "wof:geomhash":"42e4328def34737f5cbdffa94d4456db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694117
+        }
+    ],
     "wof:id":739694117,
-    "wof:lastmodified":1472652155,
+    "wof:lastmodified":1492030246,
     "wof:name":"Gumps Seafood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.344739,37.078537,-76.344739,37.078537",
     "geom:latitude":37.078537,
     "geom:longitude":-76.344739,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hIj9XhNdg8obJOBNIqFVo_37.078537_-76.344739@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889915,
-    "wof:geomhash":"6f2aeb17d0882cb414b1b02fd3167b92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c8465037a7aeca528a8c55cd1875858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":722855081
+        }
+    ],
     "wof:id":722855081,
-    "wof:lastmodified":1472651981,
+    "wof:lastmodified":1492070206,
     "wof:name":"Langley Air Force",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

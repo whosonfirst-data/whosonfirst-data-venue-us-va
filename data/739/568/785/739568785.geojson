@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454453,37.602281,-77.454453,37.602281",
     "geom:latitude":37.602281,
     "geom:longitude":-77.454453,
@@ -29,17 +30,30 @@
     "sg:province":"VA",
     "sg:website":"http://www.lacasitarestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UIFfqtJZvKPD86628gzFy_37.602023_-77.454509@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909756,
-    "wof:geomhash":"175e1fdfd5e03a46415ecafb36dab95c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95dbf75892c8402fd92ad617c7bd45ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739568785
+        }
+    ],
     "wof:id":739568785,
-    "wof:lastmodified":1472651916,
+    "wof:lastmodified":1492043559,
     "wof:name":"La Casita",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

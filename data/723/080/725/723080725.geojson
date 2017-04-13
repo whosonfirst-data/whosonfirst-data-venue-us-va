@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.264433,37.439146,-78.264433,37.439146",
     "geom:latitude":37.439146,
     "geom:longitude":-78.264433,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086713
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EfzaLNXai5GkseAKlaCUA_37.439146_-78.264433@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894716,
-    "wof:geomhash":"95085a56d1663b47fbb4e966ce99fb65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58473d10848fc9c1445a27d32dde8015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086713,
+            "region_id":85688747,
+            "venue_id":723080725
+        }
+    ],
     "wof:id":723080725,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492055377,
     "wof:name":"Claude Meinhard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

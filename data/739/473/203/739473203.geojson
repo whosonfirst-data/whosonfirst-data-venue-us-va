@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.466482,38.880018,-78.466482,38.880018",
     "geom:latitude":38.880018,
     "geom:longitude":-78.466482,
@@ -28,7 +29,12 @@
     "sg:postcode":"22664",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EAKGyr9g24lBxh4iQ7iF3_38.880018_-78.466482@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907948,
     "wof:geomhash":"96046d26566e4f6c111d951630d98f11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739473203
+        }
+    ],
     "wof:id":739473203,
-    "wof:lastmodified":1472651609,
+    "wof:lastmodified":1492032904,
     "wof:name":"W & W Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

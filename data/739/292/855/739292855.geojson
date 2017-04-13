@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488779,37.508596,-77.488779,37.508596",
     "geom:latitude":37.508596,
     "geom:longitude":-77.488779,
@@ -28,7 +29,13 @@
     "sg:postcode":"23225",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wz1mgYuQG1XUsKgeDw9Vu_37.508596_-77.488779@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904424,
     "wof:geomhash":"6c7c3f9d3f7121edadee5e402798adbd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739292855
+        }
+    ],
     "wof:id":739292855,
-    "wof:lastmodified":1472651209,
+    "wof:lastmodified":1492033218,
     "wof:name":"All U Need Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

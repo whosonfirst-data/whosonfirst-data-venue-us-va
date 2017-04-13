@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.659282,37.244955,-76.659282,37.244955",
     "geom:latitude":37.244955,
     "geom:longitude":-76.659282,
@@ -33,7 +34,12 @@
         "asian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6imlaXs5DUq19u0oXvG2gQ_37.244955_-76.659282@1299784598"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461910127,
     "wof:geomhash":"f99697dc241b6b316bf5e08d074bcd52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":739586257
+        }
+    ],
     "wof:id":739586257,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492031886,
     "wof:name":"Emerald Thai Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

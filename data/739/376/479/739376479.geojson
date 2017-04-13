@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.428355,37.169595,-76.428355,37.169595",
     "geom:latitude":37.169595,
     "geom:longitude":-76.428355,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oEQlvjYTOd5qBRS1yg7B4_37.169595_-76.428355@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906125,
-    "wof:geomhash":"3cff71c3374b3b8c07ddb56a62529ec1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8e1719e29a1feff74102962aa06f708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739376479
+        }
+    ],
     "wof:id":739376479,
-    "wof:lastmodified":1472651352,
+    "wof:lastmodified":1492045193,
     "wof:name":"Edwards & Edwards",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

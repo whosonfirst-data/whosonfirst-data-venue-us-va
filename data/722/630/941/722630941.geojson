@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.538552,38.871006,-78.538552,38.871006",
     "geom:latitude":38.871006,
     "geom:longitude":-78.538552,
@@ -31,17 +32,30 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22RSHS10gnIW0m3wTVR6EE_38.871006_-78.538552@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885642,
-    "wof:geomhash":"cb1411eaba82586ca895fe20934a2971",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7be8cdcaffaf05212fa20d0366b3468a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":722630941
+        }
+    ],
     "wof:id":722630941,
-    "wof:lastmodified":1472651427,
+    "wof:lastmodified":1492070956,
     "wof:name":"R Day",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

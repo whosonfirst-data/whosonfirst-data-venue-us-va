@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.897036,38.070914,-78.897036,38.070914",
     "geom:latitude":38.070914,
     "geom:longitude":-78.897036,
@@ -31,7 +32,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a8u6F0l0EhUGukiyNn5ex_38.070914_-78.897036@1303262548"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461912752,
     "wof:geomhash":"365b112a749a009585c252419f504915",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739708555
+        }
+    ],
     "wof:id":739708555,
-    "wof:lastmodified":1472652201,
+    "wof:lastmodified":1492030768,
     "wof:name":"Wrap-It Mail Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

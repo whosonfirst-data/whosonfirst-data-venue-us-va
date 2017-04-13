@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.93326,37.283107,-79.93326,37.283107",
     "geom:latitude":37.283107,
     "geom:longitude":-79.93326,
@@ -31,7 +32,13 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23NBlkeaAWGInoSDsI4DQZ_37.283107_-79.933260@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907630,
     "wof:geomhash":"db93fd5bb8b48b7196e571eb6d0c5eb6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739455131
+        }
+    ],
     "wof:id":739455131,
-    "wof:lastmodified":1472651555,
+    "wof:lastmodified":1492032961,
     "wof:name":"Sheetz Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

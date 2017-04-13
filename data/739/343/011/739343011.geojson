@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.397274,36.613783,-79.397274,36.613783",
     "geom:latitude":36.613783,
     "geom:longitude":-79.397274,
@@ -28,7 +29,13 @@
     "sg:postcode":"24540",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728985,
+        102087259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NZQG6LUseAblQmM3a22hW_36.613783_-79.397274@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905444,
     "wof:geomhash":"604b5a174ca97954c498aefa0f33eb46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087259,
+            "locality_id":101728985,
+            "region_id":85688747,
+            "venue_id":739343011
+        }
+    ],
     "wof:id":739343011,
-    "wof:lastmodified":1472651260,
+    "wof:lastmodified":1492032169,
     "wof:name":"E & M Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.669687,37.512106,-77.669687,37.512106",
     "geom:latitude":37.512106,
     "geom:longitude":-77.669687,
@@ -31,17 +32,30 @@
         "inventory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mgYVjsDPQYbv54xpZUetT_37.512106_-77.669687@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898884,
-    "wof:geomhash":"dcfbb9c1894553a61f8587c2ee114a07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c297bd2716e43320cf2c91ccec066113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723290461
+        }
+    ],
     "wof:id":723290461,
-    "wof:lastmodified":1472651785,
+    "wof:lastmodified":1492051294,
     "wof:name":"Virginia Home Inventory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

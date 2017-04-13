@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.549185,37.848482,-78.549185,37.848482",
     "geom:latitude":37.848482,
     "geom:longitude":-78.549185,
@@ -31,7 +32,12 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72Byzu9alaIL3SYi4JfZCh_37.848482_-78.549185@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908904,
     "wof:geomhash":"1242b63127fd0e9f56960940b86f7eb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739525979
+        }
+    ],
     "wof:id":739525979,
-    "wof:lastmodified":1472651849,
+    "wof:lastmodified":1492032637,
     "wof:name":"Grayson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

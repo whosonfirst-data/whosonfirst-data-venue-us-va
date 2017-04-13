@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.269078,36.910658,-81.269078,36.910658",
     "geom:latitude":36.910658,
     "geom:longitude":-81.269078,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Acd0dfb8YJ9ZqVYafgbkZ_36.910658_-81.269078@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890487,
-    "wof:geomhash":"f73daf62ebb3bbe62906b03eb620525a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95a380fdb390528518f7458f370d112f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722885173
+        }
+    ],
     "wof:id":722885173,
-    "wof:lastmodified":1472652039,
+    "wof:lastmodified":1492065926,
     "wof:name":"Holston Trucking Co Inc",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

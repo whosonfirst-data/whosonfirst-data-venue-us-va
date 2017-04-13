@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.484439,38.470786,-77.484439,38.470786",
     "geom:latitude":38.470786,
     "geom:longitude":-77.484439,
@@ -41,17 +42,26 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M69biHRhL64UIv7DqBUNp_38.470786_-77.484439@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912445,
-    "wof:geomhash":"cf408e254caaac9e300830cff85b68a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59c011931a5f7dc57911064b1d69e284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547127,
+            "venue_id":739695093
+        }
+    ],
     "wof:id":739695093,
-    "wof:lastmodified":1472652159,
+    "wof:lastmodified":1492045366,
     "wof:name":"Noel Phinney",
     "wof:parent_id":420547127,
     "wof:placetype":"venue",

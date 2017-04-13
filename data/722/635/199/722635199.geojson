@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.521383,38.795575,-77.521383,38.795575",
     "geom:latitude":38.795575,
     "geom:longitude":-77.521383,
@@ -32,17 +33,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kvZmfMd1Weps1nm5ZSUgq_38.795575_-77.521383@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885749,
-    "wof:geomhash":"2f713b4d1bfff04ec117da4c9b67487c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a31815deb11b60992dccd1418add221d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":722635199
+        }
+    ],
     "wof:id":722635199,
-    "wof:lastmodified":1472651404,
+    "wof:lastmodified":1492067477,
     "wof:name":"Fashion Bug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

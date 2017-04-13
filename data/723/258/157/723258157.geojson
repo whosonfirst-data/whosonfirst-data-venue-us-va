@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.834597,37.139178,-76.834597,37.139178",
     "geom:latitude":37.139178,
     "geom:longitude":-76.834597,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tC2NuzM7qlVFR5298ND2e_37.139178_-76.834597@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898274,
-    "wof:geomhash":"8fedad9a3bbc5491ecd2a31dddc78c5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fa1f9b8fb2ccf6296d68f66bb0eec83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":723258157
+        }
+    ],
     "wof:id":723258157,
-    "wof:lastmodified":1472651679,
+    "wof:lastmodified":1492053087,
     "wof:name":"Farmer Joe's Greenhouse & Gdn",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

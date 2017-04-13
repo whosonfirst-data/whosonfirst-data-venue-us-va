@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533481,39.026219,-77.533481,39.026219",
     "geom:latitude":39.026219,
     "geom:longitude":-77.533481,
@@ -28,7 +29,12 @@
     "sg:postcode":"20148",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12qx0gkmzNZfJfftyZtCgg_39.026219_-77.533481@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908313,
     "wof:geomhash":"92b85c5eb4149800bcd5e4881f6b678e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739493241
+        }
+    ],
     "wof:id":739493241,
-    "wof:lastmodified":1472651675,
+    "wof:lastmodified":1492029953,
     "wof:name":"Kgd Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

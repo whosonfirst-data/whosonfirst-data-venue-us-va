@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.991756,37.82452,-75.991756,37.82452",
     "geom:latitude":37.82452,
     "geom:longitude":-75.991756,
@@ -28,7 +29,13 @@
     "sg:postcode":"23440",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728943,
+        102081415
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Czvk5xfRm4ShZCWVsOmrL_37.824520_-75.991756@1303262551"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913188,
     "wof:geomhash":"b1f105f72efd0c63da4ccc97704b77d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081415,
+            "locality_id":101728943,
+            "region_id":85688747,
+            "venue_id":739730027
+        }
+    ],
     "wof:id":739730027,
-    "wof:lastmodified":1472652215,
+    "wof:lastmodified":1492033172,
     "wof:name":"Hilda Crockett's Chesapeake House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

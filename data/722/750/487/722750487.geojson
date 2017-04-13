@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.109943,37.351571,-79.109943,37.351571",
     "geom:latitude":37.351571,
     "geom:longitude":-79.109943,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a8No3PgWc6zCwrcyNnIiD_37.351571_-79.109943@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887946,
-    "wof:geomhash":"dcfff19665fb73919d4d9a2561c66a42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe1b7a1673b598e2a9ef1a944e5356fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":722750487
+        }
+    ],
     "wof:id":722750487,
-    "wof:lastmodified":1472651698,
+    "wof:lastmodified":1492064216,
     "wof:name":"Fred Fauber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.875616,36.677694,-79.875616,36.677694",
     "geom:latitude":36.677694,
     "geom:longitude":-79.875616,
@@ -31,17 +32,32 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tq2rR81UpzGLQCNJOMLNo_36.677694_-79.875616@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884193,
-    "wof:geomhash":"c28a9c56aa62d1baad9d25acf130bde8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e1aa2c9ea443edc75d460fd0cfe47b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":722559455
+        }
+    ],
     "wof:id":722559455,
-    "wof:lastmodified":1472651115,
+    "wof:lastmodified":1492075022,
     "wof:name":"City Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

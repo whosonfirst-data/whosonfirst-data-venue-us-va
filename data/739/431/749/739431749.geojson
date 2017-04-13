@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.384768,37.99876,-78.384768,37.99876",
     "geom:latitude":37.99876,
     "geom:longitude":-78.384768,
@@ -31,7 +32,13 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729623,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47Pz6lhJBL2jNfZ1vWe2ZX_37.998760_-78.384768@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907196,
     "wof:geomhash":"e9a6c4936984f885e490ae5435594a12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729623,
+            "region_id":85688747,
+            "venue_id":739431749
+        }
+    ],
     "wof:id":739431749,
-    "wof:lastmodified":1472651541,
+    "wof:lastmodified":1492033101,
     "wof:name":"Glenmore Equestrian Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.989757,36.709247,-81.989757,36.709247",
     "geom:latitude":36.709247,
     "geom:longitude":-81.989757,
@@ -33,17 +34,26 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MHtrFw51eua6xUaxgxM08_36.709247_-81.989757@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900316,
-    "wof:geomhash":"653c1add6f8f3c822fc732253bb648c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4468f31f3c80ae245f7635687f9cb0dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723366705
+        }
+    ],
     "wof:id":723366705,
-    "wof:lastmodified":1472652083,
+    "wof:lastmodified":1492055681,
     "wof:name":"Carol Mink",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

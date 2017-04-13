@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.000879,37.763112,-80.000879,37.763112",
     "geom:latitude":37.763112,
     "geom:longitude":-80.000879,
@@ -32,19 +33,36 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728707,
+        102085937,
+        420547933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01rgqSshRm3t8tLPngnJVK_37.763112_-80.000879@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886164,
-    "wof:geomhash":"b1f783e4846fb317e4b11fa623d2e5fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b15a84ee17d35ecd1c118e971b68b35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085937,
+            "locality_id":101728707,
+            "neighbourhood_id":420547933,
+            "region_id":85688747,
+            "venue_id":722657821
+        }
+    ],
     "wof:id":722657821,
-    "wof:lastmodified":1472651490,
+    "wof:lastmodified":1492068196,
     "wof:name":"Dave's Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547933,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

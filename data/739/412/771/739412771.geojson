@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.494826,37.117037,-81.494826,37.117037",
     "geom:latitude":37.117037,
     "geom:longitude":-81.494826,
@@ -34,19 +35,28 @@
     ],
     "sg:website":"www.ams-inc.info",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NrU7qLdcNW9uWH5Zvtock_37.117037_-81.494826@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906818,
-    "wof:geomhash":"a47eacf0fc7186aabeffc0239aee65bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d732678a396e9a63912dab089a63d76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":739412771
+        }
+    ],
     "wof:id":739412771,
-    "wof:lastmodified":1472651494,
+    "wof:lastmodified":1492040609,
     "wof:name":"AMS Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

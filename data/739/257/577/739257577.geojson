@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.557104,37.139918,-76.557104,37.139918",
     "geom:latitude":37.139918,
     "geom:longitude":-76.557104,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tom5TSNeQuK95t9VRrgzi_37.139918_-76.557104@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903648,
-    "wof:geomhash":"5819ed3cc0dafa4018d056b52f38006a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c16bc10589def4a4e414a3e6ef245334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739257577
+        }
+    ],
     "wof:id":739257577,
-    "wof:lastmodified":1472651111,
+    "wof:lastmodified":1492041907,
     "wof:name":"Stripe It",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.613857,37.518999,-77.613857,37.518999",
     "geom:latitude":37.518999,
     "geom:longitude":-77.613857,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5acsInalj5u7Y4HktehwC1_37.518999_-77.613857@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913062,
-    "wof:geomhash":"447b8d7e31dc41659f2f873a1c058fe1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27ebab702e495aa1c1acc14838edf857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":739723483
+        }
+    ],
     "wof:id":739723483,
-    "wof:lastmodified":1472652237,
+    "wof:lastmodified":1492041587,
     "wof:name":"Benefits Administration Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

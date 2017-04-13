@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.495047,38.247462,-77.495047,38.247462",
     "geom:latitude":38.247462,
     "geom:longitude":-77.495047,
@@ -34,17 +35,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RVWciZFEQO6YhHCvfWRNy_38.247462_-77.495047@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885504,
-    "wof:geomhash":"d51b65a45ebcd8b4885ab2257ec39acc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa1064777a5247fa43d32fdf6356067a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722625479
+        }
+    ],
     "wof:id":722625479,
-    "wof:lastmodified":1472651410,
+    "wof:lastmodified":1492068375,
     "wof:name":"Hydro-Dynamics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

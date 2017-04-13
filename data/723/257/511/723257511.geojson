@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.988365,38.009714,-77.988365,38.009714",
     "geom:latitude":38.009714,
     "geom:longitude":-77.988365,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728949,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KavUbnshOCS0hcfXesCkz_38.009714_-77.988365@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898261,
-    "wof:geomhash":"2eb0f8d5e325f82fb4fe97a6c70784a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cbc0e4a3892e2367e1706933edb12cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "locality_id":101728949,
+            "region_id":85688747,
+            "venue_id":723257511
+        }
+    ],
     "wof:id":723257511,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492057150,
     "wof:name":"Louisa Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

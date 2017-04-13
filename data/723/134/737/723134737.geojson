@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.062358,36.666917,-82.062358,36.666917",
     "geom:latitude":36.666917,
     "geom:longitude":-82.062358,
@@ -31,19 +32,28 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o16xnAmm2fIUiX88vctOR_36.666917_-82.062358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895788,
-    "wof:geomhash":"2b0586faddcf6d24b1a61f8568bcbc2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eb4acee776da64da009213569adb47b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723134737
+        }
+    ],
     "wof:id":723134737,
-    "wof:lastmodified":1472651408,
+    "wof:lastmodified":1492050134,
     "wof:name":"Triple L Wood",
-    "wof:parent_id":420547307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

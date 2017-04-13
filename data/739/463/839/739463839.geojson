@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.455094,37.69989,-77.455094,37.69989",
     "geom:latitude":37.69989,
     "geom:longitude":-77.455094,
@@ -33,17 +34,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_301tqoJ2Yy5Kw673A4C4i6_37.699890_-77.455094@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907780,
-    "wof:geomhash":"0f97630f8297ba9667cfca19a2757737",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c2ad75ebe5e439ba83e26c0e651399a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739463839
+        }
+    ],
     "wof:id":739463839,
-    "wof:lastmodified":1472651630,
+    "wof:lastmodified":1492041104,
     "wof:name":"America Remembers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

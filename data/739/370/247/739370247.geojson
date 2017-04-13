@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.838543,38.093936,-76.838543,38.093936",
     "geom:latitude":38.093936,
     "geom:longitude":-76.838543,
@@ -28,7 +29,13 @@
     "sg:postcode":"22520",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729003,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56RJKyLfqssAcpeB0fN3Db_38.093936_-76.838543@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906000,
     "wof:geomhash":"9933a011a9e822efd2313fe8f24d3510",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "locality_id":101729003,
+            "region_id":85688747,
+            "venue_id":739370247
+        }
+    ],
     "wof:id":739370247,
-    "wof:lastmodified":1472651344,
+    "wof:lastmodified":1492031004,
     "wof:name":"Smart Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

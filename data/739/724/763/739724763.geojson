@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.617806,37.496834,-77.617806,37.496834",
     "geom:latitude":37.496834,
     "geom:longitude":-77.617806,
@@ -31,7 +32,12 @@
         "floors-industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fLXvw5nb1yk7luDxu1HoD_37.496834_-77.617806@1303262551"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461913088,
     "wof:geomhash":"fb2df42f99a5508425c27151920141aa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724763
+        }
+    ],
     "wof:id":739724763,
-    "wof:lastmodified":1472652250,
+    "wof:lastmodified":1492030951,
     "wof:name":"Ghw Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

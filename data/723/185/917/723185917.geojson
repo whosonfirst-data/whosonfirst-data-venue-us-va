@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.523676,38.78464,-77.523676,38.78464",
     "geom:latitude":38.78464,
     "geom:longitude":-77.523676,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.dwmgroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yBCBMl9IqGB4qrfRnQk0B_38.784640_-77.523676@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896804,
-    "wof:geomhash":"10bf21359c17869076bc3d339759d52b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb8b0c604b22c3a98de98093b5f800d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":723185917
+        }
+    ],
     "wof:id":723185917,
-    "wof:lastmodified":1472651541,
+    "wof:lastmodified":1492053585,
     "wof:name":"Dynamic Web Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

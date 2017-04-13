@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.482791,37.958912,-76.482791,37.958912",
     "geom:latitude":37.958912,
     "geom:longitude":-76.482791,
@@ -37,7 +38,12 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51wbEAfhUOwX2c2QQBUXrp_37.958912_-76.482791@1303262547"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461912423,
     "wof:geomhash":"2f19aad9f013903c06658fa85688aa0b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694211
+        }
+    ],
     "wof:id":739694211,
-    "wof:lastmodified":1472652168,
+    "wof:lastmodified":1492030226,
     "wof:name":"Northern Neck Seafood Lp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

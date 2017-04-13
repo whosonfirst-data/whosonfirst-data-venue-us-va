@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.673166,37.665438,-77.673166,37.665438",
     "geom:latitude":37.665438,
     "geom:longitude":-77.673166,
@@ -31,7 +32,12 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47qCTqbkplKXEjb2hfA9zp_37.665438_-77.673166@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907194,
     "wof:geomhash":"6ed5d5f7bfe254c3a02f519de33bed43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739431641
+        }
+    ],
     "wof:id":739431641,
-    "wof:lastmodified":1472651537,
+    "wof:lastmodified":1492033117,
     "wof:name":"Rosarinos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

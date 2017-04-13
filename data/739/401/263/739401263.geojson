@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.350501,39.044014,-77.350501,39.044014",
     "geom:latitude":39.044014,
     "geom:longitude":-77.350501,
@@ -28,7 +29,13 @@
     "sg:postcode":"20165",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729425,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ej95CFu4Pbf1EPWgc40nR_39.044014_-77.350501@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906603,
     "wof:geomhash":"1eb430e2ffe91fa72f4e0e83d6960fae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729425,
+            "region_id":85688747,
+            "venue_id":739401263
+        }
+    ],
     "wof:id":739401263,
-    "wof:lastmodified":1472651456,
+    "wof:lastmodified":1492032695,
     "wof:name":"Sales Mentoring Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

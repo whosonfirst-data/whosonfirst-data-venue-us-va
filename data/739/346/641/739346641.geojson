@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.006347,36.700284,-82.006347,36.700284",
     "geom:latitude":36.700284,
     "geom:longitude":-82.006347,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FKeeephYMYv2IZJQdxbvf_36.700284_-82.006347@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905536,
-    "wof:geomhash":"e94924867fe640ed0de9caa9f157b5fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a033aae7fc79b3d9ac642cabee66670e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739346641
+        }
+    ],
     "wof:id":739346641,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492042459,
     "wof:name":"Appalacian Heating & Cooling",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

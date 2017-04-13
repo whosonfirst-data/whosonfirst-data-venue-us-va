@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.189917,37.357593,-79.189917,37.357593",
     "geom:latitude":37.357593,
     "geom:longitude":-79.189917,
@@ -31,7 +32,13 @@
         "book"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sS1ByZL1w0f1vmSfFytVD_37.357593_-79.189917@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907753,
     "wof:geomhash":"3e24dad7de4be472868d7f7c59e6c076",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739462271
+        }
+    ],
     "wof:id":739462271,
-    "wof:lastmodified":1472651610,
+    "wof:lastmodified":1492033353,
     "wof:name":"Grace Bookstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.550336,36.780187,-78.550336,36.780187",
     "geom:latitude":36.780187,
     "geom:longitude":-78.550336,
@@ -32,7 +33,12 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15sT63EAn9UmDS4pwQEHrR_36.780187_-78.550336@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906912,
     "wof:geomhash":"f84fc39e06ce148d9ccc609caae68e57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739417969
+        }
+    ],
     "wof:id":739417969,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492031474,
     "wof:name":"Grant Trees House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

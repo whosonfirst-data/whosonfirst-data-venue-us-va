@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440128,38.841488,-77.440128,38.841488",
     "geom:latitude":38.841488,
     "geom:longitude":-77.440128,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BJcPIRiWJFMZmw2kmALLk_38.841488_-77.440128@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893217,
-    "wof:geomhash":"8320aba3afa0101899417c361c0b4cdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"408bb1852c5239b5bf885a6cb56a63cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723013849
+        }
+    ],
     "wof:id":723013849,
-    "wof:lastmodified":1472651122,
+    "wof:lastmodified":1492054088,
     "wof:name":"Healthiq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

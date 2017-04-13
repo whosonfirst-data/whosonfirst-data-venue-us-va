@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.640889,37.633497,-77.640889,37.633497",
     "geom:latitude":37.633497,
     "geom:longitude":-77.640889,
@@ -31,17 +32,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bDUUrbQGUCbU9nE2cnLgV_37.633497_-77.640889@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890359,
-    "wof:geomhash":"07f7fd748c73cf4d47d35d1aa4129af6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c9ace56cbdceaabacfa322e54fb36cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":722878567
+        }
+    ],
     "wof:id":722878567,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492075459,
     "wof:name":"Data I/O Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

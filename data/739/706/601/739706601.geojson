@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.51037,38.046657,-78.51037,38.046657",
     "geom:latitude":38.046657,
     "geom:longitude":-78.51037,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.johnpauljonesarena.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729633,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NQkiNXOtigJgnXyIfZwWP_38.046657_-78.510370@1303262548"
     },
     "wof:country":"US",
     "wof:created":1461912706,
-    "wof:geomhash":"25a95995c6cd989ea700db72c2af2ac0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77c812232b423892370e051249bbb19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "region_id":85688747,
+            "venue_id":739706601
+        }
+    ],
     "wof:id":739706601,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492045618,
     "wof:name":"John Paul Jones Arena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

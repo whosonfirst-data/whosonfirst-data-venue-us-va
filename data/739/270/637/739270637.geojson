@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.566528,38.332046,-77.566528,38.332046",
     "geom:latitude":38.332046,
     "geom:longitude":-77.566528,
@@ -28,19 +29,28 @@
     "sg:postcode":"22407",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4henCIeANaWFHUDFE9niUo_38.332046_-77.566528@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903928,
-    "wof:geomhash":"5b74fdffc6baf1d3166c27e9739e767b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1472171b9dc402b20f5a48c2a8de7472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":739270637
+        }
+    ],
     "wof:id":739270637,
-    "wof:lastmodified":1472651163,
+    "wof:lastmodified":1492039414,
     "wof:name":"Van Arsdall & Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

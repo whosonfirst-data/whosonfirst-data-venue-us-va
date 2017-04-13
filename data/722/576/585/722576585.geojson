@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.474179,38.394188,-77.474179,38.394188",
     "geom:latitude":38.394188,
     "geom:longitude":-77.474179,
@@ -32,17 +33,26 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OAppyL1ogaSLiBgVe4ghw_38.394188_-77.474179@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884539,
-    "wof:geomhash":"68d2a1038ec1ad42464d0d1fac80422c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"370a2b09d1f5b4226e6b743378e68a4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547251,
+            "venue_id":722576585
+        }
+    ],
     "wof:id":722576585,
-    "wof:lastmodified":1472651199,
+    "wof:lastmodified":1492071929,
     "wof:name":"Sara's Accounting & Tax Svc",
     "wof:parent_id":420547251,
     "wof:placetype":"venue",

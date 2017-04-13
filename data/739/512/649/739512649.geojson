@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758168,37.270259,-76.758168,37.270259",
     "geom:latitude":37.270259,
     "geom:longitude":-76.758168,
@@ -33,7 +34,10 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mVp6QGvu9UU5GysvqrQpa_37.270259_-76.758168@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461908657,
     "wof:geomhash":"92f82d336c5694ee967d53cae10a7683",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739512649
+        }
+    ],
     "wof:id":739512649,
-    "wof:lastmodified":1472651797,
+    "wof:lastmodified":1492031331,
     "wof:name":"Electronic Boutique",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

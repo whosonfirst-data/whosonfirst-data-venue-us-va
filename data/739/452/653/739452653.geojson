@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.366769,38.277966,-77.366769,38.277966",
     "geom:latitude":38.277966,
     "geom:longitude":-77.366769,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dDCqccyn71GnhbYoa8UOY_38.277966_-77.366769@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907589,
-    "wof:geomhash":"74d1b07dbffb357deb8da227481b8c43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f606dcaf2002a76e948c7f8c2486488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":739452653
+        }
+    ],
     "wof:id":739452653,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492037513,
     "wof:name":"Hare Company Inc",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

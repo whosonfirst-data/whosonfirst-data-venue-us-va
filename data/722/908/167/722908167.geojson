@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.651498,37.043459,-79.651498,37.043459",
     "geom:latitude":37.043459,
     "geom:longitude":-79.651498,
@@ -39,17 +40,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729711,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sxE3UAZvAi3yFkxWiu99P_37.043459_-79.651498@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890953,
-    "wof:geomhash":"eaaf9e0896380d005e1c598b08167fae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"102dd83ed6ca716d1f59f4e433714490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729711,
+            "region_id":85688747,
+            "venue_id":722908167
+        }
+    ],
     "wof:id":722908167,
-    "wof:lastmodified":1472652101,
+    "wof:lastmodified":1492063738,
     "wof:name":"Oxford Management LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

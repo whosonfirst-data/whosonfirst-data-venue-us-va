@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.553147,38.741871,-77.553147,38.741871",
     "geom:latitude":38.741871,
     "geom:longitude":-77.553147,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jto0gocdgjE3F9ZUbMXLH_38.741871_-77.553147@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900641,
-    "wof:geomhash":"9a471c43d520b254549b2b082a0fa371",
-    "wof:hierarchy":[],
+    "wof:geomhash":"192b3cf8dfc3db5b1e594f91cb2cdf42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":723383033
+        }
+    ],
     "wof:id":723383033,
-    "wof:lastmodified":1472652097,
+    "wof:lastmodified":1492054228,
     "wof:name":"Brandt Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

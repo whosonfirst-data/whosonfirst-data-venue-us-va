@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.402042,38.44572,-77.402042,38.44572",
     "geom:latitude":38.44572,
     "geom:longitude":-77.402042,
@@ -28,19 +29,34 @@
     "sg:postcode":"22554",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547101,
+        420547289
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qIDZo0z0KkB1i1utOaK2S_38.445720_-77.402042@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886308,
-    "wof:geomhash":"61de7ae1655cf888c1cfaec6a3040c61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74a7eb29e20458ac605f18411c289d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547101,
+            "venue_id":722665309
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547289,
+            "venue_id":722665309
+        }
+    ],
     "wof:id":722665309,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492070746,
     "wof:name":"CVS Pharmacy",
-    "wof:parent_id":420559977,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

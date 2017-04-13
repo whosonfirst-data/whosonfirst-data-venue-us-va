@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.573655,37.468506,-77.573655,37.468506",
     "geom:latitude":37.468506,
     "geom:longitude":-77.573655,
@@ -32,17 +33,32 @@
         "blind"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729311,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p8hmJ5SA5dR9QAmVlIVW3_37.468506_-77.573655@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907738,
-    "wof:geomhash":"c1abe7ee0dc480a41706c1f2b5b8cf87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b639667e8b1aec7ed2bd288896f88955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729311,
+            "region_id":85688747,
+            "venue_id":739461345
+        }
+    ],
     "wof:id":739461345,
-    "wof:lastmodified":1472651606,
+    "wof:lastmodified":1492042316,
     "wof:name":"Dominion Contract",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

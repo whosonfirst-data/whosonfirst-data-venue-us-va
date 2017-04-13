@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.995347,37.084668,-77.995347,37.084668",
     "geom:latitude":37.084668,
     "geom:longitude":-77.995347,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728533,
+        102087251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C92xB51vK4Jjl93wkHJ35_37.084668_-77.995347@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897508,
-    "wof:geomhash":"4d4dfcc37ede0ad8803695106afe49a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21c064f91c6811380cc4fe1ce62e93c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087251,
+            "locality_id":101728533,
+            "region_id":85688747,
+            "venue_id":723220387
+        }
+    ],
     "wof:id":723220387,
-    "wof:lastmodified":1472651626,
+    "wof:lastmodified":1492051120,
     "wof:name":"Larry's Car Land",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

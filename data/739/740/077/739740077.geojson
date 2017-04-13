@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.058287,37.292722,-80.058287,37.292722",
     "geom:latitude":37.292722,
     "geom:longitude":-80.058287,
@@ -39,17 +40,32 @@
     ],
     "sg:website":"http://www.salemchampionships.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wrCCU8iyfjHQfm1Lsgxn8_37.292722_-80.058287@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913421,
-    "wof:geomhash":"bf0efcead0a2c734e7daef5499063862",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19ac543f1a5f42992b2e2e1acd661e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739740077
+        }
+    ],
     "wof:id":739740077,
-    "wof:lastmodified":1472652226,
+    "wof:lastmodified":1492040521,
     "wof:name":"Salem Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

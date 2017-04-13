@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.451406,37.325511,-80.451406,37.325511",
     "geom:latitude":37.325511,
     "geom:longitude":-80.451406,
@@ -28,7 +29,12 @@
     "sg:postcode":"24128",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084909
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V8JoSqg1B8RnjbML2KTqG_37.325511_-80.451406@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908373,
     "wof:geomhash":"4ab6ff26bd60607f6af051fe923a8113",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084909,
+            "region_id":85688747,
+            "venue_id":739496823
+        }
+    ],
     "wof:id":739496823,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492033032,
     "wof:name":"Cenpenn Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

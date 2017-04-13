@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420561,38.454223,-77.420561,38.454223",
     "geom:latitude":38.454223,
     "geom:longitude":-77.420561,
@@ -33,17 +34,26 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547145
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AhhmKeYyHarAYENpdG4Im_38.454223_-77.420561@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902213,
-    "wof:geomhash":"eddc7feeac84dd9e25b1b240840efe46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"613d41d376b5175c865121fe793fbe16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547145,
+            "venue_id":723464357
+        }
+    ],
     "wof:id":723464357,
-    "wof:lastmodified":1472652299,
+    "wof:lastmodified":1492058155,
     "wof:name":"Team Deck N Fence",
     "wof:parent_id":420547145,
     "wof:placetype":"venue",

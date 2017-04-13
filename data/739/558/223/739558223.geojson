@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.967171,38.254645,-76.967171,38.254645",
     "geom:latitude":38.254645,
     "geom:longitude":-76.967171,
@@ -26,7 +27,13 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729001,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_113dJUOzmX7nSzwo7fnMhH_38.254645_-76.967171@1294252573"
@@ -34,9 +41,18 @@
     "wof:country":"US",
     "wof:created":1461909521,
     "wof:geomhash":"9beac079c718b7e5d31f6cca3df12cf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "locality_id":101729001,
+            "region_id":85688747,
+            "venue_id":739558223
+        }
+    ],
     "wof:id":739558223,
-    "wof:lastmodified":1472651867,
+    "wof:lastmodified":1492031307,
     "wof:name":"Pearson Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

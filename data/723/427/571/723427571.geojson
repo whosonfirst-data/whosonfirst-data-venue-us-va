@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.083716,36.707929,-82.083716,36.707929",
     "geom:latitude":36.707929,
     "geom:longitude":-82.083716,
@@ -33,17 +34,26 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WbCZ0F7lMUdGfFr8dK8CT_36.707929_-82.083716@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901526,
-    "wof:geomhash":"c716976859d9cd0b15fe6c19889824bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5c4510cf4463fc29a4316376f13675e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723427571
+        }
+    ],
     "wof:id":723427571,
-    "wof:lastmodified":1472652246,
+    "wof:lastmodified":1492052655,
     "wof:name":"Edith Long",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

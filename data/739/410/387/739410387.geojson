@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.950233,37.224498,-78.950233,37.224498",
     "geom:latitude":37.224498,
     "geom:longitude":-78.950233,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ec684vBSha4MJKG6BClWW_37.224498_-78.950233@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906772,
     "wof:geomhash":"ba23fa7adb25295a9b86271fcf9f222f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "region_id":85688747,
+            "venue_id":739410387
+        }
+    ],
     "wof:id":739410387,
-    "wof:lastmodified":1472651472,
+    "wof:lastmodified":1492032280,
     "wof:name":"Coates Plumbing Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.459918,38.244414,-77.459918,38.244414",
     "geom:latitude":38.244414,
     "geom:longitude":-77.459918,
@@ -32,7 +33,12 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SZ8ngu1lvFGLCC371lAdY_38.244414_-77.459918@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909212,
     "wof:geomhash":"46e2c2f39bc423810e3367c25fdbf55c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739543053
+        }
+    ],
     "wof:id":739543053,
-    "wof:lastmodified":1472651740,
+    "wof:lastmodified":1492032325,
     "wof:name":"Rand Land Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

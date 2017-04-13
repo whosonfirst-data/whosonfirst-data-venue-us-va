@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.524104,37.11508,-81.524104,37.11508",
     "geom:latitude":37.11508,
     "geom:longitude":-81.524104,
@@ -31,17 +32,26 @@
         "disability"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JfSpAeyK4K3G1HURLX7hN_37.115080_-81.524104@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901110,
-    "wof:geomhash":"9dc099db9f255b1c59a1ceb79560f9fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4eb7f3d780c5b2debb584c599be986e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":723406947
+        }
+    ],
     "wof:id":723406947,
-    "wof:lastmodified":1472652152,
+    "wof:lastmodified":1492051851,
     "wof:name":"Tazewell County Ctr Ind Living",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

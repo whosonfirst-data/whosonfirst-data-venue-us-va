@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.359848,38.214053,-78.359848,38.214053",
     "geom:latitude":38.214053,
     "geom:longitude":-78.359848,
@@ -28,7 +29,12 @@
     "sg:postcode":"22968",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1USLTFaYM63LefDW68lj2h_38.214053_-78.359848@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907958,
     "wof:geomhash":"2f932348c0fc31cc1c9e173620216fc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739473825
+        }
+    ],
     "wof:id":739473825,
-    "wof:lastmodified":1472651638,
+    "wof:lastmodified":1492032914,
     "wof:name":"Senters Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.499957,37.12054,-81.499957,37.12054",
     "geom:latitude":37.12054,
     "geom:longitude":-81.499957,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1clYpenlcD32qnxxZm2M9A_37.120540_-81.499957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898398,
-    "wof:geomhash":"89f9cabdceef34e7d3410f7c8ccd8c70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7340ed2c7997b6090d8cdce200365679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":723264729
+        }
+    ],
     "wof:id":723264729,
-    "wof:lastmodified":1472651826,
+    "wof:lastmodified":1492058690,
     "wof:name":"Trinity Presbyterian Church",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

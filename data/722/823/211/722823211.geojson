@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.826197,37.355419,-78.826197,37.355419",
     "geom:latitude":37.355419,
     "geom:longitude":-78.826197,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728991,
+        102083819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16xUo7MvU0Fllg27OBlspg_37.355419_-78.826197@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889323,
-    "wof:geomhash":"24a35c9e078044f1cb6bee0405b7f4b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"148e8fef73b71a33d8ed70d93d2ae1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083819,
+            "locality_id":101728991,
+            "region_id":85688747,
+            "venue_id":722823211
+        }
+    ],
     "wof:id":722823211,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492069256,
     "wof:name":"Central Cab Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

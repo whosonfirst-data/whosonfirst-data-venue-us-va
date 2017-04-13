@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.82038,37.5369,-75.82038,37.5369",
     "geom:latitude":37.5369,
     "geom:longitude":-75.82038,
@@ -33,17 +34,32 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728783,
+        102087293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OXhNG8KmS21ybbBvwNWW7_37.536900_-75.820380@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890289,
-    "wof:geomhash":"be000c967c484c878254f39ee6951d41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d39684a4e985102ddbce5a69c7a25f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087293,
+            "locality_id":101728783,
+            "region_id":85688747,
+            "venue_id":722874731
+        }
+    ],
     "wof:id":722874731,
-    "wof:lastmodified":1472652024,
+    "wof:lastmodified":1492070025,
     "wof:name":"Martha's Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.158987,38.713757,-78.158987,38.713757",
     "geom:latitude":38.713757,
     "geom:longitude":-78.158987,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728561,
+        102087263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rCteoXHyuNj6Vte4NFIK1_38.713757_-78.158987@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906132,
-    "wof:geomhash":"420963682603509d37f572eb3c5b8245",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d1af9a5306c579cdd571ed0bbcefab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087263,
+            "locality_id":101728561,
+            "region_id":85688747,
+            "venue_id":739376881
+        }
+    ],
     "wof:id":739376881,
-    "wof:lastmodified":1472651370,
+    "wof:lastmodified":1492045206,
     "wof:name":"Trinity Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

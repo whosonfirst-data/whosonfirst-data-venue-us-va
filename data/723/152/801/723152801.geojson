@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.93068,36.766678,-78.93068,36.766678",
     "geom:latitude":36.766678,
     "geom:longitude":-78.93068,
@@ -31,19 +32,36 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728965,
+        102084931,
+        420546741
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nh5G36mqBI5Lyvieit70H_36.766678_-78.930680@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896151,
-    "wof:geomhash":"941ba29b84908e476b1c9763aca41a7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3ec8efe76fd83e196c94cfbda8032f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728965,
+            "neighbourhood_id":420546741,
+            "region_id":85688747,
+            "venue_id":723152801
+        }
+    ],
     "wof:id":723152801,
-    "wof:lastmodified":1472651430,
+    "wof:lastmodified":1492061434,
     "wof:name":"Edward Jones Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

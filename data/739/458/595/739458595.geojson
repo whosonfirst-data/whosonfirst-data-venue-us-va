@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.147268,37.869127,-79.147268,37.869127",
     "geom:latitude":37.869127,
     "geom:longitude":-79.147268,
@@ -28,7 +29,12 @@
     "sg:postcode":"24483",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ls43o2WnMKgqrqAGceSNU_37.869127_-79.147268@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907694,
     "wof:geomhash":"bc8eb9b2637de20a6e4889c9ed11fb57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739458595
+        }
+    ],
     "wof:id":739458595,
-    "wof:lastmodified":1472651591,
+    "wof:lastmodified":1492030031,
     "wof:name":"Blue Ridge Parkway Ranger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

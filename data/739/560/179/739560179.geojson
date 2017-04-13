@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43778,37.421708,-77.43778,37.421708",
     "geom:latitude":37.421708,
     "geom:longitude":-77.43778,
@@ -43,7 +44,13 @@
     ],
     "sg:website":"http://www.mobilemusicva.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ugJTdlCHMi5ePq6u48rWz_37.422194_-77.437652@1293134755"
@@ -51,9 +58,18 @@
     "wof:country":"US",
     "wof:created":1461909562,
     "wof:geomhash":"23ded530d12375a44f683e94c98345ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":739560179
+        }
+    ],
     "wof:id":739560179,
-    "wof:lastmodified":1472651872,
+    "wof:lastmodified":1492030142,
     "wof:name":"Mobile Music",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

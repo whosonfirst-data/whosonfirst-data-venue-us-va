@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.647833,37.449765,-77.647833,37.449765",
     "geom:latitude":37.449765,
     "geom:longitude":-77.647833,
@@ -32,17 +33,32 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61qfIUXzmkmMAv2laedLpP_37.449765_-77.647833@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886942,
-    "wof:geomhash":"83329afb774c137fe1bd39766566de91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8badd2d1a0cde6e2e719fe24890c59bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722698549
+        }
+    ],
     "wof:id":722698549,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492062582,
     "wof:name":"Postnet Postal & Business Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

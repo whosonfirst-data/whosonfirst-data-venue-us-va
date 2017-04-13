@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.939137,37.288975,-79.939137,37.288975",
     "geom:latitude":37.288975,
     "geom:longitude":-79.939137,
@@ -36,7 +37,13 @@
         "bakers-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mJ4mUOqylKkViuxFf2sIb_37.288975_-79.939137@1303262552"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461913302,
     "wof:geomhash":"459077365dc0d4c632cee491fdeed574",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735151
+        }
+    ],
     "wof:id":739735151,
-    "wof:lastmodified":1472652232,
+    "wof:lastmodified":1492032032,
     "wof:name":"Heiners Bakery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.146679,36.90037,-77.146679,36.90037",
     "geom:latitude":36.90037,
     "geom:longitude":-77.146679,
@@ -28,7 +29,12 @@
     "sg:postcode":"23890",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25nCByxGJSLp5rYoiTPh8C_36.900370_-77.146679@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907225,
     "wof:geomhash":"e77893556ccb9295da5fc1cd5682c44f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":739433127
+        }
+    ],
     "wof:id":739433127,
-    "wof:lastmodified":1472651511,
+    "wof:lastmodified":1492030397,
     "wof:name":"E M Cooper Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

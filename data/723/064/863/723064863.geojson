@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.32718,36.696258,-76.32718,36.696258",
     "geom:latitude":36.696258,
     "geom:longitude":-76.32718,
@@ -34,7 +35,8 @@
         85633793,
         101728797,
         102087265,
-        85822615
+        85822615,
+        85876757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894319,
-    "wof:geomhash":"e293939795f7ac02da6c094ad3fe4b8b",
+    "wof:geomhash":"832fc6efb186119eee176efb3f0de7d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85822615,
             "region_id":85688747,
             "venue_id":723064863
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "neighbourhood_id":85876757,
+            "region_id":85688747,
+            "venue_id":723064863
         }
     ],
     "wof:id":723064863,
-    "wof:lastmodified":1472651249,
+    "wof:lastmodified":1492048141,
     "wof:name":"West Road Church Of Christ",
-    "wof:parent_id":85822615,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

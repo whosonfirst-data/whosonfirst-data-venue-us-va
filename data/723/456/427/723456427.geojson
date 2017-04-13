@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371738,37.349446,-77.371738,37.349446",
     "geom:latitude":37.349446,
     "geom:longitude":-77.371738,
@@ -32,17 +33,30 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24zFUDGKh7PfQswitYcMdP_37.349446_-77.371738@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902060,
-    "wof:geomhash":"ec08ba78e765973ceddf624fdb383d8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"519b6229e687fa85fc7dcccf70578bc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723456427
+        }
+    ],
     "wof:id":723456427,
-    "wof:lastmodified":1472652290,
+    "wof:lastmodified":1492051609,
     "wof:name":"Headache Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

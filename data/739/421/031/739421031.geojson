@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518488,38.195781,-77.518488,38.195781",
     "geom:latitude":38.195781,
     "geom:longitude":-77.518488,
@@ -33,17 +34,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NmqcrdSKzSDruumeTuAcx_38.195781_-77.518488@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906980,
-    "wof:geomhash":"d476b4f5f199d9aa522690bf5b37142a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42ab4321b8dec261f14fa02bc72740da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739421031
+        }
+    ],
     "wof:id":739421031,
-    "wof:lastmodified":1472651502,
+    "wof:lastmodified":1492041820,
     "wof:name":"Coles Trash Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

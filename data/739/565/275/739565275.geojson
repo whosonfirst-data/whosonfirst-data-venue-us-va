@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.937267,36.667709,-76.937267,36.667709",
     "geom:latitude":36.667709,
     "geom:longitude":-76.937267,
@@ -32,7 +33,13 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728635,
+        102084891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JIF61OYM6h8CaiZetVLnB_36.667709_-76.937267@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909669,
     "wof:geomhash":"bc5163fa1674e556add36987f52be412",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084891,
+            "locality_id":101728635,
+            "region_id":85688747,
+            "venue_id":739565275
+        }
+    ],
     "wof:id":739565275,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492032763,
     "wof:name":"George L Young",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

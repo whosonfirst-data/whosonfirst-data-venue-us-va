@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.56754,37.550495,-77.56754,37.550495",
     "geom:latitude":37.550495,
     "geom:longitude":-77.56754,
@@ -28,19 +29,36 @@
     "sg:postcode":"23235",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959,
+        85868251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LjV4jxKJoU5TnTZTDNuoM_37.550495_-77.567540@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892061,
-    "wof:geomhash":"6377b5cb6ff29133d274b3554eb1450c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7176586ac7e7e3761831385a8e233ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85868251,
+            "region_id":85688747,
+            "venue_id":722961197
+        }
+    ],
     "wof:id":722961197,
-    "wof:lastmodified":1472652284,
+    "wof:lastmodified":1492066371,
     "wof:name":"Bath & Body 1405",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868251,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

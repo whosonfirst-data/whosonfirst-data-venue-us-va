@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.522426,37.399071,-76.522426,37.399071",
     "geom:latitude":37.399071,
     "geom:longitude":-76.522426,
@@ -31,7 +32,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3G874xdhA7q18w5NxznPK3_37.399071_-76.522426@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904273,
     "wof:geomhash":"354c0e225311ac42cfbd0548b5a83d82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":739285901
+        }
+    ],
     "wof:id":739285901,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492029724,
     "wof:name":"Arlauskas Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

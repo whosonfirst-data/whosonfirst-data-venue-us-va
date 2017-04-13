@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.373508,36.926373,-77.373508,36.926373",
     "geom:latitude":36.926373,
     "geom:longitude":-77.373508,
@@ -26,7 +27,12 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081059
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dCVYsvzqteabQnakwOxG8_36.926373_-77.373508@1294252573"
@@ -34,9 +40,17 @@
     "wof:country":"US",
     "wof:created":1461909907,
     "wof:geomhash":"6d1314dfb82d4b3298abdbf7b58c9648",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081059,
+            "region_id":85688747,
+            "venue_id":739575669
+        }
+    ],
     "wof:id":739575669,
-    "wof:lastmodified":1472651931,
+    "wof:lastmodified":1492029843,
     "wof:name":"Herbert Dillard Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

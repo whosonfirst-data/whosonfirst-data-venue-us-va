@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775785,37.313492,-76.775785,37.313492",
     "geom:latitude":37.313492,
     "geom:longitude":-76.775785,
@@ -32,17 +33,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546769
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IMaCBSO6wyD3FHHMRGieH_37.313492_-76.775785@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898749,
-    "wof:geomhash":"b57e11a46b63265c7492c9d994790d62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77ebdcc7fbefe7b2d582b20c8ce46311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546769,
+            "venue_id":723283727
+        }
+    ],
     "wof:id":723283727,
-    "wof:lastmodified":1472651798,
+    "wof:lastmodified":1492052862,
     "wof:name":"Dominion Village",
     "wof:parent_id":420546769,
     "wof:placetype":"venue",

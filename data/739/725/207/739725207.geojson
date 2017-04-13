@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.609616,37.501618,-77.609616,37.501618",
     "geom:latitude":37.501618,
     "geom:longitude":-77.609616,
@@ -39,17 +40,30 @@
     ],
     "sg:website":"http://www.suntrustbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Uzeq3jRFdTticJqzvOwAd_37.501618_-77.609616@1303262551"
     },
     "wof:country":"US",
     "wof:created":1461913096,
-    "wof:geomhash":"b16559c24710640004f958c768f00525",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a264bcaea41348635d903a2b214e38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739725207
+        }
+    ],
     "wof:id":739725207,
-    "wof:lastmodified":1472652221,
+    "wof:lastmodified":1492039833,
     "wof:name":"SunTrust Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

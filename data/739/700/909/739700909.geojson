@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.498277,38.073894,-78.498277,38.073894",
     "geom:latitude":38.073894,
     "geom:longitude":-78.498277,
@@ -32,7 +33,12 @@
         "oral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52Z90TsweRE5qg0uIFaFFs_38.073894_-78.498277@1303262547"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912599,
     "wof:geomhash":"69a5d3e69f80ae9261bbcb6e3829cb62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739700909
+        }
+    ],
     "wof:id":739700909,
-    "wof:lastmodified":1472652189,
+    "wof:lastmodified":1492032579,
     "wof:name":"Grover Robert E DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

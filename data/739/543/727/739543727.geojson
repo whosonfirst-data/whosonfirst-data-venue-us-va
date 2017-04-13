@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.861149,38.100795,-78.861149,38.100795",
     "geom:latitude":38.100795,
     "geom:longitude":-78.861149,
@@ -32,7 +33,13 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729645,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Bg1ZJ4eaMBj8PC1nGtqLv_38.100795_-78.861149@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461909234,
     "wof:geomhash":"2806208c05e5eb31c0d035a9af1dcf09",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729645,
+            "region_id":85688747,
+            "venue_id":739543727
+        }
+    ],
     "wof:id":739543727,
-    "wof:lastmodified":1472651837,
+    "wof:lastmodified":1492032321,
     "wof:name":"Edwards' Auto Svc & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.183788,38.93766,-77.183788,38.93766",
     "geom:latitude":38.93766,
     "geom:longitude":-77.183788,
@@ -28,19 +29,36 @@
     "sg:postcode":"22101",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863,
+        85868635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CYIRrP5czU2Da2h1rNpqv_38.937660_-77.183788@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907714,
-    "wof:geomhash":"7caaf9e6161744a66ad9d2c3f18ae505",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bf8b7fdba619bc5bd1fd4e1cabdea2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85868635,
+            "region_id":85688747,
+            "venue_id":739459895
+        }
+    ],
     "wof:id":739459895,
-    "wof:lastmodified":1472651596,
+    "wof:lastmodified":1492046048,
     "wof:name":"Nationwide Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

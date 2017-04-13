@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.749186,37.518119,-77.749186,37.518119",
     "geom:latitude":37.518119,
     "geom:longitude":-77.749186,
@@ -28,7 +29,12 @@
     "sg:postcode":"23139",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OyFC7i8eA9tvkgfCq3T7b_37.518119_-77.749186@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906348,
     "wof:geomhash":"ce194a3463b38cc92a01bcb0a0d30cc5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739387461
+        }
+    ],
     "wof:id":739387461,
-    "wof:lastmodified":1472651378,
+    "wof:lastmodified":1492033147,
     "wof:name":"Will Hunter Mem Scholarship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

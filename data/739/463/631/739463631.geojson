@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.660761,37.037531,-79.660761,37.037531",
     "geom:latitude":37.037531,
     "geom:longitude":-79.660761,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729711,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CI3QSeemzrhCRSFcKLXEM_37.037531_-79.660761@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907776,
-    "wof:geomhash":"8b72de3b4dfd340227e2e599beec5a84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afdc1d4a5b841c0eae96f7548816ec6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729711,
+            "region_id":85688747,
+            "venue_id":739463631
+        }
+    ],
     "wof:id":739463631,
-    "wof:lastmodified":1472651624,
+    "wof:lastmodified":1492041100,
     "wof:name":"Touchstone Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

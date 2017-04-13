@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442694,38.789278,-77.442694,38.789278",
     "geom:latitude":38.789278,
     "geom:longitude":-77.442694,
@@ -31,17 +32,32 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HGVWOio6XOiK5guUy5yPr_38.789278_-77.442694@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895895,
-    "wof:geomhash":"a39545c0de48762c8bdbd56e0f18a32b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b55c87b58ecf6661a6ebcea229203675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":723139711
+        }
+    ],
     "wof:id":723139711,
-    "wof:lastmodified":1472651390,
+    "wof:lastmodified":1492048547,
     "wof:name":"Northern Virginia Sedan Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

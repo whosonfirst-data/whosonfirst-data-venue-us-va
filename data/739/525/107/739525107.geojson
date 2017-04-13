@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.877752,37.498315,-79.877752,37.498315",
     "geom:latitude":37.498315,
     "geom:longitude":-79.877752,
@@ -32,7 +33,13 @@
         "counsel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728979,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kLk1DByqKrbPx0PiVk68Y_37.498315_-79.877752@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461908890,
     "wof:geomhash":"db4b98c497c0db8d3eeea8dff52ce0f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101728979,
+            "region_id":85688747,
+            "venue_id":739525107
+        }
+    ],
     "wof:id":739525107,
-    "wof:lastmodified":1472651727,
+    "wof:lastmodified":1492032625,
     "wof:name":"Botetourt Commonwealth Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

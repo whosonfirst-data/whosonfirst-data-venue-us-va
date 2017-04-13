@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.325387,37.624664,-77.325387,37.624664",
     "geom:latitude":37.624664,
     "geom:longitude":-77.325387,
@@ -32,7 +33,13 @@
         "food"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BckAiGkfqbmqNKa7Mkke8_37.624664_-77.325387@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461903726,
     "wof:geomhash":"4f6849db94a64376112dbf1c19393761",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739260971
+        }
+    ],
     "wof:id":739260971,
-    "wof:lastmodified":1472651129,
+    "wof:lastmodified":1492030861,
     "wof:name":"A To Zinc Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

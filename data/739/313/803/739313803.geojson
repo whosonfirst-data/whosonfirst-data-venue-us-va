@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.420786,37.311752,-78.420786,37.311752",
     "geom:latitude":37.311752,
     "geom:longitude":-78.420786,
@@ -34,17 +35,32 @@
         "soft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LvhoYllgKQjwQES861OQT_37.311752_-78.420786@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904844,
-    "wof:geomhash":"27d60cfc522c9467509c7bb001a8f8e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf79e0f4ddbeb58826adb0d5f1fc7f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":739313803
+        }
+    ],
     "wof:id":739313803,
-    "wof:lastmodified":1472651241,
+    "wof:lastmodified":1492041981,
     "wof:name":"Pepsi-Cola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

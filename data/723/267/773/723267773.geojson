@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.015025,38.455613,-78.015025,38.455613",
     "geom:latitude":38.455613,
     "geom:longitude":-78.015025,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85853863,
-        102085941
+        101728993,
+        102085941,
+        420546637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,20 +46,22 @@
     },
     "wof:country":"US",
     "wof:created":1461898456,
-    "wof:geomhash":"a24966adce5c86c5728882e5782e79fb",
+    "wof:geomhash":"1e55866b591941b630f6791bc94c8dda",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085941,
-            "neighbourhood_id":85853863,
+            "locality_id":101728993,
+            "neighbourhood_id":420546637,
             "region_id":85688747,
             "venue_id":723267773
         }
     ],
     "wof:id":723267773,
-    "wof:lastmodified":1472651811,
+    "wof:lastmodified":1492054725,
     "wof:name":"Rappahannock-Rapidan Community",
-    "wof:parent_id":85853863,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

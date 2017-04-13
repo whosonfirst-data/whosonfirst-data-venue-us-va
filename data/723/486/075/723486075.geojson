@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.583227,37.64703,-77.583227,37.64703",
     "geom:latitude":37.64703,
     "geom:longitude":-77.583227,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60LTdq3fFh9FyuIXz9rQNY_37.647030_-77.583227@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902652,
-    "wof:geomhash":"ce1829dd00be47fbc911199f90cb6502",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c251360606ee3af9cf08b49aceba9855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":723486075
+        }
+    ],
     "wof:id":723486075,
-    "wof:lastmodified":1472652321,
+    "wof:lastmodified":1492053008,
     "wof:name":"Innsbrook Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

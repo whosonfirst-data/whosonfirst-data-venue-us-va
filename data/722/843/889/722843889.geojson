@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.650891,37.142355,-79.650891,37.142355",
     "geom:latitude":37.142355,
     "geom:longitude":-79.650891,
@@ -32,17 +33,30 @@
         "coast"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LBWGOHRqW4U0zdVM9k1AP_37.142355_-79.650891@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889697,
-    "wof:geomhash":"5470c2539d2a9acd90b6330c7d46d400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39faaabbcab949e0e52798ef14a97634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722843889
+        }
+    ],
     "wof:id":722843889,
-    "wof:lastmodified":1472651967,
+    "wof:lastmodified":1492063464,
     "wof:name":"United States Coast Guard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

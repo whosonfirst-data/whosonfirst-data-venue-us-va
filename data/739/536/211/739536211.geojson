@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.006878,37.311227,-80.006878,37.311227",
     "geom:latitude":37.311227,
     "geom:longitude":-80.006878,
@@ -39,17 +40,32 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eVVxhkU3epVb4LkTMQ9Sn_37.311227_-80.006878@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909089,
-    "wof:geomhash":"be7dae717e10b80f6653729fa1c2a1bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2f63fa5dff43bea4feb792eb810d45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739536211
+        }
+    ],
     "wof:id":739536211,
-    "wof:lastmodified":1472651745,
+    "wof:lastmodified":1492046074,
     "wof:name":"Guardian Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

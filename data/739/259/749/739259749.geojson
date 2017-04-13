@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.844448,36.893277,-78.844448,36.893277",
     "geom:latitude":36.893277,
     "geom:longitude":-78.844448,
@@ -28,7 +29,12 @@
     "sg:postcode":"24577",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wJSOQcrliYs5fvEtkQR9S_36.893277_-78.844448@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461903692,
     "wof:geomhash":"af1cbbd9b8a68316e7a5c59be38d95ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739259749
+        }
+    ],
     "wof:id":739259749,
-    "wof:lastmodified":1472651119,
+    "wof:lastmodified":1492032924,
     "wof:name":"Red Line Racing Lc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

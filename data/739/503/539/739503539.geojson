@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.395753,37.143147,-76.395753,37.143147",
     "geom:latitude":37.143147,
     "geom:longitude":-76.395753,
@@ -31,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UP5m3cqY4gqioK8LKqDBB_37.143147_-76.395753@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908491,
     "wof:geomhash":"46489e6b165b866960e26d51af3db060",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739503539
+        }
+    ],
     "wof:id":739503539,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492032344,
     "wof:name":"Cheers Restaurants",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

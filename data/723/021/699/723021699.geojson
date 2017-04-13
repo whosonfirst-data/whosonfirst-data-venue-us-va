@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.301459,37.916554,-78.301459,37.916554",
     "geom:latitude":37.916554,
     "geom:longitude":-78.301459,
@@ -28,17 +29,32 @@
     "sg:postcode":"22963",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KMLvdX38alIP8KKIeFUDM_37.916554_-78.301459@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893407,
-    "wof:geomhash":"7fbdeb9dd77e7ac17e9f02cc9100bc2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44868d96f27dbfc120ad723be7767dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":723021699
+        }
+    ],
     "wof:id":723021699,
-    "wof:lastmodified":1472651157,
+    "wof:lastmodified":1492056342,
     "wof:name":"Monticello Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

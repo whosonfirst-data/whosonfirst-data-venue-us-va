@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.63261,38.836316,-77.63261,38.836316",
     "geom:latitude":38.836316,
     "geom:longitude":-77.63261,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57CHkS57zWRTPak8yUkn7a_38.836316_-77.632610@1303262496"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461910675,
     "wof:geomhash":"ca395b7a8e98ee1e69de7d5c7bb2e5e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613471
+        }
+    ],
     "wof:id":739613471,
-    "wof:lastmodified":1472651991,
+    "wof:lastmodified":1492032411,
     "wof:name":"Branch Highways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

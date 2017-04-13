@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.717721,36.612572,-76.717721,36.612572",
     "geom:latitude":36.612572,
     "geom:longitude":-76.717721,
@@ -40,7 +41,8 @@
         85633793,
         101728729,
         102087269,
-        420548341
+        420548341,
+        85868653
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461894938,
-    "wof:geomhash":"538c5ba1b04c072561e6a44d89de27bc",
+    "wof:geomhash":"a12df04f958b8f927f1c0fb311bfc5c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,21 @@
             "neighbourhood_id":420548341,
             "region_id":85688747,
             "venue_id":723091045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087269,
+            "locality_id":101728729,
+            "neighbourhood_id":85868653,
+            "region_id":85688747,
+            "venue_id":723091045
         }
     ],
     "wof:id":723091045,
-    "wof:lastmodified":1472651259,
+    "wof:lastmodified":1492047863,
     "wof:name":"International Entp Unlimited",
-    "wof:parent_id":420548341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

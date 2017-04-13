@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.357722,38.521932,-77.357722,38.521932",
     "geom:latitude":38.521932,
     "geom:longitude":-77.357722,
@@ -37,19 +38,28 @@
     ],
     "sg:website":"http://www.mcx-mcrdsandiego.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tjip29hPiq8KHvKrXtN3Q_38.521932_-77.357722@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911218,
-    "wof:geomhash":"64653c668cdbe6c562c1bd7ec12785d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daabfdce5c59bcf66b3f6d75fd32e356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739637957
+        }
+    ],
     "wof:id":739637957,
-    "wof:lastmodified":1472652029,
+    "wof:lastmodified":1492042737,
     "wof:name":"Crossroads Inn At Quantico",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

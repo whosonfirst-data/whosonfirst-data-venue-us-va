@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.51304,37.484619,-77.51304,37.484619",
     "geom:latitude":37.484619,
     "geom:longitude":-77.51304,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tLYClHoiHaWjWUsBrj9rm_37.484619_-77.513040@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912957,
-    "wof:geomhash":"849198b3f3d71a9af149978ad17092d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34b305b572c19c33a5e3c83d0d95a7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739718257
+        }
+    ],
     "wof:id":739718257,
-    "wof:lastmodified":1472652210,
+    "wof:lastmodified":1492045401,
     "wof:name":"Town & Country Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

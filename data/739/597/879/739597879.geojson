@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.165887,39.184255,-78.165887,39.184255",
     "geom:latitude":39.184255,
     "geom:longitude":-78.165887,
@@ -49,7 +50,13 @@
         "wrap"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b2Vs9vUn1sD5N2JGjLSSf_39.184643_-78.165413@1294252573"
@@ -57,9 +64,18 @@
     "wof:country":"US",
     "wof:created":1461910351,
     "wof:geomhash":"312d9bdfd4c001fab29d825c47f826dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739597879
+        }
+    ],
     "wof:id":739597879,
-    "wof:lastmodified":1472651961,
+    "wof:lastmodified":1492030047,
     "wof:name":"Daily Grind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

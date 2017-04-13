@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.138639,38.783625,-77.138639,38.783625",
     "geom:latitude":38.783625,
     "geom:longitude":-77.138639,
@@ -35,8 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729841,
+        101729743,
         102084863,
+        85827821,
+        101729841,
         420546703
     ],
     "wof:breaches":[],
@@ -45,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900730,
-    "wof:geomhash":"5bba65af5b5933fe30396d101a00284b",
+    "wof:geomhash":"1f77c5c038036ed7d83570138d8310a1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729743,
+            "neighbourhood_id":85827821,
+            "region_id":85688747,
+            "venue_id":723387939
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":723387939,
-    "wof:lastmodified":1472652138,
+    "wof:lastmodified":1492051713,
     "wof:name":"Reality Gospel Church Inc",
-    "wof:parent_id":420546703,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

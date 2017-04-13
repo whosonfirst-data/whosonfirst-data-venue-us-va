@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.592836,38.841556,-78.592836,38.841556",
     "geom:latitude":38.841556,
     "geom:longitude":-78.592836,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lwxeWigvVqA7dMel0Hwdi_38.841556_-78.592836@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903448,
-    "wof:geomhash":"a3e15aa8a375128abda30ffa2180b1f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"596330eb5bebaef28146610a5962eb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739248613
+        }
+    ],
     "wof:id":739248613,
-    "wof:lastmodified":1472651091,
+    "wof:lastmodified":1492041491,
     "wof:name":"Union Forge United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

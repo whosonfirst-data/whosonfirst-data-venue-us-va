@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440635,38.379404,-77.440635,38.379404",
     "geom:latitude":38.379404,
     "geom:longitude":-77.440635,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64k4KJvUWVMUwt7gPPI8ez_38.379404_-77.440635@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895731,
-    "wof:geomhash":"5ded0cbcfffb9461684ea70e10fde736",
-    "wof:hierarchy":[],
+    "wof:geomhash":"010c83edb2abd75287cd1181f6bbbd2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723131655
+        }
+    ],
     "wof:id":723131655,
-    "wof:lastmodified":1472651385,
+    "wof:lastmodified":1492054287,
     "wof:name":"SMT Electric",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.642502,36.931528,-78.642502,36.931528",
     "geom:latitude":36.931528,
     "geom:longitude":-78.642502,
@@ -32,7 +33,12 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H3mfolkB0MSfXErkBI1Wh_36.932064_-78.642540@1293134755"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909784,
     "wof:geomhash":"948e2c827700fa0cd5ff1fbc1cb8a7bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "region_id":85688747,
+            "venue_id":739570265
+        }
+    ],
     "wof:id":739570265,
-    "wof:lastmodified":1472651892,
+    "wof:lastmodified":1492031732,
     "wof:name":"Saxe Lumber Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

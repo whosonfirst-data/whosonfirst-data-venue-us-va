@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.233608,36.764704,-76.233608,36.764704",
     "geom:latitude":36.764704,
     "geom:longitude":-76.233608,
@@ -31,17 +32,32 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j9NVjfESzYhARgUthJab6_36.764704_-76.233608@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884371,
-    "wof:geomhash":"4825c6bafbfd3e6d8295e6e1a843b382",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c80997d9492809b6fa38a7e5b4135e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":722567735
+        }
+    ],
     "wof:id":722567735,
-    "wof:lastmodified":1472651132,
+    "wof:lastmodified":1492074016,
     "wof:name":"Brinks Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

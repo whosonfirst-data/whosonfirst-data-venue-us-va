@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.33341,37.381565,-77.33341,37.381565",
     "geom:latitude":37.381565,
     "geom:longitude":-77.33341,
@@ -26,17 +27,30 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O5QxbQuUrsIJYwp7C3qMJ_37.381565_-77.333410@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909737,
-    "wof:geomhash":"ce6b1455b95c32c5814894addd2ab74e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"712f3f121c275036b93c61bd0e19c691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739568123
+        }
+    ],
     "wof:id":739568123,
-    "wof:lastmodified":1472651884,
+    "wof:lastmodified":1492043534,
     "wof:name":"Varina Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.275922,36.891539,-81.275922,36.891539",
     "geom:latitude":36.891539,
     "geom:longitude":-81.275922,
@@ -31,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ToIhAJQjTzcCzN4Qo0Puu_36.891539_-81.275922@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908898,
     "wof:geomhash":"baa5bbaec78fbe3e6a9aebb690797552",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739525571
+        }
+    ],
     "wof:id":739525571,
-    "wof:lastmodified":1472651813,
+    "wof:lastmodified":1492032636,
     "wof:name":"Lit'l Sprouts",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.539222,37.415213,-76.539222,37.415213",
     "geom:latitude":37.415213,
     "geom:longitude":-76.539222,
@@ -32,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729479,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pZnncnmBPqrwVRQME8zDr_37.415213_-76.539222@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907648,
     "wof:geomhash":"5088ff0c8968cf93ed90d82168e77c4b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729479,
+            "region_id":85688747,
+            "venue_id":739456213
+        }
+    ],
     "wof:id":739456213,
-    "wof:lastmodified":1472651564,
+    "wof:lastmodified":1492033055,
     "wof:name":"Family Health Care LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

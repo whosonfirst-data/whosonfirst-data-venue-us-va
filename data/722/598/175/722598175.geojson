@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.16652,39.181918,-78.16652,39.181918",
     "geom:latitude":39.181918,
     "geom:longitude":-78.16652,
@@ -28,17 +29,32 @@
     "sg:postcode":"22601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12IUlQbu2duYMxEk8LdoPs_39.181918_-78.166520@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884938,
-    "wof:geomhash":"55547e16c5dcec2310e710e3a33861ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5320a85e5c5ccd90481fee386052b785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722598175
+        }
+    ],
     "wof:id":722598175,
-    "wof:lastmodified":1472651258,
+    "wof:lastmodified":1492069242,
     "wof:name":"Guitar Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

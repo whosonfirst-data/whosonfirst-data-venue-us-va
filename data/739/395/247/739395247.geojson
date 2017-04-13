@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.196995,37.355314,-80.196995,37.355314",
     "geom:latitude":37.355314,
     "geom:longitude":-80.196995,
@@ -33,17 +34,30 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1APTW04UoSKbYOVi5cho9W_37.355314_-80.196995@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906488,
-    "wof:geomhash":"83423885497c8397aa93de7623e422cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80dfebeb21bec0d104b021ac15caba7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084967,
+            "region_id":85688747,
+            "venue_id":739395247
+        }
+    ],
     "wof:id":739395247,
-    "wof:lastmodified":1472651457,
+    "wof:lastmodified":1492044287,
     "wof:name":"Claude Sirry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

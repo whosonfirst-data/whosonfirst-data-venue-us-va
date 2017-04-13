@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.175321,36.802645,-76.175321,36.802645",
     "geom:latitude":36.802645,
     "geom:longitude":-76.175321,
@@ -34,6 +35,7 @@
         85633793,
         101728745,
         102081929,
+        85836691,
         85802393
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461900069,
-    "wof:geomhash":"5efd490ac0d5f21f0b9d406eba0d6cd0",
+    "wof:geomhash":"06d5ef33363c6d6d5d1042bf5a2a315e",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85836691,
+            "region_id":85688747,
+            "venue_id":723353875
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723353875,
-    "wof:lastmodified":1472652080,
+    "wof:lastmodified":1492048671,
     "wof:name":"Cinema Cafe",
-    "wof:parent_id":85802393,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

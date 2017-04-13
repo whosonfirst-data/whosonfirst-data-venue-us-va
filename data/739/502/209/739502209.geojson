@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.654631,38.150821,-77.654631,38.150821",
     "geom:latitude":38.150821,
     "geom:longitude":-77.654631,
@@ -31,7 +32,12 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZLDhseE4IS6M2RSlkREvu_38.150821_-77.654631@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908470,
     "wof:geomhash":"6f9845135e28a39db2f260ea35c5dd83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739502209
+        }
+    ],
     "wof:id":739502209,
-    "wof:lastmodified":1472651688,
+    "wof:lastmodified":1492029590,
     "wof:name":"Robert Slade Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

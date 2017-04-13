@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.309624,37.523401,-77.309624,37.523401",
     "geom:latitude":37.523401,
     "geom:longitude":-77.309624,
@@ -32,17 +33,32 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rf5nYcJd3awF7nwpXQ5YS_37.523401_-77.309624@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900320,
-    "wof:geomhash":"55124f02402cd6059091bf095ff3e7a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb71e94eae8b80df76624922e181d0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":723366905
+        }
+    ],
     "wof:id":723366905,
-    "wof:lastmodified":1472652087,
+    "wof:lastmodified":1492055694,
     "wof:name":"Usair Cargo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.396577,36.994187,-76.396577,36.994187",
     "geom:latitude":36.994187,
     "geom:longitude":-76.396577,
@@ -36,17 +37,32 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X5y9PEv6ZoF9aQ9avbbaJ_36.994187_-76.396577@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907792,
-    "wof:geomhash":"fc47700182b8328210008ba2aae53993",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bab7d6e64f2c25c35c95db17b6daaba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739464607
+        }
+    ],
     "wof:id":739464607,
-    "wof:lastmodified":1472651626,
+    "wof:lastmodified":1492042774,
     "wof:name":"East End Intensive Outpatient",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

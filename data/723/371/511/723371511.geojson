@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488462,39.064926,-77.488462,39.064926",
     "geom:latitude":39.064926,
     "geom:longitude":-77.488462,
@@ -31,17 +32,32 @@
         "development"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729443,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fbvkKMccg961smq9Zjkc0_39.064926_-77.488462@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900408,
-    "wof:geomhash":"a3729bfc47b3039af0155b31d1853108",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52b2153aa6dc0db34d38208a0665f495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729443,
+            "region_id":85688747,
+            "venue_id":723371511
+        }
+    ],
     "wof:id":723371511,
-    "wof:lastmodified":1472652074,
+    "wof:lastmodified":1492050098,
     "wof:name":"Darknet LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

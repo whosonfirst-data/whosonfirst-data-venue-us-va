@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.337321,38.333535,-77.337321,38.333535",
     "geom:latitude":38.333535,
     "geom:longitude":-77.337321,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HJHO4HDhSwA3z3AKoX7Wi_38.333535_-77.337321@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895523,
-    "wof:geomhash":"3260098e183a4fc2db1a7bf336387d32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b3883fde04e0ab4d5368228ca10c803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547255,
+            "venue_id":723120203
+        }
+    ],
     "wof:id":723120203,
-    "wof:lastmodified":1472651339,
+    "wof:lastmodified":1492047753,
     "wof:name":"Family Pizzeria",
     "wof:parent_id":420547255,
     "wof:placetype":"venue",

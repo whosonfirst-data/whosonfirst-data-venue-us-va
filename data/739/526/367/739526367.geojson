@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.177427,38.937453,-77.177427,38.937453",
     "geom:latitude":38.937453,
     "geom:longitude":-77.177427,
@@ -40,6 +41,7 @@
         85633793,
         101729767,
         102084863,
+        85868635,
         420546693
     ],
     "wof:breaches":[],
@@ -48,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461908911,
-    "wof:geomhash":"ff8d3bc1fe5f9928b4ad5d86b66d535a",
+    "wof:geomhash":"3705e940fcfcc6202f2c5c0459369bf2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85868635,
+            "region_id":85688747,
+            "venue_id":739526367
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":739526367,
-    "wof:lastmodified":1472651763,
+    "wof:lastmodified":1492043865,
     "wof:name":"Soundwave",
-    "wof:parent_id":420546693,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

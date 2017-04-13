@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.313128,37.91913,-78.313128,37.91913",
     "geom:latitude":37.91913,
     "geom:longitude":-78.313128,
@@ -31,17 +32,32 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p3OYxURT4xlh7mE5jkThW_37.919130_-78.313128@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893298,
-    "wof:geomhash":"629686cc4f6a0a36115848f5023e1953",
-    "wof:hierarchy":[],
+    "wof:geomhash":"530fc9a955daab3c8eadcbad95530735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":723016975
+        }
+    ],
     "wof:id":723016975,
-    "wof:lastmodified":1472651120,
+    "wof:lastmodified":1492050479,
     "wof:name":"Fluvanna County Elections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

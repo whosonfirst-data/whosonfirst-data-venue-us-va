@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.619583,37.639149,-77.619583,37.639149",
     "geom:latitude":37.639149,
     "geom:longitude":-77.619583,
@@ -32,17 +33,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0atWJe3MfsksNl6aGBozh0_37.639744_-77.620178@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909478,
-    "wof:geomhash":"a12a777c3bd859737323d13bbecd7e42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e10c863beca3b545d8e8c1decfbffd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":739556011
+        }
+    ],
     "wof:id":739556011,
-    "wof:lastmodified":1472651861,
+    "wof:lastmodified":1492046747,
     "wof:name":"P&R Data Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

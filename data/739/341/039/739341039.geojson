@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.630653,38.89376,-78.630653,38.89376",
     "geom:latitude":38.89376,
     "geom:longitude":-78.630653,
@@ -31,7 +32,12 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aycdgNcgkg2yaH8f33D4e_38.893760_-78.630653@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905400,
     "wof:geomhash":"3e777b97e923186a647bed088ed3e784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739341039
+        }
+    ],
     "wof:id":739341039,
-    "wof:lastmodified":1472651258,
+    "wof:lastmodified":1492032563,
     "wof:name":"J Schmidt Farm & Field Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

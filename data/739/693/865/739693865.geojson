@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.550984,38.001455,-76.550984,38.001455",
     "geom:latitude":38.001455,
     "geom:longitude":-76.550984,
@@ -34,7 +35,12 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MfOxy5J8c8TeDEy4BRrrh_38.001455_-76.550984@1303262547"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461912415,
     "wof:geomhash":"cdbf1bcd9b1ef024ded0f0c8928935de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739693865
+        }
+    ],
     "wof:id":739693865,
-    "wof:lastmodified":1472652194,
+    "wof:lastmodified":1492031390,
     "wof:name":"Ashland Auto Barn, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

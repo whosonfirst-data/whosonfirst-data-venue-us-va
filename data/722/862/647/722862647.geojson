@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.979867,36.707404,-81.979867,36.707404",
     "geom:latitude":36.707404,
     "geom:longitude":-81.979867,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FBeu3ktUfYTUBIKiFb7SU_36.707404_-81.979867@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890063,
-    "wof:geomhash":"e602083a7364135f07fea1804660bee3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89092311e6f1f5a7b25cac5e0d9c90ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722862647
+        }
+    ],
     "wof:id":722862647,
-    "wof:lastmodified":1472651999,
+    "wof:lastmodified":1492066760,
     "wof:name":"Don's Garage Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

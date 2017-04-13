@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.497675,38.074101,-78.497675,38.074101",
     "geom:latitude":38.074101,
     "geom:longitude":-78.497675,
@@ -37,7 +38,12 @@
         "psychiatrist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39cwPlf76apw1TG2QCR5D3_38.074101_-78.497675@1303262547"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461912529,
     "wof:geomhash":"1351b5407514fbad098f54ce0f1a0cf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739698915
+        }
+    ],
     "wof:id":739698915,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492029547,
     "wof:name":"Halapin Philip T MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

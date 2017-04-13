@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.296478,37.366907,-79.296478,37.366907",
     "geom:latitude":37.366907,
     "geom:longitude":-79.296478,
@@ -28,7 +29,13 @@
     "sg:postcode":"24551",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0L8hc6aG1xIoaIgA7ApykZ_37.366907_-79.296478@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904570,
     "wof:geomhash":"b8efb35f98ed6585b60b893a9218b167",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":739299723
+        }
+    ],
     "wof:id":739299723,
-    "wof:lastmodified":1472651229,
+    "wof:lastmodified":1492032467,
     "wof:name":"Benjamin's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

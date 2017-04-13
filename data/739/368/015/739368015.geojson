@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.162358,38.699379,-78.162358,38.699379",
     "geom:latitude":38.699379,
     "geom:longitude":-78.162358,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hWzkWIYrhliUSUrgEr3qs_38.699379_-78.162358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905962,
-    "wof:geomhash":"df2348d34f6cb936867be43c45bbdf7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac556254ae9f9ba0f7775d2205e260c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087263,
+            "region_id":85688747,
+            "venue_id":739368015
+        }
+    ],
     "wof:id":739368015,
-    "wof:lastmodified":1472651323,
+    "wof:lastmodified":1492041984,
     "wof:name":"St Peter's Catholic Mission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

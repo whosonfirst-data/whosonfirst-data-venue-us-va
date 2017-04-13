@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435551,37.478569,-77.435551,37.478569",
     "geom:latitude":37.478569,
     "geom:longitude":-77.435551,
@@ -54,17 +55,32 @@
         "detector"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c4nuW3RXdiyciJ5KvXHKB_37.478569_-77.435551@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461913048,
-    "wof:geomhash":"10ffc6494fbb37b564470af64407cb54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f92ca81b37b97f4730191bd38f66797c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739722781
+        }
+    ],
     "wof:id":739722781,
-    "wof:lastmodified":1472652240,
+    "wof:lastmodified":1492046855,
     "wof:name":"Bonnivick Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

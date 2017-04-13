@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.200552,38.744575,-77.200552,38.744575",
     "geom:latitude":38.744575,
     "geom:longitude":-77.200552,
@@ -32,17 +33,32 @@
         "drive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b1pDFKt8XpksRdaCp5tPU_38.744575_-77.200552@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902780,
-    "wof:geomhash":"aa96893b5bdaabf9daef04ddfa4aa9f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d4f6bbd1dd6bc07e1a21dcb832b2445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":723492019
+        }
+    ],
     "wof:id":723492019,
-    "wof:lastmodified":1472652325,
+    "wof:lastmodified":1492060944,
     "wof:name":"Drive Line Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

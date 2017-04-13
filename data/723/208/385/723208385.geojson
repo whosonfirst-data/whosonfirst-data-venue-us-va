@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.549861,39.07613,-77.549861,39.07613",
     "geom:latitude":39.07613,
     "geom:longitude":-77.549861,
@@ -33,17 +34,30 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bZWmEaETIhbCOAujd9J8e_39.076130_-77.549861@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897230,
-    "wof:geomhash":"20dfc5d17badb189229238ed1404b85e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71ec81ee38ea6f4aeae50897c11aefd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":723208385
+        }
+    ],
     "wof:id":723208385,
-    "wof:lastmodified":1472651606,
+    "wof:lastmodified":1492051176,
     "wof:name":"Loudoun County Civil Defense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

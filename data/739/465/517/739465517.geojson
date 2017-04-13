@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.358274,37.348769,-77.358274,37.348769",
     "geom:latitude":37.348769,
     "geom:longitude":-77.358274,
@@ -31,7 +32,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GmV2CAdG6btyNm8vZEIvQ_37.348769_-77.358274@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907811,
     "wof:geomhash":"566fb6d233fcf1ee61f9fe50919d9f5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739465517
+        }
+    ],
     "wof:id":739465517,
-    "wof:lastmodified":1472651615,
+    "wof:lastmodified":1492031945,
     "wof:name":"Colgin Auto Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

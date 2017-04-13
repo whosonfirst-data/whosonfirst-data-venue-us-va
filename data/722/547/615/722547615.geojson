@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.245752,36.727854,-77.245752,36.727854",
     "geom:latitude":36.727854,
     "geom:longitude":-77.245752,
@@ -35,17 +36,30 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tC6RmMbu0ftI4fq7tFTP1_36.727854_-77.245752@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883950,
-    "wof:geomhash":"2d264f4bcf10cc308db560811ec04b94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"639ba6221120f3b6edc0b745823ce042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "region_id":85688747,
+            "venue_id":722547615
+        }
+    ],
     "wof:id":722547615,
-    "wof:lastmodified":1472651085,
+    "wof:lastmodified":1492062518,
     "wof:name":"Deerfield Correctional Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

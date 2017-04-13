@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.517258,38.294781,-77.517258,38.294781",
     "geom:latitude":38.294781,
     "geom:longitude":-77.517258,
@@ -39,7 +40,12 @@
     ],
     "sg:website":"http://www.atatirecenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RxMq3smwe2vpkMrnjxnBS_38.294781_-77.517258@1303262547"
@@ -47,9 +53,17 @@
     "wof:country":"US",
     "wof:created":1461912409,
     "wof:geomhash":"35c5dbf1a6dc7aaa83a5fdfc87dc360d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693515
+        }
+    ],
     "wof:id":739693515,
-    "wof:lastmodified":1472652182,
+    "wof:lastmodified":1492031396,
     "wof:name":"ATA Tire Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

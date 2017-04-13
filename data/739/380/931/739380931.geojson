@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.566793,38.768027,-77.566793,38.768027",
     "geom:latitude":38.768027,
     "geom:longitude":-77.566793,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BAkjArpb9eRs4AWSiLH1f_38.768027_-77.566793@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906214,
     "wof:geomhash":"33995b68ca1b079e0993458eab53d588",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739380931
+        }
+    ],
     "wof:id":739380931,
-    "wof:lastmodified":1472651365,
+    "wof:lastmodified":1492033081,
     "wof:name":"Style Roofing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

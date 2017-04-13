@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.523246,38.009595,-78.523246,38.009595",
     "geom:latitude":38.009595,
     "geom:longitude":-78.523246,
@@ -31,17 +32,30 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06U6GB4H8y0dtV2irKmCSf_38.009595_-78.523246@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888075,
-    "wof:geomhash":"e702448c90c527445e39f05b3a4c9010",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c9f34b8ef5149dd8cf08f0f95ecc55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722757443
+        }
+    ],
     "wof:id":722757443,
-    "wof:lastmodified":1472651725,
+    "wof:lastmodified":1492071943,
     "wof:name":"Helpful Hints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

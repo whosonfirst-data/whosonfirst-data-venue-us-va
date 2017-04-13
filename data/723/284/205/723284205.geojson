@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.196622,38.7347,-77.196622,38.7347",
     "geom:latitude":38.7347,
     "geom:longitude":-77.196622,
@@ -38,17 +39,32 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729775,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_002KKa7i8ToYd0H20kFzg7_38.734700_-77.196622@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898757,
-    "wof:geomhash":"712fd7b156dda65c0d0ae4f9c0de6846",
-    "wof:hierarchy":[],
+    "wof:geomhash":"487b7c8c79769362c455ab9d217e5885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729775,
+            "region_id":85688747,
+            "venue_id":723284205
+        }
+    ],
     "wof:id":723284205,
-    "wof:lastmodified":1472651742,
+    "wof:lastmodified":1492048894,
     "wof:name":"Respicare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

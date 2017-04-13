@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.338448,37.498421,-77.338448,37.498421",
     "geom:latitude":37.498421,
     "geom:longitude":-77.338448,
@@ -36,7 +37,13 @@
     ],
     "sg:website":"http://www.millionair-richmond.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d1UoWAgRf8nXxRpZqL6bC_37.498413_-77.338454@1293134755"
@@ -44,9 +51,18 @@
     "wof:country":"US",
     "wof:created":1461909531,
     "wof:geomhash":"e2eb44ccab68fe980bc8891aca26797e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":739558849
+        }
+    ],
     "wof:id":739558849,
-    "wof:lastmodified":1472651889,
+    "wof:lastmodified":1492031308,
     "wof:name":"Million Air-Richmond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.47306,38.444714,-77.47306,38.444714",
     "geom:latitude":38.444714,
     "geom:longitude":-77.47306,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ly8SarJQHyUNPsfQcn5Da_38.444714_-77.473060@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884829,
-    "wof:geomhash":"c8b08299140cb9ebfd335d03b2d22dbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca9e22991951fd35a0342c3b687881d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":722592155
+        }
+    ],
     "wof:id":722592155,
-    "wof:lastmodified":1472651202,
+    "wof:lastmodified":1492069960,
     "wof:name":"Reger Enterprises Inc",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508535,38.249883,-77.508535,38.249883",
     "geom:latitude":38.249883,
     "geom:longitude":-77.508535,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.sunbeltrentals.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O4YKHqhTCNPEaXdt9syOZ_38.249883_-77.508535@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907764,
     "wof:geomhash":"d359da092bb5ba30655d8b9969ce3f67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739462883
+        }
+    ],
     "wof:id":739462883,
-    "wof:lastmodified":1472651644,
+    "wof:lastmodified":1492033349,
     "wof:name":"Sunbelt Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

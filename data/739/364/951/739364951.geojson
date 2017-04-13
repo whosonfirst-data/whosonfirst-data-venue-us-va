@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.462996,38.694167,-77.462996,38.694167",
     "geom:latitude":38.694167,
     "geom:longitude":-77.462996,
@@ -32,7 +33,13 @@
         "massage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01MXnKRXjsE8bAscKunQcD_38.694167_-77.462996@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905900,
     "wof:geomhash":"082285e06dee857fa77117901605a273",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":739364951
+        }
+    ],
     "wof:id":739364951,
-    "wof:lastmodified":1472651369,
+    "wof:lastmodified":1492031774,
     "wof:name":"Prince William Sports Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

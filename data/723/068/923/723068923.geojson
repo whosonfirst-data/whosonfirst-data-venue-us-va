@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.478488,38.780438,-77.478488,38.780438",
     "geom:latitude":38.780438,
     "geom:longitude":-77.478488,
@@ -31,17 +32,32 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729245,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29MHkO8t2MgG0WseKfsl6y_38.780438_-77.478488@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894431,
-    "wof:geomhash":"0d22d08a1c2122dd6bfa32fc81dc1058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27c7e9542e0ca4a0a604c0df3dd54fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729245,
+            "region_id":85688747,
+            "venue_id":723068923
+        }
+    ],
     "wof:id":723068923,
-    "wof:lastmodified":1472651247,
+    "wof:lastmodified":1492057218,
     "wof:name":"Serendipity Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

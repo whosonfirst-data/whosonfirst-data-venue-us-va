@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.042579,36.677777,-82.042579,36.677777",
     "geom:latitude":36.677777,
     "geom:longitude":-82.042579,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SponAkPlQ5Goq2NWVGt3G_36.677777_-82.042579@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890902,
-    "wof:geomhash":"bfac093ad96b28a1bb44b3948e14b87f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcfaf869c98d1df606c82e695ac81b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722905655
+        }
+    ],
     "wof:id":722905655,
-    "wof:lastmodified":1472652118,
+    "wof:lastmodified":1492069006,
     "wof:name":"Gregory Movers Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

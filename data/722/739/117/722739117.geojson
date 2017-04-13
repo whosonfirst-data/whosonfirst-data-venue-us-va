@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.844218,37.155377,-76.844218,37.155377",
     "geom:latitude":37.155377,
     "geom:longitude":-76.844218,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vAnQGhkklPs2M5N2tyS9d_37.155377_-76.844218@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887724,
-    "wof:geomhash":"cb47da0874b95bfc0cc5e75ac8aeb228",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e430b674fb5cb0f0c9a75457f7311e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":722739117
+        }
+    ],
     "wof:id":722739117,
-    "wof:lastmodified":1472651662,
+    "wof:lastmodified":1492067341,
     "wof:name":"Thomas Transportation",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

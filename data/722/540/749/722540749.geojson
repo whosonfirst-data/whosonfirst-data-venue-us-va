@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.962367,37.251204,-79.962367,37.251204",
     "geom:latitude":37.251204,
     "geom:longitude":-79.962367,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3omoCmaOQFFSCfez0ZsT9r_37.251204_-79.962367@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883816,
-    "wof:geomhash":"4dad7a8368ff17edad56c59559e655a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af5edea346eb41cc0bb7078aac44ba20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":722540749
+        }
+    ],
     "wof:id":722540749,
-    "wof:lastmodified":1472651095,
+    "wof:lastmodified":1492065969,
     "wof:name":"Resource Networking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

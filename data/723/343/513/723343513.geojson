@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.127623,38.848071,-77.127623,38.848071",
     "geom:latitude":38.848071,
     "geom:longitude":-77.127623,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WVjEVq7KR02lOK6A32Yx8_38.848071_-77.127623@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899873,
-    "wof:geomhash":"d99e5bf43f2d740f33e4b4d0ba1ba9a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"103eede846233bc751ce9c7dce8af582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":723343513
+        }
+    ],
     "wof:id":723343513,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492050683,
     "wof:name":"Applied Science Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

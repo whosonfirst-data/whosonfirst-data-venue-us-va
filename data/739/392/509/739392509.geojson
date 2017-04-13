@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.809646,37.714195,-79.809646,37.714195",
     "geom:latitude":37.714195,
     "geom:longitude":-79.809646,
@@ -28,7 +29,12 @@
     "sg:postcode":"24085",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7brfkCEucIA6hniK2f3DYk_37.714195_-79.809646@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906440,
     "wof:geomhash":"1e3207db9e85b21a65edb4ebc09720b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739392509
+        }
+    ],
     "wof:id":739392509,
-    "wof:lastmodified":1472651419,
+    "wof:lastmodified":1492031625,
     "wof:name":"Virginia Coop Fishery Wildlife",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

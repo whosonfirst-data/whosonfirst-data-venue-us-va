@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.414293,38.461155,-77.414293,38.461155",
     "geom:latitude":38.461155,
     "geom:longitude":-77.414293,
@@ -31,17 +32,26 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75eifk0aiVExxmneo2IuzJ_38.461155_-77.414293@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900790,
-    "wof:geomhash":"0b2b95c778ae28fc7d4d9080109a6dec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4870b2ff14fe1bfb09fa4ef7d17b5aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":723390919
+        }
+    ],
     "wof:id":723390919,
-    "wof:lastmodified":1472652139,
+    "wof:lastmodified":1492054701,
     "wof:name":"Staffordshire Vending",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

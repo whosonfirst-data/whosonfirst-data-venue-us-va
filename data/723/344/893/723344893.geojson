@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441364,38.386432,-77.441364,38.386432",
     "geom:latitude":38.386432,
     "geom:longitude":-77.441364,
@@ -35,17 +36,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q52RG8IlOeMiBRWGTRNe5_38.386432_-77.441364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899906,
-    "wof:geomhash":"b663bc30fc0eae9d17b56ce1aceeae64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad61a0615987f5a3fb4c5fdeadbcbf04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723344893
+        }
+    ],
     "wof:id":723344893,
-    "wof:lastmodified":1472651967,
+    "wof:lastmodified":1492058254,
     "wof:name":"Mare of Aquia",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

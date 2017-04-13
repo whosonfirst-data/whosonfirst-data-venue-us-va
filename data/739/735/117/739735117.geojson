@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.954354,37.315537,-79.954354,37.315537",
     "geom:latitude":37.315537,
     "geom:longitude":-79.954354,
@@ -93,7 +94,13 @@
     ],
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RbQKYWx6dK7PlUdbbXbhn_37.315537_-79.954354@1303262552"
@@ -101,9 +108,18 @@
     "wof:country":"US",
     "wof:created":1461913301,
     "wof:geomhash":"5cb5d1ca07fea4125cfe2e91dce92043",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735117
+        }
+    ],
     "wof:id":739735117,
-    "wof:lastmodified":1472652231,
+    "wof:lastmodified":1492032051,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

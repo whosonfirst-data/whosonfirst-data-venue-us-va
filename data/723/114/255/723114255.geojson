@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.306785,36.903865,-81.306785,36.903865",
     "geom:latitude":36.903865,
     "geom:longitude":-81.306785,
@@ -31,17 +32,26 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547325
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E3SDLjX2aDQsOFeG5p1sj_36.903865_-81.306785@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895405,
-    "wof:geomhash":"425eb21092cacd1f81cd7d196c12d3a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1e264ed732d031e326a5eaa71afb2c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547325,
+            "venue_id":723114255
+        }
+    ],
     "wof:id":723114255,
-    "wof:lastmodified":1472651330,
+    "wof:lastmodified":1492060504,
     "wof:name":"Rosewood Memorial Gardens",
     "wof:parent_id":420547325,
     "wof:placetype":"venue",

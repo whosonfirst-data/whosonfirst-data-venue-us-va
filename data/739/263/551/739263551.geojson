@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.142736,36.584898,-82.142736,36.584898",
     "geom:latitude":36.584898,
     "geom:longitude":-82.142736,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yIqMJF6pVHf7LUzpYvjFs_36.584898_-82.142736@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903777,
-    "wof:geomhash":"a9e036831789c4cd8831e97c0144bb87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd0c98de9f5370b81b898899d544dd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":739263551
+        }
+    ],
     "wof:id":739263551,
-    "wof:lastmodified":1472651121,
+    "wof:lastmodified":1492040288,
     "wof:name":"Village Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

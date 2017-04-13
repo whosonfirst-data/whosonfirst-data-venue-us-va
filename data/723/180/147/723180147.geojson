@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.275439,37.467705,-79.275439,37.467705",
     "geom:latitude":37.467705,
     "geom:longitude":-79.275439,
@@ -32,17 +33,30 @@
         "closed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rTANfE4OvnpqsJnB6GZ2p_37.467705_-79.275439@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896685,
-    "wof:geomhash":"2ab8e534d9ba0ec2de28b0ad27d85efd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70c710923b2939390cd3e9e6a675fd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723180147
+        }
+    ],
     "wof:id":723180147,
-    "wof:lastmodified":1472651513,
+    "wof:lastmodified":1492049175,
     "wof:name":"Bob Platt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

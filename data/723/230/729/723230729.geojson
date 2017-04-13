@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.289423,38.355676,-77.289423,38.355676",
     "geom:latitude":38.355676,
     "geom:longitude":-77.289423,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70HECM0SejPO3Qy92ex6HB_38.355676_-77.289423@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897721,
-    "wof:geomhash":"e321309aec79ad55b182a2361a9765d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56768069f39e9e49ec79308bf937826f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":723230729
+        }
+    ],
     "wof:id":723230729,
-    "wof:lastmodified":1472651650,
+    "wof:lastmodified":1492053111,
     "wof:name":"Closet Interiors Plus Inc",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

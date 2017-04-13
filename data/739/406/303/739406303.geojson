@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.031602,36.714301,-78.031602,36.714301",
     "geom:latitude":36.714301,
     "geom:longitude":-78.031602,
@@ -31,7 +32,12 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qICJcP7CjLCLpaxiv4ZC2_36.714301_-78.031602@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906703,
     "wof:geomhash":"bdf6c6aeab0742ea580c65cf24b98f9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739406303
+        }
+    ],
     "wof:id":739406303,
-    "wof:lastmodified":1472651447,
+    "wof:lastmodified":1492033175,
     "wof:name":"Whitby's Orchard & Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

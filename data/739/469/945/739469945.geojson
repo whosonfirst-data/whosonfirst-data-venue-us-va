@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.594068,38.415879,-77.594068,38.415879",
     "geom:latitude":38.415879,
     "geom:longitude":-77.594068,
@@ -32,17 +33,26 @@
         "technologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547273
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mUdeShiHoC3ZHEFVq4bIg_38.415879_-77.594068@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907886,
-    "wof:geomhash":"24f50442b32715812b34c429067054d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d197a09a0b76f725018639109ce1a19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547273,
+            "venue_id":739469945
+        }
+    ],
     "wof:id":739469945,
-    "wof:lastmodified":1472651643,
+    "wof:lastmodified":1492047041,
     "wof:name":"Robert L Buchanan",
     "wof:parent_id":420547273,
     "wof:placetype":"venue",

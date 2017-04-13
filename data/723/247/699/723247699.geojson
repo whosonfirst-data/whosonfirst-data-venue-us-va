@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508291,39.093198,-77.508291,39.093198",
     "geom:latitude":39.093198,
     "geom:longitude":-77.508291,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RbEpy7WzG8j7wTx7fBoiL_39.093198_-77.508291@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898073,
-    "wof:geomhash":"95cbd35e3dc782a09a1185ec6f692809",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3657c1897e9e777f1027dced84c67d12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":723247699
+        }
+    ],
     "wof:id":723247699,
-    "wof:lastmodified":1472651700,
+    "wof:lastmodified":1492053542,
     "wof:name":"MCA Computer Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

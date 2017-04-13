@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.508662,37.692056,-77.508662,37.692056",
     "geom:latitude":37.692056,
     "geom:longitude":-77.508662,
@@ -31,17 +32,30 @@
         "genealogist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zYVdw42sq82kuV6err9HD_37.692056_-77.508662@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887690,
-    "wof:geomhash":"db26a76953c4df59db34437e9a18568c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3bf7a68014e1cefaf965718a32ebdf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722737397
+        }
+    ],
     "wof:id":722737397,
-    "wof:lastmodified":1472651682,
+    "wof:lastmodified":1492070614,
     "wof:name":"Virginia Family Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

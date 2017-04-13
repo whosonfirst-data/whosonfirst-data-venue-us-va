@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.541826,37.128122,-80.541826,37.128122",
     "geom:latitude":37.128122,
     "geom:longitude":-80.541826,
@@ -39,6 +40,7 @@
         85633793,
         101728831,
         102081063,
+        420548263,
         85810035
     ],
     "wof:breaches":[],
@@ -47,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461908595,
-    "wof:geomhash":"96185457590446768c2b56cf9430cd02",
+    "wof:geomhash":"6eb9b5084b62342c3b75560abd262364",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081063,
+            "locality_id":101728831,
+            "neighbourhood_id":420548263,
+            "region_id":85688747,
+            "venue_id":739509167
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":739509167,
-    "wof:lastmodified":1472651742,
+    "wof:lastmodified":1492045871,
     "wof:name":"Harvey's Chevrolet Cadillac",
-    "wof:parent_id":85810035,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

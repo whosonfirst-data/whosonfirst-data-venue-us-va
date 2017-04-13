@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.428556,37.19772,-77.428556,37.19772",
     "geom:latitude":37.19772,
     "geom:longitude":-77.428556,
@@ -31,17 +32,32 @@
         "exhibit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gZHNBXnlvbchRvIB1hHzc_37.197720_-77.428556@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908086,
-    "wof:geomhash":"ea9a0cb4fdafb36df92666e5d720217f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7bca15d86d76a2f6d68da679e3b6ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":739480855
+        }
+    ],
     "wof:id":739480855,
-    "wof:lastmodified":1472651653,
+    "wof:lastmodified":1492046168,
     "wof:name":"Buffalo Soldiers Exhibit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

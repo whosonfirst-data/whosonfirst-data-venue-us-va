@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.944094,37.271167,-79.944094,37.271167",
     "geom:latitude":37.271167,
     "geom:longitude":-79.944094,
@@ -34,7 +35,13 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Fw0a8XRz91Im0OKamRtqU_37.271167_-79.944094@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461908551,
     "wof:geomhash":"e3bcb75223f4aaf0e8850586af4a3211",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739506887
+        }
+    ],
     "wof:id":739506887,
-    "wof:lastmodified":1472651843,
+    "wof:lastmodified":1492032886,
     "wof:name":"Downtown Music Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

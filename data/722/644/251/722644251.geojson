@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.253673,37.379579,-79.253673,37.379579",
     "geom:latitude":37.379579,
     "geom:longitude":-79.253673,
@@ -31,17 +32,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729665,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WMhc99gBJ6u6kp83Acjjf_37.379579_-79.253673@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885915,
-    "wof:geomhash":"135ee58f230dcf3b7b45e89d80e2bea4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7768a73c25328d655371468ce737472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "locality_id":101729665,
+            "region_id":85688747,
+            "venue_id":722644251
+        }
+    ],
     "wof:id":722644251,
-    "wof:lastmodified":1472651435,
+    "wof:lastmodified":1492064975,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

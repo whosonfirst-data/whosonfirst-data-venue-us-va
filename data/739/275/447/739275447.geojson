@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.159205,39.166691,-78.159205,39.166691",
     "geom:latitude":39.166691,
     "geom:longitude":-78.159205,
@@ -28,7 +29,13 @@
     "sg:postcode":"22601",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hcbGwKIJc7ic5F2crujoj_39.166691_-78.159205@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904049,
     "wof:geomhash":"4a2f70c71f4b39b4051521fc77c2a287",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739275447
+        }
+    ],
     "wof:id":739275447,
-    "wof:lastmodified":1472651157,
+    "wof:lastmodified":1492031066,
     "wof:name":"Trinkle Brass Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

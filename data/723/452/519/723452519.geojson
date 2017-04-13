@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.153587,38.841175,-77.153587,38.841175",
     "geom:latitude":38.841175,
     "geom:longitude":-77.153587,
@@ -37,8 +38,10 @@
         85688747,
         102191575,
         85633793,
-        101729759,
+        101729761,
         102084863,
+        85840675,
+        101729759,
         85805665
     ],
     "wof:breaches":[],
@@ -47,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901985,
-    "wof:geomhash":"2d240512e6661746a7a0b2e8a8c7e514",
+    "wof:geomhash":"fe45242fc702fd3d232431a2c1fcd3ea",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85840675,
+            "region_id":85688747,
+            "venue_id":723452519
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":723452519,
-    "wof:lastmodified":1472652299,
+    "wof:lastmodified":1492052222,
     "wof:name":"Amway Affl Ind Bus Owners",
-    "wof:parent_id":85805665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

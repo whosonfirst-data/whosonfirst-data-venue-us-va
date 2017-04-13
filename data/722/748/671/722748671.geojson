@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457416,38.317974,-77.457416,38.317974",
     "geom:latitude":38.317974,
     "geom:longitude":-77.457416,
@@ -34,17 +35,30 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vpVrQOZ5080Q392esqWiU_38.317974_-77.457416@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887915,
-    "wof:geomhash":"2a2abfcdbd1394825f3778263381e05a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77d54faf833ee4acb51cecfa6af32abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "region_id":85688747,
+            "venue_id":722748671
+        }
+    ],
     "wof:id":722748671,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492072395,
     "wof:name":"Rappahannock Area YMCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

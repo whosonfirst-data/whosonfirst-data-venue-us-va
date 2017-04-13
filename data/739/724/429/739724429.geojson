@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.569221,37.498241,-77.569221,37.498241",
     "geom:latitude":37.498241,
     "geom:longitude":-77.569221,
@@ -40,7 +41,12 @@
     ],
     "sg:website":"https://www.drivetime.com/getapprovedppc/default.aspx?source=A4D8C2C1BBE54235A11457E24A24EAE5&campaign=bc",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qn5zZnVLqouYWTOLuap2U_37.498241_-77.569221@1303262551"
@@ -48,9 +54,17 @@
     "wof:country":"US",
     "wof:created":1461913082,
     "wof:geomhash":"fec9373ca7dd072b6a4df38df8f7bf33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724429
+        }
+    ],
     "wof:id":739724429,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492030962,
     "wof:name":"DriveTime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

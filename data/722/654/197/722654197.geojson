@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.576642,38.34079,-77.576642,38.34079",
     "geom:latitude":38.34079,
     "geom:longitude":-77.576642,
@@ -32,19 +33,28 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75GBqzKnPkCSsB5vosfIzx_38.340790_-77.576642@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886088,
-    "wof:geomhash":"554a501e2f724f80b60c13846fab7432",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c19d9b01155b23aedab01c9e4ea18bfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":722654197
+        }
+    ],
     "wof:id":722654197,
-    "wof:lastmodified":1472651447,
+    "wof:lastmodified":1492073036,
     "wof:name":"Communication Electronics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

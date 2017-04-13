@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.634971,37.347385,-79.634971,37.347385",
     "geom:latitude":37.347385,
     "geom:longitude":-79.634971,
@@ -28,7 +29,12 @@
     "sg:postcode":"24174",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04AL5ezODMEj1Eow2mH2yb_37.347385_-79.634971@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905681,
     "wof:geomhash":"5fd90e97c35c337bf874531d135d724c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739353127
+        }
+    ],
     "wof:id":739353127,
-    "wof:lastmodified":1472651328,
+    "wof:lastmodified":1492030564,
     "wof:name":"Blue Ridge Exterminating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

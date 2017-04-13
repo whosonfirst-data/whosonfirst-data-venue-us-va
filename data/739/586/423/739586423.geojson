@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.754653,37.271428,-76.754653,37.271428",
     "geom:latitude":37.271428,
     "geom:longitude":-76.754653,
@@ -33,7 +34,10 @@
         "steakhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gyFi5uQz7hZ3We47orhPe_37.271428_-76.754653@1299784598"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461910129,
     "wof:geomhash":"8c294fa984a4a94ee382a0b736b63ca9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739586423
+        }
+    ],
     "wof:id":739586423,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492031874,
     "wof:name":"LongHorn Steakhouse",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

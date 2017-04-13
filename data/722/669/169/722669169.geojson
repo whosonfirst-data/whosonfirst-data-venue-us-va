@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.522616,38.302511,-77.522616,38.302511",
     "geom:latitude":38.302511,
     "geom:longitude":-77.522616,
@@ -37,17 +38,30 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t1cTT0Lfij9IlWm7oXpKU_38.302511_-77.522616@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886382,
-    "wof:geomhash":"2cfde03cccae85773c5ecc2bb2308b98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f79c479a3b47417858906811673d97b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722669169
+        }
+    ],
     "wof:id":722669169,
-    "wof:lastmodified":1472651464,
+    "wof:lastmodified":1492068811,
     "wof:name":"Source Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

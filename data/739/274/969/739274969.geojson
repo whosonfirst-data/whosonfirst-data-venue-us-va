@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.803665,37.385437,-76.803665,37.385437",
     "geom:latitude":37.385437,
     "geom:longitude":-76.803665,
@@ -33,7 +34,10 @@
     ],
     "sg:website":"www.williamsburgfoods.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XPD4I5EKaHmUwu6ejz9Mi_37.385437_-76.803665@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461904031,
     "wof:geomhash":"3f645d54e205dcca904bb6a978a34cb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":739274969
+        }
+    ],
     "wof:id":739274969,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492029559,
     "wof:name":"Peanut Shop",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

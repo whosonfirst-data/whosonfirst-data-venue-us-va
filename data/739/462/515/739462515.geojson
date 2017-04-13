@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737278,37.390448,-76.737278,37.390448",
     "geom:latitude":37.390448,
     "geom:longitude":-76.737278,
@@ -34,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_782llVjbxAOZ2hL1fzROxi_37.390448_-76.737278@1294252573"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461907757,
     "wof:geomhash":"9aa71d22900f263501a8b4fa8122e0f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546925,
+            "venue_id":739462515
+        }
+    ],
     "wof:id":739462515,
-    "wof:lastmodified":1472651624,
+    "wof:lastmodified":1492033356,
     "wof:name":"Richardson Carpet Service",
     "wof:parent_id":420546925,
     "wof:placetype":"venue",

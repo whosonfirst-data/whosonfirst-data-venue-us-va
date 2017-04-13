@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.772731,37.403255,-76.772731,37.403255",
     "geom:latitude":37.403255,
     "geom:longitude":-76.772731,
@@ -32,17 +33,26 @@
         "renovation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ihobnxzjPRAYwIWEWDo6B_37.403255_-76.772731@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895540,
-    "wof:geomhash":"6e2e1d64d5ce552a2508138def67cbd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53c067da426c9f0be7632dfbe687b13d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546747,
+            "venue_id":723121231
+        }
+    ],
     "wof:id":723121231,
-    "wof:lastmodified":1472651341,
+    "wof:lastmodified":1492055876,
     "wof:name":"Renovators Plus",
     "wof:parent_id":420546747,
     "wof:placetype":"venue",

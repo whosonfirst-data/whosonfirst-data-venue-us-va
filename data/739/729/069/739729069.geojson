@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.593337,36.974706,-76.593337,36.974706",
     "geom:latitude":36.974706,
     "geom:longitude":-76.593337,
@@ -28,7 +29,13 @@
     "sg:postcode":"23430",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LagBrAHR9bUwWFNkNa5iy_36.974706_-76.593337@1303262551"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913172,
     "wof:geomhash":"248d47dd03dba75b642e7a714b90e6c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739729069
+        }
+    ],
     "wof:id":739729069,
-    "wof:lastmodified":1472652217,
+    "wof:lastmodified":1492031651,
     "wof:name":"Rising Star Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

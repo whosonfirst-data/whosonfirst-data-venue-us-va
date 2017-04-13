@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.880963,38.067721,-78.880963,38.067721",
     "geom:latitude":38.067721,
     "geom:longitude":-78.880963,
@@ -28,7 +29,13 @@
     "sg:postcode":"22980",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70DJT4ClEPYS8ThZnF8JlN_38.067721_-78.880963@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907816,
     "wof:geomhash":"c1e550fbb187f1aa37e2f78e7f4abd64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739465805
+        }
+    ],
     "wof:id":739465805,
-    "wof:lastmodified":1472651638,
+    "wof:lastmodified":1492031931,
     "wof:name":"Waynesboro Flea Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

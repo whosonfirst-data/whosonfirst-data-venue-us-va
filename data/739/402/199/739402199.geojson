@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411597,38.833565,-77.411597,38.833565",
     "geom:latitude":38.833565,
     "geom:longitude":-77.411597,
@@ -31,17 +32,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PKwnPEJEJg8roj42jiW52_38.833565_-77.411597@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906621,
-    "wof:geomhash":"d735b452442428913ac2cacb3656e1a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0928d74cc2aa534f6beedf4072b1b1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739402199
+        }
+    ],
     "wof:id":739402199,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492040319,
     "wof:name":"Union Mill Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.52369,37.115336,-81.52369,37.115336",
     "geom:latitude":37.115336,
     "geom:longitude":-81.52369,
@@ -33,7 +34,10 @@
         "adm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A7w3ZqxTnjQTtDIlBa8IY_37.115336_-81.523690@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461907395,
     "wof:geomhash":"76f8afadb578f2c5364df2ce4f01bc53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739442519
+        }
+    ],
     "wof:id":739442519,
-    "wof:lastmodified":1472651571,
+    "wof:lastmodified":1492030170,
     "wof:name":"Tazewell County Economic Dev",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

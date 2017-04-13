@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.906116,37.365984,-79.906116,37.365984",
     "geom:latitude":37.365984,
     "geom:longitude":-79.906116,
@@ -28,7 +29,13 @@
     "sg:postcode":"24077",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NnyXiD55gQ4oAyDhuVQYX_37.365984_-79.906116@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907134,
     "wof:geomhash":"e826cfa9e8c897d8ee36f37b69a9b063",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":739428613
+        }
+    ],
     "wof:id":739428613,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492030972,
     "wof:name":"O'Brien's Barber & Style Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.830673,37.661429,-75.830673,37.661429",
     "geom:latitude":37.661429,
     "geom:longitude":-75.830673,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zowL4ZVpEq408BAZRN1eQ_37.661429_-75.830673@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901377,
-    "wof:geomhash":"ee88c5a854158ec73dab2fda9b010644",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef29598ed0a440cc5ed147c004354bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546535,
+            "venue_id":723421131
+        }
+    ],
     "wof:id":723421131,
-    "wof:lastmodified":1472652220,
+    "wof:lastmodified":1492056949,
     "wof:name":"Havens Heating Air Cond",
     "wof:parent_id":420546535,
     "wof:placetype":"venue",

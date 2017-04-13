@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.317381,36.926241,-76.317381,36.926241",
     "geom:latitude":36.926241,
     "geom:longitude":-76.317381,
@@ -37,6 +38,7 @@
         85633793,
         101728769,
         102085935,
+        85879277,
         85831107
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897408,
-    "wof:geomhash":"90c1be0b3def4a56f7ac53298370ba74",
+    "wof:geomhash":"45031ad7033e5c434094e1780fef94cf",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85879277,
+            "region_id":85688747,
+            "venue_id":723216973
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723216973,
-    "wof:lastmodified":1472651641,
+    "wof:lastmodified":1492049494,
     "wof:name":"KFC",
-    "wof:parent_id":85831107,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.500202,38.477702,-77.500202,38.477702",
     "geom:latitude":38.477702,
     "geom:longitude":-77.500202,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LEXyr3Lidc25xS06xPpaG_38.477702_-77.500202@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912445,
-    "wof:geomhash":"23ff62c4b74571d91753d5bc244faf11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"022a8d78ec786697624ba0499430b797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547279,
+            "venue_id":739695085
+        }
+    ],
     "wof:id":739695085,
-    "wof:lastmodified":1472652153,
+    "wof:lastmodified":1492045336,
     "wof:name":"Cottoms Trucking, Inc.",
     "wof:parent_id":420547279,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.964835,37.331385,-79.964835,37.331385",
     "geom:latitude":37.331385,
     "geom:longitude":-79.964835,
@@ -31,17 +32,32 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tyh7DGHBlwQcg7s6qkQ4d_37.331385_-79.964835@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902762,
-    "wof:geomhash":"f7220e5fa65fd8511e1224b0f39dde1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f54e8f3e98f4e1f78697e1329527734d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723491165
+        }
+    ],
     "wof:id":723491165,
-    "wof:lastmodified":1472652334,
+    "wof:lastmodified":1492061201,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

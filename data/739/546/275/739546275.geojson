@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.882189,37.559226,-77.882189,37.559226",
     "geom:latitude":37.559226,
     "geom:longitude":-77.882189,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"www.blessedsacramenthuguenot.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I7EVzjbbhZEpNpvjwGoaB_37.559226_-77.882189@1294252573"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461909287,
     "wof:geomhash":"5ea9f774e5354647ca652a48f378e8c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739546275
+        }
+    ],
     "wof:id":739546275,
-    "wof:lastmodified":1472651858,
+    "wof:lastmodified":1492031580,
     "wof:name":"Blessed Sacrament Huguenot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

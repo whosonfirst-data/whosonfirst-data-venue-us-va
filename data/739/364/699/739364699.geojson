@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.890042,36.690306,-79.890042,36.690306",
     "geom:latitude":36.690306,
     "geom:longitude":-79.890042,
@@ -28,7 +29,13 @@
     "sg:postcode":"24112",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38z73QZuqLbB5n1nZ04NIp_36.690306_-79.890042@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905895,
     "wof:geomhash":"ec083415aa362ae488aa8d48ffab1bc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":739364699
+        }
+    ],
     "wof:id":739364699,
-    "wof:lastmodified":1472651356,
+    "wof:lastmodified":1492031771,
     "wof:name":"Plunder Junction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

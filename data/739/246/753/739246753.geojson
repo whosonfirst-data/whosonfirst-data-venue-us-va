@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436245,37.323622,-77.436245,37.323622",
     "geom:latitude":37.323622,
     "geom:longitude":-77.436245,
@@ -31,19 +32,32 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        85868231,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eXV1FctaDU8pA1P1SgWjB_37.323622_-77.436245@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903408,
-    "wof:geomhash":"8ce694c1f3bd66cf0796e20f3568814a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f114a12e132198f7d514f0127931b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084955,
+            "neighbourhood_id":85868231,
+            "region_id":85688747,
+            "venue_id":739246753
+        }
+    ],
     "wof:id":739246753,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492038428,
     "wof:name":"Bullworks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

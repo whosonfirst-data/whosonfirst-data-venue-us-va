@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.461863,38.836189,-77.461863,38.836189",
     "geom:latitude":38.836189,
     "geom:longitude":-77.461863,
@@ -32,17 +33,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XwQ3FNJx1nqDUvXb1Db9O_38.836189_-77.461863@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908017,
-    "wof:geomhash":"b67252468da169e5c90e1e0ecfbc01c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fced8762089de34cdcd710b57a6b030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739477153
+        }
+    ],
     "wof:id":739477153,
-    "wof:lastmodified":1472651604,
+    "wof:lastmodified":1492042475,
     "wof:name":"Soft Tips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

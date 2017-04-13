@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.38691,38.673096,-77.38691,38.673096",
     "geom:latitude":38.673096,
     "geom:longitude":-77.38691,
@@ -33,7 +34,13 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729235,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rnegypqMJnWVii6II2Afs_38.673096_-77.386910@1303262541"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461911478,
     "wof:geomhash":"6636d836660b53ac8cb19c1153e5e028",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729235,
+            "region_id":85688747,
+            "venue_id":739649167
+        }
+    ],
     "wof:id":739649167,
-    "wof:lastmodified":1472652043,
+    "wof:lastmodified":1492031105,
     "wof:name":"Motor Point Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

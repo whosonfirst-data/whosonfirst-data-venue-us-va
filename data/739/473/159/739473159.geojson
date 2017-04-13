@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.92362,36.678999,-76.92362,36.678999",
     "geom:latitude":36.678999,
     "geom:longitude":-76.92362,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.beldar.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728635,
+        102084891
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CeHhJ1EFvq96fV17BJnpF_36.678999_-76.923620@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907948,
     "wof:geomhash":"6b67063932b502adc309fa07b0d3bac3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084891,
+            "locality_id":101728635,
+            "region_id":85688747,
+            "venue_id":739473159
+        }
+    ],
     "wof:id":739473159,
-    "wof:lastmodified":1472651605,
+    "wof:lastmodified":1492032900,
     "wof:name":"Beldar Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

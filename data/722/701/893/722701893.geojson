@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.992221,36.707971,-81.992221,36.707971",
     "geom:latitude":36.707971,
     "geom:longitude":-81.992221,
@@ -31,17 +32,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6USMBdFfrSgMGnYRfAvq5A_36.707971_-81.992221@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887005,
-    "wof:geomhash":"575ad7f840a97ca4780c992eac560671",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c064c16c1d7c6e14076a3772a94344d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722701893
+        }
+    ],
     "wof:id":722701893,
-    "wof:lastmodified":1472651587,
+    "wof:lastmodified":1492074050,
     "wof:name":"Camel Tow Service",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

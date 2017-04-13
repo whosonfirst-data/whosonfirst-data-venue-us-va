@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.431164,36.977424,-76.431164,36.977424",
     "geom:latitude":36.977424,
     "geom:longitude":-76.431164,
@@ -37,6 +38,7 @@
         85633793,
         101729041,
         102085961,
+        85881977,
         85879213
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461896821,
-    "wof:geomhash":"88b5767f77511b8c32833ff23b87234b",
+    "wof:geomhash":"92594b76d66cf0e56b3015accad240e8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85881977,
+            "region_id":85688747,
+            "venue_id":723186825
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723186825,
-    "wof:lastmodified":1472651540,
+    "wof:lastmodified":1492058762,
     "wof:name":"Pretrial Services Office",
-    "wof:parent_id":85879213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

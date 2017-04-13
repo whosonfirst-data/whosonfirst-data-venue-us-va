@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.312338,37.275212,-80.312338,37.275212",
     "geom:latitude":37.275212,
     "geom:longitude":-80.312338,
@@ -31,17 +32,26 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gcPXdLZA85JYKNwb3yamH_37.275212_-80.312338@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905620,
-    "wof:geomhash":"ea7caf049f11f57a78faae165cb87a45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd73de30be886781adff8ed308f4e714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546989,
+            "venue_id":739350605
+        }
+    ],
     "wof:id":739350605,
-    "wof:lastmodified":1472651325,
+    "wof:lastmodified":1492038266,
     "wof:name":"Paris Mountain Stable",
     "wof:parent_id":420546989,
     "wof:placetype":"venue",

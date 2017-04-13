@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.168126,38.783719,-77.168126,38.783719",
     "geom:latitude":38.783719,
     "geom:longitude":-77.168126,
@@ -38,6 +39,7 @@
         85633793,
         101729743,
         102084863,
+        85850737,
         85875835
     ],
     "wof:breaches":[],
@@ -46,8 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902001,
-    "wof:geomhash":"0d92458fa38365593b2b55950c66d2e9",
+    "wof:geomhash":"958cfd7b0d11901d66abc03436973949",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729743,
+            "neighbourhood_id":85850737,
+            "region_id":85688747,
+            "venue_id":723453505
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +70,9 @@
         }
     ],
     "wof:id":723453505,
-    "wof:lastmodified":1472652299,
+    "wof:lastmodified":1492048590,
     "wof:name":"Springboard Recreation",
-    "wof:parent_id":85875835,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

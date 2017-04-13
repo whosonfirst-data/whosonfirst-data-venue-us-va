@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.943808,37.269248,-79.943808,37.269248",
     "geom:latitude":37.269248,
     "geom:longitude":-79.943808,
@@ -28,7 +29,13 @@
     "sg:postcode":"24011",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62z12ZfrnjgPPlxYtASex4_37.269248_-79.943808@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907841,
     "wof:geomhash":"c60f274d09c6f3b541366f8317091e10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739467253
+        }
+    ],
     "wof:id":739467253,
-    "wof:lastmodified":1472651605,
+    "wof:lastmodified":1492030513,
     "wof:name":"Carson W Young",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

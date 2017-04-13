@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.255583,38.799396,-77.255583,38.799396",
     "geom:latitude":38.799396,
     "geom:longitude":-77.255583,
@@ -39,7 +40,9 @@
         85633793,
         101729731,
         102084863,
-        85826119
+        85826119,
+        101729831,
+        85844033
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887170,
-    "wof:geomhash":"e0a00dd8f8e7bc032472d937a1ef2f8f",
+    "wof:geomhash":"b7a7383ff6284580d3d8378cf8075083",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,21 @@
             "neighbourhood_id":85826119,
             "region_id":85688747,
             "venue_id":722710967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729831,
+            "neighbourhood_id":85844033,
+            "region_id":85688747,
+            "venue_id":722710967
         }
     ],
     "wof:id":722710967,
-    "wof:lastmodified":1472651584,
+    "wof:lastmodified":1492074383,
     "wof:name":"Becraft Associates Ctr",
-    "wof:parent_id":85826119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

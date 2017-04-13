@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.060266,38.741806,-77.060266,38.741806",
     "geom:latitude":38.741806,
     "geom:longitude":-77.060266,
@@ -37,7 +38,8 @@
         85633793,
         101729741,
         102084863,
-        85893977
+        85893977,
+        420546697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885026,
-    "wof:geomhash":"0901829d82e911c3173c45b3ebf24ca9",
+    "wof:geomhash":"901751be8447d1717cd9cbe75dd471c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85893977,
             "region_id":85688747,
             "venue_id":722602239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729741,
+            "neighbourhood_id":420546697,
+            "region_id":85688747,
+            "venue_id":722602239
         }
     ],
     "wof:id":722602239,
-    "wof:lastmodified":1472651276,
+    "wof:lastmodified":1492075356,
     "wof:name":"Old Dominion Roofing",
-    "wof:parent_id":85893977,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

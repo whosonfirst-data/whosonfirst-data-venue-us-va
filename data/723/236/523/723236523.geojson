@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.999069,36.705437,-81.999069,36.705437",
     "geom:latitude":36.705437,
     "geom:longitude":-81.999069,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dUrzrB7d0tXHAAaGe74oy_36.705437_-81.999069@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897836,
-    "wof:geomhash":"e4b4d1474e31bdedbc5abf2df8d5c129",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fdc6e5fff7f3e12a2479a279aa0976d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723236523
+        }
+    ],
     "wof:id":723236523,
-    "wof:lastmodified":1472651675,
+    "wof:lastmodified":1492053850,
     "wof:name":"Impact International Church",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

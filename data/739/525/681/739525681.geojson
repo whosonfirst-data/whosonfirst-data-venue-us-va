@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.473713,39.044082,-77.473713,39.044082",
     "geom:latitude":39.044082,
     "geom:longitude":-77.473713,
@@ -31,7 +32,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aZVjNs4C4lVvdUKfOcVkh_39.044082_-77.473713@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908899,
     "wof:geomhash":"99fb76fdf2fbc2ed26306a8d5d3c397c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739525681
+        }
+    ],
     "wof:id":739525681,
-    "wof:lastmodified":1472651826,
+    "wof:lastmodified":1492032638,
     "wof:name":"Mobil Ashburn Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

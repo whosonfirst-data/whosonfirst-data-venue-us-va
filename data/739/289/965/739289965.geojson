@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.938763,37.508186,-75.938763,37.508186",
     "geom:latitude":37.508186,
     "geom:longitude":-75.938763,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087293
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wwJysrjefRnAvf4wbCDps_37.508186_-75.938763@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904366,
-    "wof:geomhash":"642695b849fbbc6151e5103b496645fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"728aa4979056a361671088f63d7ec7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087293,
+            "region_id":85688747,
+            "venue_id":739289965
+        }
+    ],
     "wof:id":739289965,
-    "wof:lastmodified":1472651179,
+    "wof:lastmodified":1492047148,
     "wof:name":"St Mary's Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

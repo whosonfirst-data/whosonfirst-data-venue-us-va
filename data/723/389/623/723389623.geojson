@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.3677,38.2778,-77.3677,38.2778",
     "geom:latitude":38.2778,
     "geom:longitude":-77.3677,
@@ -28,19 +29,34 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547259,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rXzWgJgkkTrPcBcsgXRPk_38.277800_-77.367700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900761,
-    "wof:geomhash":"1656823ff59a7147a14ac4eeb8252d9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58b1ab050151eccf0d3f3cfcf70ca0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547259,
+            "venue_id":723389623
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":723389623
+        }
+    ],
     "wof:id":723389623,
-    "wof:lastmodified":1472652134,
+    "wof:lastmodified":1492057228,
     "wof:name":"Union Bell Baptist Church",
-    "wof:parent_id":420547259,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

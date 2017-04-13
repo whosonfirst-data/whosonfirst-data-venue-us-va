@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.797128,37.249859,-76.797128,37.249859",
     "geom:latitude":37.249859,
     "geom:longitude":-76.797128,
@@ -28,19 +29,34 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546783,
+        420546797
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VPpNFsFwnZ9KOFSnxDgDY_37.249859_-76.797128@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897008,
-    "wof:geomhash":"c1ec3a403418655f61f958f88a682908",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72b4f06b144f9ba286aaa4faecbccec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546783,
+            "venue_id":723196739
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546797,
+            "venue_id":723196739
+        }
+    ],
     "wof:id":723196739,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492048015,
     "wof:name":"Snow & Associates Inc",
-    "wof:parent_id":420546783,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

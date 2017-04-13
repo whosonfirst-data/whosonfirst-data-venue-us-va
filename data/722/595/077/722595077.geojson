@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.321849,38.025159,-78.321849,38.025159",
     "geom:latitude":38.025159,
     "geom:longitude":-78.321849,
@@ -32,17 +33,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V00IXGkuDmpoNEZ5dlLca_38.025159_-78.321849@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884883,
-    "wof:geomhash":"e519b68e2f06cc89077a7416542a9793",
-    "wof:hierarchy":[],
+    "wof:geomhash":"654269da570eaa805db3f49b800f9504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722595077
+        }
+    ],
     "wof:id":722595077,
-    "wof:lastmodified":1472651209,
+    "wof:lastmodified":1492071243,
     "wof:name":"Mackey Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

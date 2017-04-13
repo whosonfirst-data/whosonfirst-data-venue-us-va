@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.948401,37.24071,-79.948401,37.24071",
     "geom:latitude":37.24071,
     "geom:longitude":-79.948401,
@@ -28,7 +29,13 @@
     "sg:postcode":"24014",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dkoSfaFxtWxhibW4oS4OK_37.240710_-79.948401@1303262552"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913309,
     "wof:geomhash":"c025be745f1b792ecfa26d60ca5d50b4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735419
+        }
+    ],
     "wof:id":739735419,
-    "wof:lastmodified":1472652254,
+    "wof:lastmodified":1492032025,
     "wof:name":"Cathy Z Ford Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

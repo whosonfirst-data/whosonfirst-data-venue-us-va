@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.591117,37.345937,-76.591117,37.345937",
     "geom:latitude":37.345937,
     "geom:longitude":-76.591117,
@@ -33,7 +34,12 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xraz3ic7qwrLh07SAPnFv_37.345937_-76.591117@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461906907,
     "wof:geomhash":"4a0eade26dcdca508900d5b3c794c288",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":739417697
+        }
+    ],
     "wof:id":739417697,
-    "wof:lastmodified":1472651522,
+    "wof:lastmodified":1492031488,
     "wof:name":"Hardwoods Hauling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

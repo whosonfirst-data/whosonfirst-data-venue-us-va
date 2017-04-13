@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.469549,38.424522,-77.469549,38.424522",
     "geom:latitude":38.424522,
     "geom:longitude":-77.469549,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688747,
         85633793,
+        420547171,
+        85688747,
         85843725,
         102081931
     ],
@@ -43,8 +45,13 @@
     },
     "wof:country":"US",
     "wof:created":1461905098,
-    "wof:geomhash":"78c0e56a88411b62103cf59b39f105c4",
+    "wof:geomhash":"e838257b2a974e0843c3c4a64ca55c25",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547171,
+            "venue_id":739325957
+        },
         {
             "country_id":85633793,
             "county_id":102081931,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":739325957,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492039633,
     "wof:name":"Cantrell Sons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.292371,36.850527,-76.292371,36.850527",
     "geom:latitude":36.850527,
     "geom:longitude":-76.292371,
@@ -28,7 +29,13 @@
     "sg:postcode":"23510",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HCUQ9Fs6OUEnoPNxHtP1T_36.850527_-76.292371@1303262551"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461913208,
     "wof:geomhash":"2827521de893f9741460c1e0e5e0758d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":739730785
+        }
+    ],
     "wof:id":739730785,
-    "wof:lastmodified":1472652244,
+    "wof:lastmodified":1492033171,
     "wof:name":"Adam S Foleck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

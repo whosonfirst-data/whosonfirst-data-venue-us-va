@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.737008,36.806244,-76.737008,36.806244",
     "geom:latitude":36.806244,
     "geom:longitude":-76.737008,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.farmersbankva.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728639,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d8cCY32ttIOYwi6hmamJC_36.806244_-76.737008@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461903623,
     "wof:geomhash":"878b3a4e7c8f82f06314ffa286b7cf48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728639,
+            "region_id":85688747,
+            "venue_id":739256141
+        }
+    ],
     "wof:id":739256141,
-    "wof:lastmodified":1472651089,
+    "wof:lastmodified":1492031093,
     "wof:name":"Farmers Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

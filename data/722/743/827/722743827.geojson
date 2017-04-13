@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901661,38.069512,-78.901661,38.069512",
     "geom:latitude":38.069512,
     "geom:longitude":-78.901661,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6akH2ZKVFdTbyBFtnZk9C9_38.069512_-78.901661@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887822,
-    "wof:geomhash":"72289e28313ee691f509223c8076f093",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4890de0140ff0344862f59fe6115fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722743827
+        }
+    ],
     "wof:id":722743827,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492067379,
     "wof:name":"Associated Physicians Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

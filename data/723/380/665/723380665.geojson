@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.92521,38.08066,-78.92521,38.08066",
     "geom:latitude":38.08066,
     "geom:longitude":-78.92521,
@@ -34,17 +35,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fSiz5iSqlr3tPZAtPiOK4_38.080660_-78.925210@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900597,
-    "wof:geomhash":"df2c138fe4847b37e961284d6a5a4097",
-    "wof:hierarchy":[],
+    "wof:geomhash":"182cceacf133a838a491446ac54b4048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723380665
+        }
+    ],
     "wof:id":723380665,
-    "wof:lastmodified":1472652110,
+    "wof:lastmodified":1492051645,
     "wof:name":"Southern Electric Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

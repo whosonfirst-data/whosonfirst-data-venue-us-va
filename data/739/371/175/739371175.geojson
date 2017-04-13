@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.635575,37.475458,-77.635575,37.475458",
     "geom:latitude":37.475458,
     "geom:longitude":-77.635575,
@@ -31,7 +32,12 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ojLH2X7XHRKzSFiyfxzRa_37.475458_-77.635575@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906016,
     "wof:geomhash":"063b0a0d387b75d303a6690515b26fef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739371175
+        }
+    ],
     "wof:id":739371175,
-    "wof:lastmodified":1472651338,
+    "wof:lastmodified":1492031701,
     "wof:name":"Klean Building Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.122621,36.618191,-78.122621,36.618191",
     "geom:latitude":36.618191,
     "geom:longitude":-78.122621,
@@ -33,7 +34,12 @@
         "transporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77v50YmrMr6CQK9CdSCHUb_36.618191_-78.122621@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908469,
     "wof:geomhash":"0df8a67577c593b0fdba6a553a7d221f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "region_id":85688747,
+            "venue_id":739502137
+        }
+    ],
     "wof:id":739502137,
-    "wof:lastmodified":1472651675,
+    "wof:lastmodified":1492029587,
     "wof:name":"Monkey's Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

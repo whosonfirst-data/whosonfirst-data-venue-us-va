@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.73049,37.365954,-76.73049,37.365954",
     "geom:latitude":37.365954,
     "geom:longitude":-76.73049,
@@ -31,17 +32,26 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547345
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N663FsR7yUSncoDxS2Y3h_37.365954_-76.730490@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912826,
-    "wof:geomhash":"5b9792a6bed05ed4417dbad212c2e2a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2219bb92eaa5e2aec0d81835a90ff4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547345,
+            "venue_id":739712251
+        }
+    ],
     "wof:id":739712251,
-    "wof:lastmodified":1472652178,
+    "wof:lastmodified":1492039422,
     "wof:name":"Dans Tree Service",
     "wof:parent_id":420547345,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.889239,38.068471,-78.889239,38.068471",
     "geom:latitude":38.068471,
     "geom:longitude":-78.889239,
@@ -31,7 +32,13 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tapFrh2WM6GCMKpQaOLT1_38.068471_-78.889239@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461907698,
     "wof:geomhash":"c11a3b473663f4757bb5e9778088e061",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":739458905
+        }
+    ],
     "wof:id":739458905,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492030026,
     "wof:name":"Waynesboro Rapid Print",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

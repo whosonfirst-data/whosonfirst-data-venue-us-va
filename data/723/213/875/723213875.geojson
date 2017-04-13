@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.422611,37.013086,-76.422611,37.013086",
     "geom:latitude":37.013086,
     "geom:longitude":-76.422611,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WLUKdK1EwtEOumjyOeBem_37.013086_-76.422611@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897342,
-    "wof:geomhash":"93a4cbf9ce40f33a2a6531a9b6d2427b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de389f6a766ecedee63e69d33a5dc3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723213875
+        }
+    ],
     "wof:id":723213875,
-    "wof:lastmodified":1472651639,
+    "wof:lastmodified":1492051662,
     "wof:name":"Tivoli Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

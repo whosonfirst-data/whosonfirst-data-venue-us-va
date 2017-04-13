@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.953221,37.304887,-79.953221,37.304887",
     "geom:latitude":37.304887,
     "geom:longitude":-79.953221,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"http://www.cadfuel.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A7uNgsIoRE9EzfsVs6py5_37.304887_-79.953221@1303262552"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461913305,
     "wof:geomhash":"2df2f66d4bbdbc290352b10f6b823d66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735233
+        }
+    ],
     "wof:id":739735233,
-    "wof:lastmodified":1472652235,
+    "wof:lastmodified":1492032029,
     "wof:name":"Cad Fuel Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

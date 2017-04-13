@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.668018,37.426285,-77.668018,37.426285",
     "geom:latitude":37.426285,
     "geom:longitude":-77.668018,
@@ -32,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qmKWLNLcHV333a08ZVGg7_37.426285_-77.668018@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902056,
-    "wof:geomhash":"259ec20c1c4ce6435aa069cdb1dec6d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efee16e5401c5d6eac9c027567feb0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":723456237
+        }
+    ],
     "wof:id":723456237,
-    "wof:lastmodified":1472652283,
+    "wof:lastmodified":1492051626,
     "wof:name":"Richmond Aquarium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

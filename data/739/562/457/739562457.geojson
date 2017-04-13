@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.037386,37.270501,-80.037386,37.270501",
     "geom:latitude":37.270501,
     "geom:longitude":-80.037386,
@@ -32,17 +33,32 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MZJFgxu6CFdrmatTWPn0k_37.269971_-80.037874@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909615,
-    "wof:geomhash":"99ffcd9d0ec0c5121e694a1ce3e8a670",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c0d74481f441505978cf712fc3136fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739562457
+        }
+    ],
     "wof:id":739562457,
-    "wof:lastmodified":1472651885,
+    "wof:lastmodified":1492040889,
     "wof:name":"Pizza Pasta Pit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

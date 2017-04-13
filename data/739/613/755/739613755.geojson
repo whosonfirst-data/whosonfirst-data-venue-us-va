@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.639335,38.813514,-77.639335,38.813514",
     "geom:latitude":38.813514,
     "geom:longitude":-77.639335,
@@ -32,7 +33,13 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728713,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XHKRqHgjXC6lcUgBfOFeY_38.813514_-77.639335@1303262496"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910680,
     "wof:geomhash":"22fe3b37eec5ed37203b26a0a79f0ec6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101728713,
+            "region_id":85688747,
+            "venue_id":739613755
+        }
+    ],
     "wof:id":739613755,
-    "wof:lastmodified":1472652006,
+    "wof:lastmodified":1492032428,
     "wof:name":"Network Systems International Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

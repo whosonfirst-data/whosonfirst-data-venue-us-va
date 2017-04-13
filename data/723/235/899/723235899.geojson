@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.800694,37.299631,-76.800694,37.299631",
     "geom:latitude":37.299631,
     "geom:longitude":-76.800694,
@@ -39,17 +40,26 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_605ouOfzRdSh3451bKexuE_37.299631_-76.800694@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897825,
-    "wof:geomhash":"0f4d6abfcfc24da9c602e072aaa5b00e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3421b4ec9ef1c5926f2744881713b955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546847,
+            "venue_id":723235899
+        }
+    ],
     "wof:id":723235899,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492061302,
     "wof:name":"American Golf Classics Inc",
     "wof:parent_id":420546847,
     "wof:placetype":"venue",

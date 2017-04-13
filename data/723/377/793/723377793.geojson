@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.357827,37.610994,-77.357827,37.610994",
     "geom:latitude":37.610994,
     "geom:longitude":-77.357827,
@@ -31,17 +32,32 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CBBCxkWtXaVxI6a45Jggl_37.610994_-77.357827@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900539,
-    "wof:geomhash":"780d987be5a56209cba3a9f39fa2378e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"917d67b9106bfd73974dc3ac7fea5a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":723377793
+        }
+    ],
     "wof:id":723377793,
-    "wof:lastmodified":1472652124,
+    "wof:lastmodified":1492049547,
     "wof:name":"Mechanicsville Import",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

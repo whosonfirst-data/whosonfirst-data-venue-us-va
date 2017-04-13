@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.375298,37.136604,-80.375298,37.136604",
     "geom:latitude":37.136604,
     "geom:longitude":-80.375298,
@@ -28,7 +29,10 @@
     "sg:postcode":"24073",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PdEDn8Wlxi2pIiEdCaM0G_37.136604_-80.375298@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906235,
     "wof:geomhash":"61432a9810da6b58264d05fa7c6058db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546957,
+            "venue_id":739382143
+        }
+    ],
     "wof:id":739382143,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492030659,
     "wof:name":"Growing Tree",
     "wof:parent_id":420546957,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.638802,36.978172,-76.638802,36.978172",
     "geom:latitude":36.978172,
     "geom:longitude":-76.638802,
@@ -31,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h0iDFVOLiAHLMdVvUkdFL_36.978172_-76.638802@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461904388,
     "wof:geomhash":"e1cf8e86c4832e32ab6c22a8f87c2af7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739290983
+        }
+    ],
     "wof:id":739290983,
-    "wof:lastmodified":1472651220,
+    "wof:lastmodified":1492032787,
     "wof:name":"Main Street Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

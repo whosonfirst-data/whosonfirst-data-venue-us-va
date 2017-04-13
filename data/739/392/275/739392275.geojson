@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.165654,37.366197,-79.165654,37.366197",
     "geom:latitude":37.366197,
     "geom:longitude":-79.165654,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.j4-communications.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4niaJMDX2HbakAfkdV19DA_37.366197_-79.165654@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461906437,
     "wof:geomhash":"76a670533431f0cf2348315f69c05d40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739392275
+        }
+    ],
     "wof:id":739392275,
-    "wof:lastmodified":1472651404,
+    "wof:lastmodified":1492031607,
     "wof:name":"Communications J Four Comms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

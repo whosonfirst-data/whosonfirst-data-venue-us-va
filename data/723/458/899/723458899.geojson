@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.976413,37.333681,-79.976413,37.333681",
     "geom:latitude":37.333681,
     "geom:longitude":-79.976413,
@@ -35,17 +36,32 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W2ohPtE1DWz1EbQ4iurfa_37.333681_-79.976413@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902104,
-    "wof:geomhash":"1b8e6b18960ed10e07d9c0ced6af9348",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5648bc6f8ef2ae147897d70848326bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723458899
+        }
+    ],
     "wof:id":723458899,
-    "wof:lastmodified":1472652303,
+    "wof:lastmodified":1492048180,
     "wof:name":"Gilbert Warren Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

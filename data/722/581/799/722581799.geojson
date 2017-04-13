@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454825,37.452839,-77.454825,37.452839",
     "geom:latitude":37.452839,
     "geom:longitude":-77.454825,
@@ -37,17 +38,32 @@
         "desk"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gtudvEMWSzvczRz8b3z3p_37.452839_-77.454825@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884637,
-    "wof:geomhash":"9de2101808d389ab141c1f436a4cadd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c88cdcf30cab8ec1a04cb3a4d819bea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "region_id":85688747,
+            "venue_id":722581799
+        }
+    ],
     "wof:id":722581799,
-    "wof:lastmodified":1472651238,
+    "wof:lastmodified":1492066508,
     "wof:name":"Trinity Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

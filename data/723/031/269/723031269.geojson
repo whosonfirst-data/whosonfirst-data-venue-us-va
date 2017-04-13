@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.006004,36.700433,-82.006004,36.700433",
     "geom:latitude":36.700433,
     "geom:longitude":-82.006004,
@@ -39,17 +40,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3l3lUGikgc7pIb48YhGPtl_36.700433_-82.006004@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893624,
-    "wof:geomhash":"88dc5d0a7e2cabc44b70359653ab556a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60e2d316b77663956a42e3386258e332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723031269
+        }
+    ],
     "wof:id":723031269,
-    "wof:lastmodified":1472651135,
+    "wof:lastmodified":1492055514,
     "wof:name":"A F G Industries",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.900385,36.695116,-78.900385,36.695116",
     "geom:latitude":36.695116,
     "geom:longitude":-78.900385,
@@ -32,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yVYXEyKIvsG2nKgzdgCtC_36.695116_-78.900385@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907023,
     "wof:geomhash":"a7affca1f2057ed94a3e422632d190ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":739422831
+        }
+    ],
     "wof:id":739422831,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492031203,
     "wof:name":"Oval Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

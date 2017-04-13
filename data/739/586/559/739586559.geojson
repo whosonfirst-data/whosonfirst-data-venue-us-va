@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.736565,37.318481,-76.736565,37.318481",
     "geom:latitude":37.318481,
     "geom:longitude":-76.736565,
@@ -31,7 +32,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Aeh9UPN2SVltp51sei4VW_37.318481_-76.736565@1299784598"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"ec1112bbbaedc541c5729a5e46ec2951",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":739586559
+        }
+    ],
     "wof:id":739586559,
-    "wof:lastmodified":1472651944,
+    "wof:lastmodified":1492031893,
     "wof:name":"Ben & Jerry's",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.383358,38.302379,-77.383358,38.302379",
     "geom:latitude":38.302379,
     "geom:longitude":-77.383358,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qXEYFCx2JfTQWIhGxf6w0_38.302379_-77.383358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885534,
-    "wof:geomhash":"3314427d48ec3e9526c265babd5d4c34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0d9f7090aa524deaa796d7898cb5329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":722627047
+        }
+    ],
     "wof:id":722627047,
-    "wof:lastmodified":1472651390,
+    "wof:lastmodified":1492065531,
     "wof:name":"Smith's Body Shop",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

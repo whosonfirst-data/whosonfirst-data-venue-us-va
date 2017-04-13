@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.516755,39.030272,-77.516755,39.030272",
     "geom:latitude":39.030272,
     "geom:longitude":-77.516755,
@@ -33,17 +34,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729449,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yTmlJcxT5HOVBOdBHvmTf_39.030272_-77.516755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887208,
-    "wof:geomhash":"c51314093598db41d04517250c63d0c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"313cae17b2e73e0e7034c03f7a40f18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729449,
+            "region_id":85688747,
+            "venue_id":722712997
+        }
+    ],
     "wof:id":722712997,
-    "wof:lastmodified":1472651598,
+    "wof:lastmodified":1492068685,
     "wof:name":"Net-Telworks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

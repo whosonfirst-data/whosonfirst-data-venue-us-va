@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.048851,38.332558,-77.048851,38.332558",
     "geom:latitude":38.332558,
     "geom:longitude":-77.048851,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729075,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21SbrMhYpZXERMQzzk49Vw_38.332558_-77.048851@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896843,
-    "wof:geomhash":"c1c1a05c9995d71b45fc517df75be8da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d6ce8ff4bc9928d1affc3e660e4b5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729075,
+            "region_id":85688747,
+            "venue_id":723188029
+        }
+    ],
     "wof:id":723188029,
-    "wof:lastmodified":1472651510,
+    "wof:lastmodified":1492047566,
     "wof:name":"Biodentech Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

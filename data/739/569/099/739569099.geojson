@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497101,38.804298,-77.497101,38.804298",
     "geom:latitude":38.804298,
     "geom:longitude":-77.497101,
@@ -31,7 +32,12 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YpISlknsL2w26a02KvD0X_38.804603_-77.497097@1293134755"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461909762,
     "wof:geomhash":"f2b109b4400addcf07413a67f76407f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739569099
+        }
+    ],
     "wof:id":739569099,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492030915,
     "wof:name":"Kingsley-Bate Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.246775,36.861874,-76.246775,36.861874",
     "geom:latitude":36.861874,
     "geom:longitude":-76.246775,
@@ -37,6 +38,7 @@
         85633793,
         101728769,
         102085935,
+        420548119,
         420548143
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461888773,
-    "wof:geomhash":"46b360c4f2d1832fc600406f168b2dba",
+    "wof:geomhash":"989a557c7877528c32dd05bb26c528a6",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420548119,
+            "region_id":85688747,
+            "venue_id":722793563
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722793563,
-    "wof:lastmodified":1472651822,
+    "wof:lastmodified":1492069453,
     "wof:name":"Roberts Business Service T",
-    "wof:parent_id":420548143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

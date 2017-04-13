@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.988976,36.702102,-81.988976,36.702102",
     "geom:latitude":36.702102,
     "geom:longitude":-81.988976,
@@ -31,7 +32,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uKUTwhlSWFwjt7N4fjN0G_36.702102_-81.988976@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904885,
     "wof:geomhash":"9e8c9241db82f6abcbbbf1bd2107d11c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739316105
+        }
+    ],
     "wof:id":739316105,
-    "wof:lastmodified":1472651200,
+    "wof:lastmodified":1492031801,
     "wof:name":"Dominion Truss Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

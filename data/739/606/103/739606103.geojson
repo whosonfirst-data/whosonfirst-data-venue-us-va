@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.705842,39.136509,-77.705842,39.136509",
     "geom:latitude":39.136509,
     "geom:longitude":-77.705842,
@@ -68,17 +69,32 @@
     ],
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cgAAnDIN2w5OW08DJY3Qs_39.136509_-77.705842@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910529,
-    "wof:geomhash":"2847999dd7d0c6ca877c31d1c4f578e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8149c8a659c903bde0a2a639ec772e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":739606103
+        }
+    ],
     "wof:id":739606103,
-    "wof:lastmodified":1472651937,
+    "wof:lastmodified":1492039041,
     "wof:name":"Rite Aid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

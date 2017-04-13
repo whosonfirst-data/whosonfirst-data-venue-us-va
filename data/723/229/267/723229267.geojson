@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.86021,38.462997,-78.86021,38.462997",
     "geom:latitude":38.462997,
     "geom:longitude":-78.86021,
@@ -40,17 +41,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aEugc5Q27ivEjpu19Q8If_38.462997_-78.860210@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897685,
-    "wof:geomhash":"9ec92dce9536426daebfd7d95550c9aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"761edae5c8b3fb0784db5ac79c2fa6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723229267
+        }
+    ],
     "wof:id":723229267,
-    "wof:lastmodified":1472651636,
+    "wof:lastmodified":1492052073,
     "wof:name":"Jackson Water Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

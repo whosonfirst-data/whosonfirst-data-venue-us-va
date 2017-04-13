@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.370745,38.509236,-77.370745,38.509236",
     "geom:latitude":38.509236,
     "geom:longitude":-77.370745,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e7QOWHjE9Uu41UclIz3kV_38.509236_-77.370745@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892416,
-    "wof:geomhash":"f4e03278c088df2da012d5a69283f8e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c2742e207e857f1c3a41b4cff1afd2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":722977987
+        }
+    ],
     "wof:id":722977987,
-    "wof:lastmodified":1472652320,
+    "wof:lastmodified":1492072881,
     "wof:name":"Mtc Services Corporation",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.109437,36.593503,-82.109437,36.593503",
     "geom:latitude":36.593503,
     "geom:longitude":-82.109437,
@@ -28,19 +29,36 @@
     "sg:postcode":"37620",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        420542211
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09WZ9fr5HaMpqCOnM0NGQZ_36.593503_-82.109437@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899853,
-    "wof:geomhash":"a8268ec65b800dafd142e1e537820352",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6f54f8b582006183dcabccc9c034a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420542211,
+            "region_id":85688701,
+            "venue_id":723342499
+        }
+    ],
     "wof:id":723342499,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492061996,
     "wof:name":"Community Church At Bristol",
-    "wof:parent_id":420542195,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

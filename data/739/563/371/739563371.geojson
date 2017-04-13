@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.204375,38.718197,-77.204375,38.718197",
     "geom:latitude":38.718197,
     "geom:longitude":-77.204375,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729765,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wcm4tAXZyVpE4SCqy2ks3_38.717753_-77.204511@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909633,
-    "wof:geomhash":"e814b48b110fd684785074a5bec50d0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3716c96f192dbff2c77cfef3224c4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729765,
+            "region_id":85688747,
+            "venue_id":739563371
+        }
+    ],
     "wof:id":739563371,
-    "wof:lastmodified":1472651877,
+    "wof:lastmodified":1492043725,
     "wof:name":"Brown Construction Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

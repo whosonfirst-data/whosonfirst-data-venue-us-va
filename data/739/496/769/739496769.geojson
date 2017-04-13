@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458168,37.214439,-77.458168,37.214439",
     "geom:latitude":37.214439,
     "geom:longitude":-77.458168,
@@ -28,7 +29,12 @@
     "sg:postcode":"23803",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i4vznJWi1a13pGNL6Qy8u_37.214439_-77.458168@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908372,
     "wof:geomhash":"d36ffa900719a68115e6bd654f5bdb69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":739496769
+        }
+    ],
     "wof:id":739496769,
-    "wof:lastmodified":1472651712,
+    "wof:lastmodified":1492033024,
     "wof:name":"B B & T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

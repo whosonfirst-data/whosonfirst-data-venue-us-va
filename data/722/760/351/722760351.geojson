@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.419154,38.464088,-77.419154,38.464088",
     "geom:latitude":38.464088,
     "geom:longitude":-77.419154,
@@ -31,17 +32,26 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547109
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JX01x7wJfD9hmPiP4xJmJ_38.464088_-77.419154@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888132,
-    "wof:geomhash":"d76b199e3aaf0835909ffc0a7eb31c34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5661a894d772598efe94a6421e024e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547109,
+            "venue_id":722760351
+        }
+    ],
     "wof:id":722760351,
-    "wof:lastmodified":1472651752,
+    "wof:lastmodified":1492066738,
     "wof:name":"Helene A Hall",
     "wof:parent_id":420547109,
     "wof:placetype":"venue",

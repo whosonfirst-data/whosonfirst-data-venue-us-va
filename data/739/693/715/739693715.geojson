@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.502792,38.253609,-77.502792,38.253609",
     "geom:latitude":38.253609,
     "geom:longitude":-77.502792,
@@ -37,7 +38,12 @@
     ],
     "sg:website":"http://www.classicautobodyusa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0whToXvfKZkb0t3joTMnVY_38.253609_-77.502792@1303262547"
@@ -45,9 +51,17 @@
     "wof:country":"US",
     "wof:created":1461912413,
     "wof:geomhash":"e0903df99741e05cb6f8b371ad08f778",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739693715
+        }
+    ],
     "wof:id":739693715,
-    "wof:lastmodified":1472652190,
+    "wof:lastmodified":1492031380,
     "wof:name":"Classic Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

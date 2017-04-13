@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.918251,37.437023,-76.918251,37.437023",
     "geom:latitude":37.437023,
     "geom:longitude":-76.918251,
@@ -31,19 +32,28 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hWJFQgJfc5lgDhxA9t0w4_37.437023_-76.918251@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887993,
-    "wof:geomhash":"45e2f09bc1d15a0d1a801bc0884f253a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f07a2c23f4d72973f2eea0a8edf5d35f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":722752961
+        }
+    ],
     "wof:id":722752961,
-    "wof:lastmodified":1472651714,
+    "wof:lastmodified":1492072574,
     "wof:name":"Riverside Camp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

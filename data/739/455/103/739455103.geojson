@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.857138,38.037121,-76.857138,38.037121",
     "geom:latitude":38.037121,
     "geom:longitude":-76.857138,
@@ -31,7 +32,12 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39btSyX7rYqxk0g79aay12_38.037121_-76.857138@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907630,
     "wof:geomhash":"ff343a4ed52e4d779220872c3d60718c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739455103
+        }
+    ],
     "wof:id":739455103,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492032964,
     "wof:name":"Hall & Heflin Septic Tank Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

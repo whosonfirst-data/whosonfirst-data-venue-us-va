@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.560433,38.754914,-77.560433,38.754914",
     "geom:latitude":38.754914,
     "geom:longitude":-77.560433,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yJCZcqHpwq9FO4vuDD1GG_38.754914_-77.560433@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896586,
-    "wof:geomhash":"5e84e28c023e288fa2df470b93351363",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd21728fd5cbf60b16a5b227081bcdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":723175257
+        }
+    ],
     "wof:id":723175257,
-    "wof:lastmodified":1472651461,
+    "wof:lastmodified":1492055320,
     "wof:name":"Washington Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

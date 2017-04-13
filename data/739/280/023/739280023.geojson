@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.519806,37.122506,-81.519806,37.122506",
     "geom:latitude":37.122506,
     "geom:longitude":-81.519806,
@@ -31,17 +32,26 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rjynZutuLtgbxjDWhRAH5_37.122506_-81.519806@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904143,
-    "wof:geomhash":"5fdc9f314a088efa9403f403cef55686",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bbc0f53f819c4387f12cef242e0925d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":739280023
+        }
+    ],
     "wof:id":739280023,
-    "wof:lastmodified":1472651136,
+    "wof:lastmodified":1492038942,
     "wof:name":"Joy Foodstore Inc",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

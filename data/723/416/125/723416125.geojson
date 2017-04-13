@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.034022,36.672268,-82.034022,36.672268",
     "geom:latitude":36.672268,
     "geom:longitude":-82.034022,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QqXTFZsgNiwftlhtF1uBc_36.672268_-82.034022@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901292,
-    "wof:geomhash":"8ff0386d898c8a9e940d9bced99014e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc1f8f478c4ca8dcc8570c1472a32772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723416125
+        }
+    ],
     "wof:id":723416125,
-    "wof:lastmodified":1472652182,
+    "wof:lastmodified":1492055904,
     "wof:name":"Priority Construction",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

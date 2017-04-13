@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.658739,38.082777,-76.658739,38.082777",
     "geom:latitude":38.082777,
     "geom:longitude":-76.658739,
@@ -31,7 +32,12 @@
         "mothproofing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xSjlbXmJns85t39mAZW9g_38.082777_-76.658739@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912420,
     "wof:geomhash":"3f8615f9a743649a960237e6fa6c669d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739694059
+        }
+    ],
     "wof:id":739694059,
-    "wof:lastmodified":1472652153,
+    "wof:lastmodified":1492030227,
     "wof:name":"L & J Termite & Pest Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

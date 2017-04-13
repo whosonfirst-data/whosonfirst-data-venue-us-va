@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.76234,37.11604,-76.76234,37.11604",
     "geom:latitude":37.11604,
     "geom:longitude":-76.76234,
@@ -32,17 +33,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62ftbqDwMvqAZiZrG7bkMX_37.116040_-76.762340@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904349,
-    "wof:geomhash":"afabececf15a2c313fa0104203c391c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a785746d24f4ca21c22bd178bcdc5349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739288943
+        }
+    ],
     "wof:id":739288943,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492038098,
     "wof:name":"H & S Maintenance & Repair",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

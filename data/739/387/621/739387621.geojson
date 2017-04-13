@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.436017,37.703145,-77.436017,37.703145",
     "geom:latitude":37.703145,
     "geom:longitude":-77.436017,
@@ -31,7 +32,12 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lWtg7pfhtjMLoQT3dpP7h_37.703145_-77.436017@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906351,
     "wof:geomhash":"c2870f9d29e9f87c965a483a899b4a32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739387621
+        }
+    ],
     "wof:id":739387621,
-    "wof:lastmodified":1472651381,
+    "wof:lastmodified":1492033148,
     "wof:name":"River City Motor Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

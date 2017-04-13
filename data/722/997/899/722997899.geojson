@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.454553,38.440239,-77.454553,38.440239",
     "geom:latitude":38.440239,
     "geom:longitude":-77.454553,
@@ -32,17 +33,26 @@
         "interest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dLUJiNGJUvcDvzCTC7iBM_38.440239_-77.454553@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892855,
-    "wof:geomhash":"70eb88faf9583777abc044bf69dada42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"826e9211996b323bbcd38b2d4219e032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":722997899
+        }
+    ],
     "wof:id":722997899,
-    "wof:lastmodified":1472652366,
+    "wof:lastmodified":1492071048,
     "wof:name":"Jessie Ball Dupont Mem Library",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

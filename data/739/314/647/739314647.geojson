@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.791789,38.995858,-77.791789,38.995858",
     "geom:latitude":38.995858,
     "geom:longitude":-77.791789,
@@ -31,7 +32,12 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jJ3oOWTKArFAYCLyMB265_38.995858_-77.791789@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461904859,
     "wof:geomhash":"65f7f3b19afba3bafe8e57f6672294eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739314647
+        }
+    ],
     "wof:id":739314647,
-    "wof:lastmodified":1472651236,
+    "wof:lastmodified":1492029901,
     "wof:name":"Leroy Leach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.682255,37.384045,-76.682255,37.384045",
     "geom:latitude":37.384045,
     "geom:longitude":-76.682255,
@@ -28,7 +29,11 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546883,
+        420546925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PUPAqwx0v2Skdg90IxTIo_37.384045_-76.682255@1294252573"
@@ -36,11 +41,22 @@
     "wof:country":"US",
     "wof:created":1461907641,
     "wof:geomhash":"3cba0853faf9b8e91136752bafa42b2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546883,
+            "venue_id":739455787
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546925,
+            "venue_id":739455787
+        }
+    ],
     "wof:id":739455787,
-    "wof:lastmodified":1472651585,
+    "wof:lastmodified":1492032954,
     "wof:name":"Cox Limited Partnership Mary Y",
-    "wof:parent_id":420546925,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.905696,37.637999,-76.905696,37.637999",
     "geom:latitude":37.637999,
     "geom:longitude":-76.905696,
@@ -30,7 +31,12 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5a8NSO1wWTMKs9WnVe61Pa_37.637999_-76.905696@1294252573"
@@ -38,9 +44,17 @@
     "wof:country":"US",
     "wof:created":1461909772,
     "wof:geomhash":"8c96c1ac9f2b654d8f1c2caf126844c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739569619
+        }
+    ],
     "wof:id":739569619,
-    "wof:lastmodified":1472651902,
+    "wof:lastmodified":1492030893,
     "wof:name":"E P Upshaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

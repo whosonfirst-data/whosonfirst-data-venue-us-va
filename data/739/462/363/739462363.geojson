@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.712369,38.332668,-77.712369,38.332668",
     "geom:latitude":38.332668,
     "geom:longitude":-77.712369,
@@ -32,7 +33,12 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07BCXTwGXMPTWPskN1OGOR_38.332668_-77.712369@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461907755,
     "wof:geomhash":"07c09e2fa869d9b90947b1cdcd148463",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739462363
+        }
+    ],
     "wof:id":739462363,
-    "wof:lastmodified":1472651615,
+    "wof:lastmodified":1492033349,
     "wof:name":"Time Distribution Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

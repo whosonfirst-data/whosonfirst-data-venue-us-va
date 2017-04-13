@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.755316,37.236888,-76.755316,37.236888",
     "geom:latitude":37.236888,
     "geom:longitude":-76.755316,
@@ -38,7 +39,10 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cLMcQPc6GRdNNsbckVY4M_37.236888_-76.755316@1294252573"
@@ -46,9 +50,15 @@
     "wof:country":"US",
     "wof:created":1461908325,
     "wof:geomhash":"5bbbac0633920e4e5a770ecccf9d07e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":739493895
+        }
+    ],
     "wof:id":739493895,
-    "wof:lastmodified":1472651708,
+    "wof:lastmodified":1492029948,
     "wof:name":"T K Oriental Antiques Inc",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

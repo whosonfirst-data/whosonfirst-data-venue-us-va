@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.877134,38.079437,-78.877134,38.079437",
     "geom:latitude":38.079437,
     "geom:longitude":-78.877134,
@@ -31,17 +32,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qd0zbtJzmwXVd4ODYfZhg_38.079437_-78.877134@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886570,
-    "wof:geomhash":"c8f232bf0a3688aa29fb11ea57f2280a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"691a62f7cedbeae2e4085470f0786fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722679431
+        }
+    ],
     "wof:id":722679431,
-    "wof:lastmodified":1472651521,
+    "wof:lastmodified":1492066820,
     "wof:name":"Waynesboro Waste Water Trtmnt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

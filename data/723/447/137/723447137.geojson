@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.906099,37.42291,-76.906099,37.42291",
     "geom:latitude":37.42291,
     "geom:longitude":-76.906099,
@@ -32,19 +33,28 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fN8S28Z3x3Qa4mQZEUNoX_37.422910_-76.906099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901891,
-    "wof:geomhash":"1a9cdd83ddfca2317ecbff11c01ce0b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1f34a081671cf620d5716af9e35deb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":723447137
+        }
+    ],
     "wof:id":723447137,
-    "wof:lastmodified":1472652242,
+    "wof:lastmodified":1492058402,
     "wof:name":"Jerry's Auto Repair Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

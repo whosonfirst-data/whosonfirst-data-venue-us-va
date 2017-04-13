@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.939688,36.714783,-81.939688,36.714783",
     "geom:latitude":36.714783,
     "geom:longitude":-81.939688,
@@ -34,10 +35,11 @@
     "wof:belongsto":[
         85688747,
         85633793,
-        101728829,
+        85847417,
         102087301,
-        85835297,
-        85847417
+        102191575,
+        101728829,
+        85835297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +47,29 @@
     },
     "wof:country":"US",
     "wof:created":1461887690,
-    "wof:geomhash":"1730b131b2f5572cf4d9bca0bd2c39a0",
+    "wof:geomhash":"21de42e76c0aee87b419f194a4cf24cd",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087301,
-            "locality_id":101728829,
-            "neighbourhood_id":85835297,
-            "region_id":85688747,
-            "venue_id":722737355
-        },
         {
             "country_id":85633793,
             "county_id":102087301,
             "neighbourhood_id":85847417,
             "region_id":85688747,
             "venue_id":722737355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087301,
+            "locality_id":101728829,
+            "neighbourhood_id":85835297,
+            "region_id":85688747,
+            "venue_id":722737355
         }
     ],
     "wof:id":722737355,
-    "wof:lastmodified":1472651678,
+    "wof:lastmodified":1492070601,
     "wof:name":"Interstate Chevron Food Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

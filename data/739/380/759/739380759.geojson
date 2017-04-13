@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.692525,37.668352,-77.692525,37.668352",
     "geom:latitude":37.668352,
     "geom:longitude":-77.692525,
@@ -32,7 +33,12 @@
         "barn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ti8prgCsKxzHLxiAw7DWR_37.668352_-77.692525@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906211,
     "wof:geomhash":"f5898544bf5d04c0039dd6510dbf947d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":739380759
+        }
+    ],
     "wof:id":739380759,
-    "wof:lastmodified":1472651362,
+    "wof:lastmodified":1492033082,
     "wof:name":"Barns & Stables of NC Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

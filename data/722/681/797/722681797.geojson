@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.265441,38.913425,-77.265441,38.913425",
     "geom:latitude":38.913425,
     "geom:longitude":-77.265441,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729035,
+        101729797,
         102084863,
+        85852975,
+        101729035,
         85839307
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461886616,
-    "wof:geomhash":"002f0282b98ccb632cfc1713d3331c62",
+    "wof:geomhash":"a0be38f24a99c226e32425af35d5b9f5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729797,
+            "neighbourhood_id":85852975,
+            "region_id":85688747,
+            "venue_id":722681797
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":722681797,
-    "wof:lastmodified":1472651541,
+    "wof:lastmodified":1492073497,
     "wof:name":"Guardian Products Of Virginia",
-    "wof:parent_id":85839307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

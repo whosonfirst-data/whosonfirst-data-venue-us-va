@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.492897,38.7775,-77.492897,38.7775",
     "geom:latitude":38.7775,
     "geom:longitude":-77.492897,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UBQQZ9dTa8maMsBqmpRFI_38.777500_-77.492897@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910484,
-    "wof:geomhash":"8de5c3d7336a0e9632af71f10fba1752",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b334794d857c51462a0c38cfdae6818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":739603461
+        }
+    ],
     "wof:id":739603461,
-    "wof:lastmodified":1472651963,
+    "wof:lastmodified":1492044798,
     "wof:name":"Fairmont the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

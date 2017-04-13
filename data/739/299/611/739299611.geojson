@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.898364,36.995615,-79.898364,36.995615",
     "geom:latitude":36.995615,
     "geom:longitude":-79.898364,
@@ -28,7 +29,13 @@
     "sg:postcode":"24151",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RK1ms7xjGxQsTQlTcXCHR_36.995615_-79.898364@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904566,
     "wof:geomhash":"c2d711dec5450c955c3983d7811945bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":739299611
+        }
+    ],
     "wof:id":739299611,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492032451,
     "wof:name":"Support To Eliminate Poverty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42705,38.311895,-77.42705,38.311895",
     "geom:latitude":38.311895,
     "geom:longitude":-77.42705,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547187
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U52WK04tLXjGgjKl71u0l_38.311895_-77.427050@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895901,
-    "wof:geomhash":"04af2e47cffceaab133be15382728ed6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35eae3332cf8a2045808aecc8a113b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547187,
+            "venue_id":723139987
+        }
+    ],
     "wof:id":723139987,
-    "wof:lastmodified":1472651400,
+    "wof:lastmodified":1492048545,
     "wof:name":"Harlan W Rose Garage",
     "wof:parent_id":420547187,
     "wof:placetype":"venue",

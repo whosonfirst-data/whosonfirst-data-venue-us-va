@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.461603,38.89906,-77.461603,38.89906",
     "geom:latitude":38.89906,
     "geom:longitude":-77.461603,
@@ -37,17 +38,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cQMJeSKYd6wtdCUizDfRX_38.899060_-77.461603@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910557,
-    "wof:geomhash":"b0f3fedc420a3c6230c743924572dc95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca734262d4cd438b64278f840cfa3a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739607741
+        }
+    ],
     "wof:id":739607741,
-    "wof:lastmodified":1472651971,
+    "wof:lastmodified":1492046641,
     "wof:name":"Fedex Ground Package System, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

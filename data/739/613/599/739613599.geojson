@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.633797,38.8811,-77.633797,38.8811",
     "geom:latitude":38.8811,
     "geom:longitude":-77.633797,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"www.bullruncc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zQB80KNlrpq1a2xXDuYv6_38.881100_-77.633797@1303262496"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461910677,
     "wof:geomhash":"51c3d99e224a28d0ea6b4f0c75804b14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739613599
+        }
+    ],
     "wof:id":739613599,
-    "wof:lastmodified":1472651999,
+    "wof:lastmodified":1492032412,
     "wof:name":"Bull Run Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

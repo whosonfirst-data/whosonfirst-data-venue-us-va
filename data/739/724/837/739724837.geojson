@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.623306,37.47839,-77.623306,37.47839",
     "geom:latitude":37.47839,
     "geom:longitude":-77.623306,
@@ -32,7 +33,12 @@
         "goods-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dnX6cU69m0HrOGww1ahGr_37.478390_-77.623306@1303262551"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461913089,
     "wof:geomhash":"51b996d91a05a2884749fdf75263bac9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724837
+        }
+    ],
     "wof:id":739724837,
-    "wof:lastmodified":1472652255,
+    "wof:lastmodified":1492030946,
     "wof:name":"Major Tool Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.339669,38.024247,-77.339669,38.024247",
     "geom:latitude":38.024247,
     "geom:longitude":-77.339669,
@@ -33,17 +34,30 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YQoW4ldSyPqjfr1QxlCJw_38.024247_-77.339669@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909063,
-    "wof:geomhash":"c31516a44335907e39061130be280f7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e294c4b8cefbe624303c73ce9000bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739534837
+        }
+    ],
     "wof:id":739534837,
-    "wof:lastmodified":1472651826,
+    "wof:lastmodified":1492044733,
     "wof:name":"Caroline County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

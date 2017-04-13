@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.985085,36.649277,-81.985085,36.649277",
     "geom:latitude":36.649277,
     "geom:longitude":-81.985085,
@@ -33,7 +34,10 @@
         "insolvency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ykdG34xGMuA3yz7QRNrHJ_36.649277_-81.985085@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461907023,
     "wof:geomhash":"891698de4a145dc4377c20109086eefa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739422807
+        }
+    ],
     "wof:id":739422807,
-    "wof:lastmodified":1472651529,
+    "wof:lastmodified":1492031215,
     "wof:name":"Dever Credit Insurance",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

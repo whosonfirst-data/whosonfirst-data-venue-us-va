@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.416043,37.3264,-79.416043,37.3264",
     "geom:latitude":37.3264,
     "geom:longitude":-79.416043,
@@ -31,7 +32,12 @@
         "lock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5c53wClSm8jQdDxvxBG3yW_37.326400_-79.416043@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907629,
     "wof:geomhash":"997fd9ec4033cf6885e86d9c359bc394",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739455071
+        }
+    ],
     "wof:id":739455071,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492032968,
     "wof:name":"J & M Security & Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

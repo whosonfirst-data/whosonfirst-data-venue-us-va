@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.2533,36.890107,-76.2533,36.890107",
     "geom:latitude":36.890107,
     "geom:longitude":-76.2533,
@@ -39,8 +40,8 @@
         85633793,
         101728769,
         102085935,
-        85879273,
-        420560197
+        420560197,
+        85879273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,8 @@
     },
     "wof:country":"US",
     "wof:created":1461889387,
-    "wof:geomhash":"e519d1b6ccfdf39f9200617840f8ed29",
+    "wof:geomhash":"a22655a8d81e0a440a32c97b02cb696e",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085935,
-            "locality_id":101728769,
-            "neighbourhood_id":85879273,
-            "region_id":85688747,
-            "venue_id":722826703
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -67,12 +59,21 @@
             "neighbourhood_id":420560197,
             "region_id":85688747,
             "venue_id":722826703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85879273,
+            "region_id":85688747,
+            "venue_id":722826703
         }
     ],
     "wof:id":722826703,
-    "wof:lastmodified":1472651908,
+    "wof:lastmodified":1492071701,
     "wof:name":"Norview Lawn Care Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.346156,38.051214,-77.346156,38.051214",
     "geom:latitude":38.051214,
     "geom:longitude":-77.346156,
@@ -32,17 +33,32 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728811,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zfz0ndNsvG6GdWhRp0n2i_38.051214_-77.346156@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887945,
-    "wof:geomhash":"8ea51b6ca8abe671107844cafe4fe210",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40f973be7411e26b8cb8985757c70d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101728811,
+            "region_id":85688747,
+            "venue_id":722750407
+        }
+    ],
     "wof:id":722750407,
-    "wof:lastmodified":1472651693,
+    "wof:lastmodified":1492064219,
     "wof:name":"Caroline County Treasurer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

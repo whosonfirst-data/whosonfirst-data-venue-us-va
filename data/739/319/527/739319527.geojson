@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.872346,36.690646,-79.872346,36.690646",
     "geom:latitude":36.690646,
     "geom:longitude":-79.872346,
@@ -32,7 +33,13 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WdWAM5ir1MDY6xvaz3RKn_36.690646_-79.872346@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461904958,
     "wof:geomhash":"bfd4f6e030e7f867fe77447ad7a1da69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":739319527
+        }
+    ],
     "wof:id":739319527,
-    "wof:lastmodified":1472651255,
+    "wof:lastmodified":1492031264,
     "wof:name":"Piedmont Mortgages Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

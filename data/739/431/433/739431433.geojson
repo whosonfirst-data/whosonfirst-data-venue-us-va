@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.012072,36.930021,-78.012072,36.930021",
     "geom:latitude":36.930021,
     "geom:longitude":-78.012072,
@@ -28,7 +29,12 @@
     "sg:postcode":"23824",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VfN2JvBiFMEIvPJygpq8Y_36.930021_-78.012072@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907191,
     "wof:geomhash":"b98e4bf8c02bc9748d7ba6e6f0b97a17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "region_id":85688747,
+            "venue_id":739431433
+        }
+    ],
     "wof:id":739431433,
-    "wof:lastmodified":1472651527,
+    "wof:lastmodified":1492033103,
     "wof:name":"Courtney Goodwyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

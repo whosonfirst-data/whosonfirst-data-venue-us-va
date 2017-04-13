@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.474195,38.457125,-77.474195,38.457125",
     "geom:latitude":38.457125,
     "geom:longitude":-77.474195,
@@ -34,17 +35,26 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yHUiQQQeHzChNzN52wXGV_38.457125_-77.474195@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898639,
-    "wof:geomhash":"107b28edaa93b3e4a780d8ff52774d84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6765915df31e09a0314d12c06c362594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547127,
+            "venue_id":723277795
+        }
+    ],
     "wof:id":723277795,
-    "wof:lastmodified":1472651819,
+    "wof:lastmodified":1492054569,
     "wof:name":"Bluegrass Builders Inc",
     "wof:parent_id":420547127,
     "wof:placetype":"venue",

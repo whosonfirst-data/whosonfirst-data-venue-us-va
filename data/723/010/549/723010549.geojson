@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.006004,36.700433,-82.006004,36.700433",
     "geom:latitude":36.700433,
     "geom:longitude":-82.006004,
@@ -31,17 +32,26 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nOntKFK1pv8TkueUlXbzb_36.700433_-82.006004@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893152,
-    "wof:geomhash":"88dc5d0a7e2cabc44b70359653ab556a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60e2d316b77663956a42e3386258e332",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723010549
+        }
+    ],
     "wof:id":723010549,
-    "wof:lastmodified":1472651102,
+    "wof:lastmodified":1492050150,
     "wof:name":"US Fish & Wildlife",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

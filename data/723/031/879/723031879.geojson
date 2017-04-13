@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.801927,37.381476,-76.801927,37.381476",
     "geom:latitude":37.381476,
     "geom:longitude":-76.801927,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jtF8Ky0JafgkxlnwQjmjl_37.381476_-76.801927@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893640,
-    "wof:geomhash":"7ddfe7f36d8bedb282f4b59e3302c930",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ebf53ed577a16d23570db061034cce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":723031879
+        }
+    ],
     "wof:id":723031879,
-    "wof:lastmodified":1472651153,
+    "wof:lastmodified":1492055507,
     "wof:name":"Burnt Ordinary Apartments",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

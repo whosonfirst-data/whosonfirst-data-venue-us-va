@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.468017,39.042166,-77.468017,39.042166",
     "geom:latitude":39.042166,
     "geom:longitude":-77.468017,
@@ -32,7 +33,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ppDT6ISsIE3vGUj3Ar94w_39.042166_-77.468017@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461906692,
     "wof:geomhash":"8aa448299a88419e6470af66af01957b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739405661
+        }
+    ],
     "wof:id":739405661,
-    "wof:lastmodified":1472651471,
+    "wof:lastmodified":1492031553,
     "wof:name":"Xlstrategies LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

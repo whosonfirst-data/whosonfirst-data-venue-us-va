@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.643549,37.502571,-77.643549,37.502571",
     "geom:latitude":37.502571,
     "geom:longitude":-77.643549,
@@ -31,17 +32,30 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70OCVQBImFF1z6KwMS0LvO_37.502571_-77.643549@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909258,
-    "wof:geomhash":"a0e9041d9d61b7932dc95f4ecbf4c18a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba748445bf39a20793d206ee67ae3846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739544563
+        }
+    ],
     "wof:id":739544563,
-    "wof:lastmodified":1472651861,
+    "wof:lastmodified":1492038980,
     "wof:name":"Carriage Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

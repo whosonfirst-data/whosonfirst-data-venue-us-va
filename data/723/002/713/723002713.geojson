@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394245,38.205106,-77.394245,38.205106",
     "geom:latitude":38.205106,
     "geom:longitude":-77.394245,
@@ -32,17 +33,30 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00BYIA3mHBXnyLCUvS1mtZ_38.205106_-77.394245@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892982,
-    "wof:geomhash":"8e22ab5c417b3c8fb32db194776435ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67e80279d41b4df86ed910f06ebb2f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":723002713
+        }
+    ],
     "wof:id":723002713,
-    "wof:lastmodified":1472651091,
+    "wof:lastmodified":1492051922,
     "wof:name":"Washington Income Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

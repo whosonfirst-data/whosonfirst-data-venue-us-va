@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.252196,37.448965,-79.252196,37.448965",
     "geom:latitude":37.448965,
     "geom:longitude":-79.252196,
@@ -31,17 +32,30 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jv50c0TuaO2CuF3xnRLPy_37.448965_-79.252196@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897548,
-    "wof:geomhash":"1850cbab024c3610d9247c41ee6f970b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db42eb0b35f8cfa4ba08513324fc16c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723222483
+        }
+    ],
     "wof:id":723222483,
-    "wof:lastmodified":1472651616,
+    "wof:lastmodified":1492057919,
     "wof:name":"Racal Instruments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

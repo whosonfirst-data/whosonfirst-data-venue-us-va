@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.290938,36.85717,-76.290938,36.85717",
     "geom:latitude":36.85717,
     "geom:longitude":-76.290938,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"www.the-databank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73QbpwtVfYT9O0Pu41Tkbp_36.857170_-76.290938@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888476,
-    "wof:geomhash":"2c51cea25fe5a5d8e4cd88c0e7145ebb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a2d30ed172e80a9f40a41d7828eda69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":722778925
+        }
+    ],
     "wof:id":722778925,
-    "wof:lastmodified":1472651851,
+    "wof:lastmodified":1492069424,
     "wof:name":"Databank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

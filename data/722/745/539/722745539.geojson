@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448644,38.788396,-77.448644,38.788396",
     "geom:latitude":38.788396,
     "geom:longitude":-77.448644,
@@ -33,17 +34,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FB3LSfEYqxw77bXRALB9e_38.788396_-77.448644@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887850,
-    "wof:geomhash":"472b465e3a77eb62aef9113ffdc6d276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb415cefc1097bdb71b166c1007fb54f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":722745539
+        }
+    ],
     "wof:id":722745539,
-    "wof:lastmodified":1472651679,
+    "wof:lastmodified":1492072801,
     "wof:name":"Pro Service Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

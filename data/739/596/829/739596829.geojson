@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.1323,38.8519,-77.1323,38.8519",
     "geom:latitude":38.8519,
     "geom:longitude":-77.1323,
@@ -32,17 +33,32 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KJjcTtG48CnJ4EuUpo7C2_38.852094_-77.132730@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461910330,
-    "wof:geomhash":"33effcf6983726f75097a9a5ed597360",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0013fa0bb0387492ff0e49424fdd30b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739596829
+        }
+    ],
     "wof:id":739596829,
-    "wof:lastmodified":1472651970,
+    "wof:lastmodified":1492041663,
     "wof:name":"Moe's Southwest Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

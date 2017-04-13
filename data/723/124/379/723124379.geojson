@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.382985,37.111174,-80.382985,37.111174",
     "geom:latitude":37.111174,
     "geom:longitude":-80.382985,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xhu8Ho3Xe2po7EpGas5qn_37.111174_-80.382985@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895594,
-    "wof:geomhash":"92efa5bdf76d62f6ee599367935463c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34d7e8305cb77bd6deb686845774839c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":723124379
+        }
+    ],
     "wof:id":723124379,
-    "wof:lastmodified":1472651379,
+    "wof:lastmodified":1492055127,
     "wof:name":"CC Schoolfield Builders I",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

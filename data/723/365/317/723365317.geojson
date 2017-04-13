@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.39571,37.23426,-77.39571,37.23426",
     "geom:latitude":37.23426,
     "geom:longitude":-77.39571,
@@ -33,17 +34,32 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77EUb9mne6PiAjEMVBJXiF_37.234260_-77.395710@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900292,
-    "wof:geomhash":"61f3f78e6109d1d8fb34e8c5d4c23b00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdbe7a2f5094c9ab61cbaeea303584a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723365317
+        }
+    ],
     "wof:id":723365317,
-    "wof:lastmodified":1472652049,
+    "wof:lastmodified":1492054915,
     "wof:name":"East Coast Trailers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

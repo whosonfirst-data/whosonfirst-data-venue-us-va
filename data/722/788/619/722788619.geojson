@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.193867,38.764942,-77.193867,38.764942",
     "geom:latitude":38.764942,
     "geom:longitude":-77.193867,
@@ -34,7 +35,8 @@
         85633793,
         101729791,
         102084863,
-        85894025
+        85894025,
+        85805977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461888668,
-    "wof:geomhash":"6cb76431282a269099be9cec4c7ab886",
+    "wof:geomhash":"02a931575d3140668881a189cf8ec138",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,19 @@
             "neighbourhood_id":85894025,
             "region_id":85688747,
             "venue_id":722788619
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084863,
+            "neighbourhood_id":85805977,
+            "region_id":85688747,
+            "venue_id":722788619
         }
     ],
     "wof:id":722788619,
-    "wof:lastmodified":1472651794,
+    "wof:lastmodified":1492064082,
     "wof:name":"Realestate Agent",
-    "wof:parent_id":85894025,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

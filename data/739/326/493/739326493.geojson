@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.564005,38.825099,-78.564005,38.825099",
     "geom:latitude":38.825099,
     "geom:longitude":-78.564005,
@@ -31,17 +32,32 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728873,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iAmP6dZk9sALAXZOD7amR_38.825099_-78.564005@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905111,
-    "wof:geomhash":"5b7836db2f6282b6c38e8de3d19494fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54c9ec62553a8f03a380ad20ebc6a3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728873,
+            "region_id":85688747,
+            "venue_id":739326493
+        }
+    ],
     "wof:id":739326493,
-    "wof:lastmodified":1472651252,
+    "wof:lastmodified":1492047152,
     "wof:name":"US Forestry Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

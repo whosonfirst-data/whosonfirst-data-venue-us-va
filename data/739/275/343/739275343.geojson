@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.533169,38.288854,-77.533169,38.288854",
     "geom:latitude":38.288854,
     "geom:longitude":-77.533169,
@@ -32,7 +33,12 @@
         "weight"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GePYok6ciFqMKxHM6v2Nu_38.288854_-77.533169@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904047,
     "wof:geomhash":"02b0f3bffcb579bcdc775eb233850f2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739275343
+        }
+    ],
     "wof:id":739275343,
-    "wof:lastmodified":1472651147,
+    "wof:lastmodified":1492031048,
     "wof:name":"Weight Loss Forever",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

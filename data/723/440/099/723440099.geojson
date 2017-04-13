@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.904679,38.431682,-78.904679,38.431682",
     "geom:latitude":38.431682,
     "geom:longitude":-78.904679,
@@ -40,17 +41,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xWAEY4WngDN0xT0oyi9Or_38.431682_-78.904679@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901764,
-    "wof:geomhash":"26b9c669f517c1bfaf86cd6b5acbfbb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"076e4b2bac1ca770810fc2b30874b705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723440099
+        }
+    ],
     "wof:id":723440099,
-    "wof:lastmodified":1472652231,
+    "wof:lastmodified":1492056572,
     "wof:name":"Miller's Cabinets Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

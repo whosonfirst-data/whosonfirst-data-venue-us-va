@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.718467,39.145947,-77.718467,39.145947",
     "geom:latitude":39.145947,
     "geom:longitude":-77.718467,
@@ -31,17 +32,32 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728815,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Lux5OVXKP4Pa55GRWF6tI_39.145947_-77.718467@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906676,
-    "wof:geomhash":"538e650dbc5a165de143fc248e4d4998",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63625e7e279e5ebecd9bc51586cb72d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728815,
+            "region_id":85688747,
+            "venue_id":739404883
+        }
+    ],
     "wof:id":739404883,
-    "wof:lastmodified":1472651487,
+    "wof:lastmodified":1492037474,
     "wof:name":"Loudoun Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.52386,37.487222,-77.52386,37.487222",
     "geom:latitude":37.487222,
     "geom:longitude":-77.52386,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"http://www.justsayspots.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vJKKxu4a5QfQP4LeQD6Wo_37.487222_-77.523860@1303262550"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461912950,
     "wof:geomhash":"d7d99f7cdf04fd46cc1256714f770bc7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739717967
+        }
+    ],
     "wof:id":739717967,
-    "wof:lastmodified":1472652211,
+    "wof:lastmodified":1492031502,
     "wof:name":"Just Say No",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

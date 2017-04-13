@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.445459,38.382414,-77.445459,38.382414",
     "geom:latitude":38.382414,
     "geom:longitude":-77.445459,
@@ -31,17 +32,26 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TxhcMvnFHjIC8nw49BFea_38.382414_-77.445459@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909273,
-    "wof:geomhash":"af03080b438a192c401ed8201ccf0453",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40e042d7a28833800bf466a3eff0f3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":739545465
+        }
+    ],
     "wof:id":739545465,
-    "wof:lastmodified":1472651868,
+    "wof:lastmodified":1492041244,
     "wof:name":"Patriot Towing",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

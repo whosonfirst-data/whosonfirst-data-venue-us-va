@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.57746,36.987565,-76.57746,36.987565",
     "geom:latitude":36.987565,
     "geom:longitude":-76.57746,
@@ -32,7 +33,12 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hFmn3lZOK41N9FISoPeJg_36.987565_-76.577460@1303262551"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461913173,
     "wof:geomhash":"551f6a225c1b3ec6a502fb75a1c5a773",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "region_id":85688747,
+            "venue_id":739729149
+        }
+    ],
     "wof:id":739729149,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492031660,
     "wof:name":"Sew Crazy Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.058178,36.685091,-82.058178,36.685091",
     "geom:latitude":36.685091,
     "geom:longitude":-82.058178,
@@ -32,7 +33,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RgHTQFa1rCdWPaP5Cjjgz_36.685091_-82.058178@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461907450,
     "wof:geomhash":"7ea908407d6811b10b3a5080afb3c8f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739444739
+        }
+    ],
     "wof:id":739444739,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492032007,
     "wof:name":"Virginia Lasar Corp",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

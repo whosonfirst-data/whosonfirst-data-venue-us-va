@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.420462,38.673389,-77.420462,38.673389",
     "geom:latitude":38.673389,
     "geom:longitude":-77.420462,
@@ -28,7 +29,12 @@
     "sg:postcode":"20112",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yquph9haBTDyJXwlIBTYt_38.673389_-77.420462@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906612,
     "wof:geomhash":"c0bb734b033ac8c523b94adabced929a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739401701
+        }
+    ],
     "wof:id":739401701,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492032705,
     "wof:name":"Opticom Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

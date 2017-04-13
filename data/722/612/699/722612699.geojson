@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.455409,38.665454,-78.455409,38.665454",
     "geom:latitude":38.665454,
     "geom:longitude":-78.455409,
@@ -35,10 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728651,
         102084929,
-        85819935
+        85819935,
+        85807967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1461885219,
-    "wof:geomhash":"f886193bb5258e652bd418506252325a",
+    "wof:geomhash":"3a8736fab080b618d1aafe48d27ea9b4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084929,
             "locality_id":101728651,
             "neighbourhood_id":85819935,
             "region_id":85688747,
             "venue_id":722612699
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084929,
+            "locality_id":101728651,
+            "neighbourhood_id":85807967,
+            "region_id":85688747,
+            "venue_id":722612699
         }
     ],
     "wof:id":722612699,
-    "wof:lastmodified":1472651322,
+    "wof:lastmodified":1492063204,
     "wof:name":"St Mark Lutheran Church",
-    "wof:parent_id":85819935,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

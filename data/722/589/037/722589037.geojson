@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.420658,37.040884,-76.420658,37.040884",
     "geom:latitude":37.040884,
     "geom:longitude":-76.420658,
@@ -37,7 +38,8 @@
         85633793,
         101728661,
         102084913,
-        420547991
+        420547991,
+        85838201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461884777,
-    "wof:geomhash":"7997b13518431c0935109bb78da9b495",
+    "wof:geomhash":"25393eb6f5d526af3c31d539158799f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":420547991,
             "region_id":85688747,
             "venue_id":722589037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85838201,
+            "region_id":85688747,
+            "venue_id":722589037
         }
     ],
     "wof:id":722589037,
-    "wof:lastmodified":1472651200,
+    "wof:lastmodified":1492071549,
     "wof:name":"Jefferson Davis Middle School",
-    "wof:parent_id":420547991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

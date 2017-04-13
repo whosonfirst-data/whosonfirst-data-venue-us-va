@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.458736,36.799124,-78.458736,36.799124",
     "geom:latitude":36.799124,
     "geom:longitude":-78.458736,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729013,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j69kTWmGc7L0veN6OSpgu_36.799124_-78.458736@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898723,
-    "wof:geomhash":"a308147f6d36145f15b222c215e26a7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f39a689fb936875d58aef2817b02af20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729013,
+            "region_id":85688747,
+            "venue_id":723282503
+        }
+    ],
     "wof:id":723282503,
-    "wof:lastmodified":1472651789,
+    "wof:lastmodified":1492050349,
     "wof:name":"Garrett & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.728306,37.348926,-76.728306,37.348926",
     "geom:latitude":37.348926,
     "geom:longitude":-76.728306,
@@ -31,7 +32,10 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TkGB7PoMAgqvapuBpxZKM_37.348926_-76.728306@1299784598"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1461910131,
     "wof:geomhash":"8cd2e7a42a6b7389c6458453f86f70e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739586503
+        }
+    ],
     "wof:id":739586503,
-    "wof:lastmodified":1472651940,
+    "wof:lastmodified":1492031875,
     "wof:name":"Dippin' Dots",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

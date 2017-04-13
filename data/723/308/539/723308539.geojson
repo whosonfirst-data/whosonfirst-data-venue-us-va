@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.186806,38.882884,-77.186806,38.882884",
     "geom:latitude":38.882884,
     "geom:longitude":-77.186806,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728685,
+        102081047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TgKU3LZiWKDkhmyXIkvD6_38.882884_-77.186806@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899235,
-    "wof:geomhash":"f697d538c627124f7329de1404a53e0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35b7e3b633b27c380b07880c9ec65738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081047,
+            "locality_id":101728685,
+            "region_id":85688747,
+            "venue_id":723308539
+        }
+    ],
     "wof:id":723308539,
-    "wof:lastmodified":1472651800,
+    "wof:lastmodified":1492051323,
     "wof:name":"Lewis Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

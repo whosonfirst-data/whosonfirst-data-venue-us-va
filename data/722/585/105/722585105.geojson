@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.412908,38.448778,-77.412908,38.448778",
     "geom:latitude":38.448778,
     "geom:longitude":-77.412908,
@@ -31,17 +32,26 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fFGy4yWmTrrwhBebjdC2n_38.448778_-77.412908@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884698,
-    "wof:geomhash":"e1f15d776c0693e9d8dde9fccbefb66a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03993b19784fb662166a25865b555bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547283,
+            "venue_id":722585105
+        }
+    ],
     "wof:id":722585105,
-    "wof:lastmodified":1472651205,
+    "wof:lastmodified":1492074931,
     "wof:name":"G & L Appliance Svc",
     "wof:parent_id":420547283,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.189639,39.191707,-78.189639,39.191707",
     "geom:latitude":39.191707,
     "geom:longitude":-78.189639,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59Ge7tQimlUIgGGWz234PM_39.191707_-78.189639@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906822,
-    "wof:geomhash":"3a8b327fee12c508e09fc643e423ab36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a09097194c89a682585e89efbe625df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739413001
+        }
+    ],
     "wof:id":739413001,
-    "wof:lastmodified":1472651442,
+    "wof:lastmodified":1492043888,
     "wof:name":"Laboratory Corporation America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

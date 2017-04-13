@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.156661,37.30497,-82.156661,37.30497",
     "geom:latitude":37.30497,
     "geom:longitude":-82.156661,
@@ -40,17 +41,30 @@
     ],
     "sg:website":"http://www.geoscanseismicservices.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bPqjV1neVtwTRULvXoWcA_37.304970_-82.156661@1303262553"
     },
     "wof:country":"US",
     "wof:created":1461913503,
-    "wof:geomhash":"670ac23c5bbf8c40eeddc459301e713a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e387f2ee5366daf250a54aafc4cda284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084907,
+            "region_id":85688747,
+            "venue_id":739743443
+        }
+    ],
     "wof:id":739743443,
-    "wof:lastmodified":1472652252,
+    "wof:lastmodified":1492037954,
     "wof:name":"Geoscan Seismic Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

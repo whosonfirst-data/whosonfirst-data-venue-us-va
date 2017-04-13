@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.420352,37.110105,-80.420352,37.110105",
     "geom:latitude":37.110105,
     "geom:longitude":-80.420352,
@@ -32,17 +33,26 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZV6tnxEPSOVhtCmW4Rchg_37.110105_-80.420352@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894456,
-    "wof:geomhash":"7b7d214498a971d2ef8256a109a58615",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba52ca82ad74d09d97a933460c82e89a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":723069879
+        }
+    ],
     "wof:id":723069879,
-    "wof:lastmodified":1472651243,
+    "wof:lastmodified":1492055050,
     "wof:name":"DMJ Builders Inc",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

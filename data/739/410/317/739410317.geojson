@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.021286,37.138354,-80.021286,37.138354",
     "geom:latitude":37.138354,
     "geom:longitude":-80.021286,
@@ -32,7 +33,12 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cNzKz86p7YgsKA9McavRQ_37.138354_-80.021286@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906771,
     "wof:geomhash":"e04e4d381f881f7537bdf9b3ee7fc29d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739410317
+        }
+    ],
     "wof:id":739410317,
-    "wof:lastmodified":1472651468,
+    "wof:lastmodified":1492032293,
     "wof:name":"Woods Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.216377,38.270587,-77.216377,38.270587",
     "geom:latitude":38.270587,
     "geom:longitude":-77.216377,
@@ -33,17 +34,32 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AAZZK43OnCHZF29wEuVJu_38.270587_-77.216377@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907888,
-    "wof:geomhash":"f687f8f66853590f77c2f17929bf1342",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dd03b30d6521ee9f3ae975f6649fbb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":739470085
+        }
+    ],
     "wof:id":739470085,
-    "wof:lastmodified":1472651602,
+    "wof:lastmodified":1492045843,
     "wof:name":"George King Speedway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

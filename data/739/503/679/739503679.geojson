@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.582198,39.261645,-77.582198,39.261645",
     "geom:latitude":39.261645,
     "geom:longitude":-77.582198,
@@ -31,7 +32,12 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DB5l4XIATP2DmrBo8hGCN_39.261645_-77.582198@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908494,
     "wof:geomhash":"d55b5936f3efe5759cc6f24609da2265",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739503679
+        }
+    ],
     "wof:id":739503679,
-    "wof:lastmodified":1472651808,
+    "wof:lastmodified":1492032335,
     "wof:name":"Millers Landscaping & Rmdlg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

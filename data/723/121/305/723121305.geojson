@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.429756,37.789857,-79.429756,37.789857",
     "geom:latitude":37.789857,
     "geom:longitude":-79.429756,
@@ -31,17 +32,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728589,
+        102085969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ihctzDJo9RejWpI3g2q3V_37.789857_-79.429756@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895542,
-    "wof:geomhash":"1643ec9381e40c3fc60803c79f88a47a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60af575afe7bc311f0b30ece91867f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085969,
+            "locality_id":101728589,
+            "region_id":85688747,
+            "venue_id":723121305
+        }
+    ],
     "wof:id":723121305,
-    "wof:lastmodified":1472651340,
+    "wof:lastmodified":1492055875,
     "wof:name":"Rockbridge Area Food Pantry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

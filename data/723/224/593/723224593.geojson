@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.554078,39.109468,-77.554078,39.109468",
     "geom:latitude":39.109468,
     "geom:longitude":-77.554078,
@@ -32,17 +33,32 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uSKyjvL8KtKC0BF2z4c6I_39.109468_-77.554078@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897587,
-    "wof:geomhash":"a03adf5fdcaf545e94ef2b069dd27283",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf86453bfc772776258cf605117013b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723224593
+        }
+    ],
     "wof:id":723224593,
-    "wof:lastmodified":1472651637,
+    "wof:lastmodified":1492049788,
     "wof:name":"Leesburg Monument Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

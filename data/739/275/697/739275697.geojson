@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.558688,38.743507,-77.558688,38.743507",
     "geom:latitude":38.743507,
     "geom:longitude":-77.558688,
@@ -28,7 +29,13 @@
     "sg:postcode":"20136",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62W2AxzYUhFD7jevo7pa0G_38.743507_-77.558688@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904054,
     "wof:geomhash":"eaf45b73de7dae67194ba30f06f0426e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739275697
+        }
+    ],
     "wof:id":739275697,
-    "wof:lastmodified":1472651169,
+    "wof:lastmodified":1492031068,
     "wof:name":"Seneca High Adventure CHR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

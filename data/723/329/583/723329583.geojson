@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.555928,37.617926,-77.555928,37.617926",
     "geom:latitude":37.617926,
     "geom:longitude":-77.555928,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FgIYYcvOtGq8KR5uiIsHD_37.617926_-77.555928@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899619,
-    "wof:geomhash":"5828645f2ef38662f51c659ac1733e78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b95f3ad682305a99173e5af3183a9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723329583
+        }
+    ],
     "wof:id":723329583,
-    "wof:lastmodified":1472651910,
+    "wof:lastmodified":1492059635,
     "wof:name":"Computer Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

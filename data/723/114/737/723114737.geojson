@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.925939,36.712372,-81.925939,36.712372",
     "geom:latitude":36.712372,
     "geom:longitude":-81.925939,
@@ -34,10 +35,11 @@
     "wof:belongsto":[
         85688747,
         85633793,
-        101728829,
+        85847417,
         102087301,
-        85835297,
-        85847417
+        102191575,
+        101728829,
+        85835297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +47,29 @@
     },
     "wof:country":"US",
     "wof:created":1461895413,
-    "wof:geomhash":"6782200de1c8ecaba1815c9ad9d9ff01",
+    "wof:geomhash":"a9f7e21901d6ee25bc409cba7105c639",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087301,
-            "locality_id":101728829,
-            "neighbourhood_id":85835297,
-            "region_id":85688747,
-            "venue_id":723114737
-        },
         {
             "country_id":85633793,
             "county_id":102087301,
             "neighbourhood_id":85847417,
             "region_id":85688747,
             "venue_id":723114737
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087301,
+            "locality_id":101728829,
+            "neighbourhood_id":85835297,
+            "region_id":85688747,
+            "venue_id":723114737
         }
     ],
     "wof:id":723114737,
-    "wof:lastmodified":1472651360,
+    "wof:lastmodified":1492060495,
     "wof:name":"Cherokee Motel & Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

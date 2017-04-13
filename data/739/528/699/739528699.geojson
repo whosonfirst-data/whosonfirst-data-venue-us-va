@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.421277,37.681139,-77.421277,37.681139",
     "geom:latitude":37.681139,
     "geom:longitude":-77.421277,
@@ -28,7 +29,12 @@
     "sg:postcode":"23116",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GJhbg3MC0tuja97YhoYOa_37.681139_-77.421277@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908956,
     "wof:geomhash":"d6909c078c6b26549aaa6fab39f3ffea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739528699
+        }
+    ],
     "wof:id":739528699,
-    "wof:lastmodified":1472651791,
+    "wof:lastmodified":1492032521,
     "wof:name":"David A Stanford Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

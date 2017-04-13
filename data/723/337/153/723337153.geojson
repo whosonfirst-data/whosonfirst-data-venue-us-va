@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.947508,37.272167,-79.947508,37.272167",
     "geom:latitude":37.272167,
     "geom:longitude":-79.947508,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07wJ1NXNrvI7WqTwjVc5Xn_37.272167_-79.947508@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899754,
-    "wof:geomhash":"807bff240d51b13cac0a9b497acb20c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5644e7e237ee8971d3ce0c028ed2646f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723337153
+        }
+    ],
     "wof:id":723337153,
-    "wof:lastmodified":1472651886,
+    "wof:lastmodified":1492058454,
     "wof:name":"Old Dominion Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

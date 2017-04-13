@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.919984,37.28255,-79.919984,37.28255",
     "geom:latitude":37.28255,
     "geom:longitude":-79.919984,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sPqCVGZ7eqQ4gZZidRdFK_37.282550_-79.919984@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905052,
-    "wof:geomhash":"e86d69b7de97682a59aa12dd03e5745e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d0b48a6fb8c27cfa585a9bb76ad8b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739323573
+        }
+    ],
     "wof:id":739323573,
-    "wof:lastmodified":1472651286,
+    "wof:lastmodified":1492044474,
     "wof:name":"Pjax Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.349345,37.462875,-77.349345,37.462875",
     "geom:latitude":37.462875,
     "geom:longitude":-77.349345,
@@ -31,17 +32,30 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5caLVZ4dMHmtLQ8pjmaD48_37.462875_-77.349345@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893615,
-    "wof:geomhash":"afc095148df48ac6e1e39aca34e2842c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55bd565d875e2b84db58f93d46fb5b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723030779
+        }
+    ],
     "wof:id":723030779,
-    "wof:lastmodified":1472651166,
+    "wof:lastmodified":1492057188,
     "wof:name":"James River Memorial Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

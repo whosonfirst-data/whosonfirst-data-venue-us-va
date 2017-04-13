@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458358,38.849326,-77.458358,38.849326",
     "geom:latitude":38.849326,
     "geom:longitude":-77.458358,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"http://www.brainkeeper.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_754UClucsNEYnzYwtawZJB_38.849326_-77.458358@1308186496"
     },
     "wof:country":"US",
     "wof:created":1461913504,
-    "wof:geomhash":"a02f690685fd760513305ead915cf308",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2623c2f2b183968fb35b21b2c59e59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739743523
+        }
+    ],
     "wof:id":739743523,
-    "wof:lastmodified":1472652260,
+    "wof:lastmodified":1492037962,
     "wof:name":"BrainKeeper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

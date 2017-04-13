@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371066,38.508464,-77.371066,38.508464",
     "geom:latitude":38.508464,
     "geom:longitude":-77.371066,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QEgTk6G9sIVIG1l7iCS6j_38.508464_-77.371066@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893701,
-    "wof:geomhash":"39e272770a8d2218437e39e5fced0610",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70bc62bc9fa408f79482990fe2272a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":723034715
+        }
+    ],
     "wof:id":723034715,
-    "wof:lastmodified":1472651174,
+    "wof:lastmodified":1492054994,
     "wof:name":"Boswell's Mobil",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

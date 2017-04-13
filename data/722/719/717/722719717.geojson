@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.460042,37.246301,-80.460042,37.246301",
     "geom:latitude":37.246301,
     "geom:longitude":-80.460042,
@@ -29,9 +30,10 @@
     "sg:province":"VA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420547025,
         85688747,
         102191575,
-        85633793,
         101728705,
         102087271,
         85853185
@@ -42,8 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1461887336,
-    "wof:geomhash":"f7aa04d767a35b6f63aad0c84a3a07a5",
+    "wof:geomhash":"aa4eb2c4c7601dd4dd404a8631af01f0",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547025,
+            "venue_id":722719717
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +62,9 @@
         }
     ],
     "wof:id":722719717,
-    "wof:lastmodified":1472651598,
+    "wof:lastmodified":1492073457,
     "wof:name":"Ginger's Top Cut",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

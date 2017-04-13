@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.417154,38.339733,-78.417154,38.339733",
     "geom:latitude":38.339733,
     "geom:longitude":-78.417154,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DQ0mqu4j361wOYJKiQ3qt_38.339733_-78.417154@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902073,
-    "wof:geomhash":"b2aa602ffb1ee10f35304ae85b05299a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9455275a9828961579dadfed4288a856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":723457201
+        }
+    ],
     "wof:id":723457201,
-    "wof:lastmodified":1472652283,
+    "wof:lastmodified":1492050330,
     "wof:name":"Liberty Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

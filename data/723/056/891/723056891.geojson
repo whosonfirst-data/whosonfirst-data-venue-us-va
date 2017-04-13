@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.83434,37.397418,-76.83434,37.397418",
     "geom:latitude":37.397418,
     "geom:longitude":-76.83434,
@@ -35,17 +36,26 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546751
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ShGB5ctRhe8h6yJZgjqpj_37.397418_-76.834340@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894159,
-    "wof:geomhash":"be22394a27eab6d1ef69ff23f4507c0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6451a4ae2811ea244931de10274000f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546751,
+            "venue_id":723056891
+        }
+    ],
     "wof:id":723056891,
-    "wof:lastmodified":1472651245,
+    "wof:lastmodified":1492060080,
     "wof:name":"Bob's Carpet & Vinyl Corp",
     "wof:parent_id":420546751,
     "wof:placetype":"venue",

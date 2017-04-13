@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.670702,37.51966,-77.670702,37.51966",
     "geom:latitude":37.51966,
     "geom:longitude":-77.670702,
@@ -32,17 +33,30 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U8lalXbRqaI16OJI94OV2_37.519660_-77.670702@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912797,
-    "wof:geomhash":"392a36be7d54651fbe546d78c6325de4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"515fa778c9a685918be8c7ef02cdc7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739710701
+        }
+    ],
     "wof:id":739710701,
-    "wof:lastmodified":1472652204,
+    "wof:lastmodified":1492045679,
     "wof:name":"Schd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

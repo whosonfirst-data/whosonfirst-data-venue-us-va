@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.358549,37.043814,-76.358549,37.043814",
     "geom:latitude":37.043814,
     "geom:longitude":-76.358549,
@@ -37,7 +38,8 @@
         85633793,
         101728661,
         102084913,
-        85858251
+        85858251,
+        85818739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,21 @@
             "neighbourhood_id":85858251,
             "region_id":85688747,
             "venue_id":739285833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85818739,
+            "region_id":85688747,
+            "venue_id":739285833
         }
     ],
     "wof:id":739285833,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492029718,
     "wof:name":"Soap N Suds",
-    "wof:parent_id":85858251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

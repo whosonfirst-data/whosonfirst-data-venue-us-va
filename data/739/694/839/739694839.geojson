@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380072,38.388006,-77.380072,38.388006",
     "geom:latitude":38.388006,
     "geom:longitude":-77.380072,
@@ -31,7 +32,10 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_532mV14Ouhy5i1DMGLminT_38.388006_-77.380072@1303262547"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461912435,
     "wof:geomhash":"6ec01c4df735f8c63492d9327aec597c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":739694839
+        }
+    ],
     "wof:id":739694839,
-    "wof:lastmodified":1472652198,
+    "wof:lastmodified":1492030231,
     "wof:name":"Brooke Volunteer Fire Dept",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.605891,38.796282,-77.605891,38.796282",
     "geom:latitude":38.796282,
     "geom:longitude":-77.605891,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"www.pier1.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PvH0jcqZ1Bd4BzTOK9nXl_38.796282_-77.605891@1303262496"
     },
     "wof:country":"US",
     "wof:created":1461910605,
-    "wof:geomhash":"f53018af3560a0ce55335a7affc73875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cacc714830f07ca077470b8a10555d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739610185
+        }
+    ],
     "wof:id":739610185,
-    "wof:lastmodified":1472651939,
+    "wof:lastmodified":1492043811,
     "wof:name":"Pier 1 Imports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

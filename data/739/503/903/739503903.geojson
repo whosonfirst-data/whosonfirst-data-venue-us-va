@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.600185,37.600311,-76.600185,37.600311",
     "geom:latitude":37.600311,
     "geom:longitude":-76.600185,
@@ -28,7 +29,13 @@
     "sg:postcode":"23149",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729309,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Tc6ZSWWDbcBEjCmYgAxDB_37.600311_-76.600185@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908498,
     "wof:geomhash":"455f7b700ef0633f71f53ebf4823f18b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "locality_id":101729309,
+            "region_id":85688747,
+            "venue_id":739503903
+        }
+    ],
     "wof:id":739503903,
-    "wof:lastmodified":1472651842,
+    "wof:lastmodified":1492032346,
     "wof:name":"Carneal Realty & Insurance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

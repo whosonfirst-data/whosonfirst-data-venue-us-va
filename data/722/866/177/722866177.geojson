@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.430551,37.396737,-77.430551,37.396737",
     "geom:latitude":37.396737,
     "geom:longitude":-77.430551,
@@ -32,17 +33,32 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MGMpeJ6DXj3UPNU8YjWMK_37.396737_-77.430551@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890130,
-    "wof:geomhash":"59be028d1d16e8c70c7d6c653b3fcef7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dd6a1912f16c4bad451718fdfe35e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":722866177
+        }
+    ],
     "wof:id":722866177,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492065265,
     "wof:name":"White House Motor Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

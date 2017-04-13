@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.667778,37.458304,-77.667778,37.458304",
     "geom:latitude":37.458304,
     "geom:longitude":-77.667778,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NRxjZKyITHd6O6ANjTwG2_37.458304_-77.667778@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888066,
-    "wof:geomhash":"8a0b6531e7423a9582bd2dd638ffe18e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffdd586119fb53b7c5d68b4b15f5f2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":722756989
+        }
+    ],
     "wof:id":722756989,
-    "wof:lastmodified":1472651783,
+    "wof:lastmodified":1492071584,
     "wof:name":"Bill Winslow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

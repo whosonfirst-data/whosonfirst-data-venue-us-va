@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.186601,36.592062,-82.186601,36.592062",
     "geom:latitude":36.592062,
     "geom:longitude":-82.186601,
@@ -33,17 +34,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FpkKRnlK5nsL5wp0WlLTN_36.592062_-82.186601@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888054,
-    "wof:geomhash":"f027765e9413ecaccac97e36ee9e8af1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1be89a0d5358603a4e26d86c715f9fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "region_id":85688701,
+            "venue_id":722756337
+        }
+    ],
     "wof:id":722756337,
-    "wof:lastmodified":1472651721,
+    "wof:lastmodified":1492071604,
     "wof:name":"Midtown Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

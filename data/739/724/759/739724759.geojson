@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.607231,37.500549,-77.607231,37.500549",
     "geom:latitude":37.500549,
     "geom:longitude":-77.607231,
@@ -38,7 +39,12 @@
     ],
     "sg:website":"http://www.pmnetwork.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45RCbEmyBfFbRkR7pyc020_37.500549_-77.607231@1303262551"
@@ -46,9 +52,17 @@
     "wof:country":"US",
     "wof:created":1461913088,
     "wof:geomhash":"ec00536796400022462e53d67986435f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724759
+        }
+    ],
     "wof:id":739724759,
-    "wof:lastmodified":1472652251,
+    "wof:lastmodified":1492030940,
     "wof:name":"Pm Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

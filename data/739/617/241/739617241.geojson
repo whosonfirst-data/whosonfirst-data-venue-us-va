@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.562755,38.709516,-77.562755,38.709516",
     "geom:latitude":38.709516,
     "geom:longitude":-77.562755,
@@ -32,17 +33,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729249,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4la5wc622rWFBJ2248f50K_38.709516_-77.562755@1303262497"
     },
     "wof:country":"US",
     "wof:created":1461910762,
-    "wof:geomhash":"a5be6497246adea4cc5facbc8f2cf84a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f98ccd8bb76e24db0cb5ea3b9cc18e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729249,
+            "region_id":85688747,
+            "venue_id":739617241
+        }
+    ],
     "wof:id":739617241,
-    "wof:lastmodified":1472651989,
+    "wof:lastmodified":1492040754,
     "wof:name":"Weedman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.481235,38.85344,-77.481235,38.85344",
     "geom:latitude":38.85344,
     "geom:longitude":-77.481235,
@@ -32,17 +33,30 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NSr0QxhFlXGsAFT0lTiKp_38.853440_-77.481235@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898128,
-    "wof:geomhash":"ba5f68424524243d876ff313439013b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed797844a9179842ecbe8461cf146710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":723250595
+        }
+    ],
     "wof:id":723250595,
-    "wof:lastmodified":1472651689,
+    "wof:lastmodified":1492054523,
     "wof:name":"BEI Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

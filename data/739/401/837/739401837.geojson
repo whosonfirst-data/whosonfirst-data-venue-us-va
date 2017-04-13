@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.295001,37.436868,-79.295001,37.436868",
     "geom:latitude":37.436868,
     "geom:longitude":-79.295001,
@@ -32,7 +33,12 @@
         "exercising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TCB4hyLoD4NRaXS2pnDwv_37.436868_-79.295001@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461906614,
     "wof:geomhash":"aa1c46de686fb378a3ae5eaf8cf33ef9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":739401837
+        }
+    ],
     "wof:id":739401837,
-    "wof:lastmodified":1472651473,
+    "wof:lastmodified":1492032693,
     "wof:name":"Pet Watch Of Lynchburg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.384629,39.021742,-77.384629,39.021742",
     "geom:latitude":39.021742,
     "geom:longitude":-77.384629,
@@ -31,7 +32,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5miZI7wOfkYzSFUAxr98eu_39.021742_-77.384629@1303262496"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910633,
     "wof:geomhash":"7061e038e5eb76818338fa4b1b7a69f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739611731
+        }
+    ],
     "wof:id":739611731,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492029434,
     "wof:name":"Northern Virginia Bahai Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

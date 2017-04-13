@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.516521,39.048299,-77.516521,39.048299",
     "geom:latitude":39.048299,
     "geom:longitude":-77.516521,
@@ -33,17 +34,32 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UgYnGrJiTvZhXSyVUCncv_39.048299_-77.516521@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903070,
-    "wof:geomhash":"c5c88d9017bfa370418f907a4a2afeff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f404f0ec0bd7f60239e2c31982f84ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723505075
+        }
+    ],
     "wof:id":723505075,
-    "wof:lastmodified":1472652333,
+    "wof:lastmodified":1492050768,
     "wof:name":"US Lawns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

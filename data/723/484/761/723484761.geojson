@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.353324,38.417658,-77.353324,38.417658",
     "geom:latitude":38.417658,
     "geom:longitude":-77.353324,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gRJlo4utY1Z6i7d39jI6T_38.417658_-77.353324@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902625,
-    "wof:geomhash":"a5d1cf0387a57bc588e02186c174aa4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5563c186c59df8cd89a3e1949e679f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":723484761
+        }
+    ],
     "wof:id":723484761,
-    "wof:lastmodified":1472652359,
+    "wof:lastmodified":1492052171,
     "wof:name":"Sageguild",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

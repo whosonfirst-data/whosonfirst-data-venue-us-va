@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.522318,36.930518,-76.522318,36.930518",
     "geom:latitude":36.930518,
     "geom:longitude":-76.522318,
@@ -33,7 +34,13 @@
         "cigar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729143,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JSOfWdu8pJKr9AdRdTlz1_36.930365_-76.522331@1293134755"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461909790,
     "wof:geomhash":"d659faaeb4c2ff4980c9b61068f11369",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101729143,
+            "region_id":85688747,
+            "venue_id":739570595
+        }
+    ],
     "wof:id":739570595,
-    "wof:lastmodified":1472651910,
+    "wof:lastmodified":1492031732,
     "wof:name":"Carrollton Tobacco Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.082766,36.712239,-82.082766,36.712239",
     "geom:latitude":36.712239,
     "geom:longitude":-82.082766,
@@ -31,17 +32,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03vVVaQeEi3NP5J70kahgo_36.712239_-82.082766@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904927,
-    "wof:geomhash":"373e22bda5bba4c33d150fe91d37d515",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c703d6c968ae6d8fbfc88af53f37799e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739317885
+        }
+    ],
     "wof:id":739317885,
-    "wof:lastmodified":1472651246,
+    "wof:lastmodified":1492042553,
     "wof:name":"Rv Refrigeration",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

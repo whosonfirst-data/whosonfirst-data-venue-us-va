@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.906209,38.401536,-78.906209,38.401536",
     "geom:latitude":38.401536,
     "geom:longitude":-78.906209,
@@ -35,17 +36,32 @@
         "con"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BYN5r9tEp94drVYYgSJq1_38.401536_-78.906209@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907982,
-    "wof:geomhash":"e34e5398d69411a090b9cb8179533aac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edd2152e92867c6494b9d8ea792dab2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739475261
+        }
+    ],
     "wof:id":739475261,
-    "wof:lastmodified":1472651608,
+    "wof:lastmodified":1492041082,
     "wof:name":"Nielsen Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

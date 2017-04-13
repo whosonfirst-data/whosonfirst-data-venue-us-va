@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.011066,37.074995,-78.011066,37.074995",
     "geom:latitude":37.074995,
     "geom:longitude":-78.011066,
@@ -32,7 +33,13 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728533,
+        102087251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v7t2uZhOWV3vN41kfcVK7_37.074995_-78.011066@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905450,
     "wof:geomhash":"32f5d26fe10c8a13300efbec3d6a2c13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087251,
+            "locality_id":101728533,
+            "region_id":85688747,
+            "venue_id":739343327
+        }
+    ],
     "wof:id":739343327,
-    "wof:lastmodified":1472651280,
+    "wof:lastmodified":1492032174,
     "wof:name":"VA United Methdst Assembly Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

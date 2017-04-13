@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394978,38.312324,-77.394978,38.312324",
     "geom:latitude":38.312324,
     "geom:longitude":-77.394978,
@@ -28,7 +29,10 @@
     "sg:postcode":"22405",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28epDfElbngdlSxulighEW_38.312324_-77.394978@1303262546"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461912402,
     "wof:geomhash":"a08e7b4edbc1ca2a502757d1c6a9ee9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":739693097
+        }
+    ],
     "wof:id":739693097,
-    "wof:lastmodified":1472652164,
+    "wof:lastmodified":1492031407,
     "wof:name":"Sweet Promise Farm Inc",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

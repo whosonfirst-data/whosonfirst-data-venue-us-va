@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471703,37.639082,-77.471703,37.639082",
     "geom:latitude":37.639082,
     "geom:longitude":-77.471703,
@@ -33,7 +34,12 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tplGNo2OI94AFhE7E8Jl5_37.639082_-77.471703@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904856,
     "wof:geomhash":"8e474ad1722178d86d90b2e901fe6397",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739314401
+        }
+    ],
     "wof:id":739314401,
-    "wof:lastmodified":1472651221,
+    "wof:lastmodified":1492029895,
     "wof:name":"Msx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

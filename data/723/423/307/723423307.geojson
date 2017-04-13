@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.730387,37.314696,-76.730387,37.314696",
     "geom:latitude":37.314696,
     "geom:longitude":-76.730387,
@@ -31,19 +32,28 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TgHSDnxiLfUsglRKz4mtQ_37.314696_-76.730387@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901428,
-    "wof:geomhash":"763268fde8810a34480c831b7374a96f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6fe5d58b4842a8f76f5b3dcdb371d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":723423307
+        }
+    ],
     "wof:id":723423307,
-    "wof:lastmodified":1472652228,
+    "wof:lastmodified":1492050637,
     "wof:name":"Kingdom Hall-Jehovah's Witness",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.050433,36.744944,-82.050433,36.744944",
     "geom:latitude":36.744944,
     "geom:longitude":-82.050433,
@@ -34,17 +35,26 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1njRgPVDaAeSKkcmZwnf10_36.744944_-82.050433@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903127,
-    "wof:geomhash":"b12c5a635d9a268220c179938eae2e3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69f76ad6a79cc4e04e66df90842d0bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723507685
+        }
+    ],
     "wof:id":723507685,
-    "wof:lastmodified":1472652366,
+    "wof:lastmodified":1492060337,
     "wof:name":"Atwell Equipment",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

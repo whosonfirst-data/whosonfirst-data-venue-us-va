@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.492505,37.137792,-81.492505,37.137792",
     "geom:latitude":37.137792,
     "geom:longitude":-81.492505,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xyK53sm5Z41aOcYi4GLuD_37.137792_-81.492505@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892211,
-    "wof:geomhash":"644a5f08a964a9e66af7169dc75d33eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a362a1e7fd576d0b1cec83d800e27861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547301,
+            "venue_id":722968933
+        }
+    ],
     "wof:id":722968933,
-    "wof:lastmodified":1472652321,
+    "wof:lastmodified":1492075336,
     "wof:name":"W Price & Assoc Inc",
     "wof:parent_id":420547301,
     "wof:placetype":"venue",

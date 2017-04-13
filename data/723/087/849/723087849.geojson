@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.739644,37.404199,-76.739644,37.404199",
     "geom:latitude":37.404199,
     "geom:longitude":-76.739644,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546925
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jtB4164pjaTVfbkSFGW0d_37.404199_-76.739644@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894875,
-    "wof:geomhash":"262b19cf861d6258fcce8bd325c986a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"332e87e8ce151d8c29e694cd715818f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546925,
+            "venue_id":723087849
+        }
+    ],
     "wof:id":723087849,
-    "wof:lastmodified":1472651309,
+    "wof:lastmodified":1492047852,
     "wof:name":"R P Finch Inc",
     "wof:parent_id":420546925,
     "wof:placetype":"venue",

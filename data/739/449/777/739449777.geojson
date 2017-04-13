@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458507,38.787394,-77.458507,38.787394",
     "geom:latitude":38.787394,
     "geom:longitude":-77.458507,
@@ -28,17 +29,42 @@
     "sg:postcode":"20111",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729231,
+        102084937,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34rvhsu9n7LC8Jm9XLc77o_38.787394_-77.458507@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907533,
-    "wof:geomhash":"9dcc385bfa3e4c21e7727cc388b0664a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"998205a4d9eceaa2fa1e15b9f21c49e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729231,
+            "region_id":85688747,
+            "venue_id":739449777
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":739449777
+        }
+    ],
     "wof:id":739449777,
-    "wof:lastmodified":1472651590,
+    "wof:lastmodified":1492045091,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

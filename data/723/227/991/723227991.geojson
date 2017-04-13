@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.968205,37.374139,-76.968205,37.374139",
     "geom:latitude":37.374139,
     "geom:longitude":-76.968205,
@@ -36,7 +37,10 @@
         85688747,
         85633793,
         85810823,
-        102085967
+        102085967,
+        101728673,
+        102084895,
+        85811135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897661,
-    "wof:geomhash":"d9589e8136e0044ddf4dc03672cabb9c",
+    "wof:geomhash":"4a35a5fd0e74821567d915c90dfa7225",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +56,20 @@
             "neighbourhood_id":85810823,
             "region_id":85688747,
             "venue_id":723227991
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084895,
+            "locality_id":101728673,
+            "neighbourhood_id":85811135,
+            "region_id":85688747,
+            "venue_id":723227991
         }
     ],
     "wof:id":723227991,
-    "wof:lastmodified":1472651655,
+    "wof:lastmodified":1492047921,
     "wof:name":"Chickahominy Agservice Inc",
-    "wof:parent_id":85810823,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.132766,37.279759,-79.132766,37.279759",
     "geom:latitude":37.279759,
     "geom:longitude":-79.132766,
@@ -34,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50FmXwkUiTEPuxJYlmnSQK_37.279759_-79.132766@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461904642,
     "wof:geomhash":"5431b99be5951e74e97f9a96b6f9da42",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":739303423
+        }
+    ],
     "wof:id":739303423,
-    "wof:lastmodified":1472651199,
+    "wof:lastmodified":1492029749,
     "wof:name":"Sligh Painting Contractor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

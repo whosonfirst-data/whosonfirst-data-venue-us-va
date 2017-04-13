@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.989695,36.705577,-81.989695,36.705577",
     "geom:latitude":36.705577,
     "geom:longitude":-81.989695,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b3LEM3bgtg5euXdJOr76N_36.705577_-81.989695@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890499,
-    "wof:geomhash":"85a5459d76bd40644a977b22f1641a8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8874857f2fa769020b9b337f2e7f0060",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722885725
+        }
+    ],
     "wof:id":722885725,
-    "wof:lastmodified":1472652072,
+    "wof:lastmodified":1492065921,
     "wof:name":"Anglican Church-The Good Shprd",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

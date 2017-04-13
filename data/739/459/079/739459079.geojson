@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.071384,38.743061,-77.071384,38.743061",
     "geom:latitude":38.743061,
     "geom:longitude":-77.071384,
@@ -37,7 +38,9 @@
         85633793,
         101729741,
         102084863,
-        85893977
+        85893977,
+        101729753,
+        420546657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461907701,
-    "wof:geomhash":"548ae3128392840f9ff87157d097cae1",
+    "wof:geomhash":"66c96d335c4d6ddd29c2032732e68af2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":85893977,
             "region_id":85688747,
             "venue_id":739459079
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729753,
+            "neighbourhood_id":420546657,
+            "region_id":85688747,
+            "venue_id":739459079
         }
     ],
     "wof:id":739459079,
-    "wof:lastmodified":1472651569,
+    "wof:lastmodified":1492046051,
     "wof:name":"Hct Colonial Construction Llc",
-    "wof:parent_id":85893977,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

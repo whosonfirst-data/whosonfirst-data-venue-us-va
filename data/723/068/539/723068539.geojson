@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.979701,37.262427,-79.979701,37.262427",
     "geom:latitude":37.262427,
     "geom:longitude":-79.979701,
@@ -32,17 +33,32 @@
         "practitioner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lhuMeOjsn0217lYSwYpnn_37.262427_-79.979701@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894422,
-    "wof:geomhash":"e3d36dbc3bad754a4f92619d9a5b33ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b01419f1ab6625ec3834b9f6fda40cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":723068539
+        }
+    ],
     "wof:id":723068539,
-    "wof:lastmodified":1472651238,
+    "wof:lastmodified":1492057211,
     "wof:name":"Lifestream Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.912476,38.400254,-78.912476,38.400254",
     "geom:latitude":38.400254,
     "geom:longitude":-78.912476,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R7H3jFasnACTrgX6cOrFx_38.400254_-78.912476@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901389,
-    "wof:geomhash":"a9cc823ff6a42b442b7d58bd54f031e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48771341a2c6dc6af8a2b9ae43772ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":723421587
+        }
+    ],
     "wof:id":723421587,
-    "wof:lastmodified":1472652253,
+    "wof:lastmodified":1492056960,
     "wof:name":"JEM Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

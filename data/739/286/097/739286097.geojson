@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.386164,37.498503,-77.386164,37.498503",
     "geom:latitude":37.498503,
     "geom:longitude":-77.386164,
@@ -28,7 +29,12 @@
     "sg:postcode":"23231",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HVQQx1nb6aHaBvsGdOlAA_37.498503_-77.386164@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904277,
     "wof:geomhash":"27a4d316df75fd7f4b3255e16a24eda1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739286097
+        }
+    ],
     "wof:id":739286097,
-    "wof:lastmodified":1472651145,
+    "wof:lastmodified":1492030115,
     "wof:name":"Seajays Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.528252,37.107983,-76.528252,37.107983",
     "geom:latitude":37.107983,
     "geom:longitude":-76.528252,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28M6Hvd1icwF5XgZs9CsHn_37.107983_-76.528252@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886924,
-    "wof:geomhash":"2888b03b1ad3bbec82293b0e30117eed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"733ee4a4ca9d2560f941fb0dcc61a069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":722697491
+        }
+    ],
     "wof:id":722697491,
-    "wof:lastmodified":1472651567,
+    "wof:lastmodified":1492072677,
     "wof:name":"B & P Hauling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

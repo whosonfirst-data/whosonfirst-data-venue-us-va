@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.946755,38.068269,-78.946755,38.068269",
     "geom:latitude":38.068269,
     "geom:longitude":-78.946755,
@@ -31,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RI0VmnyumNsmMbs1nDPoy_38.068269_-78.946755@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900210,
-    "wof:geomhash":"5f91f94636aa911538eaabbdb091b0b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7d4dfcee56fb2db65d3bc467804c68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":723361533
+        }
+    ],
     "wof:id":723361533,
-    "wof:lastmodified":1472652065,
+    "wof:lastmodified":1492056585,
     "wof:name":"Bill Everhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

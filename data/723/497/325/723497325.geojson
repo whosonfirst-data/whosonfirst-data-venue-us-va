@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.02688,36.685123,-82.02688,36.685123",
     "geom:latitude":36.685123,
     "geom:longitude":-82.02688,
@@ -31,17 +32,26 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mGmIxBn3dEaqLMp2Yig9I_36.685123_-82.026880@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902904,
-    "wof:geomhash":"229a2ab5447a05a4b2456a31aa5b161b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b73fe300859f2a21d16f138b1ea5de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723497325
+        }
+    ],
     "wof:id":723497325,
-    "wof:lastmodified":1472652335,
+    "wof:lastmodified":1492047647,
     "wof:name":"C L S",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

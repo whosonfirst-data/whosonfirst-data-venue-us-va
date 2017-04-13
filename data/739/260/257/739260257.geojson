@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.130877,36.724592,-78.130877,36.724592",
     "geom:latitude":36.724592,
     "geom:longitude":-78.130877,
@@ -28,7 +29,13 @@
     "sg:postcode":"23970",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729017,
+        102084897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V62ZjmMOqAQVsPNleUZ1P_36.724592_-78.130877@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903705,
     "wof:geomhash":"3a719accc96100fab2fccc1991f9a250",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084897,
+            "locality_id":101729017,
+            "region_id":85688747,
+            "venue_id":739260257
+        }
+    ],
     "wof:id":739260257,
-    "wof:lastmodified":1472651101,
+    "wof:lastmodified":1492030879,
     "wof:name":"Southside Insurers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

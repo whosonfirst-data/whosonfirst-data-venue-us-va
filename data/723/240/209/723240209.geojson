@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.861332,38.100037,-78.861332,38.100037",
     "geom:latitude":38.100037,
     "geom:longitude":-78.861332,
@@ -32,17 +33,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729645,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A8xAh03rKT9bxz1Dl4kYR_38.100037_-78.861332@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897915,
-    "wof:geomhash":"58133e9750fa6416764ee2c50ce8800a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8eb62bec26e1364d39bed1840403096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729645,
+            "region_id":85688747,
+            "venue_id":723240209
+        }
+    ],
     "wof:id":723240209,
-    "wof:lastmodified":1472651664,
+    "wof:lastmodified":1492059845,
     "wof:name":"Mountain Valley Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.519188,38.871658,-77.519188,38.871658",
     "geom:latitude":38.871658,
     "geom:longitude":-77.519188,
@@ -32,7 +33,12 @@
     ],
     "sg:website":"www.presidentialdetailing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZIbieFkWnYLXiWuYpk0zl_38.871658_-77.519188@1303262496"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461910586,
     "wof:geomhash":"601a7a55098f11a8ee5c0242bcd161f0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739609051
+        }
+    ],
     "wof:id":739609051,
-    "wof:lastmodified":1472651938,
+    "wof:lastmodified":1492032679,
     "wof:name":"Presidential Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

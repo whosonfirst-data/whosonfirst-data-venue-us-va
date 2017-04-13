@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433962,37.404496,-77.433962,37.404496",
     "geom:latitude":37.404496,
     "geom:longitude":-77.433962,
@@ -32,17 +33,32 @@
         "pumping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24bU2gpfQNv90VpwiLzYmX_37.404496_-77.433962@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896841,
-    "wof:geomhash":"b210f1f14abb9a305a8ea925abc24d8e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab4cef741b2e653c744354edcb7a7941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":723187897
+        }
+    ],
     "wof:id":723187897,
-    "wof:lastmodified":1472651535,
+    "wof:lastmodified":1492056811,
     "wof:name":"Virginia Concrete Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

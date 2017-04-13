@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.090533,38.763431,-77.090533,38.763431",
     "geom:latitude":38.763431,
     "geom:longitude":-77.090533,
@@ -37,7 +38,9 @@
         85633793,
         101729753,
         102084863,
-        85858865
+        85858865,
+        101729749,
+        85823299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887908,
-    "wof:geomhash":"3310b93a7e9a3f8ade86a6e34608e58b",
+    "wof:geomhash":"5bf2eb3d2f260457000784361a72c5a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":85858865,
             "region_id":85688747,
             "venue_id":722748261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729749,
+            "neighbourhood_id":85823299,
+            "region_id":85688747,
+            "venue_id":722748261
         }
     ],
     "wof:id":722748261,
-    "wof:lastmodified":1472651679,
+    "wof:lastmodified":1492072408,
     "wof:name":"Holly Hill Self Storage",
-    "wof:parent_id":85858865,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

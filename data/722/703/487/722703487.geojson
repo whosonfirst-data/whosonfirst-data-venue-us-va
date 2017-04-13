@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.170406,38.805943,-77.170406,38.805943",
     "geom:latitude":38.805943,
     "geom:longitude":-77.170406,
@@ -37,7 +38,9 @@
         85633793,
         101729791,
         102084863,
-        85894031
+        85894031,
+        101729761,
+        85857319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461887034,
-    "wof:geomhash":"bbe8781405f548bb590eed178aff2324",
+    "wof:geomhash":"76785a38e88ac46f98a11c47c0f4fe7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":85894031,
             "region_id":85688747,
             "venue_id":722703487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729761,
+            "neighbourhood_id":85857319,
+            "region_id":85688747,
+            "venue_id":722703487
         }
     ],
     "wof:id":722703487,
-    "wof:lastmodified":1472651573,
+    "wof:lastmodified":1492066547,
     "wof:name":"Tiger Towing Inc",
-    "wof:parent_id":85894031,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

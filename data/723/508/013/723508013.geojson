@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.302488,36.825955,-76.302488,36.825955",
     "geom:latitude":36.825955,
     "geom:longitude":-76.302488,
@@ -37,8 +38,8 @@
         85633793,
         101728677,
         102086707,
-        85836925,
-        85840715
+        85840715,
+        85836925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461903135,
-    "wof:geomhash":"74c51fec6135e7fe70a8f42226c1edab",
+    "wof:geomhash":"a2afce6b172c3e1ae12320bfaa31b2ce",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85836925,
-            "region_id":85688747,
-            "venue_id":723508013
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +57,21 @@
             "neighbourhood_id":85840715,
             "region_id":85688747,
             "venue_id":723508013
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85836925,
+            "region_id":85688747,
+            "venue_id":723508013
         }
     ],
     "wof:id":723508013,
-    "wof:lastmodified":1472652335,
+    "wof:lastmodified":1492054143,
     "wof:name":"Premier Copper & Brass",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

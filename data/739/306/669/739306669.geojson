@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.72779,38.282583,-77.72779,38.282583",
     "geom:latitude":38.282583,
     "geom:longitude":-77.72779,
@@ -32,7 +33,12 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Sf0bzBbS7SdbVDaCBfxdd_38.282583_-77.727790@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461904711,
     "wof:geomhash":"229c360fb1f75a4035d5b3ad24098a6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739306669
+        }
+    ],
     "wof:id":739306669,
-    "wof:lastmodified":1472651214,
+    "wof:lastmodified":1492030313,
     "wof:name":"Dominion Bur of Investigations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

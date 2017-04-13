@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.813649,37.55241,-76.813649,37.55241",
     "geom:latitude":37.55241,
     "geom:longitude":-76.813649,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728795,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2flkN5vZtyqnYczrb4nSSj_37.552410_-76.813649@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885044,
-    "wof:geomhash":"3dcb834d2b68ed816f9f6d6a88a3b3e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7513462009ebdd7433d9f324a6ce796a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "locality_id":101728795,
+            "region_id":85688747,
+            "venue_id":722602891
+        }
+    ],
     "wof:id":722602891,
-    "wof:lastmodified":1472651293,
+    "wof:lastmodified":1492075357,
     "wof:name":"King William Village Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

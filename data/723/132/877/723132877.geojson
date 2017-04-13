@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.751224,37.305285,-76.751224,37.305285",
     "geom:latitude":37.305285,
     "geom:longitude":-76.751224,
@@ -28,19 +29,34 @@
     "sg:postcode":"23188",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895,
+        420546935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QIOCN0kwV0ePGu7SZSIe5_37.305285_-76.751224@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895752,
-    "wof:geomhash":"f2a108046681f734b25b74e8b7b3ed32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"654360d180b39b81a7b264f2cf155da0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":723132877
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546935,
+            "venue_id":723132877
+        }
+    ],
     "wof:id":723132877,
-    "wof:lastmodified":1472651414,
+    "wof:lastmodified":1492060432,
     "wof:name":"Ameristop Food Mart",
-    "wof:parent_id":420546935,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

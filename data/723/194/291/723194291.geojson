@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.350435,38.261693,-77.350435,38.261693",
     "geom:latitude":38.261693,
     "geom:longitude":-77.350435,
@@ -34,17 +35,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547259
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_182EZAZIKoRlxnodObMUGd_38.261693_-77.350435@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896959,
-    "wof:geomhash":"a98b3a0502791d8ab626625fe3cc37cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"917368aa23b760bb9da7a2149d662e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547259,
+            "venue_id":723194291
+        }
+    ],
     "wof:id":723194291,
-    "wof:lastmodified":1472651568,
+    "wof:lastmodified":1492056786,
     "wof:name":"Ted F Limbrick Builders",
     "wof:parent_id":420547259,
     "wof:placetype":"venue",

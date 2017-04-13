@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.060239,36.668372,-82.060239,36.668372",
     "geom:latitude":36.668372,
     "geom:longitude":-82.060239,
@@ -31,19 +32,28 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VCrlEhqRir69CDk7Rr876_36.668372_-82.060239@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895516,
-    "wof:geomhash":"5dcae253440e23bea45d7fc72c5f0c65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed69d8815be4a61ee5836cceb2ed49f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723119829
+        }
+    ],
     "wof:id":723119829,
-    "wof:lastmodified":1472651371,
+    "wof:lastmodified":1492055431,
     "wof:name":"Treasure Island Restaurant",
-    "wof:parent_id":420547307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

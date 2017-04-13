@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.068358,36.717134,-77.068358,36.717134",
     "geom:latitude":36.717134,
     "geom:longitude":-77.068358,
@@ -28,7 +29,13 @@
     "sg:postcode":"23837",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728867,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RkEIY6aaPjgzb9v1hdthg_36.717134_-77.068358@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904652,
     "wof:geomhash":"69ec483dcb2788c61242d3a5a21c1e71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728867,
+            "region_id":85688747,
+            "venue_id":739303975
+        }
+    ],
     "wof:id":739303975,
-    "wof:lastmodified":1472651230,
+    "wof:lastmodified":1492029766,
     "wof:name":"Crayon Box",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

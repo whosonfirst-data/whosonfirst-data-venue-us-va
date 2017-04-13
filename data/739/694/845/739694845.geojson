@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371277,38.444127,-77.371277,38.444127",
     "geom:latitude":38.444127,
     "geom:longitude":-77.371277,
@@ -31,7 +32,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729335,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SuUzArQZ1Jfh2aLdEl6Ue_38.444127_-77.371277@1303262547"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461912435,
     "wof:geomhash":"84724bd83b18cc41d1a3346779a5b1dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729335,
+            "region_id":85688747,
+            "venue_id":739694845
+        }
+    ],
     "wof:id":739694845,
-    "wof:lastmodified":1472652199,
+    "wof:lastmodified":1492030225,
     "wof:name":"Hcsi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

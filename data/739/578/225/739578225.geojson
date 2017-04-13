@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.373254,39.013555,-77.373254,39.013555",
     "geom:latitude":39.013555,
     "geom:longitude":-77.373254,
@@ -38,17 +39,32 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729433,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43Pt0NqvmGsnEQmdOq1iNZ_39.013555_-77.373254@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461909971,
-    "wof:geomhash":"273c50e58e3a679565c1f97d13042fba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da300c78dd25a1184ce71f70275f75cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729433,
+            "region_id":85688747,
+            "venue_id":739578225
+        }
+    ],
     "wof:id":739578225,
-    "wof:lastmodified":1472651918,
+    "wof:lastmodified":1492040942,
     "wof:name":"Chesapeake Bagel Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

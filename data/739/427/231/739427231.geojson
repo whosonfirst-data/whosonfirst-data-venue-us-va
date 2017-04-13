@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.118441,36.700521,-80.118441,36.700521",
     "geom:latitude":36.700521,
     "geom:longitude":-80.118441,
@@ -33,17 +34,30 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xkGdMAHzBm6hzOSq2dNm6_36.700521_-80.118441@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907111,
-    "wof:geomhash":"451acc508ebf8b264c45bd2be6043f41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"808276fae79c5a234ff4be8e20f4a2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":739427231
+        }
+    ],
     "wof:id":739427231,
-    "wof:lastmodified":1472651507,
+    "wof:lastmodified":1492037845,
     "wof:name":"Shelton Waterworks Well Drill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

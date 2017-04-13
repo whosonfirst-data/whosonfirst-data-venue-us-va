@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.083536,38.766743,-77.083536,38.766743",
     "geom:latitude":38.766743,
     "geom:longitude":-77.083536,
@@ -37,7 +38,8 @@
         85633793,
         101729749,
         102084863,
-        85833749
+        85833749,
+        85823299
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893064,
-    "wof:geomhash":"65a1c49e7512a8587aebb813ffe5014c",
+    "wof:geomhash":"2890f7cc467cfd17f25b6da4d918d75f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85833749,
             "region_id":85688747,
             "venue_id":723006015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729749,
+            "neighbourhood_id":85823299,
+            "region_id":85688747,
+            "venue_id":723006015
         }
     ],
     "wof:id":723006015,
-    "wof:lastmodified":1472651073,
+    "wof:lastmodified":1492052488,
     "wof:name":"Grace Community Church Intl",
-    "wof:parent_id":85833749,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

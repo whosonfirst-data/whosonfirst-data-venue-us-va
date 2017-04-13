@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.633255,37.469619,-77.633255,37.469619",
     "geom:latitude":37.469619,
     "geom:longitude":-77.633255,
@@ -31,17 +32,30 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M5aGvvTfxxO8GO9M2uc0P_37.469619_-77.633255@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894342,
-    "wof:geomhash":"37276c1312472759cd903da0190943df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"952c974245e4f959f922680c06e668c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":723065915
+        }
+    ],
     "wof:id":723065915,
-    "wof:lastmodified":1472651245,
+    "wof:lastmodified":1492051385,
     "wof:name":"Meyer & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

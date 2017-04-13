@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.486466,38.229886,-78.486466,38.229886",
     "geom:latitude":38.229886,
     "geom:longitude":-78.486466,
@@ -28,7 +29,12 @@
     "sg:postcode":"22973",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jx0y674LtEuk0yzauwPKo_38.229886_-78.486466@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905755,
     "wof:geomhash":"12015542a2bf54e338788b99d3e94984",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739356909
+        }
+    ],
     "wof:id":739356909,
-    "wof:lastmodified":1472651353,
+    "wof:lastmodified":1492030450,
     "wof:name":"Norman Recknor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

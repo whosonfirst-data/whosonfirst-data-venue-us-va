@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.907087,36.673848,-80.907087,36.673848",
     "geom:latitude":36.673848,
     "geom:longitude":-80.907087,
@@ -35,17 +36,32 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728983,
+        102087321
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W6b6lEQnEpwA8vqfR473W_36.673848_-80.907087@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898160,
-    "wof:geomhash":"27955a9decb7c074f16ee9b995ec612f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16eb31ce3a98663a6f72355c236aef1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087321,
+            "locality_id":101728983,
+            "region_id":85688747,
+            "venue_id":723252035
+        }
+    ],
     "wof:id":723252035,
-    "wof:lastmodified":1472651668,
+    "wof:lastmodified":1492057420,
     "wof:name":"Blue Ridge Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

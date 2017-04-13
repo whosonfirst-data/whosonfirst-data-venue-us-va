@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.277846,36.810802,-76.277846,36.810802",
     "geom:latitude":36.810802,
     "geom:longitude":-76.277846,
@@ -32,17 +33,32 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OoC83e6hPyF1Bl6c9pBnZ_36.810802_-76.277846@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897003,
-    "wof:geomhash":"21f6c3f4c57ab73d2b243768437920cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"636ae8e1857402d1daefb6adfefe9095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":723196471
+        }
+    ],
     "wof:id":723196471,
-    "wof:lastmodified":1472651571,
+    "wof:lastmodified":1492048010,
     "wof:name":"Dairy Electric Motor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

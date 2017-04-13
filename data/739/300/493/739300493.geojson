@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.128659,38.718895,-77.128659,38.718895",
     "geom:latitude":38.718895,
     "geom:longitude":-77.128659,
@@ -32,8 +33,10 @@
         85688747,
         102191575,
         85633793,
-        101729739,
+        101729849,
         102084863,
+        85835747,
+        101729739,
         85858843
     ],
     "wof:breaches":[],
@@ -42,8 +45,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904590,
-    "wof:geomhash":"f2731deb4ed5f29dd1f3a24f0aab11e8",
+    "wof:geomhash":"b449c9dad960d1bba11464a31e569a41",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729849,
+            "neighbourhood_id":85835747,
+            "region_id":85688747,
+            "venue_id":739300493
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +67,9 @@
         }
     ],
     "wof:id":739300493,
-    "wof:lastmodified":1472651222,
+    "wof:lastmodified":1492041749,
     "wof:name":"Penn Daw Mobile Homes Sales",
-    "wof:parent_id":85858843,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

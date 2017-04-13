@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.261839,36.91815,-76.261839,36.91815",
     "geom:latitude":36.91815,
     "geom:longitude":-76.261839,
@@ -34,7 +35,9 @@
         85633793,
         101728769,
         102085935,
-        85879279
+        85879279,
+        85851303,
+        85838909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886705,
-    "wof:geomhash":"88f078f1f22d393928930c6ac0c51858",
+    "wof:geomhash":"b2ced41e45e941b7e56f44e87e61ee0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,30 @@
             "neighbourhood_id":85879279,
             "region_id":85688747,
             "venue_id":722686363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85851303,
+            "region_id":85688747,
+            "venue_id":722686363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":85838909,
+            "region_id":85688747,
+            "venue_id":722686363
         }
     ],
     "wof:id":722686363,
-    "wof:lastmodified":1472651514,
+    "wof:lastmodified":1492063060,
     "wof:name":"Goldstein Keith M",
-    "wof:parent_id":85879279,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.180687,39.167229,-78.180687,39.167229",
     "geom:latitude":39.167229,
     "geom:longitude":-78.180687,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qIuy7v7BotZ1VWn5q5YhE_39.167229_-78.180687@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903892,
-    "wof:geomhash":"7dcef464bb507722df3beb2a1974989f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9da190bcf50177238d48e305c1048581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739269139
+        }
+    ],
     "wof:id":739269139,
-    "wof:lastmodified":1472651132,
+    "wof:lastmodified":1492038782,
     "wof:name":"X Press Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

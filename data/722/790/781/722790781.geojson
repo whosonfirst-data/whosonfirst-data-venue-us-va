@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.444464,37.233779,-77.444464,37.233779",
     "geom:latitude":37.233779,
     "geom:longitude":-77.444464,
@@ -32,17 +33,32 @@
         "chimney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729305,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YRMmuKx0ROertnkcmNARW_37.233779_-77.444464@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888706,
-    "wof:geomhash":"0837206eb7c1f31e0bbf865c0e1be864",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7156ef56da91c2c14260521c923893ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729305,
+            "region_id":85688747,
+            "venue_id":722790781
+        }
+    ],
     "wof:id":722790781,
-    "wof:lastmodified":1472651848,
+    "wof:lastmodified":1492075298,
     "wof:name":"B & D Chimney Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

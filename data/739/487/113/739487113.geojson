@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.737001,36.766746,-80.737001,36.766746",
     "geom:latitude":36.766746,
     "geom:longitude":-80.737001,
@@ -32,17 +33,32 @@
         "boot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728633,
+        102084965
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1brpLjeNimT5Do9ZCLW5wV_36.766746_-80.737001@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908207,
-    "wof:geomhash":"05041efa5ee55c1ad6e7707cc7aa3485",
-    "wof:hierarchy":[],
+    "wof:geomhash":"533a18d3704dd0bab685706638ea13c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084965,
+            "locality_id":101728633,
+            "region_id":85688747,
+            "venue_id":739487113
+        }
+    ],
     "wof:id":739487113,
-    "wof:lastmodified":1472651672,
+    "wof:lastmodified":1492039094,
     "wof:name":"Hillsville Shoe Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

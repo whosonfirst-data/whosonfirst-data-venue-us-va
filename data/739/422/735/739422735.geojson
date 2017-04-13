@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.764495,37.357337,-76.764495,37.357337",
     "geom:latitude":37.357337,
     "geom:longitude":-76.764495,
@@ -31,7 +32,10 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BbqeXPr0fYnU4Y4P9l06F_37.357337_-76.764495@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907022,
     "wof:geomhash":"99c917ada4e75969f91d3d2fac70d90d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739422735
+        }
+    ],
     "wof:id":739422735,
-    "wof:lastmodified":1472651526,
+    "wof:lastmodified":1492031206,
     "wof:name":"Norge Antiques",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

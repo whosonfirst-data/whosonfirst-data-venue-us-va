@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650176,38.785845,-77.650176,38.785845",
     "geom:latitude":38.785845,
     "geom:longitude":-77.650176,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.theathletesfoot.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NWVmkLxcFIEttw05KPuEK_38.785845_-77.650176@1303262496"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910622,
     "wof:geomhash":"f21c9cefa5c07a9dc90fe91f2493da55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739611097
+        }
+    ],
     "wof:id":739611097,
-    "wof:lastmodified":1472651949,
+    "wof:lastmodified":1492029471,
     "wof:name":"The Athlete's Foot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

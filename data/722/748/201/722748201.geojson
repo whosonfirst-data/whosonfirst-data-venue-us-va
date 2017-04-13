@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.049883,38.722239,-77.049883,38.722239",
     "geom:latitude":38.722239,
     "geom:longitude":-77.049883,
@@ -38,15 +39,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688501,
-        85633793,
-        85837843,
-        102082191,
         85688747,
         102191575,
+        85633793,
         101729741,
         102084863,
-        420558305
+        420558305,
+        85688501,
+        85837843,
+        102082191
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +55,8 @@
     },
     "wof:country":"US",
     "wof:created":1461887907,
-    "wof:geomhash":"0569e596b646259f53a96945bd381b31",
+    "wof:geomhash":"015fbdc35461033718d580649a4d9a97",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082191,
-            "neighbourhood_id":85837843,
-            "region_id":85688501,
-            "venue_id":722748201
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -71,12 +65,19 @@
             "neighbourhood_id":420558305,
             "region_id":85688747,
             "venue_id":722748201
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082191,
+            "neighbourhood_id":85837843,
+            "region_id":85688501,
+            "venue_id":722748201
         }
     ],
     "wof:id":722748201,
-    "wof:lastmodified":1472651676,
+    "wof:lastmodified":1492072412,
     "wof:name":"Waynewood Recreation Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

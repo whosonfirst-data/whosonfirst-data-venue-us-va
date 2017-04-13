@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.506578,38.79597,-77.506578,38.79597",
     "geom:latitude":38.79597,
     "geom:longitude":-77.506578,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729251,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4neWTUaFj4hauaN2IniLvj_38.795970_-77.506578@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897254,
-    "wof:geomhash":"b854b32784be4fada217662d71500334",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42d80982d115f86b36b32c99c31263f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729251,
+            "region_id":85688747,
+            "venue_id":723209555
+        }
+    ],
     "wof:id":723209555,
-    "wof:lastmodified":1472651625,
+    "wof:lastmodified":1492054057,
     "wof:name":"Telecommunication Network Oper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

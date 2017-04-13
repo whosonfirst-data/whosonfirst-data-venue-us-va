@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.442787,38.384254,-77.442787,38.384254",
     "geom:latitude":38.384254,
     "geom:longitude":-77.442787,
@@ -37,17 +38,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DKA037nppAb0SDyBHhhs7_38.384254_-77.442787@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895742,
-    "wof:geomhash":"b3e3bb5d829acc8f960f1076a1bfc21b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd7f9da42e5444c227dc3db111b81150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723132311
+        }
+    ],
     "wof:id":723132311,
-    "wof:lastmodified":1472651387,
+    "wof:lastmodified":1492060417,
     "wof:name":"Capitol Contractors Inc",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

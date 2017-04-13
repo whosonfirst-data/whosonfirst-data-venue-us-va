@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.453774,37.023103,-76.453774,37.023103",
     "geom:latitude":37.023103,
     "geom:longitude":-76.453774,
@@ -34,6 +35,7 @@
         85633793,
         101729041,
         102085961,
+        420548019,
         85881983
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461905823,
-    "wof:geomhash":"196b0c5e3b69c7593cb2e1d2c2182126",
+    "wof:geomhash":"4a3d0d4cab082ac85991af91439cac8c",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":420548019,
+            "region_id":85688747,
+            "venue_id":739360437
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":739360437,
-    "wof:lastmodified":1472651352,
+    "wof:lastmodified":1492038301,
     "wof:name":"Warwick Kid's Academy",
-    "wof:parent_id":85881983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

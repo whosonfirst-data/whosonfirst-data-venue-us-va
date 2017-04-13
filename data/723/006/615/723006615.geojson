@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.563996,37.505069,-77.563996,37.505069",
     "geom:latitude":37.505069,
     "geom:longitude":-77.563996,
@@ -32,17 +33,32 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729299,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12SKLCU3cThjzwqd4kVgqa_37.505069_-77.563996@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893074,
-    "wof:geomhash":"cf35a7931c47543de32a368fd9613868",
-    "wof:hierarchy":[],
+    "wof:geomhash":"875a793b6e403178dfe03ff9110b155a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729299,
+            "region_id":85688747,
+            "venue_id":723006615
+        }
+    ],
     "wof:id":723006615,
-    "wof:lastmodified":1472651094,
+    "wof:lastmodified":1492052500,
     "wof:name":"Acme Plastic Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553651,37.123445,-76.553651,37.123445",
     "geom:latitude":37.123445,
     "geom:longitude":-76.553651,
@@ -32,17 +33,32 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yEnzsDBwJNyvh43LJCGWQ_37.123445_-76.553651@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888692,
-    "wof:geomhash":"5518272df36174948fa94f8bcf9c0120",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a0acd5489b49d6006c8ae7bebb24807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":722790037
+        }
+    ],
     "wof:id":722790037,
-    "wof:lastmodified":1472651736,
+    "wof:lastmodified":1492075325,
     "wof:name":"Bill Mills & Son Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

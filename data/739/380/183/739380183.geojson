@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.036551,36.732003,-82.036551,36.732003",
     "geom:latitude":36.732003,
     "geom:longitude":-82.036551,
@@ -28,7 +29,10 @@
     "sg:postcode":"24210",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KnzdmYeY2VSyV8RYUzon0_36.732003_-82.036551@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461906200,
     "wof:geomhash":"bcc46b5f95810fb43ee4e604ec1eba40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739380183
+        }
+    ],
     "wof:id":739380183,
-    "wof:lastmodified":1472651337,
+    "wof:lastmodified":1492033097,
     "wof:name":"Jarrells Sporting Goods",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.038079,36.697576,-82.038079,36.697576",
     "geom:latitude":36.697576,
     "geom:longitude":-82.038079,
@@ -31,17 +32,26 @@
         "scooter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nsFVUlzOBnASUWSKYVeuy_36.697576_-82.038079@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885463,
-    "wof:geomhash":"22733175df1382a791c05a46330e06de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f2c9d36b42cd23d5feae87874bddd18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722623827
+        }
+    ],
     "wof:id":722623827,
-    "wof:lastmodified":1472651413,
+    "wof:lastmodified":1492064392,
     "wof:name":"Black Wolf Creek",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

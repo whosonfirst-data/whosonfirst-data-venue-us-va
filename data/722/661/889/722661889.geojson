@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646007,36.937753,-82.646007,36.937753",
     "geom:latitude":36.937753,
     "geom:longitude":-82.646007,
@@ -28,19 +29,36 @@
     "sg:postcode":"24273",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728689,
+        102084983,
+        85885275
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DPfXFr8xqgAITyjyeMHA1_36.937753_-82.646007@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886244,
-    "wof:geomhash":"43e27f6fc848294a6bc080a73fecd373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f5ec82b912d755e9419765e69455e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084983,
+            "locality_id":101728689,
+            "neighbourhood_id":85885275,
+            "region_id":85688747,
+            "venue_id":722661889
+        }
+    ],
     "wof:id":722661889,
-    "wof:lastmodified":1472651484,
+    "wof:lastmodified":1492063564,
     "wof:name":"Faith Freewill Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85885275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.882087,38.445897,-78.882087,38.445897",
     "geom:latitude":38.445897,
     "geom:longitude":-78.882087,
@@ -28,7 +29,13 @@
     "sg:postcode":"22801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NQKhXSGKM9BgD2JhOiPWX_38.445897_-78.882087@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906905,
     "wof:geomhash":"d0be8e83c96161296c9d2586bd8671eb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739417571
+        }
+    ],
     "wof:id":739417571,
-    "wof:lastmodified":1472651516,
+    "wof:lastmodified":1492031488,
     "wof:name":"Johns Odd Jobs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

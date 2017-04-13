@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.4987,38.264537,-77.4987,38.264537",
     "geom:latitude":38.264537,
     "geom:longitude":-77.4987,
@@ -32,7 +33,12 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_688ysLWGumhLXL5FfuLSeU_38.264537_-77.498700@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908323,
     "wof:geomhash":"50178a8e4a3cbfa79397deaa9552de6a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739493761
+        }
+    ],
     "wof:id":739493761,
-    "wof:lastmodified":1472651696,
+    "wof:lastmodified":1492029979,
     "wof:name":"Top Notch Autos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

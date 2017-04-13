@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.854872,39.0991,-77.854872,39.0991",
     "geom:latitude":39.0991,
     "geom:longitude":-77.854872,
@@ -28,7 +29,12 @@
     "sg:postcode":"20135",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30iIbuHIeBbUM1ewf8Ma2k_39.099100_-77.854872@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908960,
     "wof:geomhash":"318f26ae2964559700eece8220141a54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084971,
+            "region_id":85688747,
+            "venue_id":739528933
+        }
+    ],
     "wof:id":739528933,
-    "wof:lastmodified":1472651821,
+    "wof:lastmodified":1492032513,
     "wof:name":"Anthony F Grooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

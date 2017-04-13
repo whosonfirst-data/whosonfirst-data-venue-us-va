@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.650629,37.518043,-77.650629,37.518043",
     "geom:latitude":37.518043,
     "geom:longitude":-77.650629,
@@ -28,7 +29,12 @@
     "sg:postcode":"23113",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F4HEl6LveU5dpIoNeTzkv_37.518043_-77.650629@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907606,
     "wof:geomhash":"cc2aaee4af0cd211235da63dd397ce6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739453709
+        }
+    ],
     "wof:id":739453709,
-    "wof:lastmodified":1472651583,
+    "wof:lastmodified":1492030432,
     "wof:name":"James Hodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.163099,39.185865,-78.163099,39.185865",
     "geom:latitude":39.185865,
     "geom:longitude":-78.163099,
@@ -41,17 +42,32 @@
         "verification"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SMYn4RdxHC81IolLmedNr_39.185865_-78.163099@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890193,
-    "wof:geomhash":"799b190b187b20b5bb42a40aab405fc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8368d84e3a525ce142eac4e9c3f0831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722869707
+        }
+    ],
     "wof:id":722869707,
-    "wof:lastmodified":1472652010,
+    "wof:lastmodified":1492063395,
     "wof:name":"One Source Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

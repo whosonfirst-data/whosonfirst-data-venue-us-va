@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.433912,37.404576,-77.433912,37.404576",
     "geom:latitude":37.404576,
     "geom:longitude":-77.433912,
@@ -31,17 +32,32 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729297,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aFKTPC7khfc2zudNJvRP8_37.404576_-77.433912@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893671,
-    "wof:geomhash":"cf49a29febaed3e187762498be2e0ee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e68679468000c9e9b4b14f000ca429dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729297,
+            "region_id":85688747,
+            "venue_id":723033299
+        }
+    ],
     "wof:id":723033299,
-    "wof:lastmodified":1472651142,
+    "wof:lastmodified":1492061818,
     "wof:name":"Commonwealth Diesel Injection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

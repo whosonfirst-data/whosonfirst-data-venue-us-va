@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.527091,38.290808,-77.527091,38.290808",
     "geom:latitude":38.290808,
     "geom:longitude":-77.527091,
@@ -32,17 +33,30 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xGW2qLGLJ028tcjyUZTAF_38.290808_-77.527091@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885528,
-    "wof:geomhash":"1544d8454cd690bf9762e5559a738ff1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf52272c7aa176c8060b88188552bf94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":722626709
+        }
+    ],
     "wof:id":722626709,
-    "wof:lastmodified":1472651412,
+    "wof:lastmodified":1492073025,
     "wof:name":"Fredericksburg Chateau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

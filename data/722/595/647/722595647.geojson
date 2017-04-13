@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.045398,36.749995,-82.045398,36.749995",
     "geom:latitude":36.749995,
     "geom:longitude":-82.045398,
@@ -40,17 +41,26 @@
         "retirement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yhRUeB1NUVHW5oBrb7hDl_36.749995_-82.045398@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884892,
-    "wof:geomhash":"0801437fa6e3c531f9fffad6c82fd924",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90ca8b69aadc5a8b6909843e9a6dc25b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722595647
+        }
+    ],
     "wof:id":722595647,
-    "wof:lastmodified":1472651241,
+    "wof:lastmodified":1492071236,
     "wof:name":"Greendale Home For The Aged",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

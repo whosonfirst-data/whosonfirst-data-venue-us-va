@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.449109,38.311249,-77.449109,38.311249",
     "geom:latitude":38.311249,
     "geom:longitude":-77.449109,
@@ -33,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01vfkHV7O2lsEnn2b6idLF_38.311249_-77.449109@1294252573"
@@ -41,9 +45,15 @@
     "wof:country":"US",
     "wof:created":1461904553,
     "wof:geomhash":"476b3ed97739d24b5df9eb069c1b1bc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":739299201
+        }
+    ],
     "wof:id":739299201,
-    "wof:lastmodified":1472651200,
+    "wof:lastmodified":1492032468,
     "wof:name":"Harold's Electric Inc",
     "wof:parent_id":420547269,
     "wof:placetype":"venue",

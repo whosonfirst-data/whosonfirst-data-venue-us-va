@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.498972,37.192868,-76.498972,37.192868",
     "geom:latitude":37.192868,
     "geom:longitude":-76.498972,
@@ -33,19 +34,36 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961,
+        85879237
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZIstqyCeTkrOfV4zZfKj7_37.192868_-76.498972@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893601,
-    "wof:geomhash":"532580215617dd79bcae3e22c223f77b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28ebd81679dedd43f77d1c4814afc174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "neighbourhood_id":85879237,
+            "region_id":85688747,
+            "venue_id":723030053
+        }
+    ],
     "wof:id":723030053,
-    "wof:lastmodified":1472651135,
+    "wof:lastmodified":1492057195,
     "wof:name":"Tye's Lawn Svc",
-    "wof:parent_id":420547335,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

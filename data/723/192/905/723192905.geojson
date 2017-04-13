@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.333526,37.545137,-77.333526,37.545137",
     "geom:latitude":37.545137,
     "geom:longitude":-77.333526,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729365,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BSyQvQX4SXtZLb2fQdTgs_37.545137_-77.333526@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896935,
-    "wof:geomhash":"d20fda5330e881a0cfc214b58487b16b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"872d31557c34d09ac7fefee0401d97bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729365,
+            "region_id":85688747,
+            "venue_id":723192905
+        }
+    ],
     "wof:id":723192905,
-    "wof:lastmodified":1472651592,
+    "wof:lastmodified":1492050220,
     "wof:name":"Sheffield Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

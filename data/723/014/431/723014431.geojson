@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.614601,38.845854,-77.614601,38.845854",
     "geom:latitude":38.845854,
     "geom:longitude":-77.614601,
@@ -33,17 +34,30 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vtCXx3rmQMA0yGz2ftVch_38.845854_-77.614601@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893233,
-    "wof:geomhash":"f83de291fdd596146031fbec01ff865d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0db9c93716e85ae2539f3c2b3624addf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":723014431
+        }
+    ],
     "wof:id":723014431,
-    "wof:lastmodified":1472651116,
+    "wof:lastmodified":1492050525,
     "wof:name":"Aeros Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

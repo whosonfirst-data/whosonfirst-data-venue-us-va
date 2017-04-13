@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.357714,37.657419,-77.357714,37.657419",
     "geom:latitude":37.657419,
     "geom:longitude":-77.357714,
@@ -28,7 +29,13 @@
     "sg:postcode":"23116",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729279,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pFZFEbf2VkTNSK1U7LDKm_37.657419_-77.357714@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907450,
     "wof:geomhash":"780f3c417238dd325a8c3e77f58d0f71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "locality_id":101729279,
+            "region_id":85688747,
+            "venue_id":739444723
+        }
+    ],
     "wof:id":739444723,
-    "wof:lastmodified":1472651588,
+    "wof:lastmodified":1492032014,
     "wof:name":"National Wheelchair Sport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.485868,39.031061,-77.485868,39.031061",
     "geom:latitude":39.031061,
     "geom:longitude":-77.485868,
@@ -33,17 +34,32 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jZJq1cnSJc0PLkmvpuu5S_39.031061_-77.485868@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894954,
-    "wof:geomhash":"d02e2a8bec2ca8dd3cabbff48dded8ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51ede97df716181f8b5450a9d40acfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723091867
+        }
+    ],
     "wof:id":723091867,
-    "wof:lastmodified":1472651314,
+    "wof:lastmodified":1492047874,
     "wof:name":"LCM Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

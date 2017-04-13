@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.97995,36.70806,-81.97995,36.70806",
     "geom:latitude":36.70806,
     "geom:longitude":-81.97995,
@@ -31,17 +32,26 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qY6yRSxevLSRyCGUIz75O_36.708060_-81.979950@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886268,
-    "wof:geomhash":"6142715ca7ef5f6bcd3cca49ebfd4266",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72a2efd83ab3903483ff149562a920a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722663103
+        }
+    ],
     "wof:id":722663103,
-    "wof:lastmodified":1472651452,
+    "wof:lastmodified":1492068880,
     "wof:name":"Work Force One Tri Cities Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

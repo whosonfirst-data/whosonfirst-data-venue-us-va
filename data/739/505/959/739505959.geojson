@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.374814,38.787318,-77.374814,38.787318",
     "geom:latitude":38.787318,
     "geom:longitude":-77.374814,
@@ -28,7 +29,12 @@
     "sg:postcode":"20124",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25YBykIoHHez9EJpdRwoSW_38.787318_-77.374814@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908535,
     "wof:geomhash":"ae24227cfa83cd5c6a42bdf6b34c404a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739505959
+        }
+    ],
     "wof:id":739505959,
-    "wof:lastmodified":1472651838,
+    "wof:lastmodified":1492032243,
     "wof:name":"Keeping Company Lc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

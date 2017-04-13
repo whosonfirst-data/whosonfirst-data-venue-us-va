@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.483053,38.482012,-77.483053,38.482012",
     "geom:latitude":38.482012,
     "geom:longitude":-77.483053,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547279
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P9t1aBOiAbPJMlXpnVwYW_38.482012_-77.483053@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912440,
-    "wof:geomhash":"700984faff7d3a75820b64620239241c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff243bffd915880caa1f891ce4bb8780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547279,
+            "venue_id":739695039
+        }
+    ],
     "wof:id":739695039,
-    "wof:lastmodified":1472652158,
+    "wof:lastmodified":1492045371,
     "wof:name":"Celebration Church",
     "wof:parent_id":420547279,
     "wof:placetype":"venue",

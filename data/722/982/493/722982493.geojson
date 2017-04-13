@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.18422,36.840513,-76.18422,36.840513",
     "geom:latitude":36.840513,
     "geom:longitude":-76.18422,
@@ -32,7 +33,15 @@
         "counter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929,
+        85879259,
+        420548375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ta3jgw0NFAOBT9DT089Pp_36.840513_-76.184220@1294252573"
@@ -40,11 +49,30 @@
     "wof:country":"US",
     "wof:created":1461892501,
     "wof:geomhash":"fd0df9a0209e99dc06acfdf34ff65d2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85879259,
+            "region_id":85688747,
+            "venue_id":722982493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":420548375,
+            "region_id":85688747,
+            "venue_id":722982493
+        }
+    ],
     "wof:id":722982493,
-    "wof:lastmodified":1472652336,
+    "wof:lastmodified":1491894253,
     "wof:name":"East Coast Countertops",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

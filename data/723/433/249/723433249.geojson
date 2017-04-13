@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.448405,38.815615,-77.448405,38.815615",
     "geom:latitude":38.815615,
     "geom:longitude":-77.448405,
@@ -32,17 +33,32 @@
         "integration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61OMmLLZRaj2EQPhdI737I_38.815615_-77.448405@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901625,
-    "wof:geomhash":"68591261bcfd87ee56c71ade5228fa26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55db20b8e711020e0cb74db7a1e532f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723433249
+        }
+    ],
     "wof:id":723433249,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492048553,
     "wof:name":"Adg Tech Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514639,39.047624,-77.514639,39.047624",
     "geom:latitude":39.047624,
     "geom:longitude":-77.514639,
@@ -35,17 +36,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FLgRywVtsRTLalpdsr1Ta_39.047624_-77.514639@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890818,
-    "wof:geomhash":"2bf3420afb5663fff538c92a3b69370e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9416b8e5d80d6276aedc53788ff0f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":722901535
+        }
+    ],
     "wof:id":722901535,
-    "wof:lastmodified":1472652077,
+    "wof:lastmodified":1492067609,
     "wof:name":"Camdel Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

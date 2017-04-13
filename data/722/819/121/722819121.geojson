@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.150337,36.62238,-81.150337,36.62238",
     "geom:latitude":36.62238,
     "geom:longitude":-81.150337,
@@ -32,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728887,
+        102087253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uAv2DTkut8MZdOgdWirh4_36.622380_-81.150337@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889236,
-    "wof:geomhash":"d831bac4a6dff15c6a39fefe75fd3d56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73b5e84965367660674c4a1f37b11129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087253,
+            "locality_id":101728887,
+            "region_id":85688747,
+            "venue_id":722819121
+        }
+    ],
     "wof:id":722819121,
-    "wof:lastmodified":1472651866,
+    "wof:lastmodified":1492062719,
     "wof:name":"Primary Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

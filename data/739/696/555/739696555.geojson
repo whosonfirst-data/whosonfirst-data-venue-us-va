@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.242035,38.654869,-78.242035,38.654869",
     "geom:latitude":38.654869,
     "geom:longitude":-78.242035,
@@ -37,17 +38,32 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729083,
+        102087263
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BVeHMHaQE26hPR6WuuidI_38.654869_-78.242035@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912474,
-    "wof:geomhash":"d629d89d3c95542761db722c8b7f3f33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"928e7ee932b8af38c38ecb2409957bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087263,
+            "locality_id":101729083,
+            "region_id":85688747,
+            "venue_id":739696555
+        }
+    ],
     "wof:id":739696555,
-    "wof:lastmodified":1472652192,
+    "wof:lastmodified":1492044936,
     "wof:name":"Central Coffee Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

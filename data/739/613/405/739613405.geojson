@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.663041,38.901825,-77.663041,38.901825",
     "geom:latitude":38.901825,
     "geom:longitude":-77.663041,
@@ -31,7 +32,13 @@
         "roofing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729263,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78HYxQv4a83hDRRjzBK0um_38.901825_-77.663041@1303262496"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461910674,
     "wof:geomhash":"7cb71725669114455d6b9f05f42e8cc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729263,
+            "region_id":85688747,
+            "venue_id":739613405
+        }
+    ],
     "wof:id":739613405,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492032414,
     "wof:name":"McNabb Roofing Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

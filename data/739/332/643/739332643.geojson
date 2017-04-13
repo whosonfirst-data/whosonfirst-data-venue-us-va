@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.809196,37.140606,-79.809196,37.140606",
     "geom:latitude":37.140606,
     "geom:longitude":-79.809196,
@@ -28,7 +29,12 @@
     "sg:postcode":"24101",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23F5LQh72rHvuRWfsgH5oz_37.140606_-79.809196@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905228,
     "wof:geomhash":"efca9480dd3ed02e7af6eb4897f4b71e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":739332643
+        }
+    ],
     "wof:id":739332643,
-    "wof:lastmodified":1472651301,
+    "wof:lastmodified":1492030789,
     "wof:name":"International Brotherhd B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

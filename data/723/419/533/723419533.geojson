@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758948,37.960549,-76.758948,37.960549",
     "geom:latitude":37.960549,
     "geom:longitude":-76.758948,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728753,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eporTw3jscsbJMAp7dQP4_37.960549_-76.758948@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901350,
-    "wof:geomhash":"459c3e705cfd3d00bb4a74788cac6063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8677e1eaf9dcfdb4bb3b4fd22bc59828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "locality_id":101728753,
+            "region_id":85688747,
+            "venue_id":723419533
+        }
+    ],
     "wof:id":723419533,
-    "wof:lastmodified":1472652213,
+    "wof:lastmodified":1492047810,
     "wof:name":"Douglas Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

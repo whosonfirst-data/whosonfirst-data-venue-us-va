@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.306501,38.835862,-77.306501,38.835862",
     "geom:latitude":38.835862,
     "geom:longitude":-77.306501,
@@ -32,17 +33,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_066V70VSaj4B2V00hwlonn_38.835862_-77.306501@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900537,
-    "wof:geomhash":"b6e85077bce47026cfb5807c430b9cfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd605fbef8683d59f429570609506c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":723377699
+        }
+    ],
     "wof:id":723377699,
-    "wof:lastmodified":1472652120,
+    "wof:lastmodified":1492049547,
     "wof:name":"Anvil Logic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

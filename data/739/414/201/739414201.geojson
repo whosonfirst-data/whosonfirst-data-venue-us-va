@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.730274,37.319091,-76.730274,37.319091",
     "geom:latitude":37.319091,
     "geom:longitude":-76.730274,
@@ -32,7 +33,10 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61vxZj7mwCeSnV7gLGPGlQ_37.319091_-76.730274@1294252573"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1461906843,
     "wof:geomhash":"924b2b5f688e0e59f1ac64ff65a4182c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":739414201
+        }
+    ],
     "wof:id":739414201,
-    "wof:lastmodified":1472651463,
+    "wof:lastmodified":1492032395,
     "wof:name":"Carroll's Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

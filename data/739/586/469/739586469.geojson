@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.758365,37.270167,-76.758365,37.270167",
     "geom:latitude":37.270167,
     "geom:longitude":-76.758365,
@@ -34,7 +35,10 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546853
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wCjl5r1djqM7wRvVbJWOZ_37.270167_-76.758365@1299784598"
@@ -42,9 +46,15 @@
     "wof:country":"US",
     "wof:created":1461910130,
     "wof:geomhash":"c2e4e914118aa2499fcc80e2a4bf4b9a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546853,
+            "venue_id":739586469
+        }
+    ],
     "wof:id":739586469,
-    "wof:lastmodified":1472651938,
+    "wof:lastmodified":1492031893,
     "wof:name":"Blimpie Subs & Sandwiches",
     "wof:parent_id":420546853,
     "wof:placetype":"venue",

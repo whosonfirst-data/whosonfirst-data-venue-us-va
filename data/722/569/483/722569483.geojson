@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.887541,36.999327,-79.887541,36.999327",
     "geom:latitude":36.999327,
     "geom:longitude":-79.887541,
@@ -33,17 +34,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729027,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jZheICNyBnUG7Bovr1RWG_36.999327_-79.887541@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884401,
-    "wof:geomhash":"869082acb3dfb597d46f900026924959",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d09c4687911a89b7ce1a8361347b1f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "locality_id":101729027,
+            "region_id":85688747,
+            "venue_id":722569483
+        }
+    ],
     "wof:id":722569483,
-    "wof:lastmodified":1472651170,
+    "wof:lastmodified":1492063887,
     "wof:name":"Barret Quioco Surgical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

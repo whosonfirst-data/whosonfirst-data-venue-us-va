@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.569574,37.604749,-77.569574,37.604749",
     "geom:latitude":37.604749,
     "geom:longitude":-77.569574,
@@ -32,17 +33,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ArMkXbqi2s8af1MFg2VlR_37.604749_-77.569574@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893624,
-    "wof:geomhash":"9e867eab480e7a819336db9639fa7357",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c51228ee670d3e404c2be18cb3c1749a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":723031291
+        }
+    ],
     "wof:id":723031291,
-    "wof:lastmodified":1472651136,
+    "wof:lastmodified":1492055517,
     "wof:name":"Advance America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

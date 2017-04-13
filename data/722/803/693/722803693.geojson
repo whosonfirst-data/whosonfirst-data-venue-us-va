@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.514029,38.014613,-77.514029,38.014613",
     "geom:latitude":38.014613,
     "geom:longitude":-77.514029,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FoTSQnJcrk0B4PDJ0gJey_38.014613_-77.514029@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888952,
-    "wof:geomhash":"68adfd83bd82f215871feb2788e46e79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f905e001d546360921f08406105d398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":722803693
+        }
+    ],
     "wof:id":722803693,
-    "wof:lastmodified":1472651814,
+    "wof:lastmodified":1492074627,
     "wof:name":"M A Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.865262,37.808835,-77.865262,37.808835",
     "geom:latitude":37.808835,
     "geom:longitude":-77.865262,
@@ -31,17 +32,30 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g5CEqJXK7XQMiIBKiDwQv_37.808835_-77.865262@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899693,
-    "wof:geomhash":"820e1730d3ee8431957166a573a0ee56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db211ce6c60884332f67862fc58ff338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":723333619
+        }
+    ],
     "wof:id":723333619,
-    "wof:lastmodified":1472651904,
+    "wof:lastmodified":1492057744,
     "wof:name":"Virginia Dept State Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

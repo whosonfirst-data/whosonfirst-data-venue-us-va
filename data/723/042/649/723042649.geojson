@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.84366,37.711626,-77.84366,37.711626",
     "geom:latitude":37.711626,
     "geom:longitude":-77.84366,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15JMdsRgrBxGoRfCvekO9K_37.711626_-77.843660@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893867,
-    "wof:geomhash":"059155a2d2fd7b99d8ea2648df2b6f43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3eaba15268acad42c881b49a4d773d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084917,
+            "region_id":85688747,
+            "venue_id":723042649
+        }
+    ],
     "wof:id":723042649,
-    "wof:lastmodified":1472651177,
+    "wof:lastmodified":1492050264,
     "wof:name":"Bill Nicholas Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

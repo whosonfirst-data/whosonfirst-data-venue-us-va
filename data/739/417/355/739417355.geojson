@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.885823,36.864277,-77.885823,36.864277",
     "geom:latitude":36.864277,
     "geom:longitude":-77.885823,
@@ -31,7 +32,13 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728765,
+        102085939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73DYQ76XsCgCerrNIAHzAl_36.864277_-77.885823@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906902,
     "wof:geomhash":"c072fbd0934a438fb7ba5003d8476d52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085939,
+            "locality_id":101728765,
+            "region_id":85688747,
+            "venue_id":739417355
+        }
+    ],
     "wof:id":739417355,
-    "wof:lastmodified":1472651511,
+    "wof:lastmodified":1492031474,
     "wof:name":"Alberta Town Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

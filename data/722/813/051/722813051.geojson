@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441186,38.289178,-77.441186,38.289178",
     "geom:latitude":38.289178,
     "geom:longitude":-77.441186,
@@ -33,17 +34,26 @@
         "coupling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547295
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57sMEhFDtDs3QKwXLXJAHI_38.289178_-77.441186@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889125,
-    "wof:geomhash":"fac8e651f645e159f6879497969aae02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e18180c8d68b98813a5917526bebc2f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547295,
+            "venue_id":722813051
+        }
+    ],
     "wof:id":722813051,
-    "wof:lastmodified":1472651857,
+    "wof:lastmodified":1492071183,
     "wof:name":"Gallahan's Hose & Hydraulics",
     "wof:parent_id":420547295,
     "wof:placetype":"venue",

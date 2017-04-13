@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.344957,37.348867,-77.344957,37.348867",
     "geom:latitude":37.348867,
     "geom:longitude":-77.344957,
@@ -32,17 +33,30 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N8iG44BTnjNIkIkBWX16H_37.348867_-77.344957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886687,
-    "wof:geomhash":"7b93a69d52988b2542e42a1183a2941d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed2f96460c7bc9542401e0759274720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":722685335
+        }
+    ],
     "wof:id":722685335,
-    "wof:lastmodified":1472651530,
+    "wof:lastmodified":1492064442,
     "wof:name":"Mary Childress",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

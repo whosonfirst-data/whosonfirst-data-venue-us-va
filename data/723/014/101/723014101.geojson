@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.375691,38.896487,-77.375691,38.896487",
     "geom:latitude":38.896487,
     "geom:longitude":-77.375691,
@@ -37,8 +38,10 @@
         85688747,
         102191575,
         85633793,
-        101729805,
+        101729785,
         102084863,
+        85834769,
+        101729805,
         85894019
     ],
     "wof:breaches":[],
@@ -47,8 +50,17 @@
     },
     "wof:country":"US",
     "wof:created":1461893224,
-    "wof:geomhash":"db7357fbb9c2a0c2b25b1d83a2fcb67e",
+    "wof:geomhash":"2d9b294e0b195d49335765a3d5c33002",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729785,
+            "neighbourhood_id":85834769,
+            "region_id":85688747,
+            "venue_id":723014101
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +72,9 @@
         }
     ],
     "wof:id":723014101,
-    "wof:lastmodified":1472651095,
+    "wof:lastmodified":1492050519,
     "wof:name":"Baker Homes Inc",
-    "wof:parent_id":85894019,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

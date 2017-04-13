@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.400225,37.286562,-78.400225,37.286562",
     "geom:latitude":37.286562,
     "geom:longitude":-78.400225,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728617,
+        102084915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19fbFZhy0GMmCldoY27f2L_37.286562_-78.400225@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895040,
-    "wof:geomhash":"e47b58db8089ca2b110cc05a2c49ba7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24e813ce3685087bbbed595f72db9369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084915,
+            "locality_id":101728617,
+            "region_id":85688747,
+            "venue_id":723096185
+        }
+    ],
     "wof:id":723096185,
-    "wof:lastmodified":1472651275,
+    "wof:lastmodified":1492060765,
     "wof:name":"C & F Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

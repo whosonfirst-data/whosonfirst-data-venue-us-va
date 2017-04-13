@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.842118,37.765192,-77.842118,37.765192",
     "geom:latitude":37.765192,
     "geom:longitude":-77.842118,
@@ -33,17 +34,30 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kyY6EXqKWw0qiMGO1Od8R_37.765192_-77.842118@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883993,
-    "wof:geomhash":"fd90cb7fe57f1ebd09f6f1bc085688f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90858b271c27965174d896d70869ae91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":722549361
+        }
+    ],
     "wof:id":722549361,
-    "wof:lastmodified":1472651099,
+    "wof:lastmodified":1492065619,
     "wof:name":"Earthscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

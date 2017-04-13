@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.402005,37.224574,-77.402005,37.224574",
     "geom:latitude":37.224574,
     "geom:longitude":-77.402005,
@@ -33,17 +34,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hXHrNRpdVde1ulth7mOp6_37.224574_-77.402005@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890001,
-    "wof:geomhash":"013874985ab937e34e86bc05d420ac12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6fd848a5c965d964971a563cbb65a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":722859199
+        }
+    ],
     "wof:id":722859199,
-    "wof:lastmodified":1472651988,
+    "wof:lastmodified":1492074929,
     "wof:name":"Trinity United Methdst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

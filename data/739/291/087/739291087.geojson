@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.106137,38.244516,-78.106137,38.244516",
     "geom:latitude":38.244516,
     "geom:longitude":-78.106137,
@@ -36,17 +37,32 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729019,
+        102087303
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yaF19uYdqw6GlquWvIYCZ_38.244516_-78.106137@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904389,
-    "wof:geomhash":"ed83a1cf9c6cb3cdbf9cd24b1c354c1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9818bc031ed2d4d211b30fab3a2c7de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087303,
+            "locality_id":101729019,
+            "region_id":85688747,
+            "venue_id":739291087
+        }
+    ],
     "wof:id":739291087,
-    "wof:lastmodified":1472651184,
+    "wof:lastmodified":1492039885,
     "wof:name":"Pal Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

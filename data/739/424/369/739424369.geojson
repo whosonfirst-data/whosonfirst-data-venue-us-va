@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.324005,37.188114,-77.324005,37.188114",
     "geom:latitude":37.188114,
     "geom:longitude":-77.324005,
@@ -29,7 +30,12 @@
     "sg:province":"VA",
     "sg:website":"www.sacredheart-newbohemia.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CP8ZkYqZG3mmLeaqyo9Ql_37.188114_-77.324005@1294252573"
@@ -37,9 +43,17 @@
     "wof:country":"US",
     "wof:created":1461907060,
     "wof:geomhash":"1ad53bcc11367f521c64cb9dc280a569",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739424369
+        }
+    ],
     "wof:id":739424369,
-    "wof:lastmodified":1472651512,
+    "wof:lastmodified":1492032758,
     "wof:name":"Church Of Sacred Heart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

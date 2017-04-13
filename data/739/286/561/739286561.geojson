@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.703016,37.824896,-76.703016,37.824896",
     "geom:latitude":37.824896,
     "geom:longitude":-76.703016,
@@ -28,7 +29,12 @@
     "sg:postcode":"22548",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SbpoOfSxCZlU6NM01ROeC_37.824896_-76.703016@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461904294,
     "wof:geomhash":"05c19f274d936ba939090aa1c7a7094d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084961,
+            "region_id":85688747,
+            "venue_id":739286561
+        }
+    ],
     "wof:id":739286561,
-    "wof:lastmodified":1472651158,
+    "wof:lastmodified":1492030113,
     "wof:name":"M E Payne Jr Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.143705,37.819512,-77.143705,37.819512",
     "geom:latitude":37.819512,
     "geom:longitude":-77.143705,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uRaLBhz4T6VOqQeybiYFO_37.819512_-77.143705@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903768,
-    "wof:geomhash":"8f8506b4ae6695f1d5b0da4860f7d456",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbdce6836fbb8881826aa759e0107645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739263111
+        }
+    ],
     "wof:id":739263111,
-    "wof:lastmodified":1472651096,
+    "wof:lastmodified":1492040287,
     "wof:name":"Porch Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.466016,38.893863,-77.466016,38.893863",
     "geom:latitude":38.893863,
     "geom:longitude":-77.466016,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q32fq8CtPQcYEvu0VkYgS_38.893863_-77.466016@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902463,
-    "wof:geomhash":"975e6d847f40abded7b2c57868796f8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"920372d5a6824b1df47b165140a8f8f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723476593
+        }
+    ],
     "wof:id":723476593,
-    "wof:lastmodified":1472652313,
+    "wof:lastmodified":1492061483,
     "wof:name":"Digital Matrix Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

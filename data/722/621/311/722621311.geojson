@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.409129,38.289121,-77.409129,38.289121",
     "geom:latitude":38.289121,
     "geom:longitude":-77.409129,
@@ -32,17 +33,26 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547177
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sjwtJMGrpoOxQCFTONFHp_38.289121_-77.409129@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885415,
-    "wof:geomhash":"8f82a2067410a1b140907482cf3914c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ced1b8ac19e4234846d5d12af1e96a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547177,
+            "venue_id":722621311
+        }
+    ],
     "wof:id":722621311,
-    "wof:lastmodified":1472651385,
+    "wof:lastmodified":1492072182,
     "wof:name":"Professional Building Services",
     "wof:parent_id":420547177,
     "wof:placetype":"venue",

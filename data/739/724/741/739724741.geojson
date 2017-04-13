@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.597243,37.499437,-77.597243,37.499437",
     "geom:latitude":37.499437,
     "geom:longitude":-77.597243,
@@ -43,7 +44,12 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ULdSg3iw4fKGG9lDmHw6x_37.499437_-77.597243@1303262551"
@@ -51,9 +57,17 @@
     "wof:country":"US",
     "wof:created":1461913087,
     "wof:geomhash":"c69e8784769db2b15747ac94600c7883",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739724741
+        }
+    ],
     "wof:id":739724741,
-    "wof:lastmodified":1472652248,
+    "wof:lastmodified":1492030961,
     "wof:name":"Moore Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

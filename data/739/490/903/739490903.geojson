@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.195807,37.485121,-77.195807,37.485121",
     "geom:latitude":37.485121,
     "geom:longitude":-77.195807,
@@ -32,17 +33,30 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f87wpoWIJoPu9U3HQMm3u_37.485121_-77.195807@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908268,
-    "wof:geomhash":"bc382e6b4b5669852757647b17995376",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15eac2a529bf36f2275da05b5894e484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739490903
+        }
+    ],
     "wof:id":739490903,
-    "wof:lastmodified":1472651715,
+    "wof:lastmodified":1492040681,
     "wof:name":"Sharpe Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

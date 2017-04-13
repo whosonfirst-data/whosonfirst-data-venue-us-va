@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.513137,38.241206,-77.513137,38.241206",
     "geom:latitude":38.241206,
     "geom:longitude":-77.513137,
@@ -33,7 +34,12 @@
         "crime"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WpuroPVXva1QFW024JkWp_38.241206_-77.513137@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461904264,
     "wof:geomhash":"a3debac894d6a493f08eabfc77147338",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739285455
+        }
+    ],
     "wof:id":739285455,
-    "wof:lastmodified":1472651161,
+    "wof:lastmodified":1492029720,
     "wof:name":"William E Conrad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450133,38.891477,-77.450133,38.891477",
     "geom:latitude":38.891477,
     "geom:longitude":-77.450133,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b0kUlStl1v4YdWtzLtXnB_38.891477_-77.450133@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901023,
-    "wof:geomhash":"e47ae715ed0a0efe49f42c5beb1b8c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb09d79818c1891135e4d7f1a5ffb147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":723402905
+        }
+    ],
     "wof:id":723402905,
-    "wof:lastmodified":1472652150,
+    "wof:lastmodified":1492055544,
     "wof:name":"Artech Testing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

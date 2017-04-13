@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.910918,37.289884,-79.910918,37.289884",
     "geom:latitude":37.289884,
     "geom:longitude":-79.910918,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DHvKBYQZ6JEHem6bZ8XqB_37.289884_-79.910918@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906665,
-    "wof:geomhash":"e42dce5114069e06ea44b06a11b04f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af589f7cc287d06ad9f610a34159f10e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739404635
+        }
+    ],
     "wof:id":739404635,
-    "wof:lastmodified":1472651470,
+    "wof:lastmodified":1492037477,
     "wof:name":"Magic Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

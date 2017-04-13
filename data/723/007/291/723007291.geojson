@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.35138,36.800014,-76.35138,36.800014",
     "geom:latitude":36.800014,
     "geom:longitude":-76.35138,
@@ -37,8 +38,8 @@
         85633793,
         101728677,
         102086707,
-        85831625,
-        420558427
+        420558427,
+        85831625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461893087,
-    "wof:geomhash":"58d03fc52144c6b53a758481bc0dd370",
+    "wof:geomhash":"7ff574ec19fc2196c2290c851fbad20e",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85831625,
-            "region_id":85688747,
-            "venue_id":723007291
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +57,21 @@
             "neighbourhood_id":420558427,
             "region_id":85688747,
             "venue_id":723007291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85831625,
+            "region_id":85688747,
+            "venue_id":723007291
         }
     ],
     "wof:id":723007291,
-    "wof:lastmodified":1472651077,
+    "wof:lastmodified":1492048735,
     "wof:name":"Bazmores 1 Car Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

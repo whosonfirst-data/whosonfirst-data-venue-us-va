@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.50864,39.09175,-77.50864,39.09175",
     "geom:latitude":39.09175,
     "geom:longitude":-77.50864,
@@ -28,7 +29,13 @@
     "sg:postcode":"20176",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55cJ7UlOlDKdlyQL7ZQ0IU_39.091750_-77.508640@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908061,
     "wof:geomhash":"e81403dea3eef5e19e775134fc1e4666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":739479397
+        }
+    ],
     "wof:id":739479397,
-    "wof:lastmodified":1472651629,
+    "wof:lastmodified":1492030592,
     "wof:name":"Ameri-Scot LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

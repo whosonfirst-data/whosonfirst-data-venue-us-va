@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.399353,37.150538,-80.399353,37.150538",
     "geom:latitude":37.150538,
     "geom:longitude":-80.399353,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qmEjJ3S06QN3frim6ghOo_37.150538_-80.399353@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904055,
     "wof:geomhash":"55a337d647a83edf0e1e43f6b03f7390",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546955,
+            "venue_id":739275763
+        }
+    ],
     "wof:id":739275763,
-    "wof:lastmodified":1472651173,
+    "wof:lastmodified":1492031061,
     "wof:name":"Franklins Excavating Inc",
     "wof:parent_id":420546955,
     "wof:placetype":"venue",

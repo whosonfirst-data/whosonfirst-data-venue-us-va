@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.552989,37.2755,-79.552989,37.2755",
     "geom:latitude":37.2755,
     "geom:longitude":-79.552989,
@@ -32,17 +33,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uJZPzNLeNRzMLlvOGmPYn_37.275500_-79.552989@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890973,
-    "wof:geomhash":"15015453b5be1f938405ef97eb1f0766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21df312b5c98a6e15649ad416f002dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":722909309
+        }
+    ],
     "wof:id":722909309,
-    "wof:lastmodified":1472652108,
+    "wof:lastmodified":1492070146,
     "wof:name":"Ferguson Farms LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

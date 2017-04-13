@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.811589,37.126727,-76.811589,37.126727",
     "geom:latitude":37.126727,
     "geom:longitude":-76.811589,
@@ -28,7 +29,10 @@
     "sg:postcode":"23883",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547297
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18ApQI67DhtWfgG6YdrM2x_37.126727_-76.811589@1294252573"
@@ -36,9 +40,15 @@
     "wof:country":"US",
     "wof:created":1461904201,
     "wof:geomhash":"c4d3224d9c54bb7f8aeac4594af60c23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547297,
+            "venue_id":739282325
+        }
+    ],
     "wof:id":739282325,
-    "wof:lastmodified":1472651157,
+    "wof:lastmodified":1492031908,
     "wof:name":"Kingdom Hall Jnvahs Witnessess",
     "wof:parent_id":420547297,
     "wof:placetype":"venue",

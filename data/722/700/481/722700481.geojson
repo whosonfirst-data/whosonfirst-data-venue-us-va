@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.504582,37.582862,-77.504582,37.582862",
     "geom:latitude":37.582862,
     "geom:longitude":-77.504582,
@@ -31,17 +32,30 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GiHwovD5fBvDxu12bvMt1_37.582862_-77.504582@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886976,
-    "wof:geomhash":"2bba4695942935b673ff5bfbe101ff32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"356ea42c33c2dad369aa749fd034e96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":722700481
+        }
+    ],
     "wof:id":722700481,
-    "wof:lastmodified":1472651566,
+    "wof:lastmodified":1492065949,
     "wof:name":"Richmond Area Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

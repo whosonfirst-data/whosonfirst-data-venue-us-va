@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.2268,36.988412,-78.2268,36.988412",
     "geom:latitude":36.988412,
     "geom:longitude":-78.2268,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728613,
+        102084945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pfXZyRBMRqQjLfHVIA6Kc_36.988412_-78.226800@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461883959,
-    "wof:geomhash":"9ebb1eb26d96077d4abc880cd9cc559b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"204a99ee47123cca3985d8f4070c855d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084945,
+            "locality_id":101728613,
+            "region_id":85688747,
+            "venue_id":722547991
+        }
+    ],
     "wof:id":722547991,
-    "wof:lastmodified":1472651112,
+    "wof:lastmodified":1492062511,
     "wof:name":"Victoria Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

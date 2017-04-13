@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.465806,38.328728,-77.465806,38.328728",
     "geom:latitude":38.328728,
     "geom:longitude":-77.465806,
@@ -31,19 +32,36 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729337,
+        102081931,
+        420547199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RWT9JUs5CGweWBcZ0dpR9_38.328728_-77.465806@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887720,
-    "wof:geomhash":"eeb3c3be897833c66d5e839b572329ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f9b667aa3c38d8f907d9f9701c28bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081931,
+            "locality_id":101729337,
+            "neighbourhood_id":420547199,
+            "region_id":85688747,
+            "venue_id":722738893
+        }
+    ],
     "wof:id":722738893,
-    "wof:lastmodified":1472651697,
+    "wof:lastmodified":1492072290,
     "wof:name":"Jack Early Catering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547199,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

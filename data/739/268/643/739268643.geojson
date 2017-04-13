@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.3781,37.016934,-76.3781,37.016934",
     "geom:latitude":37.016934,
     "geom:longitude":-76.3781,
@@ -39,7 +40,8 @@
         85633793,
         101728661,
         102084913,
-        85859265
+        85859265,
+        85842271
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461903883,
-    "wof:geomhash":"3b598af3313c22e38d5ddd4b9a178543",
+    "wof:geomhash":"a81f0a6f128721e77da080ac59a6a427",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85859265,
             "region_id":85688747,
             "venue_id":739268643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "neighbourhood_id":85842271,
+            "region_id":85688747,
+            "venue_id":739268643
         }
     ],
     "wof:id":739268643,
-    "wof:lastmodified":1472651155,
+    "wof:lastmodified":1492040214,
     "wof:name":"M K Taylor Jr Contractor Inc",
-    "wof:parent_id":85859265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

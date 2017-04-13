@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.891231,38.435123,-78.891231,38.435123",
     "geom:latitude":38.435123,
     "geom:longitude":-78.891231,
@@ -32,17 +33,32 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UXdu8eWegsXfh2pARucyW_38.435123_-78.891231@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891121,
-    "wof:geomhash":"26d7a14ccef6b0114e75d60147da57ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac0b9f3efd1573b785d82678a28fe84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722916815
+        }
+    ],
     "wof:id":722916815,
-    "wof:lastmodified":1472652141,
+    "wof:lastmodified":1492067862,
     "wof:name":"Computer Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

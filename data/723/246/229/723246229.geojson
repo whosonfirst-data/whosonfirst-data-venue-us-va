@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.331352,38.840716,-77.331352,38.840716",
     "geom:latitude":38.840716,
     "geom:longitude":-77.331352,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729825,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4shGrtUSUB7afQGcQ3gwe7_38.840716_-77.331352@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898048,
-    "wof:geomhash":"9b1252b374e317dc0e8fb95531808252",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f80e5db2d1def451181b6a636e58c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "region_id":85688747,
+            "venue_id":723246229
+        }
+    ],
     "wof:id":723246229,
-    "wof:lastmodified":1472651666,
+    "wof:lastmodified":1492053422,
     "wof:name":"Dana Ruff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

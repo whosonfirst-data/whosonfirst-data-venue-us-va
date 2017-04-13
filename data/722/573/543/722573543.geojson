@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.480032,39.062332,-77.480032,39.062332",
     "geom:latitude":39.062332,
     "geom:longitude":-77.480032,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ksXTROhf7nG9SCoFdVIlm_39.062332_-77.480032@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884486,
-    "wof:geomhash":"686aa5e5539a32bb704a7c68076877e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39929ff9a8a919578e86172a7a3b5041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":722573543
+        }
+    ],
     "wof:id":722573543,
-    "wof:lastmodified":1472651179,
+    "wof:lastmodified":1492072625,
     "wof:name":"British Aerospace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

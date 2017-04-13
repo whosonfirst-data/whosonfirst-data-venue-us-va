@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.448969,37.603966,-76.448969,37.603966",
     "geom:latitude":37.603966,
     "geom:longitude":-76.448969,
@@ -31,17 +32,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_445GKbHvC72XqkK7sfFAdV_37.603966_-76.448969@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894697,
-    "wof:geomhash":"c5495c00f931d762e35a63f9a27e0baa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"affdec22f59087cb455a35b0202fda02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085945,
+            "region_id":85688747,
+            "venue_id":723080351
+        }
+    ],
     "wof:id":723080351,
-    "wof:lastmodified":1472651265,
+    "wof:lastmodified":1492055384,
     "wof:name":"Middlesex Sports Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

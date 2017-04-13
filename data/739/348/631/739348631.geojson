@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.175941,39.159783,-78.175941,39.159783",
     "geom:latitude":39.159783,
     "geom:longitude":-78.175941,
@@ -32,17 +33,32 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E66A1k9aFW4raSwgEISAz_39.159783_-78.175941@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905581,
-    "wof:geomhash":"2415640a6e0290c98087aa121aadcf07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"468d61581bb91668955856718bd94478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739348631
+        }
+    ],
     "wof:id":739348631,
-    "wof:lastmodified":1472651303,
+    "wof:lastmodified":1492039350,
     "wof:name":"Valley Two-Way Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471042,39.049463,-77.471042,39.049463",
     "geom:latitude":39.049463,
     "geom:longitude":-77.471042,
@@ -33,17 +34,32 @@
         "networking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TEZmHJMEuZSixuY0SxWRv_39.049463_-77.471042@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889355,
-    "wof:geomhash":"fac58b91f7ecdf59ec0a47444e7bebab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44769f18e66cf841b8b57d14176235b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":722825143
+        }
+    ],
     "wof:id":722825143,
-    "wof:lastmodified":1472651880,
+    "wof:lastmodified":1492070716,
     "wof:name":"Atlantic Peripheral Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

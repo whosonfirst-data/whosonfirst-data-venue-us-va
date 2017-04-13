@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763587,37.342873,-76.763587,37.342873",
     "geom:latitude":37.342873,
     "geom:longitude":-76.763587,
@@ -31,7 +32,10 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vPRXKNRepEGQHAk5jTMzU_37.342873_-76.763587@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461906695,
     "wof:geomhash":"7c8ef26d65a810daf668a9f13c5edcf5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":739405829
+        }
+    ],
     "wof:id":739405829,
-    "wof:lastmodified":1472651479,
+    "wof:lastmodified":1492031559,
     "wof:name":"Williamsburg Taxi Svc",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

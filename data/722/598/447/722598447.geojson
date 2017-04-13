@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.349331,37.506619,-77.349331,37.506619",
     "geom:latitude":37.506619,
     "geom:longitude":-77.349331,
@@ -36,17 +37,32 @@
         "logistics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729383,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A81PWVtkYIt6AFuMu15AR_37.506619_-77.349331@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884943,
-    "wof:geomhash":"58e2a0a09ceca7f75aed69a2f5301677",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db8e2f17911a11e8fe24d5c955761337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729383,
+            "region_id":85688747,
+            "venue_id":722598447
+        }
+    ],
     "wof:id":722598447,
-    "wof:lastmodified":1472651273,
+    "wof:lastmodified":1492069248,
     "wof:name":"Logisticare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.485802,37.640233,-77.485802,37.640233",
     "geom:latitude":37.640233,
     "geom:longitude":-77.485802,
@@ -33,17 +34,32 @@
         "surgical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729371,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60aKDiMvgZxeZ48xZdvbYy_37.640233_-77.485802@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899906,
-    "wof:geomhash":"d1f1e7ffe8b37fbac092bc8ee5a06c84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a28255ba063c4556d29abe00e0dfe188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729371,
+            "region_id":85688747,
+            "venue_id":723344881
+        }
+    ],
     "wof:id":723344881,
-    "wof:lastmodified":1472651968,
+    "wof:lastmodified":1492058264,
     "wof:name":"Independent Specimen Collect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

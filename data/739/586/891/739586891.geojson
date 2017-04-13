@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.524172,37.472989,-77.524172,37.472989",
     "geom:latitude":37.472989,
     "geom:longitude":-77.524172,
@@ -43,7 +44,12 @@
         "pastry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48PVGGqdCBWWehI9l4MCCE_37.472989_-77.524172@1299784598"
@@ -51,9 +57,17 @@
     "wof:country":"US",
     "wof:created":1461910137,
     "wof:geomhash":"7921ca81bca5d4ae63b37a0a006a7f79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739586891
+        }
+    ],
     "wof:id":739586891,
-    "wof:lastmodified":1472651958,
+    "wof:lastmodified":1492031872,
     "wof:name":"Donut Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

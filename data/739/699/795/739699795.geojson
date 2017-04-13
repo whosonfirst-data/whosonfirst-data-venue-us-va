@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.498199,38.064899,-78.498199,38.064899",
     "geom:latitude":38.064899,
     "geom:longitude":-78.498199,
@@ -31,17 +32,30 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mYya3Jv7FKnDLl5YslRga_38.064899_-78.498199@1303262547"
     },
     "wof:country":"US",
     "wof:created":1461912556,
-    "wof:geomhash":"d789ca561b57c4c84db0793d399ae4bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c463391ade7a85c863f8949b7ac15f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739699795
+        }
+    ],
     "wof:id":739699795,
-    "wof:lastmodified":1472652188,
+    "wof:lastmodified":1492040581,
     "wof:name":"Berkshire Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.900481,38.072402,-78.900481,38.072402",
     "geom:latitude":38.072402,
     "geom:longitude":-78.900481,
@@ -31,17 +32,32 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728709,
+        102081055
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fN1K7KXrDwaxNrTL78BNA_38.072402_-78.900481@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891579,
-    "wof:geomhash":"5500d442a5a01a8109720206fb8354b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e713bd3ac9a4cb09f40b13b4dc351fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081055,
+            "locality_id":101728709,
+            "region_id":85688747,
+            "venue_id":722937439
+        }
+    ],
     "wof:id":722937439,
-    "wof:lastmodified":1472652187,
+    "wof:lastmodified":1492067109,
     "wof:name":"NationsBank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

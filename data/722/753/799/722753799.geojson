@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.602438,37.638932,-77.602438,37.638932",
     "geom:latitude":37.638932,
     "geom:longitude":-77.602438,
@@ -32,17 +33,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729375,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jS4fT7Sq7cgZbxrycotG8_37.638932_-77.602438@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888011,
-    "wof:geomhash":"d5d90d2cead0da10762df75de3650bea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0aab4ed11b30f979faf6ea72fd25370a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729375,
+            "region_id":85688747,
+            "venue_id":722753799
+        }
+    ],
     "wof:id":722753799,
-    "wof:lastmodified":1472651709,
+    "wof:lastmodified":1492067237,
     "wof:name":"Market Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

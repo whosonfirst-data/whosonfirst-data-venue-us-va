@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393129,36.799518,-76.393129,36.799518",
     "geom:latitude":36.799518,
     "geom:longitude":-76.393129,
@@ -29,7 +30,13 @@
     "sg:province":"VA",
     "sg:website":"www.lotaonline.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728797,
+        102087265
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Er80no83ZBhltsZ8gh07D_36.799518_-76.393129@1294252573"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1461904864,
     "wof:geomhash":"8311b5015abb7354131f63482152efcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087265,
+            "locality_id":101728797,
+            "region_id":85688747,
+            "venue_id":739314889
+        }
+    ],
     "wof:id":739314889,
-    "wof:lastmodified":1472651241,
+    "wof:lastmodified":1492029917,
     "wof:name":"Leaders Of Tomorrow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

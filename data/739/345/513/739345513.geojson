@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.7677,37.250674,-76.7677,37.250674",
     "geom:latitude":37.250674,
     "geom:longitude":-76.7677,
@@ -33,17 +34,26 @@
         "automated"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YC4mL71IUfDQ3d9PWELe6_37.250674_-76.767700@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905511,
-    "wof:geomhash":"37eac1ffc6cbff8143075b3ca1a17a92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"236822c81b79349d609c3ab646f7eb88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546805,
+            "venue_id":739345513
+        }
+    ],
     "wof:id":739345513,
-    "wof:lastmodified":1472651304,
+    "wof:lastmodified":1492043923,
     "wof:name":"ATM America",
     "wof:parent_id":420546805,
     "wof:placetype":"venue",

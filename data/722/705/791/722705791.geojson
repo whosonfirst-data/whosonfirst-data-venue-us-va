@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.162258,39.184734,-78.162258,39.184734",
     "geom:latitude":39.184734,
     "geom:longitude":-78.162258,
@@ -29,17 +30,32 @@
     "sg:province":"VA",
     "sg:website":"www.co.frederick.va.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_386v8eJcwKTaGESWqFdYuw_39.184734_-78.162258@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887074,
-    "wof:geomhash":"66500ef296a7ee3584d88f2b51c3ada6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93dbf3341af703f94011cd26d145b08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":722705791
+        }
+    ],
     "wof:id":722705791,
-    "wof:lastmodified":1472651594,
+    "wof:lastmodified":1492063428,
     "wof:name":"Frederick County Personnel Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

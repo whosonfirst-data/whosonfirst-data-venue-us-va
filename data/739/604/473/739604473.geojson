@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.526423,38.731903,-77.526423,38.731903",
     "geom:latitude":38.731903,
     "geom:longitude":-77.526423,
@@ -48,7 +49,12 @@
     ],
     "sg:website":"http://www.besttowingco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35VRINl6sVZwMqzayqcaEz_38.731903_-77.526423@1303262495"
@@ -56,9 +62,17 @@
     "wof:country":"US",
     "wof:created":1461910501,
     "wof:geomhash":"cef4ebcfb79c1a2527489c592d069cbe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739604473
+        }
+    ],
     "wof:id":739604473,
-    "wof:lastmodified":1472651954,
+    "wof:lastmodified":1492032485,
     "wof:name":"ASA Towing & Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.39583,36.887902,-81.39583,36.887902",
     "geom:latitude":36.887902,
     "geom:longitude":-81.39583,
@@ -31,17 +32,30 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085957
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mCm6nnFcqifgNciM62O0x_36.887902_-81.395830@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891980,
-    "wof:geomhash":"75802bca993c763738153a5204b9e371",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce928ab96d7e1b50a4580ee829af2248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085957,
+            "region_id":85688747,
+            "venue_id":722957807
+        }
+    ],
     "wof:id":722957807,
-    "wof:lastmodified":1472652275,
+    "wof:lastmodified":1492068605,
     "wof:name":"DMAC Appliance & Furnace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

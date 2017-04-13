@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.937618,37.272485,-79.937618,37.272485",
     "geom:latitude":37.272485,
     "geom:longitude":-79.937618,
@@ -33,17 +34,32 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oCaQHVEKQLHiHepX1lm8z_37.272485_-79.937618@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905636,
-    "wof:geomhash":"0b69b71d4744037668483f58f6adedaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c2329f983ab9c5f022d13e2eacf8c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739351303
+        }
+    ],
     "wof:id":739351303,
-    "wof:lastmodified":1472651323,
+    "wof:lastmodified":1492042268,
     "wof:name":"Howards Car Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

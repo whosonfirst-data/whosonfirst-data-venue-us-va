@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.554966,38.783572,-77.554966,38.783572",
     "geom:latitude":38.783572,
     "geom:longitude":-77.554966,
@@ -31,17 +32,30 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HqyS83dxtPsgyYHyuC2WH_38.783572_-77.554966@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910469,
-    "wof:geomhash":"527c7e3215bc3732bd9a8df18343f8f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f626cc701bd6888ab5d88dd20b2fe5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739602825
+        }
+    ],
     "wof:id":739602825,
-    "wof:lastmodified":1472651975,
+    "wof:lastmodified":1492046993,
     "wof:name":"Atlantic Metals 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

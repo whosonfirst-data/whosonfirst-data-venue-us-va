@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.499369,37.27265,-76.499369,37.27265",
     "geom:latitude":37.27265,
     "geom:longitude":-76.499369,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X8FfWZ4FYqdABeyUFrIVO_37.272650_-76.499369@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908986,
-    "wof:geomhash":"8e59d7081ef991ea4cae4883eb7bb8b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e37474e2fbff1d47b79009695189536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":739530517
+        }
+    ],
     "wof:id":739530517,
-    "wof:lastmodified":1472651779,
+    "wof:lastmodified":1492044060,
     "wof:name":"Martins Custom Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

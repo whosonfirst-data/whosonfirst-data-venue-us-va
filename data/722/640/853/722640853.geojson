@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191566,38.922748,-77.191566,38.922748",
     "geom:latitude":38.922748,
     "geom:longitude":-77.191566,
@@ -36,8 +37,10 @@
         85688747,
         102191575,
         85633793,
-        101729767,
+        101729783,
         102084863,
+        420546653,
+        101729767,
         85830359
     ],
     "wof:breaches":[],
@@ -46,8 +49,17 @@
     },
     "wof:country":"US",
     "wof:created":1461885859,
-    "wof:geomhash":"b4f1ac1fa75cbde9471e39a4d9d778af",
+    "wof:geomhash":"24ba8d64f91220bbd714dd525d401946",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729783,
+            "neighbourhood_id":420546653,
+            "region_id":85688747,
+            "venue_id":722640853
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -59,9 +71,9 @@
         }
     ],
     "wof:id":722640853,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492066228,
     "wof:name":"Century Cleaning Service",
-    "wof:parent_id":85830359,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

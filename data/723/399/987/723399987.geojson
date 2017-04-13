@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.757284,37.237811,-76.757284,37.237811",
     "geom:latitude":37.237811,
     "geom:longitude":-76.757284,
@@ -31,17 +32,26 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uNYt6D4eDViddyKBLGOOj_37.237811_-76.757284@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900969,
-    "wof:geomhash":"43523a2a0b7466bd124470c0eed051a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20c20a29dc6343f75d1a86613042a171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":723399987
+        }
+    ],
     "wof:id":723399987,
-    "wof:lastmodified":1472652146,
+    "wof:lastmodified":1492055585,
     "wof:name":"C Randall Stone",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

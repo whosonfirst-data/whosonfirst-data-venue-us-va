@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.357631,37.887644,-76.357631,37.887644",
     "geom:latitude":37.887644,
     "geom:longitude":-76.357631,
@@ -33,17 +34,30 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ayJQnHGVSdWJ9dcGw6hwc_37.887644_-76.357631@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888155,
-    "wof:geomhash":"0f189ca48faad7a1e14031c5958ff69e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ced3fd54ba33ad871bc3637ccfe0e51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":722761647
+        }
+    ],
     "wof:id":722761647,
-    "wof:lastmodified":1472651791,
+    "wof:lastmodified":1492074721,
     "wof:name":"Village Cleaners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

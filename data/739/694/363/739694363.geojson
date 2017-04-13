@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.29286,37.884056,-76.29286,37.884056",
     "geom:latitude":37.884056,
     "geom:longitude":-76.29286,
@@ -35,7 +36,12 @@
         "criminal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TowN7XkN5N9rhysZJNoVN_37.884056_-76.292860@1303262547"
@@ -43,9 +49,17 @@
     "wof:country":"US",
     "wof:created":1461912425,
     "wof:geomhash":"bffed460ce95e828d5db6ea3c7f55f75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739694363
+        }
+    ],
     "wof:id":739694363,
-    "wof:lastmodified":1472652172,
+    "wof:lastmodified":1492030237,
     "wof:name":"John E Hamilton Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

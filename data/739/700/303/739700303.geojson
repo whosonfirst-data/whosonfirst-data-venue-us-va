@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.4991,38.074001,-78.4991,38.074001",
     "geom:latitude":38.074001,
     "geom:longitude":-78.4991,
@@ -31,7 +32,12 @@
         "orthodontist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qd42DvvHDDY5SLQJ8RjDG_38.074001_-78.499100@1303262547"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912579,
     "wof:geomhash":"34a03317c4f849a984e073addbe77517",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739700303
+        }
+    ],
     "wof:id":739700303,
-    "wof:lastmodified":1472652165,
+    "wof:lastmodified":1492032565,
     "wof:name":"Horbaly William G Ms MDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

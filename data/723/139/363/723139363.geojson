@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.407363,37.232697,-77.407363,37.232697",
     "geom:latitude":37.232697,
     "geom:longitude":-77.407363,
@@ -32,17 +33,32 @@
         "concrete"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wSp4r7eUTl94y7yqaXTCK_37.232697_-77.407363@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895889,
-    "wof:geomhash":"1fcb89be9439f51f139ef069732b7568",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d43935ad42eb1dcc020d348484981613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723139363
+        }
+    ],
     "wof:id":723139363,
-    "wof:lastmodified":1472651384,
+    "wof:lastmodified":1492048530,
     "wof:name":"Virginia Concrete Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

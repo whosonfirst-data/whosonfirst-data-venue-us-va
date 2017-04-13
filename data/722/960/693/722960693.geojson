@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.352593,36.964521,-79.352593,36.964521",
     "geom:latitude":36.964521,
     "geom:longitude":-79.352593,
@@ -41,7 +42,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
+        101728697,
+        102084935,
+        85868201,
         101728587,
         102083813,
         85868197
@@ -52,9 +57,19 @@
     },
     "wof:country":"US",
     "wof:created":1461892049,
-    "wof:geomhash":"67d030e1fa26f42e0edd68826fd93de3",
+    "wof:geomhash":"7fe0ad9476b40000b8b933ecdcb1fbbb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101728697,
+            "neighbourhood_id":85868201,
+            "region_id":85688747,
+            "venue_id":722960693
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083813,
             "locality_id":101728587,
@@ -64,9 +79,9 @@
         }
     ],
     "wof:id":722960693,
-    "wof:lastmodified":1472652305,
+    "wof:lastmodified":1492066567,
     "wof:name":"Doss Asphalt Sealing",
-    "wof:parent_id":85868197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

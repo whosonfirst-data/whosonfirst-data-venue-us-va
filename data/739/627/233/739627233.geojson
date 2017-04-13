@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.116203,38.845402,-77.116203,38.845402",
     "geom:latitude":38.845402,
     "geom:longitude":-77.116203,
@@ -28,7 +29,13 @@
     "sg:postcode":"22041",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SvSmXrTVtUs3BE1nNbGKn_38.845402_-77.116203@1303262538"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461910977,
     "wof:geomhash":"c28d5827e120b60a3ac5918b52bdde8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739627233
+        }
+    ],
     "wof:id":739627233,
-    "wof:lastmodified":1472651988,
+    "wof:lastmodified":1492032077,
     "wof:name":"Friedlis Mayo F MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.68276,37.406144,-77.68276,37.406144",
     "geom:latitude":37.406144,
     "geom:longitude":-77.68276,
@@ -32,7 +33,13 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wlaOA8iCn25qqmy8TrKd6_37.406144_-77.682760@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907908,
     "wof:geomhash":"0f86df0a781820a539d8b802f0369fa8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739471237
+        }
+    ],
     "wof:id":739471237,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492031145,
     "wof:name":"Woodlake United Methdst Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

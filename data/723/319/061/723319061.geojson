@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510285,39.053737,-77.510285,39.053737",
     "geom:latitude":39.053737,
     "geom:longitude":-77.510285,
@@ -34,17 +35,32 @@
         "damage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cgBjdISP4IEijK2d3TUcE_39.053737_-77.510285@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899433,
-    "wof:geomhash":"bb3214971670fa39e3a71dc2b090cb8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c489e0c56c27278c654568022e218c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723319061
+        }
+    ],
     "wof:id":723319061,
-    "wof:lastmodified":1472651733,
+    "wof:lastmodified":1492049684,
     "wof:name":"SERVPRO",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

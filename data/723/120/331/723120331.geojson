@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.86618,38.155184,-77.86618,38.155184",
     "geom:latitude":38.155184,
     "geom:longitude":-77.86618,
@@ -32,17 +33,30 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CzNWFcPgTUYHnaFb30Qs0_38.155184_-77.866180@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895525,
-    "wof:geomhash":"d8b734ff82622a959f1bbe5db8a80659",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a4f0f223fdfd611c52ab0d76152bb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723120331
+        }
+    ],
     "wof:id":723120331,
-    "wof:lastmodified":1472651350,
+    "wof:lastmodified":1492047769,
     "wof:name":"Belmont Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

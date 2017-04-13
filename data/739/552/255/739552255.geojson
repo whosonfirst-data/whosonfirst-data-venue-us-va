@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437107,38.261272,-77.437107,38.261272",
     "geom:latitude":38.261272,
     "geom:longitude":-77.437107,
@@ -39,17 +40,30 @@
         "head"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lq60RT9nY1phsvNx2zZP2_38.261272_-77.437107@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909394,
-    "wof:geomhash":"014fdebefb971421740a6afbb0568bb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ee283d337edfc2f87ae1c90446e0c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739552255
+        }
+    ],
     "wof:id":739552255,
-    "wof:lastmodified":1472651860,
+    "wof:lastmodified":1492041325,
     "wof:name":"Independent Dealer Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.127085,38.937118,-77.127085,38.937118",
     "geom:latitude":38.937118,
     "geom:longitude":-77.127085,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729767,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Svol92lxYvhjvUDyloOqs_38.937118_-77.127085@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900481,
-    "wof:geomhash":"75694c6ec0553edf6467654cf3f57d45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"562f61ecba2cc5528c11fe51ba94a49f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "region_id":85688747,
+            "venue_id":723375483
+        }
+    ],
     "wof:id":723375483,
-    "wof:lastmodified":1472652117,
+    "wof:lastmodified":1492049095,
     "wof:name":"John K Welch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

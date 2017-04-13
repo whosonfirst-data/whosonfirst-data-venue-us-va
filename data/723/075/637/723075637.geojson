@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.313377,37.129979,-79.313377,37.129979",
     "geom:latitude":37.129979,
     "geom:longitude":-79.313377,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546601
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CPaMDMXOx1v21BJtM3nTG_37.129979_-79.313377@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894597,
-    "wof:geomhash":"e96fb7b554d633ec0f539aba352b99d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad39ade2faa5a78de0c39719c56d2c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546601,
+            "venue_id":723075637
+        }
+    ],
     "wof:id":723075637,
-    "wof:lastmodified":1472651303,
+    "wof:lastmodified":1492055958,
     "wof:name":"Tuthill Associates",
     "wof:parent_id":420546601,
     "wof:placetype":"venue",

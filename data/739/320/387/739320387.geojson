@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.001358,36.702976,-82.001358,36.702976",
     "geom:latitude":36.702976,
     "geom:longitude":-82.001358,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mhWbYIyoMyyFidQgaBOCi_36.702976_-82.001358@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904984,
-    "wof:geomhash":"f7c0941a0af8165dde435d8c2483137e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9367709055987925ab3cfeb97a5910bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739320387
+        }
+    ],
     "wof:id":739320387,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492038117,
     "wof:name":"Blevins Construction Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.173861,37.366445,-79.173861,37.366445",
     "geom:latitude":37.366445,
     "geom:longitude":-79.173861,
@@ -33,17 +34,32 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bgUFwEzbh3jIImBl3gEF7_37.366445_-79.173861@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910298,
-    "wof:geomhash":"8ed99b4b72dd40667f08fd83ad6f337b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2d4f847c9e66eeb8324290cff583cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":739595103
+        }
+    ],
     "wof:id":739595103,
-    "wof:lastmodified":1472651924,
+    "wof:lastmodified":1492042096,
     "wof:name":"Red Lobster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

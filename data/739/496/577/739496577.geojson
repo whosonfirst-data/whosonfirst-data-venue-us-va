@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.43857,38.836991,-77.43857,38.836991",
     "geom:latitude":38.836991,
     "geom:longitude":-77.43857,
@@ -31,7 +32,13 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NktgknDSxwDujvqL740Gp_38.836991_-77.438570@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908369,
     "wof:geomhash":"708899062a55dbc2f6517cea75a48556",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739496577
+        }
+    ],
     "wof:id":739496577,
-    "wof:lastmodified":1472651702,
+    "wof:lastmodified":1492033026,
     "wof:name":"First Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

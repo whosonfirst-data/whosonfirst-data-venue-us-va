@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.480203,39.047009,-77.480203,39.047009",
     "geom:latitude":39.047009,
     "geom:longitude":-77.480203,
@@ -32,17 +33,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J9M0KCQIkjyE7EzG2plOk_39.047009_-77.480203@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898530,
-    "wof:geomhash":"81021a380eb70ef4594ec40c13d5afab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d99ce7ee22b2543737d342de316f57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723271451
+        }
+    ],
     "wof:id":723271451,
-    "wof:lastmodified":1472651765,
+    "wof:lastmodified":1492054008,
     "wof:name":"Guy Mattusch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

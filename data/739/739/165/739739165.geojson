@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.081177,37.286709,-80.081177,37.286709",
     "geom:latitude":37.286709,
     "geom:longitude":-80.081177,
@@ -45,17 +46,32 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29zZZz5VQnqxbCXF761RSm_37.286709_-80.081177@1303262552"
     },
     "wof:country":"US",
     "wof:created":1461913405,
-    "wof:geomhash":"cf2f31724770b1f05133e48c62266510",
-    "wof:hierarchy":[],
+    "wof:geomhash":"448598da9c6cb580d76432430abba609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739739165
+        }
+    ],
     "wof:id":739739165,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492037890,
     "wof:name":"Derolf Animal Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

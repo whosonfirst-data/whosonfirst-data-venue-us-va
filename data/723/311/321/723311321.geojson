@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.674191,38.64013,-78.674191,38.64013",
     "geom:latitude":38.64013,
     "geom:longitude":-78.674191,
@@ -32,17 +33,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728879,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eL5jxMTYRZkpUdTWUFeGV_38.640130_-78.674191@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899290,
-    "wof:geomhash":"e89464c40d4396f1e93812025317e09a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f953427ae8658756ff23600ce4e798a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728879,
+            "region_id":85688747,
+            "venue_id":723311321
+        }
+    ],
     "wof:id":723311321,
-    "wof:lastmodified":1472651762,
+    "wof:lastmodified":1492048441,
     "wof:name":"R & R Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

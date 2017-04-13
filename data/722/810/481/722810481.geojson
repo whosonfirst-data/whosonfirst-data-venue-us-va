@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.998614,36.635996,-81.998614,36.635996",
     "geom:latitude":36.635996,
     "geom:longitude":-81.998614,
@@ -31,17 +32,26 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YVmGpzUovLx79BKFdfJOU_36.635996_-81.998614@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889075,
-    "wof:geomhash":"73b41fe272575ec740485a62708bae63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dfab2cc325a112249f461b2ec9420d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722810481
+        }
+    ],
     "wof:id":722810481,
-    "wof:lastmodified":1472651870,
+    "wof:lastmodified":1492074996,
     "wof:name":"Green Spring Food Mart & Deli",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

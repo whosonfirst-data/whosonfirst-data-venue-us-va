@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.486256,39.024796,-77.486256,39.024796",
     "geom:latitude":39.024796,
     "geom:longitude":-77.486256,
@@ -32,17 +33,32 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l7tTk3U3io3qQEUkxUQjU_39.024796_-77.486256@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899961,
-    "wof:geomhash":"e99e20ea67bbe62c5eefff055caec02a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf657472c3ee8c838918b02dff058daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723348047
+        }
+    ],
     "wof:id":723348047,
-    "wof:lastmodified":1472651994,
+    "wof:lastmodified":1492054380,
     "wof:name":"Mesa Systems Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

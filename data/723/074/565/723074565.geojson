@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.415354,37.186615,-76.415354,37.186615",
     "geom:latitude":37.186615,
     "geom:longitude":-76.415354,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52cBNs5gyqWjU7UZDtCwqQ_37.186615_-76.415354@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894572,
-    "wof:geomhash":"6c1740496cb9e5cc54712c266ec0d496",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f594c1cb7065e900f9dd165e882efa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723074565
+        }
+    ],
     "wof:id":723074565,
-    "wof:lastmodified":1472651270,
+    "wof:lastmodified":1492059920,
     "wof:name":"Cut America Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

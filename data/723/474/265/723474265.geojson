@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475392,39.033941,-77.475392,39.033941",
     "geom:latitude":39.033941,
     "geom:longitude":-77.475392,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yY60lrjmKzv2JVv3jDDZn_39.033941_-77.475392@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902398,
-    "wof:geomhash":"a7e75b38e5a844c39cdb17ee2144ab99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"549d3bc4cb3e34ee4aa61fe19b39b6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723474265
+        }
+    ],
     "wof:id":723474265,
-    "wof:lastmodified":1472652302,
+    "wof:lastmodified":1492059792,
     "wof:name":"Little Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

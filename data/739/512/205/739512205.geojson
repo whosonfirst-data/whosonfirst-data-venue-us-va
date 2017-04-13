@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.342732,38.29946,-77.342732,38.29946",
     "geom:latitude":38.29946,
     "geom:longitude":-77.342732,
@@ -31,7 +32,10 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NVKBJvDRdeWCOenrYkoJm_38.299460_-77.342732@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461908650,
     "wof:geomhash":"bc3a990b69bf15d1a41a43c0371cd860",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":739512205
+        }
+    ],
     "wof:id":739512205,
-    "wof:lastmodified":1472651740,
+    "wof:lastmodified":1492031340,
     "wof:name":"Harmony Grove Inc",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

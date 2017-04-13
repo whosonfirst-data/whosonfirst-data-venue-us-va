@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.167791,37.791965,-77.167791,37.791965",
     "geom:latitude":37.791965,
     "geom:longitude":-77.167791,
@@ -32,17 +33,30 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08LD62ORYWpoqQrKFHBRFq_37.791965_-77.167791@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898741,
-    "wof:geomhash":"51f7951be18912c66b5a6c9cb7433b1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8897b3aca9290fac7961926fe23ab217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":723283251
+        }
+    ],
     "wof:id":723283251,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492052844,
     "wof:name":"Po Shot Hunt Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

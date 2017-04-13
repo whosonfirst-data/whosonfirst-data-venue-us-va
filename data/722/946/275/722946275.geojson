@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.908556,37.09941,-79.908556,37.09941",
     "geom:latitude":37.09941,
     "geom:longitude":-79.908556,
@@ -32,17 +33,30 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lJv3ilhfnDKFVQECnj8hW_37.099410_-79.908556@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891757,
-    "wof:geomhash":"bfb0993955bb824780c1ada09228ce37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09eea7ed68336cb6da8706e910e9a029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084979,
+            "region_id":85688747,
+            "venue_id":722946275
+        }
+    ],
     "wof:id":722946275,
-    "wof:lastmodified":1472652231,
+    "wof:lastmodified":1492069655,
     "wof:name":"Travel Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

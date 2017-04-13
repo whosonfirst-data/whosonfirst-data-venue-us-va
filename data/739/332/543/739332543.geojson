@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.90889,38.214842,-78.90889,38.214842",
     "geom:latitude":38.214842,
     "geom:longitude":-78.90889,
@@ -31,7 +32,13 @@
         "adult"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729679,
+        102086699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Sh5NymkYK491WLxYKL50o_38.214842_-78.908890@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461905227,
     "wof:geomhash":"89293d7adf819cf93d1bfe29024c9e70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086699,
+            "locality_id":101729679,
+            "region_id":85688747,
+            "venue_id":739332543
+        }
+    ],
     "wof:id":739332543,
-    "wof:lastmodified":1472651300,
+    "wof:lastmodified":1492030782,
     "wof:name":"Lily Of The Valley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.191222,38.946169,-77.191222,38.946169",
     "geom:latitude":38.946169,
     "geom:longitude":-77.191222,
@@ -34,8 +35,8 @@
         85633793,
         101729767,
         102084863,
-        85855811,
-        420559003
+        420559003,
+        85855811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,8 @@
     },
     "wof:country":"US",
     "wof:created":1461904910,
-    "wof:geomhash":"848db1254fa4dd6f2c032917f51e1c7f",
+    "wof:geomhash":"381216ccfeee71e255bc7f41437b57e2",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084863,
-            "locality_id":101729767,
-            "neighbourhood_id":85855811,
-            "region_id":85688747,
-            "venue_id":739317371
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,12 +54,21 @@
             "neighbourhood_id":420559003,
             "region_id":85688747,
             "venue_id":739317371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85855811,
+            "region_id":85688747,
+            "venue_id":739317371
         }
     ],
     "wof:id":739317371,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492042551,
     "wof:name":"Helena School of Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.549241,38.731847,-77.549241,38.731847",
     "geom:latitude":38.731847,
     "geom:longitude":-77.549241,
@@ -34,17 +35,32 @@
     "sg:province":"VA",
     "sg:website":"www.remax.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Eze5crVHrOST7HfhVkIlR_38.731847_-77.549241@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910531,
-    "wof:geomhash":"1c384f74fcb3c7d1c457a157b8077e4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83e1b240b99e16371b21b6c43bf30d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739606259
+        }
+    ],
     "wof:id":739606259,
-    "wof:lastmodified":1472651943,
+    "wof:lastmodified":1492039029,
     "wof:name":"RE/MAX Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

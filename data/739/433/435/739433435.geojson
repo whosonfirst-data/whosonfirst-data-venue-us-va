@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.821208,37.363991,-79.821208,37.363991",
     "geom:latitude":37.363991,
     "geom:longitude":-79.821208,
@@ -32,7 +33,13 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729607,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XLHr3uHxZnIvshShvqGPn_37.363991_-79.821208@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907233,
     "wof:geomhash":"d0030f0019c9732b60546386b001c60f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729607,
+            "region_id":85688747,
+            "venue_id":739433435
+        }
+    ],
     "wof:id":739433435,
-    "wof:lastmodified":1472651524,
+    "wof:lastmodified":1492030379,
     "wof:name":"Blue Ridge Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

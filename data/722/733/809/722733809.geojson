@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.739022,37.310512,-76.739022,37.310512",
     "geom:latitude":37.310512,
     "geom:longitude":-76.739022,
@@ -31,17 +32,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vxz26T1cTiKJlXquux670_37.310512_-76.739022@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887622,
-    "wof:geomhash":"4452ba71d773a814f58dd594f2aa14b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b32e90dcb4639379648cfdc6182791ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":722733809
+        }
+    ],
     "wof:id":722733809,
-    "wof:lastmodified":1472651711,
+    "wof:lastmodified":1492068553,
     "wof:name":"Bizology Business Brokers",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

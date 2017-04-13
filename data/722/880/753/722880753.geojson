@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.761124,37.320312,-76.761124,37.320312",
     "geom:latitude":37.320312,
     "geom:longitude":-76.761124,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XI0hpbIM1jTqttS67Urq4_37.320312_-76.761124@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890400,
-    "wof:geomhash":"d6071561a3393a1666ba5db4285e0bd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a83e682dba4b41f5bf58646ee5ae99a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546887,
+            "venue_id":722880753
+        }
+    ],
     "wof:id":722880753,
-    "wof:lastmodified":1472652027,
+    "wof:lastmodified":1492062747,
     "wof:name":"L B Co Inc",
     "wof:parent_id":420546887,
     "wof:placetype":"venue",

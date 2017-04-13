@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.260322,37.871713,-76.260322,37.871713",
     "geom:latitude":37.871713,
     "geom:longitude":-76.260322,
@@ -31,7 +32,12 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Bn3D0oNVHrKynNb3j8gTx_37.871713_-76.260322@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461905892,
     "wof:geomhash":"c6f463027a8378d7cf97cb19578bfa89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739364513
+        }
+    ],
     "wof:id":739364513,
-    "wof:lastmodified":1472651349,
+    "wof:lastmodified":1492031775,
     "wof:name":"Thomas D Hughes IV",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

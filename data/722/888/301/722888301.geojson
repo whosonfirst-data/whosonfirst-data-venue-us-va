@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.671777,37.426022,-77.671777,37.426022",
     "geom:latitude":37.426022,
     "geom:longitude":-77.671777,
@@ -31,17 +32,32 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WF3WwqmuyixtIVaCWuKUw_37.426022_-77.671777@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890549,
-    "wof:geomhash":"8244e6031c8a6f5a14951dbe7fe269c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30d165529d25ce135f3526437f641922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":722888301
+        }
+    ],
     "wof:id":722888301,
-    "wof:lastmodified":1472652044,
+    "wof:lastmodified":1492063617,
     "wof:name":"Roberts Financial Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.017372,36.695341,-82.017372,36.695341",
     "geom:latitude":36.695341,
     "geom:longitude":-82.017372,
@@ -32,17 +33,26 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3o8zamcPhP4VE3BlloKJwK_36.695341_-82.017372@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908616,
-    "wof:geomhash":"83efc369fddaf8fbdc76e2e145251d34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f542e2758602f0dd77ffd7c1b52eeac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739510387
+        }
+    ],
     "wof:id":739510387,
-    "wof:lastmodified":1472651789,
+    "wof:lastmodified":1492043380,
     "wof:name":"C & D Sales Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

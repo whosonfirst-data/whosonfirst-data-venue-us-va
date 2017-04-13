@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.865484,36.667749,-79.865484,36.667749",
     "geom:latitude":36.667749,
     "geom:longitude":-79.865484,
@@ -35,7 +36,13 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GhwFyVUAlXwD7DDnLa7Ig_36.667749_-79.865484@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461906013,
     "wof:geomhash":"fd7e504ce07065a98c6f5c8ec8222974",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":739370987
+        }
+    ],
     "wof:id":739370987,
-    "wof:lastmodified":1472651370,
+    "wof:lastmodified":1492031016,
     "wof:name":"Lawson's Roofing Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

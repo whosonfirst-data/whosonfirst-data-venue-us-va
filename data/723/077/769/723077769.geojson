@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.547208,39.129445,-77.547208,39.129445",
     "geom:latitude":39.129445,
     "geom:longitude":-77.547208,
@@ -32,17 +33,32 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vyIOq3fMaQDARk0TMOqQy_39.129445_-77.547208@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894639,
-    "wof:geomhash":"3e2dd686402800c71feb834f348699c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fb5d06687239e198e74b4b2321e6952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":723077769
+        }
+    ],
     "wof:id":723077769,
-    "wof:lastmodified":1472651289,
+    "wof:lastmodified":1492057026,
     "wof:name":"Raymond James Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

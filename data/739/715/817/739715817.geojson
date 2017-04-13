@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.366903,37.539295,-77.366903,37.539295",
     "geom:latitude":37.539295,
     "geom:longitude":-77.366903,
@@ -31,7 +32,12 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qPKL4Wkp0rVYl9oWG91F6_37.539295_-77.366903@1303262549"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461912906,
     "wof:geomhash":"b11614ae65521f2850b4241f579e0234",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739715817
+        }
+    ],
     "wof:id":739715817,
-    "wof:lastmodified":1472652212,
+    "wof:lastmodified":1492031459,
     "wof:name":"Pinky's Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

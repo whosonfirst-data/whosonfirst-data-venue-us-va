@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.562963,37.137014,-76.562963,37.137014",
     "geom:latitude":37.137014,
     "geom:longitude":-76.562963,
@@ -28,7 +29,13 @@
     "sg:postcode":"23608",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qcTxbxtNK4agIK03oxfwn_37.137014_-76.562963@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904861,
     "wof:geomhash":"69f807f811e05d8ab25328fd0e736dd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":739314723
+        }
+    ],
     "wof:id":739314723,
-    "wof:lastmodified":1472651240,
+    "wof:lastmodified":1492029906,
     "wof:name":"Rivershore Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

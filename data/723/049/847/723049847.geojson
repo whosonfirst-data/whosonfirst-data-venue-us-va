@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.929491,36.765207,-78.929491,36.765207",
     "geom:latitude":36.765207,
     "geom:longitude":-78.929491,
@@ -31,17 +32,32 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728965,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yeIc3ax4TRCJFjRMs4cvy_36.765207_-78.929491@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894004,
-    "wof:geomhash":"7e59ec3c6944c654c276d70236e5a34e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcce6ee2e163429e0f220b0c8663cf93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728965,
+            "region_id":85688747,
+            "venue_id":723049847
+        }
+    ],
     "wof:id":723049847,
-    "wof:lastmodified":1472651192,
+    "wof:lastmodified":1492054886,
     "wof:name":"Halifax County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

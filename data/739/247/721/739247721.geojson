@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.160746,39.19626,-78.160746,39.19626",
     "geom:latitude":39.19626,
     "geom:longitude":-78.160746,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AZI5NxV0AvS1wiMAa4drK_39.196260_-78.160746@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903430,
-    "wof:geomhash":"14b2235ba0aa1560160d0843d4703f0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"378b4db7fb4f7b8221cf0ca146b077ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":739247721
+        }
+    ],
     "wof:id":739247721,
-    "wof:lastmodified":1472651080,
+    "wof:lastmodified":1492038528,
     "wof:name":"Performance Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

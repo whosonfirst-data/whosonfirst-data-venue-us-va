@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.39094,38.729848,-77.39094,38.729848",
     "geom:latitude":38.729848,
     "geom:longitude":-77.39094,
@@ -32,17 +33,30 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qEvCXQPxOqWCo1C7qvHsT_38.729848_-77.390940@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888163,
-    "wof:geomhash":"17cc0444126738948836b6e02d8bf534",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93903dfc253a9121c447ccdb891060f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722762191
+        }
+    ],
     "wof:id":722762191,
-    "wof:lastmodified":1472651739,
+    "wof:lastmodified":1492065223,
     "wof:name":"Bentley Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.488301,38.446671,-77.488301,38.446671",
     "geom:latitude":38.446671,
     "geom:longitude":-77.488301,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43AkUjEu7m0xpwOYWrJY3O_38.446671_-77.488301@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891431,
-    "wof:geomhash":"e80473cd8ecaa790a72fa634fa9a41bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"864146e4c0611b4ea40236022368178d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547127,
+            "venue_id":722931115
+        }
+    ],
     "wof:id":722931115,
-    "wof:lastmodified":1472652159,
+    "wof:lastmodified":1492066279,
     "wof:name":"Stafford County Christn Church",
     "wof:parent_id":420547127,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.62467,38.780551,-77.62467,38.780551",
     "geom:latitude":38.780551,
     "geom:longitude":-77.62467,
@@ -28,7 +29,13 @@
     "sg:postcode":"20155",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729237,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wxcXvJghnUzqFt8yQwCqV_38.780551_-77.624670@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904257,
     "wof:geomhash":"0a69852b3962c94f135aa0ea7d5ecd2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729237,
+            "region_id":85688747,
+            "venue_id":739285001
+        }
+    ],
     "wof:id":739285001,
-    "wof:lastmodified":1472651141,
+    "wof:lastmodified":1492029724,
     "wof:name":"Tars Realty & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

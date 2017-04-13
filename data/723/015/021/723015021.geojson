@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.460665,37.170332,-76.460665,37.170332",
     "geom:latitude":37.170332,
     "geom:longitude":-76.460665,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85879209,
-        102086731
+        101729041,
+        102085961,
+        85879209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,20 @@
     },
     "wof:country":"US",
     "wof:created":1461893243,
-    "wof:geomhash":"85dcba688094a8a1a7f4def0233655ee",
+    "wof:geomhash":"9cfa62fa2365a525f9db5062db513acc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086731,
+            "county_id":102085961,
+            "locality_id":101729041,
             "neighbourhood_id":85879209,
             "region_id":85688747,
             "venue_id":723015021
         }
     ],
     "wof:id":723015021,
-    "wof:lastmodified":1472651083,
+    "wof:lastmodified":1492047446,
     "wof:name":"Fred's Electrical Svc",
     "wof:parent_id":85879209,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.892341,38.421843,-78.892341,38.421843",
     "geom:latitude":38.421843,
     "geom:longitude":-78.892341,
@@ -28,7 +29,13 @@
     "sg:postcode":"22801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nuPRQjCP62Wwi0oVRy0WY_38.421843_-78.892341@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461903529,
     "wof:geomhash":"b039e5c7a790990b98dcfff469d4e29d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739251901
+        }
+    ],
     "wof:id":739251901,
-    "wof:lastmodified":1472651099,
+    "wof:lastmodified":1492029808,
     "wof:name":"LA Colotlense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

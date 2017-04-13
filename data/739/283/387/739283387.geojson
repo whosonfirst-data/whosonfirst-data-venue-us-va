@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.578772,38.851472,-77.578772,38.851472",
     "geom:latitude":38.851472,
     "geom:longitude":-77.578772,
@@ -33,17 +34,30 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51VS8gMd9BsMg03OGq4TMj_38.851472_-77.578772@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904227,
-    "wof:geomhash":"f154128c772bf43a7b5cbaa20629027d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47c8d8717dd222a5e4678c7400fdc959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739283387
+        }
+    ],
     "wof:id":739283387,
-    "wof:lastmodified":1472651162,
+    "wof:lastmodified":1492038036,
     "wof:name":"Spectrum Contracter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

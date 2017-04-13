@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.518304,37.990283,-77.518304,37.990283",
     "geom:latitude":37.990283,
     "geom:longitude":-77.518304,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729417,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3krfv5FXiu8fQNocNknEV2_37.990283_-77.518304@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884184,
-    "wof:geomhash":"0e7d7a8fff5c8e52bdf4f90b7ed7b5ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f64ab6071399587273320c87438124d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "locality_id":101729417,
+            "region_id":85688747,
+            "venue_id":722558937
+        }
+    ],
     "wof:id":722558937,
-    "wof:lastmodified":1472651128,
+    "wof:lastmodified":1492064241,
     "wof:name":"Ra Norton & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.453888,38.881654,-77.453888,38.881654",
     "geom:latitude":38.881654,
     "geom:longitude":-77.453888,
@@ -31,7 +32,13 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l2TdgrAiR1rX0Zby13LaS_38.881654_-77.453888@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461906904,
     "wof:geomhash":"5a6aa9a560b5be07a817c0c603d41c23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739417471
+        }
+    ],
     "wof:id":739417471,
-    "wof:lastmodified":1472651514,
+    "wof:lastmodified":1492031470,
     "wof:name":"Commonwealth Atlantic Land III",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

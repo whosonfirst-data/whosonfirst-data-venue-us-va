@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.524725,37.115759,-81.524725,37.115759",
     "geom:latitude":37.115759,
     "geom:longitude":-81.524725,
@@ -28,17 +29,26 @@
     "sg:postcode":"24651",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Gf5gnP9BsyEfB1ePzcbu2_37.115759_-81.524725@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887457,
-    "wof:geomhash":"434754d227db94ec0fcab963d9da3eb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bab88956d296464964d1df50a0372603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547299,
+            "venue_id":722726313
+        }
+    ],
     "wof:id":722726313,
-    "wof:lastmodified":1472651619,
+    "wof:lastmodified":1492068026,
     "wof:name":"Veterans of Foreign Wars of US",
     "wof:parent_id":420547299,
     "wof:placetype":"venue",

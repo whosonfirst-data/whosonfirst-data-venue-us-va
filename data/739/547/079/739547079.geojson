@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.697475,39.159022,-77.697475,39.159022",
     "geom:latitude":39.159022,
     "geom:longitude":-77.697475,
@@ -34,7 +35,12 @@
         "harvesting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nkzf7f1IYyRD3MF4y0GbT_39.159022_-77.697475@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461909299,
     "wof:geomhash":"49578c2c706297501060526eb5c07ca7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "region_id":85688747,
+            "venue_id":739547079
+        }
+    ],
     "wof:id":739547079,
-    "wof:lastmodified":1472651857,
+    "wof:lastmodified":1492029481,
     "wof:name":"Four Seasons Small Farm Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

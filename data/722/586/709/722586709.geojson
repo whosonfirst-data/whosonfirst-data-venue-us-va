@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.456336,38.06523,-78.456336,38.06523",
     "geom:latitude":38.06523,
     "geom:longitude":-78.456336,
@@ -32,17 +33,30 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k371AClkJbhZkkWbk5T5A_38.065230_-78.456336@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884731,
-    "wof:geomhash":"162e1e8240801d737506071497c610c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60badee7a39e41330f2cf03e949c8cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722586709
+        }
+    ],
     "wof:id":722586709,
-    "wof:lastmodified":1472651219,
+    "wof:lastmodified":1492065252,
     "wof:name":"Meetings Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

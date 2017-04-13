@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.008214,36.687523,-76.008214,36.687523",
     "geom:latitude":36.687523,
     "geom:longitude":-76.008214,
@@ -32,19 +33,36 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728745,
+        102081929,
+        85813711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gm9xpQEx8tE5lSljVraiY_36.687523_-76.008214@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892197,
-    "wof:geomhash":"19b23f9defd888ec1c780ccf4b40c3a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"059a1be951468faf6e3c915ce4bf6235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85813711,
+            "region_id":85688747,
+            "venue_id":722968339
+        }
+    ],
     "wof:id":722968339,
-    "wof:lastmodified":1472652302,
+    "wof:lastmodified":1492075342,
     "wof:name":"Professional Landscapes VA",
-    "wof:parent_id":-1,
+    "wof:parent_id":85813711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

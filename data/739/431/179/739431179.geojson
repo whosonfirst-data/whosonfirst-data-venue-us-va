@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.380546,39.020688,-77.380546,39.020688",
     "geom:latitude":39.020688,
     "geom:longitude":-77.380546,
@@ -32,7 +33,13 @@
         "terrazzo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729429,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BDaEgp6RExgFEftR2ECcN_39.020688_-77.380546@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907184,
     "wof:geomhash":"0fa24f852ad225d938c10b87d8574c46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729429,
+            "region_id":85688747,
+            "venue_id":739431179
+        }
+    ],
     "wof:id":739431179,
-    "wof:lastmodified":1472651516,
+    "wof:lastmodified":1492033124,
     "wof:name":"Iron Pony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

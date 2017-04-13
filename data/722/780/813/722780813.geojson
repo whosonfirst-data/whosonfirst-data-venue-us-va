@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.919748,36.713209,-78.919748,36.713209",
     "geom:latitude":36.713209,
     "geom:longitude":-78.919748,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m6rgZUc8o7Vnl32vzR629_36.713209_-78.919748@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888515,
-    "wof:geomhash":"2ce9a6bd1929b0dbca7b0ea907cb259b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8af1277b2efb5c1ed5bf745056df4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":722780813
+        }
+    ],
     "wof:id":722780813,
-    "wof:lastmodified":1472651842,
+    "wof:lastmodified":1492065506,
     "wof:name":"Cavalier Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

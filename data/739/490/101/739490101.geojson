@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.949365,37.309878,-79.949365,37.309878",
     "geom:latitude":37.309878,
     "geom:longitude":-79.949365,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nGHa8v8Lv2IbjTJErvLNx_37.309878_-79.949365@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908255,
-    "wof:geomhash":"4267a7abf170d28b243e7ed7d9c032bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7cfa2bae7fae13663661d357d9d3b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739490101
+        }
+    ],
     "wof:id":739490101,
-    "wof:lastmodified":1472651671,
+    "wof:lastmodified":1492040664,
     "wof:name":"Richardson Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

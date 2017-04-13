@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.527631,38.738503,-77.527631,38.738503",
     "geom:latitude":38.738503,
     "geom:longitude":-77.527631,
@@ -31,17 +32,30 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A6LFse76eFfmJt25cpjdv_38.738503_-77.527631@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888111,
-    "wof:geomhash":"1873ce4507752eea2675dd9f50d9512e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b534fcf58631acce12ca05a1d832cba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":722759351
+        }
+    ],
     "wof:id":722759351,
-    "wof:lastmodified":1472651783,
+    "wof:lastmodified":1492066613,
     "wof:name":"AIM Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

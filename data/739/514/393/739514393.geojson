@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.148821,36.629176,-82.148821,36.629176",
     "geom:latitude":36.629176,
     "geom:longitude":-82.148821,
@@ -37,7 +38,8 @@
         85633793,
         101728659,
         102084925,
-        85833377
+        85833377,
+        85853971
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461908693,
-    "wof:geomhash":"88eed005720cf9d459f15dc45bf2b8e3",
+    "wof:geomhash":"f2ec10b77be74a683829d3b5115a7d73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85833377,
             "region_id":85688747,
             "venue_id":739514393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":85853971,
+            "region_id":85688747,
+            "venue_id":739514393
         }
     ],
     "wof:id":739514393,
-    "wof:lastmodified":1472651766,
+    "wof:lastmodified":1492043478,
     "wof:name":"Blevins Tire & Recapping Co",
-    "wof:parent_id":85833377,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

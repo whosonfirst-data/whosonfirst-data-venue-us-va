@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.722222,37.281321,-76.722222,37.281321",
     "geom:latitude":37.281321,
     "geom:longitude":-76.722222,
@@ -32,17 +33,32 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728999,
+        102087299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EpAPxi4TkzpJ6KqzfWFBl_37.281321_-76.722222@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884529,
-    "wof:geomhash":"1162d86f72df9777e9744edc0dc9aa5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20dddd51ef9a1f8fd07c6a14b18d5e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087299,
+            "locality_id":101728999,
+            "region_id":85688747,
+            "venue_id":722575995
+        }
+    ],
     "wof:id":722575995,
-    "wof:lastmodified":1472651243,
+    "wof:lastmodified":1492062829,
     "wof:name":"Health Shelf The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

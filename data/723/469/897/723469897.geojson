@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.458878,37.088797,-76.458878,37.088797",
     "geom:latitude":37.088797,
     "geom:longitude":-76.458878,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EtP4ihw1K0T7XPmm3Rvpx_37.088797_-76.458878@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902317,
-    "wof:geomhash":"1de39abad149eefe70d7b0329ea09ba7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a374eea3df01ef47a474ff31e791d9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723469897
+        }
+    ],
     "wof:id":723469897,
-    "wof:lastmodified":1472652301,
+    "wof:lastmodified":1492062079,
     "wof:name":"Pet World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

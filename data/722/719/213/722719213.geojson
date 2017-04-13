@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.898675,37.356065,-79.898675,37.356065",
     "geom:latitude":37.356065,
     "geom:longitude":-79.898675,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729609,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tPkX9g0zBriSZ4UaDujVN_37.356065_-79.898675@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887328,
-    "wof:geomhash":"d4adb1af284ba3d0b191976b1b4c9a40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36bdd2160f13bc324ba7b72db7c1d774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "locality_id":101729609,
+            "region_id":85688747,
+            "venue_id":722719213
+        }
+    ],
     "wof:id":722719213,
-    "wof:lastmodified":1472651579,
+    "wof:lastmodified":1492073461,
     "wof:name":"King Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

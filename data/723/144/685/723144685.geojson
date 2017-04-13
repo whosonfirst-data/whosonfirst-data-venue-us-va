@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.486772,38.171798,-77.486772,38.171798",
     "geom:latitude":38.171798,
     "geom:longitude":-77.486772,
@@ -31,17 +32,30 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ay8jUR2DGNMk4KYCbuQEC_38.171798_-77.486772@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895989,
-    "wof:geomhash":"273dce0e6464479f2930b56a841a60a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32de0e5e12da93e785585b804b0942ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":723144685
+        }
+    ],
     "wof:id":723144685,
-    "wof:lastmodified":1472651413,
+    "wof:lastmodified":1492059889,
     "wof:name":"Lavista Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

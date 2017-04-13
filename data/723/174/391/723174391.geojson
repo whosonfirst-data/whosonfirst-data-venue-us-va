@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.123032,36.67297,-80.123032,36.67297",
     "geom:latitude":36.67297,
     "geom:longitude":-80.123032,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084893
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oSNC9Ay7Nh56Zr8EDOahe_36.672970_-80.123032@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896567,
-    "wof:geomhash":"2403636547051999c07958b9bc2707bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef4c3a419510673dfe22e354247ed03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084893,
+            "region_id":85688747,
+            "venue_id":723174391
+        }
+    ],
     "wof:id":723174391,
-    "wof:lastmodified":1472651477,
+    "wof:lastmodified":1492062030,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

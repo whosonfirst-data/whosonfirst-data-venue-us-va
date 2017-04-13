@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42104,38.86006,-77.42104,38.86006",
     "geom:latitude":38.86006,
     "geom:longitude":-77.42104,
@@ -32,17 +33,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6diyeSmXqhROAgCRGqGie0_38.860060_-77.421040@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884055,
-    "wof:geomhash":"9b0b194aa8b015d120742df09443f43f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f6a64f72f79a815de67793d4f05db5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":722552433
+        }
+    ],
     "wof:id":722552433,
-    "wof:lastmodified":1472651106,
+    "wof:lastmodified":1492070230,
     "wof:name":"Espnet Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

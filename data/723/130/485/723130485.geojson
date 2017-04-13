@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.174993,37.440479,-79.174993,37.440479",
     "geom:latitude":37.440479,
     "geom:longitude":-79.174993,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729021,
+        102083815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OVLpAhYBcxGAotGpUBbAF_37.440479_-79.174993@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895708,
-    "wof:geomhash":"384d3517c6622b67f2ee757c5d4d50fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"107fe32b9c413c763deaad22c9e371c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083815,
+            "locality_id":101729021,
+            "region_id":85688747,
+            "venue_id":723130485
+        }
+    ],
     "wof:id":723130485,
-    "wof:lastmodified":1472651386,
+    "wof:lastmodified":1492049336,
     "wof:name":"Princeton Circle West Apt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

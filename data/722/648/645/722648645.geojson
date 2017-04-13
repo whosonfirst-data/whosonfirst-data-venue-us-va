@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.552557,39.116679,-77.552557,39.116679",
     "geom:latitude":39.116679,
     "geom:longitude":-77.552557,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ntiM0AXLvvomNzy0c6qOD_39.116679_-77.552557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885996,
-    "wof:geomhash":"d3bf744b162eaa4b789d9df1055efd9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27351ee4fe12a3d9890de559d465114f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722648645
+        }
+    ],
     "wof:id":722648645,
-    "wof:lastmodified":1472651461,
+    "wof:lastmodified":1492066667,
     "wof:name":"Renaissance Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

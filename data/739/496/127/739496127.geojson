@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.105246,37.786434,-77.105246,37.786434",
     "geom:latitude":37.786434,
     "geom:longitude":-77.105246,
@@ -31,7 +32,12 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IvYGmndmgKpnZxZkstchI_37.786434_-77.105246@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908362,
     "wof:geomhash":"fd0828998f143922a9a271398683e34a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083829,
+            "region_id":85688747,
+            "venue_id":739496127
+        }
+    ],
     "wof:id":739496127,
-    "wof:lastmodified":1472651676,
+    "wof:lastmodified":1492033039,
     "wof:name":"Glubiak Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

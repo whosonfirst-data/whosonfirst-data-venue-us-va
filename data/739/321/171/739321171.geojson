@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.361066,38.835554,-77.361066,38.835554",
     "geom:latitude":38.835554,
     "geom:longitude":-77.361066,
@@ -28,7 +29,12 @@
     "sg:postcode":"22030",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F2K8Hfpi6z0ppN5ZQtlrP_38.835554_-77.361066@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905002,
     "wof:geomhash":"8d6d6445ed36329ae89bcf714f5485dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":739321171
+        }
+    ],
     "wof:id":739321171,
-    "wof:lastmodified":1472651250,
+    "wof:lastmodified":1492030718,
     "wof:name":"Improve Your Life Today",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

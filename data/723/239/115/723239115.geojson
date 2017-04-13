@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.432122,38.755132,-77.432122,38.755132",
     "geom:latitude":38.755132,
     "geom:longitude":-77.432122,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729265,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Y7WicYM7V2guHtgAoV0QU_38.755132_-77.432122@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897895,
-    "wof:geomhash":"d3455fb4ee7d3ff5e745248e9a7fb5e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1c0441887f96ae47209dc5e8e7d2817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729265,
+            "region_id":85688747,
+            "venue_id":723239115
+        }
+    ],
     "wof:id":723239115,
-    "wof:lastmodified":1472651660,
+    "wof:lastmodified":1492048239,
     "wof:name":"Signal Concrete Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

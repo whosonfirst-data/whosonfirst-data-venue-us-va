@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.276189,38.758431,-77.276189,38.758431",
     "geom:latitude":38.758431,
     "geom:longitude":-77.276189,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729731,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XRIxowSHD4TdrianQSsUQ_38.758431_-77.276189@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887516,
-    "wof:geomhash":"258a409f5c7a89b6907a3f5556e66a2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b4d9bee55df95693a8f609f99821484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729731,
+            "region_id":85688747,
+            "venue_id":722729387
+        }
+    ],
     "wof:id":722729387,
-    "wof:lastmodified":1472651635,
+    "wof:lastmodified":1492065009,
     "wof:name":"Property Management Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

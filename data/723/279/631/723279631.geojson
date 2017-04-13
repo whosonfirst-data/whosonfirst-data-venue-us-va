@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.632806,37.169372,-79.632806,37.169372",
     "geom:latitude":37.169372,
     "geom:longitude":-79.632806,
@@ -32,17 +33,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085979
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lVxuUt2WnJgoYiRHpoJ0E_37.169372_-79.632806@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898672,
-    "wof:geomhash":"2510cae00d171749ebd5b6df89964020",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3259dd67ca0177a016ca21cd44825c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085979,
+            "region_id":85688747,
+            "venue_id":723279631
+        }
+    ],
     "wof:id":723279631,
-    "wof:lastmodified":1472651799,
+    "wof:lastmodified":1492055967,
     "wof:name":"Moneta Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

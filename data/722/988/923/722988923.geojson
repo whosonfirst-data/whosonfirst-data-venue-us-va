@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.6503,37.78094,-75.6503,37.78094",
     "geom:latitude":37.78094,
     "geom:longitude":-75.6503,
@@ -31,17 +32,26 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546533
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gDwcc77SwQjsXjCyU6Air_37.780940_-75.650300@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461892671,
-    "wof:geomhash":"0bea37b3ee248b6a0cc5f9d1da48ca9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7dbaeeddda5678d01db0aea96fd434a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546533,
+            "venue_id":722988923
+        }
+    ],
     "wof:id":722988923,
-    "wof:lastmodified":1472652358,
+    "wof:lastmodified":1492070336,
     "wof:name":"CFE Equipment Corp",
     "wof:parent_id":420546533,
     "wof:placetype":"venue",

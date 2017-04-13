@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.144005,37.18523,-77.144005,37.18523",
     "geom:latitude":37.18523,
     "geom:longitude":-77.144005,
@@ -32,17 +33,30 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LPCJaPTLxP298idlQio38_37.185230_-77.144005@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893766,
-    "wof:geomhash":"a15abbb2151dcf760404a78cf4f14dfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62e4a893cc69ae280048ce9420bf3c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":723037771
+        }
+    ],
     "wof:id":723037771,
-    "wof:lastmodified":1472651172,
+    "wof:lastmodified":1492061113,
     "wof:name":"Newville Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

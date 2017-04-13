@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.790905,37.467246,-77.790905,37.467246",
     "geom:latitude":37.467246,
     "geom:longitude":-77.790905,
@@ -32,7 +33,12 @@
         "illustration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HNOGmAQ6U66n27QX7zYOP_37.467246_-77.790905@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908488,
     "wof:geomhash":"ab8bcc36453f342a3e993c663b9cab67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739503321
+        }
+    ],
     "wof:id":739503321,
-    "wof:lastmodified":1472651770,
+    "wof:lastmodified":1492032329,
     "wof:name":"Jennifer Bingham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

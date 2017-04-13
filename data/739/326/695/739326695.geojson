@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.581659,37.646467,-77.581659,37.646467",
     "geom:latitude":37.646467,
     "geom:longitude":-77.581659,
@@ -31,17 +32,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729381,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I1PikBbwfY5jKVyvYiAdV_37.646467_-77.581659@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905114,
-    "wof:geomhash":"6cdaac20e87a642354c675daf99f65dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8442324d998d5571e6059d1a74893eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729381,
+            "region_id":85688747,
+            "venue_id":739326695
+        }
+    ],
     "wof:id":739326695,
-    "wof:lastmodified":1472651263,
+    "wof:lastmodified":1492047174,
     "wof:name":"JP Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.591346,37.500176,-77.591346,37.500176",
     "geom:latitude":37.500176,
     "geom:longitude":-77.591346,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XOANGxxTArq96lnPTKYUI_37.500176_-77.591346@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461909284,
     "wof:geomhash":"539f9426e7d0f29f4494a49524472295",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739546079
+        }
+    ],
     "wof:id":739546079,
-    "wof:lastmodified":1472651855,
+    "wof:lastmodified":1492031581,
     "wof:name":"P & K Plumbing Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

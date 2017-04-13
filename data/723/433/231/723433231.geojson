@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.667092,38.06218,-76.667092,38.06218",
     "geom:latitude":38.06218,
     "geom:longitude":-76.667092,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6380NEpXjJwM2QAj60dYNy_38.062180_-76.667092@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901625,
-    "wof:geomhash":"83b55ae3b83bbc9723ead937892d05ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af5ce9ad32525c88fb337bb22ca4aa14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":723433231
+        }
+    ],
     "wof:id":723433231,
-    "wof:lastmodified":1472652225,
+    "wof:lastmodified":1492048577,
     "wof:name":"Potomac Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

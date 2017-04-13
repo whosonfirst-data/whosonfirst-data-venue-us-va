@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.717106,37.279244,-76.717106,37.279244",
     "geom:latitude":37.279244,
     "geom:longitude":-76.717106,
@@ -28,7 +29,13 @@
     "sg:postcode":"23185",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728999,
+        102087299
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VRl09cm6eYrHipgZ7oLfC_37.279244_-76.717106@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461905730,
     "wof:geomhash":"afc24bb8b0fcc60dd72bd3d45a3664d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087299,
+            "locality_id":101728999,
+            "region_id":85688747,
+            "venue_id":739355641
+        }
+    ],
     "wof:id":739355641,
-    "wof:lastmodified":1472651354,
+    "wof:lastmodified":1492032367,
     "wof:name":"Sheeran & Assoc Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

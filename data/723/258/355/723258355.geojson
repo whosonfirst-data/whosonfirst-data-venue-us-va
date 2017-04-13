@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.48915,38.439428,-77.48915,38.439428",
     "geom:latitude":38.439428,
     "geom:longitude":-77.48915,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547281
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ILmVsM84qs2r2peTgBQwq_38.439428_-77.489150@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898278,
-    "wof:geomhash":"4ba842407e31308b9797a5035f1225f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a871811b27ad6dd4a1eb855cface241c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547281,
+            "venue_id":723258355
+        }
+    ],
     "wof:id":723258355,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492053074,
     "wof:name":"Aquia Terrace Apartments",
     "wof:parent_id":420547281,
     "wof:placetype":"venue",

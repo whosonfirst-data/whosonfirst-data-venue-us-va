@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.076811,37.295377,-80.076811,37.295377",
     "geom:latitude":37.295377,
     "geom:longitude":-80.076811,
@@ -33,17 +34,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JFdFSxWud1za24uKelhDa_37.295377_-80.076811@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896456,
-    "wof:geomhash":"d0c37fd033bced79d6a64947d72c289b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55f28e47c282d48f692e2f4a339d49cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723168823
+        }
+    ],
     "wof:id":723168823,
-    "wof:lastmodified":1472651492,
+    "wof:lastmodified":1492059682,
     "wof:name":"Pool Table Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

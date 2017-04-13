@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.347665,38.486637,-77.347665,38.486637",
     "geom:latitude":38.486637,
     "geom:longitude":-77.347665,
@@ -31,17 +32,26 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pYHhafXBmbTzQiKidD9sw_38.486637_-77.347665@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901246,
-    "wof:geomhash":"d50688e08a295684b1aeca63e291f71f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d81fb5f09cdb8c7ad217b92ff859d1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":723413983
+        }
+    ],
     "wof:id":723413983,
-    "wof:lastmodified":1472652202,
+    "wof:lastmodified":1492059024,
     "wof:name":"Apple Appliance Svc",
     "wof:parent_id":420547123,
     "wof:placetype":"venue",

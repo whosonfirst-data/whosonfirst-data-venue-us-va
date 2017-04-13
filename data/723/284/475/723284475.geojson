@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.899756,37.923786,-77.899756,37.923786",
     "geom:latitude":37.923786,
     "geom:longitude":-77.899756,
@@ -32,17 +33,30 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084949
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u5N5Tp7Z7PPhMIZzv5FzP_37.923786_-77.899756@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898761,
-    "wof:geomhash":"0d447d050d0a80a040b0d92d3a47ea0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df86fd11db42068980cf900d9cba1e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084949,
+            "region_id":85688747,
+            "venue_id":723284475
+        }
+    ],
     "wof:id":723284475,
-    "wof:lastmodified":1472651782,
+    "wof:lastmodified":1492048899,
     "wof:name":"BBF Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

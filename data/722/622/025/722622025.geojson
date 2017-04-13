@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.055763,36.750704,-76.055763,36.750704",
     "geom:latitude":36.750704,
     "geom:longitude":-76.055763,
@@ -40,7 +41,8 @@
         85633793,
         101728745,
         102081929,
-        85872035
+        85872035,
+        85843145
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461885428,
-    "wof:geomhash":"264b74363b3d6ff9d058bc2a4278225c",
+    "wof:geomhash":"e9ebb3f6b49b86445447091b9a3c347d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,21 @@
             "neighbourhood_id":85872035,
             "region_id":85688747,
             "venue_id":722622025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85843145,
+            "region_id":85688747,
+            "venue_id":722622025
         }
     ],
     "wof:id":722622025,
-    "wof:lastmodified":1472651387,
+    "wof:lastmodified":1492069777,
     "wof:name":"City Auditor",
-    "wof:parent_id":85872035,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

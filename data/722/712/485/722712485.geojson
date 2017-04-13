@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429039,38.310075,-77.429039,38.310075",
     "geom:latitude":38.310075,
     "geom:longitude":-77.429039,
@@ -31,17 +32,26 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zqq2L4LIGur9I9xGMCkPC_38.310075_-77.429039@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887199,
-    "wof:geomhash":"b14e9bb5c507bf20a36820fdb524bc51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d182649665ac79b00ccaf3ef9a6db99a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547241,
+            "venue_id":722712485
+        }
+    ],
     "wof:id":722712485,
-    "wof:lastmodified":1472651577,
+    "wof:lastmodified":1492068669,
     "wof:name":"Route 218 Mini Storage",
     "wof:parent_id":420547241,
     "wof:placetype":"venue",

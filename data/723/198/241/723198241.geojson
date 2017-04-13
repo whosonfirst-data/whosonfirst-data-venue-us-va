@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.559741,36.664576,-76.559741,36.664576",
     "geom:latitude":36.664576,
     "geom:longitude":-76.559741,
@@ -31,17 +32,32 @@
         "database"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728729,
+        102087269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26LLnrMku31EmNLFZDEZdP_36.664576_-76.559741@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897044,
-    "wof:geomhash":"6a72ca1a701bdafc6ab426d74ba75fd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0bab1a373aada7ed6862362dafbf454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087269,
+            "locality_id":101728729,
+            "region_id":85688747,
+            "venue_id":723198241
+        }
+    ],
     "wof:id":723198241,
-    "wof:lastmodified":1472651552,
+    "wof:lastmodified":1492059574,
     "wof:name":"Paschal Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

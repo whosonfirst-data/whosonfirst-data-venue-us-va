@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.272569,36.918598,-81.272569,36.918598",
     "geom:latitude":36.918598,
     "geom:longitude":-81.272569,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I6w4cRJyKPm1Mc5Zi0Uux_36.918598_-81.272569@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886774,
-    "wof:geomhash":"ba84137aee3790fd342d2a850e8b764e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa310ed18a50a281e9dd4a722fc88d65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":722689537
+        }
+    ],
     "wof:id":722689537,
-    "wof:lastmodified":1472651544,
+    "wof:lastmodified":1492065150,
     "wof:name":"East Tennessee Natural Gas Co",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.918337,36.71537,-81.918337,36.71537",
     "geom:latitude":36.71537,
     "geom:longitude":-81.918337,
@@ -34,10 +35,11 @@
     "wof:belongsto":[
         85688747,
         85633793,
-        101728829,
+        85847417,
         102087301,
-        85835297,
-        85847417
+        102191575,
+        101728829,
+        85835297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +47,29 @@
     },
     "wof:country":"US",
     "wof:created":1461885131,
-    "wof:geomhash":"263783992055ae7301c9e88199b4d9ca",
+    "wof:geomhash":"6baba9867b340ed13823481c26f59afa",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087301,
-            "locality_id":101728829,
-            "neighbourhood_id":85835297,
-            "region_id":85688747,
-            "venue_id":722607845
-        },
         {
             "country_id":85633793,
             "county_id":102087301,
             "neighbourhood_id":85847417,
             "region_id":85688747,
             "venue_id":722607845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087301,
+            "locality_id":101728829,
+            "neighbourhood_id":85835297,
+            "region_id":85688747,
+            "venue_id":722607845
         }
     ],
     "wof:id":722607845,
-    "wof:lastmodified":1472651312,
+    "wof:lastmodified":1492075043,
     "wof:name":"Gunter Farms L L C",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

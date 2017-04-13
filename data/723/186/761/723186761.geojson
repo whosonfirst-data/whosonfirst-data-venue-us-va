@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.515045,37.648561,-77.515045,37.648561",
     "geom:latitude":37.648561,
     "geom:longitude":-77.515045,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729363,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YTvtlnlNwDqwK8cZVcjdw_37.648561_-77.515045@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896820,
-    "wof:geomhash":"79e7798fb82d8a643d650f259dad9023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"033cf8db0dc14966b8fc0ea14f0f4586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729363,
+            "region_id":85688747,
+            "venue_id":723186761
+        }
+    ],
     "wof:id":723186761,
-    "wof:lastmodified":1472651540,
+    "wof:lastmodified":1492058771,
     "wof:name":"JMJ Crosses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

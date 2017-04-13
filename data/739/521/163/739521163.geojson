@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.383994,38.235727,-78.383994,38.235727",
     "geom:latitude":38.235727,
     "geom:longitude":-78.383994,
@@ -31,7 +32,13 @@
         "alteration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729591,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OGvsrFue2LMQihxoDvbjG_38.235727_-78.383994@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461908813,
     "wof:geomhash":"c09a3ec0190bc54f7cb927d0e671e2b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "locality_id":101729591,
+            "region_id":85688747,
+            "venue_id":739521163
+        }
+    ],
     "wof:id":739521163,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492033268,
     "wof:name":"Stitches To Fit Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

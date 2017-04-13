@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.53248,37.605155,-77.53248,37.605155",
     "geom:latitude":37.605155,
     "geom:longitude":-77.53248,
@@ -32,17 +33,30 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZplxZYqJm3BnAaFCSwrEs_37.605155_-77.532480@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908677,
-    "wof:geomhash":"607256d79ccee6d90d335c9a8c177b37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15f27bca12e9f780b9d91953f82827e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739513789
+        }
+    ],
     "wof:id":739513789,
-    "wof:lastmodified":1472651812,
+    "wof:lastmodified":1492042646,
     "wof:name":"Westport Health Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

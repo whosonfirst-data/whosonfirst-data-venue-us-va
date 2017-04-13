@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.459885,37.640046,-77.459885,37.640046",
     "geom:latitude":37.640046,
     "geom:longitude":-77.459885,
@@ -39,17 +40,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729363,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zPj503qRciqLPAM9tOzmr_37.640046_-77.459885@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907525,
-    "wof:geomhash":"5951c19870442cc1dab6e42acb6f5907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f61b0360b6a601dc89b506ad9c983f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729363,
+            "region_id":85688747,
+            "venue_id":739449283
+        }
+    ],
     "wof:id":739449283,
-    "wof:lastmodified":1472651562,
+    "wof:lastmodified":1492045085,
     "wof:name":"Red Jenkins Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

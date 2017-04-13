@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.107557,38.933493,-78.107557,38.933493",
     "geom:latitude":38.933493,
     "geom:longitude":-78.107557,
@@ -31,19 +32,34 @@
         "camp"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        85633793,
+        101728731,
+        102085975,
+        85835861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dTeIP63m3cAnBmeCCCGAq_38.933493_-78.107557@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885862,
-    "wof:geomhash":"f24f8e45ef7b3bd47d4f9dbc32762585",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62289d26339d9165326c594a7f674638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085975,
+            "locality_id":101728731,
+            "neighbourhood_id":85835861,
+            "region_id":85688747,
+            "venue_id":722641047
+        }
+    ],
     "wof:id":722641047,
-    "wof:lastmodified":1472651395,
+    "wof:lastmodified":1492069329,
     "wof:name":"Camp Wamava Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

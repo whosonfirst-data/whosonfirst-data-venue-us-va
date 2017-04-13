@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.935176,37.270386,-79.935176,37.270386",
     "geom:latitude":37.270386,
     "geom:longitude":-79.935176,
@@ -32,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bi2QvZZ76zMhOnbylVXmz_37.270386_-79.935176@1303262552"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913307,
     "wof:geomhash":"17f65316d9d441917a8029bf15493021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739735279
+        }
+    ],
     "wof:id":739735279,
-    "wof:lastmodified":1472652247,
+    "wof:lastmodified":1492032049,
     "wof:name":"Thrift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

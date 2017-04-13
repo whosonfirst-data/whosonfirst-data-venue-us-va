@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.048076,36.674738,-82.048076,36.674738",
     "geom:latitude":36.674738,
     "geom:longitude":-82.048076,
@@ -31,7 +32,10 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZvgvruYJbKfIDZNNbU3NP_36.674738_-82.048076@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907389,
     "wof:geomhash":"ae4c7047978ca5740fb56084648b456b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739442159
+        }
+    ],
     "wof:id":739442159,
-    "wof:lastmodified":1472651552,
+    "wof:lastmodified":1492030153,
     "wof:name":"R & R Autcioneers & Realty Inc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

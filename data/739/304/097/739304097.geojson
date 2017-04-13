@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.942853,37.440534,-79.942853,37.440534",
     "geom:latitude":37.440534,
     "geom:longitude":-79.942853,
@@ -31,17 +32,30 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2db959unkXdkALagUMwZ17_37.440534_-79.942853@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904656,
-    "wof:geomhash":"336b604a66afcb32cb0725c7c0c2ad99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ad4fd85632869b7bc3480259421a2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":739304097
+        }
+    ],
     "wof:id":739304097,
-    "wof:lastmodified":1472651193,
+    "wof:lastmodified":1492041004,
     "wof:name":"BP Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

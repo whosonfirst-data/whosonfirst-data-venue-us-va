@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.492348,38.26249,-77.492348,38.26249",
     "geom:latitude":38.26249,
     "geom:longitude":-77.492348,
@@ -28,7 +29,12 @@
     "sg:postcode":"22408",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102086727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lfswO0V9IOzuHbzDkwdCE_38.262490_-77.492348@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461908478,
     "wof:geomhash":"4c17f9909bfbd7d47882fe05d3b233c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086727,
+            "region_id":85688747,
+            "venue_id":739502735
+        }
+    ],
     "wof:id":739502735,
-    "wof:lastmodified":1472651713,
+    "wof:lastmodified":1492029584,
     "wof:name":"Cost Containment Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

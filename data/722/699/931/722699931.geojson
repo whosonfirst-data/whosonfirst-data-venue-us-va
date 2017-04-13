@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.491567,37.568238,-77.491567,37.568238",
     "geom:latitude":37.568238,
     "geom:longitude":-77.491567,
@@ -37,7 +38,8 @@
         85633793,
         101728675,
         102085959,
-        85880281
+        85880281,
+        85880293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461886966,
-    "wof:geomhash":"5b9c3d2711cfa30854164650133aac01",
+    "wof:geomhash":"21f386f888d1c313becbd3a8b35c3a97",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":85880281,
             "region_id":85688747,
             "venue_id":722699931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "neighbourhood_id":85880293,
+            "region_id":85688747,
+            "venue_id":722699931
         }
     ],
     "wof:id":722699931,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492069687,
     "wof:name":"Hines Family LLC",
-    "wof:parent_id":85880281,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

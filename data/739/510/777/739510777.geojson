@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.394737,38.31062,-77.394737,38.31062",
     "geom:latitude":38.31062,
     "geom:longitude":-77.394737,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OjENP8honSwDtTLoskrmw_38.310620_-77.394737@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908623,
-    "wof:geomhash":"b575d2d9f2202b31b072bc6af9364a4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3ab3448142f5cb111eab6b62766869a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":739510777
+        }
+    ],
     "wof:id":739510777,
-    "wof:lastmodified":1472651831,
+    "wof:lastmodified":1492043387,
     "wof:name":"Caudill Construction Company",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

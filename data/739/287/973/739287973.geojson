@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.178682,38.854683,-77.178682,38.854683",
     "geom:latitude":38.854683,
     "geom:longitude":-77.178682,
@@ -32,9 +33,12 @@
         85688747,
         102191575,
         85633793,
-        101729759,
+        101729723,
         102084863,
-        85805665
+        85853389,
+        101729759,
+        85805665,
+        420546677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,8 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1461904331,
-    "wof:geomhash":"5c56e5c92e831a47533c3604076bf2ac",
+    "wof:geomhash":"8d0763632c1bb98052ae7f50fccecebb",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729723,
+            "neighbourhood_id":85853389,
+            "region_id":85688747,
+            "venue_id":739287973
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -52,12 +65,21 @@
             "neighbourhood_id":85805665,
             "region_id":85688747,
             "venue_id":739287973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729759,
+            "neighbourhood_id":420546677,
+            "region_id":85688747,
+            "venue_id":739287973
         }
     ],
     "wof:id":739287973,
-    "wof:lastmodified":1472651178,
+    "wof:lastmodified":1492046284,
     "wof:name":"Cheerful Treasures",
-    "wof:parent_id":85805665,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

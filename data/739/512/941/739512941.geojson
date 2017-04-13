@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.596951,37.499931,-77.596951,37.499931",
     "geom:latitude":37.499931,
     "geom:longitude":-77.596951,
@@ -33,7 +34,12 @@
     ],
     "sg:website":"www.thecarillongroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mhV7OI1RBV9HQ7Bq7mDHC_37.499931_-77.596951@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461908663,
     "wof:geomhash":"f66caf6024139e532ab074c65a84d73b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739512941
+        }
+    ],
     "wof:id":739512941,
-    "wof:lastmodified":1472651848,
+    "wof:lastmodified":1492031349,
     "wof:name":"Carillon Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

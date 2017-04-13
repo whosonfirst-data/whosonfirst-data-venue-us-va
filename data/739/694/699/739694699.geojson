@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.410347,38.45734,-77.410347,38.45734",
     "geom:latitude":38.45734,
     "geom:longitude":-77.410347,
@@ -39,7 +40,10 @@
         "removing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NY3ALgOKoWlS3vcCJBpYj_38.457340_-77.410347@1303262547"
@@ -47,9 +51,15 @@
     "wof:country":"US",
     "wof:created":1461912432,
     "wof:geomhash":"6bef9d598983b40f3c3107af3efc2125",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":739694699
+        }
+    ],
     "wof:id":739694699,
-    "wof:lastmodified":1472652195,
+    "wof:lastmodified":1492030244,
     "wof:name":"Triple J2",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

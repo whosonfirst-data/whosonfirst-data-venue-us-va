@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.226742,38.780535,-77.226742,38.780535",
     "geom:latitude":38.780535,
     "geom:longitude":-77.226742,
@@ -39,7 +40,8 @@
         85633793,
         101729795,
         102084863,
-        85809469
+        85809469,
+        85894027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893316,
-    "wof:geomhash":"84e9c2070c25515b0ae130d7738282c9",
+    "wof:geomhash":"638b9cc44b608481bfae2e445ff97f10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,21 @@
             "neighbourhood_id":85809469,
             "region_id":85688747,
             "venue_id":723017775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729795,
+            "neighbourhood_id":85894027,
+            "region_id":85688747,
+            "venue_id":723017775
         }
     ],
     "wof:id":723017775,
-    "wof:lastmodified":1472651127,
+    "wof:lastmodified":1492050733,
     "wof:name":"Professional Carpet Cleaning",
-    "wof:parent_id":85809469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

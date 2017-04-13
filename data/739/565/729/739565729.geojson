@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.19342,37.187056,-78.19342,37.187056",
     "geom:latitude":37.187056,
     "geom:longitude":-78.19342,
@@ -25,7 +26,13 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728531,
+        102087251
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nzkaVvWWRgnEis1PCV5yW_37.187056_-78.193420@1294252573"
@@ -33,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1461909677,
     "wof:geomhash":"bda317af22807dda30032804ab581444",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087251,
+            "locality_id":101728531,
+            "region_id":85688747,
+            "venue_id":739565729
+        }
+    ],
     "wof:id":739565729,
-    "wof:lastmodified":1472651902,
+    "wof:lastmodified":1492032765,
     "wof:name":"Roy C Jenkins Propane Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

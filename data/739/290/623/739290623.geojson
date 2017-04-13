@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.202835,38.280001,-77.202835,38.280001",
     "geom:latitude":38.280001,
     "geom:longitude":-77.202835,
@@ -34,7 +35,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729067,
+        102084959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Dv2Z6xjuEcoEdDs7WEoxh_38.280001_-77.202835@1294252573"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461904382,
     "wof:geomhash":"4281efc7a3f0423c08e08e35f21bae43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084959,
+            "locality_id":101729067,
+            "region_id":85688747,
+            "venue_id":739290623
+        }
+    ],
     "wof:id":739290623,
-    "wof:lastmodified":1472651201,
+    "wof:lastmodified":1492032789,
     "wof:name":"Phillips Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

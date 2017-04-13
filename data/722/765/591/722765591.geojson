@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.573541,37.555762,-76.573541,37.555762",
     "geom:latitude":37.555762,
     "geom:longitude":-76.573541,
@@ -33,17 +34,30 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NZHypeMzeSgHMg34XBXvi_37.555762_-76.573541@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888221,
-    "wof:geomhash":"2ad3371023a7c49aa7057ffce36e7534",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83b1ab7386ee7ed1538509e1e7bea573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "region_id":85688747,
+            "venue_id":722765591
+        }
+    ],
     "wof:id":722765591,
-    "wof:lastmodified":1472651792,
+    "wof:lastmodified":1492066266,
     "wof:name":"Pure Water Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

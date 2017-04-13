@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.610393,37.502441,-77.610393,37.502441",
     "geom:latitude":37.502441,
     "geom:longitude":-77.610393,
@@ -31,7 +32,12 @@
         "sandblasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UB3XmYJN5ybohxSgwW3Ia_37.502441_-77.610393@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907450,
     "wof:geomhash":"70eea82ea943c82a5c54a7cffdf57417",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739444749
+        }
+    ],
     "wof:id":739444749,
-    "wof:lastmodified":1472651589,
+    "wof:lastmodified":1492031996,
     "wof:name":"SMC Industrial Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.164507,39.179952,-78.164507,39.179952",
     "geom:latitude":39.179952,
     "geom:longitude":-78.164507,
@@ -36,17 +37,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729033,
+        102086733
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xy0rNsyz6qUF8ZROrJ5nZ_39.179952_-78.164507@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903338,
-    "wof:geomhash":"039c9528f066a9e978cc10cfa933fec6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eece72da732033197f0cb25735a58dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086733,
+            "locality_id":101729033,
+            "region_id":85688747,
+            "venue_id":723515451
+        }
+    ],
     "wof:id":723515451,
-    "wof:lastmodified":1472652372,
+    "wof:lastmodified":1492056079,
     "wof:name":"Ruth's Tea Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

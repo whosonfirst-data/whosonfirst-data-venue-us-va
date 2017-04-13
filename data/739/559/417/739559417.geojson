@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.404712,37.231928,-77.404712,37.231928",
     "geom:latitude":37.231928,
     "geom:longitude":-77.404712,
@@ -32,17 +33,32 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lcQMKCd5z6a3jIFwVcgBF_37.232396_-77.404916@1293134755"
     },
     "wof:country":"US",
     "wof:created":1461909544,
-    "wof:geomhash":"19fe37058bab2c0b29afe8382be9b071",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d01fe1e05404be8edb3b9412ea0b17d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":739559417
+        }
+    ],
     "wof:id":739559417,
-    "wof:lastmodified":1472651883,
+    "wof:lastmodified":1492046487,
     "wof:name":"Java Mio Coffeehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

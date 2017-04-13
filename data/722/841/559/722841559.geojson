@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.378617,38.392747,-77.378617,38.392747",
     "geom:latitude":38.392747,
     "geom:longitude":-77.378617,
@@ -32,17 +33,26 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547159
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Uw9v5j4dGae7iG8yYSMLp_38.392747_-77.378617@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889659,
-    "wof:geomhash":"2c87beacdb6f2799af6d53991384c919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"560cdac56b306b3296075e13fb27355d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547159,
+            "venue_id":722841559
+        }
+    ],
     "wof:id":722841559,
-    "wof:lastmodified":1472651964,
+    "wof:lastmodified":1492068808,
     "wof:name":"Brooke Nursing Ctr",
     "wof:parent_id":420547159,
     "wof:placetype":"venue",

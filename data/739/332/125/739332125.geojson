@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42699,38.685359,-77.42699,38.685359",
     "geom:latitude":38.685359,
     "geom:longitude":-77.42699,
@@ -28,7 +29,12 @@
     "sg:postcode":"20112",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oa3AILUMwZluZDTdnw1DZ_38.685359_-77.426990@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905219,
     "wof:geomhash":"de9f1e249cab7fdf04dd38ed53fdaa91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739332125
+        }
+    ],
     "wof:id":739332125,
-    "wof:lastmodified":1472651266,
+    "wof:lastmodified":1492030803,
     "wof:name":"Jkk & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.285755,38.912735,-77.285755,38.912735",
     "geom:latitude":38.912735,
     "geom:longitude":-77.285755,
@@ -37,7 +38,9 @@
         85633793,
         101729035,
         102084863,
-        85839307
+        85839307,
+        101729797,
+        85826491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461893903,
-    "wof:geomhash":"c14b5a1a5e75ff95f99eb604798a1d85",
+    "wof:geomhash":"86ba69aae2f736c447ff6933f913664a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,21 @@
             "neighbourhood_id":85839307,
             "region_id":85688747,
             "venue_id":723044363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729797,
+            "neighbourhood_id":85826491,
+            "region_id":85688747,
+            "venue_id":723044363
         }
     ],
     "wof:id":723044363,
-    "wof:lastmodified":1472651165,
+    "wof:lastmodified":1492056195,
     "wof:name":"Chantilly Freight Corp",
-    "wof:parent_id":85839307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.373897,37.059102,-80.373897,37.059102",
     "geom:latitude":37.059102,
     "geom:longitude":-80.373897,
@@ -31,7 +32,10 @@
         "grocers-specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BrdOhQD9bfMftBTMpiFqc_37.059039_-80.373838@1293134755"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461909775,
     "wof:geomhash":"64a5326724affc5fc3add71e99682967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547013,
+            "venue_id":739569755
+        }
+    ],
     "wof:id":739569755,
-    "wof:lastmodified":1472651910,
+    "wof:lastmodified":1492030902,
     "wof:name":"Pilot Mountain Grocery",
     "wof:parent_id":420547013,
     "wof:placetype":"venue",

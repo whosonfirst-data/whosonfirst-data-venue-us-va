@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.401619,37.226558,-77.401619,37.226558",
     "geom:latitude":37.226558,
     "geom:longitude":-77.401619,
@@ -32,17 +33,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728959,
+        102085951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D5fQmq48eEASHfMHruTGQ_37.226558_-77.401619@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899062,
-    "wof:geomhash":"df706fcfb0350df94a7968205b68efaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd907d7c662daf4ab0ff10ee863aec37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085951,
+            "locality_id":101728959,
+            "region_id":85688747,
+            "venue_id":723299961
+        }
+    ],
     "wof:id":723299961,
-    "wof:lastmodified":1472651830,
+    "wof:lastmodified":1492051038,
     "wof:name":"Interim Personnel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

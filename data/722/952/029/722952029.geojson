@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.411159,38.467611,-77.411159,38.467611",
     "geom:latitude":38.467611,
     "geom:longitude":-77.411159,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cZGM30o2yWcKJsqMJyjBp_38.467611_-77.411159@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891863,
-    "wof:geomhash":"f0d9961c6f4b68c650ed3ff3b8ed3752",
-    "wof:hierarchy":[],
+    "wof:geomhash":"306fcbf512af054de7870dc732974adc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547111,
+            "venue_id":722952029
+        }
+    ],
     "wof:id":722952029,
-    "wof:lastmodified":1472652230,
+    "wof:lastmodified":1492067660,
     "wof:name":"New Community Church",
     "wof:parent_id":420547111,
     "wof:placetype":"venue",

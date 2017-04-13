@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.948085,37.250848,-79.948085,37.250848",
     "geom:latitude":37.250848,
     "geom:longitude":-79.948085,
@@ -33,17 +34,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o1Kxvtd3pHMeC5E9wsbX2_37.250848_-79.948085@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905652,
-    "wof:geomhash":"836992a855eee13c95f0eef0d5bcd2dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a90f5cc6112e5efaef6133a47d4354d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739352011
+        }
+    ],
     "wof:id":739352011,
-    "wof:lastmodified":1472651322,
+    "wof:lastmodified":1492046005,
     "wof:name":"Lewis J Singer MD PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

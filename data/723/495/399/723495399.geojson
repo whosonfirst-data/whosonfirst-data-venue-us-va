@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.483674,38.83584,-77.483674,38.83584",
     "geom:latitude":38.83584,
     "geom:longitude":-77.483674,
@@ -32,17 +33,30 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MsWw7HdorT3whufcIy1sV_38.835840_-77.483674@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902844,
-    "wof:geomhash":"5240600030dcb6470a42b65c967dc948",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c03404bc6916bae73c62dda92522447c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "region_id":85688747,
+            "venue_id":723495399
+        }
+    ],
     "wof:id":723495399,
-    "wof:lastmodified":1472652338,
+    "wof:lastmodified":1492053255,
     "wof:name":"Carteret Mortgage Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

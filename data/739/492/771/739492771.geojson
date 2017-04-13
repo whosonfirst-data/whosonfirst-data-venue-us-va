@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.44088,37.631575,-77.44088,37.631575",
     "geom:latitude":37.631575,
     "geom:longitude":-77.44088,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729357,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YvJFDH2JmKuWcUeYd9hdM_37.631575_-77.440880@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908300,
-    "wof:geomhash":"04d56e6a72ca09de0211501e5ef134d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"827b0e2b31b2619b16b182fca2024300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729357,
+            "region_id":85688747,
+            "venue_id":739492771
+        }
+    ],
     "wof:id":739492771,
-    "wof:lastmodified":1472651707,
+    "wof:lastmodified":1492045960,
     "wof:name":"Honey Hunter Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

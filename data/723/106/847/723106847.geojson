@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.168481,36.865096,-76.168481,36.865096",
     "geom:latitude":36.865096,
     "geom:longitude":-76.168481,
@@ -37,7 +38,8 @@
         85633793,
         101728745,
         102081929,
-        420548401
+        420548401,
+        85830019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895250,
-    "wof:geomhash":"328e7690dd66d3304a02c9883580ceb9",
+    "wof:geomhash":"ff71b9e1f4952d87e68d6ef5e84e79ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,21 @@
             "neighbourhood_id":420548401,
             "region_id":85688747,
             "venue_id":723106847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85830019,
+            "region_id":85688747,
+            "venue_id":723106847
         }
     ],
     "wof:id":723106847,
-    "wof:lastmodified":1472651318,
+    "wof:lastmodified":1492060013,
     "wof:name":"Allied Home Mrtg Capitl Corp",
-    "wof:parent_id":420548401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

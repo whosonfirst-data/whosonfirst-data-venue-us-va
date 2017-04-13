@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475806,39.077957,-77.475806,39.077957",
     "geom:latitude":39.077957,
     "geom:longitude":-77.475806,
@@ -32,7 +33,13 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729445,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2baXDIMbBF1zqfJKrQOAZj_39.077957_-77.475806@1303262497"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461910738,
     "wof:geomhash":"4aa78ef544faabf768179cfddd10d7da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729445,
+            "region_id":85688747,
+            "venue_id":739616147
+        }
+    ],
     "wof:id":739616147,
-    "wof:lastmodified":1472651984,
+    "wof:lastmodified":1492029669,
     "wof:name":"Nguyen Jane Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

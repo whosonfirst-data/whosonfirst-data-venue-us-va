@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.039146,37.291369,-80.039146,37.291369",
     "geom:latitude":37.291369,
     "geom:longitude":-80.039146,
@@ -31,17 +32,32 @@
         "rehabilitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wMfNzy4Qo4gCgA6f2MUJG_37.291369_-80.039146@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904842,
-    "wof:geomhash":"633189949b5abd57f0f13637a545fc49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b399876c6b22bc859ac15f41f04d5694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":739313669
+        }
+    ],
     "wof:id":739313669,
-    "wof:lastmodified":1472651236,
+    "wof:lastmodified":1492041970,
     "wof:name":"Outpatient Rehabilitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

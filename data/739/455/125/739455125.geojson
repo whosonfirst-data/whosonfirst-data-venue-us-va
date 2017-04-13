@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.449694,38.365656,-78.449694,38.365656",
     "geom:latitude":38.365656,
     "geom:longitude":-78.449694,
@@ -31,7 +32,12 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083827
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K3PSc7srCRv3WZnhLYn1i_38.365656_-78.449694@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461907630,
     "wof:geomhash":"1a73bf4d3d84127844648d4e0d990b0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083827,
+            "region_id":85688747,
+            "venue_id":739455125
+        }
+    ],
     "wof:id":739455125,
-    "wof:lastmodified":1472651555,
+    "wof:lastmodified":1492032973,
     "wof:name":"Busy Bee's New Constr Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

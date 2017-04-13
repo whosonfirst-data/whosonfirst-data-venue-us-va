@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.455891,38.855587,-77.455891,38.855587",
     "geom:latitude":38.855587,
     "geom:longitude":-77.455891,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JYxh65wOc6OBZtS0khlXD_38.855587_-77.455891@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900870,
-    "wof:geomhash":"b4b17948bc330d3eef36f92dac0ac1d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c15292456dbf179e053ec15d05e67a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":723394799
+        }
+    ],
     "wof:id":723394799,
-    "wof:lastmodified":1472652140,
+    "wof:lastmodified":1492051541,
     "wof:name":"Oak Ridge Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

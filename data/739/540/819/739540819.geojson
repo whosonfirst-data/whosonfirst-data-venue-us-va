@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.875019,37.759565,-78.875019,37.759565",
     "geom:latitude":37.759565,
     "geom:longitude":-78.875019,
@@ -31,7 +32,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729161,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Tky9T85R3bVdfwzFOP9cN_37.759565_-78.875019@1294252573"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1461909166,
     "wof:geomhash":"f521e89a34b8933a52fdb4f52bfbed2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "locality_id":101729161,
+            "region_id":85688747,
+            "venue_id":739540819
+        }
+    ],
     "wof:id":739540819,
-    "wof:lastmodified":1472651840,
+    "wof:lastmodified":1492032590,
     "wof:name":"Lovingston Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.017644,36.695193,-82.017644,36.695193",
     "geom:latitude":36.695193,
     "geom:longitude":-82.017644,
@@ -32,17 +33,26 @@
         "mower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nw2Q3Ke8hsoAZAVWvLN6A_36.695193_-82.017644@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896113,
-    "wof:geomhash":"070a01569e08a2a1883bd8d49b6ef66d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55f33a52eb3a734a45b29cc28b102536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723150947
+        }
+    ],
     "wof:id":723150947,
-    "wof:lastmodified":1472651429,
+    "wof:lastmodified":1492058939,
     "wof:name":"Abingdon Mower & Service Ctr",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

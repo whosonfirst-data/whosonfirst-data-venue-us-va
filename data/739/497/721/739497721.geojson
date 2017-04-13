@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.953337,37.254089,-79.953337,37.254089",
     "geom:latitude":37.254089,
     "geom:longitude":-79.953337,
@@ -28,7 +29,13 @@
     "sg:postcode":"24014",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ru9qgZXPMlfv670OE8EDF_37.254089_-79.953337@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461908387,
     "wof:geomhash":"b7a58c207f042f6939ec26302d3139ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739497721
+        }
+    ],
     "wof:id":739497721,
-    "wof:lastmodified":1472651700,
+    "wof:lastmodified":1492029697,
     "wof:name":"Christ Good Shephard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

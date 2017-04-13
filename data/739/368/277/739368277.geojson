@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.753537,37.315198,-76.753537,37.315198",
     "geom:latitude":37.315198,
     "geom:longitude":-76.753537,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l6yZ92MHlfsw3qD10ATh8_37.315198_-76.753537@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905966,
-    "wof:geomhash":"b89d03e76e19f316ebe269bc833b1e4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf960ee32def522dae932fd9afc96645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546895,
+            "venue_id":739368277
+        }
+    ],
     "wof:id":739368277,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492041999,
     "wof:name":"John M Ransone Custom Builder",
     "wof:parent_id":420546895,
     "wof:placetype":"venue",

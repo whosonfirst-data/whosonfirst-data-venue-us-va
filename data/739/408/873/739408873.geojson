@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.4636,37.159711,-76.4636,37.159711",
     "geom:latitude":37.159711,
     "geom:longitude":-76.4636,
@@ -37,9 +38,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
-        85879209,
-        102086731
+        101729041,
+        102085961,
+        85879209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,17 @@
     "wof:geomhash":"5e2563fea16df4475f466ab74502b772",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086731,
+            "county_id":102085961,
+            "locality_id":101729041,
             "neighbourhood_id":85879209,
             "region_id":85688747,
             "venue_id":739408873
         }
     ],
     "wof:id":739408873,
-    "wof:lastmodified":1472651490,
+    "wof:lastmodified":1492029930,
     "wof:name":"Western Auto Associate Store",
     "wof:parent_id":85879209,
     "wof:placetype":"venue",

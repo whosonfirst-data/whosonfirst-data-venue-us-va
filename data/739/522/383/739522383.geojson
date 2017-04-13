@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.626898,37.451857,-77.626898,37.451857",
     "geom:latitude":37.451857,
     "geom:longitude":-77.626898,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16YthMueF8ceCdR7NPd7xl_37.451857_-77.626898@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461908839,
-    "wof:geomhash":"001c0d918acde2cf8bd71ae6bb5d6f72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbc6909a6e38a4fe1aecdba437cf042c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "region_id":85688747,
+            "venue_id":739522383
+        }
+    ],
     "wof:id":739522383,
-    "wof:lastmodified":1472651772,
+    "wof:lastmodified":1492040704,
     "wof:name":"Brookhaven Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

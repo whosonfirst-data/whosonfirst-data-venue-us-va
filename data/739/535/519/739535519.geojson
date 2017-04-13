@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.312564,37.901017,-78.312564,37.901017",
     "geom:latitude":37.901017,
     "geom:longitude":-78.312564,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729149,
+        102084947
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dyH237ftmiPLwwoONJkbM_37.901017_-78.312564@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461909078,
-    "wof:geomhash":"19d5a8f138fca91c019675c7819d15c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65ebc79eb478c65290f7b0cf385b8672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084947,
+            "locality_id":101729149,
+            "region_id":85688747,
+            "venue_id":739535519
+        }
+    ],
     "wof:id":739535519,
-    "wof:lastmodified":1472651788,
+    "wof:lastmodified":1492046910,
     "wof:name":"Building Block Learning Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

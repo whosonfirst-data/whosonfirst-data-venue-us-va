@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.392829,38.664001,-77.392829,38.664001",
     "geom:latitude":38.664001,
     "geom:longitude":-77.392829,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729235,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hz05Rn5zRW70hlPgMNMMk_38.664001_-77.392829@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901425,
-    "wof:geomhash":"ac6e9c4a8d813f4552f89d2271db24f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5699a53ed62a854ec1769e2e68e4d299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729235,
+            "region_id":85688747,
+            "venue_id":723423225
+        }
+    ],
     "wof:id":723423225,
-    "wof:lastmodified":1472652226,
+    "wof:lastmodified":1492050635,
     "wof:name":"American Stucco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

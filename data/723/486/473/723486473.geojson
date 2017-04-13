@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.475151,37.189827,-77.475151,37.189827",
     "geom:latitude":37.189827,
     "geom:longitude":-77.475151,
@@ -33,17 +34,30 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084899
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jA0YTgJoFovblmSXeznW6_37.189827_-77.475151@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902664,
-    "wof:geomhash":"3e515f483ed2cdc52f984308448dc037",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbccd40e46044117ca430092024f2c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084899,
+            "region_id":85688747,
+            "venue_id":723486473
+        }
+    ],
     "wof:id":723486473,
-    "wof:lastmodified":1472652339,
+    "wof:lastmodified":1492052996,
     "wof:name":"Superior Service of Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

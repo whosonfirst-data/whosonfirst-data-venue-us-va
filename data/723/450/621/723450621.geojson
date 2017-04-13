@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.441113,37.696745,-77.441113,37.696745",
     "geom:latitude":37.696745,
     "geom:longitude":-77.441113,
@@ -33,17 +34,30 @@
         "pollution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LX7Ai2qrXTtFYObvUt4CA_37.696745_-77.441113@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901954,
-    "wof:geomhash":"1c1512a3d772a21266d279bc30b1700c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd9e60847c1ed5e4123d959f67056e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":723450621
+        }
+    ],
     "wof:id":723450621,
-    "wof:lastmodified":1472652291,
+    "wof:lastmodified":1492053688,
     "wof:name":"Air Pollution Control Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

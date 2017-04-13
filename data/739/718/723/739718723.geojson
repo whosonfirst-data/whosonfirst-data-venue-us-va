@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.457741,37.622681,-77.457741,37.622681",
     "geom:latitude":37.622681,
     "geom:longitude":-77.457741,
@@ -46,17 +47,30 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_322ZWkFmV8rpr4uOx1jZ5l_37.622681_-77.457741@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912966,
-    "wof:geomhash":"2e21dbf9c50747ef182c896ca05552e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad32f10b191208183bb73e7da22feb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":739718723
+        }
+    ],
     "wof:id":739718723,
-    "wof:lastmodified":1472652213,
+    "wof:lastmodified":1492045399,
     "wof:name":"C M Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

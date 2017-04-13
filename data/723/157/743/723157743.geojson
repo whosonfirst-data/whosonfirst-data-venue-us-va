@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.101786,37.276482,-79.101786,37.276482",
     "geom:latitude":37.276482,
     "geom:longitude":-79.101786,
@@ -31,17 +32,32 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729195,
+        102084935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37udAkMgwxMHHDWHt7EyrU_37.276482_-79.101786@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896246,
-    "wof:geomhash":"9f5a76d47e2b56112d11c8b641859d83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d4bcd01f1080034c362b220965e26d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084935,
+            "locality_id":101729195,
+            "region_id":85688747,
+            "venue_id":723157743
+        }
+    ],
     "wof:id":723157743,
-    "wof:lastmodified":1472651428,
+    "wof:lastmodified":1492056004,
     "wof:name":"Halifax County Juvenile Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

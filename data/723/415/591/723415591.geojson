@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.435041,37.24769,-77.435041,37.24769",
     "geom:latitude":37.24769,
     "geom:longitude":-77.435041,
@@ -33,17 +34,32 @@
         "crime"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729303,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VTzBcOMShEZqmyg0fxt09_37.247690_-77.435041@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901283,
-    "wof:geomhash":"62297a35a4ec17676e960982a2d3b821",
-    "wof:hierarchy":[],
+    "wof:geomhash":"668083bb90d9dad86b2b9b4318d59706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729303,
+            "region_id":85688747,
+            "venue_id":723415591
+        }
+    ],
     "wof:id":723415591,
-    "wof:lastmodified":1472652198,
+    "wof:lastmodified":1492056901,
     "wof:name":"Hills Crime Scene Cleanup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

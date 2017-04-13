@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.552513,39.126628,-77.552513,39.126628",
     "geom:latitude":39.126628,
     "geom:longitude":-77.552513,
@@ -32,17 +33,32 @@
         "geological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728821,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hkH6QcrHNEqSN9YTyRJ64_39.126628_-77.552513@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884558,
-    "wof:geomhash":"b23cfd6e0b8525b7393a117c287fcc3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3ce26692ba6dc524346e30cc1aa52da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101728821,
+            "region_id":85688747,
+            "venue_id":722577523
+        }
+    ],
     "wof:id":722577523,
-    "wof:lastmodified":1472651226,
+    "wof:lastmodified":1492066407,
     "wof:name":"James A Luppens Geologist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

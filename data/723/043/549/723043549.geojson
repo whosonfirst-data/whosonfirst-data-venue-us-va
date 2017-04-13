@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.609691,37.234408,-80.609691,37.234408",
     "geom:latitude":37.234408,
     "geom:longitude":-80.609691,
@@ -31,17 +32,26 @@
         "trailer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g52QuUkOl9tlIq2rerTWL_37.234408_-80.609691@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893888,
-    "wof:geomhash":"0c4d0346294130e016434eb6ef151cf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e499a04e9a40510b692a4fe6f30faa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547025,
+            "venue_id":723043549
+        }
+    ],
     "wof:id":723043549,
-    "wof:lastmodified":1472651166,
+    "wof:lastmodified":1492062102,
     "wof:name":"New River Junction Campground",
     "wof:parent_id":420547025,
     "wof:placetype":"venue",

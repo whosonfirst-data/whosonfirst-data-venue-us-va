@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.535804,37.494609,-77.535804,37.494609",
     "geom:latitude":37.494609,
     "geom:longitude":-77.535804,
@@ -33,7 +34,13 @@
     ],
     "sg:website":"http://www.bankerslife.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74jLzB1vWiGoaW1KpdkvvE_37.494609_-77.535804@1303262550"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1461912935,
     "wof:geomhash":"23f9a456d8ffcdbd804d0b6622b22f48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739717417
+        }
+    ],
     "wof:id":739717417,
-    "wof:lastmodified":1472652209,
+    "wof:lastmodified":1492031497,
     "wof:name":"Bankers Life",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

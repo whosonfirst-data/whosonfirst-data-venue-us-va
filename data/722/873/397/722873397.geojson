@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.400285,37.199968,-80.400285,37.199968",
     "geom:latitude":37.199968,
     "geom:longitude":-80.400285,
@@ -34,7 +35,8 @@
         85633793,
         101728705,
         102087271,
-        85818989
+        85818989,
+        85809625
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1461890263,
-    "wof:geomhash":"a2b3b57a3a05b87348943336ba77f4a7",
+    "wof:geomhash":"6d95c0bcf1bd2240d064abec3c6b96e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,21 @@
             "neighbourhood_id":85818989,
             "region_id":85688747,
             "venue_id":722873397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087271,
+            "locality_id":101728705,
+            "neighbourhood_id":85809625,
+            "region_id":85688747,
+            "venue_id":722873397
         }
     ],
     "wof:id":722873397,
-    "wof:lastmodified":1472652007,
+    "wof:lastmodified":1492067433,
     "wof:name":"See Mark Optical",
-    "wof:parent_id":85818989,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

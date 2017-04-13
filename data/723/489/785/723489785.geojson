@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.26493,37.203793,-77.26493,37.203793",
     "geom:latitude":37.203793,
     "geom:longitude":-77.26493,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729473,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50Z6NVt18Z2QK1BRFpkLFM_37.203793_-77.264930@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902732,
-    "wof:geomhash":"87bc387c6bed578bf04c45cc95c8fbf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9c7b7fbe0b48d867b357349c92c7f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "locality_id":101729473,
+            "region_id":85688747,
+            "venue_id":723489785
+        }
+    ],
     "wof:id":723489785,
-    "wof:lastmodified":1472652357,
+    "wof:lastmodified":1492055235,
     "wof:name":"B C Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

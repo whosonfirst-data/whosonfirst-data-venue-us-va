@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.444996,37.079152,-78.444996,37.079152",
     "geom:latitude":37.079152,
     "geom:longitude":-78.444996,
@@ -28,7 +29,12 @@
     "sg:postcode":"23947",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085971
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ip7xD5FIIp1Jvqk9PAqJQ_37.079152_-78.444996@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461905749,
     "wof:geomhash":"6b3025016b8527ade44088b364ed6760",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085971,
+            "region_id":85688747,
+            "venue_id":739356573
+        }
+    ],
     "wof:id":739356573,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492030454,
     "wof:name":"Hair Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

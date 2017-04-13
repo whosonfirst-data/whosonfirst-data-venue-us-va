@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.92674,36.666422,-80.92674,36.666422",
     "geom:latitude":36.666422,
     "geom:longitude":-80.92674,
@@ -28,19 +29,36 @@
     "sg:postcode":"24333",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728983,
+        102087321,
+        85811367
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Bos4t61XpMptgT82DpqcQ_36.666422_-80.926740@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885189,
-    "wof:geomhash":"2b4c76552ac5962e192280ae91ff451c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"800593f4cf907be01fe74ae34977c02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087321,
+            "locality_id":101728983,
+            "neighbourhood_id":85811367,
+            "region_id":85688747,
+            "venue_id":722610881
+        }
+    ],
     "wof:id":722610881,
-    "wof:lastmodified":1472651312,
+    "wof:lastmodified":1492072498,
     "wof:name":"Indenpendence Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

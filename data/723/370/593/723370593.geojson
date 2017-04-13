@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.008338,36.677665,-82.008338,36.677665",
     "geom:latitude":36.677665,
     "geom:longitude":-82.008338,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p35pBhngcDkgq3jz4niiZ_36.677665_-82.008338@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900383,
-    "wof:geomhash":"ad1e9bef87086d49005719690be8692d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d026b8abd61564e7958dc20b993b7f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723370593
+        }
+    ],
     "wof:id":723370593,
-    "wof:lastmodified":1472652076,
+    "wof:lastmodified":1492049230,
     "wof:name":"Moret Trucking",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

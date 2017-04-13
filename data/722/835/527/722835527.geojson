@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.989434,36.702727,-81.989434,36.702727",
     "geom:latitude":36.702727,
     "geom:longitude":-81.989434,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58GUUcuIA7sXvjwD8OmRQJ_36.702727_-81.989434@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889547,
-    "wof:geomhash":"046a3dea3b1f7aca85cf2a862bd5867a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a90b540f867930678013c6f1ee803dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722835527
+        }
+    ],
     "wof:id":722835527,
-    "wof:lastmodified":1472651949,
+    "wof:lastmodified":1492064652,
     "wof:name":"Washington Court Apts Assoc",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

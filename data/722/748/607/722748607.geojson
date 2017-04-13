@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.52296,38.779198,-77.52296,38.779198",
     "geom:latitude":38.779198,
     "geom:longitude":-77.52296,
@@ -32,17 +33,32 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729233,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ehXc1N1UwFuU26atl4hYC_38.779198_-77.522960@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887914,
-    "wof:geomhash":"29eae22cde8f0aa794ca403c925cc8d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9c793aaf940aebe691d22fede8cb060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729233,
+            "region_id":85688747,
+            "venue_id":722748607
+        }
+    ],
     "wof:id":722748607,
-    "wof:lastmodified":1472651694,
+    "wof:lastmodified":1492072420,
     "wof:name":"Healing Forest Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

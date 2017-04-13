@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.450158,37.460577,-77.450158,37.460577",
     "geom:latitude":37.460577,
     "geom:longitude":-77.450158,
@@ -32,19 +33,36 @@
         "sign"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729293,
+        102084955,
+        85868223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A3kbHXP4Ru8ljIv9epask_37.460577_-77.450158@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895945,
-    "wof:geomhash":"a79b252b22e78451a3e5b2892c9328dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3168076b4dc1730f5082f7a4fcc1a86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729293,
+            "neighbourhood_id":85868223,
+            "region_id":85688747,
+            "venue_id":723142411
+        }
+    ],
     "wof:id":723142411,
-    "wof:lastmodified":1472651412,
+    "wof:lastmodified":1492051083,
     "wof:name":"CMO Supply Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868223,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

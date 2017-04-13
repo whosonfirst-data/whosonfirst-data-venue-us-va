@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.593412,38.76189,-77.593412,38.76189",
     "geom:latitude":38.76189,
     "geom:longitude":-77.593412,
@@ -41,17 +42,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729243,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SuQPI7fYzcy2evhIUh0ok_38.761890_-77.593412@1303262495"
     },
     "wof:country":"US",
     "wof:created":1461910530,
-    "wof:geomhash":"d1390212ba3f3025ccaaeee6f61419ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ee711ca265b313a2ee422da75618d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729243,
+            "region_id":85688747,
+            "venue_id":739606211
+        }
+    ],
     "wof:id":739606211,
-    "wof:lastmodified":1472651938,
+    "wof:lastmodified":1492039018,
     "wof:name":"Jamie Brand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

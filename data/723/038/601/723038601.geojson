@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.031297,37.29804,-80.031297,37.29804",
     "geom:latitude":37.29804,
     "geom:longitude":-80.031297,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728963,
+        102081927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jH041l9GrtpJx3AYdJULD_37.298040_-80.031297@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893780,
-    "wof:geomhash":"af807320fa74d63cccf6e6558c45d411",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ac48b5ad10d170767fa9310794e3884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081927,
+            "locality_id":101728963,
+            "region_id":85688747,
+            "venue_id":723038601
+        }
+    ],
     "wof:id":723038601,
-    "wof:lastmodified":1472651175,
+    "wof:lastmodified":1492060724,
     "wof:name":"Con Line Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

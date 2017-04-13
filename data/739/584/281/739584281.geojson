@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.854823,38.428992,-78.854823,38.428992",
     "geom:latitude":38.428992,
     "geom:longitude":-78.854823,
@@ -33,17 +34,32 @@
         "steakhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g93YjldGcupWsoYPzqaZW_38.428992_-78.854823@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910094,
-    "wof:geomhash":"a4cef5365a8b66dd127aa0ed7d541dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c8046dfaef84a7969cae7aa267a4ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739584281
+        }
+    ],
     "wof:id":739584281,
-    "wof:lastmodified":1472651925,
+    "wof:lastmodified":1492040562,
     "wof:name":"Outback Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

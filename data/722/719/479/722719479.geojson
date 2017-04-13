@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.87755,37.335265,-79.87755,37.335265",
     "geom:latitude":37.335265,
     "geom:longitude":-79.87755,
@@ -33,17 +34,30 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hEcl2qUsS1GuPyCpExFkF_37.335265_-79.877550@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887332,
-    "wof:geomhash":"2c8623df7201da6abd11e8852e044250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08db07e48cfef54c6e335fd0e02faf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084905,
+            "region_id":85688747,
+            "venue_id":722719479
+        }
+    ],
     "wof:id":722719479,
-    "wof:lastmodified":1472651592,
+    "wof:lastmodified":1492073455,
     "wof:name":"Rockwell Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

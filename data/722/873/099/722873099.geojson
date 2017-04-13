@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.907016,38.407299,-78.907016,38.407299",
     "geom:latitude":38.407299,
     "geom:longitude":-78.907016,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kv7VmfKn0Oo7inmUukD7G_38.407299_-78.907016@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461890258,
-    "wof:geomhash":"ce14552df1923a22198f6d18d1ec0f7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cddc1929cc765cb999c3de924279a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":722873099
+        }
+    ],
     "wof:id":722873099,
-    "wof:lastmodified":1472651989,
+    "wof:lastmodified":1492067442,
     "wof:name":"City Motors Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

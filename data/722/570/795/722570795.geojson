@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.883036,36.696949,-79.883036,36.696949",
     "geom:latitude":36.696949,
     "geom:longitude":-79.883036,
@@ -31,17 +32,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728657,
+        102081419
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lyorJvtqkACxNb5l7bA39_36.696949_-79.883036@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884424,
-    "wof:geomhash":"52fac896b808654a987437ebe4825797",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4823fcc4e6cd97e0fe79943ceb005ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081419,
+            "locality_id":101728657,
+            "region_id":85688747,
+            "venue_id":722570795
+        }
+    ],
     "wof:id":722570795,
-    "wof:lastmodified":1472651178,
+    "wof:lastmodified":1492065074,
     "wof:name":"ABC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

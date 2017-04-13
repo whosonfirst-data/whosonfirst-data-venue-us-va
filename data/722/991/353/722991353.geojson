@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.179205,38.935516,-77.179205,38.935516",
     "geom:latitude":38.935516,
     "geom:longitude":-77.179205,
@@ -34,6 +35,7 @@
         85633793,
         101729767,
         102084863,
+        85868635,
         420546693
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461892716,
-    "wof:geomhash":"38d87ad1e288c7562cf9ddc3cc57000c",
+    "wof:geomhash":"dc6a825eb1842d3c4fa3332d98eb0e1a",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729767,
+            "neighbourhood_id":85868635,
+            "region_id":85688747,
+            "venue_id":722991353
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":722991353,
-    "wof:lastmodified":1472652342,
+    "wof:lastmodified":1492063840,
     "wof:name":"Douglas L Romberg",
-    "wof:parent_id":420546693,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.338325,38.03922,-78.338325,38.03922",
     "geom:latitude":38.03922,
     "geom:longitude":-78.338325,
@@ -31,17 +32,30 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_509LjWeqZcW3GnEHAq9iFR_38.039220_-78.338325@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887949,
-    "wof:geomhash":"c037458d28657f586ca00b3c996682cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ccad1b7e60e800eaaff5733ba744c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722750681
+        }
+    ],
     "wof:id":722750681,
-    "wof:lastmodified":1472651701,
+    "wof:lastmodified":1492064227,
     "wof:name":"Dammann Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

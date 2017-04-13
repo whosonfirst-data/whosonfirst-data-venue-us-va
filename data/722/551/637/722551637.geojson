@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.053148,36.75284,-76.053148,36.75284",
     "geom:latitude":36.75284,
     "geom:longitude":-76.053148,
@@ -37,6 +38,7 @@
         85633793,
         101728745,
         102081929,
+        85872035,
         85843145
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461884036,
-    "wof:geomhash":"e9448080215c5cdb0027583815e3f9b0",
+    "wof:geomhash":"c5c8a959d80b9e78c235b983b90b8339",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85872035,
+            "region_id":85688747,
+            "venue_id":722551637
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":722551637,
-    "wof:lastmodified":1472651100,
+    "wof:lastmodified":1492074841,
     "wof:name":"Exum Bonding Co",
-    "wof:parent_id":85843145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

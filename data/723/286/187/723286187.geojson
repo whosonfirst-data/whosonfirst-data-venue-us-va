@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.393758,37.14368,-76.393758,37.14368",
     "geom:latitude":37.14368,
     "geom:longitude":-76.393758,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DzptR6Ab6TISHHHWZ8wsh_37.143680_-76.393758@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898795,
-    "wof:geomhash":"c3ee7d2dda2dccf466587b009500807f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"980c907e7785a44b3f824a4caf33a580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723286187
+        }
+    ],
     "wof:id":723286187,
-    "wof:lastmodified":1472651741,
+    "wof:lastmodified":1492048226,
     "wof:name":"Blue Four Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

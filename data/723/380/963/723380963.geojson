@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.680426,37.421285,-77.680426,37.421285",
     "geom:latitude":37.421285,
     "geom:longitude":-77.680426,
@@ -35,17 +36,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66tUgLV95xgm7SVEt5Af8x_37.421285_-77.680426@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900602,
-    "wof:geomhash":"35f58798361baf20bd569dad16180561",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06b39d240ce5103d5e1cafb6c2e836be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":723380963
+        }
+    ],
     "wof:id":723380963,
-    "wof:lastmodified":1472652128,
+    "wof:lastmodified":1492051636,
     "wof:name":"Woodlake Swim & Racquet Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

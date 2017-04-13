@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.41362,37.161014,-76.41362,37.161014",
     "geom:latitude":37.161014,
     "geom:longitude":-76.41362,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aUMtGXjGP2RX1Beflcic7_37.161014_-76.413620@1294252573"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461904969,
     "wof:geomhash":"0e0f8d97d8a52b6319ed52804072a83d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":739319865
+        }
+    ],
     "wof:id":739319865,
-    "wof:lastmodified":1472651284,
+    "wof:lastmodified":1492031267,
     "wof:name":"Artistic Painting Calligraphy",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.53469,38.399325,-77.53469,38.399325",
     "geom:latitude":38.399325,
     "geom:longitude":-77.53469,
@@ -28,7 +29,13 @@
     "sg:postcode":"22406",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547277,
+        85688747,
+        85894007,
+        102081931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wzLxRsejJHShQBgYtRCBQ_38.399325_-77.534690@1294252573"
@@ -36,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1461906778,
     "wof:geomhash":"7bd7e2892617e3341a69ef706c5612db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547277,
+            "venue_id":739410711
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081931,
+            "neighbourhood_id":85894007,
+            "region_id":85688747,
+            "venue_id":739410711
+        }
+    ],
     "wof:id":739410711,
-    "wof:lastmodified":1472651493,
+    "wof:lastmodified":1492032296,
     "wof:name":"Gardner Arabians",
-    "wof:parent_id":420547277,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

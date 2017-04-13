@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.37697,38.497781,-77.37697,38.497781",
     "geom:latitude":38.497781,
     "geom:longitude":-77.37697,
@@ -31,17 +32,26 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0z7wAJxHqYl0zJmkJe7rIS_38.497781_-77.376970@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886428,
-    "wof:geomhash":"50247f3a5908db774fbed5de9a72421b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b491489eefbd88f48a20ffc3497c2451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547175,
+            "venue_id":722671717
+        }
+    ],
     "wof:id":722671717,
-    "wof:lastmodified":1472651523,
+    "wof:lastmodified":1492062455,
     "wof:name":"K C Trading",
     "wof:parent_id":420547175,
     "wof:placetype":"venue",

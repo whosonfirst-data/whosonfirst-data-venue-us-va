@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.491425,38.072182,-78.491425,38.072182",
     "geom:latitude":38.072182,
     "geom:longitude":-78.491425,
@@ -31,17 +32,30 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dUDewXBRle052uBRpHmTa_38.072182_-78.491425@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885993,
-    "wof:geomhash":"fe0e1a16addc97b7c1d7ff2a28f378a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87a47c06a8b56cb79aea33d51107501b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":722648521
+        }
+    ],
     "wof:id":722648521,
-    "wof:lastmodified":1472651455,
+    "wof:lastmodified":1492066665,
     "wof:name":"Internetworking Link",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

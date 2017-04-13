@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.429156,38.896558,-77.429156,38.896558",
     "geom:latitude":38.896558,
     "geom:longitude":-77.429156,
@@ -35,7 +36,13 @@
     ],
     "sg:website":"www.factorycard.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729735,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VYbOPu3obFHp5GWoRtzgY_38.896558_-77.429156@1294252573"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1461907643,
     "wof:geomhash":"c8445979c58795927f5ebc93553a6cc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729735,
+            "region_id":85688747,
+            "venue_id":739455887
+        }
+    ],
     "wof:id":739455887,
-    "wof:lastmodified":1472651593,
+    "wof:lastmodified":1492032964,
     "wof:name":"Factory Card Outlet 508",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

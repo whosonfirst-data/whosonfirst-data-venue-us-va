@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.113133,36.975489,-81.113133,36.975489",
     "geom:latitude":36.975489,
     "geom:longitude":-81.113133,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1461904614,
-    "wof:geomhash":"d87e971f0a26dea266e329be5cae0de8",
+    "wof:geomhash":"e97b1e8ddcf6870c7837f76e3808e1bc",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":739301907
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,12 +58,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":739301907
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":739301907
         }
     ],
     "wof:id":739301907,
-    "wof:lastmodified":1472651231,
+    "wof:lastmodified":1492046043,
     "wof:name":"D V Anderson Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

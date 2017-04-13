@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.745657,37.234991,-76.745657,37.234991",
     "geom:latitude":37.234991,
     "geom:longitude":-76.745657,
@@ -34,17 +35,26 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fgFR8mcEXbVHocJ22AgEH_37.234991_-76.745657@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891316,
-    "wof:geomhash":"cd3b932f2a684ca815be90208ef51b21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee12c11c5795a7d65c20b289ea22d1a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":722925581
+        }
+    ],
     "wof:id":722925581,
-    "wof:lastmodified":1472652159,
+    "wof:lastmodified":1492073843,
     "wof:name":"Golden Strawberry",
     "wof:parent_id":420546801,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.345014,37.078943,-76.345014,37.078943",
     "geom:latitude":37.078943,
     "geom:longitude":-76.345014,
@@ -32,7 +33,13 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728661,
+        102084913
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2C9EYPfTHRSgjv6vhq7ri0_37.078943_-76.345014@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461905232,
     "wof:geomhash":"b36a42608b5b6fcc2966154f387f4f94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084913,
+            "locality_id":101728661,
+            "region_id":85688747,
+            "venue_id":739332823
+        }
+    ],
     "wof:id":739332823,
-    "wof:lastmodified":1472651311,
+    "wof:lastmodified":1492030794,
     "wof:name":"Langley Afb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

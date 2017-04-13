@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.557355,37.48048,-77.557355,37.48048",
     "geom:latitude":37.48048,
     "geom:longitude":-77.557355,
@@ -34,17 +35,32 @@
     ],
     "sg:website":"www.providencegolfcourse.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5enNcv0fh1MTmuOLiANVwt_37.480480_-77.557355@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897691,
-    "wof:geomhash":"997a5726839401984f43b0c48ad95127",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4faad43e86856ab4e71222e9e6316847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":723229545
+        }
+    ],
     "wof:id":723229545,
-    "wof:lastmodified":1472651649,
+    "wof:lastmodified":1492052078,
     "wof:name":"Providence Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

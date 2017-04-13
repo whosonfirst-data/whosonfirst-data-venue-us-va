@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.322122,36.82068,-76.322122,36.82068",
     "geom:latitude":36.82068,
     "geom:longitude":-76.322122,
@@ -42,8 +43,8 @@
         85633793,
         101728677,
         102086707,
-        85836925,
-        420548257
+        420548257,
+        85836925
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +52,8 @@
     },
     "wof:country":"US",
     "wof:created":1461889312,
-    "wof:geomhash":"8df10d999447d6dced586f5877e6f78d",
+    "wof:geomhash":"77272d00dbaadf995f08bdf8f263a8f2",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086707,
-            "locality_id":101728677,
-            "neighbourhood_id":85836925,
-            "region_id":85688747,
-            "venue_id":722822593
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,12 +62,21 @@
             "neighbourhood_id":420548257,
             "region_id":85688747,
             "venue_id":722822593
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086707,
+            "locality_id":101728677,
+            "neighbourhood_id":85836925,
+            "region_id":85688747,
+            "venue_id":722822593
         }
     ],
     "wof:id":722822593,
-    "wof:lastmodified":1472651904,
+    "wof:lastmodified":1492062783,
     "wof:name":"D & D Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

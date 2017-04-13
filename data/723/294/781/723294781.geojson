@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.744491,37.34178,-76.744491,37.34178",
     "geom:latitude":37.34178,
     "geom:longitude":-76.744491,
@@ -32,19 +33,28 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25NMPACZz5dmUxe2uQse6z_37.341780_-76.744491@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898961,
-    "wof:geomhash":"fd627c5ee03db7632d5b4cb9ccfd989d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d483b1adeb2e0afdb89c4a5d460470d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546931,
+            "venue_id":723294781
+        }
+    ],
     "wof:id":723294781,
-    "wof:lastmodified":1472651828,
+    "wof:lastmodified":1492061393,
     "wof:name":"A-1 Secure Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

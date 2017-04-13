@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.734552,37.317063,-76.734552,37.317063",
     "geom:latitude":37.317063,
     "geom:longitude":-76.734552,
@@ -32,7 +33,10 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j2hxACFQ4q6gzuFqJ6M8q_37.317063_-76.734552@1299784598"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461910132,
     "wof:geomhash":"c002ea7779fd638a01a11667f97a5a9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":739586563
+        }
+    ],
     "wof:id":739586563,
-    "wof:lastmodified":1472651939,
+    "wof:lastmodified":1492031889,
     "wof:name":"Giuseppes Italian Cafe",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.949435,37.681728,-78.949435,37.681728",
     "geom:latitude":37.681728,
     "geom:longitude":-78.949435,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xflez3KQSptlE8PM2Rs0d_37.681728_-78.949435@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461908832,
     "wof:geomhash":"fbee20563b39b3fa53fd2965742ee1f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084977,
+            "region_id":85688747,
+            "venue_id":739521903
+        }
+    ],
     "wof:id":739521903,
-    "wof:lastmodified":1472651835,
+    "wof:lastmodified":1492033274,
     "wof:name":"Thompson Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

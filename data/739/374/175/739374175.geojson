@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.241373,37.008938,-78.241373,37.008938",
     "geom:latitude":37.008938,
     "geom:longitude":-78.241373,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084945
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SSCzuErdk9Qt3QEJbe8D8_37.008938_-78.241373@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906085,
-    "wof:geomhash":"094ca04e5afeb0423cc1ec2f2f356aa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f58c29d191177d094e510f8b899427b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084945,
+            "region_id":85688747,
+            "venue_id":739374175
+        }
+    ],
     "wof:id":739374175,
-    "wof:lastmodified":1472651338,
+    "wof:lastmodified":1492041425,
     "wof:name":"Central Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.321708,38.850192,-77.321708,38.850192",
     "geom:latitude":38.850192,
     "geom:longitude":-77.321708,
@@ -36,9 +37,12 @@
         85688747,
         102191575,
         85633793,
+        101729825,
+        102084863,
+        85827657,
         101728653,
         102080645,
-        85827657
+        85818469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,22 +50,31 @@
     },
     "wof:country":"US",
     "wof:created":1461889324,
-    "wof:geomhash":"279df57543d284cab9b7f4b1a882d0ec",
+    "wof:geomhash":"461a2dfdd0d04c50cef8f2a5fb4c2ae2",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729825,
+            "neighbourhood_id":85827657,
+            "region_id":85688747,
+            "venue_id":722823277
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080645,
             "locality_id":101728653,
-            "neighbourhood_id":85827657,
+            "neighbourhood_id":85818469,
             "region_id":85688747,
             "venue_id":722823277
         }
     ],
     "wof:id":722823277,
-    "wof:lastmodified":1472651891,
+    "wof:lastmodified":1492069270,
     "wof:name":"Dykstra Kevin S",
-    "wof:parent_id":85827657,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

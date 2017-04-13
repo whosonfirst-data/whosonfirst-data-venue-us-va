@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.917113,37.418444,-76.917113,37.418444",
     "geom:latitude":37.418444,
     "geom:longitude":-76.917113,
@@ -33,19 +34,28 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gK1I695dEEaGADCe7IeD6_37.418444_-76.917113@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887897,
-    "wof:geomhash":"6ed379066cca79387c5d0dec8e05571e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ebb935ad823a4de5b1608d753656ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":722747697
+        }
+    ],
     "wof:id":722747697,
-    "wof:lastmodified":1472651692,
+    "wof:lastmodified":1492064579,
     "wof:name":"Puryea Grading",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

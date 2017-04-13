@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.440822,38.37962,-77.440822,38.37962",
     "geom:latitude":38.37962,
     "geom:longitude":-77.440822,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547235
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75t10d8zTzXPMDIVF8Izwi_38.379620_-77.440822@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902182,
-    "wof:geomhash":"0bb5de8e76dcea6e81a3707b47605907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f58bfc84ed3e8a231146911cfcd17d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547235,
+            "venue_id":723462563
+        }
+    ],
     "wof:id":723462563,
-    "wof:lastmodified":1472652297,
+    "wof:lastmodified":1492052001,
     "wof:name":"Williams Concrete",
     "wof:parent_id":420547235,
     "wof:placetype":"venue",

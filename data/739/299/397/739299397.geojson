@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.434943,38.298182,-77.434943,38.298182",
     "geom:latitude":38.298182,
     "geom:longitude":-77.434943,
@@ -31,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HsDihUCbSOXLHtFgrY5oO_38.298182_-77.434943@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904560,
     "wof:geomhash":"00ca0fb828d06b4c7c8f79c2eee0106c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":739299397
+        }
+    ],
     "wof:id":739299397,
-    "wof:lastmodified":1472651218,
+    "wof:lastmodified":1492032470,
     "wof:name":"Pompeii Engineering",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.094959,36.952269,-81.094959,36.952269",
     "geom:latitude":36.952269,
     "geom:longitude":-81.094959,
@@ -33,12 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728749,
         102086723,
-        85828107,
-        102191575,
-        85813061
+        85813061,
+        85828107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +47,8 @@
     },
     "wof:country":"US",
     "wof:created":1461892804,
-    "wof:geomhash":"6d6713ac27f535885af564bf15a0161d",
+    "wof:geomhash":"2a6b54a21dc71dc9171c501cf6522cf0",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086723,
-            "locality_id":101728749,
-            "neighbourhood_id":85828107,
-            "region_id":85688747,
-            "venue_id":722996089
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -64,12 +57,21 @@
             "neighbourhood_id":85813061,
             "region_id":85688747,
             "venue_id":722996089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":722996089
         }
     ],
     "wof:id":722996089,
-    "wof:lastmodified":1472652325,
+    "wof:lastmodified":1492063956,
     "wof:name":"Discovery Island Preschool & D",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

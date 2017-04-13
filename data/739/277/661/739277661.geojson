@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.334781,37.161989,-77.334781,37.161989",
     "geom:latitude":37.161989,
     "geom:longitude":-77.334781,
@@ -32,17 +33,30 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LOzgxzoPWaFrfQNvnWzkP_37.161989_-77.334781@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904095,
-    "wof:geomhash":"3e1998c9e250871b4d12edac97c940d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4630e639e238a01efd264d24842ea7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":739277661
+        }
+    ],
     "wof:id":739277661,
-    "wof:lastmodified":1472651149,
+    "wof:lastmodified":1492039474,
     "wof:name":"PDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

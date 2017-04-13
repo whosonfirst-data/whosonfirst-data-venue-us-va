@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.106022,37.498234,-80.106022,37.498234",
     "geom:latitude":37.498234,
     "geom:longitude":-80.106022,
@@ -31,7 +32,12 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085977
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Djip31IBP2S6izS3OwYpx_37.498234_-80.106022@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461903982,
     "wof:geomhash":"eae5327fddc1349ec26a9a2ea7a8b77a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085977,
+            "region_id":85688747,
+            "venue_id":739272687
+        }
+    ],
     "wof:id":739272687,
-    "wof:lastmodified":1472651168,
+    "wof:lastmodified":1492029357,
     "wof:name":"Family Adult Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

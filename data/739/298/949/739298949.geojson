@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.572361,37.91455,-77.572361,37.91455",
     "geom:latitude":37.91455,
     "geom:longitude":-77.572361,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087245
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ngPyH8folOoXC0gWAGZj4_37.914550_-77.572361@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461904546,
-    "wof:geomhash":"4ae05300cb396aa23f1463d4ff4bd4cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0734974bd2f302979bbce2d568ea89e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087245,
+            "region_id":85688747,
+            "venue_id":739298949
+        }
+    ],
     "wof:id":739298949,
-    "wof:lastmodified":1472651227,
+    "wof:lastmodified":1492045816,
     "wof:name":"Elon Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

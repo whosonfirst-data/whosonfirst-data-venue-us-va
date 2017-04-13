@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.61795,36.945659,-82.61795,36.945659",
     "geom:latitude":36.945659,
     "geom:longitude":-82.61795,
@@ -28,7 +29,13 @@
     "sg:postcode":"24273",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728955,
+        102084969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KwrqxNUm6k4xdJijc745G_36.945659_-82.617950@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904019,
     "wof:geomhash":"a8a733975fcb683c0d2d8650ad7255f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084969,
+            "locality_id":101728955,
+            "region_id":85688747,
+            "venue_id":739274467
+        }
+    ],
     "wof:id":739274467,
-    "wof:lastmodified":1472651156,
+    "wof:lastmodified":1492029554,
     "wof:name":"Accordia Of Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.392926,38.663896,-77.392926,38.663896",
     "geom:latitude":38.663896,
     "geom:longitude":-77.392926,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729235,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R4goaex18MJjE6oYp3EsN_38.663896_-77.392926@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891811,
-    "wof:geomhash":"3e5e0e8a61b9ede5b1b90102c58b1aa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bebc35a51ff01feb8428d2d785da30a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "locality_id":101729235,
+            "region_id":85688747,
+            "venue_id":722949251
+        }
+    ],
     "wof:id":722949251,
-    "wof:lastmodified":1472652233,
+    "wof:lastmodified":1492066624,
     "wof:name":"Network Engineering Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.223734,36.883975,-76.223734,36.883975",
     "geom:latitude":36.883975,
     "geom:longitude":-76.223734,
@@ -37,6 +38,7 @@
         85633793,
         101728769,
         102085935,
+        420548093,
         420548173
     ],
     "wof:breaches":[],
@@ -45,8 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1461902305,
-    "wof:geomhash":"22b53c7120ef4b18bacc0899bf597198",
+    "wof:geomhash":"27daebfdc852ec4962a727cce0175658",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "neighbourhood_id":420548093,
+            "region_id":85688747,
+            "venue_id":723469209
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +69,9 @@
         }
     ],
     "wof:id":723469209,
-    "wof:lastmodified":1472652281,
+    "wof:lastmodified":1492062081,
     "wof:name":"Pete's Towing Svc Inc",
-    "wof:parent_id":420548173,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.426454,37.630503,-77.426454,37.630503",
     "geom:latitude":37.630503,
     "geom:longitude":-77.426454,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729357,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I1agz0LpYAw4eh6Rmg0iF_37.630503_-77.426454@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889002,
-    "wof:geomhash":"536dcca7d089e229ec0d8039a98a1c74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fe1327cdf74fd12cbc38c33956be9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729357,
+            "region_id":85688747,
+            "venue_id":722806563
+        }
+    ],
     "wof:id":722806563,
-    "wof:lastmodified":1472651805,
+    "wof:lastmodified":1492064938,
     "wof:name":"Bond Street Investment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

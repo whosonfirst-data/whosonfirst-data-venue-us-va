@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.016836,36.600703,-82.016836,36.600703",
     "geom:latitude":36.600703,
     "geom:longitude":-82.016836,
@@ -31,17 +32,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fYhySdfE88jNjXrT2a6gx_36.600703_-82.016836@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885780,
-    "wof:geomhash":"2601d5b02781da8f8ea8e45de12115a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"525f8ad342cd74a20a34ffb750781066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":722636767
+        }
+    ],
     "wof:id":722636767,
-    "wof:lastmodified":1472651433,
+    "wof:lastmodified":1492074514,
     "wof:name":"Washington County Park",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

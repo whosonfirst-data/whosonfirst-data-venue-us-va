@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.524211,37.332805,-79.524211,37.332805",
     "geom:latitude":37.332805,
     "geom:longitude":-79.524211,
@@ -36,17 +37,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728735,
+        102086711
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CPqj8nXt6zV0C7BT1zbwy_37.332805_-79.524211@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891787,
-    "wof:geomhash":"fbc353345e4392a2c1165f90ed92857a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"756571b8b3320c6e6a8938e9ba8483e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086711,
+            "locality_id":101728735,
+            "region_id":85688747,
+            "venue_id":722947983
+        }
+    ],
     "wof:id":722947983,
-    "wof:lastmodified":1472652273,
+    "wof:lastmodified":1492071021,
     "wof:name":"Fisher Auto Parts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

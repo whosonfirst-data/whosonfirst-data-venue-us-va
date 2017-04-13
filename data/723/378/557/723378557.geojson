@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.581278,38.326422,-77.581278,38.326422",
     "geom:latitude":38.326422,
     "geom:longitude":-77.581278,
@@ -33,19 +34,28 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547271
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Aok2LN9qbg8tpUJBeAMNa_38.326422_-77.581278@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900562,
-    "wof:geomhash":"0226fc729472302204e2d0b002b3c869",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a95ac652817f3210c818c5123f337e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547271,
+            "venue_id":723378557
+        }
+    ],
     "wof:id":723378557,
-    "wof:lastmodified":1472652105,
+    "wof:lastmodified":1492053937,
     "wof:name":"Durocher Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

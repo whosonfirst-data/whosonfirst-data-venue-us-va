@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.72812,37.2825,-76.72812,37.2825",
     "geom:latitude":37.2825,
     "geom:longitude":-76.72812,
@@ -31,17 +32,30 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085967
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mps5IcHPqyEv8nS3R12Qv_37.282500_-76.728120@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891324,
-    "wof:geomhash":"0ca6f078088e060b10e4864063e8fb0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5eb10836311c7d39af2d5b965db87dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085967,
+            "region_id":85688747,
+            "venue_id":722926013
+        }
+    ],
     "wof:id":722926013,
-    "wof:lastmodified":1472652148,
+    "wof:lastmodified":1492072243,
     "wof:name":"John D Hamrick MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

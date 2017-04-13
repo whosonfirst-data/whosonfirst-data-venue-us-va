@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.444651,38.350234,-77.444651,38.350234",
     "geom:latitude":38.350234,
     "geom:longitude":-77.444651,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547219
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LmDIQ3REihmMKfmPGydGz_38.350234_-77.444651@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902879,
-    "wof:geomhash":"deee1775ef8255e152e952b5c78082dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dfd374f18fb1dae785ef04be8cdf5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547219,
+            "venue_id":723496609
+        }
+    ],
     "wof:id":723496609,
-    "wof:lastmodified":1472652354,
+    "wof:lastmodified":1492051577,
     "wof:name":"M Comm Inc",
     "wof:parent_id":420547219,
     "wof:placetype":"venue",

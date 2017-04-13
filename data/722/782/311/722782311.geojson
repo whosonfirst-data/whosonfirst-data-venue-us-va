@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.497779,38.054227,-78.497779,38.054227",
     "geom:latitude":38.054227,
     "geom:longitude":-78.497779,
@@ -37,6 +38,9 @@
         85633793,
         101728535,
         102080639,
+        85852077,
+        101729633,
+        102084933,
         85867261
     ],
     "wof:breaches":[],
@@ -45,22 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1461888550,
-    "wof:geomhash":"43a7bb339a96d4363aeda92c6a2d0826",
+    "wof:geomhash":"0637f3ca8c201d5cae028aa18e6a83b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080639,
             "locality_id":101728535,
+            "neighbourhood_id":85852077,
+            "region_id":85688747,
+            "venue_id":722782311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
             "neighbourhood_id":85867261,
             "region_id":85688747,
             "venue_id":722782311
         }
     ],
     "wof:id":722782311,
-    "wof:lastmodified":1472651757,
+    "wof:lastmodified":1492067021,
     "wof:name":"Emmet Street Exxon",
-    "wof:parent_id":85867261,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

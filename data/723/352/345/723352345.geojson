@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.467912,38.020784,-78.467912,38.020784",
     "geom:latitude":38.020784,
     "geom:longitude":-78.467912,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728535,
+        102080639
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27lLqBgDoIv4QTK2V8c3uX_38.020784_-78.467912@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900041,
-    "wof:geomhash":"48f0d532dfb8fcdb68306d06cf57c986",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073a2886b61f41796856f3671bb85a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080639,
+            "locality_id":101728535,
+            "region_id":85688747,
+            "venue_id":723352345
+        }
+    ],
     "wof:id":723352345,
-    "wof:lastmodified":1472652039,
+    "wof:lastmodified":1492060990,
     "wof:name":"Queens Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

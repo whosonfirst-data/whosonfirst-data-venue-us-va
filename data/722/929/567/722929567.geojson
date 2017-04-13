@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.901345,36.697661,-78.901345,36.697661",
     "geom:latitude":36.697661,
     "geom:longitude":-78.901345,
@@ -37,17 +38,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728969,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12IZvNu2yOkIkB4brYkMTG_36.697661_-78.901345@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461891400,
-    "wof:geomhash":"7415feddfdb73e2ccb50554431054d66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"013e44085f7f4107e3253876f59741ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "locality_id":101728969,
+            "region_id":85688747,
+            "venue_id":722929567
+        }
+    ],
     "wof:id":722929567,
-    "wof:lastmodified":1472652171,
+    "wof:lastmodified":1492070791,
     "wof:name":"Vintner's Cellar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

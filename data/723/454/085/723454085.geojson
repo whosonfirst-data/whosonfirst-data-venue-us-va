@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.294549,36.890409,-81.294549,36.890409",
     "geom:latitude":36.890409,
     "geom:longitude":-81.294549,
@@ -32,17 +33,26 @@
         "sample"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ujFDebx5ud0liPGvo7Abq_36.890409_-81.294549@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461902012,
-    "wof:geomhash":"20996cc244b062920a811e650ff52acb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c79baa2a50fb0fba8ab6c28d07f9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723454085
+        }
+    ],
     "wof:id":723454085,
-    "wof:lastmodified":1472652281,
+    "wof:lastmodified":1492057851,
     "wof:name":"Marco Industries",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

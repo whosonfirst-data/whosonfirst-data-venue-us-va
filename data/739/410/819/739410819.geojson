@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.375189,37.856151,-77.375189,37.856151",
     "geom:latitude":37.856151,
     "geom:longitude":-77.375189,
@@ -28,7 +29,12 @@
     "sg:postcode":"22546",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LRFfgGQxjsrqoN7GtVxjo_37.856151_-77.375189@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461906779,
     "wof:geomhash":"0afae90843fa3780a7163cedf371a06a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739410819
+        }
+    ],
     "wof:id":739410819,
-    "wof:lastmodified":1472651496,
+    "wof:lastmodified":1492032273,
     "wof:name":"Concord Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

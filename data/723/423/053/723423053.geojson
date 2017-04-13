@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.355461,37.154539,-77.355461,37.154539",
     "geom:latitude":37.154539,
     "geom:longitude":-77.355461,
@@ -31,17 +32,30 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084927
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OJedcNCq431X7Jh5qPneM_37.154539_-77.355461@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901421,
-    "wof:geomhash":"85794990ac2ad123b914b0d78df25eb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5942eb505943ba0363a9f1904ac71876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084927,
+            "region_id":85688747,
+            "venue_id":723423053
+        }
+    ],
     "wof:id":723423053,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492050663,
     "wof:name":"Petersburg District Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

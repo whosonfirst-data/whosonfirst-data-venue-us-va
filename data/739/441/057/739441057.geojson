@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-79.944291,37.28752,-79.944291,37.28752",
     "geom:latitude":37.28752,
     "geom:longitude":-79.944291,
@@ -32,17 +33,32 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728747,
+        102086697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dYun52a7JphO8Vv2FUgrx_37.287520_-79.944291@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461907371,
-    "wof:geomhash":"1f2dcf9f82c8ed4c63bc102945f00ce2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6920fcd795d96e99327f7bb697a71ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086697,
+            "locality_id":101728747,
+            "region_id":85688747,
+            "venue_id":739441057
+        }
+    ],
     "wof:id":739441057,
-    "wof:lastmodified":1472651553,
+    "wof:lastmodified":1492047233,
     "wof:name":"Washington Park Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.902307,37.417671,-76.902307,37.417671",
     "geom:latitude":37.417671,
     "geom:longitude":-76.902307,
@@ -31,19 +32,28 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546939
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tkglfwHdsFsTrK9AlV9iG_37.417671_-76.902307@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889636,
-    "wof:geomhash":"bdac1bfcd2db6b1a38c06e9d371e1978",
-    "wof:hierarchy":[],
+    "wof:geomhash":"035d709332f961ee9176e94e3065bc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546939,
+            "venue_id":722840399
+        }
+    ],
     "wof:id":722840399,
-    "wof:lastmodified":1472651948,
+    "wof:lastmodified":1492071116,
     "wof:name":"Moon & Son",
-    "wof:parent_id":-1,
+    "wof:parent_id":420546939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

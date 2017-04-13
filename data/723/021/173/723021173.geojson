@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.553119,37.116842,-76.553119,37.116842",
     "geom:latitude":37.116842,
     "geom:longitude":-76.553119,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729041,
+        102085961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hlqxAXwlSn2plpH4w1YyK_37.116842_-76.553119@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461893397,
-    "wof:geomhash":"9a4d3eb3acde794eec6da9b4b74a3881",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43783e216968efcf5812cde4a64ca965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085961,
+            "locality_id":101729041,
+            "region_id":85688747,
+            "venue_id":723021173
+        }
+    ],
     "wof:id":723021173,
-    "wof:lastmodified":1472651135,
+    "wof:lastmodified":1492056345,
     "wof:name":"Hans Spilde Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.53117,38.728242,-77.53117,38.728242",
     "geom:latitude":38.728242,
     "geom:longitude":-77.53117,
@@ -49,7 +50,12 @@
     ],
     "sg:website":"http://www.completeautocareservice.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dFiwtcpx6TPYiZQtDF9s8_38.728242_-77.531170@1303262495"
@@ -57,9 +63,17 @@
     "wof:country":"US",
     "wof:created":1461910494,
     "wof:geomhash":"651662800ef40ffbba86ccc06e9ef6a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739604077
+        }
+    ],
     "wof:id":739604077,
-    "wof:lastmodified":1472651936,
+    "wof:lastmodified":1492032498,
     "wof:name":"Complete Auto Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

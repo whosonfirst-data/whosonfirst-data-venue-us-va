@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.489087,39.02549,-77.489087,39.02549",
     "geom:latitude":39.02549,
     "geom:longitude":-77.489087,
@@ -32,17 +33,32 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oWeVXYnO1AA9LP8AZo12j_39.025490_-77.489087@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895603,
-    "wof:geomhash":"2ab1b47b3ca129e94835c54e355ebc6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"723dd2ac2c2ac528e9d1c5b2cceb5007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723124965
+        }
+    ],
     "wof:id":723124965,
-    "wof:lastmodified":1472651393,
+    "wof:lastmodified":1492055129,
     "wof:name":"Ethio Software Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

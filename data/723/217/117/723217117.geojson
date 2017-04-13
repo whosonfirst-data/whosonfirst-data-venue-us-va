@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.515143,37.224607,-80.515143,37.224607",
     "geom:latitude":37.224607,
     "geom:longitude":-80.515143,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H0tLbMmwCBMKsx1yKguSo_37.224607_-80.515143@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897411,
-    "wof:geomhash":"a0e2304d19354b04e5a8d7c159153fcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c6ec431a366edd0a2518b226b63cfae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547025,
+            "venue_id":723217117
+        }
+    ],
     "wof:id":723217117,
-    "wof:lastmodified":1472651603,
+    "wof:lastmodified":1492059139,
     "wof:name":"Virginia Forage & Grasslands",
     "wof:parent_id":420547025,
     "wof:placetype":"venue",

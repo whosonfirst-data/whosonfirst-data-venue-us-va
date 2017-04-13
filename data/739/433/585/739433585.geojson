@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.775109,38.160075,-76.775109,38.160075",
     "geom:latitude":38.160075,
     "geom:longitude":-76.775109,
@@ -28,7 +29,12 @@
     "sg:postcode":"22520",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081421
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l0QETaFEqkXndqaa2b7A7_38.160075_-76.775109@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461907236,
     "wof:geomhash":"b67d468d52beb9c31c101e0737f4183b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081421,
+            "region_id":85688747,
+            "venue_id":739433585
+        }
+    ],
     "wof:id":739433585,
-    "wof:lastmodified":1472651532,
+    "wof:lastmodified":1492030402,
     "wof:name":"Jefferson Realty Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

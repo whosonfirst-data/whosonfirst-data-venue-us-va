@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.887642,38.426272,-78.887642,38.426272",
     "geom:latitude":38.426272,
     "geom:longitude":-78.887642,
@@ -28,7 +29,13 @@
     "sg:postcode":"22801",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728609,
+        102081423
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09wxpIzJexG7XojAZEu8Gd_38.426272_-78.887642@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461907601,
     "wof:geomhash":"da4c30c21f1087a9aafbe1ff9999d3ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081423,
+            "locality_id":101728609,
+            "region_id":85688747,
+            "venue_id":739453409
+        }
+    ],
     "wof:id":739453409,
-    "wof:lastmodified":1472651567,
+    "wof:lastmodified":1492030425,
     "wof:name":"Blue Ridge Angler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

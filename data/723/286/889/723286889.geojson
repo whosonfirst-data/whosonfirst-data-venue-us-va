@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.75997,37.238776,-76.75997,37.238776",
     "geom:latitude":37.238776,
     "geom:longitude":-76.75997,
@@ -31,19 +32,34 @@
         "psychologist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546801,
+        420546821
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kqUMNNe41uwGjBeSKU2DH_37.238776_-76.759970@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898808,
-    "wof:geomhash":"06cb37ce6d2e05bb2f701a5e510e3182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d349547f16d4837c41d500f21516f08f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546801,
+            "venue_id":723286889
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546821,
+            "venue_id":723286889
+        }
+    ],
     "wof:id":723286889,
-    "wof:lastmodified":1472651848,
+    "wof:lastmodified":1492048233,
     "wof:name":"Anne K Sullivan",
-    "wof:parent_id":420546801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

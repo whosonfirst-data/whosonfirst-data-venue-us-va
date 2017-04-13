@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.810524,37.632936,-75.810524,37.632936",
     "geom:latitude":37.632936,
     "geom:longitude":-75.810524,
@@ -32,17 +33,26 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546535
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A2EjHCrWTGWkv7wgJjSRX_37.632936_-75.810524@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895254,
-    "wof:geomhash":"0ab481b17b1ba13af0f06b5fbfd31785",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4a4b36dda2cd420e92aca8e34c66f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546535,
+            "venue_id":723107095
+        }
+    ],
     "wof:id":723107095,
-    "wof:lastmodified":1472651323,
+    "wof:lastmodified":1492053369,
     "wof:name":"Eastern Shore Driver Imprvmnt",
     "wof:parent_id":420546535,
     "wof:placetype":"venue",

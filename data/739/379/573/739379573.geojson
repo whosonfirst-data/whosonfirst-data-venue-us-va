@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510242,39.035336,-77.510242,39.035336",
     "geom:latitude":39.035336,
     "geom:longitude":-77.510242,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AXlUu4U3ecX4K6VgyACV0_39.035336_-77.510242@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906188,
-    "wof:geomhash":"c72d0516e74a182e1cc65e9fedac93fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df9d4eee52fa854d6ff6861dab3f9b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":739379573
+        }
+    ],
     "wof:id":739379573,
-    "wof:lastmodified":1472651361,
+    "wof:lastmodified":1492044221,
     "wof:name":"Apache Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

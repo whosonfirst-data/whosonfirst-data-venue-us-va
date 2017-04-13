@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.753686,37.106404,-80.753686,37.106404",
     "geom:latitude":37.106404,
     "geom:longitude":-80.753686,
@@ -31,7 +32,12 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084953
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ri9wz1SEr5jOV4aIT1HRw_37.106404_-80.753686@1294252573"
@@ -39,9 +45,17 @@
     "wof:country":"US",
     "wof:created":1461906134,
     "wof:geomhash":"16792f1350e26fc082d1a822f9f9bbc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "region_id":85688747,
+            "venue_id":739377031
+        }
+    ],
     "wof:id":739377031,
-    "wof:lastmodified":1472651331,
+    "wof:lastmodified":1492031190,
     "wof:name":"Ashley Coble",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

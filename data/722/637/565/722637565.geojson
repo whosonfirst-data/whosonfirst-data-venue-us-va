@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.507079,37.234236,-80.507079,37.234236",
     "geom:latitude":37.234236,
     "geom:longitude":-80.507079,
@@ -32,17 +33,26 @@
         "reinforcement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7chX623zjimG8CIMa58Rg6_37.234236_-80.507079@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885796,
-    "wof:geomhash":"c67958a161535517b02c44b5cdb9de50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44950e0199ccee8c85ec7746c7cdeb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547025,
+            "venue_id":722637565
+        }
+    ],
     "wof:id":722637565,
-    "wof:lastmodified":1472651419,
+    "wof:lastmodified":1492071726,
     "wof:name":"Oxendine Rebar Installation",
     "wof:parent_id":420547025,
     "wof:placetype":"venue",

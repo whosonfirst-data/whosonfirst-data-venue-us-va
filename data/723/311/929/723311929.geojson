@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.216737,38.754131,-77.216737,38.754131",
     "geom:latitude":38.754131,
     "geom:longitude":-77.216737,
@@ -35,9 +36,10 @@
         85688747,
         102191575,
         85633793,
-        101729807,
+        101729845,
         102084863,
-        85842501
+        85842501,
+        85804507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,22 +47,29 @@
     },
     "wof:country":"US",
     "wof:created":1461899300,
-    "wof:geomhash":"af55128dbaba3955cb71370178c2dc65",
+    "wof:geomhash":"6a9d9512cc45d5d9130644a2d9ce085f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084863,
-            "locality_id":101729807,
+            "locality_id":101729845,
             "neighbourhood_id":85842501,
+            "region_id":85688747,
+            "venue_id":723311929
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084863,
+            "neighbourhood_id":85804507,
             "region_id":85688747,
             "venue_id":723311929
         }
     ],
     "wof:id":723311929,
-    "wof:lastmodified":1472651835,
+    "wof:lastmodified":1492048457,
     "wof:name":"Community Of Faith Tabernacle",
-    "wof:parent_id":85842501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

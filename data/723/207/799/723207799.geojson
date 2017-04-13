@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.168084,36.865117,-76.168084,36.865117",
     "geom:latitude":36.865117,
     "geom:longitude":-76.168084,
@@ -38,7 +39,8 @@
         85633793,
         101728745,
         102081929,
-        420548401
+        420548401,
+        85830019
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461897218,
-    "wof:geomhash":"8b3595119e3e12f7bfaff80d00195b15",
+    "wof:geomhash":"c31279c21ab4cd2f93ea19597a7c5462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +58,21 @@
             "neighbourhood_id":420548401,
             "region_id":85688747,
             "venue_id":723207799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85830019,
+            "region_id":85688747,
+            "venue_id":723207799
         }
     ],
     "wof:id":723207799,
-    "wof:lastmodified":1472651631,
+    "wof:lastmodified":1492056525,
     "wof:name":"Burkley William E Wood & Assoc",
-    "wof:parent_id":420548401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

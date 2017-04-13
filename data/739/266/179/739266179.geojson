@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.986796,36.70744,-81.986796,36.70744",
     "geom:latitude":36.70744,
     "geom:longitude":-81.986796,
@@ -32,17 +33,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RFqimDUltT9hneFctpJh9_36.707440_-81.986796@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903838,
-    "wof:geomhash":"d12ba22d3c29dab87a7a2046d0bf35ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98a186db49638341b4c24bcf01137b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":739266179
+        }
+    ],
     "wof:id":739266179,
-    "wof:lastmodified":1472651139,
+    "wof:lastmodified":1492046725,
     "wof:name":"G & S Auto Sales",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

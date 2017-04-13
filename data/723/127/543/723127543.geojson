@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.514934,38.037634,-78.514934,38.037634",
     "geom:latitude":38.037634,
     "geom:longitude":-78.514934,
@@ -37,7 +38,10 @@
         85633793,
         101728535,
         102080639,
-        85876715
+        85876715,
+        101729633,
+        102084933,
+        85833183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461895653,
-    "wof:geomhash":"94af4030f73167f3b75c2ea2898427cf",
+    "wof:geomhash":"b6bb0d6ced6a58442966a5f9576a1ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +59,21 @@
             "neighbourhood_id":85876715,
             "region_id":85688747,
             "venue_id":723127543
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729633,
+            "neighbourhood_id":85833183,
+            "region_id":85688747,
+            "venue_id":723127543
         }
     ],
     "wof:id":723127543,
-    "wof:lastmodified":1472651380,
+    "wof:lastmodified":1492058666,
     "wof:name":"A Marie Hyde",
-    "wof:parent_id":85876715,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.895424,36.908004,-76.895424,36.908004",
     "geom:latitude":36.908004,
     "geom:longitude":-76.895424,
@@ -28,7 +29,13 @@
     "sg:postcode":"23888",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728869,
+        102084941
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SLE4h7bq5dwOmZ9TSHAli_36.908004_-76.895424@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461906774,
     "wof:geomhash":"7becca26e1ceaf276938b5610cc7fdd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084941,
+            "locality_id":101728869,
+            "region_id":85688747,
+            "venue_id":739410499
+        }
+    ],
     "wof:id":739410499,
-    "wof:lastmodified":1472651477,
+    "wof:lastmodified":1492032291,
     "wof:name":"Kitchens Mini Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

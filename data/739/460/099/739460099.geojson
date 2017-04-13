@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.547896,37.499151,-77.547896,37.499151",
     "geom:latitude":37.499151,
     "geom:longitude":-77.547896,
@@ -32,7 +33,13 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729319,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mm3I7zJyYD8tr1YxgAiNo_37.499151_-77.547896@1294252573"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461907717,
     "wof:geomhash":"e1571c08e9b3f429a0fa04ecb936fdc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101729319,
+            "region_id":85688747,
+            "venue_id":739460099
+        }
+    ],
     "wof:id":739460099,
-    "wof:lastmodified":1472651565,
+    "wof:lastmodified":1492031255,
     "wof:name":"Virginian The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

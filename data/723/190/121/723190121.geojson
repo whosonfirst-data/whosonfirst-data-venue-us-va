@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.047423,36.749342,-82.047423,36.749342",
     "geom:latitude":36.749342,
     "geom:longitude":-82.047423,
@@ -31,17 +32,26 @@
         "counseling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_492ZB4G7Hj1Hk2Sv5sGmP4_36.749342_-82.047423@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896882,
-    "wof:geomhash":"554492ac10569f6ec9502a04889f2705",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c3f7019d2d009bf1f06a710db688f09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723190121
+        }
+    ],
     "wof:id":723190121,
-    "wof:lastmodified":1472651513,
+    "wof:lastmodified":1492055282,
     "wof:name":"Home Free Ministries",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

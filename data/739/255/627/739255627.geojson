@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443977,38.850311,-77.443977,38.850311",
     "geom:latitude":38.850311,
     "geom:longitude":-77.443977,
@@ -31,17 +32,32 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09ATW3ZXJCrN5bMa5ANNsN_38.850311_-77.443977@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903614,
-    "wof:geomhash":"19e2d754fe6316b3822e41de15f2f687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f8506324c0b5d42ca85a16dd7117c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":739255627
+        }
+    ],
     "wof:id":739255627,
-    "wof:lastmodified":1472651106,
+    "wof:lastmodified":1492047182,
     "wof:name":"A C Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

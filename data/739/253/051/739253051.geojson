@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.276778,36.893921,-81.276778,36.893921",
     "geom:latitude":36.893921,
     "geom:longitude":-81.276778,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12gHmh469VGEr5GIqEDoSk_36.893921_-81.276778@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903557,
-    "wof:geomhash":"49d173e25610faf2fe350d9c74469def",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c35ee9616e2eff52774f74bdd6d4975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739253051
+        }
+    ],
     "wof:id":739253051,
-    "wof:lastmodified":1472651084,
+    "wof:lastmodified":1492038763,
     "wof:name":"Totally Clips",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

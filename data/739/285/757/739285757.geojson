@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.622293,38.763465,-78.622293,38.763465",
     "geom:latitude":38.763465,
     "geom:longitude":-78.622293,
@@ -28,7 +29,13 @@
     "sg:postcode":"22842",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728875,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pgPgqXqvo0fnEOLBym5ic_38.763465_-78.622293@1294252573"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1461904270,
     "wof:geomhash":"69791c095a046f230e6b79e6a02abec4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "locality_id":101728875,
+            "region_id":85688747,
+            "venue_id":739285757
+        }
+    ],
     "wof:id":739285757,
-    "wof:lastmodified":1472651174,
+    "wof:lastmodified":1492029735,
     "wof:name":"Joco LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

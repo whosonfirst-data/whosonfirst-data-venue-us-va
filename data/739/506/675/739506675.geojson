@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.337814,38.017939,-77.337814,38.017939",
     "geom:latitude":38.017939,
     "geom:longitude":-77.337814,
@@ -32,7 +33,12 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085943
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0emzpkb4IzdCuCKOv7DzCG_38.017939_-77.337814@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908547,
     "wof:geomhash":"8c0e344fa69ad90b104cd64c436a6ad4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085943,
+            "region_id":85688747,
+            "venue_id":739506675
+        }
+    ],
     "wof:id":739506675,
-    "wof:lastmodified":1472651804,
+    "wof:lastmodified":1492032876,
     "wof:name":"Caroline Animal Hospital Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

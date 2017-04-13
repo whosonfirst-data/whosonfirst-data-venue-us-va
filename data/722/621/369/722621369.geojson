@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.414986,38.364822,-77.414986,38.364822",
     "geom:latitude":38.364822,
     "geom:longitude":-77.414986,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bazLFWIuVme9oSjb4dUaA_38.364822_-77.414986@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885416,
-    "wof:geomhash":"e73b7d44d1974fc016f2ff33728a1827",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cde109c7dc80bc297fa9d555b7db07c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":722621369
+        }
+    ],
     "wof:id":722621369,
-    "wof:lastmodified":1472651386,
+    "wof:lastmodified":1492072204,
     "wof:name":"Petersen Painting",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

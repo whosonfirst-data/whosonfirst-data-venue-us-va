@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.350676,37.851689,-76.350676,37.851689",
     "geom:latitude":37.851689,
     "geom:longitude":-76.350676,
@@ -32,7 +33,12 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084919
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XntmqxLMyuvEJ9bL9iAJb_37.851689_-76.350676@1303262547"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461912415,
     "wof:geomhash":"6aa5b5047c94692b03c67360d55a77a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084919,
+            "region_id":85688747,
+            "venue_id":739693847
+        }
+    ],
     "wof:id":739693847,
-    "wof:lastmodified":1472652193,
+    "wof:lastmodified":1492031401,
     "wof:name":"Nature Works, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

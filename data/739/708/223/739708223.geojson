@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.388453,38.00307,-78.388453,38.00307",
     "geom:latitude":38.00307,
     "geom:longitude":-78.388453,
@@ -40,7 +41,13 @@
     ],
     "sg:website":"http://www.edpohio.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729623,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IiCqX8FCvuw4vkn0932Ii_38.003070_-78.388453@1303262548"
@@ -48,9 +55,18 @@
     "wof:country":"US",
     "wof:created":1461912742,
     "wof:geomhash":"fae70b661e16f980d989b54c9ce36f46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "locality_id":101729623,
+            "region_id":85688747,
+            "venue_id":739708223
+        }
+    ],
     "wof:id":739708223,
-    "wof:lastmodified":1472652181,
+    "wof:lastmodified":1492030770,
     "wof:name":"Edp Consultants, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

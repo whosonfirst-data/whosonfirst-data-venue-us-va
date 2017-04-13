@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.471589,39.044742,-77.471589,39.044742",
     "geom:latitude":39.044742,
     "geom:longitude":-77.471589,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729435,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FgSYhpnAlKnkGqS1zteii_39.044742_-77.471589@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895324,
-    "wof:geomhash":"2a3291830a95edb9f4c69800b607389c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26fb779a33e126aef7c68c7422c0625b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729435,
+            "region_id":85688747,
+            "venue_id":723110371
+        }
+    ],
     "wof:id":723110371,
-    "wof:lastmodified":1472651327,
+    "wof:lastmodified":1492055914,
     "wof:name":"Ashburn Village Spt Pavilion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

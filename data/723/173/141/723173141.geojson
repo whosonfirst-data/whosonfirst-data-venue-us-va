@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.497224,38.896181,-77.497224,38.896181",
     "geom:latitude":38.896181,
     "geom:longitude":-77.497224,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729459,
+        102084951
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bJaEHQN7Z07aX2cZRZSFv_38.896181_-77.497224@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896541,
-    "wof:geomhash":"fcb3a9372a19fa63c0f81527997e0228",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a97664c9a36a501734ab0fb0b17ff10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084951,
+            "locality_id":101729459,
+            "region_id":85688747,
+            "venue_id":723173141
+        }
+    ],
     "wof:id":723173141,
-    "wof:lastmodified":1472651457,
+    "wof:lastmodified":1492057100,
     "wof:name":"Abeo Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

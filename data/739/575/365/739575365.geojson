@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.667832,38.797748,-78.667832,38.797748",
     "geom:latitude":38.797748,
     "geom:longitude":-78.667832,
@@ -28,7 +29,12 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102081061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aF5oWUPBeqZzkPeIGOyS6_38.797748_-78.667832@1294252573"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461909901,
     "wof:geomhash":"ef9b4206e6447b91a5496069424e09df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081061,
+            "region_id":85688747,
+            "venue_id":739575365
+        }
+    ],
     "wof:id":739575365,
-    "wof:lastmodified":1472651921,
+    "wof:lastmodified":1492029844,
     "wof:name":"James Ryan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.631741,36.982137,-76.631741,36.982137",
     "geom:latitude":36.982137,
     "geom:longitude":-76.631741,
@@ -34,7 +35,13 @@
     ],
     "sg:website":"www.smithfieldinn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728627,
+        102086709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hDeDy9IGHqW5F1BYqvof8_36.982287_-76.631197@1293134755"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1461909784,
     "wof:geomhash":"261b398adf5eaf7b7f57a564ef87f506",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086709,
+            "locality_id":101728627,
+            "region_id":85688747,
+            "venue_id":739570297
+        }
+    ],
     "wof:id":739570297,
-    "wof:lastmodified":1472651895,
+    "wof:lastmodified":1492031738,
     "wof:name":"The Smithfield Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

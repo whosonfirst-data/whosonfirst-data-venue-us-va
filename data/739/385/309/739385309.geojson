@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.136957,38.853274,-77.136957,38.853274",
     "geom:latitude":38.853274,
     "geom:longitude":-77.136957,
@@ -33,17 +34,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729725,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LjOoZr12xoDwpItlqVD2p_38.853274_-77.136957@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461906289,
-    "wof:geomhash":"16849fd4bfee5ceb477e3800802e1d90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d11bad3829a0ecf4645c49b2b0d91ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729725,
+            "region_id":85688747,
+            "venue_id":739385309
+        }
+    ],
     "wof:id":739385309,
-    "wof:lastmodified":1472651374,
+    "wof:lastmodified":1492039778,
     "wof:name":"Alternative House Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

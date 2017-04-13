@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.437202,38.065601,-78.437202,38.065601",
     "geom:latitude":38.065601,
     "geom:longitude":-78.437202,
@@ -28,7 +29,12 @@
     "sg:postcode":"22911",
     "sg:province":"VA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084933
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HHCYK8htSju8557Ffb3Br_38.065601_-78.437202@1303262548"
@@ -36,9 +42,17 @@
     "wof:country":"US",
     "wof:created":1461912737,
     "wof:geomhash":"ad078d7cabe4719f1a0011332f5425c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084933,
+            "region_id":85688747,
+            "venue_id":739708009
+        }
+    ],
     "wof:id":739708009,
-    "wof:lastmodified":1472652162,
+    "wof:lastmodified":1492030750,
     "wof:name":"Nagel Joseph PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

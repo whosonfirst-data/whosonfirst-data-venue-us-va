@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.223045,36.819483,-76.223045,36.819483",
     "geom:latitude":36.819483,
     "geom:longitude":-76.223045,
@@ -42,6 +43,9 @@
         85688747,
         102191575,
         85633793,
+        101728745,
+        102081929,
+        85828665,
         101728797,
         102087265,
         85876755
@@ -52,8 +56,17 @@
     },
     "wof:country":"US",
     "wof:created":1461901447,
-    "wof:geomhash":"b91bbb4c4bdb2e29c8190683a1a8fdf9",
+    "wof:geomhash":"e2174af1531be48dc63ff2addb7860d5",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85828665,
+            "region_id":85688747,
+            "venue_id":723424061
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -65,9 +78,9 @@
         }
     ],
     "wof:id":723424061,
-    "wof:lastmodified":1472652218,
+    "wof:lastmodified":1492051246,
     "wof:name":"Mail & Pack Center",
-    "wof:parent_id":85876755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

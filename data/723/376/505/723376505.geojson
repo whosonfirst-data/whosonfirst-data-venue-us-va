@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.423781,37.18061,-76.423781,37.18061",
     "geom:latitude":37.18061,
     "geom:longitude":-76.423781,
@@ -32,17 +33,26 @@
         "chemist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547333
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Zv0B4vrGE6ekqDAb3it9z_37.180610_-76.423781@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900507,
-    "wof:geomhash":"311c82f1ef2134dea542334651195643",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0943f5276bca364864c466ae6da09b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547333,
+            "venue_id":723376505
+        }
+    ],
     "wof:id":723376505,
-    "wof:lastmodified":1472652097,
+    "wof:lastmodified":1492060236,
     "wof:name":"Coastwise Marine Chemist Inc",
     "wof:parent_id":420547333,
     "wof:placetype":"venue",

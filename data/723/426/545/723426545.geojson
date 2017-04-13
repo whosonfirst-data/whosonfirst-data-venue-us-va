@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.016352,36.724945,-82.016352,36.724945",
     "geom:latitude":36.724945,
     "geom:longitude":-82.016352,
@@ -32,17 +33,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547307
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ngCgvVxpZLZaF0uvSCSTK_36.724945_-82.016352@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461901506,
-    "wof:geomhash":"28d357baa7d8f9fea5fb1ac33e55e90c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ff11dc6443f2d308c7774dbec8530d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547307,
+            "venue_id":723426545
+        }
+    ],
     "wof:id":723426545,
-    "wof:lastmodified":1472652244,
+    "wof:lastmodified":1492061594,
     "wof:name":"Virginia Baptist Childrens",
     "wof:parent_id":420547307,
     "wof:placetype":"venue",

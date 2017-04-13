@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.371674,38.522598,-77.371674,38.522598",
     "geom:latitude":38.522598,
     "geom:longitude":-77.371674,
@@ -33,19 +34,28 @@
     ],
     "sg:website":"http://www.boardofveteransappeals.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547123
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ESpoXu07gHKiVmXvIPffr_38.522598_-77.371674@1303262539"
     },
     "wof:country":"US",
     "wof:created":1461911219,
-    "wof:geomhash":"1ca9985d8bf7289ea04f2f80ae36307e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cca62c57448eabefa43e7138bdc3f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547123,
+            "venue_id":739637961
+        }
+    ],
     "wof:id":739637961,
-    "wof:lastmodified":1472652029,
+    "wof:lastmodified":1492042735,
     "wof:name":"United States Dept Of Veterans Affairs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420547123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

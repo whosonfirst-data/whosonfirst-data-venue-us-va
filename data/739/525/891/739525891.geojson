@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.967181,36.716025,-78.967181,36.716025",
     "geom:latitude":36.716025,
     "geom:longitude":-78.967181,
@@ -32,7 +33,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084931
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nCRTFZlqJpa3ALEbFihYa_36.716025_-78.967181@1294252573"
@@ -40,9 +46,17 @@
     "wof:country":"US",
     "wof:created":1461908903,
     "wof:geomhash":"e4cdd25c177e5bc8bbcf8386776d8a56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084931,
+            "region_id":85688747,
+            "venue_id":739525891
+        }
+    ],
     "wof:id":739525891,
-    "wof:lastmodified":1472651844,
+    "wof:lastmodified":1492032619,
     "wof:name":"Joe Taylor Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

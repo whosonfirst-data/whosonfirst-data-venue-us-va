@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.42943,38.296102,-77.42943,38.296102",
     "geom:latitude":38.296102,
     "geom:longitude":-77.42943,
@@ -32,7 +33,10 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547213
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fp7tIOPlG71xGkW33sLTP_38.296102_-77.429430@1303262546"
@@ -40,9 +44,15 @@
     "wof:country":"US",
     "wof:created":1461912402,
     "wof:geomhash":"896cc15c79e0bb637e3bba720ed62363",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547213,
+            "venue_id":739693079
+        }
+    ],
     "wof:id":739693079,
-    "wof:lastmodified":1472652163,
+    "wof:lastmodified":1492031381,
     "wof:name":"Gerald L Young",
     "wof:parent_id":420547213,
     "wof:placetype":"venue",

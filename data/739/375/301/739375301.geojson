@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.67962,38.859197,-77.67962,38.859197",
     "geom:latitude":38.859197,
     "geom:longitude":-77.67962,
@@ -34,7 +35,12 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102084937
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cDmBEduGxPlrENuC5hxrn_38.859197_-77.679620@1294252573"
@@ -42,9 +48,17 @@
     "wof:country":"US",
     "wof:created":1461906104,
     "wof:geomhash":"949ccd7f0b1c82c941845b4bcf859360",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084937,
+            "region_id":85688747,
+            "venue_id":739375301
+        }
+    ],
     "wof:id":739375301,
-    "wof:lastmodified":1472651345,
+    "wof:lastmodified":1492030857,
     "wof:name":"Legacy Lawn & Ldscp Design LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

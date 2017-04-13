@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.545547,37.603939,-77.545547,37.603939",
     "geom:latitude":37.603939,
     "geom:longitude":-77.545547,
@@ -31,17 +32,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729377,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jm2ryXWmTue07rdkoM2pg_37.603939_-77.545547@1303262550"
     },
     "wof:country":"US",
     "wof:created":1461912999,
-    "wof:geomhash":"2eafc7fe24fd805e11d3a30e25a080be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a571326094e813d1a52f4cda4f4d2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "locality_id":101729377,
+            "region_id":85688747,
+            "venue_id":739720099
+        }
+    ],
     "wof:id":739720099,
-    "wof:lastmodified":1472652207,
+    "wof:lastmodified":1492040031,
     "wof:name":"Scott & Stringfellow Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

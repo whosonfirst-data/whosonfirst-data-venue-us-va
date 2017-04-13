@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.443489,38.85139,-77.443489,38.85139",
     "geom:latitude":38.85139,
     "geom:longitude":-77.443489,
@@ -31,17 +32,32 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729733,
+        102084863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CyPoLKps34g0UTKn39s7n_38.851390_-77.443489@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884796,
-    "wof:geomhash":"0997cbe2fedf7d259f71f7df305b5c0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf3c8bdb2ea8902386f9909fef0ae306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084863,
+            "locality_id":101729733,
+            "region_id":85688747,
+            "venue_id":722590211
+        }
+    ],
     "wof:id":722590211,
-    "wof:lastmodified":1472651197,
+    "wof:lastmodified":1492067296,
     "wof:name":"E Neighbors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

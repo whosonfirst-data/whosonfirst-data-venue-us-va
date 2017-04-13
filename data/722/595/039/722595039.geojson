@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.763881,37.35301,-76.763881,37.35301",
     "geom:latitude":37.35301,
     "geom:longitude":-76.763881,
@@ -32,17 +33,26 @@
         "operative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546929
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sh4ritZuqbE54zoJ7p3xp_37.353010_-76.763881@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461884882,
-    "wof:geomhash":"a110399924a9044929886e361cd9e816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fa77a7e533b4bd32fb6b8eb1dc06b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546929,
+            "venue_id":722595039
+        }
+    ],
     "wof:id":722595039,
-    "wof:lastmodified":1472651205,
+    "wof:lastmodified":1492071250,
     "wof:name":"US Home",
     "wof:parent_id":420546929,
     "wof:placetype":"venue",

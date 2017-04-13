@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.220412,36.875862,-81.220412,36.875862",
     "geom:latitude":36.875862,
     "geom:longitude":-81.220412,
@@ -32,19 +33,42 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728749,
+        102086723,
+        85828107,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GR46kfjqpbaudecVA7pvR_36.875862_-81.220412@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461898461,
-    "wof:geomhash":"399929f5bb784796de5bec40ae2a0476",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55c51484e764fc81a3b863b155ba41db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086723,
+            "locality_id":101728749,
+            "neighbourhood_id":85828107,
+            "region_id":85688747,
+            "venue_id":723268045
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":723268045
+        }
+    ],
     "wof:id":723268045,
-    "wof:lastmodified":1472651729,
+    "wof:lastmodified":1492055400,
     "wof:name":"Larry & Joanne Corvin Truck",
-    "wof:parent_id":420547323,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

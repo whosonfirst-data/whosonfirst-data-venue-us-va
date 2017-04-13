@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.510026,38.373656,-77.510026,38.373656",
     "geom:latitude":38.373656,
     "geom:longitude":-77.510026,
@@ -35,17 +36,26 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547249
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GFvr7cMLqSGOW1qjrnfHL_38.373656_-77.510026@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461885056,
-    "wof:geomhash":"fb9afc0a8f2391817e81134a1355ae2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4843f4daecb673d46d57be02742dd22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547249,
+            "venue_id":722603635
+        }
+    ],
     "wof:id":722603635,
-    "wof:lastmodified":1472651301,
+    "wof:lastmodified":1492073550,
     "wof:name":"Datron World Communications",
     "wof:parent_id":420547249,
     "wof:placetype":"venue",

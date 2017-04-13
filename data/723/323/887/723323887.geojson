@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.742914,37.317966,-76.742914,37.317966",
     "geom:latitude":37.317966,
     "geom:longitude":-76.742914,
@@ -31,17 +32,26 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420546793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QH0ImUcOSVZboueNkoeNW_37.317966_-76.742914@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461899517,
-    "wof:geomhash":"c324eff7342ba0f6c0f7fdfc4105e217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbf2a91dab860e834c3b23811ac7627f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420546793,
+            "venue_id":723323887
+        }
+    ],
     "wof:id":723323887,
-    "wof:lastmodified":1472651913,
+    "wof:lastmodified":1492059619,
     "wof:name":"Williamsburg Memorial Park",
     "wof:parent_id":420546793,
     "wof:placetype":"venue",

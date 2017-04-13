@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.343031,38.403677,-77.343031,38.403677",
     "geom:latitude":38.403677,
     "geom:longitude":-77.343031,
@@ -31,7 +32,10 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547121
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36di6fL2DxlwQsdlu7MdYX_38.403677_-77.343031@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461904279,
     "wof:geomhash":"e1a804f43f48f5f3e25ede9069edf141",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547121,
+            "venue_id":739286225
+        }
+    ],
     "wof:id":739286225,
-    "wof:lastmodified":1472651149,
+    "wof:lastmodified":1492030086,
     "wof:name":"Mother Hubbards Cupboard",
     "wof:parent_id":420547121,
     "wof:placetype":"venue",

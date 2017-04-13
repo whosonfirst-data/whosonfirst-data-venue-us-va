@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.438648,38.778045,-77.438648,38.778045",
     "geom:latitude":38.778045,
     "geom:longitude":-77.438648,
@@ -42,17 +43,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728631,
+        102084981
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23zppb0s7RGdXkLDxz4D3E_38.778045_-77.438648@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461896071,
-    "wof:geomhash":"2efe51885e2894b036e3da091f61dbd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80ec21bc8e256675753693dd436ddd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084981,
+            "locality_id":101728631,
+            "region_id":85688747,
+            "venue_id":723148547
+        }
+    ],
     "wof:id":723148547,
-    "wof:lastmodified":1472651420,
+    "wof:lastmodified":1492053611,
     "wof:name":"Old Dominion Supply Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

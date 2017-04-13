@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.369846,38.299296,-77.369846,38.299296",
     "geom:latitude":38.299296,
     "geom:longitude":-77.369846,
@@ -32,17 +33,26 @@
         "knitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547223
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GegP73qmStDZditQF7opM_38.299296_-77.369846@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900569,
-    "wof:geomhash":"2e61177a8d5d4a79875edbdb3dc5628b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62c0fb9dd76c779f3b18e4f86c4b6a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547223,
+            "venue_id":723379017
+        }
+    ],
     "wof:id":723379017,
-    "wof:lastmodified":1472652097,
+    "wof:lastmodified":1492059313,
     "wof:name":"Knit Pearl",
     "wof:parent_id":420547223,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.915314,37.511322,-77.915314,37.511322",
     "geom:latitude":37.511322,
     "geom:longitude":-77.915314,
@@ -33,7 +34,12 @@
         "raising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58oIOCH19Be91uWeR0tta8_37.511322_-77.915314@1294252573"
@@ -41,9 +47,17 @@
     "wof:country":"US",
     "wof:created":1461907819,
     "wof:geomhash":"5f0d30f63949674fee99796703be1cde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":739465995
+        }
+    ],
     "wof:id":739465995,
-    "wof:lastmodified":1472651645,
+    "wof:lastmodified":1492031926,
     "wof:name":"New Millennium Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.645172,37.448471,-77.645172,37.448471",
     "geom:latitude":37.448471,
     "geom:longitude":-77.645172,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.terminix.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729315,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52SO044Qd5xUCmF0wEBiUB_37.448471_-77.645172@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912786,
-    "wof:geomhash":"bd4ae0fb0cf09a1ff06a427c6415e740",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d32b0d257811a0429321f90ef64e0cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729315,
+            "region_id":85688747,
+            "venue_id":739710199
+        }
+    ],
     "wof:id":739710199,
-    "wof:lastmodified":1472652173,
+    "wof:lastmodified":1492045683,
     "wof:name":"Terminix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

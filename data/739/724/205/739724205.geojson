@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.545891,37.53925,-77.545891,37.53925",
     "geom:latitude":37.53925,
     "geom:longitude":-77.545891,
@@ -32,7 +33,13 @@
         "baskets-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728675,
+        102085959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PLgBW940IQMirt0xbvBnV_37.539250_-77.545891@1303262550"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1461913078,
     "wof:geomhash":"d78827d012b3e2ddca8d0a87405ebbdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085959,
+            "locality_id":101728675,
+            "region_id":85688747,
+            "venue_id":739724205
+        }
+    ],
     "wof:id":739724205,
-    "wof:lastmodified":1472652219,
+    "wof:lastmodified":1492030947,
     "wof:name":"Longaberger Basket Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.134173,37.653599,-80.134173,37.653599",
     "geom:latitude":37.653599,
     "geom:longitude":-80.134173,
@@ -31,17 +32,30 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102083817
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nKEL8wI604ZCbwFd5iEYT_37.653599_-80.134173@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886943,
-    "wof:geomhash":"4a5c772d7c64832c5ec4bd0b0566da29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d16564c7af16e159bba3ab7c237c496e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083817,
+            "region_id":85688747,
+            "venue_id":722698591
+        }
+    ],
     "wof:id":722698591,
-    "wof:lastmodified":1472651561,
+    "wof:lastmodified":1492062597,
     "wof:name":"Miller Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

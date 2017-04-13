@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.828056,37.547826,-77.828056,37.547826",
     "geom:latitude":37.547826,
     "geom:longitude":-77.828056,
@@ -33,17 +34,30 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102085955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y9yyXj6xXytTbfhhFiYsC_37.547826_-77.828056@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461897296,
-    "wof:geomhash":"03cdbdc701272aabfbae4b4987a4096c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cea5e196bdf4703d6f932f652119ecb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085955,
+            "region_id":85688747,
+            "venue_id":723211449
+        }
+    ],
     "wof:id":723211449,
-    "wof:lastmodified":1472651624,
+    "wof:lastmodified":1492047798,
     "wof:name":"Independence First Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

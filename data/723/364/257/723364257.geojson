@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.626319,37.619533,-77.626319,37.619533",
     "geom:latitude":37.619533,
     "geom:longitude":-77.626319,
@@ -31,17 +32,30 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688747,
+        102087255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pSE4ZOp4MwHmTBF1nuKbG_37.619533_-77.626319@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461900269,
-    "wof:geomhash":"1cdd913a871f4e5d1b7da8eadbbf7762",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2c199d254d20f78125a334d31689bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087255,
+            "region_id":85688747,
+            "venue_id":723364257
+        }
+    ],
     "wof:id":723364257,
-    "wof:lastmodified":1472652064,
+    "wof:lastmodified":1492050193,
     "wof:name":"Virginia Probation Treatment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

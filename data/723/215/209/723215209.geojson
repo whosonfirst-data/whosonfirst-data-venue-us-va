@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.055033,36.875309,-76.055033,36.875309",
     "geom:latitude":36.875309,
     "geom:longitude":-76.055033,
@@ -34,6 +35,7 @@
         85633793,
         101728745,
         102081929,
+        85845259,
         85858463
     ],
     "wof:breaches":[],
@@ -42,8 +44,17 @@
     },
     "wof:country":"US",
     "wof:created":1461897369,
-    "wof:geomhash":"8e7dd1b52a22c76004d445207603842e",
+    "wof:geomhash":"3c5c366bfe0ef31d0d4ef20234ea1675",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85845259,
+            "region_id":85688747,
+            "venue_id":723215209
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -55,9 +66,9 @@
         }
     ],
     "wof:id":723215209,
-    "wof:lastmodified":1472651607,
+    "wof:lastmodified":1492059445,
     "wof:name":"Gift and Collectible LLC",
-    "wof:parent_id":85858463,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

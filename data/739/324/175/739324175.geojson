@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.418695,38.343627,-77.418695,38.343627",
     "geom:latitude":38.343627,
     "geom:longitude":-77.418695,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547253
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YlaV3ZOMrjLZpetoMXMUV_38.343627_-77.418695@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461905063,
-    "wof:geomhash":"be2800b459ca110d03c32aa5ac809e2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7250f264990272684ec37de2b885e7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547253,
+            "venue_id":739324175
+        }
+    ],
     "wof:id":739324175,
-    "wof:lastmodified":1472651256,
+    "wof:lastmodified":1492040818,
     "wof:name":"Mid-Atlantic Roofing",
     "wof:parent_id":420547253,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.211264,36.928495,-76.211264,36.928495",
     "geom:latitude":36.928495,
     "geom:longitude":-76.211264,
@@ -37,17 +38,32 @@
         "devices"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728769,
+        102085935
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iVncKGt8TbsNHZv2sVdFv_36.928495_-76.211264@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461886840,
-    "wof:geomhash":"43f16e846ade6baa2159f3fe7ac628dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7632b2fdd364b19836548b168f2f4074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085935,
+            "locality_id":101728769,
+            "region_id":85688747,
+            "venue_id":722693261
+        }
+    ],
     "wof:id":722693261,
-    "wof:lastmodified":1472651547,
+    "wof:lastmodified":1492064414,
     "wof:name":"Metro Amusement Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

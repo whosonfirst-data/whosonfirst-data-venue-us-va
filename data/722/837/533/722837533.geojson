@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-78.827364,37.34669,-78.827364,37.34669",
     "geom:latitude":37.34669,
     "geom:longitude":-78.827364,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101728991,
+        102083819
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U1DvlpyGUYRFvCqPsjG4w_37.346690_-78.827364@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461889582,
-    "wof:geomhash":"64b53f9deaad415ccd35f9ec3fd6957e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c02c6b1bbe9e2b7c9de74a01385b1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083819,
+            "locality_id":101728991,
+            "region_id":85688747,
+            "venue_id":722837533
+        }
+    ],
     "wof:id":722837533,
-    "wof:lastmodified":1472651949,
+    "wof:lastmodified":1492068413,
     "wof:name":"Appomattox Health Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

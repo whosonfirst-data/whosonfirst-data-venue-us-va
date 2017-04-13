@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.59102,37.142402,-80.59102,37.142402",
     "geom:latitude":37.142402,
     "geom:longitude":-80.59102,
@@ -31,17 +32,41 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729185,
+        102084953,
+        101729175
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CkPXP3nf1ABEhVAnurfP9_37.142402_-80.591020@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461887210,
-    "wof:geomhash":"089db93ff0f18f274dd5ff7dbd27967d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e346cdd0f237d8e1f90fb325083f9823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "locality_id":101729185,
+            "region_id":85688747,
+            "venue_id":722713075
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084953,
+            "locality_id":101729175,
+            "region_id":85688747,
+            "venue_id":722713075
+        }
+    ],
     "wof:id":722713075,
-    "wof:lastmodified":1472651555,
+    "wof:lastmodified":1492063313,
     "wof:name":"Morgans Chapel Umc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

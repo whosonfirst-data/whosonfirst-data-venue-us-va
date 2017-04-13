@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.512629,37.304116,-76.512629,37.304116",
     "geom:latitude":37.304116,
     "geom:longitude":-76.512629,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729481,
+        102081417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OnhXBFwzEdGIkc10wV3uG_37.304116_-76.512629@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461894169,
-    "wof:geomhash":"579aad9a5c318f11750eb6505b2d5c9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6e44c93a1eb800097c1c332a9976b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081417,
+            "locality_id":101729481,
+            "region_id":85688747,
+            "venue_id":723057485
+        }
+    ],
     "wof:id":723057485,
-    "wof:lastmodified":1472651217,
+    "wof:lastmodified":1492061525,
     "wof:name":"Rock Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

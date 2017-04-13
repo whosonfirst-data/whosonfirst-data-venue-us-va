@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.451376,38.315797,-77.451376,38.315797",
     "geom:latitude":38.315797,
     "geom:longitude":-77.451376,
@@ -29,19 +30,28 @@
     "sg:province":"VA",
     "sg:website":"www.wawa.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547269
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z7d4dHSEenKgT4U6Dm9YY_38.315797_-77.451376@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461895123,
-    "wof:geomhash":"c156e63d0ba26d19b71b3add0745c0cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05d1c4a1abe013c81a770c8c377a316c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547269,
+            "venue_id":723100123
+        }
+    ],
     "wof:id":723100123,
-    "wof:lastmodified":1472651276,
+    "wof:lastmodified":1492052328,
     "wof:name":"Wawa Food Market",
-    "wof:parent_id":420547269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

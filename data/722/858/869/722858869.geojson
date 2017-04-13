@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.974257,36.845338,-75.974257,36.845338",
     "geom:latitude":36.845338,
     "geom:longitude":-75.974257,
@@ -37,7 +38,9 @@
         85633793,
         101728745,
         102081929,
-        85847613
+        85847613,
+        85846355,
+        85872041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1461889995,
-    "wof:geomhash":"1af2e1825ef3c55079c51f6cc00a4fb8",
+    "wof:geomhash":"7743ef0b5387ddf1f2f912da6c9eb65c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,30 @@
             "neighbourhood_id":85847613,
             "region_id":85688747,
             "venue_id":722858869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85846355,
+            "region_id":85688747,
+            "venue_id":722858869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081929,
+            "locality_id":101728745,
+            "neighbourhood_id":85872041,
+            "region_id":85688747,
+            "venue_id":722858869
         }
     ],
     "wof:id":722858869,
-    "wof:lastmodified":1472652019,
+    "wof:lastmodified":1492069464,
     "wof:name":"Beach Diner",
-    "wof:parent_id":85847613,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
     "wof:superseded_by":[],

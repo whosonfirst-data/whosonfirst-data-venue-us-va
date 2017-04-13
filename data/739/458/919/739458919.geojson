@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.275861,36.89304,-81.275861,36.89304",
     "geom:latitude":36.89304,
     "geom:longitude":-81.275861,
@@ -31,7 +32,10 @@
         "nurseryman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420547323
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30axeLzluV4mpftby9rGW2_36.893040_-81.275861@1294252573"
@@ -39,9 +43,15 @@
     "wof:country":"US",
     "wof:created":1461907699,
     "wof:geomhash":"5851a7e7600d1525aaeaa029006319ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420547323,
+            "venue_id":739458919
+        }
+    ],
     "wof:id":739458919,
-    "wof:lastmodified":1472651597,
+    "wof:lastmodified":1492030015,
     "wof:name":"Jones Nursery",
     "wof:parent_id":420547323,
     "wof:placetype":"venue",

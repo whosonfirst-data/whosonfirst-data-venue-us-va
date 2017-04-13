@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.686278,37.421509,-77.686278,37.421509",
     "geom:latitude":37.421509,
     "geom:longitude":-77.686278,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688747,
+        102191575,
+        85633793,
+        101729323,
+        102084955
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q9V455a2ptintGN1SWUVz_37.421509_-77.686278@1303262549"
     },
     "wof:country":"US",
     "wof:created":1461912786,
-    "wof:geomhash":"d83ef2b5c3b51cb856c2c0c2980ddbfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdc20abed41ff10f474bb923e7cf92f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084955,
+            "locality_id":101729323,
+            "region_id":85688747,
+            "venue_id":739710245
+        }
+    ],
     "wof:id":739710245,
-    "wof:lastmodified":1472652177,
+    "wof:lastmodified":1492045645,
     "wof:name":"Southern Living At Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
