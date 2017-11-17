@@ -7,6 +7,7 @@
     "addr:postcode":"20166",
     "addr:street":"Dulles Eastern Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-77.424326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"45575 Dulles Eastern Plz",
     "sg:city":"Sterling",
     "sg:classifiers":[
@@ -44,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":48234472,
         "sg:id":"SG_3h8qU3LpA0fWOZmavREhCm_39.024481_-77.424326@1294252573"
     },
     "wof:country":"US",
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":723457547,
-    "wof:lastmodified":1492050314,
+    "wof:lastmodified":1510942381,
     "wof:name":"Best Buy",
     "wof:parent_id":85868639,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739612553
+    ],
+    "wof:supersedes":[
+        739612553
+    ],
     "wof:tags":[
         "equipment",
         "electronic",

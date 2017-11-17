@@ -7,13 +7,16 @@
     "addr:postcode":"24073",
     "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-80.419646,37.163263,-80.419646,37.163263",
     "geom:latitude":37.163263,
     "geom:longitude":-80.419646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"150 Laurel St",
     "sg:city":"Christiansburg",
     "sg:classifiers":[
@@ -41,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3070587031,
         "sg:id":"SG_6zRasbYXW4cAwk3nXFU3JK_37.163263_-80.419646@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461903426,
-    "wof:geomhash":"712c2c0da04fbbcef71e5a56530482cc",
+    "wof:geomhash":"577ceba67e76b98538375d320cd7725f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +62,17 @@
         }
     ],
     "wof:id":739247497,
-    "wof:lastmodified":1472651074,
+    "wof:lastmodified":1510943134,
     "wof:name":"Ocharleys",
     "wof:parent_id":85803267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        722621597
+    ],
+    "wof:supersedes":[
+        722621597
+    ],
     "wof:tags":[
         "eating"
     ]

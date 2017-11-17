@@ -7,13 +7,16 @@
     "addr:postcode":"23220",
     "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.458752,37.551359,-77.458752,37.551359",
     "geom:latitude":37.551359,
     "geom:longitude":-77.458752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1601 Park Ave",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -42,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":366420617,
         "sg:id":"SG_4z6T055ctukUBYf0uvRAFk_37.551359_-77.458752@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910134,
-    "wof:geomhash":"6602b9e31227d5e341f5dc0872567b68",
+    "wof:geomhash":"d509e854b1f159c4774421c761765972",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +63,17 @@
         }
     ],
     "wof:id":739586725,
-    "wof:lastmodified":1472651950,
+    "wof:lastmodified":1510943556,
     "wof:name":"Kuba Kuba",
     "wof:parent_id":85880339,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739713943
+    ],
+    "wof:supersedes":[
+        739713943
+    ],
     "wof:tags":[
         "cuban"
     ]

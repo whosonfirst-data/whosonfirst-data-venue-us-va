@@ -7,6 +7,7 @@
     "addr:postcode":"22193",
     "addr:street":"Dale Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-77.337561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4245 Dale Blvd",
     "sg:city":"Woodbridge",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910033,
-    "wof:geomhash":"c246b458dfa4df61b826d2cee5fefafe",
+    "wof:geomhash":"c7439aa6385a19bf425733de8a13e192",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":739581409,
-    "wof:lastmodified":1492033320,
+    "wof:lastmodified":1510943766,
     "wof:name":"McDonald's",
     "wof:parent_id":85868221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        723107847
+    ],
+    "wof:supersedes":[
+        723107847
+    ],
     "wof:tags":[
         "burger",
         "american"

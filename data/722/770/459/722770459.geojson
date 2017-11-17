@@ -7,13 +7,16 @@
     "addr:postcode":"23452",
     "addr:street":"Virginia Beach Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-76.090038,36.841777,-76.090038,36.841777",
     "geom:latitude":36.841777,
     "geom:longitude":-76.090038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3382 Virginia Beach Blvd",
     "sg:city":"Virginia Beach",
     "sg:classifiers":[
@@ -41,11 +44,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":402278567,
         "sg:id":"SG_2POKHuofD0LRQUOhnxt7qd_36.841777_-76.090038@1294252573"
     },
     "wof:country":"US",
     "wof:created":1461888321,
-    "wof:geomhash":"5ba13261379a31b891f45e8b60ac7bf4",
+    "wof:geomhash":"7003b39f892ffe3befc456b765bd4c75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +62,17 @@
         }
     ],
     "wof:id":722770459,
-    "wof:lastmodified":1472651778,
+    "wof:lastmodified":1510942121,
     "wof:name":"Wendys",
     "wof:parent_id":85832007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739589179
+    ],
+    "wof:supersedes":[
+        739589179
+    ],
     "wof:tags":[
         "eating"
     ]

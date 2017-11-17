@@ -7,6 +7,7 @@
     "addr:postcode":"22203",
     "addr:street":"Fairfax Dr Ste",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-77.105008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3801 Fairfax Dr Ste 44",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1461911757,
-    "wof:geomhash":"9bcbf7e9ccc0a0b46423cc10156f0011",
+    "wof:geomhash":"8a77b6efac6ab24c7d422fffcd544e74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,17 @@
         }
     ],
     "wof:id":739660901,
-    "wof:lastmodified":1491268886,
+    "wof:lastmodified":1510944058,
     "wof:name":"Metropolitan Pediatrics",
     "wof:parent_id":85876021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        722752439
+    ],
+    "wof:supersedes":[
+        722752439
+    ],
     "wof:tags":[
         "physician",
         "pediatrics-emergency",

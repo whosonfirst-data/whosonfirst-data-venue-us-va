@@ -7,13 +7,16 @@
     "addr:postcode":"22202",
     "addr:street":"S Hayes St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.060011,38.863177,-77.060011,38.863177",
     "geom:latitude":38.863177,
     "geom:longitude":-77.060011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 S Hayes St ",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910037,
-    "wof:geomhash":"f9c79f57c501a8b433da600fc3866159",
+    "wof:geomhash":"e5bbc24eee0421b3470523a1e89024e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +63,18 @@
         }
     ],
     "wof:id":739581649,
-    "wof:lastmodified":1472651926,
+    "wof:lastmodified":1510943771,
     "wof:name":"Auntie Anne's Pretzels",
     "wof:parent_id":85866029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739581593,
+        739657547
+    ],
+    "wof:supersedes":[
+        722591761
+    ],
     "wof:tags":[
         "american",
         "pastry"

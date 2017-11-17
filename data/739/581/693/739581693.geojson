@@ -7,6 +7,7 @@
     "addr:postcode":"22203",
     "addr:street":"N Glebe Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-77.10154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"40 N Glebe Rd",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":213846924,
         "sg:id":"SG_7UPfxt2HfFiMA618TUEulB_38.871203_-77.101540@1299784598"
     },
     "wof:country":"US",
     "wof:created":1461910038,
-    "wof:geomhash":"d0f0fef0d5465002b95cefd0f8685ce0",
+    "wof:geomhash":"c49ed16b7ae368dad05e7ed0fc7dd30a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":739581693,
-    "wof:lastmodified":1491269120,
+    "wof:lastmodified":1510941889,
     "wof:name":"McDonald's",
     "wof:parent_id":85808275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739659355
+    ],
+    "wof:supersedes":[
+        739659355
+    ],
     "wof:tags":[
         "burger",
         "american"

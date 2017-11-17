@@ -7,13 +7,16 @@
     "addr:postcode":"23219",
     "addr:street":"E Cary St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.437265,37.537308,-77.437265,37.537308",
     "geom:latitude":37.537308,
     "geom:longitude":-77.437265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"901 E Cary St",
     "sg:city":"Richmond",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1461910133,
-    "wof:geomhash":"9b63d5369987decd6da7cff722fe5a86",
+    "wof:geomhash":"351665bd10af6d4386dbe6b024ee3f80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,18 @@
         }
     ],
     "wof:id":739586645,
-    "wof:lastmodified":1472651947,
+    "wof:lastmodified":1510942667,
     "wof:name":"Wendy's",
     "wof:parent_id":85880285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-va",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        739447463
+    ],
+    "wof:supersedes":[
+        723009889,
+        739447463
+    ],
     "wof:tags":[
         "burger",
         "american",
